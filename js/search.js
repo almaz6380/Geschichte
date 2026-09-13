@@ -13,14 +13,14 @@ export function tokenize(s) {
   return normalize(s).split(' ').filter((t) => t.length >= 2);
 }
 
-// db: { epochs, events, persons }
+// db: { epochs, events, persons, glossary?, themes? }
 export function buildIndex(db) {
   const docs = [];
   for (const e of db.epochs) {
     docs.push({
       type: 'epoch', id: e.id, title: e.title, year: e.start,
       titleN: normalize(e.title),
-      textN: normalize([e.summary, ...(e.overview || []), ...(e.consequences || [])].join(' ')),
+      textN: normalize([e.summary, ...(e.overview || []), ...(e.consequences || []), ...(e.keyFacts || [])].join(' ')),
       tagsN: (e.tags || []).map(normalize),
       snippetSrc: [e.summary, ...(e.overview || [])].join(' '),
     });
@@ -43,6 +43,24 @@ export function buildIndex(db) {
       snippetSrc: [p.role, p.summary, p.text].join(' '),
     });
   }
+  for (const g of db.glossary || []) {
+    docs.push({
+      type: 'term', id: g.id, title: g.term, year: null, epochId: g.epochId,
+      titleN: normalize(g.term),
+      textN: normalize(g.definition),
+      tagsN: [],
+      snippetSrc: g.definition,
+    });
+  }
+  for (const t of db.themes || []) {
+    docs.push({
+      type: 'theme', id: t.id, title: t.title, year: null,
+      titleN: normalize(t.title),
+      textN: normalize([t.subtitle, t.summary, ...(t.intro || [])].join(' ')),
+      tagsN: (t.tags || []).map(normalize),
+      snippetSrc: [t.summary, ...(t.intro || [])].join(' '),
+    });
+  }
   return docs;
 }
 
@@ -63,9 +81,9 @@ function scoreDoc(doc, tokens) {
   }
   if (hits === tokens.length && tokens.length > 1) score += 3;
   if (hits < tokens.length) score = Math.floor(score / 2);
-  if (doc.type === 'epoch') score += 1;
-  // Bei Namenssuche Personen leicht bevorzugen (Titeltreffer).
-  if (doc.type === 'person' && tokens.some((t) => titleWords.includes(t))) score += 1;
+  if (doc.type === 'epoch' || doc.type === 'theme') score += 1;
+  // Bei Namens-/Begriffssuche Personen und Begriffe leicht bevorzugen (Titeltreffer).
+  if ((doc.type === 'person' || doc.type === 'term') && tokens.some((t) => titleWords.includes(t))) score += 1;
   return hits === 0 ? 0 : score;
 }
 
@@ -81,25 +99,21 @@ export function search(index, query, limit = 50) {
   return results.slice(0, limit).map((r) => ({ ...r, tokens }));
 }
 
-// Liefert ein Textstück um den ersten Treffer, Trefferworte mit <mark> markiert (Eingabe muss escaped werden).
+// Liefert ein Textstück um den ersten Treffer, Trefferworte mit <mark> markiert (esc wird auf Rohtext angewendet).
 export function makeSnippet(text, tokens, esc = (s) => s, radius = 70) {
   const plain = String(text ?? '');
-  const lower = normalize(plain);
-  // Mapping über normalisierten Text ist ungenau bei Umlauten; daher einfache Wort-Suche im Original.
   const words = plain.split(/(\s+)/);
-  let firstIdx = -1;
   const isHit = (w) => {
     const n = normalize(w);
     return n && tokens.some((t) => n.startsWith(t) || n.includes(t));
   };
+  let firstIdx = -1;
   for (let i = 0; i < words.length; i++) if (isHit(words[i])) { firstIdx = i; break; }
   if (firstIdx < 0) return esc(plain.slice(0, radius * 2)) + (plain.length > radius * 2 ? ' …' : '');
-  // Fenster in Zeichen
   const before = words.slice(0, firstIdx).join('');
   const start = Math.max(0, before.length - radius);
   const end = Math.min(plain.length, before.length + radius * 2);
   const chunk = plain.slice(start, end);
   const marked = chunk.split(/(\s+)/).map((w) => (isHit(w) ? `<mark>${esc(w)}</mark>` : esc(w))).join('');
-  void lower;
   return (start > 0 ? '… ' : '') + marked + (end < plain.length ? ' …' : '');
 }

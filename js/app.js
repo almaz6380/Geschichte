@@ -11,7 +11,13 @@ import * as timeline from './views/timeline.js';
 import * as quiz from './views/quiz.js';
 import * as search from './views/search.js';
 import * as bookmarks from './views/bookmarks.js';
+import * as themes from './views/themes.js';
+import * as glossary from './views/glossary.js';
+import * as regions from './views/regions.js';
+import * as more from './views/more.js';
 import * as notfound from './views/notfound.js';
+
+
 
 const view = document.getElementById('view');
 let cleanup = null;
@@ -26,13 +32,28 @@ addRoute('/quiz', quiz.render);
 addRoute('/quiz/:slug', quiz.render);
 addRoute('/suche', search.render);
 addRoute('/lesezeichen', bookmarks.render);
+addRoute('/themen', themes.renderList);
+addRoute('/thema/:id', themes.renderDetail);
+addRoute('/glossar', glossary.render);
+addRoute('/glossar/:id', glossary.render);
+addRoute('/regionen', regions.renderList);
+addRoute('/region/:id', regions.renderDetail);
+addRoute('/mehr', more.render);
 
-const NAV_KEY = { '': 'home', epochen: 'epochen', epoche: 'epochen', ereignis: 'epochen', person: 'epochen', zeitleiste: 'zeitleiste', quiz: 'quiz', suche: 'suche', lesezeichen: 'lesezeichen' };
+const NAV_KEY = {
+  '': 'home', epochen: 'epochen', epoche: 'epochen', ereignis: 'epochen', person: 'epochen',
+  zeitleiste: 'zeitleiste', quiz: 'quiz', suche: 'suche', lesezeichen: 'lesezeichen',
+  themen: 'themen', thema: 'themen', glossar: 'glossar', regionen: 'mehr', region: 'mehr', mehr: 'mehr',
+};
+// Auf dem Handy liegen Themen/Glossar/Suche/Lesezeichen unter "Mehr".
+const MOBILE_MORE = new Set(['themen', 'glossar', 'suche', 'lesezeichen', 'mehr']);
 
 function markNav(path) {
   const key = NAV_KEY[path[0] || ''] || '';
   document.querySelectorAll('[data-nav]').forEach((a) => {
-    if (a.dataset.nav === key) a.setAttribute('aria-current', 'page');
+    const inBottom = a.closest('.bottom-nav');
+    const active = a.dataset.nav === key || (inBottom && a.dataset.nav === 'mehr' && MOBILE_MORE.has(key));
+    if (active) a.setAttribute('aria-current', 'page');
     else a.removeAttribute('aria-current');
   });
 }

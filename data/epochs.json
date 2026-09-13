@@ -37,6 +37,53 @@
       "höhlenmalerei",
       "sesshaftigkeit",
       "evolution"
+    ],
+    "keyFacts": [
+      "Vor rund 2,6 Millionen Jahren stellen frühe Menschen in Ostafrika die ersten Steinwerkzeuge her (Oldowan).",
+      "Der Homo erectus verlässt vor etwa 1,8 Millionen Jahren als erste Menschenart Afrika und erreicht Asien und Europa.",
+      "Spätestens vor 400.000 Jahren nutzen Menschen regelmäßig Feuer; vor rund 300.000 Jahren entsteht der Homo sapiens in Afrika.",
+      "Vor etwa 75.000 Jahren entstehen in der Blombos-Höhle in Südafrika die ältesten bekannten Ornamente und Schmuckperlen.",
+      "Vor rund 50.000 Jahren erreichen Menschen Australien, vor etwa 15.000 Jahren Amerika; um 1500 v. Chr. beginnt die Besiedlung der pazifischen Inseln.",
+      "Ab etwa 9500 v. Chr. beginnt im Fruchtbaren Halbmond die Neolithische Revolution mit Ackerbau, Viehzucht und festen Dörfern wie Jericho.",
+      "Um 5000 v. Chr. beginnt die Kupferverarbeitung, um 3500 v. Chr. kommen Rad, Pflug und das domestizierte Pferd hinzu."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Über Jahrhunderttausende lebten die Menschen in kleinen Gruppen von meist 20 bis 50 Personen, in denen es keine festen Herrscher gab. Entscheidungen wurden vermutlich gemeinsam getroffen, und Ansehen beruhte auf Erfahrung, Jagdglück oder Wissen über Pflanzen und Heilmittel. Da Jäger und Sammler kaum Besitz mit sich tragen konnten, blieben Unterschiede zwischen den Menschen gering. Die Archäologie spricht deshalb von weitgehend egalitären Gesellschaften.",
+          "Mit der Sesshaftigkeit veränderte sich das. Vorräte, Felder, Herden und Häuser konnten vererbt werden, und Siedlungen wie Jericho oder Çatalhöyük brauchten Regeln für Wasser, Land und Verteidigung. In der Jungsteinzeit tauchen erstmals reich ausgestattete Gräber auf, die zeigen, dass einzelne Familien mehr Einfluss und Besitz hatten als andere. Gemeinschaftsbauten wie Steinkreise, Grabhügel oder Stadtmauern setzten voraus, dass jemand hunderte Menschen organisieren konnte.",
+          "Gegen Ende der Jungsteinzeit und in der Kupferzeit verstärkte sich diese Entwicklung. Kupferbeile, Schmuck und Waffen aus Gräbern wie dem von Warna in Bulgarien markierten Rang und Macht. Aus Dorfvorstehern und Sippenoberhäuptern wurden Häuptlinge, aus Häuptlingstümern schließlich die ersten Städte und Staaten Mesopotamiens und Ägyptens."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Der Alltag der Altsteinzeit war vom Wandern bestimmt: Die Gruppen folgten Tierherden, reifen Früchten und den Jahreszeiten und wohnten in Höhlen, unter Felsdächern oder in Zelten aus Fellen und Mammutknochen. Frauen und Männer teilten sich die Arbeit, wobei Sammeln von Pflanzen, Nüssen, Eiern und Kleintieren oft mehr Nahrung lieferte als die Großwildjagd. Kinder lernten durch Nachahmung; Alte gaben Wissen über Werkzeuge, Pfade und Geschichten weiter.",
+          "Funde von geheilten Knochenbrüchen und pflegebedürftigen Menschen belegen, dass Kranke und Verletzte versorgt wurden. Die Toten wurden bestattet, oft mit Ocker bestreut und mit Schmuck oder Werkzeugen ausgestattet, was auf Vorstellungen von einem Leben nach dem Tod hindeutet. Kleidung aus Fellen wurde mit Knochennadeln genäht; Nähnadeln sind seit rund 40.000 Jahren belegt.",
+          "In den Dörfern der Jungsteinzeit lebten die Menschen enger zusammen als je zuvor. Ackerbau bedeutete schwere, eintönige Arbeit, und Skelette zeigen mehr Abnutzung, Karies und Mangelkrankheiten als bei Jägern und Sammlern. Zugleich stieg die Zahl der Kinder, weil Getreidebrei die Stillzeit verkürzte. Krankheiten wie Masern oder Tuberkulose sprangen vom Vieh auf den Menschen über, und Vorräte weckten den Neid der Nachbarn, sodass Palisaden und Gräben um die Dörfer entstanden."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Symbolisches Denken ist älter als bisher angenommen: In der Blombos-Höhle in Südafrika ritzten Menschen vor 75.000 Jahren Muster in Ockerstücke und fertigten Perlen aus Schneckenhäusern. In Europa entstanden vor rund 40.000 Jahren die Elfenbeinfiguren der Schwäbischen Alb, darunter der Löwenmensch und die Venus vom Hohle Fels, sowie Flöten aus Vogelknochen, die ältesten bekannten Musikinstrumente.",
+          "Höhlenmalereien wie in Chauvet, Lascaux oder Altamira zeigen vor allem Tiere, selten Menschen. Die Forschung deutet sie als Teil von Jagdzauber, Initiationsriten oder Schamanismus, sicher ist das nicht. Bestattungen mit Grabbeigaben, Tierfiguren und die Kultbauten von Göbekli Tepe deuten auf Vorstellungen von Geistern, Ahnen und überirdischen Kräften hin, lange bevor die ersten Tempel gebaut wurden.",
+          "Das Wissen der Steinzeitmenschen war praktisch und umfangreich: Sie kannten Eigenschaften hunderter Pflanzen, konnten Feuerstein gezielt abschlagen, Klebstoff aus Birkenpech kochen und Sterne zur Orientierung nutzen. Megalithanlagen wie Stonehenge oder Newgrange sind auf die Sonnenwenden ausgerichtet und zeigen, dass die Menschen der Jungsteinzeit den Jahreslauf genau beobachteten. Die Erfindung der Töpferei erlaubte es, Nahrung zu kochen und zu lagern, und ihre Verzierungen verraten den Archäologen heute die Herkunft und Kontakte der Gruppen."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Technik der Altsteinzeit entwickelte sich langsam, aber stetig: von den einfachen Abschlägen des Oldowan über den zweiseitig bearbeiteten Faustkeil des Homo erectus bis zu den feinen Klingen, Speerschleudern, Harpunen und Bögen des Homo sapiens. Jede Neuerung machte Jagd und Nahrungszubereitung effizienter. Auch Handel gab es bereits: Muscheln und Obsidian wurden hunderte Kilometer weit getauscht.",
+          "Mit Ackerbau und Viehzucht entstand eine Wirtschaft, die Vorräte anlegen und Überschüsse erzeugen konnte. Getreide wurde mit Sicheln aus Feuerstein geerntet, in Speichern gelagert und mit Reibsteinen gemahlen. Schafe und Ziegen lieferten Milch, Wolle und Fleisch, Rinder zogen später den Pflug. Bewässerungskanäle in Mesopotamien machten ab etwa 6000 v. Chr. auch trockene Gebiete fruchtbar und ermöglichten größere Dörfer.",
+          "In der Kupferzeit begannen Menschen, Erze zu schmelzen und Metall in Formen zu gießen. Kupferbeile, Nadeln und Schmuck waren begehrte Tauschgüter, aber noch weich; erst die Bronze löste das Problem. Rad und Wagen, Töpferscheibe, Webstuhl und domestizierte Pferde und Esel veränderten Transport und Handwerk und leiteten den Übergang zu den Hochkulturen ein."
+        ]
+      }
     ]
   },
   {
@@ -76,6 +123,53 @@
       "pharaonen",
       "indus-kultur",
       "shang-dynastie"
+    ],
+    "keyFacts": [
+      "Um 3200 v. Chr. entsteht in Uruk die Keilschrift, um 3100 v. Chr. vereinigt ein Pharao Ober- und Unterägypten.",
+      "Um 2600 v. Chr. konkurrieren in Sumer Stadtstaaten wie Ur, Uruk, Lagasch und Kisch; ihre Könige liegen mit reichen Beigaben in den Königsgräbern von Ur.",
+      "Das Gilgamesch-Epos, ab etwa 2100 v. Chr. auf Tontafeln überliefert, ist das älteste große Literaturwerk der Menschheit.",
+      "Zwischen 2000 und 1200 v. Chr. blühen die Paläste der Minoer auf Kreta und der Mykener in Griechenland, die ersten Hochkulturen Europas.",
+      "Ab etwa 1650 v. Chr. beherrschen die Hethiter von Hattusa aus Anatolien und werden zum großen Rivalen Ägyptens.",
+      "Um 1200 v. Chr. brechen viele Reiche zusammen; danach setzen sich Eisen und das phönizische Alphabet mit 22 Buchstaben durch.",
+      "Ab etwa 900 v. Chr. entstehen neue Mächte: das Neuassyrische Reich, das Königreich Kusch in Nubien und die Chavín-Kultur in Peru."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die Könige der frühen Hochkulturen leiteten ihre Macht von den Göttern ab. In Sumer galt der Herrscher als Stellvertreter des Stadtgottes, dem der Tempel und ein großer Teil des Landes gehörten; der Pharao Ägyptens wurde selbst als Gott auf Erden verehrt, als Sohn des Sonnengottes Re und Verkörperung des Horus. Diese religiöse Begründung machte Herrschaft stabil, verpflichtete den König aber auch, Ordnung, Gerechtigkeit und Fruchtbarkeit zu sichern.",
+          "Aus den Stadtstaaten Sumers, die sich um Wasser und Grenzland bekriegten, entstanden mit Sargon von Akkad und später Hammurapi von Babylon Territorialreiche mit Statthaltern, Boten und Steuerlisten. Verwaltung beruhte auf Schrift: Schreiber erfassten Ernten, Abgaben, Arbeiter und Rationen auf tausenden Tontafeln. In Ägypten lenkte ein Wesir im Auftrag des Pharaos die Beamten der Gaue, und im Mittleren Reich entstand eine breite Schicht gebildeter Verwaltungsbeamter.",
+          "Im 2. Jahrtausend v. Chr. bildete sich ein Staatensystem aus Großmächten wie Ägypten, Hethitern, Babylon, Mitanni und Assyrien, die über Gesandte, Briefe in akkadischer Sprache, Geschenke und Heiratsbündnisse miteinander verkehrten. Die Amarna-Briefe und der Vertrag zwischen Ramses II. und Hattusili III. bezeugen diese frühe Diplomatie. Nach dem Zusammenbruch um 1200 v. Chr. errichteten die Assyrer mit Deportationen, Provinzen und einem stehenden Heer das erste Reich, das den gesamten Nahen Osten beherrschte."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Gesellschaften der Hochkulturen waren streng gegliedert. An der Spitze standen König, Priester und hohe Beamte, darunter Schreiber, Kaufleute und Handwerker, die große Mehrheit waren Bauern, die den Boden der Tempel, Paläste oder Großgrundbesitzer bearbeiteten und Abgaben leisteten. Sklaven, meist Kriegsgefangene oder Schuldner, standen ganz unten, spielten in der Wirtschaft aber eine geringere Rolle als später in Griechenland und Rom.",
+          "Frauen hatten in Ägypten vergleichsweise viele Rechte: Sie konnten Eigentum besitzen, Verträge schließen, vor Gericht klagen und Handel treiben. Einzelne Frauen wie Hatschepsut regierten sogar als Pharao, Nofretete und Fu Hao übten großen Einfluss aus, Enheduanna leitete als Hohepriesterin einen bedeutenden Tempel. In Mesopotamien regelte der Codex Hammurapi Ehe, Mitgift, Scheidung und Erbe genau; Frauen der Oberschicht konnten als Priesterinnen oder Geschäftsfrauen tätig sein, waren aber dem Vater oder Ehemann untergeordnet.",
+          "Der Alltag der Mehrheit spielte sich in Lehmziegelhäusern mit Innenhof ab. Man aß Brot, Zwiebeln, Linsen, Datteln und Fisch, trank Bier, das aus Gerste gebraut wurde, und Wein war ein Luxus. Kinder der Oberschicht lernten in Schreiberschulen jahrelang Keilschrift oder Hieroglyphen, Bauernkinder halfen auf den Feldern. Feste zu Ehren der Götter, etwa das Neujahrsfest in Babylon oder das Opet-Fest in Theben, unterbrachen das Arbeitsjahr und versammelten die ganze Stadt."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Religionen der Hochkulturen kannten viele Götter, die für Naturkräfte, Städte und Lebensbereiche zuständig waren: Enlil, Inanna und Marduk in Mesopotamien, Re, Osiris und Isis in Ägypten, der Wettergott bei den Hethitern. Tempel wie die Zikkurat von Ur oder der Karnak-Tempel waren Wohnung der Götter, Wirtschaftsbetrieb und Bildungszentrum zugleich. Die Ägypter glaubten an ein Weiterleben nach dem Tod, das Mumifizierung, Grabbeigaben und das Totengericht vor Osiris voraussetzte.",
+          "Mit der Schrift entstand Literatur. Das Gilgamesch-Epos erzählt von Freundschaft, der Angst vor dem Tod und einer großen Flut; ägyptische Texte wie die Geschichte des Sinuhe, Liebeslieder und Weisheitslehren wurden über Jahrhunderte abgeschrieben. Enheduanna, Tochter Sargons, verfasste Hymnen und ist die erste namentlich bekannte Autorin der Welt. Die Phönizier vereinfachten die Schrift um 1050 v. Chr. zu einem Alphabet aus 22 Konsonantenzeichen, das Griechen, Römer und später fast die ganze Welt übernahmen.",
+          "Die Wissenschaft der Hochkulturen entstand aus praktischen Bedürfnissen. Babylonische Priester beobachteten Sterne und Planeten, sagten Mondfinsternisse voraus und schufen die Einteilung des Kreises in 360 Grad und der Stunde in 60 Minuten. Ägyptische Ärzte beschrieben Wunden und Heilmittel in Papyri, Landvermesser berechneten nach jeder Nilflut die Felder neu, und der ägyptische Kalender mit 365 Tagen wurde zum Vorbild des heutigen."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Grundlage der Hochkulturen war eine Landwirtschaft, die dank Bewässerung und Flussschlamm hohe Überschüsse lieferte. In Mesopotamien mussten Kanäle ständig gepflegt werden, weil Versalzung die Felder bedrohte; in Ägypten regelte die Nilflut den Rhythmus von Aussaat und Ernte. Pflug, Sichel, Esel und Rind, im Mittleren Reich auch Wasserhebewerke und das Fajum-Projekt zur Landgewinnung steigerten die Erträge.",
+          "Bronze aus Kupfer und Zinn war das entscheidende Material für Waffen, Werkzeuge und Kultgefäße, doch Zinn war selten und kam aus Anatolien, Iran oder Afghanistan. Deshalb spannten sich Handelswege über tausende Kilometer: Lapislazuli aus Afghanistan, Zedernholz aus dem Libanon, Gold und Elfenbein aus Nubien, Kupfer aus Zypern. Das Schiffswrack von Uluburun vor der türkischen Küste aus der Zeit um 1300 v. Chr. transportierte Waren aus mindestens sieben Regionen.",
+          "Der Fernhandel lag in den Händen von Kaufleuten wie den Assyrern, die in Anatolien Handelskolonien betrieben, oder den Phöniziern, die mit ihren Schiffen das ganze Mittelmeer befuhren und Kolonien wie Karthago gründeten. Bezahlt wurde mit abgewogenem Silber, Getreide oder Kupfer; Münzen gab es noch nicht. Nach 1200 v. Chr. setzte sich Eisen durch, das zwar aufwendiger zu verhütten war, dessen Erz aber fast überall vorkam und Werkzeuge und Waffen für viele erschwinglich machte."
+        ]
+      }
     ]
   },
   {
@@ -114,6 +208,53 @@
       "sparta",
       "alexander",
       "hellenismus"
+    ],
+    "keyFacts": [
+      "Zwischen 750 und 550 v. Chr. gründen griechische Städte hunderte Kolonien von Spanien bis zum Schwarzen Meer.",
+      "594 v. Chr. reformiert Solon Athen und schafft die Schuldknechtschaft ab; 508 v. Chr. legt Kleisthenes das Fundament der Demokratie.",
+      "480 v. Chr. fallen Leonidas und 300 Spartaner an den Thermopylen; im selben Jahr siegen die Griechen bei Salamis.",
+      "472 v. Chr. wird mit den Persern des Aischylos die älteste erhaltene Tragödie aufgeführt; 447 v. Chr. beginnt der Bau des Parthenon.",
+      "Um 400 v. Chr. begründen Hippokrates und seine Schule auf Kos die Medizin als Wissenschaft mit natürlichen Ursachen.",
+      "331 v. Chr. gründet Alexander Alexandria; nach seinem Tod 323 v. Chr. teilen die Diadochen sein Reich in Kriegen bis 281 v. Chr. auf.",
+      "212 v. Chr. stirbt Archimedes bei der Eroberung von Syrakus durch die Römer; die Wissenschaft des Hellenismus lebt in Alexandria fort."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die griechische Polis kannte fast alle Regierungsformen, die die politische Theorie später beschrieb: Königtum, Adelsherrschaft, Tyrannis, Oligarchie und Demokratie. Im 7. und 6. Jahrhundert v. Chr. ergriffen in vielen Städten Tyrannen die Macht, oft mit Unterstützung des Volkes gegen den Adel; in Athen förderten Peisistratos und seine Söhne Feste, Bauten und Bauern, bis Hippias 510 v. Chr. vertrieben wurde. Das Wort Tyrann bekam erst später seinen negativen Klang.",
+          "Die athenische Demokratie beruhte auf der Volksversammlung, die über Krieg, Frieden, Gesetze und Finanzen entschied, dem durch das Los besetzten Rat der 500 und Geschworenengerichten mit hunderten Richtern. Fast alle Ämter wurden verlost und jährlich neu besetzt, nur die zehn Strategen wurden gewählt, weshalb Perikles über dieses Amt jahrzehntelang die Politik lenkte. Ausgeschlossen blieben Frauen, Sklaven und die zahlreichen Zugewanderten, die Metöken; Bürger waren etwa ein Zehntel der Einwohner.",
+          "Sparta dagegen wurde von zwei Königen, einem Ältestenrat und fünf jährlich gewählten Ephoren regiert; die Vollbürger lebten als Berufskrieger vom Land, das die unfreien Heloten bestellten. Nach dem Peloponnesischen Krieg wechselten Sparta, Theben und Athen als Vormacht, bis Philipp II. von Makedonien 338 v. Chr. bei Chaironeia die Griechen unterwarf. Im Hellenismus herrschten Könige wie die Ptolemäer und Seleukiden über riesige Reiche, während die Poleis nur noch begrenzte Selbstverwaltung behielten."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Das Leben einer athenischen Familie spielte sich in einem einfachen Haus mit Innenhof ab; die Männer verbrachten den Tag auf der Agora, im Gymnasion oder in der Volksversammlung, die Frauen der Bürgerschicht leiteten den Haushalt, webten und verließen das Haus vor allem für religiöse Feste. Mädchen wurden mit etwa 15 Jahren verheiratet, Jungen lernten Lesen, Schreiben, Musik und Sport. In Sparta wurden Mädchen dagegen körperlich ausgebildet, und Frauen konnten Land besitzen.",
+          "Ohne Sklaven wäre die griechische Wirtschaft nicht denkbar gewesen: Sie arbeiteten in Haushalten, Werkstätten, auf Feldern und unter grausamen Bedingungen in den Silberminen von Laurion, aus denen Athen seine Flotte finanzierte. Das Symposion, das Trinkgelage der Männer mit Gesprächen, Liedern und Spielen, war Mittelpunkt des geselligen Lebens; die Gastfreundschaft galt als heilige Pflicht. Frauen wie Sappho auf Lesbos oder die gebildete Aspasia in Athen zeigen, dass es auch Ausnahmen von der männlich geprägten Ordnung gab.",
+          "Sport und Wettkampf durchzogen die griechische Kultur. Neben Olympia gab es die Spiele in Delphi, Korinth und Nemea; Sieger wurden in ihren Heimatstädten wie Helden gefeiert und von Dichtern wie Pindar besungen. Auch Theateraufführungen, Musik und Rhetorik waren Wettbewerbe. Der Agon, der Wettstreit, prägte die Vorstellung, dass sich der Mensch durch Leistung auszeichnen soll."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Griechen verehrten Zeus, Athene, Apollon und die anderen Olympier mit Opfern, Prozessionen und Festen; jede Polis hatte ihre Schutzgottheit, und die Tempel auf der Akropolis oder in Delphi waren Prachtbauten aus Marmor. Das Orakel von Delphi befragten Städte und Könige vor Kriegen und Koloniegründungen; seine mehrdeutigen Antworten wurden sprichwörtlich. Mysterienkulte wie in Eleusis versprachen Eingeweihten ein besseres Leben nach dem Tod.",
+          "Aus den Festen des Dionysos entstand in Athen das Theater: Tragödien von Aischylos, Sophokles und Euripides verhandelten Schuld, Schicksal und Gerechtigkeit vor tausenden Zuschauern, die Komödien des Aristophanes verspotteten Politiker und Philosophen. Herodot begründete die Geschichtsschreibung, indem er nach den Ursachen der Perserkriege fragte, Thukydides machte sie zur kritischen Analyse von Macht. Die Bildhauer Phidias, Polyklet und Praxiteles schufen das Ideal des menschlichen Körpers, das Rom und die Renaissance übernahmen.",
+          "Die Naturphilosophen Ioniens suchten ab dem 6. Jahrhundert v. Chr. nach natürlichen Erklärungen der Welt statt nach Göttern. Pythagoras und Euklid schufen die beweisende Mathematik, Hippokrates die Medizin, Aristoteles die Biologie und Logik. In Alexandria berechnete Eratosthenes den Erdumfang, Aristarch vermutete, dass die Erde um die Sonne kreist, Archimedes fand Gesetze von Hebel und Auftrieb. Diese Wissenschaft wurde über Byzanz und die arabische Welt an das Mittelalter weitergegeben."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Das gebirgige, karge Griechenland ernährte seine Bewohner mit Gerste, Oliven, Wein und Ziegen nur mühsam; Landknappheit trieb viele Städte dazu, Kolonien zu gründen und Getreide aus Sizilien, Ägypten und dem Schwarzmeergebiet einzuführen. Athen exportierte dafür Olivenöl, Wein, Silber und die bemalten Vasen seiner Töpferwerkstätten, die heute in allen großen Museen stehen.",
+          "Um 600 v. Chr. übernahmen die Griechen von Lydien die Münze und verbreiteten sie über das gesamte Mittelmeer; die athenische Eule aus Silber wurde zur wichtigsten Handelswährung. Der Hafen Piräus war der größte Umschlagplatz der Ägäis mit Banken, Lagerhäusern und Werften. Die Trieren, Kriegsschiffe mit drei Ruderreihen und 170 Ruderern, sicherten den Seehandel und die Macht Athens.",
+          "Im Hellenismus wuchsen Städte wie Alexandria, Antiochia und Pergamon zu Metropolen mit hunderttausenden Einwohnern, geplanten Straßennetzen, Wasserleitungen und Bibliotheken. Ingenieure entwickelten Katapulte, Kräne, die archimedische Schraube zum Wasserheben und Vorläufer der Dampfmaschine, die aber Spielerei blieben. Der Leuchtturm von Pharos, eines der Sieben Weltwunder, wies Schiffen den Weg in den Hafen Alexandrias, über den Getreide aus dem Nildelta in die ganze Mittelmeerwelt gelangte."
+        ]
+      }
     ]
   },
   {
@@ -151,6 +292,53 @@
       "mittelmeer",
       "caesar",
       "augustus"
+    ],
+    "keyFacts": [
+      "Um 450 v. Chr. wird mit dem Zwölftafelgesetz das römische Recht erstmals schriftlich festgehalten.",
+      "73 bis 71 v. Chr. erschüttert der Sklavenaufstand des Spartacus Italien; 31 v. Chr. entscheidet die Seeschlacht bei Actium den Bürgerkrieg zugunsten Octavians.",
+      "80 n. Chr. wird das Kolosseum eröffnet; unter Trajan erreicht das Reich 117 seine größte Ausdehnung von Britannien bis Mesopotamien.",
+      "212 verleiht Kaiser Caracalla mit der Constitutio Antoniniana fast allen freien Reichsbewohnern das römische Bürgerrecht.",
+      "Von 235 bis 284 erlebt das Reich mit über 20 Kaisern, Bürgerkriegen und Inflation die Krise des 3. Jahrhunderts; Diokletian ordnet es ab 284 neu.",
+      "325 legt das Konzil von Nicäa unter Konstantin die Grundlagen des christlichen Glaubensbekenntnisses fest.",
+      "410 plündern die Westgoten unter Alarich Rom, 451 werden die Hunnen Attilas auf den Katalaunischen Feldern gestoppt, 476 endet das Weströmische Reich."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die Verfassung der Republik beruhte auf der Verteilung der Macht auf jährlich wechselnde Beamte, den Senat als Rat der ehemaligen Amtsträger und die Volksversammlungen. Die Ständekämpfe zwischen den adligen Patriziern und den Plebejern führten über zwei Jahrhunderte zum Zwölftafelgesetz, zu den Volkstribunen mit ihrem Vetorecht und schließlich zur Öffnung aller Ämter. Nach außen band Rom besiegte Städte Italiens durch abgestufte Bündnisse und Bürgerrechte an sich und konnte so auf riesige Truppenreserven zurückgreifen.",
+          "Die Eroberung des Mittelmeerraums überforderte die Institutionen einer Stadtrepublik. Statthalter bereicherten sich in den Provinzen, Feldherren wie Marius, Sulla, Pompeius und Caesar verfügten über Heere, die ihnen persönlich verpflichtet waren, und die Politik wurde von Gewalt, Bestechung und Bürgerkriegen bestimmt. Der Prinzipat des Augustus löste das Problem, indem er die Macht über Heer und Provinzen in einer Hand bündelte und zugleich Senat und republikanische Formen bewahrte.",
+          "Die Kaiserzeit kannte kein festes Erbrecht, weshalb Adoption, Heer und Prätorianergarde über die Nachfolge entschieden. Im 2. Jahrhundert brachten die Adoptivkaiser von Nerva bis Marc Aurel Stabilität, im 3. Jahrhundert riefen die Legionen Dutzende Soldatenkaiser aus. Diokletian teilte die Herrschaft in der Tetrarchie unter vier Herrschern, führte das Hofzeremoniell orientalischer Könige ein und begründete den Dominat, in dem der Kaiser als Herr und Gott auftrat. Konstantin und seine Nachfolger verbanden diese Herrschaft mit dem Christentum."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die römische Gesellschaft war streng abgestuft: Senatoren, Ritter, freie Bürger, Freigelassene und Sklaven. Die Familie stand unter der fast unbegrenzten Gewalt des Hausvaters, doch römische Frauen konnten Vermögen besitzen, sich scheiden lassen und übten wie Livia oder Agrippina am Kaiserhof erheblichen Einfluss aus. Das Klientelwesen verband reiche Patrone und ihre Klienten in einem Netz aus Schutz und Gefolgschaft.",
+          "Sklaven machten in Italien der späten Republik ein Drittel der Bevölkerung aus; sie schufteten auf Landgütern, in Bergwerken und Haushalten, waren aber auch Ärzte, Lehrer und Verwalter. Aufstände wie der des Spartacus wurden mit äußerster Härte niedergeschlagen, zugleich konnten Sklaven freigelassen werden und ihre Kinder das Bürgerrecht erhalten. 212 machte die Constitutio Antoniniana fast alle freien Reichsbewohner zu Römern.",
+          "Das Leben in der Millionenstadt Rom spielte sich in engen Mietshäusern, auf Märkten, in Thermen und bei Spielen ab. Kostenloses Getreide und Unterhaltung, Brot und Spiele, sicherten die Ruhe der Massen; im Kolosseum starben Gladiatoren und Tiere vor 50.000 Zuschauern, im Circus Maximus fieberten Hunderttausende bei Wagenrennen mit. Die Provinzstädte von Britannien bis Syrien ahmten mit Forum, Tempeln, Theater und Bädern das Vorbild Roms nach, wie Pompeji zeigt."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Römer übernahmen die griechischen Götter unter lateinischen Namen und ergänzten sie um eigene Gottheiten wie Janus und die Hausgötter. Religion war Sache des Staates: Priesterkollegien, Opfer und Vorzeichen begleiteten jede politische Handlung, und der Kaiserkult verband die Provinzen mit Rom. Daneben verbreiteten sich Mysterienkulte aus dem Osten wie die Verehrung der Isis und des Mithras, und aus Judäa kam das Christentum, das die Verfolgungen unter Nero, Decius und Diokletian überstand und im 4. Jahrhundert zur Staatsreligion aufstieg.",
+          "In Literatur und Philosophie folgten die Römer griechischen Vorbildern und schufen doch Eigenes: Vergils Aeneis als Nationalepos, die Oden des Horaz, die Geschichtswerke des Livius und Tacitus, die Satiren Juvenals. Die Stoa prägte römische Vorstellungen von Pflicht und Gelassenheit; Seneca und der Kaiser Marc Aurel hinterließen philosophische Schriften, die bis heute gelesen werden. Das Konzil von Nicäa 325 zeigte, wie Theologie zur Reichsangelegenheit wurde.",
+          "Die eigentliche Leistung Roms lag im Recht und in der Organisation. Juristen wie Gaius und Ulpian entwickelten das Zivilrecht zu einem System, das Kaiser Justinian im 6. Jahrhundert zusammenfassen ließ und das bis heute nachwirkt. Bildung beruhte auf Grammatik und Rhetorik; in Alexandria wirkten noch in der Spätantike Gelehrte wie die Mathematikerin Hypatia, deren Ermordung 415 das Ende der antiken Wissenschaft ankündigte."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Das Mittelmeer war das Mare Nostrum, unser Meer, über das Getreide aus Ägypten und Nordafrika, Öl aus Spanien, Wein aus Italien und Gallien, Marmor aus Griechenland und Luxusgüter aus Indien und China nach Rom flossen. Der Hafen von Ostia und die staatlich organisierte Getreideversorgung ernährten die Hauptstadt. Eine einheitliche Währung, sichere Seewege nach der Vernichtung der Piraten durch Pompeius und ein Rechtssystem für Verträge machten das Reich zu einem riesigen Wirtschaftsraum.",
+          "Rund 80.000 Kilometer gepflasterte Straßen verbanden die Provinzen mit Rom, gebaut von Legionären für Truppen, Boten und Händler. Aquädukte führten Wasser über Dutzende Kilometer in die Städte, Beton aus Vulkanasche erlaubte Kuppeln wie die des Pantheons und Hafenbauten unter Wasser. Wasserräder, Kräne, Fußbodenheizungen und Glasfenster gehörten zum Stand der Technik; der Hadrianswall und der Limes zeigten, wie Ingenieurskunst Grenzen sicherte.",
+          "Im 3. Jahrhundert brach dieses System teilweise zusammen: Kaiser verringerten den Silbergehalt der Münzen, um Soldaten zu bezahlen, die Preise explodierten, Handel und Städte litten unter Bürgerkriegen und Einfällen. Diokletian versuchte 301 vergeblich, Höchstpreise vorzuschreiben, und band Bauern und Handwerker an ihre Berufe. Im Westen verlagerte sich die Wirtschaft auf große Landgüter, aus deren abhängigen Kolonen später die Bauern des Mittelalters wurden."
+        ]
+      }
     ]
   },
   {
@@ -188,6 +376,53 @@
       "gupta",
       "tang",
       "japan"
+    ],
+    "keyFacts": [
+      "Um 500 v. Chr. entstehen mit Buddhismus, Konfuzianismus und Daoismus drei Lehren, die das Denken Asiens bis heute prägen.",
+      "221 v. Chr. einigt Qin Shihuangdi China; seine 1974 entdeckte Terrakotta-Armee zählt rund 8.000 Tonsoldaten.",
+      "Um 100 v. Chr. vollendet Sima Qian mit dem Shiji das erste Gesamtwerk der chinesischen Geschichtsschreibung.",
+      "224 begründet Ardaschir I. das Sassanidenreich, das Persien bis zur arabischen Eroberung 651 beherrscht.",
+      "690 bis 705 regiert Wu Zetian als einzige Frau in der Geschichte Chinas als Kaiserin aus eigenem Recht.",
+      "868 entsteht mit dem Diamant-Sutra das älteste erhaltene gedruckte Buch mit Datumsangabe.",
+      "Um 1008 vollendet die Hofdame Murasaki Shikibu in Japan das Genji-Monogatari, den ersten Roman der Weltliteratur."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die chinesischen Kaiser begründeten ihre Herrschaft mit dem Mandat des Himmels: Ein gerechter Herrscher regiert mit göttlicher Zustimmung, ein ungerechter verliert sie und darf gestürzt werden. Naturkatastrophen, Hungersnöte und Aufstände galten daher als Warnzeichen des Himmels. Dieses Denken erklärte, warum Dynastien wie Qin, Han oder Tang aufstiegen und wieder fielen, und es erlaubte jedem erfolgreichen Rebellen, sich als neuer Träger des Mandats auszugeben. Selbst Wu Zetian, die einzige Kaiserin aus eigenem Recht, ließ sich ihre Herrschaft von buddhistischen Schriften und Omen bestätigen.",
+          "Anders als die europäischen Adelsstaaten stützte sich China seit den Han auf eine Beamtenschaft, die durch Prüfungen über die konfuzianischen Klassiker ausgewählt wurde. Unter den Tang und besonders unter Wu Zetian wurde dieses System ausgebaut, sodass auch Männer aus einfacheren Familien in hohe Ämter aufsteigen konnten. Die Beamten verwalteten Steuern, Kornspeicher, Kanäle und Gerichte in den Provinzen und wurden regelmäßig versetzt, damit sie keine eigene Hausmacht aufbauten. Das Modell wurde von Korea, Japan und Vietnam übernommen.",
+          "In Persien herrschten die Sassanidenkönige als Könige der Könige über ein Vielvölkerreich, in dem der Adel, die zoroastrischen Priester und die Krieger ständisch getrennt waren. Ihr Dauerkonflikt mit Rom und Byzanz um Armenien und Mesopotamien erschöpfte beide Seiten im 7. Jahrhundert so sehr, dass die arabischen Heere leichtes Spiel hatten. In Indien blieben Großreiche wie Maurya, Gupta und Chola dagegen Ausnahmen; meist teilten sich zahlreiche Regionalkönige die Macht, wobei die Chola im Süden mit einer Flotte auch über das Meer herrschten."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die große Mehrheit der Menschen lebte auf dem Land vom Reis- und Hirseanbau. In China stand die Familie mit dem Vater an der Spitze im Mittelpunkt, und die Verehrung der Ahnen verband die Lebenden mit den Toten. Der Staat forderte von den Bauern Steuern in Getreide, Stoff und Arbeitsdienst, mit dem Mauern, Kanäle und Paläste gebaut wurden. Wer die Abgaben nicht mehr leisten konnte, floh oder schloss sich Aufständen an, die mehrfach ganze Dynastien stürzten.",
+          "In Indien ordnete das Kastensystem die Gesellschaft nach Geburt in Priester, Krieger, Bauern und Händler sowie Dienende; darunter standen die sogenannten Unberührbaren. Buddhisten und Jainas lehnten diese Rangordnung ab, und in den Klöstern lebten Menschen aller Herkunft zusammen. Frauen hatten in den Hochkulturen Asiens meist eingeschränkte Rechte, doch es gab Ausnahmen: Buddhistische Nonnen, gelehrte Hofdamen in Japan und Herrscherinnen wie Wu Zetian zeigen, dass Bildung und Macht nicht allein Männern vorbehalten waren.",
+          "Die Städte Asiens übertrafen die Europas an Größe bei weitem. Chang'an, die Hauptstadt der Tang, war schachbrettartig angelegt, von Mauern umgeben und in Viertel mit nächtlicher Ausgangssperre eingeteilt; auf den beiden großen Märkten handelten Perser, Sogder, Inder und Araber. Teehäuser, Theater und Tempelfeste prägten das Stadtleben, und mit dem Tee, der unter den Tang zum Volksgetränk wurde, entstand eine eigene Kultur des Genusses."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Neben dem Konfuzianismus entstand in China der Daoismus, der dem Laozi zugeschriebene Weg des Nichtstuns im Einklang mit der Natur. Beide Lehren ergänzten einander: Der Beamte war im Amt Konfuzianer und im Ruhestand Daoist. Der Buddhismus kam über die Seidenstraße hinzu und wurde in Klöstern, Höhlentempeln wie Longmen und Dunhuang und durch Pilger wie Xuanzang, der indische Schriften nach China holte, zur dritten großen Lehre. Von China aus verbreitete er sich nach Korea und im 6. Jahrhundert nach Japan.",
+          "Persien war die Heimat des Zoroastrismus mit seinem Kampf zwischen Gut und Böse, der Christentum, Judentum und Islam beeinflusste. Unter den Sassaniden wurde die Lehre Zarathustras Staatsreligion, zugleich lebten Juden, Christen und Manichäer im Reich, und die Akademie von Gundischapur sammelte griechisches und indisches Wissen. In Indien blühten Sanskritdichtung, Astronomie und Mathematik; Kalidasas Dramen und Aryabhatas Berechnungen gehören zu den Höhepunkten der Gupta-Zeit.",
+          "Die Geschichtsschreibung erhielt in China mit Sima Qian einen Rang, den sie nirgends sonst in der Antike hatte: Jede Dynastie ließ die Geschichte ihrer Vorgängerin schreiben, und die Archive des Hofes reichen bis in die Han-Zeit zurück. Die Erfindung des Holztafeldrucks im 7. oder 8. Jahrhundert machte buddhistische Sutren, Kalender und später die konfuzianischen Klassiker in großer Zahl verfügbar. In Japan schufen Hofdamen wie Murasaki Shikibu und Sei Shonagon mit Roman und Tagebuch neue literarische Formen in japanischer Silbenschrift."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Seidenstraße war kein einzelner Weg, sondern ein Netz aus Karawanenrouten und Seewegen, das China, Indien, Persien und das Mittelmeer verband. Seide, Lack, Porzellan und Papier wanderten nach Westen, Glas, Pferde, Gewürze, Edelsteine und Silber nach Osten; Zwischenhändler wie die Sogder in Samarkand und das Kushan-Reich in Zentralasien wurden reich. Mit den Waren reisten Religionen, Krankheiten und Erfindungen, und die Häfen Südindiens und Südostasiens verbanden das Netz mit dem Seehandel über den Indischen Ozean.",
+          "China war über Jahrhunderte die technisch führende Region der Welt. Eisenguss, Schubkarre, Steigbügel, Seismograph, Papier, Kompass und Holztafeldruck entstanden hier lange vor Europa. Unter der Song-Dynastie kamen Schießpulverwaffen, Papiergeld, bewegliche Lettern und riesige Hochöfen hinzu, und Kaifeng wurde zur Millionenstadt mit Handelsgesellschaften und Wechselstuben. Die Chinesen bauten Kanäle wie den Kaiserkanal, der Nord- und Südchina verband und die Reisversorgung der Hauptstädte sicherte.",
+          "Indien exportierte Baumwollstoffe, Pfeffer und Edelsteine und erhielt dafür römisches Gold, wie tausende Münzfunde im Süden belegen. Die Stahlerzeugung in Südindien lieferte den berühmten Wootz-Stahl, aus dem später Damaszenerklingen geschmiedet wurden. Persien beherrschte den Handel zwischen Ost und West, prägte Silbermünzen, die bis nach China und Skandinavien gelangten, und entwickelte mit unterirdischen Kanälen, den Qanaten, eine Bewässerungstechnik, die bis heute genutzt wird."
+        ]
+      }
     ]
   },
   {
@@ -227,6 +462,53 @@
       "karl der große",
       "mongolen",
       "kathedralen"
+    ],
+    "keyFacts": [
+      "529 gründet Benedikt von Nursia das Kloster Montecassino; seine Regel prägt das abendländische Mönchtum.",
+      "537 weiht Kaiser Justinian die Hagia Sophia in Konstantinopel, das größte Gotteshaus der Christenheit für fast tausend Jahre.",
+      "843 teilt der Vertrag von Verdun das Frankenreich; aus West- und Ostfranken entstehen Frankreich und Deutschland.",
+      "1077 bittet König Heinrich IV. in Canossa den Papst um Vergebung: Höhepunkt des Investiturstreits zwischen Kaiser und Papst.",
+      "1088 entsteht in Bologna die erste Universität Europas, um 1140 mit Saint-Denis die erste gotische Kirche.",
+      "Um 1200 bis 1450 blüht Großsimbabwe im südlichen Afrika, ab 1438 baut Pachacútec das Inka-Reich in den Anden auf.",
+      "1356 treten die Hansestädte zum ersten Hansetag in Lübeck zusammen; 1381 erhebt sich in England der große Bauernaufstand."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Mittelalterliche Könige herrschten nicht von einer Hauptstadt aus, sondern reisten mit ihrem Hof von Pfalz zu Pfalz und von Kloster zu Kloster, um ihre Anwesenheit im Land zu zeigen. Ihre Macht beruhte auf dem Lehnswesen: Der König verlieh Land und Ämter an Herzöge, Grafen und Bischöfe, die ihm dafür Treue, Rat und Kriegsdienst schuldeten und ihrerseits Land an Ritter weitergaben. Im Osten des Frankenreichs wählten die Herzöge seit 911 den König, und mit Otto I. entstand ein Kaisertum, das sich als Nachfolger Roms und Karls des Großen verstand und die Bischöfe als Stütze der Herrschaft einsetzte.",
+          "Der Streit darüber, wer Bischöfe einsetzen darf, führte im 11. Jahrhundert zum Investiturstreit zwischen Kaiser und Papst, der mit Heinrichs IV. Bußgang nach Canossa 1077 und dem Wormser Konkordat 1122 nur zum Teil beigelegt wurde. Die Päpste beanspruchten fortan die Oberhoheit über alle Herrscher, riefen zu Kreuzzügen auf und führten mit den Staufern wie Friedrich II. einen jahrzehntelangen Kampf um Italien. Im Heiligen Römischen Reich gewannen die Fürsten dadurch an Eigenständigkeit, während in Frankreich und England die Könige ihre Macht zentralisierten.",
+          "Außerhalb Europas gingen Reiche andere Wege: Das byzantinische Kaisertum verband unter Justinian römisches Recht, griechische Sprache und orthodoxen Glauben; die Kiewer Rus übernahm 988 mit der Taufe Wladimirs Christentum und Schrift aus Byzanz. In den Anden schufen die Inka unter Pachacútec einen Staat, der ohne Schrift und Räder mit Straßen, Vorratshäusern und Knotenschnüren Millionen Menschen verwaltete. In Afrika kontrollierten Herrscher wie die von Großsimbabwe und Mali den Handel mit Gold und Elfenbein und bauten daraus ihre Macht auf."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Etwa neun von zehn Menschen lebten als Bauern, viele davon als Hörige, die an den Grundherrn Abgaben zahlten und Frondienste leisteten. Das Leben im Dorf richtete sich nach dem Kirchenjahr und den Jahreszeiten; die Dreifelderwirtschaft, der schwere Räderpflug und das Kummet für Zugpferde steigerten ab dem 11. Jahrhundert die Erträge. Missernten führten dennoch immer wieder zu Hungersnöten, und die Lebenserwartung lag weit unter der heutigen. Nach dem Schwarzen Tod wurden Arbeitskräfte knapp, und Bauern forderten wie 1381 in England Freiheit und bessere Bedingungen.",
+          "In den Städten entstand eine neue Gesellschaft aus Kaufleuten, Handwerkern und Tagelöhnern, die nach dem Grundsatz Stadtluft macht frei nach einem Jahr der Hörigkeit entkamen. Zünfte regelten Ausbildung, Preise und Qualität der Handwerke, und der Rat der Stadt, meist von reichen Kaufmannsfamilien beherrscht, verhandelte mit Königen und Fürsten. Frauen führten Werkstätten und Läden, arbeiteten in Textil- und Brauereigewerbe und traten in Städten wie Köln sogar als eigene Zünfte auf. Juden lebten in eigenen Vierteln, waren vom Handwerk ausgeschlossen und immer wieder Verfolgungen ausgesetzt.",
+          "Der Adel lebte auf Burgen und definierte sich über Waffen, Jagd und Turnier; das Ideal des Ritters verband Tapferkeit mit Frömmigkeit und höfischer Sitte. An Höfen wie dem Eleonores von Aquitanien besangen Troubadoure und Minnesänger die Liebe und schufen eine Dichtung in den Volkssprachen. Klöster nahmen Söhne und Töchter des Adels auf, versorgten Kranke und Arme und boten Frauen wie Hildegard von Bingen einen Raum für Bildung und Einfluss."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Kirche durchdrang alle Lebensbereiche: Taufe, Ehe und Begräbnis, Feiertage, Fasten und der Zehnte bestimmten das Jahr, und die Angst vor Hölle und Fegefeuer prägte das Denken. Die Regel Benedikts machte Klöster zu Orten des Gebets, der Arbeit und der Bildung, deren Schreibstuben antike Texte kopierten. Im 13. Jahrhundert traten Franziskaner und Dominikaner in die Städte und predigten Armut, während Pilger nach Santiago, Rom und Jerusalem zogen und Reliquien verehrt wurden. Byzanz und Kiew folgten dem orthodoxen Glauben, der sich 1054 endgültig von Rom trennte.",
+          "Mit den Universitäten von Bologna, Paris und Oxford entstand ab dem 11. Jahrhundert ein neuer Typ von Bildungsstätte, in dem Recht, Theologie, Medizin und die sieben freien Künste gelehrt wurden. Die Scholastik versuchte, den Glauben mit der Vernunft zu begründen; Thomas von Aquin verband dazu die über arabische Übersetzungen wiederentdeckte Philosophie des Aristoteles mit der christlichen Lehre. Zugleich blühte die Dichtung in den Volkssprachen, vom Nibelungenlied über Wolfram von Eschenbachs Parzival bis zu Dantes Göttlicher Komödie.",
+          "Die Baukunst spiegelte diesen Aufbruch: Auf die wuchtigen romanischen Kirchen mit dicken Mauern folgten ab 1140 die gotischen Kathedralen, deren Spitzbögen, Strebepfeiler und farbige Glasfenster das Licht als Abbild Gottes in den Raum ließen. Musik wurde erstmals in Noten aufgezeichnet, und in Paris entwickelte sich die Mehrstimmigkeit. Außerhalb Europas schufen die Baumeister von Großsimbabwe meterhohe Mauern ohne Mörtel, und die Inka fügten in Cusco und Machu Picchu Steine so genau, dass keine Messerklinge dazwischen passt."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Vom 11. bis 13. Jahrhundert verdoppelte sich die Bevölkerung Europas; Wälder wurden gerodet, Sümpfe trockengelegt und Siedler bis nach Osteuropa geworben. Wassermühlen und Windmühlen ersetzten Handarbeit beim Mahlen, Walken und Sägen, und im Bergbau des Harzes und Erzgebirges wurde Silber gefördert, das die Münzprägung wieder in Gang brachte. Messen in der Champagne und später in Frankfurt und Genf verbanden die Kaufleute Italiens mit denen Flanderns und Deutschlands.",
+          "Der Fernhandel organisierte sich in Bünden: Die Hanse verband um 1356 rund 200 Städte von London bis Nowgorod und handelte mit Tuch, Pelzen, Wachs, Hering und Salz auf ihren bauchigen Koggen. Italienische Städte wie Venedig und Genua beherrschten den Mittelmeerhandel mit Gewürzen und Seide aus dem Osten und entwickelten Wechsel, doppelte Buchführung und Banken; die Kirche verbot zwar Zinsen, doch die Kaufleute fanden Wege, dieses Verbot zu umgehen. In Afrika verbanden Karawanen durch die Sahara und Häfen der Swahili-Küste Goldfelder und Elfenbeinquellen mit Kairo, Indien und China.",
+          "Technische Neuerungen veränderten Alltag und Krieg: Die mechanische Räderuhr, um 1300 erfunden, teilte den Tag erstmals in gleich lange Stunden und schlug von den Türmen der Städte. Die aus China über die Araber kommende Papierherstellung, die Brille, der Steigbügel und die Armbrust verbreiteten sich, und um 1320 tauchten die ersten Kanonen in Europa auf. In den Anden bauten die Inka ohne Eisen und Rad Terrassenfelder, Hängebrücken und ein Straßennetz von über 30.000 Kilometern, auf dem Läufer Nachrichten und Vorräte beförderten."
+        ]
+      }
     ]
   },
   {
@@ -305,6 +587,53 @@
       "kolonialismus",
       "luther",
       "kolumbus"
+    ],
+    "keyFacts": [
+      "Um 1450 erfindet Johannes Gutenberg in Mainz den Buchdruck mit beweglichen Lettern; bis 1500 sind in Europa rund 30.000 Titel gedruckt.",
+      "1492 erreicht Kolumbus die Karibik, 1494 teilen Spanien und Portugal im Vertrag von Tordesillas die außereuropäische Welt unter sich auf.",
+      "1517 löst Luther mit den 95 Thesen die Reformation aus, 1521 weigert er sich in Worms zu widerrufen, 1555 erkennt der Augsburger Religionsfrieden zwei Konfessionen im Reich an.",
+      "1543 erscheinen im selben Jahr das heliozentrische Weltbild des Kopernikus und die Anatomie des Vesalius, zwei Grundsteine der modernen Naturwissenschaft.",
+      "Das Osmanische Reich unter Süleyman, das Mogulreich unter Akbar und das Songhai-Reich in Westafrika gehören zu den mächtigsten Staaten der Zeit.",
+      "1588 scheitert die spanische Armada vor England; 1582 führt Papst Gregor XIII. den bis heute gültigen Kalender ein.",
+      "Zwischen 1500 und 1600 verschleppen europäische Händler bereits Hunderttausende Afrikaner als Sklaven nach Amerika."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die italienischen Stadtstaaten waren das politische Laboratorium der Renaissance. In Florenz regierte die Bankiersfamilie Medici seit 1434 ohne Krone und Titel, indem sie Ämter, Wahlen und Klientel geschickt lenkte. Venedig blieb eine Adelsrepublik mit gewähltem Dogen, Mailand wurde von Herzögen beherrscht, und der Papst war zugleich Fürst des Kirchenstaats. Niccolò Machiavelli beschrieb 1513 in Der Fürst nüchtern, wie Macht gewonnen und behauptet wird, und begründete damit das moderne politische Denken.",
+          "Nördlich der Alpen wuchsen große Monarchien zusammen. Isabella von Kastilien und Ferdinand von Aragón vereinigten Spanien und vollendeten 1492 mit der Eroberung Granadas die Reconquista. Ihr Enkel Karl V. vereinte ab 1519 Spanien, die Niederlande, Neapel, Österreich und die Kaiserkrone und regierte ein Reich, in dem die Sonne nicht unterging. Frankreich und England festigten ihre Königsmacht; Heinrich VIII. löste 1534 die englische Kirche von Rom und machte sich selbst zu ihrem Oberhaupt.",
+          "Die Reformation wurde zur Machtfrage. Landesfürsten wie Kursachsen und Hessen nutzten die neue Lehre, um Kirchengut und Kirchenhoheit zu übernehmen, und schlossen sich 1531 im Schmalkaldischen Bund zusammen. Nach Krieg und Verhandlung legte der Augsburger Religionsfrieden 1555 fest, dass jeder Landesherr die Konfession seines Gebiets bestimmt. In Frankreich mündete der Streit dagegen in acht Religionskriege, deren Höhepunkt die Bartholomäusnacht von 1572 war."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Europa war um 1500 eine Gesellschaft von Bauern. Rund neun von zehn Menschen lebten auf dem Land, zahlten Abgaben an Grundherren und Kirche und waren vielerorts leibeigen. Die Bevölkerung wuchs nach den Pestjahren wieder, Getreidepreise stiegen, und die Zwölf Artikel der Bauern von 1525 zeigen, wie stark sich die Landbevölkerung durch neue Lasten bedroht fühlte. Zugleich brachten Kartoffel, Mais, Tomate und Truthahn aus Amerika langfristig neue Nahrungsmittel nach Europa.",
+          "In den Städten bestimmten Zünfte, Räte und Patrizierfamilien das Leben. Handwerker, Kaufleute und Gelehrte bildeten ein selbstbewusstes Bürgertum, das Bücher kaufte, Schulen stiftete und Bildnisse von sich malen ließ. Frauen führten Haushalte und Werkstätten mit, wurden aber aus Universitäten und den meisten Zünften ausgeschlossen; Ausnahmen wie die Malerin Sofonisba Anguissola oder die Reformationsschriftstellerin Argula von Grumbach blieben selten. Die Hexenverfolgungen, die Ende des 16. Jahrhunderts zunahmen, trafen überwiegend Frauen.",
+          "Für die Menschen Amerikas und Afrikas bedeutete das Zeitalter der Entdeckungen Katastrophe. Pocken, Masern und Grippe, gegen die die indigene Bevölkerung keine Abwehr besaß, töteten innerhalb eines Jahrhunderts den größten Teil der Bewohner Mittel- und Südamerikas. Das spanische System der Encomienda zwang Überlebende zur Arbeit in Bergwerken und auf Plantagen. Der Dominikaner Bartolomé de Las Casas prangerte die Gräuel an und erreichte 1542 Schutzgesetze, die jedoch kaum durchgesetzt wurden."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Der Humanismus war die Bildungsbewegung der Zeit. Gelehrte wie Erasmus von Rotterdam suchten in griechischen und lateinischen Handschriften den unverfälschten Text der Antike und der Bibel, verspotteten scholastische Haarspalterei und forderten eine gebildete, friedfertige Christenheit. Griechisch und Hebräisch wurden an Universitäten gelehrt, und Erasmus' griechisches Neues Testament von 1516 wurde zur Grundlage für Luthers Übersetzung. Der Buchdruck verwandelte diese Gelehrtenkultur in eine öffentliche Debatte mit Flugschriften, Spottbildern und Liedern.",
+          "In der Kunst suchten Maler und Bildhauer nach den Gesetzen der Natur. Brunelleschi entdeckte die Zentralperspektive, Leonardo studierte Muskeln und Sehnen an Leichen, Michelangelo malte zwischen 1508 und 1512 die Decke der Sixtinischen Kapelle. Nördlich der Alpen schufen Albrecht Dürer, Hans Holbein und Pieter Bruegel Werke, die Landschaft, Alltag und Porträt neu erfassten. Gegen Ende des Jahrhunderts blühte in London das Theater, und William Shakespeare schrieb Stücke, die bis heute weltweit gespielt werden.",
+          "Die Naturforschung begann, Autoritäten durch Beobachtung zu ersetzen. Andreas Vesalius korrigierte 1543 die seit Galen überlieferte Anatomie durch eigene Sektionen, Kopernikus stellte im selben Jahr die Erde in Bewegung, und Tycho Brahe vermaß den Himmel mit bisher unerreichter Genauigkeit. Die Kalenderreform von 1582 zeigte, wie Astronomie und Kirche zusammenarbeiten konnten. Zugleich verteidigte die Kirche ihre Lehre mit Index, Inquisition und dem neuen Jesuitenorden, der Schulen in ganz Europa und in den Missionsgebieten gründete."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Handelshäuser und Banken prägten die Wirtschaft. Die Medici in Florenz und die Fugger in Augsburg finanzierten Päpste und Kaiser; Jakob Fugger bezahlte 1519 die Wahl Karls V. und kontrollierte den Kupfer- und Silberbergbau in Tirol und Ungarn. Wechsel, doppelte Buchführung und Filialnetze machten Geldgeschäfte über weite Entfernungen möglich. Antwerpen löste Brügge und Venedig als wichtigsten Handelsplatz Nordwesteuropas ab.",
+          "Die Entdeckungsfahrten beruhten auf neuer Technik. Die Karavelle mit ihren dreieckigen Segeln konnte gegen den Wind kreuzen, Kompass, Astrolabium und Jakobsstab erlaubten die Ortsbestimmung auf hoher See, und portugiesische Seefahrtsschulen sammelten Karten und Erfahrungen. Schwere Schiffsgeschütze gaben europäischen Flotten im Indischen Ozean die Überlegenheit. Gewürze, Seide und Porzellan aus Asien sowie Zucker aus den neuen Plantagen der Atlantikinseln und Brasiliens wurden zu den Gütern des Welthandels.",
+          "Aus Amerika floss Silber nach Europa. Nach der Entdeckung der Minen von Potosí 1545 und Zacatecas 1546 kamen jährlich Hunderte Tonnen Silber nach Sevilla und weiter nach Genua, Antwerpen und über Manila bis nach China. Die Preise in Europa stiegen im 16. Jahrhundert stark an, was Historiker als Preisrevolution bezeichnen. Gefördert wurde das Silber von indigenen Zwangsarbeitern und afrikanischen Sklaven, deren Leiden die Kehrseite des europäischen Reichtums war."
+        ]
+      }
     ]
   },
   {
@@ -342,6 +671,53 @@
       "dreißigjähriger krieg",
       "vernunft",
       "sonnenkönig"
+    ],
+    "keyFacts": [
+      "1618 bis 1648 verwüstet der Dreißigjährige Krieg Mitteleuropa; der Westfälische Frieden begründet das System souveräner Staaten.",
+      "1633 muss Galilei vor der Inquisition dem heliozentrischen Weltbild abschwören, 1687 beschreibt Newton die Gravitation mathematisch.",
+      "1649 lässt das englische Parlament König Karl I. hinrichten, 1689 sichert die Bill of Rights die Rechte des Parlaments dauerhaft.",
+      "1683 scheitert die zweite osmanische Belagerung Wiens; Österreich steigt zur Großmacht in Südosteuropa auf.",
+      "Ludwig XIV. regiert Frankreich 72 Jahre lang, macht Versailles zum Vorbild Europas und vertreibt 1685 die Hugenotten.",
+      "1748 fordert Montesquieu die Gewaltenteilung, 1762 entwirft Rousseau den Gesellschaftsvertrag, 1784 definiert Kant die Aufklärung.",
+      "Japan schließt sich ab 1639 fast vollständig von der Außenwelt ab, während James Cook zwischen 1768 und 1779 den Pazifik kartiert."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Der absolutistische Staat ruhte auf drei Säulen: einem stehenden Heer, das der König auch im Frieden unterhielt, einer bezahlten Beamtenschaft, die den Adel aus der Verwaltung verdrängte, und einer gelenkten Wirtschaft, die Geld für beides beschaffte. In Frankreich setzten Richelieu und Mazarin diese Ordnung gegen den Widerstand des Adels durch, den Ludwig XIV. nach dem Aufstand der Fronde endgültig an den Hof band. Der König galt als von Gott eingesetzt, und Bischof Bossuet lehrte, dass niemand ihm Rechenschaft abverlangen dürfe. In der Praxis blieben Provinzstände, Parlamente und Privilegien bestehen, und die königliche Macht war nie so uneingeschränkt, wie die Theorie behauptete.",
+          "England ging einen anderen Weg. Der Streit zwischen König und Parlament um Steuern und Religion mündete 1642 in den Bürgerkrieg, der mit der Hinrichtung Karls I. und der Republik unter Oliver Cromwell endete. Nach der Rückkehr der Monarchie 1660 und der Glorious Revolution 1688 war klar, dass der König nur mit dem Parlament regieren konnte. John Locke lieferte die Begründung: Regierungen bestehen zum Schutz von Leben, Freiheit und Eigentum und dürfen abgesetzt werden, wenn sie diese Aufgabe verletzen.",
+          "Im 18. Jahrhundert wurde das europäische Mächtesystem von fünf Großmächten bestimmt: Frankreich, Großbritannien, Österreich, Preußen und Russland. Kriege wie der Spanische Erbfolgekrieg, der Österreichische Erbfolgekrieg und der Siebenjährige Krieg drehten sich um Gleichgewicht, Erbansprüche und Kolonien. Herrscher wie Friedrich II., Maria Theresia, Joseph II. und Katharina II. nannten sich aufgeklärt, reformierten Schulen, Justiz und Verwaltung, teilten aber 1772 gemeinsam Polen auf und hielten an ihrer unbeschränkten Macht fest."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Gesellschaft war in Stände gegliedert: Klerus und Adel genossen Steuerfreiheit und Ehrenvorrechte, der Dritte Stand, also Bauern, Handwerker, Kaufleute und Gelehrte, trug die Lasten. Der Dreißigjährige Krieg hatte Deutschland entvölkert, und erst um 1700 war der Stand von 1618 wieder erreicht. Hungerkrisen, Kindersterblichkeit und Seuchen bestimmten den Alltag; die Pest wütete 1665 in London und 1720 in Marseille. Die Hexenverfolgungen, die zwischen 1560 und 1630 ihren Höhepunkt erreichten, forderten in Europa Zehntausende Opfer, überwiegend Frauen.",
+          "Zugleich entstand eine neue Öffentlichkeit. In Kaffeehäusern, Lesegesellschaften, Salons und Freimaurerlogen diskutierten Bürger und Adlige über Politik, Wissenschaft und Literatur. Zeitungen und Zeitschriften wie der englische Spectator erreichten ein wachsendes Publikum, und die Zahl der Lesekundigen stieg. Frauen wie die Marquise du Deffand oder Madame Geoffrin führten in Paris Salons, in denen sich die Aufklärer trafen, und Gelehrte wie Émilie du Châtelet oder die Astronomin Maria Winkelmann forschten trotz aller Hindernisse.",
+          "Am Hof beherrschte das Zeremoniell jeden Schritt. Das Aufstehen und Ankleiden des Königs war in Versailles ein öffentlicher Akt, bei dem die Reihenfolge der Anwesenden ihren Rang zeigte. Perücken, Reifröcke, Schokolade und Kaffee verbreiteten sich vom Hof in die Städte. Für die Mehrheit der Menschen auf dem Land jedoch änderte sich wenig; in Osteuropa verschärfte sich die Leibeigenschaft sogar, und in Russland konnten Gutsbesitzer ihre Bauern verkaufen wie Vieh."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die naturwissenschaftliche Revolution veränderte das Verhältnis des Menschen zur Welt. Galilei richtete 1609 das Fernrohr auf den Himmel, Kepler fand die Gesetze der Planetenbahnen, William Harvey entdeckte den Blutkreislauf, und Newton fasste Himmel und Erde in einem Gesetz zusammen. Akademien wie die Royal Society in London und die Académie des sciences in Paris organisierten den Austausch von Beobachtungen, Experimenten und Kritik. Mikroskop, Teleskop, Luftpumpe und Pendeluhr erweiterten die Sinne und machten Messung zur Grundlage von Wissen.",
+          "Die Aufklärung übertrug dieses Vertrauen in die Vernunft auf Gesellschaft, Recht und Religion. Pierre Bayle und Voltaire verlangten Toleranz, Montesquieu untersuchte die Gesetze und Verfassungen der Völker, Rousseau fragte nach einer gerechten Ordnung, Beccaria forderte die Abschaffung von Folter und Todesstrafe. Der Deismus sah in Gott einen Uhrmacher, der die Welt geschaffen habe und nicht mehr eingreife; andere blieben fromm, aber verlangten eine vernünftige Religion ohne Aberglauben. In Deutschland verbanden Lessing, Mendelssohn und Kant Aufklärung mit religiöser Toleranz und Ethik.",
+          "Kunst und Musik erlebten mit Barock und Rokoko eine Blütezeit. Prunkvolle Schlösser, Kirchen und Gärten wie in Versailles, Würzburg oder Schönbrunn sollten die Macht von Fürsten und Kirche vor Augen führen. Johann Sebastian Bach, Georg Friedrich Händel und später Haydn und Mozart schufen Werke, die zum Kern der europäischen Musik gehören. Das Erdbeben von Lissabon 1755 erschütterte den Glauben an eine beste aller Welten und löste eine Debatte über Gott, Natur und das Böse aus, die Voltaire in seinem Candide verarbeitete."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Der Merkantilismus war die Wirtschaftslehre des Absolutismus. Nach den Vorstellungen von Colbert sollte ein Staat mehr ausführen als einführen, um Gold und Silber im Land zu halten. Manufakturen für Luxuswaren wie Gobelins, Spiegel und Porzellan wurden gegründet, Zölle schützten die eigene Produktion, Kolonien lieferten Rohstoffe und kauften Fertigwaren. In Preußen und Österreich hieß die Lehre Kameralismus und diente vor allem dazu, die Kassen des Fürsten für Heer und Verwaltung zu füllen.",
+          "Die Niederlande und England entwickelten eine andere Form des Wirtschaftens. Handelsgesellschaften wie die niederländische und die englische Ostindien-Kompanie waren Aktiengesellschaften mit eigenen Flotten, Festungen und Soldaten; die Amsterdamer Börse und die Bank von England, gegründet 1694, wurden zu Zentren des Kapitals. Der Dreieckshandel zwischen Europa, Afrika und Amerika mit Waren, Sklaven und Plantagenprodukten wie Zucker, Tabak und Kaffee brachte enorme Gewinne. Adam Smith kritisierte 1776 den Merkantilismus und forderte freien Handel als Quelle des Wohlstands.",
+          "In der Landwirtschaft begann in England die Agrarrevolution mit neuen Fruchtfolgen, Kleeanbau, Viehzucht und der Einzäunung von Gemeindeland. Die Kartoffel setzte sich in Preußen und anderen Ländern gegen Widerstände durch und verringerte die Hungersnöte. In Bergwerken pumpten seit 1712 Dampfmaschinen nach Newcomen das Wasser ab, und die Verbesserung durch James Watt ab 1769 sowie mechanische Spinnmaschinen kündigten die Industrialisierung an. Kanäle, Chausseen und Postkutschen beschleunigten den Verkehr innerhalb Europas."
+        ]
+      }
     ]
   },
   {
@@ -416,6 +792,53 @@
       "nationalstaat",
       "kolonialismus",
       "imperialismus"
+    ],
+    "keyFacts": [
+      "Ab etwa 1780 entsteht in England mit Dampfmaschine, mechanischem Webstuhl und Fabrik eine völlig neue Form des Wirtschaftens.",
+      "1833 schafft das Britische Empire die Sklaverei ab, 1861 hebt Russland die Leibeigenschaft auf, 1865 endet die Sklaverei in den USA.",
+      "1859 erschüttert Charles Darwins Entstehung der Arten das Weltbild vieler Menschen.",
+      "1863 wird in Genf das Rote Kreuz gegründet, 1864 folgt die erste Genfer Konvention.",
+      "1883 bis 1889 führt Bismarck die ersten staatlichen Sozialversicherungen der Welt ein.",
+      "1893 erhalten in Neuseeland als erstem Land der Welt Frauen das Wahlrecht auf nationaler Ebene.",
+      "Um 1900 beherrschen die europäischen Mächte, die USA und Japan fast die gesamte Erde als Kolonien oder Einflusszonen."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Das 19. Jahrhundert war das Zeitalter der Verfassungen und Parlamente, aber nicht der Demokratie im heutigen Sinn. In Großbritannien erweiterten die Wahlrechtsreformen von 1832, 1867 und 1884 den Kreis der Wähler schrittweise, in Preußen bestimmte bis 1918 das Dreiklassenwahlrecht nach Steuerleistung über das Gewicht einer Stimme. Frauen blieben fast überall ausgeschlossen; erst Neuseeland gewährte ihnen 1893 das Wahlrecht, gefolgt von Australien 1902 und Finnland 1906. Monarchen wie Wilhelm I., Franz Joseph oder Zar Alexander II. regierten mit Ministern und Beamten, die zunehmend nach Leistung und nicht nach Herkunft ausgewählt wurden.",
+          "Der Nationalstaat wurde zur beherrschenden politischen Idee. Italien einte sich zwischen 1859 und 1870 unter Cavour und Garibaldi, Deutschland 1871 unter preußischer Führung. In den Vielvölkerreichen der Habsburger, Osmanen und Romanows forderten Tschechen, Ungarn, Polen, Serben und andere Völker eigene Rechte oder eigene Staaten. Nationalismus verband sich mit Schulpflicht, Wehrpflicht, Denkmälern und Nationalfeiertagen zu einer Massenbewegung, die Loyalität gegenüber dem Staat über alle anderen Bindungen stellte.",
+          "Nach außen betrieben die Großmächte Imperialismus. Großbritannien herrschte über ein Viertel der Erde, Frankreich baute ein Reich in Nordafrika und Indochina auf, Russland dehnte sich nach Zentralasien aus, und die USA nahmen 1898 die Philippinen und Puerto Rico von Spanien. Der Sieg Japans über Russland 1905 zeigte erstmals, dass eine asiatische Macht eine europäische Großmacht schlagen konnte. Bündnisse wie der Zweibund von 1879 und die Entente cordiale von 1904 teilten Europa in zwei Lager, die 1914 aufeinanderprallten."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Bevölkerung Europas verdoppelte sich im 19. Jahrhundert, und Millionen Menschen zogen vom Land in die Städte. Berlin wuchs von 170.000 Einwohnern im Jahr 1800 auf über zwei Millionen im Jahr 1910. In den Arbeitervierteln teilten sich Familien mit Untermietern und Schlafgängern ein oder zwei Zimmer, Wasser kam vom Hof, Abwasser floss in offene Rinnen. Die Cholera, die 1831 aus Indien nach Europa gelangte, tötete in solchen Vierteln Zehntausende, bis Kanalisation, Wasserwerke und die Entdeckungen von Robert Koch und Louis Pasteur die Seuchen zurückdrängten.",
+          "Die Arbeitswelt bestimmte das Leben. Ein Fabrikarbeiter arbeitete um 1850 zwölf bis vierzehn Stunden an sechs Tagen, Kinder ab acht oder neun Jahren standen an den Spinnmaschinen, weil sie klein genug waren, um unter die Maschinen zu kriechen. Erste Gesetze wie das preußische Regulativ von 1839 oder der britische Factory Act von 1833 beschränkten die Kinderarbeit, wurden aber kaum kontrolliert. Aus Hungerkrisen wie der irischen von 1845 und dem schlesischen Weberaufstand von 1844 lernten die Zeitgenossen, dass Not politisch werden konnte.",
+          "Gegen Ende des Jahrhunderts verbesserten sich die Lebensbedingungen spürbar. Löhne stiegen, die Arbeitszeit sank auf zehn Stunden, Gewerkschaften und Sozialversicherungen boten Schutz bei Krankheit und Alter. Warenhäuser, Sportvereine, Fahrräder, Kinos und die Sommerfrische an der See gehörten zu einer neuen Freizeitkultur. Millionen Europäer, vor allem aus Irland, Italien, Deutschland und Osteuropa, wanderten nach Amerika aus; allein zwischen 1880 und 1914 verließen über 20 Millionen Menschen den Kontinent."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Naturwissenschaften erlebten ihre größte Blüte. Darwins Evolutionstheorie von 1859, die Bakteriologie Kochs und Pasteurs, die Elektrodynamik Faradays und Maxwells, die Entdeckung der Röntgenstrahlen 1895 und der Radioaktivität durch Becquerel und die Curies veränderten das Bild von Natur und Mensch. Universitäten und Forschungslabore, allen voran die deutschen, wurden zu Motoren des Fortschritts; die Chemieindustrie entwickelte synthetische Farbstoffe, Dünger und Arzneimittel wie das Aspirin von 1899.",
+          "Religion und Kirchen gerieten unter Druck, blieben aber mächtig. In Deutschland bekämpfte Bismarck im Kulturkampf der 1870er Jahre den Einfluss der katholischen Kirche, in Frankreich wurden Staat und Kirche 1905 getrennt. Zugleich entstanden Missionsgesellschaften, die mit den Kolonialmächten nach Afrika und Asien gingen, und religiöse Reformbewegungen wie die Heilsarmee, die sich der Armen in den Industriestädten annahm. Mit dem Roten Kreuz und der Friedensbewegung Bertha von Suttners entstanden neue, überkonfessionelle Formen humanitären Engagements.",
+          "Kunst und Literatur spiegelten die Umbrüche. Der Realismus von Dickens, Zola oder Fontane beschrieb das Leben in Fabriken und Mietskasernen, die Impressionisten um Monet malten Bahnhöfe, Boulevards und das Licht der Großstadt. Massenpresse, Leihbibliotheken und die allgemeine Schulpflicht ließen die Zahl der Leser explodieren. Die Weltausstellungen von London 1851 bis Paris 1900 mit dem Eiffelturm von 1889 inszenierten Technik und Kolonien als Schauspiel für Millionen Besucher."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die erste Industrialisierung beruhte auf Kohle, Eisen und Textilien. Die Spinning Jenny von James Hargreaves aus den 1760er Jahren und der mechanische Webstuhl Edmund Cartwrights von 1785 vervielfachten die Produktion von Garn und Stoff, das Puddelverfahren und später das Bessemer-Verfahren von 1856 machten Stahl billig. Das Eisenbahnnetz wuchs in Deutschland von sechs Kilometern im Jahr 1835 auf über 60.000 Kilometer im Jahr 1910. Kanäle, Dampfschiffe und ab 1869 der Suezkanal verbanden die Märkte der Welt.",
+          "Ab etwa 1870 begann die zweite Industrielle Revolution mit Elektrizität, Chemie und Verbrennungsmotor. Werner von Siemens entwickelte 1866 die Dynamomaschine, Thomas Edison 1879 eine brauchbare Glühlampe und 1882 das erste Elektrizitätswerk, Carl Benz 1886 das Automobil. Neue Großunternehmen wie Krupp, Siemens, Bayer, Standard Oil oder US Steel beschäftigten Zehntausende Arbeiter und bildeten Kartelle und Trusts. Der Telegraf verband ab 1866 dauerhaft Europa und Amerika, das Telefon Alexander Graham Bells von 1876 folgte.",
+          "Die Weltwirtschaft wurde zu einem einzigen Markt. Getreide aus Nordamerika und Russland, Wolle aus Australien, Kautschuk aus dem Kongo und Baumwolle aus Indien und Ägypten flossen in die Industrieländer, die im Gegenzug Maschinen, Textilien und Kapital exportierten. Der Goldstandard sicherte feste Wechselkurse, London war das Finanzzentrum der Welt. Diese Verflechtung brachte Wohlstand, aber auch Krisen wie den Gründerkrach von 1873, und sie beruhte oft auf der Ausbeutung von Kolonien und Plantagenarbeitern."
+        ]
+      }
     ]
   },
   {

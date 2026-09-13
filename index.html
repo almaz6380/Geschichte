@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Weltgeschichte</title>
-  <meta name="description" content="Weltgeschichte von der Urgeschichte bis zur Gegenwart: Epochen, Zeitleiste, Quiz, Suche und Lesezeichen. Funktioniert offline.">
+  <meta name="description" content="Weltgeschichte von der Urgeschichte bis zur Gegenwart: Epochen, Querschnittsthemen, Zeitleiste, Glossar, Quiz, Suche und Lesezeichen. Funktioniert offline.">
   <meta name="theme-color" content="#f8f7f4" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#14161b" media="(prefers-color-scheme: dark)">
   <meta name="color-scheme" content="light dark">
@@ -38,14 +38,13 @@
       <a href="#/" data-nav="home">Start</a>
       <a href="#/epochen" data-nav="epochen">Epochen</a>
       <a href="#/zeitleiste" data-nav="zeitleiste">Zeitleiste</a>
+      <a href="#/themen" data-nav="themen">Themen</a>
+      <a href="#/glossar" data-nav="glossar">Glossar</a>
       <a href="#/quiz" data-nav="quiz">Quiz</a>
       <a href="#/lesezeichen" data-nav="lesezeichen">Lesezeichen</a>
     </nav>
     <div class="header-actions">
       <button id="install-btn" class="btn btn-small" type="button" hidden>App installieren</button>
-      <a class="icon-btn mobile-only" href="#/lesezeichen" data-nav="lesezeichen" aria-label="Lesezeichen">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg>
-      </a>
       <a class="icon-btn" href="#/suche" data-nav="suche" aria-label="Suche">
         <svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg>
       </a>
@@ -64,7 +63,7 @@
     <a href="#/epochen" data-nav="epochen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-book"/></svg><span>Epochen</span></a>
     <a href="#/zeitleiste" data-nav="zeitleiste"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timeline"/></svg><span>Zeitleiste</span></a>
     <a href="#/quiz" data-nav="quiz"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-quiz"/></svg><span>Quiz</span></a>
-    <a href="#/suche" data-nav="suche"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg><span>Suche</span></a>
+    <a href="#/mehr" data-nav="mehr"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-more"/></svg><span>Mehr</span></a>
   </nav>
 
   <div id="toast" class="toast" role="status" hidden></div>
@@ -82,6 +81,11 @@
       <symbol id="i-bookmark-filled" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z" fill="currentColor" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
       <symbol id="i-arrow-left" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M15 5l-7 7 7 7"/></symbol>
       <symbol id="i-arrow-right" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></symbol>
+      <symbol id="i-more" viewBox="0 0 24 24"><circle cx="5" cy="12" r="2" fill="currentColor"/><circle cx="12" cy="12" r="2" fill="currentColor"/><circle cx="19" cy="12" r="2" fill="currentColor"/></symbol>
+      <symbol id="i-topic" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h10M4 18h16"/></symbol>
+      <symbol id="i-glossary" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M5 4h9l5 5v11H5zM14 4v5h5M8 13h8M8 17h5"/></symbol>
+      <symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="none" stroke="currentColor" stroke-width="1.8" d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></symbol>
+      <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z" fill="currentColor"/></symbol>
     </defs>
   </svg>
 

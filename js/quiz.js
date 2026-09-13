@@ -1,6 +1,7 @@
 // DOM-freie Quiz-Logik.
 export const MIXED = 'gemischt';
-export const MIXED_COUNT = 15;
+export const MIXED_COUNT = 20;
+export const EPOCH_COUNT = 10;
 export const MAX_PER_EPOCH_MIXED = 2;
 
 export function seededRng(seed = 1) {
@@ -28,7 +29,7 @@ export function pickQuestions(quizByEpoch, mode, rng = Math.random) {
     all = shuffle(all, rng).slice(0, MIXED_COUNT);
     return all;
   }
-  return shuffle(quizByEpoch.get(mode) || [], rng);
+  return shuffle(quizByEpoch.get(mode) || [], rng).slice(0, EPOCH_COUNT);
 }
 
 export function shuffleChoices(q, rng = Math.random) {

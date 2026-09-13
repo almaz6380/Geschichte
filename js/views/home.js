@@ -1,5 +1,5 @@
 import { DB, randomEvent } from '../data.js';
-import { esc, epochTile, formatRange, regionChip, setTitle } from '../ui.js';
+import { esc, epochTile, themeTile, regionTile, formatRange, regionChip, epochChip, setTitle, sectionHead } from '../ui.js';
 import { getQuizProgress, isInstallHintDismissed, dismissInstallHint } from '../store.js';
 
 export function render(el, params, ctx) {
@@ -20,11 +20,13 @@ export function render(el, params, ctx) {
   el.innerHTML = `
     <section class="intro">
       <h1>Weltgeschichte</h1>
-      <p>Alle wesentlichen Themen der Vergangenheit – von den ersten Menschen bis zur Gegenwart. Lies Epochen-Artikel, erkunde die Zeitleiste, teste dein Wissen im Quiz.</p>
+      <p>Alle wesentlichen Themen der Vergangenheit – von den ersten Menschen bis zur Gegenwart. Gegliedert nach Epochen, Querschnittsthemen und Regionen, mit Zeitleiste, Glossar und Quiz.</p>
       <div class="stats-row">
         <div class="stat"><b>${DB.epochs.length}</b><span>Epochen</span></div>
+        <div class="stat"><b>${DB.themes.length}</b><span>Themen</span></div>
         <div class="stat"><b>${DB.events.length}</b><span>Ereignisse</span></div>
         <div class="stat"><b>${DB.persons.length}</b><span>Personen</span></div>
+        <div class="stat"><b>${DB.glossary.length}</b><span>Begriffe</span></div>
         <div class="stat"><b>${DB.quiz.length}</b><span>Quizfragen</span></div>
       </div>
       <div class="btn-row">
@@ -52,9 +54,9 @@ export function render(el, params, ctx) {
       <section class="card random-card" style="--epoch-color:${epoch?.color}">
         <div class="muted">Zufälliges Ereignis</div>
         <h3><a href="#/ereignis/${ev.id}">${esc(ev.title)}</a></h3>
-        <div class="meta-row"><span class="chip">${esc(formatRange(ev.year, ev.endYear, ev.approx))}</span>${regionChip(ev.regionId)}</div>
+        <div class="meta-row"><span class="chip">${esc(formatRange(ev.year, ev.endYear, ev.approx))}</span>${regionChip(ev.regionId)}${epochChip(ev.epochId)}</div>
         <p class="muted">${esc(ev.summary)}</p>
-        <div class="btn-row"><a class="btn btn-small" href="#/ereignis/${ev.id}">Mehr lesen</a><button type="button" class="btn btn-small" id="random-again">Anderes Ereignis</button></div>
+        <div class="btn-row" style="margin-bottom:0"><a class="btn btn-small" href="#/ereignis/${ev.id}">Mehr lesen</a><button type="button" class="btn btn-small" id="random-again">Anderes Ereignis</button></div>
       </section>` : ''}
       <section class="card">
         <div class="muted">Dein Quiz-Fortschritt</div>
@@ -66,17 +68,39 @@ export function render(el, params, ctx) {
     </div>
 
     <section class="section">
-      <div class="section-head"><h2>Epochen</h2><a href="#/epochen">Alle anzeigen</a></div>
+      ${sectionHead('Epochen', null, '<a href="#/epochen">Alle anzeigen</a>')}
+      <p class="muted">Chronologisch von der Steinzeit bis heute.</p>
       <div class="card-grid">${DB.epochs.map((e, i) => epochTile(e, i + 1)).join('')}</div>
+    </section>
+
+    ${DB.themes.length ? `
+    <section class="section">
+      ${sectionHead('Querschnittsthemen', null, '<a href="#/themen">Alle anzeigen</a>')}
+      <p class="muted">Rote Linien durch die Jahrtausende.</p>
+      <div class="card-grid">${DB.themes.map(themeTile).join('')}</div>
+    </section>` : ''}
+
+    <section class="section">
+      ${sectionHead('Regionen', null, '<a href="#/regionen">Alle anzeigen</a>')}
+      <div class="card-grid card-grid-compact">${DB.regions.map(regionTile).join('')}</div>
+    </section>
+
+    <section class="section">
+      ${sectionHead('Nachschlagen')}
+      <div class="card-grid">
+        <a class="card card-link hub-card" href="#/glossar"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-glossary"/></svg><span><span class="title">Glossar</span><span class="sub">${DB.glossary.length} Begriffe kurz erklärt</span></span></a>
+        <a class="card card-link hub-card" href="#/suche"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg><span><span class="title">Suche</span><span class="sub">Ereignisse, Personen, Themen, Begriffe</span></span></a>
+        <a class="card card-link hub-card" href="#/lesezeichen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg><span><span class="title">Lesezeichen</span><span class="sub">Deine gemerkten Inhalte</span></span></a>
+      </div>
     </section>
   `;
 
   el.querySelector('#random-again')?.addEventListener('click', () => render(el, params, ctx));
   el.querySelector('#install-now')?.addEventListener('click', () => window.wgInstall?.prompt());
-  const onInstallable = () => { if (location.hash === '#/' || location.hash === '') render(el, params, ctx); };
-  document.addEventListener('wg:installable', onInstallable, { once: true });
   el.querySelector('#ios-hint-close')?.addEventListener('click', () => {
     dismissInstallHint();
     el.querySelector('#ios-hint')?.remove();
   });
+  const onInstallable = () => { if (location.hash === '#/' || location.hash === '') render(el, params, ctx); };
+  document.addEventListener('wg:installable', onInstallable, { once: true });
 }

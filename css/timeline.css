@@ -67,3 +67,9 @@
   .tl-event::before { display: none; }
   .tl-event { border-left: 4px solid var(--epoch-color); }
 }
+
+.tl-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 2px 0 4px; }
+.tl-bar .result-count { margin: 0; }
+.tl-century { display: flex; align-items: center; gap: 10px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin: 6px 0 10px; }
+.tl-century::after { content: ""; flex: 1; height: 1px; background: var(--border); }
+.tl-event .star { color: #f59e0b; font-size: 0.85em; }

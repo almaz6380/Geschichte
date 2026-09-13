@@ -1,5 +1,5 @@
 import { DB } from '../data.js';
-import { epochTile, eventItem, personItem, emptyState, setTitle } from '../ui.js';
+import { epochTile, eventItem, personCard, emptyState, setTitle } from '../ui.js';
 import { getBookmarks } from '../store.js';
 
 export function render(el) {
@@ -20,6 +20,6 @@ export function render(el) {
     <p class="muted">${total} gespeicherte ${total === 1 ? 'Eintrag' : 'Einträge'}. Lesezeichen werden nur auf diesem Gerät gespeichert.</p>
     ${epochs.length ? `<section class="section"><h2>Epochen</h2><div class="card-grid">${epochs.map((e) => epochTile(e, e.order)).join('')}</div></section>` : ''}
     ${events.length ? `<section class="section"><h2>Ereignisse</h2><div class="list">${events.map((ev) => eventItem(ev, { showEpoch: true })).join('')}</div></section>` : ''}
-    ${persons.length ? `<section class="section"><h2>Personen</h2><div class="list">${persons.map(personItem).join('')}</div></section>` : ''}
+    ${persons.length ? `<section class="section"><h2>Personen</h2><div class="person-grid">${persons.map(personCard).join('')}</div></section>` : ''}
   `;
 }

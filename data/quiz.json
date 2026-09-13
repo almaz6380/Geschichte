@@ -84,6 +84,90 @@
     "difficulty": 2
   },
   {
+    "id": "q-absolutismus-aufklaerung-07",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Warum wurde Galileo Galilei 1633 von der Inquisition verurteilt?",
+    "choices": [
+      "Weil er das Fernrohr erfunden hatte",
+      "Weil er die Bibel ins Italienische übersetzt hatte",
+      "Weil er das heliozentrische Weltbild verteidigt hatte",
+      "Weil er die Gravitation entdeckt hatte"
+    ],
+    "answer": 2,
+    "explanation": "Galilei hatte in seinem Dialog von 1632 die Lehre des Kopernikus vertreten, dass sich die Erde um die Sonne bewegt; er musste widerrufen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-08",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Was geschah 1649 mit dem englischen König Karl I.?",
+    "choices": [
+      "Er floh nach Frankreich",
+      "Er wurde vom Parlament verurteilt und hingerichtet",
+      "Er löste das Parlament für immer auf",
+      "Er wurde zum Kaiser gekrönt"
+    ],
+    "answer": 1,
+    "explanation": "Nach dem Bürgerkrieg verurteilte ein Gericht des Parlaments den König wegen Hochverrats; er wurde am 30. Januar 1649 enthauptet.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-09",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Welche Forderung ist mit Montesquieus Werk Vom Geist der Gesetze (1748) verbunden?",
+    "choices": [
+      "Die Gewaltenteilung",
+      "Die Abschaffung der Monarchie",
+      "Die Gleichheit der Frauen",
+      "Die Abschaffung des Privateigentums"
+    ],
+    "answer": 0,
+    "explanation": "Montesquieu forderte, gesetzgebende, ausführende und richterliche Gewalt zu trennen, damit sich die Mächte gegenseitig begrenzen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-10",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Welche Folge hatte das Edikt von Fontainebleau von 1685?",
+    "choices": [
+      "Die Gründung der Royal Society",
+      "Die Verlegung des Hofes nach Versailles",
+      "Der Beginn des Spanischen Erbfolgekriegs",
+      "Die Flucht von rund 200.000 Hugenotten aus Frankreich"
+    ],
+    "answer": 3,
+    "explanation": "Ludwig XIV. hob das Edikt von Nantes auf und verbot den protestantischen Gottesdienst; viele Hugenotten flohen unter anderem nach Brandenburg.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-11",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Welches Land schloss sich ab 1639 fast vollständig von der Außenwelt ab und erlaubte nur den Niederländern Handel auf der Insel Dejima?",
+    "choices": [
+      "China",
+      "Korea",
+      "Japan",
+      "Siam"
+    ],
+    "answer": 2,
+    "explanation": "Das Tokugawa-Shogunat verbot das Christentum und beschränkte den Außenhandel auf Nagasaki; diese Politik heißt Sakoku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-12",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Welche Leistung verbindet man mit der Physikerin Émilie du Châtelet?",
+    "choices": [
+      "Die Entdeckung der Jupitermonde",
+      "Die französische Übersetzung und Erklärung von Newtons Principia",
+      "Die Erfindung des Barometers",
+      "Die Herausgabe der Encyclopédie"
+    ],
+    "answer": 1,
+    "explanation": "Du Châtelet übersetzte Newtons Hauptwerk ins Französische und versah es mit Kommentaren; ihre Fassung gilt bis heute als maßgeblich.",
+    "difficulty": 3
+  },
+  {
     "id": "q-antike-griechenland-01",
     "epochId": "antike-griechenland",
     "question": "In welcher Stadt entstand im 6. und 5. Jahrhundert v. Chr. die erste Demokratie?",
@@ -168,6 +252,90 @@
     "difficulty": 3
   },
   {
+    "id": "q-antike-griechenland-07",
+    "epochId": "antike-griechenland",
+    "question": "Welche Reform führte Solon um 594 v. Chr. in Athen durch?",
+    "choices": [
+      "Er führte das Scherbengericht ein",
+      "Er gab Frauen das Wahlrecht",
+      "Er machte sich zum Tyrannen",
+      "Er schaffte die Schuldknechtschaft ab"
+    ],
+    "answer": 3,
+    "explanation": "Solon erließ die Schulden und verbot, Bürger wegen Schulden zu versklaven; die Bürger teilte er nach Vermögen in vier Klassen ein.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-08",
+    "epochId": "antike-griechenland",
+    "question": "Wer führte 480 v. Chr. die 300 Spartaner an den Thermopylen?",
+    "choices": [
+      "Leonidas",
+      "Themistokles",
+      "Miltiades",
+      "Perikles"
+    ],
+    "answer": 0,
+    "explanation": "König Leonidas hielt mit seinen Spartanern und Verbündeten den Engpass gegen das Heer des Xerxes, bis sie alle fielen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-09",
+    "epochId": "antike-griechenland",
+    "question": "Welche Dichterin von der Insel Lesbos nannte Platon die zehnte Muse?",
+    "choices": [
+      "Aspasia",
+      "Sappho",
+      "Antigone",
+      "Pythia"
+    ],
+    "answer": 1,
+    "explanation": "Sappho schrieb um 600 v. Chr. Lieder über Liebe und Sehnsucht; von ihren neun Büchern sind nur Bruchstücke erhalten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-10",
+    "epochId": "antike-griechenland",
+    "question": "Welcher Tempel wurde von 447 bis 432 v. Chr. unter Perikles auf der Akropolis errichtet?",
+    "choices": [
+      "Der Zeustempel",
+      "Der Apollontempel",
+      "Der Parthenon",
+      "Das Erechtheion"
+    ],
+    "answer": 2,
+    "explanation": "Der Parthenon der Architekten Iktinos und Kallikrates war der Göttin Athene geweiht und enthielt eine zwölf Meter hohe Statue von Phidias.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-11",
+    "epochId": "antike-griechenland",
+    "question": "Wie hießen die Feldherren Alexanders, die nach seinem Tod um sein Reich kämpften?",
+    "choices": [
+      "Ephoren",
+      "Strategen",
+      "Archonten",
+      "Diadochen"
+    ],
+    "answer": 3,
+    "explanation": "Die Diadochen, die Nachfolger, führten von 322 bis 281 v. Chr. Krieg; am Ende standen die Reiche der Ptolemäer, Seleukiden und Antigoniden.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-12",
+    "epochId": "antike-griechenland",
+    "question": "Welcher Gelehrte wurde 212 v. Chr. bei der Eroberung von Syrakus durch die Römer getötet?",
+    "choices": [
+      "Euklid",
+      "Archimedes",
+      "Hippokrates",
+      "Herodot"
+    ],
+    "answer": 1,
+    "explanation": "Archimedes hatte die Verteidigung seiner Heimatstadt mit Kriegsmaschinen unterstützt; ein römischer Soldat tötete ihn gegen den Befehl des Marcellus.",
+    "difficulty": 2
+  },
+  {
     "id": "q-asien-altertum-01",
     "epochId": "asien-altertum",
     "question": "Wer gründete um 550 v. Chr. das Persische Reich der Achämeniden?",
@@ -250,6 +418,90 @@
     "answer": 2,
     "explanation": "Der Khmer-König Suryavarman II. ließ Angkor Wat als Tempel für Vishnu und als sein Grabmal bauen.",
     "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-07",
+    "epochId": "asien-altertum",
+    "question": "Welchem Weisen wird das Daodejing, die Grundschrift des Daoismus, zugeschrieben?",
+    "choices": [
+      "Konfuzius",
+      "Laozi",
+      "Mengzi",
+      "Zhuangzi"
+    ],
+    "answer": 1,
+    "explanation": "Das Daodejing gilt als Werk des legendären Laozi; Zhuangzi war ein späterer daoistischer Denker, Konfuzius und Mengzi vertraten den Konfuzianismus.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-08",
+    "epochId": "asien-altertum",
+    "question": "Wie heißt das Werk des Strategen Sunzi aus der Zeit der Streitenden Reiche?",
+    "choices": [
+      "Das Buch der Wandlungen",
+      "Die Gespräche",
+      "Das Shiji",
+      "Die Kunst des Krieges"
+    ],
+    "answer": 3,
+    "explanation": "Sunzis Kunst des Krieges in dreizehn Kapiteln lehrt, dass der beste Sieg ohne Schlacht errungen wird.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-09",
+    "epochId": "asien-altertum",
+    "question": "Was ist das Besondere an der Herrschaft Wu Zetians von 690 bis 705?",
+    "choices": [
+      "Sie regierte als einzige Frau Chinas als Kaiserin aus eigenem Recht",
+      "Sie gründete die Tang-Dynastie",
+      "Sie verbot den Buddhismus in China",
+      "Sie ließ die Terrakotta-Armee anfertigen"
+    ],
+    "answer": 0,
+    "explanation": "Wu Zetian rief 690 eine eigene Dynastie aus und ist die einzige Frau der chinesischen Geschichte, die den Kaisertitel selbst führte.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-10",
+    "epochId": "asien-altertum",
+    "question": "Warum ist das Diamant-Sutra von 868 für die Geschichte des Buchdrucks so bedeutend?",
+    "choices": [
+      "Es wurde mit beweglichen Metalllettern gedruckt",
+      "Es ist das erste Buch aus Papier",
+      "Es ist die älteste erhaltene gedruckte Schrift mit genauer Datumsangabe",
+      "Es wurde von Gutenberg als Vorlage benutzt"
+    ],
+    "answer": 2,
+    "explanation": "Der Schlussvermerk der mit Holztafeln gedruckten Schriftrolle nennt den 11. Mai 868; sie ist damit das älteste datierte gedruckte Buch der Welt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-11",
+    "epochId": "asien-altertum",
+    "question": "Welches Reich löste Ardaschir I. im Jahr 224 in Persien ab?",
+    "choices": [
+      "Das Reich der Achämeniden",
+      "Das Seleukidenreich",
+      "Das Kushan-Reich",
+      "Das Partherreich"
+    ],
+    "answer": 3,
+    "explanation": "Ardaschir I. besiegte 224 den letzten Partherkönig und begründete das Sassanidenreich, das bis 651 bestand.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-12",
+    "epochId": "asien-altertum",
+    "question": "Wer verfasste um 100 v. Chr. das Shiji, das erste Gesamtwerk der chinesischen Geschichtsschreibung?",
+    "choices": [
+      "Cai Lun",
+      "Sima Qian",
+      "Zhang Qian",
+      "Xuanzang"
+    ],
+    "answer": 1,
+    "explanation": "Der Hofhistoriker Sima Qian schrieb das Shiji in 130 Kapiteln; Cai Lun verbesserte das Papier, Zhang Qian war Gesandter, Xuanzang ein buddhistischer Pilger.",
+    "difficulty": 2
   },
   {
     "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
@@ -406,6 +658,90 @@
     "difficulty": 3
   },
   {
+    "id": "q-fruehe-hochkulturen-07",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Wer gilt als die erste namentlich bekannte Autorin der Weltgeschichte?",
+    "choices": [
+      "Nofretete",
+      "Hatschepsut",
+      "Enheduanna",
+      "Fu Hao"
+    ],
+    "answer": 2,
+    "explanation": "Enheduanna, Tochter Sargons von Akkad und Hohepriesterin in Ur, nennt sich in ihren Hymnen selbst als Verfasserin.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-08",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Welches Volk entwickelte um 1050 v. Chr. ein Alphabet mit 22 Buchstaben, das die Griechen später übernahmen?",
+    "choices": [
+      "Die Phönizier",
+      "Die Hethiter",
+      "Die Assyrer",
+      "Die Sumerer"
+    ],
+    "answer": 0,
+    "explanation": "Die Phönizier in Tyros, Sidon und Byblos vereinfachten die Schrift zu 22 Konsonantenzeichen; die Griechen ergänzten Vokale.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-09",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Wovon handelt das Gilgamesch-Epos unter anderem?",
+    "choices": [
+      "Von der Eroberung Ägyptens",
+      "Vom Bau der Pyramiden",
+      "Von der Gründung Babylons",
+      "Von der Suche eines Königs nach Unsterblichkeit"
+    ],
+    "answer": 3,
+    "explanation": "Nach dem Tod seines Freundes Enkidu sucht Gilgamesch den Sintfluthelden Utnapischtim auf, um das ewige Leben zu erlangen, und scheitert.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-10",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Welche Hochkultur errichtete auf Kreta Paläste wie Knossos?",
+    "choices": [
+      "Die Mykener",
+      "Die Minoer",
+      "Die Phönizier",
+      "Die Hethiter"
+    ],
+    "answer": 1,
+    "explanation": "Die Minoer, benannt nach dem sagenhaften König Minos, schufen ab etwa 2000 v. Chr. die erste Hochkultur Europas.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-11",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Was war das Besondere an Fu Hao, der Gemahlin des Shang-Königs Wu Ding?",
+    "choices": [
+      "Sie führte als Frau Heere in die Schlacht",
+      "Sie erfand die chinesische Schrift",
+      "Sie regierte als erste Kaiserin Chinas",
+      "Sie baute die erste Große Mauer"
+    ],
+    "answer": 0,
+    "explanation": "Orakelknochen berichten, dass Fu Hao Feldzüge mit tausenden Soldaten befehligte; ihr unberaubtes Grab wurde 1976 in Anyang entdeckt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-12",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Wo lag das Königreich Kusch, dessen König Pije um 730 v. Chr. Ägypten eroberte?",
+    "choices": [
+      "In Anatolien",
+      "In Mesopotamien",
+      "In Nubien im heutigen Sudan",
+      "In Äthiopien am Roten Meer"
+    ],
+    "answer": 2,
+    "explanation": "Kusch mit den Hauptstädten Napata und später Meroe lag südlich von Ägypten am Nil; seine Könige bildeten die 25. Dynastie.",
+    "difficulty": 3
+  },
+  {
     "id": "q-industrialisierung-imperialismus-01",
     "epochId": "industrialisierung-imperialismus",
     "question": "Welche Erfindung gilt als wichtigster Antrieb der Industriellen Revolution?",
@@ -487,6 +823,90 @@
     ],
     "answer": 1,
     "explanation": "Im Vertrag von Nanking trat China Hongkong ab und öffnete fünf Häfen für den britischen Handel.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-07",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Welches Land führte 1893 als erstes der Welt das Frauenwahlrecht auf nationaler Ebene ein?",
+    "choices": [
+      "Großbritannien",
+      "Finnland",
+      "Neuseeland",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation": "Nach einer Petition mit fast 32.000 Unterschriften unterzeichnete der Gouverneur Neuseelands am 19. September 1893 das Wahlgesetz.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-08",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Welches Buch veröffentlichte Charles Darwin im Jahr 1859?",
+    "choices": [
+      "Über die Entstehung der Arten",
+      "Das Kapital",
+      "Die Waffen nieder!",
+      "Eine Erinnerung an Solferino"
+    ],
+    "answer": 0,
+    "explanation": "Darwins Hauptwerk erklärte die Vielfalt des Lebens durch Evolution und natürliche Auslese und war am ersten Tag ausverkauft.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-09",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Wem gehörte der Kongo-Freistaat von 1885 bis 1908?",
+    "choices": [
+      "Der französischen Republik",
+      "Der britischen Ostindien-Kompanie",
+      "Dem Deutschen Reich",
+      "König Leopold II. von Belgien als Privatbesitz"
+    ],
+    "answer": 3,
+    "explanation": "Leopold II. ließ den Kongo als sein persönliches Eigentum ausbeuten; erst nach einem internationalen Skandal übernahm Belgien 1908 die Kolonie.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-10",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Welche Versicherung führte das Deutsche Reich 1883 als erste Sozialversicherung ein?",
+    "choices": [
+      "Arbeitslosenversicherung",
+      "Krankenversicherung",
+      "Rentenversicherung",
+      "Pflegeversicherung"
+    ],
+    "answer": 1,
+    "explanation": "1883 kam die Krankenversicherung, 1884 die Unfallversicherung und 1889 die Alters- und Invaliditätsversicherung; die Arbeitslosenversicherung folgte erst 1927.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-11",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Welches Erlebnis brachte Henry Dunant dazu, das Rote Kreuz zu gründen?",
+    "choices": [
+      "Die Verwundeten der Schlacht von Solferino 1859",
+      "Die Cholera in Hamburg",
+      "Der Krimkrieg",
+      "Der Amerikanische Bürgerkrieg"
+    ],
+    "answer": 0,
+    "explanation": "Dunant erlebte 1859 das Elend der Verwundeten nach der Schlacht von Solferino und forderte in seinem Buch freiwillige Hilfsgesellschaften und ein Schutzabkommen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-12",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Was war die Folge des Sepoy-Aufstands von 1857 für Indien?",
+    "choices": [
+      "Indien wurde unabhängig",
+      "Frankreich übernahm Bengalen",
+      "Die britische Krone übernahm die Herrschaft von der Ostindien-Kompanie",
+      "Der Mogulkaiser regierte wieder ganz Indien"
+    ],
+    "answer": 2,
+    "explanation": "Nach der Niederschlagung des Aufstands wurde die Ostindien-Kompanie 1858 aufgelöst und Indien direkt der britischen Krone unterstellt.",
     "difficulty": 3
   },
   {
@@ -742,6 +1162,90 @@
     "difficulty": 3
   },
   {
+    "id": "q-mittelalter-07",
+    "epochId": "mittelalter",
+    "question": "Welcher König wartete 1077 als Büßer vor der Burg Canossa auf die Vergebung des Papstes?",
+    "choices": [
+      "Otto I.",
+      "Heinrich IV.",
+      "Friedrich Barbarossa",
+      "Karl der Kahle"
+    ],
+    "answer": 1,
+    "explanation": "Heinrich IV. bat im Investiturstreit Papst Gregor VII. in Canossa um die Lösung vom Kirchenbann, den dieser 1076 über ihn verhängt hatte.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-08",
+    "epochId": "mittelalter",
+    "question": "Was legte der Vertrag von Verdun 843 fest?",
+    "choices": [
+      "Die Kaiserkrönung Ottos I.",
+      "Das Ende der Wikingerzüge",
+      "Die Teilung des Frankenreichs unter die Enkel Karls des Großen",
+      "Die Gründung der Hanse"
+    ],
+    "answer": 2,
+    "explanation": "In Verdun teilten Karl der Kahle, Ludwig der Deutsche und Lothar I. das Frankenreich in ein West-, Ost- und Mittelreich.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-09",
+    "epochId": "mittelalter",
+    "question": "Welcher Kaiser ließ 532 bis 537 die Hagia Sophia in Konstantinopel erbauen?",
+    "choices": [
+      "Justinian I.",
+      "Konstantin der Große",
+      "Karl der Große",
+      "Basileios II."
+    ],
+    "answer": 0,
+    "explanation": "Justinian I. ließ die Hagia Sophia nach dem Nika-Aufstand neu errichten und weihte sie 537; sie war fast tausend Jahre die größte Kirche der Welt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-10",
+    "epochId": "mittelalter",
+    "question": "Gegen wen siegte Otto I. im Jahr 955 auf dem Lechfeld bei Augsburg?",
+    "choices": [
+      "Gegen die Wikinger",
+      "Gegen die Sachsen",
+      "Gegen die Araber",
+      "Gegen die Ungarn"
+    ],
+    "answer": 3,
+    "explanation": "Otto I. schlug 955 die ungarischen Reiterkrieger, die seit Jahrzehnten Mitteleuropa geplündert hatten, und wurde 962 zum Kaiser gekrönt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-11",
+    "epochId": "mittelalter",
+    "question": "Welcher Herrscher machte ab etwa 1438 aus dem Stadtstaat Cusco das Inka-Reich?",
+    "choices": [
+      "Moctezuma",
+      "Pachacútec",
+      "Atahualpa",
+      "Mansa Musa"
+    ],
+    "answer": 1,
+    "explanation": "Pachacútec besiegte die Chanka, baute Cusco zur Hauptstadt aus und begründete das Reich Tawantinsuyu; Atahualpa war der letzte Inka vor der spanischen Eroberung.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-12",
+    "epochId": "mittelalter",
+    "question": "Wovon lebte die Steinstadt Großsimbabwe im südlichen Afrika zwischen dem 13. und 15. Jahrhundert vor allem?",
+    "choices": [
+      "Vom Salzhandel durch die Sahara",
+      "Vom Seidenhandel mit Byzanz",
+      "Vom Gold- und Elfenbeinhandel mit der Swahili-Küste",
+      "Vom Pelzhandel mit Nowgorod"
+    ],
+    "answer": 2,
+    "explanation": "Die Herrscher von Großsimbabwe kontrollierten Goldvorkommen und Rinderherden und handelten über Häfen wie Kilwa und Sofala bis nach Indien und China.",
+    "difficulty": 3
+  },
+  {
     "id": "q-renaissance-entdeckungen-01",
     "epochId": "renaissance-entdeckungen",
     "question": "Welche Erfindung wird Johannes Gutenberg um 1450 zugeschrieben?",
@@ -823,6 +1327,90 @@
     ],
     "answer": 3,
     "explanation": "Das Konzil bekräftigte die katholische Lehre gegenüber den Protestanten und beschloss innere Reformen der Kirche.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-07",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Was legte der Vertrag von Tordesillas 1494 fest?",
+    "choices": [
+      "Den Frieden zwischen England und Spanien",
+      "Die Anerkennung der Reformation",
+      "Die Grenze zwischen Frankreich und dem Reich",
+      "Die Aufteilung der Welt zwischen Spanien und Portugal"
+    ],
+    "answer": 3,
+    "explanation": "Entlang einer Linie im Atlantik sollten neue Länder westlich Spanien und östlich Portugal gehören; deshalb fiel Brasilien an Portugal.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-08",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Welches Prinzip legte der Augsburger Religionsfrieden von 1555 fest?",
+    "choices": [
+      "Der Landesherr bestimmt die Konfession seines Gebiets",
+      "Jeder Untertan wählt seine Religion frei",
+      "Nur der Katholizismus ist im Reich erlaubt",
+      "Der Kaiser entscheidet über den Glauben aller Fürsten"
+    ],
+    "answer": 0,
+    "explanation": "Jeder Reichsstand durfte für sein Territorium zwischen katholischer und lutherischer Konfession wählen; Andersgläubige durften auswandern.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-09",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Welche Stadt war unter Askia Mohammed ein Zentrum der Gelehrsamkeit im Songhai-Reich?",
+    "choices": [
+      "Kairo",
+      "Sansibar",
+      "Timbuktu",
+      "Großsimbabwe"
+    ],
+    "answer": 2,
+    "explanation": "Timbuktu am Niger war mit seiner Sankoré-Moschee ein Zentrum islamischer Wissenschaft und des Handels über die Sahara.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-10",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Wer gründete 1540 den Jesuitenorden?",
+    "choices": [
+      "Johannes Calvin",
+      "Ignatius von Loyola",
+      "Erasmus von Rotterdam",
+      "Thomas Morus"
+    ],
+    "answer": 1,
+    "explanation": "Der ehemalige Soldat Ignatius von Loyola gründete die Gesellschaft Jesu, die 1540 vom Papst bestätigt wurde.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-11",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Was geschah beim Reichstag zu Worms 1521?",
+    "choices": [
+      "Luther weigerte sich, seine Lehren zu widerrufen",
+      "Karl V. wurde zum Kaiser gewählt",
+      "Der Augsburger Religionsfrieden wurde geschlossen",
+      "Luther wurde hingerichtet"
+    ],
+    "answer": 0,
+    "explanation": "Luther erklärte vor Kaiser Karl V., er könne nur widerrufen, wenn man ihn aus der Bibel widerlege; daraufhin wurde er geächtet.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-12",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Welcher Herrscher regierte ab 1556 das Mogulreich in Indien und war für seine religiöse Toleranz bekannt?",
+    "choices": [
+      "Süleyman der Prächtige",
+      "Oda Nobunaga",
+      "Akbar",
+      "Babur"
+    ],
+    "answer": 2,
+    "explanation": "Akbar schaffte die Sondersteuer für Nichtmuslime ab und ließ an seinem Hof Vertreter aller Religionen diskutieren.",
     "difficulty": 3
   },
   {
@@ -994,6 +1582,90 @@
     "difficulty": 3
   },
   {
+    "id": "q-rom-07",
+    "epochId": "rom",
+    "question": "Was war das Zwölftafelgesetz um 450 v. Chr.?",
+    "choices": [
+      "Ein Friedensvertrag mit Karthago",
+      "Die erste schriftliche Rechtsordnung Roms",
+      "Ein Gesetz gegen die Christen",
+      "Die Verfassung des Augustus"
+    ],
+    "answer": 1,
+    "explanation": "Auf Druck der Plebejer wurde das Recht auf zwölf Tafeln aufgezeichnet und auf dem Forum öffentlich aufgestellt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-08",
+    "epochId": "rom",
+    "question": "Wer führte 73 bis 71 v. Chr. den größten Sklavenaufstand der Antike an?",
+    "choices": [
+      "Arminius",
+      "Vercingetorix",
+      "Spartacus",
+      "Crassus"
+    ],
+    "answer": 2,
+    "explanation": "Der Gladiator Spartacus floh aus Capua und führte zehntausende Sklaven, bis Crassus ihn 71 v. Chr. besiegte.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-09",
+    "epochId": "rom",
+    "question": "Unter welchem Kaiser erreichte das Römische Reich 117 seine größte Ausdehnung?",
+    "choices": [
+      "Trajan",
+      "Nero",
+      "Augustus",
+      "Diokletian"
+    ],
+    "answer": 0,
+    "explanation": "Trajan eroberte Dakien, Armenien und Mesopotamien; sein Nachfolger Hadrian gab die östlichen Eroberungen wieder auf.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-10",
+    "epochId": "rom",
+    "question": "Was bestimmte die Constitutio Antoniniana des Kaisers Caracalla im Jahr 212?",
+    "choices": [
+      "Die Teilung des Reiches in vier Teile",
+      "Das Verbot heidnischer Kulte",
+      "Die Verlegung der Hauptstadt nach Konstantinopel",
+      "Das römische Bürgerrecht für fast alle freien Reichsbewohner"
+    ],
+    "answer": 3,
+    "explanation": "Mit dem Erlass wurden Millionen Provinzbewohner zu römischen Bürgern; das römische Recht galt nun im ganzen Reich.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-11",
+    "epochId": "rom",
+    "question": "Welche Herrschaftsform führte Diokletian 293 ein?",
+    "choices": [
+      "Das Prinzipat",
+      "Die Tetrarchie",
+      "Die Republik",
+      "Das Triumvirat"
+    ],
+    "answer": 1,
+    "explanation": "In der Tetrarchie regierten zwei Kaiser und zwei Unterkaiser gemeinsam über das Reich, um die Grenzen besser verteidigen zu können.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-12",
+    "epochId": "rom",
+    "question": "Welche Gelehrte wurde 415 in Alexandria von einem christlichen Mob ermordet?",
+    "choices": [
+      "Livia",
+      "Kleopatra",
+      "Hypatia",
+      "Agrippina"
+    ],
+    "answer": 2,
+    "explanation": "Die Mathematikerin und Philosophin Hypatia geriet in den Machtkampf zwischen dem Stadtpräfekten und dem Bischof Kyrill und wurde getötet.",
+    "difficulty": 3
+  },
+  {
     "id": "q-urgeschichte-01",
     "epochId": "urgeschichte",
     "question": "Auf welchem Kontinent entstand der moderne Mensch, der Homo sapiens?",
@@ -1075,6 +1747,90 @@
     ],
     "answer": 2,
     "explanation": "Die T-förmigen Pfeiler von Göbekli Tepe entstanden um 9500 v. Chr., bevor sich Ackerbau und Viehzucht in der Region durchgesetzt hatten.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-07",
+    "epochId": "urgeschichte",
+    "question": "Welche Menschenart verließ als erste Afrika und breitete sich bis nach Java und China aus?",
+    "choices": [
+      "Homo erectus",
+      "Homo sapiens",
+      "Neandertaler",
+      "Australopithecus"
+    ],
+    "answer": 0,
+    "explanation": "Der Homo erectus erreichte vor etwa 1,8 Millionen Jahren den Kaukasus und später Ost- und Südostasien.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-08",
+    "epochId": "urgeschichte",
+    "question": "Wo wurden die ältesten bekannten Tongefäße der Welt hergestellt?",
+    "choices": [
+      "In Mesopotamien",
+      "In Südchina",
+      "In Ägypten",
+      "In Mitteleuropa"
+    ],
+    "answer": 1,
+    "explanation": "Scherben aus der Xianrendong-Höhle in Südchina sind rund 18.000 bis 20.000 Jahre alt und stammen noch von Jägern und Sammlern.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-09",
+    "epochId": "urgeschichte",
+    "question": "Wofür ist die Blombos-Höhle in Südafrika bekannt?",
+    "choices": [
+      "Für die ältesten Faustkeile",
+      "Für das Skelett von Lucy",
+      "Für die ältesten Ritzmuster und Schmuckperlen",
+      "Für die ersten Getreidefunde"
+    ],
+    "answer": 2,
+    "explanation": "In der Blombos-Höhle fand man rund 75.000 Jahre alte Ockerstücke mit geometrischen Mustern und durchbohrte Schneckenhäuser.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-10",
+    "epochId": "urgeschichte",
+    "question": "Wie wurde der Denisova-Mensch entdeckt?",
+    "choices": [
+      "Durch ein vollständiges Skelett in Sibirien",
+      "Durch Höhlenmalereien im Altai",
+      "Durch Steinwerkzeuge in China",
+      "Durch die DNA-Analyse eines Fingerknochens"
+    ],
+    "answer": 3,
+    "explanation": "2010 wurde aus einem winzigen Fingerknochen aus der Denisova-Höhle das Erbgut einer bis dahin unbekannten Menschenart gewonnen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-11",
+    "epochId": "urgeschichte",
+    "question": "Welche Siedlung im Jordantal erhielt um 8000 v. Chr. eine Steinmauer und einen Turm?",
+    "choices": [
+      "Çatalhöyük",
+      "Jericho",
+      "Uruk",
+      "Göbekli Tepe"
+    ],
+    "answer": 1,
+    "explanation": "Jericho gilt als eine der ältesten dauerhaft bewohnten Siedlungen der Welt; der Turm ist fast neun Meter hoch.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-12",
+    "epochId": "urgeschichte",
+    "question": "Woran erkennen Archäologen die Seefahrer, die ab etwa 1500 v. Chr. die pazifischen Inseln besiedelten?",
+    "choices": [
+      "An ihren Steinkreisen",
+      "An ihren Bronzewaffen",
+      "An ihrer gestempelten Lapita-Keramik",
+      "An ihren Höhlenmalereien"
+    ],
+    "answer": 2,
+    "explanation": "Die Lapita-Kultur ist nach einem Fundort in Neukaledonien benannt; ihre charakteristisch verzierte Keramik markiert den Weg der Besiedlung bis Tonga und Samoa.",
     "difficulty": 3
   },
   {

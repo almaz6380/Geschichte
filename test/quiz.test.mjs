@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { MIXED, MIXED_COUNT, MAX_PER_EPOCH_MIXED, seededRng, pickQuestions, shuffleChoices, createSession, answer, next, isFinished, evaluate } from '../js/quiz.js';
+import { MIXED, MIXED_COUNT, MAX_PER_EPOCH_MIXED, EPOCH_COUNT, seededRng, pickQuestions, shuffleChoices, createSession, answer, next, isFinished, evaluate } from '../js/quiz.js';
 import { loadData } from '../scripts/validate-data.mjs';
 
 function quizByEpoch(db) {
@@ -9,15 +9,17 @@ function quizByEpoch(db) {
   return m;
 }
 
-test('Epochen-Modus liefert alle Fragen der Epoche in gemischter Reihenfolge', () => {
+test('Epochen-Modus liefert bis zu EPOCH_COUNT Fragen der Epoche ohne Dopplung', () => {
   const db = loadData();
   const map = quizByEpoch(db);
   const qs = pickQuestions(map, 'rom', seededRng(7));
-  assert.equal(qs.length, map.get('rom').length);
-  assert.deepEqual(new Set(qs.map((q) => q.id)), new Set(map.get('rom').map((q) => q.id)));
+  assert.equal(qs.length, Math.min(EPOCH_COUNT, map.get('rom').length));
+  const all = new Set(map.get('rom').map((q) => q.id));
+  for (const q of qs) assert.ok(all.has(q.id));
+  assert.equal(new Set(qs.map((q) => q.id)).size, qs.length);
 });
 
-test('Gemischt-Modus: 15 Fragen, max. 2 pro Epoche', () => {
+test('Gemischt-Modus: MIXED_COUNT Fragen, max. 2 pro Epoche', () => {
   const db = loadData();
   const qs = pickQuestions(quizByEpoch(db), MIXED, seededRng(42));
   assert.equal(qs.length, MIXED_COUNT);

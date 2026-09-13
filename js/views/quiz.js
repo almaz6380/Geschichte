@@ -1,6 +1,6 @@
 import { DB } from '../data.js';
 import { esc, setTitle, backLink } from '../ui.js';
-import { MIXED, pickQuestions, createSession, answer, next, isFinished, evaluate, grade } from '../quiz.js';
+import { MIXED, MIXED_COUNT, EPOCH_COUNT, pickQuestions, createSession, answer, next, isFinished, evaluate, grade } from '../quiz.js';
 import { getQuizProgress, saveQuizResult, resetQuizProgress } from '../store.js';
 import { render as notFound } from './notfound.js';
 
@@ -29,7 +29,7 @@ function renderModes(el) {
     <div class="card-grid">
       <a class="card card-link quiz-mode-card" href="#/quiz/${MIXED}" style="--epoch-color:var(--accent)">
         <h3>Gemischtes Quiz</h3>
-        <span class="muted">15 Fragen aus allen Epochen</span>
+        <span class="muted">${MIXED_COUNT} Fragen aus allen Epochen</span>
         <span class="best">${mixed ? `Bestwert <b>${mixed.best}/${mixed.total}</b> · ${mixed.attempts} ${mixed.attempts === 1 ? 'Versuch' : 'Versuche'}` : 'Noch nicht gespielt'}</span>
       </a>
       ${DB.epochs.map((e) => {
@@ -37,7 +37,7 @@ function renderModes(el) {
         const p = progress[e.id];
         return `<a class="card card-link quiz-mode-card" href="#/quiz/${e.id}" style="--epoch-color:${e.color}">
           <h3>${esc(e.title)}</h3>
-          <span class="muted">${n} Fragen</span>
+          <span class="muted">${Math.min(n, EPOCH_COUNT)} von ${n} Fragen pro Runde</span>
           <span class="best">${p ? `Bestwert <b>${p.best}/${p.total}</b> · ${p.attempts} ${p.attempts === 1 ? 'Versuch' : 'Versuche'}` : 'Noch nicht gespielt'}</span>
         </a>`;
       }).join('')}
@@ -75,7 +75,7 @@ function renderQuiz(el, mode) {
       <div class="quiz-card card" style="--epoch-color:${epoch?.color || 'var(--accent)'}">
         <div class="quiz-top"><span>${esc(title)}</span><span>Frage ${n} von ${total}</span></div>
         <div class="progress" aria-hidden="true"><span style="width:${Math.round(((n - (answered ? 0 : 1)) / total) * 100)}%"></span></div>
-        ${mode === MIXED && qEpoch ? `<div class="muted" style="margin-top:10px;font-size:0.85rem">${esc(qEpoch.title)}</div>` : ''}
+        <div class="quiz-sub">${mode === MIXED && qEpoch ? `<span class="muted">${esc(qEpoch.title)}</span>` : '<span></span>'}<span class="badge diff-${q.difficulty}">${['', 'Leicht', 'Mittel', 'Schwer'][q.difficulty]}</span></div>
         <div class="quiz-question" id="quiz-q">${esc(q.question)}</div>
         <div class="quiz-choices" role="group" aria-labelledby="quiz-q">
           ${q.choices.map((c, i) => {

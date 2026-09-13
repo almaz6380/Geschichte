@@ -1,5 +1,47 @@
 [
   {
+    "id": "oldowan-steinwerkzeuge",
+    "title": "Erste Steinwerkzeuge: das Oldowan",
+    "year": -2600000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "afrika",
+    "summary": "Frühe Menschen in Ostafrika schlagen scharfkantige Abschläge von Steinen und beginnen damit die Steinzeit.",
+    "text": "Die ältesten sicher als Werkzeuge erkennbaren Steine stammen aus Gona in Äthiopien und sind rund 2,6 Millionen Jahre alt; benannt ist die Technik nach der Olduvai-Schlucht in Tansania. Mit einem Schlagstein trennten frühe Menschen wie der Homo habilis scharfe Abschläge von Geröllen und nutzten sie, um Fleisch von Knochen zu lösen und Knochen aufzuschlagen, um an das nahrhafte Mark zu gelangen. Noch ältere Funde vom Lomekwi in Kenia, etwa 3,3 Millionen Jahre alt, deuten darauf hin, dass schon Vormenschen mit Steinen arbeiteten. Die Werkzeugherstellung gilt als Beginn der Steinzeit und als entscheidender Schritt der menschlichen Entwicklung.",
+    "personIds": [
+      "homo-habilis"
+    ],
+    "tags": [
+      "steinwerkzeuge",
+      "oldowan",
+      "homo habilis",
+      "altsteinzeit"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "homo-erectus-verlaesst-afrika",
+    "title": "Homo erectus verlässt Afrika",
+    "year": -1800000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "asien",
+    "summary": "Als erste Menschenart breitet sich der Homo erectus von Afrika über den Nahen Osten bis nach Ostasien aus.",
+    "text": "Vor etwa 1,8 Millionen Jahren erreichten Gruppen des Homo erectus den Kaukasus, wie die Schädelfunde von Dmanisi in Georgien zeigen. Über Jahrhunderttausende verbreitete sich die Art bis nach Java und China, wo sie als Java-Mensch und Peking-Mensch bekannt wurde, und später auch nach Europa. Der aufrechte, ausdauernde Läufer mit großem Gehirn stellte Faustkeile her und lernte, Feuer zu nutzen. Der Homo erectus bestand rund 1,8 Millionen Jahre und war damit die langlebigste Menschenart.",
+    "personIds": [
+      "homo-erectus"
+    ],
+    "tags": [
+      "homo erectus",
+      "migration",
+      "dmanisi",
+      "faustkeil"
+    ],
+    "importance": 3
+  },
+  {
     "id": "beherrschung-des-feuers",
     "title": "Beherrschung des Feuers",
     "year": -400000,
@@ -36,6 +78,25 @@
       "afrika"
     ],
     "importance": 3
+  },
+  {
+    "id": "blombos-hoehle-kunst-und-schmuck",
+    "title": "Kunst und Schmuck der Blombos-Höhle",
+    "year": -75000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "afrika",
+    "summary": "In Südafrika entstehen die ältesten bekannten geometrischen Ritzungen und Perlen aus Schneckenhäusern.",
+    "text": "In der Blombos-Höhle an der Südküste Südafrikas fanden Archäologen Ockerstücke mit eingeritzten Rautenmustern, durchbohrte Schneckenhäuser, die als Perlenketten getragen wurden, sowie fein gearbeitete Knochenwerkzeuge und Speerspitzen. Die Funde sind rund 75.000 Jahre alt, eine mit Ocker gezeichnete Kreuzschraffur sogar etwa 73.000 Jahre. Dazu kam ein Werkzeugsatz zum Anrühren von Farbe in Abalone-Muscheln aus einer Schicht von vor 100.000 Jahren. Die Höhle belegt, dass der Homo sapiens schon in Afrika symbolisch dachte, lange bevor die Höhlenkunst Europas entstand.",
+    "personIds": [],
+    "tags": [
+      "kunst",
+      "schmuck",
+      "symbolisches denken",
+      "südafrika"
+    ],
+    "importance": 2
   },
   {
     "id": "auszug-aus-afrika",
@@ -90,6 +151,25 @@
       "kunst",
       "höhlenmalerei",
       "eiszeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "erfindung-der-toepferei",
+    "title": "Erfindung der Töpferei",
+    "year": -16000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "asien",
+    "summary": "Jäger und Sammler in Ostasien brennen die ersten Gefäße aus Ton, lange vor dem Beginn des Ackerbaus.",
+    "text": "Die ältesten Keramikscherben der Welt stammen aus der Xianrendong-Höhle in Südchina und sind etwa 18.000 bis 20.000 Jahre alt; wenig jünger sind Funde aus Japan, wo die Jōmon-Kultur später kunstvoll verzierte Gefäße herstellte. Die Erfinder waren noch keine Bauern, sondern Jäger, Fischer und Sammler, die in Tongefäßen Nahrung kochten und Vorräte aufbewahrten. In Vorderasien und Europa setzte sich die Töpferei erst mit der Sesshaftigkeit um 7000 v. Chr. durch. Keramik ist für die Archäologie besonders wichtig, weil sie fast unbegrenzt haltbar ist und ihre Formen und Muster einzelne Kulturen erkennen lassen.",
+    "personIds": [],
+    "tags": [
+      "keramik",
+      "töpferei",
+      "china",
+      "jōmon"
     ],
     "importance": 2
   },
@@ -149,6 +229,25 @@
     "importance": 3
   },
   {
+    "id": "jericho-frueheste-stadtsiedlung",
+    "title": "Jericho: eine der ältesten Siedlungen mit Mauer",
+    "year": -9000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "naher-osten",
+    "summary": "An einer Quelle im Jordantal entsteht eine große Dauersiedlung, die um 8000 v. Chr. eine Steinmauer und einen Turm erhält.",
+    "text": "Jericho, das heutige Tell es-Sultan im Westjordanland, wurde um 9000 v. Chr. dauerhaft besiedelt und wuchs bald auf mehrere hundert, vielleicht über tausend Bewohner. Um 8000 v. Chr. umgaben die Bewohner ihre Siedlung mit einer Steinmauer und errichteten einen fast neun Meter hohen Turm mit Innentreppe, das älteste bekannte Bauwerk dieser Art. Ob die Mauer dem Schutz vor Feinden oder vor Hochwasser und Schlamm diente, ist umstritten. Berühmt sind auch die mit Gips überzogenen Schädel, die Ahnen darstellen und in den Häusern aufbewahrt wurden. Jericho gilt als eine der ältesten dauerhaft bewohnten Siedlungen der Welt.",
+    "personIds": [],
+    "tags": [
+      "jericho",
+      "siedlung",
+      "stadtmauer",
+      "jungsteinzeit"
+    ],
+    "importance": 3
+  },
+  {
     "id": "catalhoeyuek",
     "title": "Die Großsiedlung Çatalhöyük",
     "year": -7000,
@@ -163,6 +262,65 @@
       "siedlung",
       "jungsteinzeit",
       "anatolien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "bewaesserungslandwirtschaft-mesopotamien",
+    "title": "Erste Bewässerungslandwirtschaft in Mesopotamien",
+    "year": -6000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "naher-osten",
+    "summary": "Bauern leiten Wasser aus Flüssen über Kanäle auf ihre Felder und machen das trockene Zweistromland fruchtbar.",
+    "text": "In den Gebieten am mittleren Tigris fiel zu wenig Regen für Ackerbau, doch um 6000 v. Chr. begannen Dörfer der Samarra-Kultur wie Tell es-Sawwan und Choga Mami, Flusswasser durch Gräben auf ihre Felder zu leiten. Die künstliche Bewässerung erlaubte zwei Ernten im Jahr, Anbau von Flachs und Getreide und größere Siedlungen. Kanäle mussten gemeinsam angelegt, gereinigt und verteilt werden, was Absprachen und Führung erforderte. Auf dieser Grundlage entstanden im südlichen Mesopotamien im 4. Jahrtausend v. Chr. die ersten Städte der Welt.",
+    "personIds": [],
+    "tags": [
+      "bewässerung",
+      "ackerbau",
+      "mesopotamien",
+      "kanäle"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "beginn-der-kupferzeit",
+    "title": "Beginn der Metallverarbeitung: die Kupferzeit",
+    "year": -5000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "europa",
+    "summary": "Menschen lernen, Kupfererz zu schmelzen und Metall zu gießen; die ersten Beile, Nadeln und Schmuckstücke aus Kupfer entstehen.",
+    "text": "Gediegenes Kupfer wurde in Anatolien schon um 8000 v. Chr. kalt gehämmert, doch erst um 5000 v. Chr. gelang es, Erz in Öfen zu schmelzen: Die ältesten Belege stammen aus Belovode in Serbien, wenig später aus dem Iran und Anatolien. Der Bergbau von Rudna Glava und die Goldfunde aus dem Gräberfeld von Warna in Bulgarien zeigen, wie schnell Metall zum Zeichen von Reichtum wurde. Kupfer war weich und für Werkzeuge nur begrenzt geeignet, doch das Wissen um Schmelzen und Gießen bereitete die Bronzezeit vor. In Europa spricht man für diese Übergangszeit von der Kupferzeit, in der auch Ötzi lebte.",
+    "personIds": [
+      "oetzi"
+    ],
+    "tags": [
+      "kupfer",
+      "metallurgie",
+      "kupferzeit",
+      "warna"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "domestizierung-des-pferdes",
+    "title": "Domestizierung des Pferdes",
+    "year": -3500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "asien",
+    "summary": "In den Steppen Zentralasiens beginnen Menschen, Pferde zu halten, zu melken und zu reiten.",
+    "text": "In Siedlungen der Botai-Kultur im heutigen Kasachstan fanden Forscher um 3500 v. Chr. Pferdeknochen in großer Zahl, Spuren von Stutenmilch in Tongefäßen und Abnutzungen an Zähnen, die auf Trensen hindeuten. Genetische Untersuchungen zeigen allerdings, dass die heutigen Hauspferde von einer anderen Population aus den Steppen nördlich des Schwarzen Meeres abstammen, die sich um 2200 v. Chr. rasch verbreitete. Das Pferd veränderte Mobilität, Krieg und Handel grundlegend: Reiter und Streitwagen prägten die Bronzezeit, und Hirtenvölker der Steppe konnten riesige Gebiete beherrschen.",
+    "personIds": [],
+    "tags": [
+      "pferd",
+      "domestikation",
+      "steppe",
+      "botai"
     ],
     "importance": 2
   },
@@ -241,6 +399,44 @@
     "importance": 3
   },
   {
+    "id": "megalithbauten-stonehenge",
+    "title": "Megalithbauten und Stonehenge",
+    "year": -3000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "europa",
+    "summary": "Bauern der Jungsteinzeit errichten in Westeuropa Grabkammern, Steinreihen und Steinkreise aus tonnenschweren Blöcken.",
+    "text": "Ab etwa 4500 v. Chr. bauten Menschen entlang der Atlantikküste von Portugal bis Skandinavien Gräber und Kultanlagen aus großen Steinen, sogenannte Megalithen, darunter die Steinreihen von Carnac in der Bretagne, das Ganggrab Newgrange in Irland und die Tempel von Malta. Stonehenge in Südengland begann um 3000 v. Chr. als Kreisgraben mit Holzpfosten; um 2500 v. Chr. wurden die bis zu 25 Tonnen schweren Sarsensteine aufgerichtet, während kleinere Blausteine aus dem 250 Kilometer entfernten Wales stammten. Die Anlage ist auf den Sonnenaufgang zur Sommersonnenwende ausgerichtet und diente vermutlich als Heiligtum und Begräbnisplatz. Solche Bauten setzten die Zusammenarbeit vieler Gemeinschaften über Generationen voraus.",
+    "personIds": [],
+    "tags": [
+      "megalith",
+      "stonehenge",
+      "jungsteinzeit",
+      "astronomie"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "stadtstaaten-sumers-und-ur-standarte",
+    "title": "Stadtstaaten Sumers und die Standarte von Ur",
+    "year": -2600,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "In Sumer wetteifern Stadtstaaten wie Ur, Uruk und Lagasch um Land und Wasser; die Königsgräber von Ur zeugen von ihrem Reichtum.",
+    "text": "Im 3. Jahrtausend v. Chr. war Sumer in ein Dutzend Stadtstaaten geteilt, deren Könige sich um Kanäle, Grenzland und die Vorherrschaft bekriegten; die Geierstele von Lagasch zeigt einen dieser Kriege. Der britische Archäologe Leonard Woolley legte in den 1920er Jahren die Königsgräber von Ur frei, in denen Herrscher mit Goldhelmen, Leiern, Schmuck aus Lapislazuli und dutzenden geopferten Dienern bestattet worden waren. Die sogenannte Standarte von Ur, ein mit Muschel und Lapislazuli eingelegter Kasten, stellt auf einer Seite Krieg mit Streitwagen und auf der anderen ein Festmahl mit Abgaben dar. Die Funde geben Einblick in Königtum, Handwerk und Fernhandel der frühen Stadtstaaten.",
+    "personIds": [],
+    "tags": [
+      "sumer",
+      "ur",
+      "stadtstaat",
+      "königsgräber"
+    ],
+    "importance": 2
+  },
+  {
     "id": "bau-der-cheops-pyramide",
     "title": "Bau der Cheops-Pyramide",
     "year": -2560,
@@ -297,6 +493,65 @@
     "importance": 3
   },
   {
+    "id": "gilgamesch-epos",
+    "title": "Das Gilgamesch-Epos",
+    "year": -2100,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Die Erzählungen um den König Gilgamesch von Uruk werden aufgeschrieben und zum ältesten großen Epos der Weltliteratur.",
+    "text": "Sumerische Dichtungen über Gilgamesch wurden um 2100 v. Chr. in der Zeit der dritten Dynastie von Ur niedergeschrieben; um 1200 v. Chr. fasste der Schreiber Sin-leqe-unninni sie in babylonischer Sprache zu einem Epos auf zwölf Tafeln zusammen. Es erzählt von der Freundschaft des Königs mit dem wilden Enkidu, vom Kampf gegen den Ungeheuer Humbaba und von Gilgameschs vergeblicher Suche nach Unsterblichkeit nach dem Tod des Freundes. Die elfte Tafel enthält eine Sintfluterzählung, die der biblischen Geschichte von Noah ähnelt. Das Epos wurde in Schreiberschulen von Anatolien bis Palästina abgeschrieben und 1872 in London aus Tafeln der Bibliothek Assurbanipals wiederentdeckt.",
+    "personIds": [
+      "gilgamesch"
+    ],
+    "tags": [
+      "literatur",
+      "epos",
+      "uruk",
+      "sintflut"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "mittleres-reich-aegyptens",
+    "title": "Das Mittlere Reich Ägyptens",
+    "year": -2055,
+    "endYear": -1650,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "summary": "Nach einer Zeit des Zerfalls einigt Mentuhotep II. Ägypten erneut; es folgt eine Blütezeit von Literatur, Verwaltung und Landgewinnung.",
+    "text": "Nach dem Zusammenbruch des Alten Reiches und rund 150 Jahren der Teilung vereinigte der thebanische König Mentuhotep II. um 2055 v. Chr. das Land wieder. Die Könige der 12. Dynastie wie Sesostris III. und Amenemhet III. sicherten Nubien mit Festungen, ließen im Fajum große Flächen trockenlegen und stärkten die Beamtenschaft gegenüber dem Adel. Das Mittlere Reich gilt als klassische Zeit der ägyptischen Literatur mit Werken wie der Geschichte des Sinuhe und den Lehren für Könige und Beamte. Um 1650 v. Chr. übernahmen die aus Vorderasien stammenden Hyksos die Herrschaft im Nildelta und brachten Pferd und Streitwagen nach Ägypten.",
+    "personIds": [],
+    "tags": [
+      "ägypten",
+      "mittleres reich",
+      "literatur",
+      "fajum"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "minoische-kultur-auf-kreta",
+    "title": "Minoische Kultur auf Kreta",
+    "year": -2000,
+    "endYear": -1450,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "europa",
+    "summary": "Auf Kreta entsteht mit Palästen wie Knossos die erste Hochkultur Europas.",
+    "text": "Ab etwa 2000 v. Chr. errichteten die Bewohner Kretas große Palastanlagen in Knossos, Phaistos und Malia mit hunderten Räumen, Vorratsmagazinen, Wasserleitungen und farbenprächtigen Wandmalereien von Delfinen, Stierspringern und Frauen in kunstvollen Gewändern. Die Minoer, benannt nach dem sagenhaften König Minos, betrieben Seehandel bis nach Ägypten und Syrien und schrieben in der bis heute unentzifferten Linearschrift A. Auffällig ist das Fehlen von Befestigungen und Kriegsdarstellungen. Der gewaltige Vulkanausbruch auf der Insel Thera um 1600 v. Chr. und die Übernahme durch Mykener um 1450 v. Chr. beendeten die Blüte; Arthur Evans grub Knossos ab 1900 aus.",
+    "personIds": [],
+    "tags": [
+      "minoer",
+      "knossos",
+      "kreta",
+      "paläste"
+    ],
+    "importance": 2
+  },
+  {
     "id": "codex-hammurapi",
     "title": "Codex Hammurapi",
     "year": -1750,
@@ -317,6 +572,44 @@
     "importance": 3
   },
   {
+    "id": "hethiter-reich",
+    "title": "Aufstieg des Hethiterreiches",
+    "year": -1650,
+    "endYear": -1200,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Von ihrer Hauptstadt Hattusa aus beherrschen die Hethiter Anatolien und Nordsyrien und werden zur Großmacht neben Ägypten.",
+    "text": "Um 1650 v. Chr. machte König Hattusili I. die Bergfestung Hattusa in Zentralanatolien zur Hauptstadt; sein Nachfolger Mursili I. plünderte 1595 v. Chr. sogar Babylon. Die Hethiter sprachen die älteste schriftlich überlieferte indogermanische Sprache, übernahmen die Keilschrift und hinterließen in Hattusa ein Archiv von über 30.000 Tontafeln mit Gesetzen, Verträgen, Ritualen und Mythen. Ihre Streitwagen und ihre frühe Eisenverarbeitung machten sie zu gefürchteten Kriegern; unter Suppiluliuma I. und Muwatalli II. rangen sie mit Ägypten um Syrien. Um 1200 v. Chr. brach das Reich in den Wirren des Bronzezeit-Kollapses zusammen, und Hattusa wurde aufgegeben.",
+    "personIds": [],
+    "tags": [
+      "hethiter",
+      "hattusa",
+      "anatolien",
+      "großmacht"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "mykenische-kultur",
+    "title": "Mykene und die mykenische Kultur",
+    "year": -1600,
+    "endYear": -1200,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "europa",
+    "summary": "Auf dem griechischen Festland errichten Kriegerfürsten Burgen wie Mykene und Pylos und verwalten sie mit der Schrift Linear B.",
+    "text": "Ab etwa 1600 v. Chr. entstanden in Griechenland befestigte Palastburgen wie Mykene, Tiryns, Pylos und Theben, deren Herrscher in Schachtgräbern mit Goldmasken und Waffen bestattet wurden. Die Mykener übernahmen viel von den Minoern, waren aber kriegerischer: Mauern aus tonnenschweren Blöcken, das Löwentor von Mykene und Kuppelgräber zeugen von ihrer Macht. Ihre Schrift Linear B, 1952 von Michael Ventris entziffert, erwies sich als frühes Griechisch und diente der Verwaltung von Vorräten, Handwerkern und Abgaben. Heinrich Schliemann grub Mykene 1876 aus und glaubte, die Welt Homers gefunden zu haben; um 1200 v. Chr. wurden die Paläste zerstört, und Griechenland versank in dunkle Jahrhunderte.",
+    "personIds": [],
+    "tags": [
+      "mykene",
+      "linear b",
+      "griechenland",
+      "bronzezeit"
+    ],
+    "importance": 2
+  },
+  {
     "id": "shang-dynastie-orakelknochen",
     "title": "Shang-Dynastie und Orakelknochen",
     "year": -1600,
@@ -332,6 +625,25 @@
       "shang",
       "schrift",
       "bronze"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "lapita-besiedlung-pazifik",
+    "title": "Lapita-Kultur besiedelt die pazifischen Inseln",
+    "year": -1500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "ozeanien",
+    "summary": "Seefahrer mit Auslegerkanus erreichen von Südostasien aus die entlegenen Inseln Melanesiens und Polynesiens.",
+    "text": "Um 1500 v. Chr. brachen Gruppen aus dem Raum Taiwan und der Philippinen über den Bismarck-Archipel in den offenen Pazifik auf. Sie sind an ihrer gestempelten Keramik erkennbar, die nach dem Fundort Lapita in Neukaledonien benannt ist, und führten Schweine, Hühner, Hunde sowie Taro und Yams auf ihren Kanus mit. Innerhalb weniger Jahrhunderte erreichten sie Fidschi, Tonga und Samoa, von wo ihre Nachfahren, die Polynesier, viel später Hawaii, die Osterinsel und Neuseeland besiedelten. Die Navigation nach Sternen, Wellen und Vogelflug über tausende Kilometer gehört zu den größten Leistungen der Seefahrtsgeschichte.",
+    "personIds": [],
+    "tags": [
+      "lapita",
+      "seefahrt",
+      "polynesier",
+      "ozeanien"
     ],
     "importance": 2
   },
@@ -397,6 +709,25 @@
     "importance": 3
   },
   {
+    "id": "beginn-der-eisenzeit",
+    "title": "Erste Eisenverarbeitung und Beginn der Eisenzeit",
+    "year": -1200,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Nach dem Zusammenbruch der Bronzezeit setzt sich das leichter verfügbare Eisen als Werkstoff für Waffen und Werkzeuge durch.",
+    "text": "Einzelne Eisengegenstände aus Meteoriteneisen sind schon aus dem 3. Jahrtausend v. Chr. bekannt, und die Hethiter stellten im 14. Jahrhundert v. Chr. kleine Mengen geschmiedeten Eisens her. Erst als um 1200 v. Chr. die Handelswege für Zinn zusammenbrachen, gingen Schmiede in Anatolien, Zypern und der Levante in größerem Maßstab dazu über, Eisenerz in Rennöfen zu verhütten und das Metall durch Aufkohlen und Härten zu Stahl zu verbessern. Eisenerz war fast überall vorhanden, sodass Pflugscharen, Äxte und Schwerter billiger wurden. Von Vorderasien verbreitete sich die Technik nach Griechenland, Europa, Indien und, unabhängig davon, nach Afrika südlich der Sahara.",
+    "personIds": [],
+    "tags": [
+      "eisen",
+      "eisenzeit",
+      "technik",
+      "schmiede"
+    ],
+    "importance": 3
+  },
+  {
     "id": "olmeken-in-mesoamerika",
     "title": "Olmeken in Mesoamerika",
     "year": -1200,
@@ -411,6 +742,84 @@
       "olmeken",
       "mesoamerika",
       "kolossalköpfe"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "phoenizier-und-alphabet",
+    "title": "Die Phönizier und ihr Alphabet",
+    "year": -1050,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Die Handelsstädte Tyros, Sidon und Byblos entwickeln ein Alphabet aus 22 Buchstaben und tragen es über das ganze Mittelmeer.",
+    "text": "Die Phönizier an der Küste des heutigen Libanon vereinfachten ältere Konsonantenschriften der Levante um 1050 v. Chr. zu einem Alphabet mit nur 22 Zeichen, das jeder in kurzer Zeit erlernen konnte; die Inschrift auf dem Sarkophag des Königs Ahiram von Byblos ist eines der frühesten Beispiele. Als geschickte Seefahrer und Händler mit Purpur, Zedernholz, Glas und Metallen gründeten sie Niederlassungen auf Zypern, Sizilien, in Spanien und 814 v. Chr. Karthago in Nordafrika. Die Griechen übernahmen ihre Buchstaben und ergänzten Vokale, die Etrusker und Römer gaben sie weiter; auch die aramäische, hebräische und arabische Schrift gehen auf das phönizische Alphabet zurück.",
+    "personIds": [],
+    "tags": [
+      "phönizier",
+      "alphabet",
+      "seehandel",
+      "karthago"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "koenigreich-kusch",
+    "title": "Königreich Kusch in Nubien",
+    "year": -1000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "summary": "Südlich von Ägypten entsteht am Nil ein eigenständiges afrikanisches Königreich mit der Hauptstadt Napata.",
+    "text": "Nubien im heutigen Sudan war reich an Gold und lag an den Handelswegen für Elfenbein, Ebenholz und Weihrauch. Nach dem älteren Reich von Kerma, das um 1500 v. Chr. von Ägypten erobert worden war, bildete sich ab etwa 1000 v. Chr. bei Napata am vierten Nilkatarakt das Königreich Kusch. Seine Könige verehrten den Gott Amun am heiligen Berg Dschebel Barkal, übernahmen Hieroglyphen und Pyramidengräber, blieben aber kulturell eigenständig. Um 730 v. Chr. eroberte der kuschitische König Pije Ägypten und begründete die 25. Dynastie der schwarzen Pharaonen; später verlegte Kusch seine Hauptstadt nach Meroe und bestand bis ins 4. Jahrhundert n. Chr.",
+    "personIds": [],
+    "tags": [
+      "kusch",
+      "nubien",
+      "napata",
+      "afrika"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "neuassyrisches-reich",
+    "title": "Aufstieg des Neuassyrischen Reiches",
+    "year": -911,
+    "endYear": -612,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Von Assur und Ninive aus erobern die Assyrer mit dem schlagkräftigsten Heer ihrer Zeit den gesamten Nahen Osten.",
+    "text": "Ab 911 v. Chr. dehnten die Könige Assyriens am oberen Tigris ihre Herrschaft mit jährlichen Feldzügen aus; Assurnasirpal II. baute Nimrud zur prunkvollen Residenz aus, Tiglat-Pileser III. schuf ein stehendes Heer und ein Provinzsystem. Die Assyrer setzten Belagerungsmaschinen, Reiterei und Eisenwaffen ein, deportierten unterworfene Völker und verbreiteten mit Reliefs und Inschriften gezielt Schrecken. Auf dem Höhepunkt im 7. Jahrhundert v. Chr. reichte das Reich von Ägypten bis Iran; in Ninive sammelte Assurbanipal die erste große Bibliothek mit über 30.000 Tontafeln, darunter das Gilgamesch-Epos. 612 v. Chr. zerstörten Babylonier und Meder Ninive, und das Reich brach zusammen.",
+    "personIds": [
+      "tiglat-pileser-i"
+    ],
+    "tags": [
+      "assyrer",
+      "ninive",
+      "großreich",
+      "heer"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "chavin-kultur-in-peru",
+    "title": "Chavín-Kultur in Peru",
+    "year": -900,
+    "endYear": -200,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "amerika",
+    "summary": "In den Anden entsteht mit Chavín de Huántar ein Pilgerzentrum, dessen Kunst und Religion weite Teile Perus prägen.",
+    "text": "Chavín de Huántar liegt in über 3.000 Metern Höhe in den peruanischen Anden an einem Zusammenfluss zweier Flüsse. Ab etwa 900 v. Chr. errichteten die Menschen dort einen Tempel aus Stein mit unterirdischen Gängen, Wasserkanälen und dem Lanzón, einem viereinhalb Meter hohen Steinpfeiler mit dem Bild einer Gottheit mit Raubtierzähnen. Pilger aus dem ganzen Andenraum brachten Muscheln von der Küste, Obsidian und Textilien; im Tempel spielten Priester auf Muscheltrompeten und nutzten halluzinogene Kakteen für Rituale. Der Chavín-Stil mit Jaguaren, Schlangen und Adlern verbreitete sich über Keramik, Gold und Textilien und gilt als erste gemeinsame Kultur der Anden, aus der später Moche, Nazca und Inka hervorgingen.",
+    "personIds": [],
+    "tags": [
+      "chavín",
+      "anden",
+      "peru",
+      "tempel"
     ],
     "importance": 2
   },
@@ -451,6 +860,25 @@
     "importance": 2
   },
   {
+    "id": "griechische-kolonisation",
+    "title": "Griechische Kolonisation des Mittelmeerraums",
+    "year": -750,
+    "endYear": -550,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Griechische Städte gründen hunderte Kolonien von Spanien bis zum Schwarzen Meer und verbreiten Sprache, Schrift und Lebensweise der Griechen.",
+    "text": "Landmangel, Hunger, Handel und innere Konflikte veranlassten viele Poleis, Bürger auszusenden und neue Städte zu gründen: Kyme und Syrakus in Italien und Sizilien, Massalia, das heutige Marseille, Kyrene in Nordafrika, Byzantion am Bosporus und zahlreiche Städte am Schwarzen Meer. Die Kolonien waren politisch unabhängig, blieben aber durch Kulte, Sprache und Handel mit ihrer Mutterstadt verbunden. Unteritalien und Sizilien wurden so zur Magna Graecia, dem Großgriechenland, in dem Denker wie Pythagoras und Archimedes wirkten. Die Kolonisation brachte die Griechen in Kontakt mit Etruskern, Kelten, Skythen und Ägyptern und vermittelte das Alphabet und die Münze an ihre Nachbarn.",
+    "personIds": [],
+    "tags": [
+      "kolonisation",
+      "seefahrt",
+      "magna graecia",
+      "handel"
+    ],
+    "importance": 3
+  },
+  {
     "id": "homer-und-die-epen",
     "title": "Homer und die Epen Ilias und Odyssee",
     "year": -750,
@@ -468,6 +896,44 @@
       "literatur"
     ],
     "importance": 2
+  },
+  {
+    "id": "orakel-von-delphi",
+    "title": "Delphi und das Orakel des Apollon",
+    "year": -700,
+    "endYear": null,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Das Heiligtum des Apollon in Delphi wird zur wichtigsten Orakelstätte der griechischen Welt, die Städte und Könige vor jeder großen Entscheidung befragen.",
+    "text": "Am Hang des Parnass verkündete die Priesterin Pythia auf einem Dreifuß sitzend die Antworten des Gottes Apollon, die Priester in oft doppeldeutige Verse fassten. Spätestens ab dem 8. Jahrhundert v. Chr. holten Poleis vor Koloniegründungen, Kriegen und Gesetzesreformen den Rat Delphis ein, und auch Fremde wie der Lyderkönig Kroisos schickten Gesandte und Weihgeschenke. Die griechischen Städte errichteten dort Schatzhäuser, und seit 582 v. Chr. fanden die Pythischen Spiele mit Musik- und Sportwettkämpfen statt. Die Sprüche Erkenne dich selbst und Nichts im Übermaß am Tempeleingang fassten die griechische Lebensweisheit zusammen; Delphi galt als Nabel der Welt und wurde erst 391 n. Chr. geschlossen.",
+    "personIds": [],
+    "tags": [
+      "delphi",
+      "orakel",
+      "apollon",
+      "religion"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "reformen-solons",
+    "title": "Reformen Solons in Athen",
+    "year": -594,
+    "endYear": null,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Solon schafft die Schuldknechtschaft ab und gibt allen Bürgern Athens politische Rechte nach ihrem Vermögen.",
+    "text": "Um 594 v. Chr. erhielt der Dichter und Staatsmann Solon den Auftrag, die Krise Athens zu lösen, in der verschuldete Bauern in die Sklaverei geraten waren. Er erließ alle Schulden, verbot, Bürger wegen Schulden zu versklaven, und kaufte Verschleppte zurück. Die Bürger teilte er nach ihrem Ernteertrag in vier Klassen ein, die abgestufte Rechte auf Ämter erhielten; auch die ärmste Klasse durfte an Volksversammlung und Gerichten teilnehmen. Solon lehnte es ab, Tyrann zu werden, und verließ Athen für zehn Jahre, damit seine Gesetze erprobt würden. Er gilt als einer der Sieben Weisen und als Wegbereiter der Demokratie.",
+    "personIds": [],
+    "tags": [
+      "solon",
+      "athen",
+      "reform",
+      "schuldknechtschaft"
+    ],
+    "importance": 3
   },
   {
     "id": "kyros-gruendet-das-perserreich",
@@ -489,6 +955,25 @@
       "großreich"
     ],
     "importance": 3
+  },
+  {
+    "id": "tyrannis-der-peisistratiden",
+    "title": "Tyrannis der Peisistratiden in Athen",
+    "year": -546,
+    "endYear": -510,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Peisistratos und seine Söhne herrschen als Tyrannen über Athen und fördern Bauern, Feste und Kunst, bis Hippias vertrieben wird.",
+    "text": "Peisistratos ergriff nach zwei gescheiterten Versuchen um 546 v. Chr. mit Söldnern dauerhaft die Macht in Athen. Er ließ Solons Gesetze bestehen, verlieh Kleinbauern Kredite, ließ Wasserleitungen und Tempel bauen und richtete die Dionysien mit Theaterwettbewerben und die Panathenäen als große Feste aus; unter ihm wurden die Epen Homers schriftlich festgehalten. Nach seinem Tod 527 v. Chr. folgten seine Söhne Hippias und Hipparchos; nach der Ermordung des Hipparchos 514 v. Chr. regierte Hippias hart, bis ihn 510 v. Chr. Spartaner und athenische Adlige vertrieben. Die Tyrannenmörder Harmodios und Aristogeiton wurden zu Helden der jungen Demokratie.",
+    "personIds": [],
+    "tags": [
+      "tyrannis",
+      "peisistratos",
+      "athen",
+      "hippias"
+    ],
+    "importance": 1
   },
   {
     "id": "beginn-der-roemischen-republik",
@@ -550,6 +1035,27 @@
     "importance": 3
   },
   {
+    "id": "daoismus-und-laozi",
+    "title": "Daoismus und das Daodejing",
+    "year": -500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "In China entsteht mit dem Daoismus eine Lehre vom Einklang mit dem Dao, dem Weg der Natur.",
+    "text": "Das Daodejing, das dem legendären Weisen Laozi zugeschrieben wird, lehrt in 81 kurzen Kapiteln, dass der Mensch nicht gegen die Ordnung der Natur handeln, sondern sich ihr anpassen soll. Statt Regeln und Zeremonien wie bei Konfuzius empfiehlt es Zurückhaltung, Einfachheit und das Nichtstun, das Wuwei, auch für den Herrscher. Der Daoismus wurde später zur Volksreligion mit Tempeln, Priestern und der Suche nach Unsterblichkeit und beeinflusste Medizin, Malerei und die Kampfkünste Chinas.",
+    "personIds": [
+      "laozi"
+    ],
+    "tags": [
+      "daoismus",
+      "philosophie",
+      "laozi",
+      "china"
+    ],
+    "importance": 3
+  },
+  {
     "id": "konfuzius-und-seine-lehre",
     "title": "Konfuzius und seine Lehre",
     "year": -500,
@@ -589,6 +1095,25 @@
     "importance": 2
   },
   {
+    "id": "schlacht-an-den-thermopylen",
+    "title": "Schlacht an den Thermopylen",
+    "year": -480,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "König Leonidas und 300 Spartaner halten den Engpass gegen das persische Heer und fallen bis zum letzten Mann.",
+    "text": "Als Xerxes 480 v. Chr. mit einem gewaltigen Heer nach Griechenland zog, stellte sich ihm ein griechisches Aufgebot von wenigen tausend Mann unter dem Spartanerkönig Leonidas am Engpass der Thermopylen entgegen. Zwei Tage lang scheiterten die persischen Angriffe an der Phalanx der Hopliten. Als ein Verräter den Persern einen Bergpfad zeigte, schickte Leonidas die meisten Verbündeten fort und blieb mit 300 Spartanern, 700 Thespiern und 400 Thebanern zurück, die alle fielen. Militärisch eine Niederlage, wurde die Schlacht zum Sinnbild des Opfers für die Freiheit; die Grabinschrift Wanderer, kommst du nach Sparta, verkündige dorten, du habest uns hier liegen gesehn, wie das Gesetz es befahl, ist bis heute berühmt.",
+    "personIds": [],
+    "tags": [
+      "perserkriege",
+      "leonidas",
+      "sparta",
+      "xerxes"
+    ],
+    "importance": 2
+  },
+  {
     "id": "schlacht-von-salamis",
     "title": "Schlacht von Salamis",
     "year": -480,
@@ -604,6 +1129,86 @@
       "themistokles",
       "seeschlacht",
       "xerxes"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "zeit-der-streitenden-reiche",
+    "title": "Zeit der Streitenden Reiche und Sunzis Kunst des Krieges",
+    "year": -475,
+    "endYear": -221,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Sieben chinesische Staaten führen zweieinhalb Jahrhunderte Krieg, während Philosophen der Hundert Schulen um die richtige Ordnung streiten.",
+    "text": "Nach dem Zerfall der Zhou-Herrschaft kämpften die Staaten Qin, Chu, Qi, Yan, Han, Zhao und Wei mit Massenheeren aus Fußsoldaten, Armbrüsten und eisernen Waffen um die Vorherrschaft. In dieser Krise suchten Denker wie Mengzi, Mozi, Zhuangzi und die Legalisten nach Wegen zu Frieden und Ordnung; man spricht von den Hundert Schulen. Der Stratege Sunzi fasste in der Kunst des Krieges Grundsätze zusammen, nach denen ein kluger Feldherr durch Täuschung, Planung und Kenntnis des Gegners siegt, am besten ohne Schlacht. Die Epoche endete 221 v. Chr. mit dem Sieg des Staates Qin.",
+    "personIds": [
+      "sunzi"
+    ],
+    "tags": [
+      "streitende reiche",
+      "sunzi",
+      "hundert schulen",
+      "krieg"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "aischylos-und-die-tragoedie",
+    "title": "Aischylos und die Blüte der Tragödie",
+    "year": -472,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Mit den Persern des Aischylos wird die älteste erhaltene Tragödie aufgeführt; das athenische Theater erreicht seine Blüte.",
+    "text": "An den Dionysien, dem Frühlingsfest des Gottes Dionysos, wetteiferten in Athen jedes Jahr drei Dichter mit je drei Tragödien und einem Satyrspiel um den Sieg; die Aufführungen im Dionysostheater am Hang der Akropolis sahen bis zu 15.000 Zuschauer. 472 v. Chr. siegte Aischylos mit den Persern, die die Schlacht von Salamis aus Sicht der Besiegten zeigen und das älteste erhaltene Drama der Weltliteratur sind. Aischylos führte den zweiten Schauspieler ein und machte damit den Dialog möglich; Sophokles fügte den dritten hinzu und schrieb Antigone und König Ödipus, Euripides stellte in Medea und den Troerinnen Leidenschaft und Leid der Menschen dar. Das Theater war Teil des politischen Lebens: Der Staat bezahlte Bürgern den Eintritt, und die Stücke verhandelten Fragen von Recht, Macht und Schuld.",
+    "personIds": [],
+    "tags": [
+      "theater",
+      "tragödie",
+      "aischylos",
+      "dionysien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "zwoelftafelgesetz",
+    "title": "Das Zwölftafelgesetz",
+    "year": -450,
+    "endYear": null,
+    "approx": true,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Rom erhält mit dem Zwölftafelgesetz seine erste schriftliche Rechtsordnung, die auf dem Forum öffentlich aufgestellt wird.",
+    "text": "Bis zur Mitte des 5. Jahrhunderts v. Chr. kannten allein die patrizischen Priester und Beamten das Recht, was die Plebejer der Willkür auslieferte. Auf ihren Druck hin schrieb um 450 v. Chr. eine Kommission von zehn Männern, die Decemvirn, das geltende Recht auf zwölf Bronzetafeln nieder, die auf dem Forum aufgestellt wurden. Die Bestimmungen regelten Gerichtsverfahren, Schulden, Eigentum, Familie, Erbschaft und Strafen und waren teils hart, etwa gegenüber Schuldnern. Für die Römer blieben die Zwölf Tafeln der Ursprung ihres Rechts; Schüler lernten sie noch zu Ciceros Zeit auswendig, und das Prinzip, dass Recht öffentlich und für alle gleich sein muss, wirkte bis in das moderne Recht.",
+    "personIds": [],
+    "tags": [
+      "recht",
+      "ständekämpfe",
+      "plebejer",
+      "republik"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "bau-des-parthenon",
+    "title": "Blüte Athens: Bau des Parthenon",
+    "year": -447,
+    "endYear": -432,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Unter Perikles entsteht auf der Akropolis der Parthenon, das Meisterwerk der griechischen Baukunst.",
+    "text": "Nachdem die Perser 480 v. Chr. die Akropolis verwüstet hatten, setzte Perikles durch, die Tempel mit den Beiträgen des Attischen Seebundes neu zu bauen. Die Architekten Iktinos und Kallikrates errichteten von 447 bis 432 v. Chr. den Parthenon aus pentelischem Marmor mit 46 dorischen Säulen, einem 160 Meter langen Fries mit dem Festzug der Panathenäen und im Inneren einer zwölf Meter hohen Statue der Athene aus Gold und Elfenbein von Phidias. Feine Krümmungen und Neigungen der Säulen gleichen optische Täuschungen aus und lassen den Bau vollkommen erscheinen. Der Tempel wurde später Kirche und Moschee, 1687 durch eine Explosion schwer beschädigt; einen Großteil der Skulpturen brachte Lord Elgin um 1800 nach London, wo sie bis heute umstritten im British Museum liegen.",
+    "personIds": [
+      "perikles"
+    ],
+    "tags": [
+      "akropolis",
+      "parthenon",
+      "architektur",
+      "phidias"
     ],
     "importance": 3
   },
@@ -626,6 +1231,27 @@
       "thukydides"
     ],
     "importance": 3
+  },
+  {
+    "id": "hippokrates-und-die-medizin",
+    "title": "Hippokrates und die Anfänge der wissenschaftlichen Medizin",
+    "year": -420,
+    "endYear": null,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Auf der Insel Kos begründet Hippokrates eine Medizin, die Krankheiten auf natürliche Ursachen zurückführt.",
+    "text": "Hippokrates von Kos und seine Schüler lehrten um 420 v. Chr., dass Krankheiten nicht von Göttern gesandt werden, sondern natürliche Ursachen wie Klima, Ernährung und Lebensweise haben. Ärzte sollten den Kranken genau beobachten, den Verlauf der Krankheit aufzeichnen und vor allem nicht schaden. Die rund 60 Schriften des Corpus Hippocraticum behandeln Epidemien, Knochenbrüche, Diät und die Lehre von den vier Körpersäften Blut, Schleim, gelbe und schwarze Galle, die die Medizin bis in die Neuzeit prägte. Der hippokratische Eid, der Ärzte zu Verschwiegenheit und zum Wohl des Patienten verpflichtet, ist bis heute Grundlage der ärztlichen Ethik.",
+    "personIds": [
+      "hippokrates"
+    ],
+    "tags": [
+      "medizin",
+      "kos",
+      "wissenschaft",
+      "ethik"
+    ],
+    "importance": 2
   },
   {
     "id": "prozess-und-tod-des-sokrates",
@@ -669,6 +1295,48 @@
       "hellenismus"
     ],
     "importance": 3
+  },
+  {
+    "id": "gruendung-alexandrias",
+    "title": "Eroberung Ägyptens und Gründung Alexandrias",
+    "year": -331,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "afrika",
+    "summary": "Alexander wird in Ägypten als Pharao anerkannt und gründet im Nildelta die Stadt Alexandria, die künftige Hauptstadt des Hellenismus.",
+    "text": "Nach dem Sieg bei Issos und der Eroberung von Tyros zog Alexander 332 v. Chr. nach Ägypten, wo die Bevölkerung ihn als Befreier von den Persern empfing und die Priester ihn als Pharao anerkannten. In der Oase Siwa ließ er sich vom Orakel des Ammon als Sohn des Gottes begrüßen. Anfang 331 v. Chr. steckte er an der Mittelmeerküste westlich des Nildeltas den Grundriss einer neuen Stadt ab, mit rechtwinkligen Straßen und zwei Häfen. Alexandria wurde unter den Ptolemäern zur größten Stadt der Mittelmeerwelt mit Bibliothek, Museion und dem Leuchtturm von Pharos und blieb bis in die römische Zeit Zentrum von Handel, Wissenschaft und griechischer Kultur in Ägypten.",
+    "personIds": [
+      "alexander-der-grosse"
+    ],
+    "tags": [
+      "alexandria",
+      "ägypten",
+      "alexander",
+      "stadtgründung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "diadochenkriege",
+    "title": "Die Diadochenkriege",
+    "year": -322,
+    "endYear": -281,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "naher-osten",
+    "summary": "Alexanders Feldherren kämpfen vier Jahrzehnte um sein Erbe, bis drei große Königreiche entstehen.",
+    "text": "Alexander hinterließ 323 v. Chr. keinen handlungsfähigen Erben; seine Generäle, die Diadochen, teilten die Statthalterschaften unter sich auf und bekämpften einander in wechselnden Bündnissen. Alexanders Mutter, seine Frau Roxane und sein Sohn wurden ermordet. Antigonos versuchte, das Gesamtreich zu erhalten, fiel aber 301 v. Chr. in der Schlacht bei Ipsos; mit der Schlacht bei Kurupedion 281 v. Chr. endeten die Kriege. Übrig blieben drei Großreiche: das der Ptolemäer in Ägypten, der Seleukiden in Syrien, Mesopotamien und Iran und der Antigoniden in Makedonien, dazu kleinere Staaten wie Pergamon. Diese hellenistischen Königreiche prägten den Osten bis zur römischen Eroberung.",
+    "personIds": [
+      "alexander-der-grosse"
+    ],
+    "tags": [
+      "diadochen",
+      "hellenismus",
+      "ptolemäer",
+      "seleukiden"
+    ],
+    "importance": 2
   },
   {
     "id": "bibliothek-von-alexandria",
@@ -752,6 +1420,49 @@
     "importance": 3
   },
   {
+    "id": "archimedes-und-die-belagerung-von-syrakus",
+    "title": "Archimedes und die Belagerung von Syrakus",
+    "year": -212,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Die Kriegsmaschinen des Archimedes halten die Römer zwei Jahre auf; bei der Einnahme der Stadt wird der Gelehrte getötet.",
+    "text": "Syrakus, die mächtigste griechische Stadt Siziliens, hatte sich im Zweiten Punischen Krieg auf die Seite Karthagos gestellt. Als der römische Feldherr Marcellus die Stadt 213 v. Chr. belagerte, sollen Katapulte, Kräne, die Schiffe aus dem Wasser hoben, und andere von Archimedes entworfene Maschinen die Angreifer immer wieder zurückgeschlagen haben. 212 v. Chr. drangen die Römer während eines Festes in die Stadt ein. Ein Soldat tötete Archimedes, der angeblich über eine geometrische Zeichnung gebeugt war, entgegen dem Befehl des Marcellus, ihn zu schonen. Syrakus wurde geplündert und Teil der römischen Provinz Sizilien; die Eroberung zeigt, wie die griechische Welt Schritt für Schritt unter römische Herrschaft geriet.",
+    "personIds": [
+      "archimedes"
+    ],
+    "tags": [
+      "syrakus",
+      "archimedes",
+      "rom",
+      "belagerung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "terrakotta-armee",
+    "title": "Die Terrakotta-Armee des Ersten Kaisers",
+    "year": -210,
+    "endYear": null,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Qin Shihuangdi wird in einem gewaltigen Grabbezirk bestattet, den tausende lebensgroße Tonsoldaten bewachen.",
+    "text": "Schon als junger König hatte Qin Shihuangdi am Fuß des Berges Li bei Xi'an mit dem Bau seines Grabmals begonnen, an dem nach Sima Qian zeitweise 700.000 Arbeiter tätig waren. Nach seinem Tod 210 v. Chr. wurde er in einer unterirdischen Palastanlage beigesetzt, die von Gruben mit rund 8.000 Kriegern, Pferden und Streitwagen aus gebranntem Ton umgeben war. Jede Figur hat ein eigenes Gesicht, trug echte Waffen und war ursprünglich farbig bemalt. Bauern entdeckten die Armee 1974 beim Brunnenbau; der eigentliche Grabhügel ist bis heute nicht geöffnet.",
+    "personIds": [
+      "qin-shihuangdi",
+      "sima-qian"
+    ],
+    "tags": [
+      "terrakotta-armee",
+      "grabmal",
+      "qin",
+      "archäologie"
+    ],
+    "importance": 2
+  },
+  {
     "id": "rom-erobert-griechenland",
     "title": "Rom erobert Griechenland",
     "year": -146,
@@ -807,6 +1518,48 @@
     "importance": 3
   },
   {
+    "id": "sima-qian-schreibt-das-shiji",
+    "title": "Sima Qian schreibt das Shiji",
+    "year": -100,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Der Hofhistoriker Sima Qian vollendet die Aufzeichnungen des Historikers, das Vorbild aller späteren chinesischen Geschichtswerke.",
+    "text": "Sima Qian führte das Werk seines Vaters fort und beschrieb in 130 Kapiteln die Geschichte Chinas vom mythischen Gelben Kaiser bis zu seiner Gegenwart unter Kaiser Wu von Han. Er ordnete den Stoff in Herrscherannalen, Tabellen, Abhandlungen und Biographien, reiste zu den Schauplätzen und verglich Quellen kritisch. Als er 99 v. Chr. einen in Ungnade gefallenen General verteidigte, wurde er zur Kastration verurteilt, wählte aber das Weiterleben, um sein Werk zu vollenden. Das Shiji blieb zwei Jahrtausende lang das Muster der amtlichen Dynastiegeschichten.",
+    "personIds": [
+      "sima-qian"
+    ],
+    "tags": [
+      "geschichtsschreibung",
+      "shiji",
+      "han",
+      "literatur"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "spartacus-aufstand",
+    "title": "Der Sklavenaufstand des Spartacus",
+    "year": -73,
+    "endYear": -71,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Der Gladiator Spartacus führt zehntausende entlaufene Sklaven zwei Jahre lang gegen römische Heere.",
+    "text": "73 v. Chr. brachen Spartacus und rund 70 Gladiatoren aus einer Schule in Capua aus und verschanzten sich am Vesuv. Ihnen schlossen sich Sklaven von den Landgütern und verarmte Landarbeiter an, bis das Heer auf 70.000 bis 120.000 Menschen anwuchs und mehrere römische Armeen schlug. Der Zug führte bis nach Norditalien und wieder zurück nach Süden, wo Piraten die versprochene Überfahrt nach Sizilien verweigerten. 71 v. Chr. besiegte Marcus Licinius Crassus die Aufständischen in Lukanien; Spartacus fiel im Kampf, und 6.000 Gefangene wurden entlang der Via Appia von Capua bis Rom gekreuzigt. Der Aufstand war der größte Sklavenkrieg der Antike und wurde später zum Symbol des Kampfes gegen Unterdrückung.",
+    "personIds": [
+      "spartacus"
+    ],
+    "tags": [
+      "sklaverei",
+      "aufstand",
+      "gladiatoren",
+      "crassus"
+    ],
+    "importance": 2
+  },
+  {
     "id": "caesar-erobert-gallien",
     "title": "Caesar erobert Gallien",
     "year": -58,
@@ -844,6 +1597,28 @@
       "iden des märz",
       "brutus",
       "bürgerkrieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-bei-actium",
+    "title": "Seeschlacht bei Actium",
+    "year": -31,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Octavians Flotte unter Agrippa besiegt Marcus Antonius und Kleopatra und beendet die Bürgerkriege der Republik.",
+    "text": "Nach Caesars Tod hatten Octavian und Marcus Antonius das Reich unter sich aufgeteilt, doch Antonius' Verbindung mit Kleopatra und seine Schenkungen östlicher Gebiete an ihre Kinder lieferten Octavian den Vorwand für den Krieg. Am 2. September 31 v. Chr. trafen die Flotten vor dem Vorgebirge Actium an der Westküste Griechenlands aufeinander. Octavians Admiral Agrippa schnitt die schweren Schiffe des Antonius ab; Kleopatra und Antonius entkamen mit einem Teil der Flotte nach Ägypten, ihre Truppen ergaben sich. Im folgenden Jahr nahm Octavian Alexandria ein, Antonius und Kleopatra nahmen sich das Leben, und Ägypten wurde römische Provinz. Actium beendete fast ein Jahrhundert Bürgerkriege und machte Octavian zum Alleinherrscher.",
+    "personIds": [
+      "augustus",
+      "kleopatra-vii"
+    ],
+    "tags": [
+      "bürgerkrieg",
+      "antonius",
+      "kleopatra",
+      "seeschlacht"
     ],
     "importance": 3
   },
@@ -905,6 +1680,27 @@
     "importance": 2
   },
   {
+    "id": "buddhismus-erreicht-china",
+    "title": "Der Buddhismus erreicht China",
+    "year": 65,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Über die Seidenstraße gelangen buddhistische Mönche und Schriften nach China, wo der Tempel des Weißen Pferdes entsteht.",
+    "text": "Der Überlieferung nach träumte Kaiser Ming von Han von einer goldenen Gestalt und sandte Boten nach Westen, die mit zwei indischen Mönchen und Sutren auf einem weißen Pferd nach Luoyang zurückkehrten; dort entstand der erste buddhistische Tempel Chinas. Tatsächlich brachten Händler und Mönche aus Zentralasien die Lehre schrittweise ins Land, und Übersetzer wie An Shigao und später Kumarajiva übertrugen die Schriften ins Chinesische. In den unruhigen Jahrhunderten nach dem Ende der Han fand die Botschaft vom Ende des Leidens großen Zulauf; Klöster wurden zu Grundbesitzern, Bildungsstätten und Kreditgebern.",
+    "personIds": [
+      "xuanzang"
+    ],
+    "tags": [
+      "buddhismus",
+      "seidenstraße",
+      "luoyang",
+      "religion"
+    ],
+    "importance": 3
+  },
+  {
     "id": "ausbruch-des-vesuv",
     "title": "Ausbruch des Vesuv",
     "year": 79,
@@ -923,6 +1719,44 @@
     "importance": 1
   },
   {
+    "id": "eroeffnung-des-kolosseums",
+    "title": "Eröffnung des Kolosseums",
+    "year": 80,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Kaiser Titus weiht das größte Amphitheater der Antike mit hundert Tagen Spielen ein.",
+    "text": "Kaiser Vespasian ließ ab 72 an der Stelle des künstlichen Sees von Neros Palast ein Amphitheater errichten, das sein Sohn Titus 80 mit hundert Tagen Gladiatorenkämpfen, Tierhetzen und angeblich einer Seeschlacht eröffnete; tausende Tiere und viele Menschen starben dabei. Das Bauwerk aus Travertin, Ziegel und Beton fasste rund 50.000 Zuschauer, die nach Stand getrennt saßen und durch 80 nummerierte Eingänge in Minuten ihre Plätze erreichten; ein Sonnensegel spendete Schatten, Aufzüge brachten Tiere aus den Kellern in die Arena. Den Namen Kolosseum erhielt es im Mittelalter nach einer Kolossalstatue Neros in der Nähe. Die Spiele dienten dem Kaiser, sich dem Volk zu zeigen und seine Großzügigkeit zu beweisen; bis ins 5. Jahrhundert fanden hier Gladiatorenkämpfe statt.",
+    "personIds": [],
+    "tags": [
+      "kolosseum",
+      "gladiatoren",
+      "architektur",
+      "brot und spiele"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "kushan-reich-und-seidenstrasse",
+    "title": "Das Kushan-Reich verbindet Indien mit der Seidenstraße",
+    "year": 100,
+    "endYear": 250,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Unter König Kanishka beherrschen die Kushan Zentralasien und Nordindien und fördern Handel, Buddhismus und die Kunst von Gandhara.",
+    "text": "Die Kushan, ein aus Zentralasien eingewandertes Volk, errichteten im 1. Jahrhundert ein Reich vom Amudarja bis zum Ganges mit Hauptstädten in Peschawar und Mathura. Es lag am Kreuzungspunkt der Handelswege zwischen Rom, Persien, Indien und China und prägte Goldmünzen nach römischem Vorbild, auf denen griechische, persische, indische und buddhistische Gottheiten erscheinen. Unter Kanishka um 130 entstanden in Gandhara die ersten Buddha-Statuen in Menschengestalt, die griechische und indische Stilelemente verbanden. Von hier aus wanderten Mönche und Texte des Mahayana-Buddhismus nach Zentralasien und China.",
+    "personIds": [],
+    "tags": [
+      "kushan",
+      "gandhara",
+      "seidenstraße",
+      "kanishka"
+    ],
+    "importance": 2
+  },
+  {
     "id": "erfindung-des-papiers",
     "title": "Erfindung des Papiers in China",
     "year": 105,
@@ -938,6 +1772,124 @@
       "erfindung",
       "cai lun",
       "technik"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "groesste-ausdehnung-unter-trajan",
+    "title": "Größte Ausdehnung des Reiches unter Trajan",
+    "year": 117,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "naher-osten",
+    "summary": "Mit der Eroberung Dakiens, Armeniens und Mesopotamiens erreicht das Römische Reich unter Trajan seine größte Ausdehnung.",
+    "text": "Trajan, der erste Kaiser aus einer Provinz, unterwarf in zwei Kriegen 101 bis 106 das Dakerreich nördlich der Donau, dessen Goldminen die Staatskasse füllten; die Trajanssäule in Rom erzählt den Feldzug in einem 200 Meter langen Reliefband. 106 wurde das Nabatäerreich mit Petra zur Provinz Arabia. Ab 114 zog Trajan gegen die Parther, eroberte Armenien und Mesopotamien und erreichte den Persischen Golf, wo er bedauert haben soll, für einen Zug nach Indien zu alt zu sein. Bei seinem Tod 117 umfasste das Reich rund fünf Millionen Quadratkilometer und über 60 Millionen Menschen. Sein Nachfolger Hadrian gab die Eroberungen im Osten sofort wieder auf, weil sie nicht zu halten waren.",
+    "personIds": [
+      "trajan"
+    ],
+    "tags": [
+      "trajan",
+      "dakien",
+      "parther",
+      "expansion"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "bau-des-hadrianswalls",
+    "title": "Bau des Hadrianswalls",
+    "year": 122,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Kaiser Hadrian lässt in Nordbritannien eine 118 Kilometer lange Mauer als Grenze des Reiches errichten.",
+    "text": "Hadrian brach mit der Eroberungspolitik seines Vorgängers Trajan und sicherte stattdessen die Grenzen. Bei seinem Besuch in Britannien 122 ordnete er den Bau einer Steinmauer von der Nordsee bis zur Irischen See an, bis zu viereinhalb Meter hoch, mit Gräben, Kastellen alle römische Meile, Wachtürmen und Forts, in denen rund 10.000 Soldaten aus allen Teilen des Reiches dienten. Die Mauer sollte weniger Angriffe abwehren als Verkehr, Handel und Zoll kontrollieren. Holztäfelchen aus dem Kastell Vindolanda mit Briefen, Einkaufslisten und einer Geburtstagseinladung geben einen einzigartigen Einblick in den Alltag an der Grenze. Auch am Rhein und an der Donau baute Rom mit dem Limes befestigte Grenzlinien aus.",
+    "personIds": [],
+    "tags": [
+      "hadrian",
+      "britannien",
+      "limes",
+      "grenze"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "constitutio-antoniniana",
+    "title": "Constitutio Antoniniana: Bürgerrecht für alle Freien",
+    "year": 212,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Kaiser Caracalla verleiht fast allen freien Bewohnern des Reiches das römische Bürgerrecht.",
+    "text": "Bis 212 waren nur Italiker, Veteranen, Eliten der Provinzstädte und Freigelassene römische Bürger, während die Mehrheit der Provinzbewohner als Peregrine unter eigenem Recht lebte. Mit einem Erlass, der auf einem Papyrus in Gießen teilweise erhalten ist, machte Caracalla alle freien Reichsbewohner zu Bürgern. Als Motiv nannte er den Dank an die Götter; der Historiker Cassius Dio vermutete, der Kaiser habe die Erbschafts- und Freilassungssteuer, die nur Bürger zahlten, auf alle ausdehnen wollen. Die Folgen waren tiefgreifend: Das römische Recht galt nun von Britannien bis Syrien für alle, Millionen Menschen nahmen den Namen Aurelius an, und der Unterschied zwischen Eroberern und Unterworfenen verschwand.",
+    "personIds": [],
+    "tags": [
+      "bürgerrecht",
+      "caracalla",
+      "recht",
+      "provinzen"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "sassanidenreich",
+    "title": "Ardaschir I. begründet das Sassanidenreich",
+    "year": 224,
+    "endYear": 651,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "naher-osten",
+    "summary": "Ein persischer Fürst stürzt die Parther und errichtet ein Reich, das vier Jahrhunderte lang der große Gegenspieler Roms und Byzanz' ist.",
+    "text": "Ardaschir I. aus der Familie der Sassaniden besiegte 224 den letzten Partherkönig und ließ sich als König der Könige krönen; seine Hauptstadt wurde Ktesiphon am Tigris. Die Sassaniden knüpften bewusst an die Achämeniden an, machten den Zoroastrismus zur Staatsreligion und schufen eine straffe Verwaltung mit Adelsständen und stehenden Heeren aus Panzerreitern. Schapur I. nahm 260 den römischen Kaiser Valerian gefangen, und Chosrau I. reformierte im 6. Jahrhundert Steuern und Heer und förderte die Akademie von Gundischapur. Der jahrzehntelange Krieg mit Byzanz erschöpfte das Reich, sodass es 636 bis 651 den arabischen Eroberern erlag.",
+    "personIds": [],
+    "tags": [
+      "sassaniden",
+      "persien",
+      "zoroastrismus",
+      "ktesiphon"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "reichskrise-des-3-jahrhunderts",
+    "title": "Reichskrise des 3. Jahrhunderts",
+    "year": 235,
+    "endYear": 284,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Fünfzig Jahre lang erschüttern Soldatenkaiser, Bürgerkriege, Seuchen, Inflation und Einfälle von Germanen und Persern das Reich.",
+    "text": "Mit der Ermordung des Severus Alexander 235 begann eine Zeit, in der die Legionen mehr als zwanzig Kaiser ausriefen und wieder stürzten, von denen kaum einer eines natürlichen Todes starb. Goten plünderten Griechenland und Kleinasien, Alamannen und Franken drangen nach Gallien und Italien vor, der Perserkönig Schapur I. nahm 260 Kaiser Valerian gefangen. Gallien und Palmyra unter Königin Zenobia lösten sich zeitweise als eigene Reiche ab. Die Kaiser entwerteten die Silbermünzen, bis der Denar fast nur noch aus Kupfer bestand, die Preise vervielfachten sich, Städte schrumpften hinter neuen Mauern. Aurelian einigte das Reich 270 bis 275 wieder; erst Diokletian beendete die Krise 284 mit umfassenden Reformen.",
+    "personIds": [],
+    "tags": [
+      "soldatenkaiser",
+      "krise",
+      "inflation",
+      "goten"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "tetrarchie-diokletians",
+    "title": "Diokletian begründet die Tetrarchie",
+    "year": 293,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Diokletian teilt die Herrschaft über das Reich unter vier Kaisern auf und reformiert Verwaltung, Heer und Steuern.",
+    "text": "Diokletian, ein Offizier aus Dalmatien, erkannte, dass ein einzelner Kaiser die bedrohten Grenzen nicht mehr überall verteidigen konnte. 286 ernannte er Maximian zum Mitkaiser für den Westen, 293 erhielten beide je einen Unterkaiser, Constantius und Galerius, die ihnen nachfolgen sollten. Diese Viererherrschaft regierte von Residenzen wie Trier, Mailand, Sirmium und Nikomedia nahe den Grenzen. Diokletian verdoppelte die Zahl der Provinzen, trennte zivile und militärische Ämter, führte ein neues Steuersystem und 301 ein Höchstpreisedikt ein und ließ 303 die letzte große Christenverfolgung beginnen. 305 dankte er als einziger Kaiser freiwillig ab und zog sich in seinen Palast in Split zurück; die Tetrarchie zerbrach bald in Bürgerkriegen, aus denen Konstantin hervorging.",
+    "personIds": [
+      "konstantin-der-grosse"
+    ],
+    "tags": [
+      "tetrarchie",
+      "diokletian",
+      "reform",
+      "dominat"
     ],
     "importance": 2
   },
@@ -982,6 +1934,27 @@
     "importance": 2
   },
   {
+    "id": "konzil-von-nicaea",
+    "title": "Konzil von Nicäa",
+    "year": 325,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "naher-osten",
+    "summary": "Auf Einladung Konstantins legen rund 300 Bischöfe das christliche Glaubensbekenntnis fest und verurteilen die Lehre des Arius.",
+    "text": "Der Streit des alexandrinischen Priesters Arius, der Christus als Geschöpf Gottes und ihm untergeordnet ansah, mit seinem Bischof spaltete die Kirche im Osten. Konstantin, der die Einheit von Reich und Kirche wollte, berief 325 alle Bischöfe in seine Residenz Nicäa in Kleinasien und nahm selbst an den Sitzungen teil. Das Konzil erklärte Christus für wesensgleich mit dem Vater, formulierte das Bekenntnis von Nicäa, das bis heute in Gottesdiensten gesprochen wird, und regelte das Osterdatum und die Ordnung der Bischöfe. Die Arianer wurden verbannt, doch der Streit dauerte Jahrzehnte fort, und viele Germanenvölker nahmen das Christentum in arianischer Form an. Nicäa war das erste ökumenische Konzil und begründete die enge Verbindung von Kaisertum und Kirche.",
+    "personIds": [
+      "konstantin-der-grosse"
+    ],
+    "tags": [
+      "christentum",
+      "konzil",
+      "arianismus",
+      "konstantin"
+    ],
+    "importance": 2
+  },
+  {
     "id": "reichsteilung-395",
     "title": "Teilung des Römischen Reiches",
     "year": 395,
@@ -996,6 +1969,44 @@
       "reichsteilung",
       "byzanz",
       "völkerwanderung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "pluenderung-roms-410",
+    "title": "Plünderung Roms durch die Westgoten",
+    "year": 410,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Die Westgoten unter Alarich nehmen Rom ein und plündern drei Tage lang die Stadt, die 800 Jahre kein Feind betreten hatte.",
+    "text": "Die Westgoten waren 376 vor den Hunnen über die Donau ins Reich geflohen und hatten 378 bei Adrianopel ein römisches Heer vernichtet. Ihr König Alarich forderte Land und Ämter für sein Volk; als der weströmische Hof in Ravenna ihn hinhielt und seinen Verhandlungspartner Stilicho hinrichten ließ, belagerte er Rom dreimal. Am 24. August 410 öffneten Verräter das Salarische Tor, und die Goten plünderten drei Tage lang Paläste und Tempel, schonten aber die Kirchen. Die Nachricht erschütterte die Welt; Hieronymus schrieb, die Stadt, die die ganze Welt erobert habe, sei selbst erobert worden, und Augustinus verfasste als Antwort sein Werk Vom Gottesstaat. Alarich starb noch im selben Jahr; die Westgoten gründeten später ein Reich in Südgallien und Spanien.",
+    "personIds": [],
+    "tags": [
+      "westgoten",
+      "alarich",
+      "völkerwanderung",
+      "spätantike"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "attila-und-die-hunnen",
+    "title": "Attila und die Hunnen",
+    "year": 451,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Auf den Katalaunischen Feldern stoppen Römer und Westgoten den Hunnenkönig Attila; sein Reich zerfällt nach seinem Tod 453.",
+    "text": "Die Hunnen, ein Reitervolk aus den Steppen Asiens, hatten seit 375 die Goten vor sich hergetrieben und damit die Völkerwanderung ausgelöst. Attila, seit 434 ihr König, beherrschte von Ungarn aus ein Reich von der Ostsee bis zum Schwarzen Meer, erpresste von Ostrom jährliche Goldzahlungen und fiel 451 mit einem riesigen Heer in Gallien ein. Der römische Heermeister Aëtius verbündete sich mit dem Westgotenkönig Theoderich I., der in der Schlacht auf den Katalaunischen Feldern bei Troyes fiel; Attila musste sich zurückziehen. 452 verwüstete er Norditalien, kehrte aber nach einem Treffen mit Papst Leo I. um. Nach seinem plötzlichen Tod 453 zerfiel das Hunnenreich innerhalb weniger Jahre, doch Westrom war so geschwächt, dass es nur noch zwei Jahrzehnte bestand.",
+    "personIds": [],
+    "tags": [
+      "hunnen",
+      "attila",
+      "völkerwanderung",
+      "aëtius"
     ],
     "importance": 2
   },
@@ -1033,6 +2044,47 @@
       "merowinger",
       "christentum",
       "reims"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "benedikt-gruendet-montecassino",
+    "title": "Benedikt von Nursia gründet Montecassino",
+    "year": 529,
+    "endYear": null,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Mit dem Kloster Montecassino und seiner Regel begründet Benedikt das abendländische Mönchtum.",
+    "text": "Benedikt von Nursia hatte als Einsiedler bei Subiaco gelebt, bevor er um 529 auf dem Berg von Cassino zwischen Rom und Neapel ein Kloster gründete. Für seine Gemeinschaft schrieb er eine Regel, die den Tag der Mönche zwischen Gebet, Lesung und Handarbeit aufteilte, Maß und Gehorsam verlangte und den Abt zum Vater der Gemeinschaft machte. Die Benediktsregel setzte sich in den folgenden Jahrhunderten in fast allen Klöstern Westeuropas durch. Klöster wie Montecassino, Fulda, St. Gallen und Cluny wurden zu Zentren der Landwirtschaft, der Krankenpflege und der Schreibkunst, in denen antike Handschriften bewahrt wurden.",
+    "personIds": [],
+    "tags": [
+      "mönchtum",
+      "kloster",
+      "benediktiner",
+      "kirche"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "justinian-und-hagia-sophia",
+    "title": "Justinian weiht die Hagia Sophia",
+    "year": 537,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "In Konstantinopel entsteht in nur fünf Jahren die größte Kirche der Welt, Sinnbild der Macht des oströmischen Kaisers Justinian.",
+    "text": "Nachdem der Nika-Aufstand 532 die alte Kirche zerstört hatte, ließ Justinian von den Mathematikern Anthemios von Tralleis und Isidor von Milet einen Bau mit einer über 30 Meter weiten, scheinbar schwebenden Kuppel errichten. Bei der Weihe am 27. Dezember 537 soll er ausgerufen haben, er habe Salomo übertroffen. Justinian ließ in denselben Jahren das römische Recht im Corpus Iuris Civilis zusammenfassen, das die Rechtsordnung Europas bis heute prägt, und eroberte mit seinen Feldherren Belisar und Narses Nordafrika und Italien zurück. Die Hagia Sophia war fast tausend Jahre die größte Kirche der Christenheit, wurde 1453 Moschee und ist heute Wahrzeichen Istanbuls.",
+    "personIds": [
+      "justinian-i",
+      "theodora"
+    ],
+    "tags": [
+      "byzanz",
+      "hagia sophia",
+      "justinian",
+      "römisches recht"
     ],
     "importance": 3
   },
@@ -1134,6 +2186,27 @@
       "sunniten und schiiten"
     ],
     "importance": 3
+  },
+  {
+    "id": "wu-zetian-wird-kaiserin",
+    "title": "Wu Zetian wird Kaiserin von China",
+    "year": 690,
+    "endYear": 705,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Die frühere Nebenfrau des Kaisers ruft eine eigene Dynastie aus und regiert als einzige Frau der chinesischen Geschichte aus eigenem Recht.",
+    "text": "Wu Zetian war Nebenfrau zweier Kaiser und lenkte nach der Erkrankung ihres Mannes Gaozong ab 660 die Regierung; nach seinem Tod entmachtete sie ihre Söhne. 690 ließ sie sich selbst zur Kaiserin ausrufen, gründete die Dynastie Zhou und stützte ihre Herrschaft auf den Buddhismus, der sie als Wiederkunft eines Bodhisattva feierte. Sie förderte die Beamtenprüfungen, holte fähige Männer aus einfachen Familien in die Regierung und dehnte das Reich nach Korea und Zentralasien aus. 705 zwang ein Palastputsch die über Achtzigjährige zur Abdankung, und die Tang-Dynastie wurde wiederhergestellt.",
+    "personIds": [
+      "wu-zetian"
+    ],
+    "tags": [
+      "wu zetian",
+      "tang",
+      "kaiserin",
+      "frauen"
+    ],
+    "importance": 2
   },
   {
     "id": "schlacht-bei-tours-und-poitiers",
@@ -1255,6 +2328,44 @@
     "importance": 3
   },
   {
+    "id": "vertrag-von-verdun",
+    "title": "Vertrag von Verdun",
+    "year": 843,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Die Enkel Karls des Großen teilen das Frankenreich in drei Teile; aus West- und Ostfranken gehen Frankreich und Deutschland hervor.",
+    "text": "Nach dem Tod Ludwigs des Frommen 840 kämpften seine Söhne um das Erbe, bis sie 843 in Verdun eine Teilung vereinbarten: Karl der Kahle erhielt den Westen, Ludwig der Deutsche den Osten und Lothar I. mit dem Kaisertitel ein langgestrecktes Mittelreich von der Nordsee bis Italien. Schon im Jahr zuvor hatten Karl und Ludwig in den Straßburger Eiden ihr Bündnis in altfranzösischer und althochdeutscher Sprache beschworen, die ältesten Zeugnisse beider Sprachen. Das Mittelreich zerfiel bald und wurde bis ins 20. Jahrhundert zum Streitobjekt zwischen den Nachbarn, während Ost- und Westfrankenreich sich zu Deutschland und Frankreich entwickelten.",
+    "personIds": [],
+    "tags": [
+      "frankenreich",
+      "karolinger",
+      "reichsteilung",
+      "straßburger eide"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "diamant-sutra-holztafeldruck",
+    "title": "Das Diamant-Sutra: ältestes datiertes gedrucktes Buch",
+    "year": 868,
+    "endYear": null,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "In China wird eine buddhistische Schrift mit Holztafeln gedruckt, die bis heute als älteste datierte Druckschrift der Welt gilt.",
+    "text": "Das Diamant-Sutra ist eine fünf Meter lange Schriftrolle aus sieben zusammengeklebten Bögen, deren Schlussvermerk festhält, dass ein gewisser Wang Jie sie am 11. Mai 868 zum Andenken an seine Eltern hat anfertigen lassen. Dazu wurden Text und ein Titelbild spiegelverkehrt in Holztafeln geschnitten, eingefärbt und auf Papier abgezogen; das Verfahren war in China schon seit dem 7. Jahrhundert für Amulette und Kalender in Gebrauch. Die Rolle lag über tausend Jahre in einer vermauerten Höhle bei Dunhuang, bis der Forscher Aurel Stein sie 1907 erwarb; heute wird sie in der British Library aufbewahrt. Im 11. Jahrhundert erfand Bi Sheng in China zudem bewegliche Lettern aus Ton.",
+    "personIds": [],
+    "tags": [
+      "buchdruck",
+      "holztafeldruck",
+      "buddhismus",
+      "dunhuang"
+    ],
+    "importance": 3
+  },
+  {
     "id": "kalifat-von-cordoba",
     "title": "Kalifat von Córdoba",
     "year": 929,
@@ -1272,6 +2383,109 @@
       "spanien"
     ],
     "importance": 2
+  },
+  {
+    "id": "schlacht-auf-dem-lechfeld",
+    "title": "Otto I. siegt auf dem Lechfeld",
+    "year": 955,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Der ostfränkische König schlägt die Ungarn bei Augsburg und wird sieben Jahre später zum Kaiser gekrönt.",
+    "text": "Seit dem Ende des 9. Jahrhunderts hatten berittene ungarische Krieger fast jährlich Mitteleuropa geplündert. Als sie 955 Augsburg belagerten, das Bischof Ulrich verteidigte, stellte Otto I. am 10. August ein Heer aus allen Stämmen des Reiches gegen sie und errang auf dem Lechfeld einen vollständigen Sieg. Die Ungarn siedelten sich daraufhin dauerhaft in der pannonischen Ebene an und nahmen um 1000 das Christentum an. Ottos Ansehen war nun so groß, dass ihn Papst Johannes XII. 962 in Rom zum Kaiser krönte; damit begann das Heilige Römische Reich, das bis 1806 bestand.",
+    "personIds": [
+      "otto-i"
+    ],
+    "tags": [
+      "ottonen",
+      "ungarn",
+      "augsburg",
+      "kaisertum"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "chola-reich-in-suedindien",
+    "title": "Aufstieg des Chola-Reiches in Südindien",
+    "year": 985,
+    "endYear": 1279,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Unter Rajaraja I. und Rajendra I. werden die Chola zur führenden Land- und Seemacht des Indischen Ozeans.",
+    "text": "Rajaraja I. bestieg 985 den Thron der Chola im tamilischen Süden Indiens, unterwarf die Nachbarreiche und Sri Lanka und ließ in Thanjavur den gewaltigen Brihadishvara-Tempel für Shiva errichten. Sein Sohn Rajendra I. schickte ein Heer bis zum Ganges und 1025 eine Flotte gegen das Reich Srivijaya auf Sumatra, um die Seewege nach China zu kontrollieren. Die Chola verwalteten ihr Reich mit Dorfversammlungen, deren Beschlüsse in Tempelinschriften festgehalten sind, und ihre Bronzebildhauer schufen den tanzenden Shiva Nataraja, ein Meisterwerk der Weltkunst. Das Reich zerfiel im 13. Jahrhundert.",
+    "personIds": [],
+    "tags": [
+      "chola",
+      "südindien",
+      "seemacht",
+      "tempel",
+      "tamilen"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "christianisierung-der-kiewer-rus",
+    "title": "Christianisierung der Kiewer Rus",
+    "year": 988,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Großfürst Wladimir lässt sich taufen und macht das orthodoxe Christentum zur Religion seines Reiches am Dnjepr.",
+    "text": "Die Kiewer Rus war im 9. Jahrhundert aus skandinavischen Händlerkriegern, den Warägern, und slawischen Stämmen entstanden und beherrschte den Handelsweg von der Ostsee nach Byzanz. Wladimir I. ließ sich 988 taufen, heiratete Anna, die Schwester des byzantinischen Kaisers Basileios II., und ließ die Bevölkerung Kiews im Dnjepr taufen. Mit dem Glauben kamen die kyrillische Schrift, Kirchenrecht, Ikonenmalerei und Baumeister aus Byzanz; unter Jaroslaw dem Weisen entstanden die Sophienkathedrale in Kiew und das erste Gesetzbuch. Die Rus wurde so zur Wiege der russischen, ukrainischen und belarussischen Kultur, bis die Mongolen 1240 Kiew zerstörten.",
+    "personIds": [],
+    "tags": [
+      "kiewer rus",
+      "orthodoxie",
+      "taufe",
+      "byzanz",
+      "osteuropa"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "genji-monogatari",
+    "title": "Murasaki Shikibu vollendet das Genji-Monogatari",
+    "year": 1008,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Am japanischen Kaiserhof schreibt eine Hofdame die Geschichte vom Prinzen Genji, die als erster Roman der Weltliteratur gilt.",
+    "text": "Murasaki Shikibu diente der Kaiserin Shoshi am Hof von Heian-kyo und schrieb dort in japanischer Silbenschrift die Geschichte des Prinzen Genji, seiner Liebschaften und seiner Nachkommen in 54 Kapiteln. Ihr Tagebuch erwähnt das Werk erstmals 1008, als Teile davon am Hof bereits vorgelesen wurden. Der Roman schildert mit feinem Gespür für Gefühle, Jahreszeiten und Vergänglichkeit die höfische Welt der Heian-Zeit und wurde in Japan über Jahrhunderte abgeschrieben, illustriert und kommentiert. Zur gleichen Zeit verfasste ihre Rivalin Sei Shonagon das Kopfkissenbuch, eine Sammlung von Beobachtungen und Listen.",
+    "personIds": [
+      "murasaki-shikibu"
+    ],
+    "tags": [
+      "japan",
+      "literatur",
+      "heian",
+      "frauen",
+      "roman"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "song-dynastie-erfindungen",
+    "title": "Song-Dynastie: Schießpulver, Kompass und Papiergeld",
+    "year": 1044,
+    "endYear": null,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Im Song-China wird 1044 die erste Rezeptur für Schießpulver aufgezeichnet; Kompass, Papiergeld und bewegliche Lettern folgen im selben Jahrhundert.",
+    "text": "Die 960 gegründete Song-Dynastie regierte ein wirtschaftlich blühendes China mit Millionenstädten wie Kaifeng und Hangzhou. 1044 beschrieb das militärische Handbuch Wujing Zongyao erstmals Mischungen aus Salpeter, Schwefel und Holzkohle für Brandpfeile und Bomben; im 12. Jahrhundert folgten Feuerlanzen und Sprengbomben. Der Gelehrte Shen Kuo hielt 1088 fest, wie eine magnetisierte Nadel nach Süden zeigt, und bald nutzten chinesische Seefahrer den Kompass zur Navigation. Der Staat gab das erste Papiergeld der Welt aus, Bi Sheng erfand bewegliche Lettern, und die Eisenproduktion erreichte Mengen, die Europa erst im 18. Jahrhundert wieder erzielte.",
+    "personIds": [],
+    "tags": [
+      "song",
+      "schießpulver",
+      "kompass",
+      "papiergeld",
+      "technik"
+    ],
+    "importance": 3
   },
   {
     "id": "schlacht-bei-hastings",
@@ -1295,6 +2509,47 @@
     "importance": 3
   },
   {
+    "id": "gang-nach-canossa",
+    "title": "Investiturstreit und Gang nach Canossa",
+    "year": 1077,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "König Heinrich IV. bittet Papst Gregor VII. als Büßer vor der Burg Canossa um die Lösung vom Kirchenbann.",
+    "text": "Papst Gregor VII. hatte den Herrschern verboten, Bischöfe mit Ring und Stab in ihr Amt einzusetzen, weil er die Kirche von weltlicher Macht befreien wollte. Als Heinrich IV. daraufhin 1076 den Papst für abgesetzt erklärte, sprach Gregor den Bann über den König aus und entband seine Untertanen vom Treueid. Von den Fürsten unter Druck gesetzt, zog Heinrich im Winter über die Alpen und wartete im Januar 1077 drei Tage im Büßergewand vor der Burg Canossa, bis Gregor ihn wieder in die Kirche aufnahm. Der Streit ging noch Jahrzehnte weiter und wurde erst 1122 im Wormser Konkordat mit einem Kompromiss beendet.",
+    "personIds": [],
+    "tags": [
+      "investiturstreit",
+      "papst",
+      "kaiser",
+      "canossa",
+      "kirche"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "gruendung-der-universitaet-bologna",
+    "title": "Gründung der Universität Bologna",
+    "year": 1088,
+    "endYear": null,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "In Bologna entsteht aus Rechtsschulen die erste Universität Europas; Paris und Oxford folgen im 12. Jahrhundert.",
+    "text": "In Bologna hatten sich Gelehrte wie Irnerius auf das wiederentdeckte römische Recht Justinians spezialisiert und zogen Studenten aus ganz Europa an. Diese schlossen sich um 1088 zu Genossenschaften zusammen, die Professoren anstellten und den Lehrbetrieb regelten; das Wort Universität bezeichnet ursprünglich diese Gemeinschaft von Lehrenden und Lernenden. Kaiser Friedrich Barbarossa stellte die Scholaren 1155 unter seinen Schutz, und die Päpste verliehen den Abschlüssen Gültigkeit in der ganzen Christenheit. Bis 1500 gab es rund 70 Universitäten, darunter Paris, Oxford, Salamanca, Prag, Wien und Heidelberg.",
+    "personIds": [
+      "thomas-von-aquin"
+    ],
+    "tags": [
+      "universität",
+      "bildung",
+      "recht",
+      "bologna"
+    ],
+    "importance": 2
+  },
+  {
     "id": "erster-kreuzzug",
     "title": "Erster Kreuzzug und Eroberung Jerusalems",
     "year": 1096,
@@ -1312,6 +2567,25 @@
       "ritter"
     ],
     "importance": 3
+  },
+  {
+    "id": "beginn-der-gotik",
+    "title": "Beginn der Gotik in Saint-Denis",
+    "year": 1140,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Abt Suger lässt bei Paris einen lichtdurchfluteten Chor bauen und begründet damit den Stil der gotischen Kathedralen.",
+    "text": "Abt Suger begann 1140 den Umbau der Klosterkirche Saint-Denis, der Grablege der französischen Könige, und verband dabei Spitzbogen, Kreuzrippengewölbe und große Glasfenster zu einem neuen Ganzen. Weil das Gewicht der Gewölbe von außen durch Strebepfeiler abgefangen wurde, konnten die Mauern dünn werden und das Licht, für Suger ein Abbild Gottes, ungehindert einfallen. Innerhalb weniger Jahrzehnte entstanden nach diesem Vorbild die Kathedralen von Chartres, Paris, Reims und Amiens, und 1248 begann der Bau des Kölner Doms. Die gotischen Kathedralen mit ihren Türmen, Skulpturen und Rosetten waren die höchsten Bauwerke ihrer Zeit und Ausdruck des Stolzes der wachsenden Städte.",
+    "personIds": [],
+    "tags": [
+      "gotik",
+      "kathedrale",
+      "architektur",
+      "saint-denis"
+    ],
+    "importance": 2
   },
   {
     "id": "angkor-wat",
@@ -1350,6 +2624,26 @@
       "jerusalem",
       "hattin",
       "ayyubiden"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "grosssimbabwe",
+    "title": "Blüte von Großsimbabwe",
+    "year": 1200,
+    "endYear": 1450,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "afrika",
+    "summary": "Im südlichen Afrika errichten die Vorfahren der Shona eine Steinstadt, die vom Goldhandel mit der Swahili-Küste lebt.",
+    "text": "Zwischen dem 11. und 15. Jahrhundert entstand auf dem Hochland des heutigen Simbabwe eine Stadt mit bis zu 18.000 Einwohnern, deren Herrscher Rinderherden und Goldvorkommen kontrollierten. Ihre Mauern aus sorgfältig geschichteten Granitblöcken ohne Mörtel erreichen elf Meter Höhe; die Große Einfriedung mit ihrem konischen Turm ist das größte vorkoloniale Bauwerk südlich der Sahara. Funde von chinesischem Porzellan, persischer Keramik und arabischen Münzen zeigen, dass Gold und Elfenbein über Häfen wie Kilwa und Sofala bis nach Indien und China gehandelt wurden. Um 1450 wurde die Stadt aufgegeben; koloniale Forscher bestritten lange die afrikanische Herkunft der Bauten, die heute Namensgeber und Wahrzeichen des Staates Simbabwe sind.",
+    "personIds": [],
+    "tags": [
+      "afrika",
+      "shona",
+      "goldhandel",
+      "steinbauten",
+      "swahili"
     ],
     "importance": 3
   },
@@ -1554,6 +2848,85 @@
     "importance": 3
   },
   {
+    "id": "erster-hansetag",
+    "title": "Erster Hansetag in Lübeck",
+    "year": 1356,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Die Kaufleute und Städte der Hanse treten erstmals zu einer gemeinsamen Versammlung zusammen und werden zur Handelsmacht des Nordens.",
+    "text": "Seit dem 12. Jahrhundert hatten sich niederdeutsche Kaufleute zu Gemeinschaften zusammengeschlossen, um im Ausland Schutz und Privilegien zu erlangen; Kontore in London, Brügge, Bergen und Nowgorod waren ihre Stützpunkte. 1356 versammelten sich die Vertreter der Städte erstmals in Lübeck zu einem Hansetag, der gemeinsame Beschlüsse über Handel, Recht und Krieg fasste. Auf dem Höhepunkt gehörten rund 200 Städte von Köln bis Reval zur Hanse, die 1370 im Frieden von Stralsund sogar den König von Dänemark zu weitreichenden Zugeständnissen zwang. Mit dem Aufstieg der Niederländer und der Landesfürsten verlor der Bund im 16. Jahrhundert an Bedeutung; der letzte Hansetag fand 1669 statt.",
+    "personIds": [],
+    "tags": [
+      "hanse",
+      "lübeck",
+      "handel",
+      "städtebund",
+      "kogge"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "bauernaufstand-in-england",
+    "title": "Bauernaufstand in England",
+    "year": 1381,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Zehntausende Bauern und Handwerker ziehen unter Wat Tyler nach London und fordern das Ende der Leibeigenschaft.",
+    "text": "Nach dem Schwarzen Tod hatten die Lohnarbeiter mehr Verhandlungsmacht gewonnen, doch Gesetze froren die Löhne ein, und eine Kopfsteuer für den Krieg gegen Frankreich traf Arme und Reiche gleich hart. Im Juni 1381 erhoben sich die Grafschaften Kent und Essex, zogen unter Führung Wat Tylers nach London, öffneten Gefängnisse und töteten den Erzbischof von Canterbury. Der Prediger John Ball fragte, wo denn der Adlige gewesen sei, als Adam grub und Eva spann. Der vierzehnjährige König Richard II. versprach die Aufhebung der Leibeigenschaft, doch nachdem Tyler bei den Verhandlungen erschlagen worden war, wurde der Aufstand niedergeschlagen; die Leibeigenschaft verschwand in England dennoch in den folgenden Jahrzehnten weitgehend.",
+    "personIds": [],
+    "tags": [
+      "bauernaufstand",
+      "england",
+      "leibeigenschaft",
+      "wat tyler"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "brunelleschis-kuppel",
+    "title": "Brunelleschi vollendet die Kuppel des Florentiner Doms",
+    "year": 1436,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Filippo Brunelleschi vollendet die gewaltige Kuppel von Santa Maria del Fiore, das Wahrzeichen der Frührenaissance.",
+    "text": "Seit 1296 wurde am Dom von Florenz gebaut, doch niemand wusste, wie sich die über 40 Meter weite Öffnung überwölben ließ. Brunelleschi entwarf 1420 eine doppelschalige Kuppel, die ohne Lehrgerüst aus Holz errichtet wurde, und erfand dafür Hebemaschinen und ein Ziegelmuster im Fischgrätverband. Am 25. März 1436 weihte Papst Eugen IV. den Dom; die Kuppel blieb bis ins 20. Jahrhundert die größte gemauerte Kuppel der Welt und bewies, dass Baumeister der Gegenwart die Antike übertreffen konnten.",
+    "personIds": [],
+    "tags": [
+      "architektur",
+      "florenz",
+      "kunst"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "pachacutec-und-das-inka-reich",
+    "title": "Pachacútec baut das Inka-Reich auf",
+    "year": 1438,
+    "endYear": 1471,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "amerika",
+    "summary": "Ein Inka-Herrscher verwandelt das kleine Königreich von Cusco in ein Großreich, das sich bald über die gesamten Anden erstreckt.",
+    "text": "Um 1438 wehrte der Prinz Cusi Yupanqui einen Angriff der Chanka auf Cusco ab, entthronte seinen Vater und nahm den Namen Pachacútec an, der Weltenwandler. In gut drei Jahrzehnten unterwarf er die Völker des Hochlands, ließ Cusco als Hauptstadt neu anlegen und führte Vorratslager, Arbeitsdienst und die Verwaltung mit Knotenschnüren, den Quipus, ein. Unter ihm entstand wohl auch die Bergstadt Machu Picchu. Seine Nachfolger dehnten das Reich der vier Teile, Tawantinsuyu, von Ecuador bis Chile aus; mit rund zehn Millionen Einwohnern war es das größte Reich Amerikas, als die Spanier 1532 eintrafen.",
+    "personIds": [
+      "pachacutec"
+    ],
+    "tags": [
+      "inka",
+      "anden",
+      "cusco",
+      "amerika",
+      "machu picchu"
+    ],
+    "importance": 3
+  },
+  {
     "id": "gutenbergs-buchdruck",
     "title": "Gutenberg erfindet den Buchdruck mit beweglichen Lettern",
     "year": 1450,
@@ -1613,6 +2986,47 @@
     "importance": 3
   },
   {
+    "id": "askia-mohammed-songhai",
+    "title": "Askia Mohammed übernimmt die Macht im Songhai-Reich",
+    "year": 1493,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "afrika",
+    "summary": "Mit Askia Mohammed beginnt die Blütezeit des Songhai-Reiches, des größten Staates Westafrikas mit Timbuktu als Zentrum der Gelehrsamkeit.",
+    "text": "Nach dem Tod des Eroberers Sunni Ali stürzte der General Mohammed Ture dessen Sohn und nahm den Herrschertitel Askia an. Er ordnete das Reich am Niger mit Provinzen, Beamten und einer Berufsarmee neu, pilgerte 1496 nach Mekka und förderte den Islam als verbindende Religion. Timbuktu mit seiner Sankoré-Moschee und Djenné wurden zu Zentren islamischer Gelehrsamkeit, deren Handschriften bis heute erhalten sind. Der Handel mit Gold, Salz und Sklaven über die Sahara machte Songhai zu einer der reichsten Mächte der Zeit; 1591 wurde es von marokkanischen Truppen mit Feuerwaffen zerschlagen.",
+    "personIds": [],
+    "tags": [
+      "westafrika",
+      "timbuktu",
+      "islam",
+      "handel"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "vertrag-von-tordesillas",
+    "title": "Vertrag von Tordesillas",
+    "year": 1494,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "welt",
+    "summary": "Spanien und Portugal teilen die neu entdeckten und noch zu entdeckenden Gebiete der Welt entlang einer Linie im Atlantik unter sich auf.",
+    "text": "Nach der Rückkehr des Kolumbus stritten die beiden Seemächte um die Rechte an den neuen Ländern, und Papst Alexander VI. schlug 1493 eine Trennlinie vor. Im Vertrag vom 7. Juni 1494 wurde sie 370 Leguas westlich der Kapverdischen Inseln festgelegt: Alles westlich davon sollte Spanien gehören, alles östlich Portugal. So fiel das 1500 erreichte Brasilien an Portugal, was bis heute an der Sprache des Landes erkennbar ist. Andere Mächte wie England und Frankreich erkannten die Aufteilung nie an; der Vertrag zeigt, mit welcher Selbstverständlichkeit europäische Herrscher über fremde Kontinente verfügten.",
+    "personIds": [
+      "christoph-kolumbus",
+      "isabella-von-kastilien"
+    ],
+    "tags": [
+      "kolonialismus",
+      "spanien",
+      "portugal",
+      "vertrag"
+    ],
+    "importance": 3
+  },
+  {
     "id": "vasco-da-gama-erreicht-indien",
     "title": "Vasco da Gama erreicht Indien",
     "year": 1498,
@@ -1647,6 +3061,27 @@
       "bildhauerei"
     ],
     "importance": 1
+  },
+  {
+    "id": "erasmus-novum-instrumentum",
+    "title": "Erasmus gibt das griechische Neue Testament heraus",
+    "year": 1516,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "In Basel erscheint die erste gedruckte Ausgabe des Neuen Testaments in griechischer Sprache, ein Schlüsselwerk des Humanismus.",
+    "text": "Erasmus von Rotterdam verglich für sein Novum Instrumentum mehrere Handschriften, stellte den griechischen Urtext neben eine eigene lateinische Übersetzung und fügte kritische Anmerkungen hinzu. Damit stellte er die seit Jahrhunderten maßgebliche lateinische Vulgata infrage und forderte, dass jeder Christ die Bibel selbst lesen sollte. Luther benutzte die zweite Auflage von 1519 für seine deutsche Übersetzung des Neuen Testaments, und auch Tyndale und Calvin bauten darauf auf. Der Buchdruck machte das Werk innerhalb weniger Jahre in ganz Europa verfügbar.",
+    "personIds": [
+      "erasmus-von-rotterdam",
+      "martin-luther"
+    ],
+    "tags": [
+      "humanismus",
+      "bibel",
+      "basel"
+    ],
+    "importance": 2
   },
   {
     "id": "luthers-95-thesen",
@@ -1701,6 +3136,27 @@
       "azteken",
       "konquistadoren",
       "mexiko"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "reichstag-zu-worms",
+    "title": "Reichstag zu Worms: Luther verweigert den Widerruf",
+    "year": 1521,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Vor Kaiser Karl V. weigert sich Martin Luther, seine Lehren zu widerrufen, und wird daraufhin mit der Reichsacht belegt.",
+    "text": "Nachdem der Papst Luther gebannt hatte, lud ihn der junge Kaiser unter Zusicherung freien Geleits nach Worms. Am 18. April 1521 erklärte Luther vor Kaiser und Reichsständen, er könne nur widerrufen, wenn man ihn aus der Heiligen Schrift widerlege, denn gegen das Gewissen zu handeln sei weder sicher noch heilsam. Das Wormser Edikt erklärte ihn zum Ketzer und verbot seine Schriften, doch Kurfürst Friedrich der Weise ließ ihn zum Schein entführen und auf der Wartburg verstecken. Dort übersetzte Luther in nur elf Wochen das Neue Testament ins Deutsche.",
+    "personIds": [
+      "martin-luther"
+    ],
+    "tags": [
+      "reformation",
+      "karl v.",
+      "reichsacht",
+      "wartburg"
     ],
     "importance": 3
   },
@@ -1781,6 +3237,25 @@
     "importance": 3
   },
   {
+    "id": "vesalius-anatomie",
+    "title": "Vesalius begründet die moderne Anatomie",
+    "year": 1543,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Mit dem Werk De humani corporis fabrica ersetzt Andreas Vesalius die antike Lehre Galens durch Beobachtungen am sezierten menschlichen Körper.",
+    "text": "Der aus Brüssel stammende Vesalius lehrte in Padua und sezierte selbst, statt wie üblich einem Gehilfen zuzusehen und aus Galen vorzulesen. Dabei fand er über 200 Fehler in der antiken Anatomie, die Galen an Tieren gewonnen hatte. Sein 1543 in Basel gedrucktes Werk in sieben Büchern verband genaue Beschreibungen mit meisterhaften Holzschnitten aus der Werkstatt Tizians. Die Fabrica machte den menschlichen Körper zum Gegenstand eigener Forschung und wurde zur Grundlage der wissenschaftlichen Medizin.",
+    "personIds": [],
+    "tags": [
+      "medizin",
+      "anatomie",
+      "wissenschaft",
+      "padua"
+    ],
+    "importance": 2
+  },
+  {
     "id": "konzil-von-trient",
     "title": "Konzil von Trient",
     "year": 1545,
@@ -1799,6 +3274,122 @@
     "importance": 2
   },
   {
+    "id": "augsburger-religionsfrieden",
+    "title": "Augsburger Religionsfrieden",
+    "year": 1555,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Der Reichstag zu Augsburg erkennt das lutherische Bekenntnis im Reich an und überlässt den Landesherren die Wahl der Konfession.",
+    "text": "Nach dem Schmalkaldischen Krieg und dem Fürstenaufstand hatte Karl V. eingesehen, dass sich die Protestanten nicht mit Gewalt zurück zur alten Kirche zwingen ließen, und überließ seinem Bruder Ferdinand die Verhandlungen. Der am 25. September 1555 verkündete Frieden gestand jedem Reichsstand das Recht zu, für sein Gebiet die katholische oder die lutherische Konfession zu bestimmen; Untertanen anderen Glaubens durften auswandern. Später fasste man dieses Prinzip in die Formel, wessen das Land, dessen die Religion. Calvinisten blieben ausgeschlossen, und ungelöste Streitfragen trugen 1618 zum Ausbruch des Dreißigjährigen Krieges bei.",
+    "personIds": [],
+    "tags": [
+      "reformation",
+      "reichstag",
+      "konfession",
+      "frieden"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "akbar-mogulreich",
+    "title": "Akbar wird Herrscher des Mogulreiches",
+    "year": 1556,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "asien",
+    "summary": "Der dreizehnjährige Akbar besteigt den Thron und baut das Mogulreich zur beherrschenden Macht Indiens mit einer Politik religiöser Toleranz aus.",
+    "text": "Das Mogulreich war 1526 von Babur gegründet worden, doch erst Akbar sicherte es dauerhaft: Nach dem Sieg in der zweiten Schlacht von Panipat 1556 unterwarf er in Jahrzehnten Nordindien, Gujarat und Bengalen. Er band die hinduistischen Rajputen durch Heiraten und Ämter ein, schaffte 1564 die Sondersteuer für Nichtmuslime ab und ließ an seinem Hof Muslime, Hindus, Jainas, Parsen und Jesuiten miteinander diskutieren. Seine Verwaltung mit Steuerkataster und Rangordnung der Beamten sowie die Bauten von Fatehpur Sikri prägten Indien bis in die britische Zeit.",
+    "personIds": [
+      "akbar"
+    ],
+    "tags": [
+      "indien",
+      "mogulreich",
+      "toleranz"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "oda-nobunaga-okehazama",
+    "title": "Oda Nobunaga siegt bei Okehazama und beginnt die Einigung Japans",
+    "year": 1560,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "asien",
+    "summary": "Mit einem überraschenden Sieg über eine weit überlegene Armee steigt der Provinzfürst Oda Nobunaga zur führenden Macht im zersplitterten Japan auf.",
+    "text": "Seit dem Ōnin-Krieg von 1467 war Japan in der Sengoku-Zeit, der Zeit der streitenden Reiche, in Dutzende Fürstentümer zerfallen, während der Shogun in Kyoto machtlos war. 1560 überfiel Nobunaga mit wenigen tausend Kriegern bei Okehazama das Lager des Fürsten Imagawa Yoshimoto und tötete ihn. In den folgenden Jahren nahm er Kyoto ein, setzte 1575 bei Nagashino massenhaft Musketen ein, die portugiesische Händler ins Land gebracht hatten, und brach die Macht der buddhistischen Klöster. Nach seinem Tod 1582 vollendeten Toyotomi Hideyoshi und Tokugawa Ieyasu die Einigung des Landes.",
+    "personIds": [],
+    "tags": [
+      "japan",
+      "sengoku-zeit",
+      "samurai"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "bartholomaeusnacht",
+    "title": "Bartholomäusnacht in Paris",
+    "year": 1572,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "In der Nacht zum 24. August 1572 werden in Paris tausende Hugenotten ermordet; das Massaker wird zum Symbol der Religionskriege.",
+    "text": "Zur Hochzeit des protestantischen Heinrich von Navarra mit Margarete von Valois, der Schwester des Königs, waren zahlreiche Hugenottenführer nach Paris gekommen. Nach einem gescheiterten Anschlag auf den Admiral Coligny ließ der Hof unter Einfluss der Königinmutter Katharina von Medici die Anführer töten; der Mob weitete die Gewalt zu einem Massaker aus, dem in Paris und den Provinzen bis zu 10.000 Menschen zum Opfer fielen. Der Papst ließ eine Gedenkmünze prägen, protestantische Fürsten waren entsetzt. Die Religionskriege endeten erst 1598, als der inzwischen katholisch gewordene Heinrich IV. mit dem Edikt von Nantes den Hugenotten Glaubensfreiheit gewährte.",
+    "personIds": [],
+    "tags": [
+      "hugenotten",
+      "religionskriege",
+      "frankreich",
+      "massaker"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gregorianischer-kalender",
+    "title": "Einführung des Gregorianischen Kalenders",
+    "year": 1582,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Papst Gregor XIII. reformiert den Kalender: Auf den 4. Oktober 1582 folgt unmittelbar der 15. Oktober.",
+    "text": "Der seit Caesar geltende Julianische Kalender war gegenüber dem Sonnenjahr um zehn Tage in Verzug geraten, sodass das Osterfest immer weiter vom Frühlingsbeginn abrückte. Eine Kommission um den Astronomen Christoph Clavius berechnete eine neue Schaltregel, nach der volle Jahrhunderte nur dann Schaltjahre sind, wenn sie durch 400 teilbar sind. Katholische Länder übernahmen die Reform sofort, protestantische Gebiete Deutschlands erst 1700, Großbritannien 1752 und Russland 1918. Heute ist der Gregorianische Kalender weltweit die Grundlage des bürgerlichen Jahres.",
+    "personIds": [],
+    "tags": [
+      "kalender",
+      "astronomie",
+      "papst",
+      "alltag"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "spanische-armada",
+    "title": "Untergang der Spanischen Armada",
+    "year": 1588,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Die Invasionsflotte Philipps II. scheitert im Ärmelkanal an der englischen Flotte und an Stürmen; England behauptet sich als protestantische Seemacht.",
+    "text": "Philipp II. wollte mit rund 130 Schiffen ein Heer aus den Niederlanden nach England übersetzen, um Elisabeth I. zu stürzen und den Katholizismus wiederherzustellen. Die wendigeren englischen Schiffe unter Howard und Drake beschossen die Armada aus der Distanz, Brander sprengten vor Calais ihre Formation, und bei Gravelines erlitt sie schwere Verluste. Auf dem Rückweg um Schottland und Irland zerstörten Stürme einen großen Teil der Flotte; nur etwa zwei Drittel der Schiffe kehrten heim. Der Sieg festigte Elisabeths Herrschaft, stärkte das englische Selbstbewusstsein und leitete den Aufstieg Englands zur Seemacht ein.",
+    "personIds": [
+      "elisabeth-i"
+    ],
+    "tags": [
+      "seekrieg",
+      "england",
+      "spanien",
+      "philipp ii."
+    ],
+    "importance": 3
+  },
+  {
     "id": "dreissigjaehriger-krieg",
     "title": "Der Dreißigjährige Krieg",
     "year": 1618,
@@ -1813,6 +3404,86 @@
       "religionskrieg",
       "prager fenstersturz",
       "wallenstein"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "hoehepunkt-der-hexenverfolgung",
+    "title": "Höhepunkt der Hexenverfolgungen",
+    "year": 1630,
+    "endYear": null,
+    "approx": true,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "In den Jahren um 1630 erreichen die Hexenprozesse in Mitteleuropa mit tausenden Hinrichtungen ihren Höhepunkt.",
+    "text": "Zwischen etwa 1560 und 1630 wurden in Europa Zehntausende Menschen als Hexen angeklagt, unter Folter zu Geständnissen gezwungen und verbrannt; die meisten Opfer waren Frauen, viele Prozesse fanden in den Fürstbistümern Würzburg, Bamberg und Köln statt. Kriegsnot, Missernten und die Erwartung, dass der Teufel mit Hilfe von Hexen Unheil stifte, befeuerten die Verfolgung. Der Jesuit Friedrich Spee kritisierte 1631 in der Cautio Criminalis die Folter als Quelle falscher Geständnisse. Erst im 18. Jahrhundert endeten die Prozesse; die letzte Hinrichtung in Europa fand 1782 in der Schweiz statt.",
+    "personIds": [],
+    "tags": [
+      "hexenprozesse",
+      "folter",
+      "frauen",
+      "aberglaube"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "galileis-prozess",
+    "title": "Prozess gegen Galileo Galilei",
+    "year": 1633,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Die römische Inquisition verurteilt Galilei wegen seiner Verteidigung des heliozentrischen Weltbildes und zwingt ihn zum Widerruf.",
+    "text": "Galilei hatte 1632 in seinem Dialog über die beiden hauptsächlichen Weltsysteme die Lehre des Kopernikus so überzeugend dargestellt, dass die Kirche darin einen Verstoß gegen das Verbot von 1616 sah. Am 22. Juni 1633 musste der fast Siebzigjährige in Rom kniend abschwören und wurde zu lebenslangem Hausarrest verurteilt. In seiner Villa bei Florenz schrieb er dennoch die Discorsi über Mechanik und Fallgesetze, die 1638 in den Niederlanden erschienen. Der Prozess wurde zum Sinnbild des Konflikts zwischen Wissenschaft und Glaubensautorität; die Kirche rehabilitierte Galilei erst 1992.",
+    "personIds": [
+      "galileo-galilei"
+    ],
+    "tags": [
+      "inquisition",
+      "astronomie",
+      "wissenschaft",
+      "kirche"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "abschliessung-japans",
+    "title": "Abschließung Japans unter den Tokugawa",
+    "year": 1639,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "asien",
+    "summary": "Das Tokugawa-Shogunat verbietet Portugiesen die Einreise, untersagt Japanern das Verlassen des Landes und erlaubt nur noch den Niederländern und Chinesen begrenzten Handel in Nagasaki.",
+    "text": "Tokugawa Ieyasu hatte 1603 das Shogunat begründet und Japan nach einem Jahrhundert Bürgerkrieg befriedet. Seine Nachfolger fürchteten, dass christliche Missionare und europäische Händler die Ordnung untergraben könnten, zumal 1637 ein Aufstand christlicher Bauern in Shimabara blutig niedergeschlagen werden musste. Mit einer Reihe von Erlassen zwischen 1633 und 1639 wurde das Christentum verboten, der Bau hochseetüchtiger Schiffe untersagt und der Außenhandel auf die künstliche Insel Dejima vor Nagasaki beschränkt. Diese als Sakoku bezeichnete Politik hielt bis 1854 an und sicherte Japan über zwei Jahrhunderte Frieden und eine eigenständige Kultur.",
+    "personIds": [
+      "tokugawa-ieyasu"
+    ],
+    "tags": [
+      "japan",
+      "sakoku",
+      "shogunat",
+      "handel"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "englischer-buergerkrieg",
+    "title": "Englischer Bürgerkrieg und Hinrichtung Karls I.",
+    "year": 1642,
+    "endYear": 1649,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Im Kampf zwischen König und Parlament siegt die Parlamentsarmee; Karl I. wird 1649 als erster europäischer Monarch öffentlich hingerichtet.",
+    "text": "Karl I. hatte elf Jahre ohne Parlament regiert und versucht, Schottland eine bischöfliche Kirche aufzuzwingen, bis Geldnot ihn 1640 zur Einberufung des Parlaments zwang. Der Streit um Steuern, Religion und Heeresgewalt eskalierte 1642 zum Bürgerkrieg zwischen Royalisten und Parlamentstruppen, in dem Oliver Cromwells New Model Army bei Naseby 1645 die Entscheidung erzwang. Ein vom Heer gesäubertes Parlament verurteilte den König wegen Hochverrats, und am 30. Januar 1649 wurde er vor seinem Palast in London enthauptet. England wurde Republik, ab 1653 Protektorat unter Cromwell; 1660 kehrte die Monarchie unter Karl II. zurück.",
+    "personIds": [],
+    "tags": [
+      "england",
+      "parlament",
+      "cromwell",
+      "republik"
     ],
     "importance": 3
   },
@@ -1835,6 +3506,27 @@
     "importance": 3
   },
   {
+    "id": "gruendung-der-royal-society",
+    "title": "Gründung der Royal Society",
+    "year": 1660,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "In London gründen Gelehrte eine Gesellschaft zur Förderung des naturwissenschaftlichen Wissens durch Experiment und Austausch.",
+    "text": "Nach einem Vortrag des Architekten Christopher Wren beschlossen zwölf Männer, darunter Robert Boyle, am 28. November 1660 eine Gesellschaft für die Förderung des Wissens über die Natur; 1662 erhielt sie ein königliches Privileg. Ihr Wahlspruch Nullius in verba, auf niemandes Worte, drückte aus, dass nur Experiment und Beobachtung als Beweis gelten sollten. Ab 1665 erschienen die Philosophical Transactions, die älteste bis heute bestehende wissenschaftliche Zeitschrift, und Robert Hooke führte als Kurator wöchentlich Versuche vor. Newton leitete die Gesellschaft von 1703 bis zu seinem Tod; nach ihrem Vorbild entstanden Akademien in Paris, Berlin und St. Petersburg.",
+    "personIds": [
+      "isaac-newton"
+    ],
+    "tags": [
+      "wissenschaft",
+      "akademie",
+      "london",
+      "experiment"
+    ],
+    "importance": 2
+  },
+  {
     "id": "hof-nach-versailles",
     "title": "Ludwig XIV. verlegt den Hof nach Versailles",
     "year": 1682,
@@ -1851,6 +3543,46 @@
       "versailles",
       "hofstaat",
       "absolutismus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "belagerung-wiens-1683",
+    "title": "Zweite Belagerung Wiens durch die Osmanen",
+    "year": 1683,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Ein Entsatzheer unter dem polnischen König Johann III. Sobieski schlägt die osmanische Armee vor Wien und leitet den Rückzug der Osmanen aus Mitteleuropa ein.",
+    "text": "Im Juli 1683 schloss Großwesir Kara Mustafa mit rund 150.000 Mann Wien ein, dessen Besatzung und Bürger die Stadt zwei Monate lang hielten, während Kaiser Leopold I. geflohen war. Am 12. September griff ein Heer aus kaiserlichen, polnischen, bayerischen und sächsischen Truppen vom Kahlenberg herab an; der Angriff der polnischen Reiterei entschied die Schlacht. Im folgenden Großen Türkenkrieg eroberten die Habsburger Ungarn und Siebenbürgen, was der Frieden von Karlowitz 1699 bestätigte. Österreich wurde damit zur Großmacht in Südosteuropa, und die osmanische Expansion in Europa war beendet.",
+    "personIds": [],
+    "tags": [
+      "osmanisches reich",
+      "habsburger",
+      "wien",
+      "türkenkriege"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "edikt-von-fontainebleau",
+    "title": "Edikt von Fontainebleau: Vertreibung der Hugenotten",
+    "year": 1685,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Ludwig XIV. hebt das Edikt von Nantes auf und verbietet den protestantischen Gottesdienst in Frankreich; Hunderttausende Hugenotten fliehen.",
+    "text": "Für den Sonnenkönig gehörte zur Einheit des Staates auch die Einheit des Glaubens, und schon vor 1685 hatten einquartierte Dragoner protestantische Familien zum Übertritt gezwungen. Das Edikt vom Oktober 1685 ließ die Kirchen der Hugenotten abreißen, verbannte ihre Pfarrer und verbot den Gläubigen zugleich die Auswanderung. Dennoch flohen rund 200.000 Menschen, viele davon Handwerker, Kaufleute und Offiziere, in die Niederlande, nach England, in die Schweiz und nach Brandenburg, das sie mit dem Edikt von Potsdam einlud. Frankreich verlor wertvolle Fachkräfte, und die Aufklärer sahen im Edikt ein Beispiel für die Folgen religiöser Intoleranz.",
+    "personIds": [
+      "ludwig-xiv"
+    ],
+    "tags": [
+      "hugenotten",
+      "religionsfreiheit",
+      "frankreich",
+      "flucht"
     ],
     "importance": 2
   },
@@ -1893,6 +3625,27 @@
     "importance": 2
   },
   {
+    "id": "lockes-two-treatises",
+    "title": "Locke veröffentlicht die Zwei Abhandlungen über die Regierung",
+    "year": 1689,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "John Locke begründet die Herrschaft auf der Zustimmung der Regierten und dem Schutz von Leben, Freiheit und Eigentum.",
+    "text": "Kurz nach der Glorious Revolution erschienen anonym Lockes Two Treatises of Government, in denen er die Lehre vom Gottesgnadentum widerlegte. Menschen seien von Natur aus frei und gleich und schlössen sich nur zu einem Staat zusammen, um ihre natürlichen Rechte zu sichern; eine Regierung, die diese Rechte verletze, dürfe abgesetzt werden. Im selben Jahr erschienen sein Brief über die Toleranz und der Versuch über den menschlichen Verstand, der alle Erkenntnis auf Erfahrung zurückführte. Lockes Gedanken prägten die Amerikanische Unabhängigkeitserklärung und die liberale Staatslehre bis heute.",
+    "personIds": [
+      "john-locke"
+    ],
+    "tags": [
+      "staatstheorie",
+      "naturrecht",
+      "liberalismus",
+      "aufklärung"
+    ],
+    "importance": 2
+  },
+  {
     "id": "gruendung-st-petersburgs",
     "title": "Peter der Große gründet St. Petersburg",
     "year": 1703,
@@ -1931,6 +3684,47 @@
     "importance": 1
   },
   {
+    "id": "oesterreichischer-erbfolgekrieg",
+    "title": "Maria Theresia und der Österreichische Erbfolgekrieg",
+    "year": 1740,
+    "endYear": 1748,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Nach dem Tod Kaiser Karls VI. greifen Preußen, Bayern und Frankreich das Erbe der 23-jährigen Maria Theresia an, die ihre Länder bis auf Schlesien behauptet.",
+    "text": "Karl VI. hatte mit der Pragmatischen Sanktion die Erbfolge seiner Tochter gesichert, doch kaum war er im Oktober 1740 gestorben, fiel Friedrich II. von Preußen in das reiche Schlesien ein, und Bayern und Frankreich meldeten eigene Ansprüche an. Maria Theresia gewann die Unterstützung der ungarischen Stände, stellte neue Heere auf und setzte 1745 die Wahl ihres Mannes Franz Stephan zum Kaiser durch. Der Frieden von Aachen 1748 bestätigte ihren Besitz, ließ aber Schlesien bei Preußen. Aus der Niederlage zog sie den Schluss, Verwaltung, Heer, Steuern und Schulwesen ihrer Länder grundlegend zu reformieren.",
+    "personIds": [
+      "maria-theresia",
+      "friedrich-ii-von-preussen"
+    ],
+    "tags": [
+      "habsburger",
+      "preußen",
+      "schlesien",
+      "erbfolge"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "montesquieu-geist-der-gesetze",
+    "title": "Montesquieu veröffentlicht Vom Geist der Gesetze",
+    "year": 1748,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Charles de Montesquieu fordert die Trennung von gesetzgebender, ausführender und richterlicher Gewalt, um Freiheit gegen Machtmissbrauch zu sichern.",
+    "text": "Der Baron aus Bordeaux hatte zwanzig Jahre lang Verfassungen, Klimazonen, Sitten und Gesetze verschiedener Völker verglichen und England bereist. In seinem in Genf gedruckten Werk beschrieb er die englische Verfassung als Vorbild, weil dort König, Parlament und unabhängige Gerichte einander begrenzten; wo alle Gewalt in einer Hand liege, gebe es keine Freiheit. Er unterschied Republik, Monarchie und Despotie und warnte vor Willkürherrschaft. Obwohl die Kirche das Buch 1751 auf den Index setzte, wurde es in ganz Europa gelesen und beeinflusste die Verfassung der USA von 1787 ebenso wie die französischen Revolutionäre.",
+    "personIds": [],
+    "tags": [
+      "gewaltenteilung",
+      "staatstheorie",
+      "aufklärung",
+      "verfassung"
+    ],
+    "importance": 3
+  },
+  {
     "id": "erste-baende-der-encyclopedie",
     "title": "Erste Bände der Encyclopédie erscheinen",
     "year": 1751,
@@ -1951,6 +3745,28 @@
     "importance": 2
   },
   {
+    "id": "erdbeben-von-lissabon",
+    "title": "Erdbeben von Lissabon",
+    "year": 1755,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Am Allerheiligentag zerstören Erdbeben, Flutwelle und Brände die portugiesische Hauptstadt und lösen in ganz Europa eine Debatte über Gott und Natur aus.",
+    "text": "Am Morgen des 1. November 1755, als die Kirchen voll waren, erschütterte ein gewaltiges Beben Lissabon; Flutwellen überschwemmten den Hafen, und Brände wüteten tagelang. Schätzungen gehen von 30.000 bis 60.000 Toten aus, eine der reichsten Städte Europas lag in Trümmern. Der Minister Pombal organisierte Rettung und Wiederaufbau mit erdbebensicheren Bauten und ließ die Ursachen wissenschaftlich untersuchen. Voltaire verspottete in einem Gedicht und im Candide die Vorstellung, dass alles in der Welt zum Besten geordnet sei, Rousseau widersprach ihm, und Kant verfasste drei Abhandlungen über die natürlichen Ursachen von Erdbeben.",
+    "personIds": [
+      "voltaire",
+      "immanuel-kant"
+    ],
+    "tags": [
+      "naturkatastrophe",
+      "portugal",
+      "aufklärung",
+      "philosophie"
+    ],
+    "importance": 1
+  },
+  {
     "id": "siebenjaehriger-krieg",
     "title": "Der Siebenjährige Krieg",
     "year": 1756,
@@ -1967,6 +3783,25 @@
       "preußen",
       "großbritannien",
       "kolonialkrieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "cooks-pazifikreisen",
+    "title": "James Cooks Pazifikreisen",
+    "year": 1768,
+    "endYear": 1779,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "ozeanien",
+    "summary": "Auf drei Reisen vermisst James Cook Neuseeland, die Ostküste Australiens und zahllose Inseln des Pazifiks und beendet die Suche nach dem Südkontinent.",
+    "text": "Im Auftrag der Royal Society beobachtete Cook 1769 auf Tahiti den Venusdurchgang, umsegelte danach Neuseeland und landete 1770 in der Botany Bay an der Ostküste Australiens, die er für Großbritannien in Besitz nahm. Auf der zweiten Reise überquerte er als Erster den südlichen Polarkreis und bewies, dass es keinen bewohnbaren Südkontinent gab; auf der dritten erreichte er Hawaii, wo er 1779 im Streit mit Einheimischen getötet wurde. Mit Chronometer, Sauerkraut gegen Skorbut und Naturforschern wie Joseph Banks und Georg Forster an Bord machten seine Fahrten die Erkundung zur Wissenschaft. Für die Bewohner Australiens und der Pazifikinseln begann mit ihnen die europäische Kolonisierung.",
+    "personIds": [],
+    "tags": [
+      "entdeckungen",
+      "pazifik",
+      "australien",
+      "seefahrt"
     ],
     "importance": 3
   },
@@ -2005,6 +3840,27 @@
       "usa",
       "unabhängigkeit",
       "jefferson"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "mechanischer-webstuhl-fabriksystem",
+    "title": "Mechanischer Webstuhl und Fabriksystem",
+    "year": 1785,
+    "endYear": null,
+    "approx": true,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "Spinnmaschinen und der mechanische Webstuhl verlagern die Textilproduktion aus den Häusern in die Fabrik.",
+    "text": "Mit der Spinning Jenny von James Hargreaves aus den 1760er Jahren konnte ein Arbeiter mehrere Spindeln gleichzeitig bedienen, Richard Arkwrights Water Frame nutzte ab 1769 Wasserkraft, und 1785 ließ Edmund Cartwright den mechanischen Webstuhl patentieren. Da die Maschinen an eine zentrale Kraftquelle gebunden waren, entstanden große Fabriken wie Arkwrights Mühle in Cromford, in denen Hunderte Menschen nach festen Zeiten und unter Aufsicht arbeiteten. Die Heimweber konnten mit den billigen Fabrikstoffen nicht konkurrieren und verarmten. Das Fabriksystem breitete sich von der Baumwollindustrie auf alle Branchen aus und prägte die Arbeitswelt bis heute.",
+    "personIds": [
+      "james-watt"
+    ],
+    "tags": [
+      "fabrik",
+      "textilindustrie",
+      "erfindung",
+      "arbeit"
     ],
     "importance": 3
   },
@@ -2204,6 +4060,25 @@
     "importance": 3
   },
   {
+    "id": "abschaffung-sklaverei-britisches-empire",
+    "title": "Abschaffung der Sklaverei im Britischen Empire",
+    "year": 1833,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "welt",
+    "summary": "Das britische Parlament beschließt die Befreiung von rund 800.000 versklavten Menschen in den Kolonien.",
+    "text": "Nachdem Großbritannien bereits 1807 den Sklavenhandel verboten hatte, setzten Abolitionisten wie William Wilberforce, Massenpetitionen und Sklavenaufstände in der Karibik die Abschaffung der Sklaverei selbst durch. Der Slavery Abolition Act von 1833 trat am 1. August 1834 in Kraft; die Sklavenhalter erhielten 20 Millionen Pfund Entschädigung, die Befreiten mussten zunächst noch Jahre als sogenannte Lehrlinge weiterarbeiten. Frankreich folgte 1848, die USA 1865, Brasilien erst 1888. Die britische Flotte jagte fortan Sklavenschiffe im Atlantik, was zugleich als Rechtfertigung für die Ausdehnung britischer Macht in Afrika diente.",
+    "personIds": [],
+    "tags": [
+      "sklaverei",
+      "abolition",
+      "menschenrechte",
+      "britisches empire"
+    ],
+    "importance": 3
+  },
+  {
     "id": "erster-opiumkrieg",
     "title": "Erster Opiumkrieg",
     "year": 1839,
@@ -2219,6 +4094,44 @@
       "kolonialismus",
       "handel",
       "hongkong"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "weberaufstand-schlesien",
+    "title": "Weberaufstand in Schlesien",
+    "year": 1844,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "Verarmte Heimweber erheben sich gegen Fabrikanten und werden vom preußischen Militär niedergeschlagen.",
+    "text": "Die Baumwollweber im schlesischen Eulengebirge konnten mit englischen Maschinenstoffen nicht mehr mithalten und erhielten von den Verlegern immer geringere Löhne. Am 4. Juni 1844 zogen Hunderte Weber in Peterswaldau und Langenbielau vor die Häuser der Fabrikanten, zerstörten Maschinen und Geschäftsbücher. Preußische Soldaten schossen in die Menge, elf Menschen starben, die Anführer wurden zu Zuchthaus verurteilt. Der Aufstand machte die soziale Frage in ganz Deutschland zum Thema; Heinrich Heine schrieb das Gedicht Die schlesischen Weber, Gerhart Hauptmann 1892 das Drama Die Weber.",
+    "personIds": [],
+    "tags": [
+      "soziale frage",
+      "aufstand",
+      "weber",
+      "preußen"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "irische-hungersnot",
+    "title": "Große Hungersnot in Irland",
+    "year": 1845,
+    "endYear": 1849,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "Die Kartoffelfäule vernichtet die Ernten; rund eine Million Iren verhungern, weitere Millionen wandern aus.",
+    "text": "Die arme Landbevölkerung Irlands lebte fast ausschließlich von Kartoffeln. Als ab 1845 ein Pilz die Ernten in mehreren Jahren hintereinander vernichtete, verhungerten Hunderttausende oder starben an Typhus und Cholera, während weiterhin Getreide und Vieh nach England exportiert wurden. Die britische Regierung vertraute auf den freien Markt und half zu spät und zu wenig. Die Bevölkerung Irlands sank von rund 8,5 Millionen auf 6,5 Millionen im Jahr 1851; Millionen Iren wanderten nach Nordamerika aus, und die Erinnerung an die Hungersnot befeuerte den irischen Nationalismus.",
+    "personIds": [],
+    "tags": [
+      "hungersnot",
+      "irland",
+      "auswanderung",
+      "kartoffelfäule"
     ],
     "importance": 2
   },
@@ -2261,6 +4174,46 @@
     "importance": 2
   },
   {
+    "id": "sepoy-aufstand-indien",
+    "title": "Sepoy-Aufstand in Indien",
+    "year": 1857,
+    "endYear": 1858,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "asien",
+    "summary": "Indische Soldaten meutern gegen die britische Ostindien-Kompanie; danach übernimmt die Krone die Herrschaft über Indien.",
+    "text": "Auslöser war im Mai 1857 das Gerücht, die Patronen neuer Gewehre seien mit Rinder- und Schweinefett eingefettet, was Hindus wie Muslime unter den einheimischen Soldaten, den Sepoys, verletzte. Die Meuterei in Merath weitete sich zu einem Aufstand in Nordindien aus, die Rebellen nahmen Delhi ein und riefen den alten Mogulkaiser zum Herrscher aus. Britische Truppen schlugen den Aufstand bis 1858 mit äußerster Härte nieder. Die Ostindien-Kompanie wurde aufgelöst, Indien direkt der britischen Krone unterstellt, und Königin Victoria nahm 1876 den Titel Kaiserin von Indien an.",
+    "personIds": [],
+    "tags": [
+      "indien",
+      "kolonialismus",
+      "aufstand",
+      "britisches empire"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "darwin-entstehung-der-arten",
+    "title": "Darwin veröffentlicht die Entstehung der Arten",
+    "year": 1859,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "Charles Darwin erklärt die Vielfalt des Lebens durch Evolution und natürliche Auslese.",
+    "text": "Am 24. November 1859 erschien in London Darwins Buch Über die Entstehung der Arten, dessen erste Auflage am selben Tag ausverkauft war. Darwin zeigte anhand von Beobachtungen seiner Weltreise auf der Beagle und jahrzehntelanger Forschung, dass Arten nicht unveränderlich sind, sondern sich durch natürliche Auslese aus gemeinsamen Vorfahren entwickeln. Die Theorie widersprach der wörtlichen Auslegung der biblischen Schöpfungsgeschichte und löste heftige Debatten aus. Sie wurde zur Grundlage der modernen Biologie, aber auch missbraucht, um mit dem sogenannten Sozialdarwinismus Rassismus und Imperialismus zu rechtfertigen.",
+    "personIds": [
+      "charles-darwin"
+    ],
+    "tags": [
+      "evolution",
+      "wissenschaft",
+      "biologie",
+      "darwin"
+    ],
+    "importance": 3
+  },
+  {
     "id": "amerikanischer-buergerkrieg",
     "title": "Amerikanischer Bürgerkrieg",
     "year": 1861,
@@ -2279,6 +4232,26 @@
       "bürgerkrieg"
     ],
     "importance": 3
+  },
+  {
+    "id": "gruendung-rotes-kreuz",
+    "title": "Gründung des Roten Kreuzes",
+    "year": 1863,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "In Genf entsteht auf Initiative Henry Dunants eine Organisation zur Versorgung verwundeter Soldaten.",
+    "text": "Henry Dunant hatte 1859 das Elend der Verwundeten nach der Schlacht von Solferino erlebt und in seinem Buch Eine Erinnerung an Solferino freiwillige Hilfsgesellschaften und ein internationales Abkommen zum Schutz von Verwundeten gefordert. Im Februar 1863 gründete er mit vier Genfern das Komitee, aus dem das Internationale Komitee vom Roten Kreuz hervorging; im Oktober tagte die erste internationale Konferenz. Am 22. August 1864 unterzeichneten zwölf Staaten die erste Genfer Konvention, die Sanitäter, Lazarette und Verwundete unter den Schutz des roten Kreuzes auf weißem Grund stellte. Damit begann das moderne humanitäre Völkerrecht.",
+    "personIds": [
+      "henry-dunant"
+    ],
+    "tags": [
+      "rotes kreuz",
+      "humanitäres völkerrecht",
+      "genfer konvention"
+    ],
+    "importance": 2
   },
   {
     "id": "meiji-restauration",
@@ -2341,6 +4314,27 @@
     "importance": 3
   },
   {
+    "id": "bismarcks-sozialgesetze",
+    "title": "Bismarcks Sozialgesetze",
+    "year": 1883,
+    "endYear": 1889,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "Das Deutsche Reich führt als erster Staat der Welt Kranken-, Unfall- und Rentenversicherung ein.",
+    "text": "Bismarck verfolgte eine doppelte Strategie: Mit dem Sozialistengesetz von 1878 verbot er die Sozialdemokratie, mit den Sozialgesetzen wollte er den Arbeitern zeigen, dass der Staat für sie sorgte. 1883 kam die Krankenversicherung, 1884 die Unfallversicherung und 1889 die Alters- und Invaliditätsversicherung, die ab dem 70. Lebensjahr eine kleine Rente zahlte. Arbeitgeber und Arbeitnehmer zahlten Beiträge, der Staat gab Zuschüsse. Die Sozialdemokraten ließen sich damit nicht gewinnen und wurden 1890 stärkste Partei, doch das Modell der Sozialversicherung fand weltweit Nachahmer und ist bis heute Grundlage des deutschen Sozialstaats.",
+    "personIds": [
+      "otto-von-bismarck"
+    ],
+    "tags": [
+      "sozialversicherung",
+      "sozialstaat",
+      "arbeiterbewegung",
+      "deutschland"
+    ],
+    "importance": 2
+  },
+  {
     "id": "berliner-konferenz-afrika",
     "title": "Berliner Konferenz teilt Afrika auf",
     "year": 1884,
@@ -2359,6 +4353,84 @@
       "imperialismus"
     ],
     "importance": 3
+  },
+  {
+    "id": "kongo-freistaat",
+    "title": "Kongo-Freistaat unter Leopold II.",
+    "year": 1885,
+    "endYear": 1908,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "afrika",
+    "summary": "Der belgische König erhält den Kongo als Privatbesitz und beutet ihn mit brutalem Zwangssystem aus.",
+    "text": "Auf der Berliner Konferenz erkannten die Mächte 1885 den Kongo-Freistaat als persönliches Eigentum Leopolds II. an, der versprach, Handel und Zivilisation zu fördern. Tatsächlich zwang seine Kolonialtruppe die Bevölkerung, Kautschuk und Elfenbein abzuliefern; wer die Quoten nicht erfüllte, wurde ausgepeitscht, verstümmelt oder getötet, ganze Dörfer wurden niedergebrannt. Durch Gewalt, Zwangsarbeit, Hunger und Seuchen starben nach Schätzungen mehrere Millionen Menschen. Berichte des britischen Konsuls Roger Casement und die Kampagne von Edmund Morel lösten einen internationalen Skandal aus, sodass Belgien die Kolonie 1908 übernahm.",
+    "personIds": [],
+    "tags": [
+      "kolonialverbrechen",
+      "kongo",
+      "kautschuk",
+      "zwangsarbeit"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "benz-patent-motorwagen",
+    "title": "Carl Benz baut das erste Automobil",
+    "year": 1886,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "In Mannheim meldet Carl Benz einen dreirädrigen Wagen mit Benzinmotor zum Patent an.",
+    "text": "Am 29. Januar 1886 erhielt Carl Benz das Patent auf sein Fahrzeug mit Gasmotorenbetrieb, den ersten praxistauglichen Wagen mit Verbrennungsmotor; fast zeitgleich bauten Gottlieb Daimler und Wilhelm Maybach in Cannstatt eine Motorkutsche. Im August 1888 fuhr Bertha Benz ohne Wissen ihres Mannes mit ihren Söhnen von Mannheim nach Pforzheim, die erste Überlandfahrt mit einem Automobil, und bewies dessen Alltagstauglichkeit. Das Auto stand für die zweite Industrielle Revolution, in der Elektrizität, Chemie und Verbrennungsmotor die Technik des Alltags neu erfanden. Mit Fords Fließband wurde es ab 1913 zum Massenprodukt.",
+    "personIds": [],
+    "tags": [
+      "automobil",
+      "erfindung",
+      "verbrennungsmotor",
+      "technik"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "frauenwahlrecht-neuseeland",
+    "title": "Frauenwahlrecht in Neuseeland",
+    "year": 1893,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "ozeanien",
+    "summary": "Neuseeland gewährt als erstes Land der Welt allen Frauen das Wahlrecht bei nationalen Wahlen.",
+    "text": "Die Frauenrechtlerin Kate Sheppard sammelte mit ihren Mitstreiterinnen 1893 fast 32.000 Unterschriften für eine Petition, damals ein Viertel aller erwachsenen Neuseeländerinnen. Am 19. September 1893 unterzeichnete der Gouverneur das Wahlgesetz, und schon im November wählten die Frauen, darunter auch Maori-Frauen, erstmals das Parlament. Südaustralien folgte 1894, Finnland 1906 als erstes europäisches Land; in Deutschland und Großbritannien dauerte es bis 1918. Der Erfolg in Neuseeland wurde zum Vorbild für die Frauenbewegung in aller Welt.",
+    "personIds": [
+      "emmeline-pankhurst"
+    ],
+    "tags": [
+      "frauenwahlrecht",
+      "frauenbewegung",
+      "neuseeland",
+      "demokratie"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "boxeraufstand",
+    "title": "Boxeraufstand in China",
+    "year": 1900,
+    "endYear": 1901,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "asien",
+    "summary": "Ein Aufstand gegen Ausländer und Christen in China wird von acht Mächten gemeinsam niedergeschlagen.",
+    "text": "Die Geheimgesellschaft der sogenannten Boxer wandte sich gegen Missionare, Eisenbahnen und die wachsende Kontrolle der Großmächte über China. Im Juni 1900 belagerten Boxer und kaiserliche Truppen 55 Tage lang das Gesandtschaftsviertel in Peking, nachdem der deutsche Gesandte ermordet worden war. Ein Expeditionskorps aus acht Staaten, darunter Japan, Russland, Großbritannien, die USA und Deutschland, eroberte Peking und plünderte die Stadt; Kaiser Wilhelm II. hatte die deutschen Truppen in seiner Hunnenrede zur Gnadenlosigkeit aufgefordert. Das Boxerprotokoll von 1901 zwang China zu riesigen Reparationen und beschleunigte den Zerfall der Qing-Dynastie, die 1911 gestürzt wurde.",
+    "personIds": [],
+    "tags": [
+      "china",
+      "imperialismus",
+      "aufstand",
+      "qing-dynastie"
+    ],
+    "importance": 2
   },
   {
     "id": "erster-motorflug-wright",

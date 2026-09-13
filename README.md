@@ -1,15 +1,24 @@
 # Weltgeschichte – Geschichts-App (PWA)
 
-Eine Geschichts-App, die alle wesentlichen Themen der Vergangenheit abdeckt: von der Urgeschichte bis zur Gegenwart, alle Kontinente. Sie läuft als Web-App im Browser und lässt sich auf iPhone und Android als App auf dem Startbildschirm installieren (Progressive Web App). Nach dem ersten Aufruf funktioniert sie auch offline.
+Eine Lern-App, die alle wesentlichen Themen der Vergangenheit abdeckt: von der Urgeschichte bis zur Gegenwart, auf allen Kontinenten. Sie läuft als Web-App im Browser und lässt sich auf iPhone und Android als App auf dem Startbildschirm installieren (Progressive Web App). Nach dem ersten Aufruf funktioniert sie auch offline.
+
+## Gliederung der Inhalte
+
+Die Inhalte sind entlang von drei Achsen geordnet, die überall miteinander verlinkt sind:
+
+| Achse | Was sie bietet |
+|-------|----------------|
+| **Epochen** (14) | Chronologisch von der Steinzeit bis heute. Jede Epoche hat „Auf einen Blick“, Überblick, vier Themenabschnitte (Herrschaft und Politik · Gesellschaft und Alltag · Kultur, Religion und Wissen · Wirtschaft und Technik), Schlüsselereignisse nach Jahrhunderten, Personen, Begriffe und Folgen. |
+| **Querschnittsthemen** (8) | Rote Linien durch alle Epochen: Religionen, Wissenschaft und Technik, Krieg und Frieden, Handel und Globalisierung, Herrschaft und Demokratie, Frauen in der Geschichte, Migration, Kunst und Bildung. |
+| **Regionen** (7) | Geschichte nach Kontinenten mit Ereignissen je Epoche und Personen. |
+
+Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, Thema und Meilensteinen), das **Glossar** (alphabetisch, mit Verweisen auf Ereignisse und Personen), das **Quiz** (10 Fragen pro Epoche oder 20 gemischt, mit Erklärungen und Bestwerten), die **Volltextsuche** über alle Inhaltsarten und **Lesezeichen**.
 
 ## Funktionen
 
-- **14 Epochen** mit Überblick, Schlüsselereignissen, wichtigen Personen und Folgen
-- **Interaktive Zeitleiste** aller Ereignisse, filterbar nach Epoche und Region, mit Deep-Links
-- **Quiz** pro Epoche und als gemischtes Quiz mit Auswertung und gespeicherten Bestwerten
-- **Volltextsuche** über Epochen, Ereignisse und Personen (umlaut-tolerant)
-- **Lesezeichen** für Epochen, Ereignisse und Personen (lokal im Browser)
-- Helles und dunkles Farbschema, mobile Navigation, Tastatur- und Screenreader-freundlich
+- Helles und dunkles Farbschema, mobile Navigation mit „Mehr“-Bereich, Desktop-Layout mit festem Inhaltsverzeichnis
+- Installierbar als App (Manifest, Icons, Service Worker), Update-Hinweis bei neuer Version
+- Tastatur- und Screenreader-freundlich, keine externen Abhängigkeiten, kein Tracking
 
 ## Lokal starten
 
@@ -22,21 +31,23 @@ npm start            # entspricht: python3 -m http.server 8080
 
 ## Veröffentlichen (GitHub Pages)
 
-Repository-Einstellungen → Pages → Branch auswählen, Ordner `/ (root)`. Alle Pfade sind relativ, Routing läuft über `#/…`, daher ist keine weitere Konfiguration nötig.
+Der Workflow `.github/workflows/pages.yml` veröffentlicht bei jedem Push auf `main` automatisch nach GitHub Pages. Dafür einmalig in den Repository-Einstellungen unter **Pages** als Quelle **GitHub Actions** wählen. Alle Pfade sind relativ, das Routing läuft über `#/…`, daher ist keine weitere Konfiguration nötig.
 
-Bei jeder Änderung an App-Dateien die Konstante `VERSION` in `sw.js` erhöhen, damit installierte Apps die neue Version laden.
+Bei Änderungen an App-Dateien die Konstante `VERSION` in `sw.js` erhöhen, damit installierte Apps die neue Version laden.
 
-## Inhalte erweitern
+## Inhalte pflegen
 
 Die Inhalte liegen als JSON in `data/`:
 
 | Datei | Inhalt |
 |-------|--------|
 | `regions.json` | Regionen (id, name, color) |
-| `epochs.json` | Epochen mit Artikeltexten |
-| `events.json` | Ereignisse (Jahr, Region, Text, Personen, Bedeutung) |
+| `epochs.json` | Epochen mit Überblick, keyFacts, sections, consequences |
+| `events.json` | Ereignisse (Jahr, Region, Text, Personen, Bedeutung 1–3) |
 | `persons.json` | Personen |
-| `quiz.json` | Quizfragen mit vier Antworten und Erklärung |
+| `quiz.json` | Quizfragen mit vier Antworten, Erklärung und Schwierigkeit |
+| `glossary.json` | Begriffe mit Definition, Epoche und Verweisen |
+| `themes.json` | Querschnittsthemen mit Ereignis-, Personen- und Begriffs-IDs |
 
 Jahreszahlen sind ganze Zahlen, negative Werte bedeuten v. Chr. Nach Änderungen:
 
@@ -45,7 +56,7 @@ npm run validate     # prüft Schema, IDs, Referenzen und Mindestmengen
 npm test             # Node-Tests für Daten, Suche und Quiz-Logik
 ```
 
-Alternativ können Epochen als einzelne Dateien (`{ epoch, events, persons, quiz }`) gepflegt und mit `node scripts/merge-content.mjs <ordner>` zusammengeführt werden.
+Inhalte lassen sich auch als einzelne Epochen-Dateien (`<slug>.json` plus Ergänzung `<slug>.add.json`, jeweils `{ epoch, events, persons, quiz, glossary }`) pflegen und mit `node scripts/merge-content.mjs <ordner>` zu den Dateien in `data/` zusammenführen.
 
 ## Browser-Test
 
@@ -54,16 +65,21 @@ npm run smoke        # Playwright-Smoke-Test mit Chromium, Screenshots in .playw
 npm run icons        # erzeugt PNG-Icons aus icons/icon.svg
 ```
 
+Der Workflow `.github/workflows/ci.yml` führt Validierung und Tests bei jedem Push und Pull Request aus.
+
 ## Projektstruktur
 
 ```
-index.html            App-Shell
+index.html            App-Shell mit Navigation
 manifest.webmanifest  PWA-Manifest
 sw.js                 Service Worker (Offline-Cache)
 css/                  Styles (Basis, Komponenten, Zeitleiste, Quiz)
-js/                   Router, Store, Daten, Suche, Quiz-Logik, Views
+js/                   Router, Store, Daten-Indizes, Suche, Quiz-Logik
+js/views/             Startseite, Epochen, Ereignis, Person, Zeitleiste, Themen, Glossar,
+                      Regionen, Quiz, Suche, Lesezeichen, Mehr
 data/                 Inhalte als JSON
 icons/                App-Icons
 scripts/              Validierung, Merge, Icons, Smoke-Test
 test/                 Node-Tests
+.github/workflows/    CI und GitHub-Pages-Deployment
 ```
