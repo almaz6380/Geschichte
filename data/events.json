@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "beherrschung-des-feuers",
+    "title": "Beherrschung des Feuers",
+    "year": -400000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "afrika",
+    "summary": "Frühe Menschen lernen, Feuer gezielt zu nutzen und am Brennen zu halten.",
+    "text": "Spätestens vor etwa 400.000 Jahren nutzten Menschen der Art Homo erectus und ihre Nachfahren regelmäßig Feuer, wie Feuerstellen in Afrika, Israel und Europa zeigen. Feuer spendete Wärme und Licht, schützte vor Raubtieren und machte Nahrung durch Kochen bekömmlicher und energiereicher. Das gemeinsame Feuer wurde zum Mittelpunkt der Gruppe und förderte vermutlich Sprache und soziales Zusammenleben.",
+    "personIds": [],
+    "tags": [
+      "feuer",
+      "homo erectus",
+      "altsteinzeit"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "homo-sapiens-in-afrika",
+    "title": "Entstehung des Homo sapiens in Afrika",
+    "year": -300000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "afrika",
+    "summary": "Der anatomisch moderne Mensch entwickelt sich in Afrika.",
+    "text": "Die ältesten bekannten Fossilien des Homo sapiens stammen aus Jebel Irhoud in Marokko und sind rund 300.000 Jahre alt. Genetische Untersuchungen bestätigen, dass alle heute lebenden Menschen auf afrikanische Vorfahren zurückgehen. Der moderne Mensch zeichnete sich durch ein großes Gehirn, ein flaches Gesicht und ein leichtes Skelett aus und stellte zunehmend feinere Werkzeuge her.",
+    "personIds": [
+      "lucy"
+    ],
+    "tags": [
+      "homo sapiens",
+      "evolution",
+      "afrika"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "auszug-aus-afrika",
+    "title": "Auszug aus Afrika",
+    "year": -70000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "naher-osten",
+    "summary": "Gruppen des Homo sapiens verlassen Afrika und breiten sich über Asien und Europa aus.",
+    "text": "Vor etwa 70.000 bis 60.000 Jahren wanderten kleine Gruppen moderner Menschen über den Nahen Osten nach Asien und erreichten vor rund 45.000 Jahren auch Europa. Dort trafen sie auf Neandertaler, mit denen sie sich vereinzelt vermischten, wie Spuren im Erbgut heutiger Menschen belegen. Innerhalb weniger Zehntausend Jahre besiedelte der Homo sapiens fast die gesamte Alte Welt.",
+    "personIds": [
+      "neandertaler"
+    ],
+    "tags": [
+      "migration",
+      "out of africa",
+      "besiedlung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "besiedlung-australiens",
+    "title": "Besiedlung Australiens",
+    "year": -50000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "ozeanien",
+    "summary": "Menschen erreichen mit Booten oder Flößen den australischen Kontinent.",
+    "text": "Vor mindestens 50.000 Jahren, nach manchen Funden sogar vor 65.000 Jahren, gelangten Menschen von Südostasien aus über offene Meeresstrecken nach Australien. Dies ist der früheste Beleg für gezielte Seefahrt. Die Vorfahren der Aborigines entwickelten über Jahrzehntausende eine eigenständige Kultur mit Felsbildern, die zu den ältesten Kunstwerken der Menschheit gehören.",
+    "personIds": [],
+    "tags": [
+      "seefahrt",
+      "aborigines",
+      "besiedlung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "hoehlenmalerei-lascaux",
+    "title": "Höhlenmalerei von Lascaux",
+    "year": -17000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "europa",
+    "summary": "Eiszeitliche Jäger malen in einer Höhle in Südfrankreich hunderte Tiere an die Wände.",
+    "text": "Die 1940 von Jugendlichen entdeckte Höhle von Lascaux in der Dordogne enthält rund 600 Malereien und über 1.000 Ritzungen von Pferden, Auerochsen, Hirschen und Bisons. Die Künstler nutzten Farben aus Ocker, Holzkohle und Manganerz und arbeiteten beim Schein von Fettlampen. Die Bilder hatten vermutlich religiöse oder rituelle Bedeutung und zeigen, dass die Menschen der Altsteinzeit zu symbolischem Denken und Kunst fähig waren.",
+    "personIds": [],
+    "tags": [
+      "kunst",
+      "höhlenmalerei",
+      "eiszeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "besiedlung-amerikas",
+    "title": "Besiedlung Amerikas",
+    "year": -15000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "amerika",
+    "summary": "Menschen aus Sibirien gelangen über die Beringlandbrücke nach Nordamerika.",
+    "text": "Während der letzten Eiszeit lag der Meeresspiegel so niedrig, dass zwischen Sibirien und Alaska eine Landbrücke bestand. Über sie und entlang der Pazifikküste wanderten Menschen nach Amerika ein und erreichten innerhalb weniger Jahrtausende die Südspitze des Kontinents. Damit war als letzter großer Kontinent auch Amerika besiedelt; die Indigenen Amerikas stammen von diesen Einwanderern ab.",
+    "personIds": [],
+    "tags": [
+      "beringstraße",
+      "besiedlung",
+      "eiszeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "goebekli-tepe",
+    "title": "Göbekli Tepe: die ältesten Monumentalbauten",
+    "year": -9500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "naher-osten",
+    "summary": "Jäger und Sammler errichten in Südostanatolien Steinkreise mit tonnenschweren Pfeilern.",
+    "text": "Auf dem Hügel Göbekli Tepe nahe der heutigen Stadt Şanlıurfa in der Türkei errichteten Menschen um 9500 v. Chr. kreisförmige Anlagen aus bis zu fünf Meter hohen T-förmigen Steinpfeilern mit Reliefs von Tieren. Die Erbauer lebten noch überwiegend vom Jagen und Sammeln. Der Fundort zeigt, dass gemeinsame Kultstätten möglicherweise schon vor dem Ackerbau entstanden und die Sesshaftwerdung mit angestoßen haben.",
+    "personIds": [],
+    "tags": [
+      "monumentalbau",
+      "kult",
+      "anatolien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "neolithische-revolution",
+    "title": "Neolithische Revolution im Fruchtbaren Halbmond",
+    "year": -9500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "naher-osten",
+    "summary": "Menschen beginnen, Getreide anzubauen und Tiere zu halten, und werden sesshaft.",
+    "text": "Im Fruchtbaren Halbmond zwischen Levante, Anatolien und Zagrosgebirge begannen Menschen nach dem Ende der Eiszeit, Emmer, Einkorn, Gerste und Linsen anzubauen und Schafe, Ziegen, Rinder und Schweine zu züchten. Statt umherzuziehen, lebten sie nun dauerhaft in Dörfern aus Lehmhäusern. Der Übergang zur bäuerlichen Lebensweise gilt als eine der tiefgreifendsten Veränderungen der Menschheitsgeschichte.",
+    "personIds": [],
+    "tags": [
+      "ackerbau",
+      "viehzucht",
+      "sesshaftigkeit",
+      "jungsteinzeit"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "catalhoeyuek",
+    "title": "Die Großsiedlung Çatalhöyük",
+    "year": -7000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "naher-osten",
+    "summary": "In Anatolien entsteht eine der größten Siedlungen der Jungsteinzeit mit mehreren tausend Einwohnern.",
+    "text": "Çatalhöyük in Zentralanatolien war zwischen etwa 7100 und 5700 v. Chr. bewohnt und beherbergte zeitweise bis zu 8.000 Menschen. Die Lehmziegelhäuser standen dicht an dicht ohne Straßen und wurden über Leitern durch das Dach betreten. Wandmalereien, Stierschädel und Frauenfiguren geben Einblick in Glaubensvorstellungen; die Bewohner betrieben Ackerbau, Viehzucht und Handel mit Obsidian.",
+    "personIds": [],
+    "tags": [
+      "siedlung",
+      "jungsteinzeit",
+      "anatolien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "erfindung-des-rades",
+    "title": "Erfindung des Rades",
+    "year": -3500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "naher-osten",
+    "summary": "In Mesopotamien und Europa tauchen fast gleichzeitig die ersten Räder und Wagen auf.",
+    "text": "Um 3500 v. Chr. erscheinen die ältesten Belege für Räder: als Töpferscheibe in Mesopotamien und als Wagenrad in Bildern und Funden zwischen dem Nahen Osten und Mitteleuropa. Scheibenräder aus massivem Holz auf Achsen ermöglichten von Rindern gezogene Karren und erleichterten den Transport von Ernten, Baumaterial und Waren. Zusammen mit dem Pflug und der Kupferverarbeitung leitete das Rad den Übergang zu den Hochkulturen der Bronzezeit ein.",
+    "personIds": [],
+    "tags": [
+      "technik",
+      "transport",
+      "erfindung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "oetzi-stirbt-in-den-alpen",
+    "title": "Ötzi stirbt in den Alpen",
+    "year": -3300,
+    "endYear": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "europa",
+    "summary": "Ein Mann der Kupferzeit stirbt am Tisenjoch und wird über 5.000 Jahre im Eis konserviert.",
+    "text": "1991 fanden Wanderer am Tisenjoch in den Ötztaler Alpen die Gletschermumie eines Mannes, der um 3300 v. Chr. gestorben war. Ein Pfeil in der Schulter zeigt, dass er getötet wurde. Seine Kleidung aus Fell und Gras, sein Kupferbeil, Bogen und Pfeile sowie sein Mageninhalt liefern einzigartige Informationen über Leben, Ernährung und Technik am Ende der Jungsteinzeit.",
+    "personIds": [
+      "oetzi"
+    ],
+    "tags": [
+      "gletschermumie",
+      "kupferzeit",
+      "alpen"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "sumerische-keilschrift",
+    "title": "Entstehung der sumerischen Keilschrift",
+    "year": -3200,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "In der Stadt Uruk entwickeln die Sumerer die älteste bekannte Schrift.",
+    "text": "Um 3200 v. Chr. begannen Schreiber in Uruk, Abgaben und Vorräte mit Bildzeichen auf Tontafeln festzuhalten. Aus den Bildern wurden abstrakte Zeichen, die mit einem Rohrgriffel keilförmig in feuchten Ton gedrückt wurden. Die Keilschrift wurde über 3.000 Jahre lang für Sumerisch, Akkadisch, Hethitisch und andere Sprachen verwendet und überlieferte Gesetze, Verträge, Mythen und das Gilgamesch-Epos.",
+    "personIds": [],
+    "tags": [
+      "schrift",
+      "sumerer",
+      "uruk"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "reichseinigung-aegyptens",
+    "title": "Reichseinigung Ägyptens",
+    "year": -3100,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "summary": "Ober- und Unterägypten werden unter einem Pharao vereinigt.",
+    "text": "Nach der Überlieferung vereinigte König Menes, der wohl mit dem auf der Narmer-Palette dargestellten Herrscher identisch ist, das Niltal vom ersten Katarakt bis zum Delta. Er soll die Hauptstadt Memphis gegründet haben. Damit begann das pharaonische Ägypten, das mit kurzen Unterbrechungen fast drei Jahrtausende bestand und in mehr als 30 Dynastien eingeteilt wird.",
+    "personIds": [],
+    "tags": [
+      "pharao",
+      "narmer",
+      "altes ägypten"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "bau-der-cheops-pyramide",
+    "title": "Bau der Cheops-Pyramide",
+    "year": -2560,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "summary": "In Gizeh entsteht das größte Bauwerk des Altertums als Grab des Pharaos Cheops.",
+    "text": "Die Große Pyramide von Gizeh war ursprünglich rund 146 Meter hoch und besteht aus etwa 2,3 Millionen Steinblöcken. Sie wurde in etwa 20 Jahren von tausenden Arbeitern errichtet, die nicht Sklaven, sondern bezahlte und versorgte Arbeiter waren. Als einziges der Sieben Weltwunder der Antike ist sie bis heute erhalten und zeugt von den Fähigkeiten ägyptischer Baumeister in Planung, Mathematik und Organisation.",
+    "personIds": [],
+    "tags": [
+      "pyramiden",
+      "gizeh",
+      "weltwunder"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "bluete-der-indus-kultur",
+    "title": "Blüte der Indus-Kultur",
+    "year": -2500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "asien",
+    "summary": "Am Indus entstehen planmäßig gebaute Städte wie Mohenjo-Daro und Harappa.",
+    "text": "Die Indus-Kultur erstreckte sich über das heutige Pakistan und Nordwestindien und war flächenmäßig größer als Ägypten und Mesopotamien. Ihre Städte hatten rechtwinklige Straßen, gebrannte Ziegel, Brunnen, Bäder und ein ausgeklügeltes Abwassersystem. Die Indus-Schrift ist bis heute nicht entziffert; um 1900 v. Chr. verfielen die Städte, vermutlich wegen Klimaveränderungen und der Verlagerung von Flüssen.",
+    "personIds": [],
+    "tags": [
+      "indus-kultur",
+      "mohenjo-daro",
+      "stadtplanung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "sargon-gruendet-akkadisches-reich",
+    "title": "Sargon von Akkad gründet das erste Großreich",
+    "year": -2334,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Sargon unterwirft die sumerischen Stadtstaaten und schafft das erste Reich Mesopotamiens.",
+    "text": "Sargon, der nach der Legende als Findelkind in einem Schilfkorb ausgesetzt wurde, eroberte um 2334 v. Chr. die Stadtstaaten Sumers und dehnte seine Herrschaft bis nach Syrien und Anatolien aus. Er machte das Akkadische zur Verwaltungssprache und setzte seine eigenen Statthalter ein. Das Akkadische Reich bestand rund 150 Jahre und wurde zum Vorbild für alle späteren Reiche Mesopotamiens.",
+    "personIds": [
+      "sargon-von-akkad"
+    ],
+    "tags": [
+      "akkad",
+      "großreich",
+      "mesopotamien"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "codex-hammurapi",
+    "title": "Codex Hammurapi",
+    "year": -1750,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "König Hammurapi von Babylon lässt eine umfangreiche Gesetzessammlung in Stein meißeln.",
+    "text": "Auf einer über zwei Meter hohen Stele aus schwarzem Diorit ließ Hammurapi rund 280 Rechtssätze zu Familie, Eigentum, Handel, Löhnen und Strafen aufzeichnen. Die Strafen richteten sich nach dem gesellschaftlichen Stand und folgten teils dem Grundsatz Auge um Auge, Zahn um Zahn. Die Stele wurde 1901 in Susa gefunden und steht heute im Louvre; sie ist eine der ältesten und vollständigsten Rechtssammlungen der Welt.",
+    "personIds": [
+      "hammurapi"
+    ],
+    "tags": [
+      "recht",
+      "babylon",
+      "gesetz"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "shang-dynastie-orakelknochen",
+    "title": "Shang-Dynastie und Orakelknochen",
+    "year": -1600,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "asien",
+    "summary": "In China beginnt die erste archäologisch belegte Dynastie mit Bronzeguss und den ältesten chinesischen Schriftzeichen.",
+    "text": "Die Shang-Dynastie herrschte von etwa 1600 bis 1046 v. Chr. über das Tal des Gelben Flusses. Ihre Könige befragten die Ahnen, indem sie Rinderschulterblätter und Schildkrötenpanzer erhitzten und die Risse deuteten; die eingeritzten Fragen sind die ältesten Zeugnisse der chinesischen Schrift. Kunstvolle Bronzegefäße, Streitwagen und die Königsgräber von Anyang zeigen eine hoch entwickelte, streng gegliederte Gesellschaft.",
+    "personIds": [],
+    "tags": [
+      "china",
+      "shang",
+      "schrift",
+      "bronze"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "echnatons-religionsreform",
+    "title": "Echnatons Religionsreform",
+    "year": -1350,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "summary": "Pharao Echnaton erhebt die Sonnenscheibe Aton zum einzigen Gott und gründet eine neue Hauptstadt.",
+    "text": "Amenophis IV. nahm den Namen Echnaton an, verbot die Verehrung der alten Götter, allen voran des Amun, und ließ eine neue Residenz Achet-Aton beim heutigen Amarna errichten. Die Kunst dieser Zeit zeigt den König und seine Gemahlin Nofretete ungewöhnlich natürlich und familiär. Nach seinem Tod kehrte Ägypten unter Tutanchamun zu den alten Kulten zurück und tilgte Echnatons Namen aus den Denkmälern.",
+    "personIds": [
+      "echnaton"
+    ],
+    "tags": [
+      "aton",
+      "amarna",
+      "religion",
+      "nofretete"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-bei-kadesch",
+    "title": "Schlacht bei Kadesch und erster Friedensvertrag",
+    "year": -1274,
+    "endYear": null,
+    "approx": false,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Ägypter und Hethiter kämpfen mit tausenden Streitwagen um Syrien und schließen später den ältesten erhaltenen Friedensvertrag.",
+    "text": "Bei Kadesch am Orontes stießen die Heere Ramses II. und des Hethiterkönigs Muwatalli II. in einer der größten Streitwagenschlachten der Geschichte aufeinander. Ramses entging nur knapp einer Niederlage, ließ die Schlacht aber in seinen Tempeln als glänzenden Sieg darstellen. Rund 15 Jahre später schlossen Ramses und Hattusili III. einen Friedens- und Beistandsvertrag, der auf Silbertafeln und Tontafeln erhalten ist und als erster Friedensvertrag der Weltgeschichte gilt.",
+    "personIds": [
+      "ramses-ii"
+    ],
+    "tags": [
+      "hethiter",
+      "streitwagen",
+      "friedensvertrag"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "ende-der-bronzezeit-seevoelker",
+    "title": "Ende der Bronzezeit und Seevölker",
+    "year": -1200,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "summary": "Innerhalb weniger Jahrzehnte brechen das Hethiterreich, die mykenischen Paläste und viele Handelsstädte zusammen.",
+    "text": "Um 1200 v. Chr. wurden das Hethiterreich, die Paläste der Mykener in Griechenland und Städte wie Ugarit zerstört oder aufgegeben; Ägypten wehrte Angriffe der sogenannten Seevölker nur mit Mühe ab. Als Ursachen gelten ein Zusammenwirken von Dürren, Hungersnöten, Erdbeben, Aufständen und dem Zusammenbruch der Handelsnetze für Zinn und Kupfer. Auf die Krise folgten dunkle Jahrhunderte, aus denen mit Eisenwerkzeugen und dem Alphabet der Phönizier eine neue Welt hervorging.",
+    "personIds": [
+      "ramses-ii"
+    ],
+    "tags": [
+      "seevölker",
+      "systemkollaps",
+      "eisenzeit"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "olmeken-in-mesoamerika",
+    "title": "Olmeken in Mesoamerika",
+    "year": -1200,
+    "endYear": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "amerika",
+    "summary": "An der Golfküste Mexikos entsteht die erste Hochkultur Amerikas.",
+    "text": "Die Olmeken errichteten ab etwa 1200 v. Chr. Zentren wie San Lorenzo und La Venta mit Erdpyramiden, Plätzen und tonnenschweren Kolossalköpfen aus Basalt. Sie betrieben Maisanbau, Fernhandel mit Jade und Obsidian und spielten ein rituelles Ballspiel. Kalender, Götterwelt und Bauformen der Olmeken wirkten auf die späteren Kulturen der Maya und Azteken weiter, weshalb sie als Mutterkultur Mesoamerikas gelten.",
+    "personIds": [],
+    "tags": [
+      "olmeken",
+      "mesoamerika",
+      "kolossalköpfe"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "erste-olympische-spiele",
+    "title": "Erste Olympische Spiele",
+    "year": -776,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "In Olympia finden die ersten überlieferten Wettkämpfe zu Ehren des Zeus statt.",
+    "text": "Nach der Überlieferung fanden 776 v. Chr. in Olympia auf der Peloponnes die ersten Spiele statt; der einzige Wettbewerb war ein Lauf über die Länge des Stadions. Alle vier Jahre kamen Athleten aus der gesamten griechischen Welt zusammen, während der Spiele galt ein heiliger Waffenstillstand. Die Griechen rechneten ihre Zeit in Olympiaden, und die Spiele wurden erst 393 n. Chr. vom christlichen Kaiser Theodosius verboten.",
+    "personIds": [],
+    "tags": [
+      "olympia",
+      "sport",
+      "zeus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gruendung-roms",
+    "title": "Gründung Roms",
+    "year": -753,
+    "endYear": null,
+    "approx": true,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Der Sage nach gründet Romulus die Stadt Rom am Tiber.",
+    "text": "Nach der römischen Überlieferung gründete Romulus, der von einer Wölfin gesäugt worden sein soll, im Jahr 753 v. Chr. die Stadt Rom. Archäologisch lässt sich eine Besiedlung der Hügel am Tiber seit dem 10. Jahrhundert v. Chr. nachweisen. Die Römer zählten ihre Jahre ab diesem Gründungsdatum, ab urbe condita.",
+    "personIds": [],
+    "tags": [
+      "gründungsmythos",
+      "romulus",
+      "königszeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "homer-und-die-epen",
+    "title": "Homer und die Epen Ilias und Odyssee",
+    "year": -750,
+    "endYear": null,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Die Epen über den Trojanischen Krieg und die Irrfahrten des Odysseus werden schriftlich festgehalten.",
+    "text": "Die Ilias und die Odyssee, die dem Dichter Homer zugeschrieben werden, fassten mündlich überlieferte Sagen um den Trojanischen Krieg in kunstvollen Hexametern zusammen. Sie waren die Grundlage der griechischen Erziehung, prägten das Bild der Götter und Helden und wurden von Alexander dem Großen bis zu den Römern als Vorbild verehrt. Zur selben Zeit übernahmen die Griechen das phönizische Alphabet und ergänzten es um Vokale.",
+    "personIds": [],
+    "tags": [
+      "homer",
+      "ilias",
+      "odyssee",
+      "literatur"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "kyros-gruendet-das-perserreich",
+    "title": "Kyros II. gründet das Perserreich",
+    "year": -550,
+    "endYear": null,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "naher-osten",
+    "summary": "Kyros besiegt die Meder und begründet das Achämenidenreich, das größte Reich seiner Zeit.",
+    "text": "Kyros II. stürzte um 550 v. Chr. den Mederkönig Astyages und vereinte Perser und Meder unter seiner Herrschaft. In den folgenden Jahren eroberte er Lydien mit seinem sagenhaft reichen König Krösus und 539 v. Chr. Babylon, wo er den verschleppten Juden die Rückkehr nach Jerusalem erlaubte. Seine Nachfolger dehnten das Reich bis nach Ägypten und zum Indus aus und verwalteten es über Satrapien, Königsstraßen und einen Reichspostdienst.",
+    "personIds": [
+      "kyros-ii"
+    ],
+    "tags": [
+      "achämeniden",
+      "meder",
+      "babylon",
+      "großreich"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "beginn-der-roemischen-republik",
+    "title": "Beginn der Römischen Republik",
+    "year": -509,
+    "endYear": null,
+    "approx": true,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Die Römer vertreiben ihren letzten König und errichten eine Republik.",
+    "text": "Nach der Vertreibung des Königs Tarquinius Superbus übernahmen zwei jährlich gewählte Konsuln die Regierung. Senat, Volksversammlungen und Ämter wie Prätor, Zensor und Volkstribun bildeten ein System aus gegenseitiger Kontrolle. Die Ständekämpfe zwischen Patriziern und Plebejern führten über zwei Jahrhunderte zu mehr Rechten für das einfache Volk, etwa durch das Zwölftafelgesetz um 450 v. Chr.",
+    "personIds": [],
+    "tags": [
+      "republik",
+      "konsuln",
+      "senat"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "reformen-des-kleisthenes",
+    "title": "Reformen des Kleisthenes und Beginn der Demokratie",
+    "year": -508,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Kleisthenes ordnet die Bürgerschaft Athens neu und legt das Fundament der attischen Demokratie.",
+    "text": "Nach dem Sturz der Tyrannis der Peisistratiden teilte Kleisthenes die Bürger Athens in zehn neue Phylen ein, die Stadt, Küste und Binnenland mischten und die Macht der alten Adelsfamilien brachen. Ein Rat der 500, durch das Los besetzt, bereitete die Beschlüsse der Volksversammlung vor; das Scherbengericht sollte Machtstreben Einzelner verhindern. Unter Perikles wurde die Demokratie später ausgebaut, blieb aber auf männliche Bürger beschränkt.",
+    "personIds": [
+      "perikles"
+    ],
+    "tags": [
+      "demokratie",
+      "athen",
+      "volksversammlung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "buddha-lehrt-in-nordindien",
+    "title": "Buddha lehrt in Nordindien",
+    "year": -500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Siddhartha Gautama verkündet im Gangestal seine Lehre vom Ende des Leidens.",
+    "text": "Nach seiner Erleuchtung unter einem Feigenbaum bei Bodhgaya hielt Siddhartha Gautama im Wildpark von Sarnath seine erste Predigt über die Vier Edlen Wahrheiten und den Achtfachen Pfad. Etwa vier Jahrzehnte lang zog er als Wanderlehrer durch das nördliche Indien und gründete eine Gemeinschaft von Mönchen und Nonnen. Seine Lehre wandte sich gegen das Kastendenken und die Opferpriester und wurde später zu einer der großen Weltreligionen.",
+    "personIds": [
+      "siddhartha-gautama"
+    ],
+    "tags": [
+      "buddhismus",
+      "erleuchtung",
+      "sarnath",
+      "religion"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "konfuzius-und-seine-lehre",
+    "title": "Konfuzius und seine Lehre",
+    "year": -500,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Der Gelehrte Konfuzius entwirft eine Ethik von Menschlichkeit, Pflicht und Bildung.",
+    "text": "In einer Zeit ständiger Kriege zwischen den chinesischen Fürstentümern lehrte Konfuzius, dass Ordnung durch moralische Vorbilder, Achtung vor Eltern und Herrschern sowie durch Bildung entsteht. Seine Schüler sammelten seine Aussprüche in den Gesprächen, dem Lunyu. Unter der Han-Dynastie wurde der Konfuzianismus zur Staatslehre und blieb über zweitausend Jahre die Grundlage der chinesischen Beamtenausbildung.",
+    "personIds": [
+      "konfuzius"
+    ],
+    "tags": [
+      "konfuzianismus",
+      "philosophie",
+      "ethik",
+      "china"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-von-marathon",
+    "title": "Schlacht von Marathon",
+    "year": -490,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Die Athener besiegen ein persisches Landungsheer und wehren den ersten Angriff des Großkönigs Dareios ab.",
+    "text": "Der persische Großkönig Dareios I. schickte eine Flotte nach Griechenland, um Athen für die Unterstützung eines Aufstands in Kleinasien zu bestrafen. Bei Marathon griffen die athenischen Hopliten unter Miltiades die zahlenmäßig überlegenen Perser im Laufschritt an und schlugen sie in die Flucht. Der Sieg stärkte das Selbstbewusstsein Athens; die Legende vom Boten, der die Nachricht nach Athen lief, gab dem Marathonlauf seinen Namen.",
+    "personIds": [],
+    "tags": [
+      "perserkriege",
+      "miltiades",
+      "hopliten"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-von-salamis",
+    "title": "Schlacht von Salamis",
+    "year": -480,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Die griechische Flotte unter Themistokles vernichtet die persische Flotte des Xerxes in der Meerenge von Salamis.",
+    "text": "Zehn Jahre nach Marathon fiel Xerxes mit einem gewaltigen Heer in Griechenland ein, überwand die Spartaner unter Leonidas bei den Thermopylen und zerstörte Athen. Themistokles lockte die persische Flotte in die enge Bucht von Salamis, wo die wendigen griechischen Trieren die Übermacht besiegten. Im folgenden Jahr schlugen die Griechen bei Plataiai auch das persische Landheer; Athen stieg zur führenden Seemacht auf und gründete den Attischen Seebund.",
+    "personIds": [],
+    "tags": [
+      "perserkriege",
+      "themistokles",
+      "seeschlacht",
+      "xerxes"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "peloponnesischer-krieg",
+    "title": "Peloponnesischer Krieg",
+    "year": -431,
+    "endYear": -404,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Athen und Sparta ringen fast drei Jahrzehnte um die Vorherrschaft in Griechenland; Athen unterliegt.",
+    "text": "Die Rivalität zwischen der Seemacht Athen und der Landmacht Sparta führte 431 v. Chr. zum Krieg, den der Historiker Thukydides beschrieb. Eine Seuche raffte 429 v. Chr. Perikles und einen großen Teil der Athener dahin, die Expedition nach Sizilien 415 bis 413 v. Chr. endete in einer Katastrophe. Mit persischem Geld baute Sparta eine Flotte und zwang Athen 404 v. Chr. zur Kapitulation; die griechischen Stadtstaaten gingen aus dem Krieg erschöpft hervor.",
+    "personIds": [
+      "perikles"
+    ],
+    "tags": [
+      "athen",
+      "sparta",
+      "thukydides"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "prozess-und-tod-des-sokrates",
+    "title": "Prozess und Tod des Sokrates",
+    "year": -399,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Ein athenisches Geschworenengericht verurteilt den Philosophen Sokrates zum Tod durch den Schierlingsbecher.",
+    "text": "Sokrates wurde angeklagt, die Götter der Stadt nicht anzuerkennen und die Jugend zu verderben. Vor 500 Geschworenen verteidigte er sich, ohne um Gnade zu bitten, und wurde mit knapper Mehrheit verurteilt. Er lehnte die Flucht ab, weil er die Gesetze seiner Stadt achtete, und trank den Giftbecher im Kreis seiner Schüler. Platon machte den Prozess in seiner Apologie zu einem Grundtext der Philosophie.",
+    "personIds": [
+      "sokrates",
+      "platon"
+    ],
+    "tags": [
+      "philosophie",
+      "athen",
+      "schierlingsbecher"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "alexanders-feldzug-nach-asien",
+    "title": "Alexanders Feldzug nach Asien",
+    "year": -334,
+    "endYear": -323,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "naher-osten",
+    "summary": "Alexander der Große erobert in elf Jahren das Persische Reich und dringt bis nach Indien vor.",
+    "text": "Mit rund 40.000 Mann überquerte Alexander 334 v. Chr. den Hellespont, besiegte die Perser am Granikos, bei Issos und 331 v. Chr. bei Gaugamela und ließ sich in Ägypten als Pharao anerkennen. Er zog durch Persien und Baktrien bis an den Indus, wo seine erschöpften Soldaten die Umkehr erzwangen. Alexander gründete zahlreiche Städte namens Alexandria und starb 323 v. Chr. in Babylon; seine Feldherren, die Diadochen, teilten das Reich unter sich auf.",
+    "personIds": [
+      "alexander-der-grosse",
+      "aristoteles"
+    ],
+    "tags": [
+      "alexander",
+      "persien",
+      "makedonien",
+      "hellenismus"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "bibliothek-von-alexandria",
+    "title": "Gründung der Bibliothek von Alexandria",
+    "year": -290,
+    "endYear": null,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "afrika",
+    "summary": "Die Ptolemäer schaffen in Alexandria die größte Bibliothek und das wichtigste Forschungszentrum der Antike.",
+    "text": "Ptolemaios I. und sein Sohn Ptolemaios II. ließen in Alexandria ein Museion mit angeschlossener Bibliothek errichten, die hunderttausende Schriftrollen sammeln sollte. Gelehrte wie Euklid, Eratosthenes, der den Erdumfang berechnete, und Archimedes forschten dort oder standen mit ihr in Verbindung. Alexandria wurde zum Mittelpunkt hellenistischer Wissenschaft; die Bibliothek ging in den folgenden Jahrhunderten durch Brände und Vernachlässigung verloren.",
+    "personIds": [],
+    "tags": [
+      "alexandria",
+      "wissenschaft",
+      "ptolemäer",
+      "bibliothek"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "punische-kriege",
+    "title": "Die Punischen Kriege",
+    "year": -264,
+    "endYear": -146,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "afrika",
+    "summary": "In drei Kriegen ringt Rom Karthago nieder und wird zur Vormacht im westlichen Mittelmeer.",
+    "text": "Im Ersten Punischen Krieg gewann Rom Sizilien und baute erstmals eine große Flotte. Im Zweiten überquerte Hannibal mit Elefanten die Alpen und besiegte die Römer 216 v. Chr. bei Cannae, verlor aber 202 v. Chr. bei Zama gegen Scipio. Der Dritte Punische Krieg endete 146 v. Chr. mit der völligen Zerstörung Karthagos.",
+    "personIds": [
+      "hannibal"
+    ],
+    "tags": [
+      "karthago",
+      "hannibal",
+      "seemacht"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "ashoka-verbreitet-den-buddhismus",
+    "title": "Ashoka und die Verbreitung des Buddhismus",
+    "year": -260,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Nach einem blutigen Krieg wendet sich der Maurya-König Ashoka dem Buddhismus zu und verkündet eine Politik der Gewaltlosigkeit.",
+    "text": "Ashoka herrschte über das Maurya-Reich, das fast den gesamten indischen Subkontinent umfasste. Das Leid im Krieg gegen Kalinga um 261 v. Chr. bewegte ihn nach eigener Aussage dazu, fortan nach den Grundsätzen des Buddhismus zu regieren. Auf Felsen und Säulen ließ er Edikte über Toleranz, Fürsorge und Gewaltverzicht einmeißeln und sandte buddhistische Missionare bis nach Sri Lanka und in die hellenistischen Reiche. Das Löwenkapitell seiner Säule von Sarnath ist heute das Staatswappen Indiens.",
+    "personIds": [
+      "ashoka"
+    ],
+    "tags": [
+      "maurya",
+      "buddhismus",
+      "edikte",
+      "kalinga"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "qin-shihuangdi-einigt-china",
+    "title": "Qin Shihuangdi einigt China und beginnt die Große Mauer",
+    "year": -221,
+    "endYear": null,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Der König von Qin besiegt die letzten rivalisierenden Staaten und nennt sich Erster Kaiser.",
+    "text": "Nach dem Sieg über die sechs übrigen Streitenden Reiche nahm der König von Qin den Titel Shihuangdi, Erster erhabener Kaiser, an. Er vereinheitlichte Schrift, Münzen, Maße, Gewichte und sogar die Achsbreite der Wagen, teilte das Land in Verwaltungsbezirke ein und ließ bestehende Grenzwälle zu einer ersten Großen Mauer gegen die Reiternomaden im Norden verbinden. Seine Herrschaft war hart und stützte sich auf die strenge Lehre des Legalismus; wenige Jahre nach seinem Tod stürzte die Dynastie, doch das Einheitsreich blieb bestehen.",
+    "personIds": [
+      "qin-shihuangdi"
+    ],
+    "tags": [
+      "qin",
+      "reichseinigung",
+      "große mauer",
+      "kaiser"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "rom-erobert-griechenland",
+    "title": "Rom erobert Griechenland",
+    "year": -146,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "summary": "Mit der Zerstörung Korinths wird Griechenland Teil des Römischen Reiches.",
+    "text": "Nach den Siegen über Makedonien bei Kynoskephalai 197 v. Chr. und Pydna 168 v. Chr. schlug Rom 146 v. Chr. den Aufstand des Achaiischen Bundes nieder und zerstörte Korinth. Griechenland wurde zunächst der Provinz Macedonia unterstellt und später zur Provinz Achaia. Die Römer übernahmen jedoch Kunst, Literatur und Philosophie der Griechen; der Dichter Horaz schrieb, das eroberte Griechenland habe seinen rauen Sieger erobert.",
+    "personIds": [],
+    "tags": [
+      "rom",
+      "korinth",
+      "provinz"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "reformen-der-gracchen",
+    "title": "Reformversuche der Gracchen",
+    "year": -133,
+    "endYear": -121,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Die Volkstribunen Tiberius und Gaius Gracchus scheitern mit Landreformen und werden getötet.",
+    "text": "Tiberius Gracchus wollte 133 v. Chr. Staatsland an verarmte Bauern verteilen, um die Grundlage des Bürgerheeres zu retten. Der Senat widersetzte sich, Tiberius wurde erschlagen, sein Bruder Gaius zehn Jahre später in den Tod getrieben. Die Gewalt in der Innenpolitik gilt als Beginn der Krise der Republik.",
+    "personIds": [],
+    "tags": [
+      "krise der republik",
+      "landreform",
+      "volkstribun"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "han-dynastie-und-seidenstrasse",
+    "title": "Han-Dynastie und Seidenstraße",
+    "year": -130,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Unter Kaiser Wu öffnet China Handelswege nach Zentralasien, die den Osten mit dem Mittelmeerraum verbinden.",
+    "text": "Kaiser Wu von Han sandte den Gesandten Zhang Qian nach Westen, um Verbündete gegen die Reiternomaden der Xiongnu zu finden. Dessen Berichte über die Länder Zentralasiens führten zu regelmäßigen Karawanen, die Seide, Lack und Eisen nach Westen und Pferde, Glas, Gold und später den Buddhismus nach China brachten. Die Han-Dynastie regierte von 206 v. Chr. bis 220 n. Chr., erhob den Konfuzianismus zur Staatslehre und begründete eine Beamtenverwaltung, die über Prüfungen besetzt wurde.",
+    "personIds": [],
+    "tags": [
+      "han",
+      "seidenstraße",
+      "handel",
+      "zhang qian"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "caesar-erobert-gallien",
+    "title": "Caesar erobert Gallien",
+    "year": -58,
+    "endYear": -51,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Gaius Julius Caesar unterwirft in acht Jahren ganz Gallien bis zum Rhein.",
+    "text": "Als Statthalter führte Caesar Krieg gegen keltische und germanische Stämme und besiegte 52 v. Chr. bei Alesia den Aufstand unter Vercingetorix. Seine Berichte De bello Gallico machten ihn in Rom berühmt und seine Legionen zu einer ihm treu ergebenen Machtbasis. Gallien wurde römische Provinz und später romanisiert.",
+    "personIds": [
+      "gaius-julius-caesar"
+    ],
+    "tags": [
+      "gallien",
+      "alesia",
+      "legionen"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "ermordung-caesars",
+    "title": "Ermordung Caesars",
+    "year": -44,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "An den Iden des März wird Caesar von Senatoren um Brutus und Cassius erstochen.",
+    "text": "Nach dem Sieg im Bürgerkrieg gegen Pompeius ließ sich Caesar zum Diktator auf Lebenszeit ernennen. Eine Gruppe von Senatoren fürchtete das Ende der Republik und tötete ihn am 15. März 44 v. Chr. Statt die Republik zu retten, löste die Tat einen neuen Bürgerkrieg aus, an dessen Ende Octavian als Alleinherrscher stand.",
+    "personIds": [
+      "gaius-julius-caesar",
+      "cicero"
+    ],
+    "tags": [
+      "iden des märz",
+      "brutus",
+      "bürgerkrieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "tod-kleopatras",
+    "title": "Tod Kleopatras und Ende des Hellenismus",
+    "year": -30,
+    "endYear": null,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "afrika",
+    "summary": "Mit dem Selbstmord Kleopatras VII. fällt das letzte hellenistische Königreich an Rom.",
+    "text": "Kleopatra VII., die letzte Herrscherin aus dem Geschlecht der Ptolemäer, hatte sich mit Caesar und danach mit Marcus Antonius verbündet, um die Unabhängigkeit Ägyptens zu sichern. Nach der Niederlage in der Seeschlacht bei Actium 31 v. Chr. und dem Einmarsch Octavians in Alexandria nahmen sich Antonius und Kleopatra das Leben. Ägypten wurde römische Provinz; damit endete die Zeit der hellenistischen Reiche, die aus Alexanders Eroberungen hervorgegangen waren.",
+    "personIds": [],
+    "tags": [
+      "kleopatra",
+      "ptolemäer",
+      "actium",
+      "rom"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "augustus-begruendet-den-prinzipat",
+    "title": "Augustus begründet den Prinzipat",
+    "year": -27,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Octavian erhält den Ehrennamen Augustus und wird faktisch erster römischer Kaiser.",
+    "text": "Nach seinem Sieg über Antonius und Kleopatra bei Actium 31 v. Chr. gab Octavian vor, die Republik wiederherzustellen, behielt aber die Kontrolle über Heer, Provinzen und Finanzen. Als Princeps, der Erste unter Gleichen, regierte er über vierzig Jahre und schuf die Grundlagen der Kaiserzeit. Seine Herrschaft brachte inneren Frieden und ein kulturelles Goldenes Zeitalter mit Dichtern wie Vergil und Horaz.",
+    "personIds": [
+      "augustus"
+    ],
+    "tags": [
+      "prinzipat",
+      "kaiserzeit",
+      "pax romana"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "varusschlacht",
+    "title": "Varusschlacht im Teutoburger Wald",
+    "year": 9,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Germanische Stämme unter Arminius vernichten drei römische Legionen.",
+    "text": "Der Cheruskerfürst Arminius, selbst in römischen Diensten ausgebildet, lockte den Statthalter Varus in einen Hinterhalt. Etwa 15.000 Römer kamen ums Leben. Rom gab danach die Pläne auf, das Gebiet östlich des Rheins dauerhaft zu unterwerfen; der Rhein und später der Limes wurden zur Grenze.",
+    "personIds": [],
+    "tags": [
+      "germanen",
+      "arminius",
+      "limes"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "ausbruch-des-vesuv",
+    "title": "Ausbruch des Vesuv",
+    "year": 79,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Der Vulkan begräbt Pompeji und Herculaneum unter Asche und konserviert sie für die Nachwelt.",
+    "text": "Innerhalb weniger Stunden wurden die Städte am Golf von Neapel von Asche, Bimsstein und Glutlawinen verschüttet. Tausende Menschen starben, darunter der Gelehrte Plinius der Ältere. Die Ausgrabungen seit dem 18. Jahrhundert geben einzigartige Einblicke in das Alltagsleben einer römischen Stadt.",
+    "personIds": [],
+    "tags": [
+      "pompeji",
+      "vulkan",
+      "alltag"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "erfindung-des-papiers",
+    "title": "Erfindung des Papiers in China",
+    "year": 105,
+    "endYear": null,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Der Hofbeamte Cai Lun stellt dem Kaiser ein verbessertes Verfahren zur Papierherstellung vor.",
+    "text": "Cai Lun beschrieb im Jahr 105 ein Verfahren, bei dem Baumrinde, Hanf, Lumpen und alte Fischernetze zu einem Brei zerstampft, auf Sieben geschöpft und getrocknet wurden. Ältere Papierfunde zeigen, dass es schon zuvor einfache Papiere gab, doch nun wurde das billige Material zum Ersatz für Bambustäfelchen und Seide. Das Wissen gelangte über Korea nach Japan und nach 751 über arabische Werkstätten in Samarkand und Bagdad schließlich im 12. Jahrhundert nach Europa.",
+    "personIds": [],
+    "tags": [
+      "papier",
+      "erfindung",
+      "cai lun",
+      "technik"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "mailaender-vereinbarung",
+    "title": "Mailänder Vereinbarung: Religionsfreiheit für Christen",
+    "year": 313,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Konstantin und Licinius gewähren den lange verfolgten Christen freie Religionsausübung.",
+    "text": "Nach Jahrhunderten wechselnder Verfolgung erhielten die Christen 313 volle Religionsfreiheit und ihr beschlagnahmtes Eigentum zurück. Konstantin förderte die Kirche, berief 325 das Konzil von Nicäa ein und ließ sich auf dem Sterbebett taufen. 380 erklärte Kaiser Theodosius das Christentum zur Staatsreligion.",
+    "personIds": [
+      "konstantin-der-grosse"
+    ],
+    "tags": [
+      "christentum",
+      "konstantin",
+      "toleranz"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "gupta-reich",
+    "title": "Gupta-Reich als Blütezeit Indiens",
+    "year": 320,
+    "endYear": 550,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Unter den Gupta-Königen erleben Wissenschaft, Literatur und Kunst in Nordindien ein goldenes Zeitalter.",
+    "text": "Chandragupta I. begründete um 320 eine Dynastie, die unter Samudragupta und Chandragupta II. den größten Teil Nordindiens beherrschte. Am Hof wirkte der Dichter Kalidasa, der Astronom Aryabhata berechnete den Erdumfang und die Kreiszahl, und indische Mathematiker entwickelten das Stellenwertsystem mit der Ziffer Null. Die Höhlentempel von Ajanta mit ihren Wandmalereien und die klassische Sanskritliteratur stammen aus dieser Zeit. Mitte des 6. Jahrhunderts zerfiel das Reich unter den Angriffen der Hunas aus Zentralasien.",
+    "personIds": [],
+    "tags": [
+      "gupta",
+      "mathematik",
+      "null",
+      "sanskrit",
+      "ajanta"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "reichsteilung-395",
+    "title": "Teilung des Römischen Reiches",
+    "year": 395,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Nach dem Tod des Theodosius wird das Reich endgültig in Ost und West geteilt.",
+    "text": "Theodosius vererbte den Westen seinem Sohn Honorius und den Osten seinem Sohn Arcadius. Der griechisch geprägte Osten mit Konstantinopel blieb wirtschaftlich stark, während der Westen unter dem Druck von Goten, Vandalen und Hunnen zerfiel. 410 plünderten die Westgoten unter Alarich Rom.",
+    "personIds": [],
+    "tags": [
+      "reichsteilung",
+      "byzanz",
+      "völkerwanderung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "ende-westroms",
+    "title": "Ende des Weströmischen Reiches",
+    "year": 476,
+    "endYear": null,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "summary": "Odoaker setzt den letzten weströmischen Kaiser Romulus Augustulus ab.",
+    "text": "Der germanische Heerführer Odoaker schickte die kaiserlichen Insignien nach Konstantinopel und regierte Italien als König. Das Ereignis gilt traditionell als Ende der Antike und Beginn des Mittelalters, auch wenn sich römische Verwaltung, Sprache und Kirche in den germanischen Nachfolgereichen noch lange hielten.",
+    "personIds": [],
+    "tags": [
+      "odoaker",
+      "völkerwanderung",
+      "ende der antike"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "taufe-chlodwigs",
+    "title": "Taufe Chlodwigs und Aufstieg des Frankenreichs",
+    "year": 498,
+    "endYear": null,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Der Frankenkönig Chlodwig lässt sich in Reims katholisch taufen und legt den Grundstein für die führende Macht Westeuropas.",
+    "text": "Chlodwig aus dem Geschlecht der Merowinger hatte 486 den letzten römischen Statthalter in Gallien besiegt und die fränkischen Teilstämme geeint. Um 498 ließ er sich vom Bischof Remigius in Reims taufen, angeblich nach einem Gelübde in der Schlacht gegen die Alamannen. Weil er anders als die meisten germanischen Könige das katholische und nicht das arianische Bekenntnis wählte, gewann er die Unterstützung der Kirche und der romanischen Bevölkerung. Nach dem Sieg über die Westgoten 507 herrschte er über fast ganz Gallien; sein Reich wurde zur Keimzelle Frankreichs und Deutschlands.",
+    "personIds": [],
+    "tags": [
+      "franken",
+      "merowinger",
+      "christentum",
+      "reims"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "erste-offenbarung-mohammeds",
+    "title": "Erste Offenbarung Mohammeds",
+    "year": 610,
+    "endYear": null,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "In einer Höhle am Berg Hira bei Mekka empfängt Mohammed nach islamischer Überlieferung die erste Offenbarung.",
+    "text": "Mohammed, ein etwa vierzigjähriger Kaufmann aus dem Stamm der Quraisch, zog sich regelmäßig zur Besinnung in eine Höhle am Berg Hira zurück. Dort erschien ihm nach muslimischem Glauben der Engel Gabriel mit dem Auftrag, die Worte Gottes zu verkünden. Die Offenbarungen, die er bis zu seinem Tod empfing, wurden später im Koran gesammelt. Seine Predigt von dem einen Gott und der Verantwortung gegenüber Armen und Schwachen gewann erste Anhänger, brachte ihn aber in Konflikt mit den führenden Familien Mekkas, die von der Verehrung der alten Götter an der Kaaba profitierten.",
+    "personIds": [
+      "mohammed"
+    ],
+    "tags": [
+      "koran",
+      "mekka",
+      "offenbarung",
+      "religion"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "tang-dynastie",
+    "title": "Beginn der Tang-Dynastie",
+    "year": 618,
+    "endYear": 907,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Die Tang-Dynastie macht China zum mächtigsten und weltoffensten Reich seiner Zeit.",
+    "text": "Li Yuan begründete 618 die Tang-Dynastie, unter der China fast drei Jahrhunderte lang eine kulturelle und politische Großmacht war. Die Hauptstadt Chang'an mit etwa einer Million Einwohnern beherbergte Händler, Mönche und Gesandte aus Persien, Indien, Korea und Japan. Die Dichter Li Bai und Du Fu, der Holztafeldruck und die Beamtenprüfungen prägen das Bild dieser Zeit; mit Wu Zetian regierte die einzige Frau Chinas als Kaiserin aus eigenem Recht. Nach der Rebellion des An Lushan ab 755 verlor der Hof allmählich die Kontrolle über die Provinzen.",
+    "personIds": [],
+    "tags": [
+      "tang",
+      "chang'an",
+      "dichtung",
+      "buddhismus"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "hidschra-nach-medina",
+    "title": "Hidschra nach Medina",
+    "year": 622,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Mohammed und seine Anhänger wandern von Mekka nach Medina aus; mit diesem Jahr beginnt die islamische Zeitrechnung.",
+    "text": "Wegen der wachsenden Feindschaft in Mekka nahmen Mohammed und seine Gefährten 622 eine Einladung der Oase Yathrib an, die fortan Medina, Stadt des Propheten, genannt wurde. Dort wurde Mohammed zum religiösen und politischen Oberhaupt einer Gemeinde, die er in einer Gemeindeordnung mit den ansässigen Stämmen verband. Nach mehreren Kämpfen mit den Mekkanern kehrte er 630 nahezu kampflos nach Mekka zurück und weihte die Kaaba dem alleinigen Gott. Der Kalif Umar legte später die Hidschra als Beginn des islamischen Kalenders fest.",
+    "personIds": [
+      "mohammed"
+    ],
+    "tags": [
+      "hidschra",
+      "medina",
+      "kalender",
+      "gemeinde"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "arabische-eroberung-jerusalems",
+    "title": "Eroberung Jerusalems durch die Araber",
+    "year": 638,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Die byzantinische Stadt Jerusalem ergibt sich dem Kalifen Umar, der Christen und Juden Schutz zusichert.",
+    "text": "Nach dem Sieg über die Byzantiner am Fluss Jarmuk 636 belagerten arabische Truppen Jerusalem, das der Patriarch Sophronius 638 dem Kalifen Umar persönlich übergab. Umar garantierte den Christen den Besitz ihrer Kirchen und erlaubte Juden nach Jahrhunderten wieder die Ansiedlung in der Stadt. Auf dem Tempelberg entstand später der Felsendom, der 691 vollendet wurde und zu den ältesten islamischen Bauwerken gehört. Jerusalem wurde damit zur heiligen Stadt aller drei abrahamitischen Religionen und blieb über 450 Jahre unter muslimischer Herrschaft.",
+    "personIds": [],
+    "tags": [
+      "jerusalem",
+      "umar",
+      "expansion",
+      "byzanz"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "umayyaden-kalifat-in-damaskus",
+    "title": "Umayyaden-Kalifat in Damaskus",
+    "year": 661,
+    "endYear": 750,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Muawiya begründet die erste Kalifendynastie und macht Damaskus zur Hauptstadt eines Reiches von Spanien bis zum Indus.",
+    "text": "Nach der Ermordung des vierten Kalifen Ali setzte sich der Statthalter Syriens Muawiya durch und machte das Kalifat zu einem erblichen Amt seiner Familie. Der Streit um die rechtmäßige Nachfolge des Propheten führte zur Spaltung in Sunniten und Schiiten, die bis heute fortbesteht. Unter den Umayyaden eroberten arabische Heere Nordafrika, 711 das Westgotenreich in Spanien sowie Gebiete bis nach Zentralasien und zum Indus. Arabisch wurde Verwaltungssprache, eigene Goldmünzen wurden geprägt, und mit der Umayyaden-Moschee in Damaskus entstand ein Meisterwerk islamischer Baukunst.",
+    "personIds": [],
+    "tags": [
+      "umayyaden",
+      "damaskus",
+      "expansion",
+      "sunniten und schiiten"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-bei-tours-und-poitiers",
+    "title": "Schlacht bei Tours und Poitiers",
+    "year": 732,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "europa",
+    "summary": "Der fränkische Hausmeier Karl Martell besiegt ein arabisch-berberisches Heer und stoppt die Ausdehnung nach Norden.",
+    "text": "Von Spanien aus unternahmen muslimische Heere immer wieder Vorstöße über die Pyrenäen nach Südfrankreich. Im Oktober 732 stellte sich Karl Martell mit seinem fränkischen Fußheer dem Statthalter Abd ar-Rahman al-Ghafiqi zwischen Tours und Poitiers entgegen; der arabische Anführer fiel, und sein Heer zog sich zurück. Die Bedeutung der Schlacht wurde später oft übertrieben, doch sie stärkte die Stellung der Karolinger, die wenige Jahrzehnte später die fränkische Königskrone erlangten. Die muslimische Herrschaft blieb auf die Iberische Halbinsel beschränkt, wo sie noch fast 800 Jahre bestand.",
+    "personIds": [],
+    "tags": [
+      "karl martell",
+      "franken",
+      "al-andalus",
+      "schlacht"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gruendung-bagdads",
+    "title": "Gründung Bagdads",
+    "year": 762,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Der Abbasidenkalif al-Mansur gründet am Tigris eine neue Hauptstadt, die zur größten Stadt der Welt wird.",
+    "text": "Nachdem die Abbasiden 750 die Umayyaden gestürzt hatten, ließ der Kalif al-Mansur am Tigris eine kreisrunde Residenzstadt errichten, die er Madinat as-Salam, Stadt des Friedens, nannte. Die günstige Lage an den Handelswegen zwischen Persien, Indien, Arabien und dem Mittelmeer ließ Bagdad rasch wachsen; um 900 lebten hier wohl über eine halbe Million Menschen. Märkte, Bibliotheken, Krankenhäuser und Moscheen machten die Stadt zum Zentrum der islamischen Welt. Die Geschichten aus Tausendundeiner Nacht spiegeln den Glanz des Bagdad der Abbasidenzeit.",
+    "personIds": [],
+    "tags": [
+      "abbasiden",
+      "bagdad",
+      "hauptstadt",
+      "handel"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "ueberfall-auf-lindisfarne",
+    "title": "Überfall auf Lindisfarne: Beginn der Wikingerzeit",
+    "year": 793,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Skandinavische Seefahrer plündern das Kloster Lindisfarne vor der englischen Küste und lösen Entsetzen in Europa aus.",
+    "text": "Am 8. Juni 793 landeten Wikinger auf der Insel Lindisfarne, töteten Mönche, raubten Kirchenschätze und verschleppten Gefangene. Der Angriff gilt als Beginn der Wikingerzeit, in der Nordmänner mit ihren schnellen Langschiffen Küsten und Flüsse von England bis zum Mittelmeer heimsuchten. Zugleich waren sie Händler, Entdecker und Siedler: Sie gründeten Dublin und die Normandie, beherrschten Handelswege nach Russland und Byzanz und erreichten um 1000 Island, Grönland und Nordamerika.",
+    "personIds": [],
+    "tags": [
+      "wikinger",
+      "nordmänner",
+      "kloster",
+      "seefahrt"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "heian-zeit-in-japan",
+    "title": "Heian-Zeit in Japan",
+    "year": 794,
+    "endYear": 1185,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Mit der Verlegung der Hauptstadt nach Heian-kyo, dem heutigen Kyoto, beginnt die klassische höfische Kultur Japans.",
+    "text": "Kaiser Kanmu verlegte 794 den Hof nach Heian-kyo, um sich dem Einfluss der mächtigen buddhistischen Klöster von Nara zu entziehen. Die Adelsfamilie Fujiwara regierte über Jahrhunderte faktisch an Stelle der Kaiser. Am Hof entstanden die japanischen Silbenschriften und Werke wie die Geschichte vom Prinzen Genji der Hofdame Murasaki Shikibu, die als erster Roman der Weltliteratur gilt. Als die Kriegerfamilien der Minamoto und Taira um die Macht kämpften, endete die Epoche 1185 mit der Errichtung des ersten Shogunats.",
+    "personIds": [],
+    "tags": [
+      "japan",
+      "kyoto",
+      "hofkultur",
+      "genji",
+      "fujiwara"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "kaiserkroenung-karls-des-grossen",
+    "title": "Kaiserkrönung Karls des Großen",
+    "year": 800,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Papst Leo III. krönt den Frankenkönig am Weihnachtstag in Rom zum Kaiser und erneuert das westliche Kaisertum.",
+    "text": "Karl hatte das Frankenreich durch Kriege gegen Langobarden, Sachsen und Awaren zum größten Reich Westeuropas seit Rom ausgebaut. Als er Papst Leo III. gegen seine römischen Gegner in Schutz nahm, setzte ihm dieser am 25. Dezember 800 in der Peterskirche die Kaiserkrone auf. Damit beanspruchte der Westen wieder ein eigenes Kaisertum neben Byzanz. Karl ordnete Verwaltung, Münzwesen und Kirche, ließ Schulen gründen und eine neue, gut lesbare Schrift entwickeln; man spricht von der karolingischen Renaissance.",
+    "personIds": [
+      "karl-der-grosse"
+    ],
+    "tags": [
+      "kaisertum",
+      "karolinger",
+      "papst",
+      "aachen"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "haus-der-weisheit",
+    "title": "Haus der Weisheit in Bagdad",
+    "year": 830,
+    "endYear": null,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Unter dem Kalifen al-Mamun wird Bagdad zum Zentrum der Übersetzung und Wissenschaft.",
+    "text": "Schon Harun ar-Raschid hatte in Bagdad eine Bibliothek aufgebaut; sein Sohn al-Mamun erweiterte sie zu einer Akademie, in der Gelehrte griechische, persische und indische Schriften ins Arabische übersetzten. Der Mathematiker al-Chwarizmi schrieb hier sein Lehrbuch über das Rechnen mit Gleichungen, aus dessen Titel das Wort Algebra und aus dessen Namen der Begriff Algorithmus entstand. Astronomen vermaßen den Erdumfang, Ärzte wie Hunain ibn Ishaq übersetzten Galen und Hippokrates. Die aus Indien übernommenen Ziffern mit der Null verbreiteten sich von hier aus in die gesamte islamische Welt und später nach Europa.",
+    "personIds": [
+      "harun-ar-raschid"
+    ],
+    "tags": [
+      "wissenschaft",
+      "übersetzung",
+      "algebra",
+      "bibliothek"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "kalifat-von-cordoba",
+    "title": "Kalifat von Córdoba",
+    "year": 929,
+    "endYear": 1031,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "europa",
+    "summary": "Abd ar-Rahman III. erklärt sich in Spanien zum Kalifen und macht Córdoba zur glanzvollsten Stadt Europas.",
+    "text": "Nach dem Sturz der Umayyaden in Damaskus hatte ein Flüchtling der Dynastie in Spanien ein eigenes Emirat gegründet. Abd ar-Rahman III. nahm 929 den Kalifentitel an und stellte sich damit den Abbasiden in Bagdad und den Fatimiden in Nordafrika gleich. Córdoba besaß gepflasterte, beleuchtete Straßen, Bäder, hunderte Moscheen und eine Bibliothek mit angeblich 400.000 Bänden; in der Palaststadt Madinat az-Zahra empfing der Kalif Gesandte aus Byzanz und dem Frankenreich. Muslime, Juden und Christen lebten in al-Andalus lange vergleichsweise friedlich zusammen. 1031 zerfiel das Kalifat in zahlreiche Kleinkönigreiche.",
+    "personIds": [],
+    "tags": [
+      "al-andalus",
+      "córdoba",
+      "umayyaden",
+      "spanien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-bei-hastings",
+    "title": "Schlacht bei Hastings",
+    "year": 1066,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Herzog Wilhelm von der Normandie besiegt den angelsächsischen König Harald und erobert England.",
+    "text": "Nach dem Tod des kinderlosen Königs Eduard des Bekenners beanspruchte Wilhelm den englischen Thron, den jedoch Harald Godwinson bestiegen hatte. Am 14. Oktober 1066 trafen die Heere bei Hastings aufeinander; Harald fiel im Kampf, und Wilhelm ließ sich an Weihnachten in Westminster krönen. Die normannische Eroberung brachte einen französischsprachigen Adel, Burgen aus Stein, das Lehnswesen und eine straffe Verwaltung nach England, festgehalten im Domesday Book von 1086. Der Teppich von Bayeux erzählt die Ereignisse auf siebzig Metern Stoff.",
+    "personIds": [
+      "wilhelm-der-eroberer"
+    ],
+    "tags": [
+      "normannen",
+      "england",
+      "eroberung",
+      "bayeux"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "erster-kreuzzug",
+    "title": "Erster Kreuzzug und Eroberung Jerusalems",
+    "year": 1096,
+    "endYear": 1099,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "naher-osten",
+    "summary": "Auf Aufruf des Papstes ziehen Ritter aus ganz Europa ins Heilige Land und erobern Jerusalem.",
+    "text": "Papst Urban II. rief 1095 auf der Synode von Clermont dazu auf, den byzantinischen Christen zu helfen und die heiligen Stätten von der Herrschaft der Muslime zu befreien. Zehntausende folgten dem Ruf, darunter Ritter unter Gottfried von Bouillon und Raimund von Toulouse. Nach dem verlustreichen Marsch durch Kleinasien und der Belagerung Antiochias eroberten die Kreuzfahrer am 15. Juli 1099 Jerusalem und verübten ein Massaker an der Bevölkerung. Sie gründeten mehrere Kreuzfahrerstaaten, die sich fast zwei Jahrhunderte hielten; sechs weitere große Kreuzzüge folgten.",
+    "personIds": [],
+    "tags": [
+      "kreuzzüge",
+      "jerusalem",
+      "papst",
+      "ritter"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "angkor-wat",
+    "title": "Bau von Angkor Wat",
+    "year": 1150,
+    "endYear": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "summary": "Die Khmer errichten im heutigen Kambodscha die größte Tempelanlage der Welt.",
+    "text": "König Suryavarman II. ließ in der ersten Hälfte des 12. Jahrhunderts Angkor Wat als Tempel für den Hindugott Vishnu und als eigenes Grabmal errichten. Die von Wassergräben umgebene Anlage mit ihren fünf Türmen bildet den Weltenberg Meru der hinduistischen Kosmologie nach und ist mit kilometerlangen Reliefs geschmückt. Das Khmer-Reich beherrschte damals große Teile Südostasiens und versorgte seine Hauptstadt durch ein ausgeklügeltes Kanalsystem. Später wurde Angkor Wat zum buddhistischen Heiligtum und ist heute das Nationalsymbol Kambodschas.",
+    "personIds": [],
+    "tags": [
+      "khmer",
+      "tempel",
+      "hinduismus",
+      "südostasien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "saladin-erobert-jerusalem-zurueck",
+    "title": "Saladin erobert Jerusalem zurück",
+    "year": 1187,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Nach dem Sieg bei Hattin nimmt Saladin die Stadt fast neun Jahrzehnte nach dem Ersten Kreuzzug wieder ein.",
+    "text": "Saladin hatte Ägypten und Syrien unter seiner Herrschaft vereint und rief zum Kampf gegen die Kreuzfahrerstaaten auf. Am 4. Juli 1187 vernichtete er bei den Hörnern von Hattin das Heer des Königreichs Jerusalem, das ohne Wasser in der Sommerhitze eingeschlossen war. Am 2. Oktober kapitulierte Jerusalem; anders als die Kreuzfahrer 1099 verschonte Saladin die Bewohner und ließ sie gegen Lösegeld abziehen. Der Verlust der Stadt löste den Dritten Kreuzzug aus, in dem Richard Löwenherz zwar Akkon zurückgewann, Jerusalem aber in muslimischer Hand blieb.",
+    "personIds": [
+      "saladin"
+    ],
+    "tags": [
+      "kreuzzüge",
+      "jerusalem",
+      "hattin",
+      "ayyubiden"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "dschingis-khan-einigt-die-mongolen",
+    "title": "Dschingis Khan einigt die Mongolen",
+    "year": 1206,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "asien",
+    "summary": "Temüdschin wird zum Herrscher aller Mongolenstämme ausgerufen und beginnt den Aufbau eines Weltreichs.",
+    "text": "Auf einer Versammlung der Stämme am Fluss Onon erhielt Temüdschin 1206 den Titel Dschingis Khan, was etwa ozeanischer oder universaler Herrscher bedeutet. Er organisierte die Mongolen in Einheiten von zehn, hundert und tausend Kriegern, führte ein Gesetzbuch ein und förderte Leute nach Leistung statt nach Herkunft. Seine berittenen Bogenschützen eroberten Nordchina, Zentralasien und Persien; seine Nachfolger dehnten das Reich bis nach Osteuropa und Südchina aus. Trotz brutaler Kriegsführung sicherte die Pax Mongolica später den Handel über die Seidenstraße.",
+    "personIds": [
+      "dschingis-khan"
+    ],
+    "tags": [
+      "mongolen",
+      "steppe",
+      "weltreich",
+      "reiterkrieger"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "magna-carta",
+    "title": "Magna Carta",
+    "year": 1215,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Englische Barone zwingen König Johann, ihre Rechte in einer Urkunde anzuerkennen.",
+    "text": "König Johann Ohneland hatte durch verlorene Kriege in Frankreich und hohe Abgaben den Adel gegen sich aufgebracht. Am 15. Juni 1215 musste er auf der Wiese von Runnymede die Magna Carta besiegeln, die unter anderem festlegte, dass kein freier Mann ohne rechtmäßiges Urteil gefangen genommen und keine Steuer ohne Zustimmung des Rates erhoben werden darf. Zwar galt die Urkunde zunächst nur für den Adel und wurde bald wieder aufgehoben, doch sie wurde immer wieder bestätigt und zum Symbol für die Bindung des Herrschers an das Recht.",
+    "personIds": [],
+    "tags": [
+      "england",
+      "recht",
+      "adel",
+      "verfassung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "mongolen-zerstoeren-bagdad",
+    "title": "Mongolen zerstören Bagdad",
+    "year": 1258,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Das Heer Hülegüs erobert und plündert Bagdad und beendet das Kalifat der Abbasiden.",
+    "text": "Der Mongolenfürst Hülegü, ein Enkel Dschingis Khans, zog mit einem riesigen Heer gegen Bagdad, dessen Kalif al-Mustasim eine Unterwerfung abgelehnt hatte. Nach kurzer Belagerung fiel die Stadt im Februar 1258; die Bewohner wurden zu Zehntausenden getötet, Paläste, Moscheen und Bibliotheken zerstört und der Kalif hingerichtet. Das Ende des Abbasidenkalifats und die Verwüstung des Bewässerungssystems im Zweistromland trafen die islamische Welt schwer. 1260 stoppten die Mamluken aus Ägypten den Vormarsch der Mongolen bei Ain Dschalut in Palästina; die mongolischen Herrscher Persiens nahmen wenige Jahrzehnte später selbst den Islam an.",
+    "personIds": [],
+    "tags": [
+      "mongolen",
+      "bagdad",
+      "abbasiden",
+      "zerstörung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "marco-polos-reise-nach-china",
+    "title": "Marco Polos Reise nach China",
+    "year": 1271,
+    "endYear": 1295,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "asien",
+    "summary": "Der junge Venezianer reist mit Vater und Onkel über die Seidenstraße an den Hof des Mongolenherrschers Kublai Khan.",
+    "text": "1271 brach der siebzehnjährige Marco Polo mit seinem Vater Niccolò und seinem Onkel Maffeo von Venedig auf und erreichte nach fast vier Jahren die Residenz Kublai Khans in China. Nach eigener Darstellung stand er rund siebzehn Jahre in Diensten des Großkhans und bereiste weite Teile Ostasiens, bevor er 1295 über den Seeweg zurückkehrte. In genuesischer Gefangenschaft diktierte er seine Erlebnisse, die als Il Milione bekannt wurden. Der Bericht über Papiergeld, Kohle und riesige Städte prägte das europäische Bild Asiens und inspirierte später Kolumbus.",
+    "personIds": [],
+    "tags": [
+      "reisen",
+      "seidenstraße",
+      "venedig",
+      "kublai khan"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gruendung-des-osmanischen-reiches",
+    "title": "Gründung des Osmanischen Reiches",
+    "year": 1299,
+    "endYear": null,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Der türkische Fürst Osman macht sich in Nordwestanatolien unabhängig und begründet eine Dynastie, die sechs Jahrhunderte herrschen wird.",
+    "text": "Nach dem Zerfall des Sultanats der Rum-Seldschuken entstanden in Anatolien zahlreiche türkische Fürstentümer. Osman I. führte an der Grenze zu Byzanz Krieger, die sich als Kämpfer für den Glauben verstanden, und eroberte Schritt für Schritt byzantinische Städte. Sein Sohn Orhan nahm 1326 Bursa ein und machte es zur ersten Hauptstadt; 1354 setzten die Osmanen nach Europa über. Innerhalb von 150 Jahren eroberten sie den Balkan und Konstantinopel und wurden zur führenden Macht der islamischen Welt, die bis 1922 bestand.",
+    "personIds": [],
+    "tags": [
+      "osmanen",
+      "anatolien",
+      "türken",
+      "dynastie"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "mansa-musas-pilgerreise",
+    "title": "Mansa Musas Pilgerreise nach Mekka",
+    "year": 1324,
+    "endYear": 1325,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "afrika",
+    "summary": "Der König des Mali-Reiches zieht mit einer riesigen Karawane und tonnenweise Gold durch die Sahara nach Mekka.",
+    "text": "Mansa Musa herrschte über das Mali-Reich, das mit den Goldminen des Westsudans und den Handelsstädten Timbuktu und Gao zu den reichsten Staaten der Welt gehörte. Auf seiner Pilgerfahrt 1324 begleiteten ihn nach zeitgenössischen Berichten Tausende Menschen und Kamele, beladen mit Gold, das er in Kairo so freigiebig verschenkte, dass der Goldpreis dort für Jahre sank. Auf dem Rückweg brachte er Gelehrte und Baumeister mit und ließ in Timbuktu Moscheen und Schulen errichten. Der Katalanische Weltatlas von 1375 zeigt ihn mit einem Goldklumpen in der Hand als Herrscher Westafrikas.",
+    "personIds": [
+      "mansa-musa"
+    ],
+    "tags": [
+      "mali",
+      "gold",
+      "timbuktu",
+      "pilgerfahrt",
+      "westafrika"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "reisen-des-ibn-battuta",
+    "title": "Die Reisen des Ibn Battuta",
+    "year": 1325,
+    "endYear": 1354,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "afrika",
+    "summary": "Ein marokkanischer Rechtsgelehrter durchquert in fast dreißig Jahren die gesamte islamische Welt von Westafrika bis China.",
+    "text": "Ibn Battuta brach 1325 in Tanger zur Pilgerfahrt nach Mekka auf und reiste anschließend weiter: nach Ostafrika, Anatolien, an den Hof der Goldenen Horde, nach Indien, wo er Jahre als Richter des Sultans von Delhi diente, auf die Malediven, nach Sumatra und China. Nach seiner Rückkehr besuchte er noch al-Andalus und das Mali-Reich in Westafrika. Insgesamt legte er rund 120.000 Kilometer zurück, weit mehr als Marco Polo. Sein Reisebericht, die Rihla, ist eine der wichtigsten Quellen über Gesellschaft, Handel und Alltag der islamischen Welt im 14. Jahrhundert.",
+    "personIds": [
+      "ibn-battuta"
+    ],
+    "tags": [
+      "reisen",
+      "rihla",
+      "marokko",
+      "handel"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gruendung-tenochtitlans",
+    "title": "Gründung Tenochtitlans durch die Azteken",
+    "year": 1325,
+    "endYear": null,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "amerika",
+    "summary": "Die Mexica gründen auf einer Insel im Texcoco-See die Stadt, die zur Hauptstadt des Aztekenreiches wird.",
+    "text": "Der Überlieferung nach ließen sich die Mexica dort nieder, wo sie einen Adler auf einem Kaktus erblickten, wie es ihr Gott Huitzilopochtli vorausgesagt hatte; dieses Bild ziert heute die Flagge Mexikos. Aus der Inselsiedlung entstand durch Dämme, schwimmende Gärten und Kanäle eine Stadt mit über 200.000 Einwohnern, riesigen Tempelpyramiden und Märkten. Ab 1428 beherrschte Tenochtitlan im Dreibund mit Texcoco und Tlacopan große Teile Mittelamerikas und forderte Tribut und Gefangene für Menschenopfer. 1521 eroberten die Spanier unter Cortés die Stadt; auf ihren Ruinen entstand Mexiko-Stadt.",
+    "personIds": [],
+    "tags": [
+      "azteken",
+      "mexiko",
+      "stadtgründung",
+      "amerika"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "hundertjaehriger-krieg",
+    "title": "Hundertjähriger Krieg",
+    "year": 1337,
+    "endYear": 1453,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "England und Frankreich ringen über mehr als ein Jahrhundert um den französischen Thron und die Gebiete im Westen Frankreichs.",
+    "text": "Der Krieg begann, als der englische König Eduard III. als Enkel eines französischen Königs die Krone Frankreichs beanspruchte. Englische Langbogenschützen siegten bei Crécy 1346, Poitiers 1356 und Azincourt 1415, und zeitweise stand Frankreich vor dem Zerfall. 1429 wendete Jeanne d'Arc mit der Befreiung von Orléans das Blatt und führte den Dauphin zur Krönung nach Reims. Mit der Schlacht bei Castillon 1453 verlor England bis auf Calais alle Besitzungen auf dem Festland; aus dem Krieg gingen beide Länder mit einem stärkeren Nationalgefühl und stehenden Heeren hervor.",
+    "personIds": [
+      "jeanne-darc"
+    ],
+    "tags": [
+      "england",
+      "frankreich",
+      "krieg",
+      "langbogen",
+      "jeanne d'arc"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schwarzer-tod",
+    "title": "Der Schwarze Tod",
+    "year": 1347,
+    "endYear": 1351,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Die Pest breitet sich über Handelswege in ganz Europa aus und tötet etwa ein Drittel der Bevölkerung.",
+    "text": "Im Herbst 1347 brachten genuesische Schiffe aus der Krim die Pest nach Messina, von wo aus sie sich innerhalb von vier Jahren über Italien, Frankreich, England, Deutschland und Skandinavien ausbreitete. Der Erreger Yersinia pestis wurde durch Flöhe von Ratten übertragen und war unheilbar; ganze Dörfer starben aus. Viele suchten Schuldige und ermordeten Juden in zahlreichen Städten. Die Katastrophe führte zu Arbeitskräftemangel, steigenden Löhnen, Bauernaufständen und einer neuen Sicht auf Tod und Vergänglichkeit in Kunst und Religion.",
+    "personIds": [],
+    "tags": [
+      "pest",
+      "seuche",
+      "bevölkerung",
+      "krise"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "gutenbergs-buchdruck",
+    "title": "Gutenberg erfindet den Buchdruck mit beweglichen Lettern",
+    "year": 1450,
+    "endYear": null,
+    "approx": true,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "In Mainz entwickelt Johannes Gutenberg ein Druckverfahren mit beweglichen Metalllettern und einer Druckerpresse.",
+    "text": "Gutenberg kombinierte gegossene Einzelbuchstaben aus einer Bleilegierung, eine Druckerpresse nach dem Vorbild der Weinpresse und eine ölhaltige Druckfarbe. Um 1454 vollendete er die zweiundvierzigzeilige Bibel, das erste große gedruckte Buch Europas. Innerhalb von fünfzig Jahren entstanden Druckereien in über 250 europäischen Städten, und Bücher wurden für viele Menschen erschwinglich.",
+    "personIds": [
+      "johannes-gutenberg"
+    ],
+    "tags": [
+      "buchdruck",
+      "medien",
+      "mainz"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "fall-konstantinopels",
+    "title": "Fall Konstantinopels",
+    "year": 1453,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Die Osmanen unter Mehmed II. erobern die byzantinische Hauptstadt und beenden das Oströmische Reich.",
+    "text": "Nach fast zwei Monaten Belagerung durchbrachen die osmanischen Truppen am 29. Mai 1453 mit Hilfe riesiger Kanonen die Mauern Konstantinopels; der letzte Kaiser Konstantin XI. fiel im Kampf. Sultan Mehmed II. machte die Stadt unter dem Namen Istanbul zur Hauptstadt seines Reiches und ließ die Hagia Sophia in eine Moschee umwandeln. Das Ereignis gilt vielen als Ende des Mittelalters: Griechische Gelehrte flohen nach Italien und förderten dort die Renaissance, und die Suche nach neuen Handelswegen nach Asien beschleunigte die europäischen Entdeckungsfahrten.",
+    "personIds": [],
+    "tags": [
+      "byzanz",
+      "osmanen",
+      "belagerung",
+      "ende des mittelalters"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "kolumbus-erreicht-amerika",
+    "title": "Kolumbus erreicht Amerika",
+    "year": 1492,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "amerika",
+    "summary": "Auf der Suche nach einem Seeweg nach Indien landet Christoph Kolumbus am 12. Oktober 1492 auf einer Insel der Bahamas.",
+    "text": "Mit drei Schiffen war Kolumbus im Auftrag der spanischen Krone von Palos aus nach Westen gesegelt, weil er die Erde für kleiner hielt, als sie ist. Er glaubte bis zu seinem Tod, die Ostküste Asiens erreicht zu haben. Tatsächlich begann mit seiner Landung der dauerhafte Kontakt zwischen Europa und Amerika, der die Geschichte beider Kontinente grundlegend veränderte.",
+    "personIds": [
+      "christoph-kolumbus"
+    ],
+    "tags": [
+      "entdeckungen",
+      "atlantik",
+      "spanien"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "vasco-da-gama-erreicht-indien",
+    "title": "Vasco da Gama erreicht Indien",
+    "year": 1498,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "asien",
+    "summary": "Der Portugiese Vasco da Gama umsegelt Afrika und erreicht als erster Europäer auf dem Seeweg Indien.",
+    "text": "Nach einer Fahrt von fast einem Jahr um das Kap der Guten Hoffnung landete da Gama im Mai 1498 in Calicut an der indischen Malabarküste. Der neue Seeweg umging die arabischen und venezianischen Zwischenhändler und machte Portugal für ein Jahrhundert zur führenden Macht im Gewürzhandel. Portugiesische Stützpunkte entstanden bald von Ostafrika bis nach China und Japan.",
+    "personIds": [],
+    "tags": [
+      "seeweg nach indien",
+      "portugal",
+      "gewürzhandel"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "michelangelos-david",
+    "title": "Michelangelo vollendet den David",
+    "year": 1504,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "In Florenz wird Michelangelos über fünf Meter hohe Marmorstatue des David aufgestellt.",
+    "text": "Michelangelo Buonarroti schuf die Figur aus einem Marmorblock, an dem sich zuvor andere Bildhauer vergeblich versucht hatten. Die Statue zeigt den biblischen Helden in angespannter Ruhe vor dem Kampf und wurde zum Sinnbild der freien Republik Florenz. Sie gilt als Meisterwerk der Hochrenaissance, die den menschlichen Körper nach antikem Vorbild in vollkommener Form darstellte.",
+    "personIds": [],
+    "tags": [
+      "kunst",
+      "florenz",
+      "bildhauerei"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "luthers-95-thesen",
+    "title": "Luther veröffentlicht die 95 Thesen",
+    "year": 1517,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Der Wittenberger Theologe Martin Luther kritisiert in 95 Thesen den Ablasshandel und löst die Reformation aus.",
+    "text": "Luther wandte sich gegen die Vorstellung, man könne sich durch den Kauf von Ablassbriefen von Sündenstrafen freikaufen. Seine Thesen verbreiteten sich dank des Buchdrucks in wenigen Wochen in ganz Deutschland. 1521 weigerte er sich auf dem Reichstag zu Worms zu widerrufen, wurde geächtet und übersetzte auf der Wartburg das Neue Testament ins Deutsche.",
+    "personIds": [
+      "martin-luther"
+    ],
+    "tags": [
+      "reformation",
+      "ablass",
+      "wittenberg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "magellans-weltumsegelung",
+    "title": "Erste Weltumsegelung unter Magellan",
+    "year": 1519,
+    "endYear": 1522,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "welt",
+    "summary": "Eine spanische Flotte unter Ferdinand Magellan umrundet erstmals die Erde und beweist praktisch ihre Kugelgestalt.",
+    "text": "Magellan fand im Süden Amerikas die nach ihm benannte Meerenge und überquerte den Pazifik, den er wegen seiner ruhigen See so nannte. Er selbst starb 1521 auf den Philippinen im Kampf mit Einheimischen. Nur ein Schiff, die Victoria unter Juan Sebastián Elcano, kehrte 1522 mit 18 Überlebenden nach Spanien zurück.",
+    "personIds": [],
+    "tags": [
+      "weltumsegelung",
+      "pazifik",
+      "spanien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "fall-tenochtitlans",
+    "title": "Fall Tenochtitlans",
+    "year": 1521,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "amerika",
+    "summary": "Spanische Konquistadoren unter Hernán Cortés erobern die Hauptstadt der Azteken.",
+    "text": "Cortés war 1519 mit wenigen hundert Soldaten in Mexiko gelandet und hatte sich mit Völkern verbündet, die unter der Herrschaft der Azteken litten. Nach monatelanger Belagerung, in der Pocken und Hunger die Verteidiger schwächten, fiel Tenochtitlan im August 1521. Auf den Ruinen der Stadt entstand Mexiko-Stadt, die Hauptstadt des spanischen Vizekönigreichs Neuspanien.",
+    "personIds": [],
+    "tags": [
+      "azteken",
+      "konquistadoren",
+      "mexiko"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "deutscher-bauernkrieg",
+    "title": "Der Deutsche Bauernkrieg",
+    "year": 1525,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Bauern in Süd- und Mitteldeutschland erheben sich gegen Abgaben und Leibeigenschaft und werden blutig niedergeschlagen.",
+    "text": "Angeregt von der Reformation forderten die Bauern in den Zwölf Artikeln von Memmingen die freie Pfarrerwahl, das Ende der Leibeigenschaft und geringere Abgaben. Luther verurteilte den Aufstand scharf und stellte sich auf die Seite der Fürsten. Die Heere des Schwäbischen Bundes schlugen die Bauern unter anderem bei Frankenhausen; rund 70.000 Menschen kamen ums Leben.",
+    "personIds": [
+      "martin-luther"
+    ],
+    "tags": [
+      "bauernkrieg",
+      "zwölf artikel",
+      "aufstand"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "beginn-transatlantischer-sklavenhandel",
+    "title": "Beginn des transatlantischen Sklavenhandels",
+    "year": 1526,
+    "endYear": null,
+    "approx": true,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "afrika",
+    "summary": "Erstmals werden versklavte Afrikaner direkt von der westafrikanischen Küste nach Amerika verschleppt.",
+    "text": "Weil die indigene Bevölkerung Amerikas durch Krankheiten und Gewalt massenhaft starb, suchten die Kolonialherren nach Arbeitskräften für Plantagen und Bergwerke. Portugiesische und später spanische, englische, französische und niederländische Händler kauften oder raubten Menschen an der afrikanischen Küste und brachten sie unter grausamen Bedingungen über den Atlantik. Bis ins 19. Jahrhundert wurden auf diese Weise über zwölf Millionen Menschen verschleppt.",
+    "personIds": [],
+    "tags": [
+      "sklaverei",
+      "atlantik",
+      "kolonialismus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "eroberung-des-inkareiches",
+    "title": "Eroberung des Inkareiches",
+    "year": 1532,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "amerika",
+    "summary": "Francisco Pizarro nimmt den Inkaherrscher Atahualpa gefangen und bringt das größte Reich Südamerikas unter spanische Kontrolle.",
+    "text": "Mit weniger als 200 Männern lockte Pizarro den Inka Atahualpa in Cajamarca in einen Hinterhalt und ließ dessen Gefolge niedermetzeln. Trotz eines gewaltigen Lösegelds in Gold und Silber wurde Atahualpa 1533 hingerichtet. Ein vorangegangener Bürgerkrieg und eingeschleppte Seuchen hatten das Reich geschwächt; die Spanier gründeten 1535 Lima und beuteten die Silberminen von Potosí aus.",
+    "personIds": [],
+    "tags": [
+      "inka",
+      "pizarro",
+      "peru"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "kopernikus-heliozentrisches-weltbild",
+    "title": "Kopernikus veröffentlicht das heliozentrische Weltbild",
+    "year": 1543,
+    "endYear": null,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "In seinem Hauptwerk stellt Nikolaus Kopernikus die Sonne statt der Erde in den Mittelpunkt des Universums.",
+    "text": "Das Buch De revolutionibus orbium coelestium erschien in Nürnberg kurz vor dem Tod seines Verfassers. Kopernikus erklärte die Bewegungen der Planeten einfacher, indem er die Erde um die Sonne kreisen ließ, und widersprach damit der seit der Antike anerkannten Lehre des Ptolemäus. Sein Modell wurde später von Kepler, Galilei und Newton bestätigt und weiterentwickelt und markiert den Beginn der modernen Astronomie.",
+    "personIds": [
+      "nikolaus-kopernikus"
+    ],
+    "tags": [
+      "astronomie",
+      "weltbild",
+      "wissenschaft"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "konzil-von-trient",
+    "title": "Konzil von Trient",
+    "year": 1545,
+    "endYear": 1563,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "summary": "Die katholische Kirche antwortet auf die Reformation mit einer Klärung ihrer Lehre und inneren Reformen.",
+    "text": "In drei Sitzungsperioden über 18 Jahre bekräftigten die Bischöfe die katholische Lehre von den Sakramenten, der Tradition und der Rechtfertigung und grenzten sie klar von den protestantischen Positionen ab. Zugleich wurden Missstände wie der Ämterkauf bekämpft und Priesterseminare für eine bessere Ausbildung eingerichtet. Das Konzil prägte den Katholizismus bis ins 20. Jahrhundert und vertiefte die Spaltung der Christenheit.",
+    "personIds": [],
+    "tags": [
+      "gegenreformation",
+      "katholische kirche",
+      "konzil"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "dreissigjaehriger-krieg",
+    "title": "Der Dreißigjährige Krieg",
+    "year": 1618,
+    "endYear": 1648,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Ein Religions- und Machtkrieg verwüstet das Heilige Römische Reich und zieht fast alle europäischen Mächte hinein.",
+    "text": "Der Krieg begann mit dem Prager Fenstersturz, als protestantische böhmische Adlige kaiserliche Statthalter aus dem Fenster warfen. Nach Siegen des Kaisers griffen Dänemark, Schweden unter Gustav Adolf und schließlich das katholische Frankreich auf Seiten der Protestanten ein. Söldnerheere, Hunger und Seuchen töteten in manchen Gebieten Deutschlands mehr als ein Drittel der Bevölkerung.",
+    "personIds": [],
+    "tags": [
+      "religionskrieg",
+      "prager fenstersturz",
+      "wallenstein"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "westfaelischer-frieden",
+    "title": "Westfälischer Frieden",
+    "year": 1648,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "In Münster und Osnabrück beendet der erste große europäische Friedenskongress den Dreißigjährigen Krieg.",
+    "text": "Nach fünf Jahren Verhandlungen erhielten Katholiken, Lutheraner und Calvinisten im Reich gleiche Rechte, und die Landesherren gewannen weitgehende Souveränität. Frankreich und Schweden erhielten Gebiete, die Unabhängigkeit der Niederlande und der Schweiz wurde anerkannt. Der Frieden gilt als Geburtsstunde des modernen Staatensystems, in dem souveräne Staaten durch Verträge ihre Beziehungen regeln.",
+    "personIds": [],
+    "tags": [
+      "frieden",
+      "münster",
+      "souveränität"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "hof-nach-versailles",
+    "title": "Ludwig XIV. verlegt den Hof nach Versailles",
+    "year": 1682,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Der Sonnenkönig macht das prunkvolle Schloss Versailles zum ständigen Sitz von Regierung und Hof.",
+    "text": "Aus einem Jagdschloss seines Vaters ließ Ludwig XIV. über Jahrzehnte eine gewaltige Anlage mit Spiegelsaal und Gärten errichten. Der Adel wurde an den Hof gebunden, wo er in einem streng geregelten Zeremoniell um die Gunst des Königs wetteiferte und dadurch politisch entmachtet wurde. Versailles wurde zum Vorbild für Schlösser in ganz Europa und zum Symbol des Absolutismus.",
+    "personIds": [
+      "ludwig-xiv"
+    ],
+    "tags": [
+      "versailles",
+      "hofstaat",
+      "absolutismus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "newtons-principia",
+    "title": "Newton veröffentlicht die Principia",
+    "year": 1687,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Isaac Newton begründet mit den Bewegungsgesetzen und dem Gravitationsgesetz die klassische Physik.",
+    "text": "In den Philosophiae Naturalis Principia Mathematica zeigte Newton, dass dieselbe Kraft einen Apfel zu Boden fallen lässt und den Mond auf seiner Bahn hält. Die Bewegungen der Planeten, die Gezeiten und die Flugbahn von Geschossen ließen sich nun mit wenigen mathematischen Gesetzen berechnen. Das Werk wurde zum Vorbild für eine Wissenschaft, die die Natur als gesetzmäßig und berechenbar begreift.",
+    "personIds": [
+      "isaac-newton"
+    ],
+    "tags": [
+      "physik",
+      "gravitation",
+      "wissenschaft"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "glorious-revolution",
+    "title": "Glorious Revolution in England",
+    "year": 1688,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Das englische Parlament vertreibt den katholischen König Jakob II. und setzt die Vorherrschaft des Parlaments durch.",
+    "text": "Das Parlament rief den protestantischen Wilhelm von Oranien und seine Frau Maria ins Land, worauf Jakob II. nahezu kampflos nach Frankreich floh. 1689 mussten die neuen Herrscher die Bill of Rights anerkennen, die dem Parlament das Recht auf Steuerbewilligung, freie Wahlen und Redefreiheit sicherte. England wurde damit zur konstitutionellen Monarchie und zum Gegenmodell des Absolutismus.",
+    "personIds": [],
+    "tags": [
+      "bill of rights",
+      "parlament",
+      "konstitutionelle monarchie"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gruendung-st-petersburgs",
+    "title": "Peter der Große gründet St. Petersburg",
+    "year": 1703,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Im Sumpfgebiet an der Newa lässt der Zar eine neue Hauptstadt als Fenster nach Europa errichten.",
+    "text": "Während des Großen Nordischen Krieges gegen Schweden legte Peter I. auf erobertem Land an der Ostsee die Peter-und-Paul-Festung an, aus der die Stadt hervorging. Zehntausende Zwangsarbeiter starben beim Bau auf dem sumpfigen Boden. 1712 wurde St. Petersburg Hauptstadt Russlands und blieb es bis 1918; die Stadt symbolisierte die Öffnung des Reiches nach Westen.",
+    "personIds": [
+      "peter-der-grosse"
+    ],
+    "tags": [
+      "russland",
+      "ostsee",
+      "modernisierung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "qianlong-bluete-der-qing",
+    "title": "Qianlong-Kaiser und Blüte der Qing-Dynastie",
+    "year": 1735,
+    "endYear": null,
+    "approx": true,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "asien",
+    "summary": "Unter dem Qianlong-Kaiser erreicht China seine größte Ausdehnung und eine kulturelle Blütezeit.",
+    "text": "Qianlong regierte von 1735 bis 1796 und dehnte das Reich durch Feldzüge nach Zentralasien, Tibet und in den Südwesten aus. Die Bevölkerung wuchs auf rund 300 Millionen, und der Kaiser ließ eine gewaltige Sammlung der chinesischen Literatur anlegen. Gegenüber europäischen Handelswünschen blieb China verschlossen; Qianlong wies 1793 eine britische Gesandtschaft mit dem Hinweis ab, sein Reich brauche keine fremden Waren.",
+    "personIds": [],
+    "tags": [
+      "china",
+      "qing-dynastie",
+      "kaiserreich"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "erste-baende-der-encyclopedie",
+    "title": "Erste Bände der Encyclopédie erscheinen",
+    "year": 1751,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Denis Diderot und Jean le Rond d'Alembert veröffentlichen in Paris den ersten Band des großen Lexikons der Aufklärung.",
+    "text": "Die Encyclopédie sollte das gesamte Wissen der Zeit von der Philosophie bis zum Handwerk sammeln und der Vernunft zugänglich machen. Über 140 Autoren, darunter Voltaire, Rousseau und Montesquieu, verfassten Artikel, die oft versteckt Kirche und Absolutismus kritisierten. Trotz Verboten und Zensur wuchs das Werk bis 1772 auf 28 Bände mit über 70.000 Artikeln und wurde in ganz Europa gelesen.",
+    "personIds": [
+      "voltaire"
+    ],
+    "tags": [
+      "aufklärung",
+      "diderot",
+      "wissen"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "siebenjaehriger-krieg",
+    "title": "Der Siebenjährige Krieg",
+    "year": 1756,
+    "endYear": 1763,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "welt",
+    "summary": "Preußen und Großbritannien kämpfen gegen Österreich, Frankreich und Russland in einem Krieg, der in Europa, Amerika und Indien ausgetragen wird.",
+    "text": "Friedrich II. von Preußen eröffnete den Krieg mit dem Einmarsch in Sachsen und behauptete sich gegen eine Übermacht, geriet aber mehrfach an den Rand der Niederlage; der Tod der russischen Zarin Elisabeth 1762 rettete ihn. In Nordamerika und Indien besiegte Großbritannien Frankreich und übernahm Kanada sowie die Vorherrschaft in Bengalen. Preußen behielt Schlesien und stieg zur europäischen Großmacht auf.",
+    "personIds": [
+      "friedrich-ii-von-preussen"
+    ],
+    "tags": [
+      "preußen",
+      "großbritannien",
+      "kolonialkrieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "watts-dampfmaschine",
+    "title": "James Watt verbessert die Dampfmaschine",
+    "year": 1769,
+    "endYear": null,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "summary": "Der schottische Instrumentenbauer James Watt erhält ein Patent auf eine Dampfmaschine mit getrenntem Kondensator.",
+    "text": "Die Dampfmaschine von Thomas Newcomen wurde seit 1712 zum Abpumpen von Wasser aus Bergwerken genutzt, verbrauchte aber enorme Mengen Kohle. Watt erkannte, dass der Dampf in einem separaten Behälter kondensiert werden sollte, damit der Zylinder heiß bleibt; das senkte den Brennstoffverbrauch um rund drei Viertel. Gemeinsam mit dem Unternehmer Matthew Boulton baute er ab 1775 Maschinen, die bald Fabriken, Mühlen und Bergwerke antrieben.",
+    "personIds": [],
+    "tags": [
+      "dampfmaschine",
+      "technik",
+      "erfindung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "amerikanische-unabhaengigkeitserklaerung",
+    "title": "Amerikanische Unabhängigkeitserklärung",
+    "year": 1776,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "summary": "Am 4. Juli 1776 erklären sich dreizehn britische Kolonien zu unabhängigen Vereinigten Staaten von Amerika.",
+    "text": "Der Streit mit London um Steuern und Mitbestimmung war 1775 in offene Kämpfe umgeschlagen. Der von Thomas Jefferson verfasste Text begründete die Trennung mit den unveräußerlichen Rechten aller Menschen auf Leben, Freiheit und das Streben nach Glück. Nach dem Sieg bei Yorktown 1781 erkannte Großbritannien 1783 die Unabhängigkeit an; 1787 gaben sich die Staaten eine Bundesverfassung.",
+    "personIds": [
+      "george-washington"
+    ],
+    "tags": [
+      "usa",
+      "unabhängigkeit",
+      "jefferson"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "erklaerung-der-menschen-und-buergerrechte",
+    "title": "Erklärung der Menschen- und Bürgerrechte",
+    "year": 1789,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Die Nationalversammlung verkündet am 26. August 1789 Freiheit, Gleichheit und Volkssouveränität als Grundrechte.",
+    "text": "In 17 Artikeln erklärte die Versammlung, dass alle Menschen frei und gleich an Rechten geboren werden, dass alle Staatsgewalt vom Volk ausgeht und dass Meinungs- und Religionsfreiheit, Eigentum und Schutz vor Willkür zu garantieren sind. Frauen, Sklaven und Besitzlose blieben zunächst ausgeschlossen; Olympe de Gouges antwortete 1791 mit einer Erklärung der Rechte der Frau und Bürgerin. Die Erklärung wurde zum Vorbild für Verfassungen in aller Welt.",
+    "personIds": [
+      "olympe-de-gouges"
+    ],
+    "tags": [
+      "menschenrechte",
+      "nationalversammlung",
+      "grundrechte"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "sturm-auf-die-bastille",
+    "title": "Sturm auf die Bastille",
+    "year": 1789,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Am 14. Juli 1789 erstürmt die Pariser Bevölkerung das königliche Gefängnis und markiert den Beginn der Französischen Revolution.",
+    "text": "Nachdem sich der Dritte Stand zur Nationalversammlung erklärt hatte und der König Truppen um Paris zusammenzog, bewaffnete sich die Bevölkerung. Die Bastille beherbergte nur wenige Gefangene, galt aber als Symbol königlicher Willkür. Ihr Fall zwang Ludwig XVI. zum Nachgeben; im ganzen Land erhoben sich Bauern gegen die Grundherren, und die Nationalversammlung schaffte im August die Feudalrechte ab.",
+    "personIds": [],
+    "tags": [
+      "französische revolution",
+      "paris",
+      "14. juli"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "beginn-der-haitianischen-revolution",
+    "title": "Beginn der Haitianischen Revolution",
+    "year": 1791,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "summary": "In der französischen Kolonie Saint-Domingue erheben sich die versklavten Menschen gegen ihre Herren.",
+    "text": "Saint-Domingue war durch Zucker- und Kaffeeplantagen die reichste Kolonie Frankreichs, in der eine halbe Million Sklaven unter grausamen Bedingungen arbeitete. Der Aufstand im August 1791 weitete sich unter der Führung von Toussaint Louverture zu einem jahrelangen Krieg aus, in dem sich die Aufständischen gegen Franzosen, Spanier und Briten behaupteten. 1794 hob Frankreich die Sklaverei auf; nach Napoleons Versuch, sie wieder einzuführen, erklärte Haiti sich 1804 unabhängig.",
+    "personIds": [
+      "toussaint-louverture"
+    ],
+    "tags": [
+      "haiti",
+      "sklavenaufstand",
+      "unabhängigkeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "hinrichtung-ludwigs-xvi-und-schreckensherrschaft",
+    "title": "Hinrichtung Ludwigs XVI. und Schreckensherrschaft",
+    "year": 1793,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Der König wird guillotiniert, und der Wohlfahrtsausschuss unter Robespierre errichtet die Terrorherrschaft.",
+    "text": "Nach seinem gescheiterten Fluchtversuch und dem Sturz der Monarchie wurde Ludwig XVI. wegen Verrats verurteilt und am 21. Januar 1793 hingerichtet. Krieg gegen fast ganz Europa, Aufstände in der Vendée und Versorgungsnot führten zur Diktatur des Wohlfahrtsausschusses; Revolutionstribunale ließen bis Sommer 1794 rund 17.000 Menschen hinrichten, darunter Königin Marie-Antoinette und Olympe de Gouges. Im Juli 1794 wurde Robespierre selbst gestürzt und guillotiniert.",
+    "personIds": [
+      "maximilien-de-robespierre",
+      "olympe-de-gouges"
+    ],
+    "tags": [
+      "guillotine",
+      "jakobiner",
+      "terror"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "code-civil",
+    "title": "Der Code civil tritt in Kraft",
+    "year": 1804,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Napoleon gibt Frankreich ein einheitliches bürgerliches Gesetzbuch, das Rechtsgleichheit und Eigentumsfreiheit festschreibt.",
+    "text": "Der Code civil ersetzte hunderte regionale Rechtsordnungen durch ein einziges Gesetzbuch mit über 2.000 Artikeln. Er garantierte die Gleichheit aller Männer vor dem Gesetz, die Vertrags- und Gewerbefreiheit, das Privateigentum und die Zivilehe, stellte aber Frauen unter die Vormundschaft von Vater oder Ehemann. In den von Frankreich beherrschten Gebieten wie dem Rheinland, den Niederlanden und Italien wurde er eingeführt und blieb zum Teil bis ins 20. Jahrhundert in Kraft.",
+    "personIds": [
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "recht",
+      "gesetzbuch",
+      "bürgerliche gesellschaft"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "napoleon-kroent-sich-zum-kaiser",
+    "title": "Napoleon krönt sich zum Kaiser",
+    "year": 1804,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "In der Kathedrale Notre-Dame setzt sich Napoleon Bonaparte am 2. Dezember 1804 selbst die Kaiserkrone auf.",
+    "text": "Nach dem Staatsstreich von 1799 hatte Napoleon als Erster Konsul Frankreich stabilisiert und sich per Volksabstimmung bestätigen lassen. Bei der Krönung war Papst Pius VII. anwesend, doch Napoleon krönte sich selbst und danach seine Frau Joséphine, um zu zeigen, dass er seine Macht niemandem verdankte. Als Kaiser der Franzosen führte er Europa in ein Jahrzehnt der Kriege und formte den Kontinent nach seinem Willen um.",
+    "personIds": [
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "kaiserkrönung",
+      "notre-dame",
+      "empire"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "voelkerschlacht-bei-leipzig",
+    "title": "Völkerschlacht bei Leipzig",
+    "year": 1813,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Die Heere Russlands, Preußens, Österreichs und Schwedens besiegen Napoleon in der größten Schlacht vor dem 20. Jahrhundert.",
+    "text": "Nach dem Untergang der Großen Armee in Russland 1812 erhoben sich Preußen und dann Österreich gegen die französische Herrschaft. Vom 16. bis 19. Oktober 1813 kämpften bei Leipzig rund 600.000 Soldaten; über 90.000 wurden getötet oder verwundet. Napoleon musste sich über den Rhein zurückziehen, verlor die Kontrolle über Deutschland und dankte im April 1814 nach dem Einmarsch der Verbündeten in Paris ab.",
+    "personIds": [
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "befreiungskriege",
+      "leipzig",
+      "koalitionskriege"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "wiener-kongress",
+    "title": "Wiener Kongress",
+    "year": 1814,
+    "endYear": 1815,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Die europäischen Mächte ordnen unter Leitung des österreichischen Außenministers Metternich Europa nach dem Sturz Napoleons neu.",
+    "text": "Vertreter fast aller europäischen Staaten verhandelten in Wien über Grenzen und Herrschaftsverhältnisse; die Leitgedanken waren Wiederherstellung der alten Dynastien, Gleichgewicht der Großmächte und Solidarität gegen Revolutionen. An die Stelle des 1806 aufgelösten Heiligen Römischen Reiches trat der Deutsche Bund aus 39 Staaten. Die Ordnung sicherte Europa jahrzehntelang vor großen Kriegen, unterdrückte aber liberale und nationale Bewegungen mit Zensur und Polizei.",
+    "personIds": [],
+    "tags": [
+      "metternich",
+      "restauration",
+      "deutscher bund"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "bolivar-unabhaengigkeit-suedamerikas",
+    "title": "Bolívar und die Unabhängigkeit Südamerikas",
+    "year": 1819,
+    "endYear": null,
+    "approx": true,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "summary": "Simón Bolívar besiegt die Spanier bei Boyacá und gründet die Republik Großkolumbien.",
+    "text": "Seit 1810 kämpften die spanischen Kolonien Amerikas um ihre Unabhängigkeit, ermutigt durch das Vorbild der USA und die Schwäche Spaniens unter napoleonischer Besatzung. Bolívar überquerte 1819 mit seinem Heer die Anden und schlug die Spanier bei Boyacá, worauf Großkolumbien aus den heutigen Staaten Kolumbien, Venezuela, Ecuador und Panama entstand. Im Süden befreite José de San Martín Argentinien und Chile; 1824 fiel mit der Schlacht von Ayacucho die letzte spanische Bastion in Peru.",
+    "personIds": [
+      "simon-bolivar"
+    ],
+    "tags": [
+      "lateinamerika",
+      "unabhängigkeit",
+      "großkolumbien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "eisenbahn-stockton-darlington",
+    "title": "Erste öffentliche Eisenbahn Stockton–Darlington",
+    "year": 1825,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "In Nordengland fährt die erste öffentliche Eisenbahn mit Dampflokomotive.",
+    "text": "Am 27. September 1825 zog die von George Stephenson gebaute Lokomotive Locomotion No. 1 einen Zug mit Kohle und Fahrgästen über die rund 40 Kilometer zwischen Stockton und Darlington. Die Strecke war die erste öffentliche Eisenbahn, die dauerhaft Dampflokomotiven einsetzte. Innerhalb weniger Jahrzehnte überzog ein Schienennetz Europa und Nordamerika und machte den Transport von Waren und Menschen schneller und billiger als je zuvor.",
+    "personIds": [],
+    "tags": [
+      "eisenbahn",
+      "dampflokomotive",
+      "verkehr"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "erster-opiumkrieg",
+    "title": "Erster Opiumkrieg",
+    "year": 1839,
+    "endYear": 1842,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "asien",
+    "summary": "Großbritannien erzwingt mit Kanonenbooten die Öffnung Chinas für den Handel.",
+    "text": "Britische Kaufleute verkauften große Mengen Opium aus Indien nach China und glichen so ihre Handelsbilanz aus. Als die chinesische Regierung 1839 den Schmuggel unterband und Opium vernichten ließ, schickte Großbritannien eine Flotte. Im Vertrag von Nanking von 1842 musste China Hongkong abtreten, fünf Häfen öffnen und hohe Entschädigungen zahlen. Der Krieg leitete das sogenannte Jahrhundert der Demütigung Chinas ein.",
+    "personIds": [],
+    "tags": [
+      "china",
+      "kolonialismus",
+      "handel",
+      "hongkong"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "kommunistisches-manifest",
+    "title": "Kommunistisches Manifest",
+    "year": 1848,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "Karl Marx und Friedrich Engels veröffentlichen die Programmschrift der kommunistischen Bewegung.",
+    "text": "Im Februar 1848, kurz vor Ausbruch der europäischen Revolutionen, erschien in London das Manifest der Kommunistischen Partei. Marx und Engels beschrieben darin die Geschichte als Abfolge von Klassenkämpfen und sagten voraus, dass das Proletariat die Bourgeoisie stürzen werde. Die Schrift endet mit dem Aufruf Proletarier aller Länder, vereinigt euch. Sie wurde zu einem der einflussreichsten politischen Texte der Geschichte.",
+    "personIds": [
+      "karl-marx"
+    ],
+    "tags": [
+      "kommunismus",
+      "arbeiterbewegung",
+      "marx"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "maerzrevolution-1848",
+    "title": "Märzrevolution 1848 und Frankfurter Nationalversammlung",
+    "year": 1848,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Eine Revolutionswelle erfasst Europa; in der Frankfurter Paulskirche tritt das erste gesamtdeutsche Parlament zusammen.",
+    "text": "Nach der Februarrevolution in Paris forderten im März 1848 Menschen in Wien, Berlin und vielen deutschen Staaten Pressefreiheit, Verfassungen und nationale Einheit; Metternich floh, und in Berlin starben bei Barrikadenkämpfen hunderte Bürger. Die in der Paulskirche gewählte Nationalversammlung beschloss Grundrechte und eine Verfassung für ein deutsches Reich. Als der preußische König Friedrich Wilhelm IV. 1849 die Kaiserkrone ablehnte, scheiterte die Revolution, und die Fürsten stellten die alte Ordnung wieder her.",
+    "personIds": [],
+    "tags": [
+      "paulskirche",
+      "1848",
+      "nationalversammlung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "amerikanischer-buergerkrieg",
+    "title": "Amerikanischer Bürgerkrieg",
+    "year": 1861,
+    "endYear": 1865,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "amerika",
+    "summary": "Nord- und Südstaaten der USA kämpfen um Einheit der Union und Abschaffung der Sklaverei.",
+    "text": "Nach der Wahl Abraham Lincolns traten elf Südstaaten aus der Union aus, weil sie die Sklaverei bedroht sahen. Der Krieg forderte über 600.000 Tote und war der erste, in dem Eisenbahn, Telegraf und industrielle Waffenproduktion eine entscheidende Rolle spielten. Mit der Emanzipationserklärung von 1863 und dem 13. Verfassungszusatz von 1865 wurde die Sklaverei abgeschafft; die Kapitulation der Südstaaten bewahrte die Einheit der Vereinigten Staaten.",
+    "personIds": [
+      "abraham-lincoln"
+    ],
+    "tags": [
+      "usa",
+      "sklaverei",
+      "bürgerkrieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "meiji-restauration",
+    "title": "Meiji-Restauration in Japan",
+    "year": 1868,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "asien",
+    "summary": "Japan beendet die Herrschaft der Shogune und modernisiert sich nach westlichem Vorbild.",
+    "text": "Nachdem amerikanische Kriegsschiffe 1853 die Öffnung Japans erzwungen hatten, stürzten reformwillige Samurai 1868 das Shogunat und stellten den jungen Kaiser Meiji an die Spitze des Staates. Die neue Regierung schaffte die Standesordnung ab, führte allgemeine Schulpflicht und Wehrpflicht ein und ließ Eisenbahnen, Fabriken und eine moderne Flotte bauen. Innerhalb einer Generation wurde Japan zur ersten Industriemacht Asiens und besiegte 1905 sogar Russland.",
+    "personIds": [
+      "kaiser-meiji"
+    ],
+    "tags": [
+      "japan",
+      "modernisierung",
+      "meiji"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "eroeffnung-suezkanal",
+    "title": "Eröffnung des Suezkanals",
+    "year": 1869,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "afrika",
+    "summary": "Der Kanal zwischen Mittelmeer und Rotem Meer verkürzt den Seeweg nach Asien um Tausende Kilometer.",
+    "text": "Unter Leitung des Franzosen Ferdinand de Lesseps gruben Zehntausende ägyptische Arbeiter in zehn Jahren einen 160 Kilometer langen Kanal durch die Landenge von Suez. Schiffe von Europa nach Indien mussten nun nicht mehr um Afrika herumfahren. 1875 kaufte Großbritannien die ägyptischen Kanalanteile und besetzte 1882 das Land, um die Lebensader seines Kolonialreichs zu sichern.",
+    "personIds": [],
+    "tags": [
+      "suezkanal",
+      "seefahrt",
+      "ägypten",
+      "handel"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gruendung-deutsches-kaiserreich",
+    "title": "Gründung des Deutschen Kaiserreichs",
+    "year": 1871,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "summary": "Nach dem Sieg über Frankreich wird Wilhelm I. in Versailles zum Deutschen Kaiser ausgerufen.",
+    "text": "Otto von Bismarck hatte in drei Kriegen gegen Dänemark, Österreich und Frankreich die deutschen Staaten unter preußischer Führung geeint. Am 18. Januar 1871 wurde im Spiegelsaal von Versailles der preußische König Wilhelm I. zum Deutschen Kaiser proklamiert. Das neue Reich war eine konstitutionelle Monarchie mit allgemeinem Männerwahlrecht für den Reichstag, aber starker Stellung von Kaiser und Kanzler. Es wurde rasch zur führenden Industriemacht des Kontinents.",
+    "personIds": [
+      "otto-von-bismarck"
+    ],
+    "tags": [
+      "deutschland",
+      "reichsgründung",
+      "bismarck",
+      "nationalstaat"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "berliner-konferenz-afrika",
+    "title": "Berliner Konferenz teilt Afrika auf",
+    "year": 1884,
+    "endYear": 1885,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "afrika",
+    "summary": "Die europäischen Mächte vereinbaren in Berlin Regeln für die Aufteilung Afrikas in Kolonien.",
+    "text": "Auf Einladung Bismarcks trafen sich Vertreter von 13 europäischen Staaten und den USA, um Streit um den Kongo und die afrikanischen Küsten zu vermeiden. Kein einziger Afrikaner war beteiligt. Die Konferenz legte fest, dass Gebietsansprüche durch tatsächliche Besetzung belegt werden mussten, und löste damit den Wettlauf um Afrika aus. Um 1914 waren bis auf Äthiopien und Liberia alle Gebiete des Kontinents unter europäischer Herrschaft.",
+    "personIds": [
+      "otto-von-bismarck"
+    ],
+    "tags": [
+      "kolonialismus",
+      "afrika",
+      "imperialismus"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "erster-motorflug-wright",
+    "title": "Erster Motorflug der Brüder Wright",
+    "year": 1903,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "amerika",
+    "summary": "Orville und Wilbur Wright gelingt in Kitty Hawk der erste gesteuerte Motorflug.",
+    "text": "Am 17. Dezember 1903 hob Orville Wright mit dem selbst gebauten Flyer für zwölf Sekunden vom Strand von Kitty Hawk in North Carolina ab. Die beiden Fahrradmechaniker hatten jahrelang mit Gleitern experimentiert und ein System zur Steuerung um alle drei Achsen entwickelt. Schon im Ersten Weltkrieg wurden Flugzeuge militärisch eingesetzt, und binnen weniger Jahrzehnte veränderte die Luftfahrt Reisen und Krieg grundlegend.",
+    "personIds": [],
+    "tags": [
+      "luftfahrt",
+      "technik",
+      "erfindung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "voelkermord-herero-nama",
+    "title": "Völkermord an den Herero und Nama",
+    "year": 1904,
+    "endYear": 1908,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "afrika",
+    "summary": "Deutsche Kolonialtruppen vernichten in Deutsch-Südwestafrika einen Großteil der Herero und Nama.",
+    "text": "Nach Landraub und Entrechtung erhoben sich die Herero im Januar 1904 gegen die deutsche Kolonialherrschaft im heutigen Namibia. General Lothar von Trotha trieb sie nach der Schlacht am Waterberg in die wasserlose Omaheke-Wüste und befahl, jeden Herero zu erschießen. Überlebende und später auch die aufständischen Nama wurden in Konzentrationslagern zu Zwangsarbeit gezwungen. Bis zu 80 Prozent der Herero und die Hälfte der Nama kamen ums Leben; die Bundesrepublik erkannte die Verbrechen 2021 als Völkermord an.",
+    "personIds": [],
+    "tags": [
+      "kolonialverbrechen",
+      "namibia",
+      "völkermord"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "fliessband-ford",
+    "title": "Erstes Automobil-Fließband bei Ford",
+    "year": 1913,
+    "endYear": null,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "amerika",
+    "summary": "Henry Ford führt in Detroit das bewegte Fließband für die Produktion des Modells T ein.",
+    "text": "Im Werk Highland Park ließ Henry Ford das Fahrgestell des Modells T an einem Seil an den Arbeitern vorbeiziehen, von denen jeder nur einen Handgriff ausführte. Die Montagezeit eines Autos sank von über zwölf auf rund anderthalb Stunden. Das Auto wurde so billig, dass sich auch Arbeiter eines leisten konnten. Die Fließbandfertigung wurde zum Vorbild der Massenproduktion im 20. Jahrhundert.",
+    "personIds": [],
+    "tags": [
+      "automobil",
+      "massenproduktion",
+      "fließband"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "attentat-von-sarajevo",
+    "title": "Attentat von Sarajevo",
+    "year": 1914,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Der Mord am österreichischen Thronfolger Franz Ferdinand löst den Ersten Weltkrieg aus.",
+    "text": "Am 28. Juni 1914 erschoss der serbische Nationalist Gavrilo Princip in Sarajevo den Thronfolger Franz Ferdinand und dessen Frau Sophie. Österreich-Ungarn stellte Serbien mit Rückendeckung Deutschlands ein Ultimatum und erklärte am 28. Juli den Krieg. Über die Bündnisse Russland–Serbien, Frankreich–Russland und Großbritannien–Belgien weitete sich der Konflikt innerhalb einer Woche zum europäischen Krieg aus. Die Julikrise gilt als Beispiel dafür, wie Bündnisautomatismen und Fehleinschätzungen in einen ungewollten großen Krieg führen können.",
+    "personIds": [
+      "wilhelm-ii"
+    ],
+    "tags": [
+      "kriegsausbruch",
+      "julikrise",
+      "österreich-ungarn"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-um-verdun",
+    "title": "Schlacht um Verdun",
+    "year": 1916,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Zehn Monate Materialschlacht um die französische Festung fordern über 700.000 Tote und Verwundete.",
+    "text": "Die deutsche Heeresleitung griff im Februar 1916 die Festung Verdun an, um die französische Armee in einer Abnutzungsschlacht auszubluten. Beide Seiten warfen Millionen Granaten auf wenige Quadratkilometer Boden; Dörfer verschwanden vollständig. Als die Kämpfe im Dezember endeten, verlief die Front fast unverändert. Verdun wurde zum Symbol für die Sinnlosigkeit des Stellungskriegs und später für die deutsch-französische Versöhnung.",
+    "personIds": [],
+    "tags": [
+      "stellungskrieg",
+      "westfront",
+      "materialschlacht"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "kriegseintritt-usa-1917",
+    "title": "Kriegseintritt der USA",
+    "year": 1917,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "amerika",
+    "summary": "Nach dem uneingeschränkten U-Boot-Krieg erklären die Vereinigten Staaten Deutschland den Krieg.",
+    "text": "Präsident Woodrow Wilson hatte die USA jahrelang aus dem Krieg herausgehalten. Als Deutschland im Februar 1917 den uneingeschränkten U-Boot-Krieg wieder aufnahm und die Zimmermann-Depesche ein deutsches Bündnisangebot an Mexiko enthüllte, erklärte der Kongress am 6. April 1917 den Krieg. Über zwei Millionen amerikanische Soldaten und die industrielle Kraft der USA kippten das Kräfteverhältnis zugunsten der Entente.",
+    "personIds": [
+      "woodrow-wilson"
+    ],
+    "tags": [
+      "usa",
+      "u-boot-krieg",
+      "kriegseintritt"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "russische-revolution",
+    "title": "Russische Revolution",
+    "year": 1917,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Der Zar wird gestürzt, und im Oktober übernehmen die Bolschewiki unter Lenin die Macht.",
+    "text": "Hunger, Kriegsmüdigkeit und Streiks zwangen Zar Nikolaus II. im März 1917 zur Abdankung; eine provisorische Regierung setzte den Krieg jedoch fort. Lenin, den die deutsche Regierung aus dem Schweizer Exil nach Russland reisen ließ, forderte Frieden, Land und alle Macht den Räten. Im November stürzten die Bolschewiki die Regierung in Petrograd. Es folgten der Friedensschluss von Brest-Litowsk, ein blutiger Bürgerkrieg und 1922 die Gründung der Sowjetunion.",
+    "personIds": [
+      "lenin"
+    ],
+    "tags": [
+      "revolution",
+      "bolschewiki",
+      "sowjetunion"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "waffenstillstand-compiegne",
+    "title": "Waffenstillstand von Compiègne",
+    "year": 1918,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Am 11. November 1918 schweigen die Waffen an der Westfront; der Erste Weltkrieg ist beendet.",
+    "text": "Nach dem Scheitern der deutschen Frühjahrsoffensive und dem Zusammenbruch der Verbündeten forderte die Oberste Heeresleitung im Herbst 1918 selbst einen Waffenstillstand. In Deutschland meuterten Matrosen, Arbeiter- und Soldatenräte übernahmen die Macht, und am 9. November wurde die Republik ausgerufen; Wilhelm II. floh in die Niederlande. In einem Eisenbahnwagen im Wald von Compiègne unterzeichnete die deutsche Delegation die harten Bedingungen der Alliierten. Um 11 Uhr des 11. Novembers traten sie in Kraft.",
+    "personIds": [
+      "wilhelm-ii"
+    ],
+    "tags": [
+      "kriegsende",
+      "novemberrevolution",
+      "republik"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "versailler-vertrag",
+    "title": "Versailler Vertrag",
+    "year": 1919,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Der Friedensvertrag legt Deutschland Gebietsverluste, Abrüstung, Reparationen und die Kriegsschuld auf.",
+    "text": "Die Siegermächte verhandelten den Vertrag ohne deutsche Beteiligung und zwangen die Regierung der jungen Weimarer Republik am 28. Juni 1919 zur Unterschrift. Deutschland verlor Elsass-Lothringen, große Teile Westpreußens und Posens sowie alle Kolonien, durfte nur ein Heer von 100.000 Mann halten und musste Reparationen zahlen. Artikel 231 wies Deutschland und seinen Verbündeten die Verantwortung für den Krieg zu. Nationalisten nutzten den Vertrag als Schandfrieden für ihre Propaganda gegen die Republik.",
+    "personIds": [
+      "woodrow-wilson"
+    ],
+    "tags": [
+      "friedensvertrag",
+      "reparationen",
+      "kriegsschuld"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "gruendung-voelkerbund",
+    "title": "Gründung des Völkerbundes",
+    "year": 1920,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "welt",
+    "summary": "In Genf nimmt die erste weltweite Organisation zur Sicherung des Friedens ihre Arbeit auf.",
+    "text": "Der Völkerbund ging auf die 14 Punkte von Woodrow Wilson zurück und sollte Konflikte durch Verhandlungen, Schiedssprüche und gemeinsame Sanktionen lösen. Ausgerechnet die USA traten nie bei, weil der Senat den Vertrag ablehnte; Deutschland wurde erst 1926, die Sowjetunion 1934 aufgenommen. Ohne eigene Truppen konnte der Bund die Aggressionen Japans, Italiens und Deutschlands in den 1930er Jahren nicht verhindern. Seine Unterorganisationen für Arbeit, Gesundheit und Flüchtlinge wirkten in den Vereinten Nationen fort.",
+    "personIds": [
+      "woodrow-wilson"
+    ],
+    "tags": [
+      "völkerbund",
+      "genf",
+      "friedenssicherung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gruendung-tuerkische-republik",
+    "title": "Gründung der Türkischen Republik",
+    "year": 1923,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "naher-osten",
+    "summary": "Aus dem zerfallenen Osmanischen Reich entsteht unter Mustafa Kemal die laizistische Republik Türkei.",
+    "text": "Das Osmanische Reich hatte den Krieg an der Seite Deutschlands verloren und sollte nach dem Vertrag von Sèvres weitgehend aufgeteilt werden. Mustafa Kemal organisierte den Widerstand, besiegte die griechischen Truppen in Anatolien und setzte im Vertrag von Lausanne 1923 die heutigen Grenzen durch. Am 29. Oktober 1923 wurde die Republik ausgerufen. Kemal schaffte Sultanat und Kalifat ab, trennte Religion und Staat, führte das lateinische Alphabet und das Frauenwahlrecht ein.",
+    "personIds": [
+      "mustafa-kemal-atatuerk"
+    ],
+    "tags": [
+      "türkei",
+      "osmanisches reich",
+      "republik",
+      "laizismus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "weltwirtschaftskrise-1929",
+    "title": "Weltwirtschaftskrise",
+    "year": 1929,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "welt",
+    "summary": "Der Börsenkrach in New York stürzt die Welt in die schwerste Wirtschaftskrise der Neuzeit.",
+    "text": "Am 24. Oktober 1929, dem Schwarzen Donnerstag, brachen die Aktienkurse an der New Yorker Börse ein. Banken gingen bankrott, amerikanische Kredite wurden aus Europa abgezogen, der Welthandel schrumpfte um mehr als die Hälfte. In den USA war 1933 jeder vierte Erwerbstätige arbeitslos, in Deutschland waren es über sechs Millionen Menschen. Die Not untergrub das Vertrauen in die Demokratie und trug entscheidend zum Aufstieg der Nationalsozialisten bei.",
+    "personIds": [],
+    "tags": [
+      "börsenkrach",
+      "arbeitslosigkeit",
+      "wirtschaftskrise"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "machtuebernahme-nationalsozialisten",
+    "title": "Machtübernahme der Nationalsozialisten",
+    "year": 1933,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Hitler wird Reichskanzler und errichtet innerhalb weniger Monate eine Diktatur.",
+    "text": "Am 30. Januar 1933 ernannte Reichspräsident Hindenburg Hitler zum Kanzler einer Koalition, in der konservative Politiker glaubten, ihn kontrollieren zu können. Nach dem Reichstagsbrand setzte die Notverordnung vom 28. Februar die Grundrechte außer Kraft, und das Ermächtigungsgesetz vom 23. März übertrug der Regierung die Gesetzgebung. Bis zum Sommer waren alle anderen Parteien verboten, die Gewerkschaften zerschlagen und die ersten Konzentrationslager errichtet. Nach Hindenburgs Tod 1934 vereinigte Hitler die Ämter von Kanzler und Präsident als Führer und Reichskanzler.",
+    "personIds": [
+      "adolf-hitler"
+    ],
+    "tags": [
+      "diktatur",
+      "ermächtigungsgesetz",
+      "gleichschaltung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "nuernberger-gesetze",
+    "title": "Nürnberger Gesetze",
+    "year": 1935,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Die Rassengesetze machen Juden zu Bürgern zweiter Klasse und verbieten Ehen mit Nichtjuden.",
+    "text": "Auf dem Reichsparteitag in Nürnberg verkündete der Reichstag am 15. September 1935 das Reichsbürgergesetz und das Gesetz zum Schutz des deutschen Blutes und der deutschen Ehre. Juden verloren die vollen Bürgerrechte, Ehen und Beziehungen zwischen Juden und Nichtjuden wurden unter Strafe gestellt. Wer als Jude galt, entschieden die Behörden nach der Herkunft der Großeltern, nicht nach dem Glauben. Die Gesetze schufen die rechtliche Grundlage für die Ausgrenzung, Enteignung und spätere Deportation der Juden.",
+    "personIds": [],
+    "tags": [
+      "antisemitismus",
+      "rassengesetze",
+      "entrechtung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "spanischer-buergerkrieg",
+    "title": "Spanischer Bürgerkrieg",
+    "year": 1936,
+    "endYear": 1939,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Nationalisten unter Franco stürzen mit deutscher und italienischer Hilfe die spanische Republik.",
+    "text": "Im Juli 1936 putschten Teile des Militärs unter General Francisco Franco gegen die gewählte Regierung der Volksfront. Deutschland und Italien schickten Flugzeuge und Truppen, die Sowjetunion unterstützte die Republik, und Freiwillige aus aller Welt kämpften in den Internationalen Brigaden. Die Zerstörung der baskischen Stadt Guernica durch die deutsche Legion Condor 1937 wurde zum Sinnbild des Luftkriegs gegen Zivilisten. Francos Sieg im April 1939 begründete eine Diktatur, die bis 1975 dauerte.",
+    "personIds": [],
+    "tags": [
+      "spanien",
+      "franco",
+      "faschismus",
+      "guernica"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "novemberpogrome-1938",
+    "title": "Novemberpogrome",
+    "year": 1938,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "In der Nacht vom 9. auf den 10. November brennen im ganzen Reich Synagogen, jüdische Geschäfte werden zerstört.",
+    "text": "Als Vorwand diente das Attentat eines jungen Juden auf einen deutschen Diplomaten in Paris. Auf Anweisung von Goebbels zerstörten SA und SS über 1.400 Synagogen und Tausende Geschäfte und Wohnungen, Hunderte Menschen wurden getötet. Rund 30.000 jüdische Männer wurden in Konzentrationslager verschleppt. Die Opfer mussten die Schäden selbst bezahlen und eine Sühneleistung von einer Milliarde Reichsmark aufbringen. Die Pogrome markierten den Übergang von der Entrechtung zur offenen Gewalt.",
+    "personIds": [],
+    "tags": [
+      "pogrom",
+      "synagogen",
+      "antisemitismus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "ueberfall-auf-polen",
+    "title": "Überfall auf Polen und Kriegsbeginn",
+    "year": 1939,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Mit dem deutschen Angriff auf Polen am 1. September 1939 beginnt der Zweite Weltkrieg.",
+    "text": "Eine Woche nach dem Hitler-Stalin-Pakt, der in einem geheimen Zusatzprotokoll Polen zwischen Deutschland und der Sowjetunion aufteilte, griff die Wehrmacht ohne Kriegserklärung an. Großbritannien und Frankreich erklärten Deutschland am 3. September den Krieg, konnten Polen aber nicht helfen. Am 17. September marschierte die Rote Armee von Osten ein; Anfang Oktober war Polen besiegt. In den besetzten Gebieten begannen sofort Massenerschießungen der polnischen Führungsschicht und die Verfolgung der Juden.",
+    "personIds": [
+      "adolf-hitler",
+      "josef-stalin"
+    ],
+    "tags": [
+      "kriegsbeginn",
+      "polen",
+      "hitler-stalin-pakt"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "angriff-auf-die-sowjetunion",
+    "title": "Angriff auf die Sowjetunion",
+    "year": 1941,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Mit dem Unternehmen Barbarossa beginnt am 22. Juni 1941 der deutsche Vernichtungskrieg im Osten.",
+    "text": "Über drei Millionen deutsche und verbündete Soldaten überschritten die Grenze zur Sowjetunion; es war der größte Angriff der Militärgeschichte. Das Ziel war die Eroberung von Lebensraum und die Vernichtung des Bolschewismus. Hinter der Front erschossen Einsatzgruppen Hunderttausende Juden, sowjetische Kriegsgefangene wurden millionenfach dem Hungertod überlassen, und die Belagerung Leningrads kostete über eine Million Zivilisten das Leben. Vor Moskau kam der Vormarsch im Dezember 1941 zum Stehen.",
+    "personIds": [
+      "adolf-hitler",
+      "josef-stalin"
+    ],
+    "tags": [
+      "ostfront",
+      "vernichtungskrieg",
+      "barbarossa"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "angriff-auf-pearl-harbor",
+    "title": "Angriff auf Pearl Harbor",
+    "year": 1941,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "amerika",
+    "summary": "Japan greift überraschend die amerikanische Pazifikflotte auf Hawaii an; die USA treten in den Krieg ein.",
+    "text": "Am 7. Dezember 1941 versenkten oder beschädigten japanische Trägerflugzeuge acht Schlachtschiffe und töteten über 2.400 Amerikaner. Japan wollte damit die Expansion in Südostasien absichern, nachdem die USA ein Ölembargo verhängt hatten. Am folgenden Tag erklärte der Kongress Japan den Krieg, wenige Tage später erklärten Deutschland und Italien den USA den Krieg. Damit war der Krieg endgültig ein Weltkrieg, und die industrielle Übermacht der USA begann zu wirken.",
+    "personIds": [
+      "franklin-d-roosevelt"
+    ],
+    "tags": [
+      "pazifikkrieg",
+      "japan",
+      "usa"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-von-stalingrad",
+    "title": "Schlacht von Stalingrad",
+    "year": 1942,
+    "endYear": 1943,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Die Einkesselung und Vernichtung der 6. Armee an der Wolga gilt als Wende des Krieges in Europa.",
+    "text": "Im Sommer 1942 stieß die Wehrmacht bis zur Wolga vor und kämpfte in erbitterten Straßenkämpfen um die Stadt Stalingrad. Im November schloss die Rote Armee die deutschen Truppen ein; Hitler verbot den Ausbruch. Nach Hunger, Kälte und Kämpfen kapitulierten die Reste der 6. Armee am 2. Februar 1943. Etwa 150.000 deutsche Soldaten waren gefallen, rund 90.000 gerieten in Gefangenschaft, von denen nur etwa 6.000 zurückkehrten. Danach war die Wehrmacht im Osten dauerhaft in der Defensive.",
+    "personIds": [
+      "adolf-hitler",
+      "josef-stalin"
+    ],
+    "tags": [
+      "ostfront",
+      "wende",
+      "stalingrad"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "wannseekonferenz",
+    "title": "Wannseekonferenz",
+    "year": 1942,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Hohe Beamte und SS-Führer koordinieren die Deportation und Ermordung aller europäischen Juden.",
+    "text": "Am 20. Januar 1942 trafen sich unter Leitung von Reinhard Heydrich fünfzehn Vertreter von SS, Partei und Ministerien in einer Villa am Berliner Wannsee. Die Konferenz beschloss den Völkermord nicht, denn Massenmorde liefen bereits seit Monaten, sondern organisierte die Zusammenarbeit der Behörden bei der sogenannten Endlösung der Judenfrage. Das Protokoll nannte elf Millionen Juden in ganz Europa als Zielgruppe. In den folgenden Monaten begannen die Deportationen in die Vernichtungslager Belzec, Sobibor, Treblinka und Auschwitz-Birkenau.",
+    "personIds": [],
+    "tags": [
+      "holocaust",
+      "endlösung",
+      "ss",
+      "deportation"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "d-day-normandie",
+    "title": "D-Day in der Normandie",
+    "year": 1944,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Mit der größten Landungsoperation der Geschichte eröffnen die Westalliierten die zweite Front in Frankreich.",
+    "text": "Am 6. Juni 1944 landeten über 150.000 amerikanische, britische und kanadische Soldaten an fünf Strandabschnitten der Normandie, unterstützt von fast 7.000 Schiffen und 11.000 Flugzeugen. Trotz schwerer Verluste vor allem am Omaha Beach gelang die Bildung eines Brückenkopfs. Ende August war Paris befreit, und die Wehrmacht musste sich an die deutsche Grenze zurückziehen. Gleichzeitig zerschlug die sowjetische Sommeroffensive die deutsche Heeresgruppe Mitte.",
+    "personIds": [
+      "winston-churchill",
+      "franklin-d-roosevelt"
+    ],
+    "tags": [
+      "westfront",
+      "invasion",
+      "befreiung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "atombomben-hiroshima-nagasaki",
+    "title": "Atombomben auf Hiroshima und Nagasaki",
+    "year": 1945,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "asien",
+    "summary": "Die USA setzen erstmals Atomwaffen ein; Japan kapituliert, der Zweite Weltkrieg ist beendet.",
+    "text": "Am 6. August 1945 zerstörte die Atombombe Little Boy die Stadt Hiroshima, am 9. August traf Fat Man Nagasaki. Bis Ende 1945 starben über 200.000 Menschen an Explosion, Feuer und Strahlung. Präsident Truman wollte eine verlustreiche Invasion Japans vermeiden; zugleich erklärte die Sowjetunion Japan den Krieg. Am 15. August verkündete Kaiser Hirohito die Kapitulation, die am 2. September unterzeichnet wurde. Das Atomzeitalter hatte begonnen.",
+    "personIds": [],
+    "tags": [
+      "atombombe",
+      "japan",
+      "kriegsende",
+      "pazifikkrieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "befreiung-von-auschwitz",
+    "title": "Befreiung von Auschwitz",
+    "year": 1945,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Sowjetische Soldaten erreichen am 27. Januar 1945 das größte Vernichtungslager der Nationalsozialisten.",
+    "text": "In Auschwitz-Birkenau im besetzten Polen hatte die SS zwischen 1940 und 1945 über 1,1 Millionen Menschen ermordet, davon rund eine Million Juden, außerdem Polen, Sinti und Roma und sowjetische Kriegsgefangene. Kurz vor der Befreiung trieb die SS etwa 60.000 Häftlinge auf Todesmärsche nach Westen; die Soldaten der Roten Armee fanden rund 7.000 entkräftete Überlebende, darunter viele Kinder. Der 27. Januar ist heute der internationale Tag des Gedenkens an die Opfer des Holocaust.",
+    "personIds": [
+      "anne-frank"
+    ],
+    "tags": [
+      "holocaust",
+      "vernichtungslager",
+      "befreiung",
+      "gedenken"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "gruendung-vereinte-nationen",
+    "title": "Gründung der Vereinten Nationen",
+    "year": 1945,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "welt",
+    "summary": "51 Staaten unterzeichnen in San Francisco die Charta der Vereinten Nationen.",
+    "text": "Noch während des Krieges hatten die Alliierten eine neue Weltorganisation vorbereitet, die stärker sein sollte als der gescheiterte Völkerbund. Am 26. Juni 1945 wurde die Charta unterzeichnet, am 24. Oktober trat sie in Kraft. Der Sicherheitsrat mit den fünf ständigen Mitgliedern USA, Sowjetunion, Großbritannien, Frankreich und China erhielt das Recht, Sanktionen und Militäreinsätze zu beschließen. 1948 verabschiedete die Generalversammlung die Allgemeine Erklärung der Menschenrechte.",
+    "personIds": [],
+    "tags": [
+      "uno",
+      "friedenssicherung",
+      "menschenrechte"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "kapitulation-deutschlands-1945",
+    "title": "Kapitulation Deutschlands",
+    "year": 1945,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Mit der bedingungslosen Kapitulation der Wehrmacht am 8. Mai 1945 endet der Krieg in Europa.",
+    "text": "Nachdem die Rote Armee Berlin erobert und Hitler sich am 30. April im Bunker der Reichskanzlei das Leben genommen hatte, unterzeichnete die Wehrmachtführung am 7. Mai in Reims und am 8. Mai in Berlin-Karlshorst die bedingungslose Kapitulation. Deutschland wurde in vier Besatzungszonen aufgeteilt, die Hauptkriegsverbrecher vor dem Nürnberger Tribunal angeklagt. Der 8. Mai wird in Deutschland heute als Tag der Befreiung vom Nationalsozialismus verstanden.",
+    "personIds": [
+      "adolf-hitler",
+      "winston-churchill",
+      "josef-stalin"
+    ],
+    "tags": [
+      "kriegsende",
+      "kapitulation",
+      "befreiung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "unabhaengigkeit-indien-pakistan",
+    "title": "Unabhängigkeit Indiens und Pakistans",
+    "year": 1947,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "summary": "Britisch-Indien wird unabhängig und in die Staaten Indien und Pakistan geteilt.",
+    "text": "Nach Jahrzehnten gewaltfreien Widerstands unter Mahatma Gandhi entließ Großbritannien am 15. August 1947 seine wichtigste Kolonie in die Unabhängigkeit. Weil sich Hindus und Muslime nicht auf einen gemeinsamen Staat einigen konnten, wurde das Land in das mehrheitlich hinduistische Indien und das muslimische Pakistan geteilt. Bis zu 15 Millionen Menschen flohen über die neuen Grenzen, Hunderttausende starben bei Massakern. Der Streit um Kaschmir belastet das Verhältnis beider Atommächte bis heute.",
+    "personIds": [
+      "mahatma-gandhi"
+    ],
+    "tags": [
+      "dekolonisation",
+      "indien",
+      "teilung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "gruendung-israels",
+    "title": "Gründung Israels",
+    "year": 1948,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "naher-osten",
+    "summary": "David Ben-Gurion ruft den Staat Israel aus; der erste arabisch-israelische Krieg beginnt.",
+    "text": "Die Vereinten Nationen hatten 1947 die Teilung des britischen Mandatsgebiets Palästina in einen jüdischen und einen arabischen Staat beschlossen. Am 14. Mai 1948 verkündete Ben-Gurion die Unabhängigkeit Israels, das nach dem Holocaust vielen Überlebenden eine Heimat bot. Die arabischen Nachbarstaaten griffen sofort an, Israel behauptete sich und vergrößerte sein Gebiet. Rund 700.000 Palästinenser flohen oder wurden vertrieben; die Flüchtlingsfrage und die Grenzen sind bis heute Kern des Nahostkonflikts.",
+    "personIds": [],
+    "tags": [
+      "israel",
+      "nahostkonflikt",
+      "palästina"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "ausrufung-volksrepublik-china",
+    "title": "Ausrufung der Volksrepublik China",
+    "year": 1949,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "summary": "Nach dem Sieg im Bürgerkrieg ruft Mao Zedong in Peking die Volksrepublik aus.",
+    "text": "Der Bürgerkrieg zwischen Maos Kommunisten und den Nationalisten unter Chiang Kai-shek endete 1949 mit dem Rückzug der Nationalisten nach Taiwan. Am 1. Oktober verkündete Mao vom Tor des Himmlischen Friedens die Gründung der Volksrepublik. Die Kommunisten verteilten das Land an die Bauern und bauten nach sowjetischem Vorbild eine Planwirtschaft auf. Maos Kampagnen wie der Große Sprung nach vorn und die Kulturrevolution kosteten später Millionen Menschen das Leben.",
+    "personIds": [
+      "mao-zedong"
+    ],
+    "tags": [
+      "china",
+      "kommunismus",
+      "mao"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "bau-der-berliner-mauer",
+    "title": "Bau der Berliner Mauer",
+    "year": 1961,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "Die DDR riegelt am 13. August 1961 West-Berlin ab und beendet die Flucht ihrer Bürger nach Westen.",
+    "text": "Bis 1961 hatten fast drei Millionen Menschen die DDR über das offene Berlin verlassen. Mit Zustimmung Moskaus ließ die SED-Führung unter Walter Ulbricht in der Nacht zum 13. August Straßen aufreißen und Stacheldraht ziehen; bald folgte eine Betonmauer mit Todesstreifen. Familien wurden über Nacht getrennt, mindestens 140 Menschen starben an der Berliner Mauer. Sie wurde zum Symbol des Kalten Krieges und der Teilung Europas.",
+    "personIds": [
+      "john-f-kennedy",
+      "willy-brandt"
+    ],
+    "tags": [
+      "ddr",
+      "berlin",
+      "teilung",
+      "kalter krieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "kubakrise",
+    "title": "Kubakrise",
+    "year": 1962,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "amerika",
+    "summary": "Sowjetische Raketen auf Kuba bringen die Welt für dreizehn Tage an den Rand eines Atomkriegs.",
+    "text": "Im Oktober 1962 entdeckten amerikanische Aufklärungsflugzeuge Abschussrampen für sowjetische Mittelstreckenraketen auf Kuba. Präsident Kennedy verhängte eine Seeblockade und forderte den Abzug. Nach tagelanger Anspannung lenkte Chruschtschow ein; im Gegenzug sagten die USA zu, Kuba nicht anzugreifen, und zogen heimlich Raketen aus der Türkei ab. Die Krise führte zur Einrichtung des Heißen Drahts zwischen Washington und Moskau und 1963 zum ersten Abkommen über Atomtests.",
+    "personIds": [
+      "john-f-kennedy"
+    ],
+    "tags": [
+      "atomkrieg",
+      "kuba",
+      "kalter krieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "mondlandung-1969",
+    "title": "Mondlandung",
+    "year": 1969,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "welt",
+    "summary": "Neil Armstrong und Buzz Aldrin betreten als erste Menschen den Mond.",
+    "text": "Nachdem die Sowjetunion mit Sputnik 1957 und Juri Gagarin 1961 den Wettlauf ins All angeführt hatte, versprach Kennedy, noch vor Ende des Jahrzehnts einen Menschen auf den Mond zu bringen. Am 20. Juli 1969 landete die Mondfähre von Apollo 11; rund 600 Millionen Menschen sahen live zu, wie Armstrong den Mond betrat. Bis 1972 folgten fünf weitere Landungen. Das Programm brachte Fortschritte in Computertechnik, Werkstoffen und Kommunikation.",
+    "personIds": [
+      "john-f-kennedy"
+    ],
+    "tags": [
+      "raumfahrt",
+      "apollo",
+      "technik"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "oelkrise-1973",
+    "title": "Ölkrise",
+    "year": 1973,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "welt",
+    "summary": "Die arabischen Ölstaaten drosseln die Förderung; die Preise vervierfachen sich, und das Wirtschaftswunder endet.",
+    "text": "Während des Jom-Kippur-Kriegs setzten die arabischen OPEC-Staaten im Oktober 1973 Öl als politische Waffe gegen die Unterstützer Israels ein. In Westeuropa und den USA kam es zu Benzinknappheit, autofreien Sonntagen und Tempolimits; Inflation und Arbeitslosigkeit stiegen. Die Krise beendete den Nachkriegsboom und rückte Energiesparen, Atomkraft und erneuerbare Energien auf die politische Agenda.",
+    "personIds": [],
+    "tags": [
+      "energie",
+      "opec",
+      "wirtschaftskrise"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "fall-der-berliner-mauer",
+    "title": "Fall der Berliner Mauer",
+    "year": 1989,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "Am 9. November 1989 öffnet die DDR die Grenze; die friedliche Revolution beendet die Teilung Deutschlands.",
+    "text": "Massenflucht über Ungarn und die Montagsdemonstrationen in Leipzig setzten die SED-Führung im Herbst 1989 unter Druck. Als Politbüromitglied Günter Schabowski am Abend des 9. November eine neue Reiseregelung verkündete, strömten Zehntausende an die Grenzübergänge, und die Grenzsoldaten öffneten die Schlagbäume. Auch in Polen, Ungarn, der Tschechoslowakei und Rumänien stürzten die kommunistischen Regime. Am 3. Oktober 1990 trat die DDR der Bundesrepublik bei.",
+    "personIds": [
+      "michail-gorbatschow",
+      "willy-brandt"
+    ],
+    "tags": [
+      "friedliche revolution",
+      "wiedervereinigung",
+      "ddr"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "aufloesung-der-sowjetunion",
+    "title": "Auflösung der Sowjetunion",
+    "year": 1991,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "Die Sowjetunion zerfällt in fünfzehn unabhängige Staaten; der Kalte Krieg ist zu Ende.",
+    "text": "Gorbatschows Reformen hatten Freiheiten geschaffen, aber die Wirtschaftskrise nicht gelöst; die baltischen Republiken und andere forderten die Unabhängigkeit. Im August 1991 scheiterte ein Putsch kommunistischer Hardliner am Widerstand um Boris Jelzin. Am 8. Dezember erklärten Russland, die Ukraine und Belarus die Union für aufgelöst, am 25. Dezember trat Gorbatschow zurück. Russland übernahm das Erbe der Sowjetunion samt Atomwaffen und Sitz im Sicherheitsrat.",
+    "personIds": [
+      "michail-gorbatschow"
+    ],
+    "tags": [
+      "sowjetunion",
+      "ende des kalten krieges",
+      "russland"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "ende-der-apartheid",
+    "title": "Ende der Apartheid und Wahl Mandelas",
+    "year": 1994,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "afrika",
+    "summary": "Bei den ersten freien Wahlen Südafrikas wird Nelson Mandela zum Präsidenten gewählt.",
+    "text": "Seit 1948 hatte die weiße Minderheit Südafrikas die schwarze Mehrheit durch das System der Apartheid entrechtet und räumlich getrennt. Internationale Sanktionen, Proteste und der Widerstand des ANC zwangen Präsident de Klerk 1990 zur Freilassung Mandelas und zur Aufhebung der Rassengesetze. Im April 1994 durften erstmals alle Südafrikaner wählen; der ANC gewann, und Mandela wurde Präsident. Eine Wahrheits- und Versöhnungskommission arbeitete die Verbrechen der Apartheid auf.",
+    "personIds": [
+      "nelson-mandela"
+    ],
+    "tags": [
+      "südafrika",
+      "apartheid",
+      "menschenrechte"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "anschlaege-11-september",
+    "title": "Anschläge vom 11. September",
+    "year": 2001,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "amerika",
+    "summary": "Islamistische Terroristen steuern entführte Flugzeuge in das World Trade Center und das Pentagon.",
+    "text": "Neunzehn Attentäter des Terrornetzwerks al-Qaida entführten am 11. September 2001 vier Passagierflugzeuge. Zwei brachten die Zwillingstürme in New York zum Einsturz, eines traf das Pentagon, das vierte stürzte nach dem Widerstand der Passagiere in Pennsylvania ab. Fast 3.000 Menschen starben. Die USA riefen den Krieg gegen den Terror aus, stürzten das Taliban-Regime in Afghanistan und marschierten 2003 im Irak ein. Sicherheitskontrollen und Überwachung veränderten das Leben weltweit.",
+    "personIds": [],
+    "tags": [
+      "terrorismus",
+      "usa",
+      "al-qaida"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "einfuehrung-euro-bargeld",
+    "title": "Einführung des Euro-Bargelds",
+    "year": 2002,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "In zwölf EU-Staaten ersetzen Euro-Münzen und -Scheine die nationalen Währungen.",
+    "text": "Der Euro war seit 1999 als Buchgeld eingeführt; am 1. Januar 2002 kam er als Bargeld in Umlauf und löste D-Mark, Franc, Lira und andere Währungen ab. Rund 300 Millionen Menschen erhielten eine gemeinsame Währung, die den Handel und Reisen in Europa erleichterte. Die Eurokrise ab 2010 zeigte die Schwächen einer Währung ohne gemeinsame Finanzpolitik. Heute nutzen mehr als 20 Staaten den Euro.",
+    "personIds": [],
+    "tags": [
+      "europäische union",
+      "währung",
+      "integration"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "weltfinanzkrise-2008",
+    "title": "Weltfinanzkrise",
+    "year": 2008,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "welt",
+    "summary": "Der Zusammenbruch der Bank Lehman Brothers löst die schwerste Wirtschaftskrise seit 1929 aus.",
+    "text": "Amerikanische Banken hatten riskante Hypothekenkredite zu Wertpapieren gebündelt und weltweit verkauft. Als die Immobilienpreise fielen, geriet das Finanzsystem ins Wanken; am 15. September 2008 ging Lehman Brothers bankrott. Regierungen retteten Banken mit Hunderten Milliarden, die Weltwirtschaft schrumpfte, Millionen verloren Arbeit und Wohnung. Die Krise führte zu strengeren Bankregeln und nährte das Misstrauen gegenüber Eliten und Globalisierung.",
+    "personIds": [],
+    "tags": [
+      "finanzkrise",
+      "banken",
+      "globalisierung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "arabischer-fruehling",
+    "title": "Arabischer Frühling",
+    "year": 2011,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "naher-osten",
+    "summary": "Massenproteste stürzen Diktatoren in Tunesien, Ägypten und Libyen, münden aber vielerorts in Krieg und neue Repression.",
+    "text": "Die Selbstverbrennung eines Gemüsehändlers in Tunesien im Dezember 2010 löste Proteste gegen Armut, Korruption und Unterdrückung aus, die sich über soziale Medien in der ganzen arabischen Welt verbreiteten. In Tunesien und Ägypten traten die Präsidenten zurück, in Libyen wurde Gaddafi gestürzt. In Syrien entwickelte sich der Aufstand zu einem Bürgerkrieg mit Hunderttausenden Toten und Millionen Flüchtlingen. Nur Tunesien blieb länger auf einem demokratischen Weg.",
+    "personIds": [],
+    "tags": [
+      "protest",
+      "demokratie",
+      "naher osten",
+      "syrien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "covid-19-pandemie",
+    "title": "COVID-19-Pandemie",
+    "year": 2020,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "welt",
+    "summary": "Ein neuartiges Coronavirus breitet sich weltweit aus; Lockdowns und Impfkampagnen prägen zwei Jahre.",
+    "text": "Ende 2019 tauchte in der chinesischen Stadt Wuhan das Virus SARS-CoV-2 auf; im März 2020 erklärte die Weltgesundheitsorganisation die Pandemie. Regierungen schlossen Schulen, Geschäfte und Grenzen, das öffentliche Leben kam zeitweise zum Stillstand, und Homeoffice und Videokonferenzen wurden Alltag. Innerhalb eines Jahres wurden Impfstoffe entwickelt und weltweit Milliarden Dosen verabreicht. Nach Schätzungen der WHO starben bis 2023 rund 20 Millionen Menschen an oder mit COVID-19.",
+    "personIds": [],
+    "tags": [
+      "pandemie",
+      "gesundheit",
+      "globalisierung"
+    ],
+    "importance": 2
+  }
+]

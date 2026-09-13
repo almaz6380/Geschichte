@@ -1,0 +1,16 @@
+{
+  "name": "weltgeschichte",
+  "version": "1.0.0",
+  "description": "Geschichts-App (PWA): Weltgeschichte von der Urgeschichte bis zur Gegenwart – Epochen, Zeitleiste, Quiz, Suche, Lesezeichen.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "node --test test/*.test.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "icons": "node scripts/make-icons.mjs",
+    "sw": "node scripts/build-sw-manifest.mjs"
+  },
+  "license": "MIT"
+}

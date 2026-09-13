@@ -1,0 +1,540 @@
+[
+  {
+    "id": "urgeschichte",
+    "title": "Urgeschichte und Steinzeit",
+    "order": 1,
+    "start": -2600000,
+    "end": -3500,
+    "color": "#78716c",
+    "regions": [
+      "afrika",
+      "europa",
+      "asien",
+      "naher-osten",
+      "amerika",
+      "ozeanien"
+    ],
+    "summary": "Vom Feuer über die Ausbreitung des modernen Menschen bis zu den ersten Bauern und Dörfern: Die Steinzeit umfasst den längsten Abschnitt der Menschheitsgeschichte.",
+    "overview": [
+      "Die Urgeschichte ist die Zeit vor der Erfindung der Schrift. Da es keine schriftlichen Quellen gibt, wissen wir über sie nur durch Knochenfunde, Steinwerkzeuge, Höhlenbilder, Siedlungsreste und heute auch durch die Analyse alter DNA. Die Steinzeit ist nach dem wichtigsten Werkstoff für Werkzeuge benannt und wird in Altsteinzeit, Mittelsteinzeit und Jungsteinzeit unterteilt.",
+      "Die Vorfahren des Menschen entwickelten sich in Afrika. Frühe Menschenformen wie der Homo erectus lernten, Feuer zu beherrschen, und verbreiteten sich bis nach Asien und Europa. Der anatomisch moderne Mensch, der Homo sapiens, entstand vor rund 300.000 Jahren in Afrika. Vor etwa 70.000 Jahren verließen kleine Gruppen den Kontinent und besiedelten in den folgenden Jahrzehntausenden Asien, Australien, Europa und zuletzt Amerika.",
+      "Die Menschen der Altsteinzeit lebten als Jäger und Sammler in kleinen, beweglichen Gruppen. Sie stellten Werkzeuge aus Stein, Knochen und Holz her, nähten Kleidung, bestatteten ihre Toten und schufen Kunstwerke wie die Höhlenmalereien von Lascaux oder kleine Figuren aus Elfenbein. Zeitweise teilten sie sich Europa und Asien mit anderen Menschenarten wie den Neandertalern, die vor etwa 40.000 Jahren ausstarben.",
+      "Nach dem Ende der letzten Eiszeit begann vor rund 11.500 Jahren im Fruchtbaren Halbmond die Neolithische Revolution: Menschen begannen, Getreide anzubauen und Tiere zu züchten, und wurden sesshaft. Diese neue Lebensweise verbreitete sich langsam nach Europa, Afrika und Asien und entstand unabhängig davon auch in China, Amerika und anderen Regionen. Es entstanden Dörfer wie Çatalhöyük, Töpferei, Weberei und größere Bauwerke.",
+      "Mit der Sesshaftigkeit wuchs die Bevölkerung, Vorräte wurden angelegt und Besitz wurde wichtiger. Gegen Ende der Jungsteinzeit kamen die Verarbeitung von Kupfer, der Pflug und das Rad hinzu. Aus diesen Neuerungen entwickelten sich um 3500 v. Chr. in Mesopotamien und Ägypten die ersten Städte und Hochkulturen, mit denen die schriftlich überlieferte Geschichte beginnt."
+    ],
+    "consequences": [
+      "Der moderne Mensch besiedelte von Afrika aus alle bewohnbaren Kontinente und ist heute die einzige überlebende Menschenart.",
+      "Die Neolithische Revolution machte aus Jägern und Sammlern sesshafte Bauern und schuf damit die Grundlage für Dörfer, Städte und Staaten.",
+      "Ackerbau und Viehzucht ermöglichten Vorratshaltung, Bevölkerungswachstum und Arbeitsteilung, aber auch Ungleichheit, Eigentum und neue Krankheiten.",
+      "Werkzeuge, Feuer, Sprache, Kunst und Religion aus der Steinzeit gehören bis heute zu den grundlegenden Merkmalen menschlicher Kultur.",
+      "Erfindungen wie Töpferei, Weberei, Rad und Metallverarbeitung bereiteten die Hochkulturen der Bronzezeit vor."
+    ],
+    "tags": [
+      "steinzeit",
+      "homo sapiens",
+      "jäger und sammler",
+      "neolithische revolution",
+      "höhlenmalerei",
+      "sesshaftigkeit",
+      "evolution"
+    ]
+  },
+  {
+    "id": "fruehe-hochkulturen",
+    "title": "Frühe Hochkulturen",
+    "order": 2,
+    "start": -3500,
+    "end": -800,
+    "color": "#d97706",
+    "regions": [
+      "naher-osten",
+      "afrika",
+      "asien",
+      "amerika"
+    ],
+    "summary": "An Euphrat, Nil, Indus und Gelbem Fluss entstehen die ersten Städte, Staaten und Schriften: Mesopotamien, Ägypten, die Indus-Kultur und China prägen die Bronzezeit.",
+    "overview": [
+      "Um 3500 v. Chr. entstanden in Mesopotamien zwischen Euphrat und Tigris die ersten Städte der Welt. Bewässerungslandwirtschaft brachte Überschüsse, die Priester, Handwerker, Händler und Beamte ernährten. Um Vorräte, Abgaben und Handel zu verwalten, entwickelten die Sumerer die Keilschrift. Tempel und Paläste, Könige, Gesetze und stehende Heere kennzeichnen diese frühen Staaten.",
+      "Am Nil vereinigte um 3100 v. Chr. ein König aus Oberägypten das Land zu einem einzigen Reich. Die Pharaonen galten als Götter auf Erden und ließen sich in gewaltigen Pyramiden bestatten. Die jährliche Nilflut machte Ägypten zu einem reichen Agrarland, dessen Kultur mit Hieroglyphen, Mumifizierung und Tempelbauten über fast drei Jahrtausende bemerkenswert stabil blieb.",
+      "Auch in anderen Flusstälern entstanden Hochkulturen: Im Industal blühten um 2500 v. Chr. planmäßig angelegte Städte wie Mohenjo-Daro und Harappa mit Kanalisation und einheitlichen Maßen. In China regierte ab etwa 1600 v. Chr. die Shang-Dynastie, aus deren Orakelknochen die chinesische Schrift hervorging. In Mesoamerika legten die Olmeken ab 1200 v. Chr. die Grundlagen späterer Kulturen wie der Maya.",
+      "Die Bronze, eine Legierung aus Kupfer und Zinn, gab der Epoche ihren Namen. Sie ermöglichte bessere Waffen und Werkzeuge und förderte den Fernhandel, da Zinn selten war. Herrscher wie Sargon von Akkad, Hammurapi von Babylon oder Ramses II. von Ägypten schufen Großreiche, schlossen Bündnisse und führten Kriege um Handelswege und Tribut. Der Vertrag zwischen Ägyptern und Hethitern nach der Schlacht bei Kadesch ist der älteste erhaltene Friedensvertrag.",
+      "Um 1200 v. Chr. brachen viele Reiche des östlichen Mittelmeerraums innerhalb weniger Jahrzehnte zusammen. Dürren, Erdbeben, Aufstände und Angriffe der sogenannten Seevölker trugen dazu bei. Mit dem Ende der Bronzezeit begann die Eisenzeit, in der neue Völker wie Phönizier, Israeliten, Assyrer und Griechen die Geschichte bestimmten."
+    ],
+    "consequences": [
+      "Mit der Schrift beginnt die eigentliche Geschichte: Verwaltung, Gesetze, Literatur und Wissen konnten nun dauerhaft festgehalten werden.",
+      "Städte, Staaten, Könige, Beamte, Steuern und Heere entstanden in dieser Zeit und prägen die politische Ordnung bis heute.",
+      "Gesetzessammlungen wie der Codex Hammurapi begründeten die Idee, dass Recht schriftlich festgelegt und öffentlich bekannt sein soll.",
+      "Astronomie, Mathematik, Kalender, Medizin und Baukunst der frühen Hochkulturen wurden von Griechen, Römern und späteren Kulturen übernommen.",
+      "Die Schriften Ägyptens, Mesopotamiens und Chinas wurden zu Vorläufern der Alphabete und Schriftsysteme, die heute weltweit verwendet werden."
+    ],
+    "tags": [
+      "mesopotamien",
+      "ägypten",
+      "keilschrift",
+      "pyramiden",
+      "bronzezeit",
+      "pharaonen",
+      "indus-kultur",
+      "shang-dynastie"
+    ]
+  },
+  {
+    "id": "antike-griechenland",
+    "title": "Antikes Griechenland und Hellenismus",
+    "order": 3,
+    "start": -800,
+    "end": -30,
+    "color": "#0ea5e9",
+    "regions": [
+      "europa",
+      "naher-osten",
+      "afrika"
+    ],
+    "summary": "Demokratie, Philosophie, Theater und Olympische Spiele entstehen in den griechischen Stadtstaaten; Alexander der Große trägt die griechische Kultur bis nach Ägypten und Indien.",
+    "overview": [
+      "Nach den dunklen Jahrhunderten, die auf den Untergang der mykenischen Paläste folgten, entstanden ab etwa 800 v. Chr. in Griechenland hunderte unabhängige Stadtstaaten, die Poleis. Die Griechen übernahmen von den Phöniziern das Alphabet, gründeten Kolonien rund um das Mittelmeer und das Schwarze Meer und verband ein gemeinsames Bewusstsein durch Sprache, Götter, die Epen Homers und die Olympischen Spiele.",
+      "In Athen entwickelte sich über die Reformen Solons und Kleisthenes' eine Demokratie, in der die Volksversammlung aller männlichen Bürger die wichtigsten Entscheidungen traf. Sparta dagegen war ein Militärstaat unter zwei Königen. In den Perserkriegen wehrten die Griechen bei Marathon, Salamis und Plataiai zwei Angriffe des Persischen Großreichs ab, was Athen zur führenden Seemacht machte.",
+      "Unter Perikles erlebte Athen im 5. Jahrhundert v. Chr. eine kulturelle Blüte mit dem Bau der Akropolis, den Tragödien von Aischylos, Sophokles und Euripides, der Geschichtsschreibung des Herodot und Thukydides sowie der Philosophie des Sokrates. Die Rivalität zwischen Athen und Sparta mündete im Peloponnesischen Krieg, der 404 v. Chr. mit der Niederlage Athens endete und die griechischen Stadtstaaten dauerhaft schwächte.",
+      "Im 4. Jahrhundert v. Chr. begründeten Platon und Aristoteles in Athen Schulen, die die europäische Philosophie und Wissenschaft prägten. Politisch stieg Makedonien unter Philipp II. zur Vormacht auf. Sein Sohn Alexander der Große eroberte zwischen 334 und 323 v. Chr. das Persische Reich und drang bis nach Ägypten und Indien vor. Sein früher Tod ließ ein Reich zurück, das seine Feldherren unter sich aufteilten.",
+      "Im Zeitalter des Hellenismus verschmolzen griechische und orientalische Kultur. Griechisch wurde zur Verkehrssprache des östlichen Mittelmeerraums, Alexandria mit seiner Bibliothek zum Zentrum der Wissenschaft. Nach und nach unterwarf Rom die hellenistischen Reiche; 146 v. Chr. wurde Griechenland römisch, und mit dem Tod Kleopatras 30 v. Chr. fiel als letztes auch Ägypten an Rom."
+    ],
+    "consequences": [
+      "Die athenische Demokratie ist das erste bekannte Beispiel einer Volksherrschaft und Bezugspunkt aller modernen Demokratien.",
+      "Philosophie, Logik, Mathematik, Medizin und Geschichtsschreibung der Griechen bilden die Grundlage der europäischen Wissenschaft.",
+      "Theater, Epos, Lyrik und Bildhauerei der Griechen setzten Maßstäbe, an denen sich Kunst und Literatur bis heute orientieren.",
+      "Durch Alexanders Eroberungen und den Hellenismus verbreitete sich die griechische Sprache und Kultur bis nach Ägypten, Persien und Indien; das Neue Testament wurde auf Griechisch geschrieben.",
+      "Die Römer übernahmen griechische Bildung, Kunst und Götterwelt und vermittelten sie an das mittelalterliche und neuzeitliche Europa weiter."
+    ],
+    "tags": [
+      "polis",
+      "demokratie",
+      "philosophie",
+      "perserkriege",
+      "athen",
+      "sparta",
+      "alexander",
+      "hellenismus"
+    ]
+  },
+  {
+    "id": "rom",
+    "title": "Das Römische Reich",
+    "order": 4,
+    "start": -753,
+    "end": 476,
+    "color": "#dc2626",
+    "regions": [
+      "europa",
+      "naher-osten",
+      "afrika"
+    ],
+    "summary": "Von einer kleinen Stadt am Tiber zum Weltreich rund um das Mittelmeer: Rom prägte Recht, Sprache, Städtebau und Politik Europas für Jahrhunderte.",
+    "overview": [
+      "Der Sage nach wurde Rom 753 v. Chr. von Romulus gegründet. Tatsächlich entstand die Stadt aus mehreren Dörfern auf den Hügeln am Tiber und wurde zunächst von Königen regiert. Um 509 v. Chr. vertrieben die Römer ihren letzten König und errichteten eine Republik, in der jährlich gewählte Konsuln, der Senat und Volksversammlungen die Macht teilten.",
+      "In den folgenden Jahrhunderten unterwarf Rom zuerst Italien und dann in den Punischen Kriegen gegen Karthago den westlichen Mittelmeerraum. Es folgten Griechenland, Kleinasien, Gallien und Ägypten. Die Eroberungen brachten enormen Reichtum, aber auch soziale Spannungen: Kleinbauern verarmten, Sklaven arbeiteten auf Großgütern, und ehrgeizige Feldherren wie Sulla, Pompeius und Caesar setzten ihre Legionen für eigene Ziele ein.",
+      "Nach Bürgerkriegen und der Ermordung Caesars errichtete sein Adoptivsohn Octavian als Augustus ab 27 v. Chr. den Prinzipat: formal blieb die Republik bestehen, tatsächlich regierte ein Kaiser. Die Pax Romana der ersten beiden Jahrhunderte n. Chr. brachte Frieden, Handel, Straßen, Wasserleitungen und blühende Städte von Britannien bis Syrien.",
+      "Ab dem 3. Jahrhundert geriet das Reich in eine Krise aus Bürgerkriegen, Inflation und Angriffen an den Grenzen. Diokletian und Konstantin reformierten Verwaltung und Heer; Konstantin förderte das Christentum, das 380 Staatsreligion wurde. 395 wurde das Reich endgültig in eine westliche und eine östliche Hälfte geteilt.",
+      "Das Weströmische Reich zerfiel unter dem Druck der Völkerwanderung. 476 setzte der germanische Heerführer Odoaker den letzten weströmischen Kaiser Romulus Augustulus ab. Das Oströmische Reich mit der Hauptstadt Konstantinopel bestand als Byzanz noch fast tausend Jahre weiter."
+    ],
+    "consequences": [
+      "Das römische Recht bildet bis heute die Grundlage vieler europäischer Rechtsordnungen.",
+      "Aus dem Latein entstanden die romanischen Sprachen Italienisch, Französisch, Spanisch, Portugiesisch und Rumänisch; lateinische Begriffe prägen Wissenschaft und Kirche.",
+      "Straßen, Städte, Aquädukte und Bauformen wie Bogen, Kuppel und Beton beeinflussten Architektur und Infrastruktur Europas dauerhaft.",
+      "Das Christentum verbreitete sich über das römische Reich und wurde zur prägenden Religion Europas.",
+      "Die Idee eines römischen Kaisertums lebte im Heiligen Römischen Reich und in den Titeln Kaiser und Zar fort."
+    ],
+    "tags": [
+      "republik",
+      "kaiserreich",
+      "legionen",
+      "latein",
+      "mittelmeer",
+      "caesar",
+      "augustus"
+    ]
+  },
+  {
+    "id": "asien-altertum",
+    "title": "Reiche Asiens: Persien, Indien, China, Japan",
+    "order": 5,
+    "start": -550,
+    "end": 1200,
+    "color": "#e11d48",
+    "regions": [
+      "asien",
+      "naher-osten"
+    ],
+    "summary": "Während in Europa Griechen und Römer herrschten, entstanden in Asien Großreiche, Weltreligionen und Erfindungen wie Papier und Kompass, die die Welt bis heute prägen.",
+    "overview": [
+      "Um 550 v. Chr. vereinte Kyros II. die Perser und Meder und schuf in wenigen Jahrzehnten das bis dahin größte Reich der Geschichte. Es reichte von der Ägäis bis zum Indus und wurde durch Satrapien, Königsstraßen und eine Politik der religiösen Toleranz zusammengehalten. 330 v. Chr. eroberte Alexander der Große das Perserreich, doch persische Kultur und Verwaltung lebten in den folgenden Reichen der Parther und Sasaniden weiter.",
+      "Zur gleichen Zeit entstanden in Indien und China neue Lehren, die das Denken Asiens bis heute bestimmen. Siddhartha Gautama, der Buddha, lehrte in Nordindien einen Weg zur Überwindung des Leidens, während Konfuzius in China eine Ethik von Pflicht, Bildung und Ordnung entwarf. Der Maurya-König Ashoka machte den Buddhismus im 3. Jahrhundert v. Chr. zur Religion eines Großreichs und sandte Missionare bis nach Sri Lanka.",
+      "In China beendete Qin Shihuangdi 221 v. Chr. die Zeit der Streitenden Reiche und schuf ein einheitliches Kaiserreich mit gemeinsamer Schrift, Währung und Maßeinheiten. Die nachfolgende Han-Dynastie regierte vier Jahrhunderte, öffnete die Seidenstraße nach Westen und erhob den Konfuzianismus zur Staatslehre. Unter den Han entstanden auch Papier, Kompass und eine Beamtenverwaltung, die mit Prüfungen besetzt wurde.",
+      "Indien erlebte unter der Gupta-Dynastie im 4. und 5. Jahrhundert ein goldenes Zeitalter der Mathematik, Astronomie, Dichtung und Kunst; hier entstand das Dezimalsystem mit der Null. China erreichte unter der Tang-Dynastie ab 618 einen neuen Höhepunkt: Die Hauptstadt Chang'an war die größte Stadt der Welt, Handel und Buddhismus verbanden China mit Zentralasien, Korea und Japan.",
+      "Japan übernahm Schrift, Buddhismus und Verwaltung aus China und entwickelte in der Heian-Zeit ab 794 eine eigene höfische Kultur mit Silbenschrift und Romanen. In Südostasien errichteten die Khmer im 12. Jahrhundert mit Angkor Wat die größte Tempelanlage der Welt. Die Reiche Asiens waren in dieser Zeit oft größer, reicher und technisch weiter entwickelt als die Europas."
+    ],
+    "consequences": [
+      "Buddhismus, Konfuzianismus und Hinduismus prägen bis heute Religion, Ethik und Gesellschaft von Milliarden Menschen in Asien.",
+      "Chinas Einigung unter Qin Shihuangdi schuf die Grundlage für einen Staat, der trotz vieler Dynastiewechsel über zweitausend Jahre Bestand hatte.",
+      "Papier, Kompass, Schießpulver und Buchdruck gelangten aus China über die Seidenstraße nach Westen und veränderten Wissenschaft, Krieg und Bildung weltweit.",
+      "Das indische Dezimalsystem mit der Null wurde über die arabische Welt nach Europa vermittelt und ist die Basis unserer heutigen Mathematik.",
+      "Das persische Modell eines Vielvölkerreichs mit Provinzen, Straßen und religiöser Toleranz beeinflusste Alexander, Rom und die späteren islamischen Reiche."
+    ],
+    "tags": [
+      "perserreich",
+      "buddhismus",
+      "konfuzius",
+      "kaiserreich china",
+      "seidenstraße",
+      "gupta",
+      "tang",
+      "japan"
+    ]
+  },
+  {
+    "id": "mittelalter",
+    "title": "Europäisches Mittelalter",
+    "order": 6,
+    "start": 500,
+    "end": 1500,
+    "color": "#7c3aed",
+    "regions": [
+      "europa",
+      "afrika",
+      "amerika",
+      "asien"
+    ],
+    "summary": "Zwischen dem Ende Roms und der Entdeckung Amerikas formten Christentum, Lehnswesen, Ritter, Klöster und aufstrebende Städte ein neues Europa, während Mongolen, Mali und Azteken eigene Großreiche errichteten.",
+    "overview": [
+      "Nach dem Untergang des Weströmischen Reiches entstanden auf seinem Boden germanische Königreiche. Am erfolgreichsten waren die Franken: Ihr König Chlodwig ließ sich um 498 katholisch taufen und gewann so die Unterstützung der Kirche und der romanischen Bevölkerung. Karl der Große dehnte das Frankenreich bis nach Sachsen, Italien und Spanien aus und wurde 800 in Rom zum Kaiser gekrönt; seine Herrschaft gilt als Geburtsstunde des mittelalterlichen Europa.",
+      "Das Hochmittelalter vom 11. bis 13. Jahrhundert war eine Zeit des Wachstums. Die Bevölkerung nahm zu, Wälder wurden gerodet, Städte gegründet und Kathedralen gebaut. Die Gesellschaft war in Stände gegliedert: Der Adel kämpfte, der Klerus betete, die Bauern arbeiteten. Über das Lehnswesen band der König Herzöge und Grafen an sich, die ihm dafür Treue und Kriegsdienst schuldeten. Klöster bewahrten das antike Wissen, und ab 1088 entstanden in Bologna, Paris und Oxford die ersten Universitäten.",
+      "Die Kreuzzüge ab 1096 brachten Europa in engen, oft gewaltsamen Kontakt mit der islamischen Welt, förderten aber auch Handel und Wissensaustausch. Die Wikinger aus Skandinavien plünderten seit 793 Klöster und Küsten, gründeten Städte wie Dublin und Kiew und erreichten Grönland und Nordamerika. Ihre Nachfahren, die Normannen, eroberten 1066 England. Mit der Magna Carta von 1215 mussten Könige erstmals Rechte ihrer Untertanen schriftlich anerkennen.",
+      "Auch außerhalb Europas entstanden mächtige Reiche: Dschingis Khan schuf ab 1206 das größte zusammenhängende Landreich der Geschichte, das Händler wie Marco Polo bis nach China reisen ließ. Im westafrikanischen Mali beeindruckte der goldreiche König Mansa Musa auf seiner Pilgerreise 1324 die gesamte islamische Welt, und in Mexiko gründeten die Azteken um 1325 ihre Hauptstadt Tenochtitlan.",
+      "Das Spätmittelalter war von Krisen geprägt. Der Schwarze Tod tötete ab 1347 etwa ein Drittel der europäischen Bevölkerung, der Hundertjährige Krieg verwüstete Frankreich, und Hungersnöte und Aufstände erschütterten die Ordnung. 1453 eroberten die Osmanen Konstantinopel. Zugleich kündigten Buchdruck, Fernhandel und ein neues Interesse an der Antike bereits die Neuzeit an."
+    ],
+    "consequences": [
+      "Das Christentum und die Kirche prägten Recht, Bildung, Kalender und Alltag Europas bis in die Neuzeit; Klöster und Universitäten wurden zu Zentren des Wissens.",
+      "Aus dem Frankenreich gingen Frankreich und das Heilige Römische Reich hervor, und viele heutige Staaten, Städte und Grenzen Europas haben mittelalterliche Wurzeln.",
+      "Die Magna Carta und die Stadtrechte begründeten die Idee, dass auch Herrscher an Gesetze gebunden sind; daraus entwickelten sich Parlamente und Bürgerrechte.",
+      "Kreuzzüge, Mongolenreich und Fernhandel verbanden Europa mit Asien und Afrika und brachten Wissen, Waren und Krankheiten wie die Pest über Kontinente hinweg.",
+      "Die Krisen des 14. Jahrhunderts schwächten Adel und Leibeigenschaft, stärkten Städte und Lohnarbeit und bereiteten den Boden für Renaissance und Reformation."
+    ],
+    "tags": [
+      "ritter",
+      "kreuzzüge",
+      "lehnswesen",
+      "wikinger",
+      "pest",
+      "karl der große",
+      "mongolen",
+      "kathedralen"
+    ]
+  },
+  {
+    "id": "islamische-welt",
+    "title": "Die islamische Welt",
+    "order": 7,
+    "start": 610,
+    "end": 1500,
+    "color": "#059669",
+    "regions": [
+      "naher-osten",
+      "afrika",
+      "europa",
+      "asien"
+    ],
+    "summary": "Aus der Botschaft Mohammeds entstand innerhalb eines Jahrhunderts ein Reich von Spanien bis Indien, dessen Gelehrte in Bagdad, Córdoba und Kairo Wissenschaft, Medizin und Philosophie zu neuer Blüte führten.",
+    "overview": [
+      "Um 610 begann Mohammed, ein Kaufmann aus Mekka, seinen Mitmenschen Offenbarungen zu verkünden, die er nach islamischem Glauben von Gott empfangen hatte. Seine Botschaft von dem einen Gott, sozialer Gerechtigkeit und dem Jüngsten Gericht stieß in Mekka auf Widerstand, sodass er 622 nach Medina auswanderte. Dort entstand die erste muslimische Gemeinde; mit dieser Auswanderung, der Hidschra, beginnt die islamische Zeitrechnung. Bis zu seinem Tod 632 hatten sich die meisten Stämme Arabiens dem Islam angeschlossen.",
+      "Unter den ersten Kalifen eroberten arabische Heere in erstaunlich kurzer Zeit Syrien, Palästina, Ägypten, Persien und Nordafrika. Die Umayyaden regierten ab 661 von Damaskus aus ein Reich, das 711 auch Spanien und Teile Zentralasiens umfasste; ihre Expansion nach Westen wurde 732 bei Tours und Poitiers gestoppt. Christen und Juden lebten als Schutzbefohlene unter islamischer Herrschaft; sie zahlten eine Sondersteuer, durften ihre Religion aber behalten.",
+      "750 lösten die Abbasiden die Umayyaden ab und gründeten 762 Bagdad, das bald zur größten Stadt der Welt wurde. Unter Kalifen wie Harun ar-Raschid und al-Mamun blühte im Haus der Weisheit die Wissenschaft: Griechische, persische und indische Werke wurden ins Arabische übersetzt, und Gelehrte wie al-Chwarizmi, ar-Razi und Ibn Sina schufen Grundlagen von Algebra, Astronomie und Medizin. Die Muslime übernahmen aus Indien die Ziffern mit der Null und aus China die Papierherstellung.",
+      "Politisch zerfiel das Kalifat: In Spanien riefen die Umayyaden 929 ein eigenes Kalifat in Córdoba aus, in Ägypten herrschten die Fatimiden, und türkische Sultane übernahmen die Macht im Osten. Die Kreuzzüge brachten ab 1096 Krieg mit den Europäern; Saladin eroberte 1187 Jerusalem zurück. 1258 zerstörten die Mongolen Bagdad und beendeten das Kalifat der Abbasiden.",
+      "Trotz dieser Katastrophe blieb die islamische Welt ein zusammenhängender Kulturraum, in dem Reisende wie Ibn Battuta von Marokko bis China überall Glaubensbrüder, Moscheen und arabischsprachige Gelehrte antrafen. Handel über Sahara, Indischen Ozean und Seidenstraße verbreitete den Islam bis nach Westafrika, Indien und Indonesien. Um 1300 entstand in Anatolien das Reich der Osmanen, das 1453 Konstantinopel eroberte und zur neuen Großmacht wurde."
+    ],
+    "consequences": [
+      "Der Islam wurde zur Weltreligion mit heute fast zwei Milliarden Gläubigen und prägt Kultur, Recht und Alltag von Marokko bis Indonesien.",
+      "Arabische Gelehrte bewahrten und erweiterten das antike Wissen; über Übersetzungen aus Toledo und Sizilien gelangten Algebra, Medizin, Astronomie und die Philosophie des Aristoteles nach Europa.",
+      "Die aus Indien übernommenen arabischen Ziffern, das Papier und zahlreiche Wörter wie Algebra, Zucker, Kaffee oder Ziffer sind Teil des europäischen Erbes.",
+      "Handelsnetze der Muslime verbanden drei Kontinente und trugen Waren, Pflanzen wie Zuckerrohr und Orangen sowie Techniken wie Bewässerung und Windmühlen über weite Räume.",
+      "Die Konflikte der Kreuzzüge und die Eroberung Konstantinopels prägten das Verhältnis zwischen Europa und der islamischen Welt bis in die Gegenwart."
+    ],
+    "tags": [
+      "islam",
+      "kalifat",
+      "bagdad",
+      "wissenschaft",
+      "al-andalus",
+      "kreuzzüge",
+      "osmanen",
+      "handel"
+    ]
+  },
+  {
+    "id": "renaissance-entdeckungen",
+    "title": "Renaissance, Entdeckungen und Reformation",
+    "order": 8,
+    "start": 1400,
+    "end": 1600,
+    "color": "#f59e0b",
+    "regions": [
+      "europa",
+      "amerika",
+      "afrika",
+      "asien"
+    ],
+    "summary": "Buchdruck, Humanismus, die Fahrten nach Amerika und Indien sowie die Spaltung der Kirche verändern zwischen 1400 und 1600 das Weltbild Europas und verbinden die Kontinente erstmals dauerhaft.",
+    "overview": [
+      "Im 15. Jahrhundert wandten sich Gelehrte und Künstler in den italienischen Stadtstaaten wie Florenz, Venedig und Rom erneut der Antike zu. Diese Wiedergeburt, die Renaissance, stellte den Menschen und seine Fähigkeiten in den Mittelpunkt. Reiche Bankiersfamilien wie die Medici förderten Maler, Bildhauer und Architekten, und der Humanismus verbreitete eine neue Bildung, die auf griechischen und lateinischen Quellen beruhte. Leonardo da Vinci, Michelangelo und Raffael schufen Werke, die bis heute als Höhepunkte der europäischen Kunst gelten.",
+      "Um 1450 entwickelte Johannes Gutenberg in Mainz den Buchdruck mit beweglichen Metalllettern. Bücher wurden dadurch billiger und schneller herstellbar, Wissen verbreitete sich in einem zuvor unbekannten Tempo. Flugschriften, Bibeln in der Volkssprache und wissenschaftliche Werke erreichten nun ein breites Publikum. Ohne den Buchdruck wären weder die Reformation noch die neue Naturwissenschaft so rasch vorangekommen.",
+      "Zur gleichen Zeit suchten portugiesische und spanische Seefahrer neue Wege zu den Gewürzen und dem Gold Asiens. Christoph Kolumbus erreichte 1492 die Karibik, Vasco da Gama 1498 Indien, und die Flotte Magellans umrundete zwischen 1519 und 1522 erstmals die Erde. Spanische Eroberer unter Cortés und Pizarro zerstörten die Reiche der Azteken und Inka. Für die Bevölkerung Amerikas bedeutete die Ankunft der Europäer Krankheiten, Gewalt und Zwangsarbeit; Millionen Menschen starben, und ab dem 16. Jahrhundert wurden Afrikaner als Sklaven über den Atlantik verschleppt.",
+      "1517 veröffentlichte der Mönch Martin Luther seine 95 Thesen gegen den Ablasshandel. Was als Aufruf zur Reform der Kirche begann, führte zur Spaltung der westlichen Christenheit in Katholiken und Protestanten. Fürsten, Städte und Bauern nutzten die neue Lehre für eigene Ziele, und Europa wurde in Religionskriege gestürzt. Die katholische Kirche antwortete mit dem Konzil von Trient und dem Jesuitenorden auf die Herausforderung.",
+      "Auch das Bild vom Kosmos geriet in Bewegung. Nikolaus Kopernikus stellte 1543 die Sonne statt der Erde in den Mittelpunkt des Weltalls, und Beobachtung sowie Mathematik traten allmählich an die Stelle der alten Autoritäten. Am Ende des 16. Jahrhunderts war Europa wohlhabender, gebildeter und zugleich tiefer gespalten als je zuvor, und seine Schiffe verbanden erstmals alle bewohnten Kontinente."
+    ],
+    "consequences": [
+      "Der Buchdruck machte Wissen massenhaft verfügbar und schuf die Grundlage für Öffentlichkeit, Wissenschaft und moderne Bildung.",
+      "Die Entdeckungsfahrten verbanden Europa, Afrika, Asien und Amerika zu einem weltweiten Handelsnetz; Pflanzen, Tiere, Krankheiten und Menschen wurden zwischen den Kontinenten ausgetauscht.",
+      "Die Eroberung Amerikas vernichtete die indigenen Reiche und begründete jahrhundertelange koloniale Herrschaft sowie den transatlantischen Sklavenhandel.",
+      "Die Reformation spaltete die Christenheit dauerhaft, stärkte die Landesfürsten und löste Religionskriege aus, die bis zum Westfälischen Frieden 1648 andauerten.",
+      "Renaissance und heliozentrisches Weltbild rückten Mensch, Vernunft und Beobachtung in den Mittelpunkt und bereiteten die naturwissenschaftliche Revolution und die Aufklärung vor."
+    ],
+    "tags": [
+      "renaissance",
+      "humanismus",
+      "buchdruck",
+      "entdeckungen",
+      "reformation",
+      "kolonialismus",
+      "luther",
+      "kolumbus"
+    ]
+  },
+  {
+    "id": "absolutismus-aufklaerung",
+    "title": "Absolutismus und Aufklärung",
+    "order": 9,
+    "start": 1600,
+    "end": 1789,
+    "color": "#6366f1",
+    "regions": [
+      "europa",
+      "asien",
+      "amerika"
+    ],
+    "summary": "Zwischen dem Dreißigjährigen Krieg und der Französischen Revolution regieren Könige mit absolutem Machtanspruch, während Naturwissenschaft und Aufklärung Vernunft, Freiheit und Kritik an Kirche und Krone verbreiten.",
+    "overview": [
+      "Das 17. Jahrhundert begann mit einer Katastrophe: Der Dreißigjährige Krieg verwüstete zwischen 1618 und 1648 weite Teile Mitteleuropas. Was als Konflikt zwischen katholischen und protestantischen Ständen im Heiligen Römischen Reich begann, wurde zu einem europäischen Ringen um Macht, in das Dänemark, Schweden, Spanien und Frankreich eingriffen. Der Westfälische Frieden von 1648 beendete den Krieg, bestätigte die Gleichberechtigung der Konfessionen und stärkte die Landesherren gegenüber dem Kaiser.",
+      "Aus der Erfahrung von Krieg und Chaos erwuchs der Absolutismus: Der König sollte allein und uneingeschränkt regieren, gestützt auf stehendes Heer, Beamte und eine gelenkte Wirtschaft. Ludwig XIV. von Frankreich, der Sonnenkönig, machte Versailles zum Vorbild für die Höfe Europas. Peter der Große zwang Russland mit Gewalt zur Modernisierung und gründete St. Petersburg als Fenster nach Westen. In England dagegen setzte das Parlament in der Glorious Revolution von 1688 die Grenzen der königlichen Macht durch.",
+      "Gleichzeitig veränderte die neue Naturwissenschaft das Denken. Galilei, Kepler und Isaac Newton beschrieben die Natur mit mathematischen Gesetzen; Newtons Principia von 1687 erklärte die Bewegung der Planeten und den Fall eines Apfels mit denselben Prinzipien. Akademien, Fachzeitschriften und Experimente traten an die Stelle der alten Autoritäten. Diese Erfolge ermutigten dazu, auch Staat, Recht und Religion mit der Vernunft zu prüfen.",
+      "Die Aufklärung des 18. Jahrhunderts stellte alles auf den Prüfstand. Voltaire kämpfte gegen Fanatismus und Zensur, Montesquieu forderte die Gewaltenteilung, Rousseau entwarf einen Staat auf Grundlage der Volkssouveränität, und die Encyclopédie von Diderot und d'Alembert sammelte das Wissen der Zeit. Kant fasste das Programm in dem Satz zusammen, Aufklärung sei der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit. Herrscher wie Friedrich II. von Preußen nannten sich aufgeklärt, hielten aber an ihrer absoluten Macht fest.",
+      "Außerhalb Europas erlebte China unter der Qing-Dynastie seine größte Ausdehnung, während in Nordamerika englische, französische und spanische Kolonien wuchsen. Der Siebenjährige Krieg von 1756 bis 1763 wurde auf drei Kontinenten ausgetragen und machte Großbritannien zur führenden Kolonialmacht. Am Vorabend der Französischen Revolution hatte die Aufklärung die Legitimität der alten Ordnung untergraben, und mit der Dampfmaschine kündigte sich bereits eine neue Zeit an."
+    ],
+    "consequences": [
+      "Der Westfälische Frieden begründete ein europäisches System souveräner Staaten, das bis heute die Grundlage der internationalen Beziehungen bildet.",
+      "Der absolutistische Staat schuf stehende Heere, Beamtenapparate und zentrale Verwaltungen, aus denen die modernen Staaten hervorgingen.",
+      "Die naturwissenschaftliche Revolution etablierte Experiment, Beobachtung und Mathematik als Grundlage von Wissen und ermöglichte die Technik der Industrialisierung.",
+      "Die Ideen der Aufklärung wie Menschenrechte, Gewaltenteilung, Volkssouveränität und Toleranz wurden zum Programm der Amerikanischen und der Französischen Revolution.",
+      "Die englische Parlamentsherrschaft nach 1688 wurde zum Vorbild für konstitutionelle Monarchien und parlamentarische Systeme in aller Welt."
+    ],
+    "tags": [
+      "absolutismus",
+      "aufklärung",
+      "versailles",
+      "naturwissenschaft",
+      "dreißigjähriger krieg",
+      "vernunft",
+      "sonnenkönig"
+    ]
+  },
+  {
+    "id": "revolutionen",
+    "title": "Zeitalter der Revolutionen",
+    "order": 10,
+    "start": 1776,
+    "end": 1848,
+    "color": "#ef4444",
+    "regions": [
+      "amerika",
+      "europa"
+    ],
+    "summary": "Von der Amerikanischen Unabhängigkeit über die Französische Revolution und Napoleon bis zur Revolution von 1848: Menschenrechte, Nation und Volkssouveränität stürzen die alte Ordnung.",
+    "overview": [
+      "1776 erklärten dreizehn britische Kolonien in Nordamerika ihre Unabhängigkeit und beriefen sich dabei auf die Aufklärung: Alle Menschen seien gleich geschaffen und hätten ein Recht auf Leben, Freiheit und das Streben nach Glück. Unter George Washington gewannen sie mit französischer Hilfe den Krieg gegen das Mutterland. Die Verfassung von 1787 schuf die erste moderne Republik mit Gewaltenteilung und einem gewählten Präsidenten.",
+      "Frankreich hatte sich durch die Unterstützung der Amerikaner finanziell überfordert. Als König Ludwig XVI. 1789 die Generalstände einberief, erklärte sich der Dritte Stand zur Nationalversammlung, und am 14. Juli stürmte die Pariser Bevölkerung die Bastille. Die Erklärung der Menschen- und Bürgerrechte, die Abschaffung der Adelsprivilegien und eine Verfassung folgten. Der Versuch, die Monarchie zu erhalten, scheiterte; 1792 wurde die Republik ausgerufen und 1793 der König hingerichtet.",
+      "Bedroht von äußeren Feinden und inneren Aufständen errichteten die Jakobiner unter Robespierre eine Schreckensherrschaft, der tausende Menschen auf der Guillotine zum Opfer fielen. Auch in der Kolonie Saint-Domingue erhoben sich 1791 die versklavten Menschen; unter Toussaint Louverture erkämpften sie die Abschaffung der Sklaverei, und 1804 entstand Haiti als erster von ehemaligen Sklaven gegründeter Staat. Olympe de Gouges forderte die Gleichberechtigung der Frauen und wurde dafür hingerichtet.",
+      "Aus den Revolutionskriegen stieg der General Napoleon Bonaparte auf, der sich 1799 an die Macht putschte und 1804 zum Kaiser krönte. Er ordnete Frankreich mit dem Code civil neu, besiegte Österreich, Preußen und Russland und beherrschte fast ganz Europa. Der Feldzug nach Russland 1812 endete in einer Katastrophe; die Völkerschlacht bei Leipzig 1813 und Waterloo 1815 beendeten seine Herrschaft. Der Wiener Kongress stellte die Monarchien wieder her und versuchte, revolutionäre Ideen zu unterdrücken.",
+      "Doch die Ideen von Freiheit, Nation und Verfassung ließen sich nicht mehr zurückdrängen. In Lateinamerika führten Simón Bolívar und José de San Martín die spanischen Kolonien in die Unabhängigkeit, Griechenland löste sich vom Osmanischen Reich, und 1830 stürzte Paris erneut seinen König. 1848 erfasste eine Revolutionswelle fast ganz Europa; in Frankfurt tagte die erste gesamtdeutsche Nationalversammlung. Die Revolution scheiterte, doch ihre Forderungen nach Grundrechten und nationaler Einheit blieben auf der Tagesordnung."
+    ],
+    "consequences": [
+      "Die Menschen- und Bürgerrechte von 1776 und 1789 wurden zum Maßstab für Verfassungen und Grundrechte in aller Welt.",
+      "Die Idee der Volkssouveränität ersetzte das Gottesgnadentum als Grundlage politischer Herrschaft und leitete den Übergang zu Verfassungsstaaten und Demokratien ein.",
+      "Der Code civil verbreitete Rechtsgleichheit, Eigentumsfreiheit und die Trennung von Staat und Kirche über Europa und prägte zahlreiche Rechtsordnungen.",
+      "Die Revolutionen in Haiti und Lateinamerika beendeten die europäische Kolonialherrschaft auf dem amerikanischen Kontinent weitgehend und setzten ein Zeichen gegen die Sklaverei.",
+      "Nationalismus und Liberalismus wurden zu den prägenden politischen Kräften des 19. Jahrhunderts und führten zu neuen Nationalstaaten wie Italien und Deutschland."
+    ],
+    "tags": [
+      "revolution",
+      "menschenrechte",
+      "napoleon",
+      "republik",
+      "nation",
+      "verfassung",
+      "unabhängigkeit"
+    ]
+  },
+  {
+    "id": "industrialisierung-imperialismus",
+    "title": "Industrialisierung, Nationalstaaten und Imperialismus",
+    "order": 11,
+    "start": 1780,
+    "end": 1914,
+    "color": "#475569",
+    "regions": [
+      "europa",
+      "amerika",
+      "asien",
+      "afrika"
+    ],
+    "summary": "Dampfmaschine, Fabrik und Eisenbahn verändern Arbeit und Alltag, neue Nationalstaaten entstehen, und die europäischen Mächte teilen die Welt in Kolonien auf.",
+    "overview": [
+      "Ab dem späten 18. Jahrhundert begann in England eine Umwälzung, die als Industrielle Revolution bezeichnet wird. Die von James Watt verbesserte Dampfmaschine trieb Spinnmaschinen, Webstühle, Pumpen und bald auch Lokomotiven an. Arbeit verlagerte sich aus Werkstätten und Bauernhöfen in Fabriken, Kohle und Eisen wurden zu den Rohstoffen des neuen Zeitalters. Städte wie Manchester, Birmingham und später das Ruhrgebiet wuchsen innerhalb weniger Jahrzehnte um ein Vielfaches.",
+      "Die Industrialisierung schuf enormen Reichtum, aber auch neue soziale Fragen. Fabrikarbeiter, darunter viele Frauen und Kinder, arbeiteten zwölf Stunden und mehr am Tag, lebten in engen Mietskasernen und hatten kaum Rechte. Aus dieser Erfahrung entstanden Gewerkschaften, Genossenschaften und politische Parteien. Karl Marx und Friedrich Engels deuteten im Kommunistischen Manifest von 1848 die Geschichte als Kampf zwischen Klassen und forderten eine Gesellschaft ohne Privateigentum an Produktionsmitteln.",
+      "Gleichzeitig wurde der Nationalstaat zum Leitbild der Politik. In Europa entstanden mit Italien 1861 und dem Deutschen Kaiserreich 1871 neue Großstaaten, in den Vereinigten Staaten sicherte der Bürgerkrieg von 1861 bis 1865 die Einheit der Union und beendete die Sklaverei. Japan öffnete sich nach der Meiji-Restauration von 1868 bewusst westlicher Technik und Verwaltung und stieg innerhalb einer Generation zur Industrie- und Militärmacht auf.",
+      "Mit der wirtschaftlichen und militärischen Überlegenheit wuchs der Anspruch der Industriestaaten auf Kolonien, Rohstoffe und Absatzmärkte. Großbritannien erzwang im Opiumkrieg die Öffnung Chinas, der Suezkanal verkürzte den Weg nach Indien, und auf der Berliner Konferenz von 1884 bis 1885 legten die europäischen Mächte Regeln für die Aufteilung Afrikas fest. Der Widerstand der Kolonisierten wurde oft brutal gebrochen, etwa beim Völkermord an den Herero und Nama in Deutsch-Südwestafrika.",
+      "Um 1900 schien der technische Fortschritt grenzenlos: Elektrizität, Telefon, Automobil, Flugzeug und die Entdeckungen von Marie Curie in der Physik prägten das Lebensgefühl. Zugleich rüsteten die Großmächte auf, schlossen Bündnisse und konkurrierten um Flotten und Kolonien. Diese Spannungen entluden sich 1914 im Ersten Weltkrieg."
+    ],
+    "consequences": [
+      "Fabrik, Maschine und fossile Energie prägen seither Wirtschaft und Alltag; das heutige Wirtschaftswachstum wie auch der Klimawandel haben hier ihre Wurzeln.",
+      "Aus der sozialen Frage entstanden Arbeiterbewegung, Sozialgesetzgebung und die politischen Ideen von Sozialismus und Kommunismus, die das 20. Jahrhundert bestimmten.",
+      "Nationalstaaten wie Deutschland, Italien, die USA und Japan wurden zu den entscheidenden Akteuren der Weltpolitik.",
+      "Die koloniale Aufteilung Afrikas und Asiens hinterließ willkürliche Grenzen, wirtschaftliche Abhängigkeiten und Konflikte, die bis heute nachwirken.",
+      "Die Rivalität der imperialistischen Großmächte führte direkt in den Ersten Weltkrieg."
+    ],
+    "tags": [
+      "dampfmaschine",
+      "eisenbahn",
+      "fabrik",
+      "arbeiterbewegung",
+      "nationalstaat",
+      "kolonialismus",
+      "imperialismus"
+    ]
+  },
+  {
+    "id": "erster-weltkrieg-zwischenkriegszeit",
+    "title": "Erster Weltkrieg und Zwischenkriegszeit",
+    "order": 12,
+    "start": 1914,
+    "end": 1939,
+    "color": "#b45309",
+    "regions": [
+      "europa",
+      "welt",
+      "naher-osten",
+      "asien",
+      "amerika"
+    ],
+    "summary": "Der Erste Weltkrieg zerstört die alte Ordnung Europas; Revolutionen, brüchige Friedensverträge und die Weltwirtschaftskrise prägen die unruhigen Jahre bis 1939.",
+    "overview": [
+      "Im Sommer 1914 löste das Attentat auf den österreichischen Thronfolger in Sarajevo eine Kette von Bündnisverpflichtungen und Mobilmachungen aus. Innerhalb weniger Wochen standen sich die Mittelmächte Deutschland, Österreich-Ungarn und das Osmanische Reich und die Entente aus Frankreich, Russland und Großbritannien gegenüber. Der erwartete kurze Krieg erstarrte im Westen in einem Stellungskrieg, in dem Maschinengewehre, Artillerie und Giftgas Hunderttausende töteten, ohne dass die Front sich nennenswert bewegte.",
+      "Der Krieg wurde zum ersten totalen Krieg der Geschichte: Ganze Volkswirtschaften wurden auf die Rüstung umgestellt, Frauen übernahmen die Arbeit der Männer in Fabriken, und die Zivilbevölkerung litt unter Blockade und Hunger. 1917 kippte das Gleichgewicht: Russland stürzte in die Revolution und schied aus dem Krieg aus, während die Vereinigten Staaten an der Seite der Entente eintraten. Im November 1918 brachen die Mittelmächte zusammen, Kaiser Wilhelm II. dankte ab, und der Waffenstillstand von Compiègne beendete die Kämpfe.",
+      "Die Pariser Vorortverträge von 1919 und 1920 ordneten Europa und den Nahen Osten neu. Die Kaiserreiche der Habsburger, Romanows, Hohenzollern und Osmanen waren verschwunden; an ihre Stelle traten neue Nationalstaaten wie Polen, die Tschechoslowakei, Jugoslawien und die Türkei. Der Versailler Vertrag legte Deutschland die Kriegsschuld, Gebietsabtretungen und hohe Reparationen auf, was viele Deutsche als Demütigung empfanden. Der Völkerbund sollte künftige Kriege verhindern, blieb aber ohne die USA und ohne eigene Machtmittel schwach.",
+      "In Russland errichteten die Bolschewiki unter Lenin nach Bürgerkrieg und Terror die Sowjetunion, den ersten kommunistischen Staat. In Italien kam 1922 Mussolini mit den Faschisten an die Macht, in Deutschland scheiterte die Weimarer Republik an Inflation, politischer Gewalt und der Weltwirtschaftskrise, bis 1933 Hitler die Macht übernahm. Die Krise von 1929 ließ die Arbeitslosigkeit weltweit explodieren und stärkte überall radikale Kräfte.",
+      "Die 1930er Jahre waren von Aufrüstung und Aggression geprägt. Japan besetzte die Mandschurei, Italien überfiel Äthiopien, und im Spanischen Bürgerkrieg von 1936 bis 1939 erprobten Deutschland und Italien ihre Waffen an der Seite Francos, während die Demokratien zusahen. Als Deutschland im September 1939 Polen überfiel, war der nächste Weltkrieg nicht mehr zu verhindern."
+    ],
+    "consequences": [
+      "Rund 17 Millionen Tote, zerstörte Landschaften und eine traumatisierte Generation prägten Europa; der Krieg gilt als Urkatastrophe des 20. Jahrhunderts.",
+      "Vier Kaiserreiche verschwanden, und die Landkarte Europas und des Nahen Ostens wurde neu gezeichnet; viele Grenzkonflikte bis heute gehen darauf zurück.",
+      "Mit der Sowjetunion entstand der erste kommunistische Staat, der die Weltpolitik bis 1991 bestimmte.",
+      "Kriegsniederlage, Versailler Vertrag und Weltwirtschaftskrise schufen die Bedingungen für den Aufstieg des Faschismus und Nationalsozialismus.",
+      "Der Völkerbund scheiterte, lieferte aber das Vorbild für die Vereinten Nationen nach 1945."
+    ],
+    "tags": [
+      "weltkrieg",
+      "stellungskrieg",
+      "revolution",
+      "versailles",
+      "völkerbund",
+      "weltwirtschaftskrise",
+      "faschismus"
+    ]
+  },
+  {
+    "id": "zweiter-weltkrieg",
+    "title": "Zweiter Weltkrieg und Holocaust",
+    "order": 13,
+    "start": 1933,
+    "end": 1945,
+    "color": "#7f1d1d",
+    "regions": [
+      "europa",
+      "welt",
+      "asien",
+      "afrika",
+      "amerika"
+    ],
+    "summary": "Die nationalsozialistische Diktatur führt Deutschland in den größten Krieg der Geschichte und ermordet im Holocaust sechs Millionen Juden; 1945 enden Krieg und Terror mit der bedingungslosen Kapitulation.",
+    "overview": [
+      "Am 30. Januar 1933 ernannte Reichspräsident Hindenburg Adolf Hitler zum Reichskanzler. Innerhalb weniger Monate beseitigten die Nationalsozialisten mit Notverordnungen, Ermächtigungsgesetz und Terror die Demokratie: Parteien und Gewerkschaften wurden verboten, Gegner in Konzentrationslager gesperrt, Presse und Kultur gleichgeschaltet. Der Staat beruhte auf dem Führerprinzip, einer rassistischen Ideologie und dem Ziel, Lebensraum im Osten zu erobern.",
+      "Die Verfolgung der jüdischen Bevölkerung begann sofort mit Boykotten und Berufsverboten, wurde 1935 mit den Nürnberger Gesetzen zur Staatsdoktrin und eskalierte in den Novemberpogromen von 1938. Außenpolitisch brach Hitler Schritt für Schritt den Versailler Vertrag: Wiederbewaffnung, Besetzung des Rheinlands, Anschluss Österreichs und Zerschlagung der Tschechoslowakei. Die Westmächte gaben nach, um einen Krieg zu vermeiden. Nach dem Pakt mit Stalin überfiel die Wehrmacht am 1. September 1939 Polen; Großbritannien und Frankreich erklärten Deutschland den Krieg.",
+      "Bis 1941 beherrschte Deutschland fast ganz Europa. Der Angriff auf die Sowjetunion im Juni 1941 wurde als Vernichtungskrieg geführt, in dem Millionen Kriegsgefangene und Zivilisten starben. Mit dem japanischen Angriff auf Pearl Harbor traten die USA in den Krieg ein, der nun in Europa, Nordafrika, dem Atlantik und im Pazifik tobte. Stalingrad im Winter 1942/43 und die Landung in der Normandie 1944 leiteten die Wende ein.",
+      "Im Schatten des Krieges verübten die Nationalsozialisten den Holocaust: den systematischen, staatlich organisierten Völkermord an rund sechs Millionen europäischen Juden. Nach Massenerschießungen durch Einsatzgruppen hinter der Ostfront koordinierte die Wannseekonferenz 1942 die Deportation der Juden aus ganz Europa in Vernichtungslager wie Auschwitz-Birkenau, Treblinka und Sobibor, wo sie in Gaskammern ermordet wurden. Ebenso wurden Hunderttausende Sinti und Roma, etwa 300.000 Menschen mit Behinderungen und psychischen Erkrankungen, politische Gegner, Homosexuelle, Zeugen Jehovas und Millionen sowjetische Kriegsgefangene und polnische Zivilisten getötet. Widerstand wie der der Weißen Rose oder der Aufstand im Warschauer Ghetto blieb die Ausnahme und wurde brutal niedergeschlagen.",
+      "Im Frühjahr 1945 rückten die Alliierten von allen Seiten nach Deutschland vor und befreiten die Lager. Hitler nahm sich am 30. April in Berlin das Leben; am 8. Mai kapitulierte die Wehrmacht bedingungslos. Im Pazifik erzwangen die Atombomben auf Hiroshima und Nagasaki im August 1945 die Kapitulation Japans. Der Krieg hatte etwa 60 bis 70 Millionen Menschen das Leben gekostet, die meisten von ihnen Zivilisten."
+    ],
+    "consequences": [
+      "Der Holocaust wurde zum Maßstab für das Verbrechen des Völkermords; die Nürnberger Prozesse begründeten die Strafbarkeit von Verbrechen gegen die Menschlichkeit und den Gedanken einer internationalen Strafgerichtsbarkeit.",
+      "Die Vereinten Nationen und die Allgemeine Erklärung der Menschenrechte von 1948 entstanden als direkte Antwort auf Krieg und Völkermord.",
+      "Deutschland und Europa wurden geteilt, die Sowjetunion und die USA stiegen zu Supermächten auf, und der Kalte Krieg begann.",
+      "Millionen Menschen wurden vertrieben oder flohen; Grenzen in Mittel- und Osteuropa wurden neu gezogen, und die europäischen Kolonialmächte verloren ihre Vormachtstellung.",
+      "Die Erinnerung an die NS-Verbrechen prägt bis heute die politische Kultur Deutschlands und den Auftrag, Demokratie und Menschenwürde zu verteidigen."
+    ],
+    "tags": [
+      "nationalsozialismus",
+      "diktatur",
+      "holocaust",
+      "weltkrieg",
+      "vernichtungskrieg",
+      "widerstand",
+      "kapitulation"
+    ]
+  },
+  {
+    "id": "kalter-krieg-gegenwart",
+    "title": "Kalter Krieg, Dekolonisation und Gegenwart",
+    "order": 14,
+    "start": 1945,
+    "end": 2026,
+    "color": "#2563eb",
+    "regions": [
+      "welt",
+      "europa",
+      "asien",
+      "afrika",
+      "amerika",
+      "naher-osten"
+    ],
+    "summary": "Zwei Supermächte teilen die Welt in Blöcke, die Kolonien werden unabhängig, 1989 fällt die Mauer, und Globalisierung, Terror, Finanzkrisen und Pandemie prägen die Gegenwart.",
+    "overview": [
+      "Nach 1945 standen sich die Siegermächte USA und Sowjetunion bald als Gegner gegenüber. Europa wurde durch den Eisernen Vorhang geteilt, Deutschland in zwei Staaten gespalten, und 1961 zementierte die Berliner Mauer die Trennung. Beide Seiten rüsteten mit Atomwaffen auf und führten Stellvertreterkriege in Korea, Vietnam und Afghanistan. In der Kubakrise 1962 stand die Welt kurz vor einem Atomkrieg. Zugleich trieb der Wettlauf der Systeme Wissenschaft und Technik voran, bis hin zur Mondlandung 1969.",
+      "Parallel dazu zerfielen die europäischen Kolonialreiche. Indien und Pakistan wurden 1947 unabhängig, in den 1950er und 1960er Jahren folgten fast alle Staaten Afrikas und Asiens, teils friedlich, teils nach blutigen Kriegen wie in Algerien oder Vietnam. In China errichtete Mao Zedong 1949 die Volksrepublik, im Nahen Osten entstand 1948 der Staat Israel, was bis heute Konflikte mit den Palästinensern und den arabischen Nachbarn nach sich zieht. Die neuen Staaten der sogenannten Dritten Welt suchten zwischen den Blöcken ihren eigenen Weg.",
+      "In Westeuropa führten Marshallplan und europäische Integration zu Wohlstand und Demokratie, aus der Montanunion wurde die Europäische Union. Die Ölkrise 1973 beendete das lange Wirtschaftswunder und zeigte die Abhängigkeit des Westens von den Rohstoffen anderer Regionen. Im Osten stagnierte die Planwirtschaft; Reformversuche wie der Prager Frühling 1968 wurden niedergeschlagen. Erst Michail Gorbatschow öffnete ab 1985 mit Glasnost und Perestroika den Weg zu Veränderungen.",
+      "1989 fegte eine friedliche Revolution die kommunistischen Regime in Osteuropa hinweg; am 9. November fiel die Berliner Mauer, 1990 wurde Deutschland wiedervereinigt, und 1991 löste sich die Sowjetunion auf. In Südafrika endete 1994 die Apartheid mit der Wahl Nelson Mandelas zum Präsidenten. Viele hofften auf eine friedliche Weltordnung, doch Kriege im ehemaligen Jugoslawien, der Völkermord in Ruanda und die Anschläge vom 11. September 2001 zeigten neue Gefahren.",
+      "Das 21. Jahrhundert ist von Globalisierung und Digitalisierung geprägt: Internet und Smartphone verbinden Milliarden Menschen, China wurde zur zweitgrößten Wirtschaftsmacht, die Weltfinanzkrise 2008 und die COVID-19-Pandemie ab 2020 zeigten, wie eng die Welt verflochten ist. Der Arabische Frühling weckte Hoffnungen auf Demokratie, die vielerorts enttäuscht wurden. Der Klimawandel, Migration, der russische Angriffskrieg gegen die Ukraine seit 2022 und die Rivalität zwischen den USA und China gehören zu den großen Fragen der Gegenwart."
+    ],
+    "consequences": [
+      "Das Ende des Kalten Krieges beendete die Teilung Europas und Deutschlands; die Europäische Union wuchs nach Osten und wurde zu einem Raum ohne Grenzen mit gemeinsamer Währung.",
+      "Die Dekolonisation vervielfachte die Zahl der unabhängigen Staaten; die Vereinten Nationen wuchsen von 51 auf 193 Mitglieder.",
+      "Atomwaffen, Raumfahrt, Computer und Internet, die im Systemwettbewerb entstanden, prägen Sicherheit, Wirtschaft und Alltag bis heute.",
+      "Der Kampf gegen Apartheid und Kolonialismus stärkte weltweit Menschenrechte und Bürgerrechtsbewegungen.",
+      "Globale Krisen wie Finanzkrise, Pandemie und Klimawandel zeigen, dass Probleme der Gegenwart nur durch internationale Zusammenarbeit zu lösen sind."
+    ],
+    "tags": [
+      "kalter krieg",
+      "dekolonisation",
+      "atomwaffen",
+      "berliner mauer",
+      "wiedervereinigung",
+      "globalisierung",
+      "terrorismus",
+      "pandemie"
+    ]
+  }
+]
