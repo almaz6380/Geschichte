@@ -19,6 +19,10 @@ import * as notfound from './views/notfound.js';
 
 
 
+export const IS_NATIVE = !!(window.Capacitor?.isNativePlatform?.() || document.documentElement.dataset.native === '1');
+window.wgIsNative = IS_NATIVE;
+if (IS_NATIVE) document.documentElement.classList.add('native');
+
 const view = document.getElementById('view');
 let cleanup = null;
 
@@ -81,6 +85,7 @@ function setupTheme() {
 function setupInstall() {
   const btn = document.getElementById('install-btn');
   let deferred = null;
+  if (IS_NATIVE) { window.wgInstall = { available: () => false, prompt: async () => {} }; return; }
   window.wgInstall = {
     available: () => !!deferred,
     prompt: async () => {
@@ -102,6 +107,7 @@ function setupInstall() {
 }
 
 function setupServiceWorker() {
+  if (IS_NATIVE) return;
   if (!('serviceWorker' in navigator)) return;
   if (!/^https?:$/.test(location.protocol)) return;
   window.addEventListener('load', async () => {

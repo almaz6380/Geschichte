@@ -1,6 +1,6 @@
 {
   "name": "weltgeschichte",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Geschichts-App (PWA): Weltgeschichte von der Urgeschichte bis zur Gegenwart – Epochen, Zeitleiste, Quiz, Suche, Lesezeichen.",
   "private": true,
   "type": "module",
@@ -10,7 +10,20 @@
     "test": "node --test test/*.test.mjs",
     "smoke": "node scripts/smoke.mjs",
     "icons": "node scripts/make-icons.mjs",
-    "sw": "node scripts/build-sw-manifest.mjs"
+    "build:www": "node scripts/build-www.mjs",
+    "cap:sync": "node scripts/build-www.mjs && cap sync",
+    "ios": "node scripts/build-www.mjs && cap sync ios && cap open ios",
+    "android": "node scripts/build-www.mjs && cap sync android && cap open android",
+    "assets": "capacitor-assets generate --ios --android"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/ios": "^8.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.5.2"
+  }
 }

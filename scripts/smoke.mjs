@@ -20,7 +20,9 @@ function loadPlaywright() {
   return createRequire(path.join(globalRoot, 'x.js'))('playwright');
 }
 
-const server = spawn('python3', ['-m', 'http.server', String(PORT), '--bind', '127.0.0.1'], { cwd: ROOT, stdio: 'ignore' });
+const SERVE_DIR = process.env.SMOKE_DIR ? path.resolve(ROOT, process.env.SMOKE_DIR) : ROOT;
+const OFFLINE = !process.env.SMOKE_DIR; // www/ hat keinen Service Worker (nativer Wrapper)
+const server = spawn('python3', ['-m', 'http.server', String(PORT), '--bind', '127.0.0.1'], { cwd: SERVE_DIR, stdio: 'ignore' });
 await new Promise((r) => setTimeout(r, 800));
 
 const { chromium } = loadPlaywright();
@@ -164,6 +166,7 @@ try {
   await page.goto(BASE + '#/epoche/mittelalter'); await page.waitForSelector('.hero h1');
   await page.screenshot({ path: path.join(OUT, 'epoch-dark.png') });
 
+  if (OFFLINE) {
   console.log('Offline');
   await page.goto(BASE + '#/', { waitUntil: 'networkidle' });
   await page.evaluate(() => navigator.serviceWorker.ready);
@@ -173,6 +176,7 @@ try {
   await page.waitForSelector('.hero h1', { timeout: 10000 }).catch(() => {});
   check(!!(await page.$('.hero h1')), 'App lädt offline (Service Worker)');
   await context.setOffline(false);
+  }
 
   console.log('Desktop');
   const desk = await browser.newPage({ viewport: { width: 1280, height: 800 } });

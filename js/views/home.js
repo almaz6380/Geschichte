@@ -14,7 +14,7 @@ export function render(el, params, ctx) {
 
   const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
   const standalone = window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
-  const showIosHint = isIOS && !standalone && !isInstallHintDismissed();
+  const showIosHint = !window.wgIsNative && isIOS && !standalone && !isInstallHintDismissed();
   const showAndroidHint = !standalone && !isInstallHintDismissed() && window.wgInstall?.available();
 
   el.innerHTML = `

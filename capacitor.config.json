@@ -1,0 +1,27 @@
+{
+  "appId": "de.almaz.weltgeschichte",
+  "appName": "Weltgeschichte",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "automatic",
+    "backgroundColor": "#f8f7f4",
+    "scheme": "Weltgeschichte"
+  },
+  "android": {
+    "backgroundColor": "#f8f7f4",
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "launchShowDuration": 800,
+      "backgroundColor": "#b45309",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": false
+    }
+  }
+}

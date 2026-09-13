@@ -58,6 +58,21 @@ npm test             # Node-Tests für Daten, Suche und Quiz-Logik
 
 Inhalte lassen sich auch als einzelne Epochen-Dateien (`<slug>.json` plus Ergänzung `<slug>.add.json`, jeweils `{ epoch, events, persons, quiz, glossary }`) pflegen und mit `node scripts/merge-content.mjs <ordner>` zu den Dateien in `data/` zusammenführen.
 
+## Native Apps für iOS und Android (App Store, Google Play)
+
+Die Web-App ist mit **Capacitor** als native App verpackt; die Projekte liegen in `ios/` und `android/`. Alle Inhalte sind in der App enthalten, sie braucht keinen Server.
+
+```bash
+npm install
+npm run cap:sync      # Web-App nach www/ kopieren und in beide Projekte einspielen
+npm run ios           # öffnet Xcode (Mac)
+npm run android       # öffnet Android Studio
+```
+
+Bundle-ID `de.almaz.weltgeschichte`, Version in `package.json`, `js/version.js`, Xcode (`MARKETING_VERSION`) und `android/app/build.gradle`. Icons und Startbildschirme werden aus `assets/` mit `npm run assets` erzeugt (Vorlagen mit `node scripts/make-store-assets.mjs`).
+
+Die vollständige Schritt-für-Schritt-Anleitung für die Einreichung steht in **[docs/APP-STORES.md](docs/APP-STORES.md)**, die Store-Texte in [docs/store-texte.md](docs/store-texte.md). Die Datenschutzerklärung liegt unter `datenschutz.html`.
+
 ## Browser-Test
 
 ```bash
