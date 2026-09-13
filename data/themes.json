@@ -1,1 +1,503 @@
-[]
+[
+  {
+    "id": "religionen",
+    "title": "Religionen und Weltanschauungen",
+    "subtitle": "Vom Tempel auf dem Hügel bis zum Glaubensstaat",
+    "summary": "Wie Glaubensvorstellungen Gemeinschaften stifteten, Reiche legitimierten und Kriege auslösten: der Weg der Religionen von den ersten Heiligtümern bis in die Gegenwart.",
+    "intro": [
+      "Lange bevor es Städte und Schrift gab, errichteten Jäger und Sammler in Göbekli Tepe monumentale Steinkreise, die wahrscheinlich Kultzwecken dienten. In den frühen Hochkulturen Ägyptens und Mesopotamiens war Religion untrennbar mit der Herrschaft verbunden: Der Pharao galt als Vermittler zwischen Göttern und Menschen, und Echnatons Versuch, den Sonnengott Aton allein zu verehren, scheiterte nach seinem Tod. Im ersten Jahrtausend vor Christus entstanden fast gleichzeitig in Indien, China und Griechenland neue Lehren, die den Menschen und sein Handeln in den Mittelpunkt stellten: Buddha, Konfuzius und Laozi fanden Anhänger, während die Griechen ihre Götter in Delphi befragten. Der Maurya-Herrscher Ashoka machte den Buddhismus zur Staatsangelegenheit und schickte Missionare bis nach Sri Lanka.",
+      "Im Römischen Reich wandelte sich das Christentum innerhalb von drei Jahrhunderten von einer verfolgten Sekte zur Staatsreligion. Konstantin gewährte 313 Religionsfreiheit und ließ auf dem Konzil von Nicäa die Glaubensgrundlagen festlegen. Nach dem Ende Westroms trugen Klöster wie Montecassino und bekehrte Könige wie Chlodwig den Glauben zu den germanischen Völkern. Im 7. Jahrhundert entstand auf der Arabischen Halbinsel der Islam, der sich mit den Eroberungen der Kalifen binnen weniger Jahrzehnte von Spanien bis Persien ausbreitete und sich früh in Sunniten und Schiiten spaltete. Der mittelalterliche Streit zwischen Papst und Kaiser um die Einsetzung der Bischöfe und die Kreuzzüge zeigen, wie eng Religion und Macht verflochten blieben.",
+      "Mit Luthers 95 Thesen zerbrach 1517 die Einheit der westlichen Kirche. Reformation und Gegenreformation führten zu Religionskriegen, die erst mit dem Augsburger Religionsfrieden und dem Westfälischen Frieden eingehegt wurden; Glaubensflüchtlinge wie die Hugenotten verließen ihre Heimat. Die Aufklärung forderte Toleranz und die Trennung von Kirche und Staat, und im 19. und 20. Jahrhundert verloren die Kirchen in vielen Ländern Europas an Einfluss. Zugleich blieb Religion eine politische Kraft: Die Iranische Revolution von 1979 errichtete einen Gottesstaat, und religiöse Zugehörigkeit prägt bis heute Konflikte und Identitäten weltweit."
+    ],
+    "color": "#7c3aed",
+    "eventIds": [
+      "goebekli-tepe",
+      "echnatons-religionsreform",
+      "orakel-von-delphi",
+      "buddha-lehrt-in-nordindien",
+      "konfuzius-und-seine-lehre",
+      "ashoka-verbreitet-den-buddhismus",
+      "mailaender-vereinbarung",
+      "konzil-von-nicaea",
+      "taufe-chlodwigs",
+      "benedikt-gruendet-montecassino",
+      "erste-offenbarung-mohammeds",
+      "schlacht-von-kerbela",
+      "gang-nach-canossa",
+      "erster-kreuzzug",
+      "luthers-95-thesen",
+      "konzil-von-trient",
+      "augsburger-religionsfrieden",
+      "edikt-von-fontainebleau",
+      "iranische-revolution-1979"
+    ],
+    "personIds": [
+      "echnaton",
+      "siddhartha-gautama",
+      "konfuzius",
+      "konstantin-der-grosse",
+      "mohammed",
+      "hildegard-von-bingen",
+      "thomas-von-aquin",
+      "rumi",
+      "martin-luther",
+      "ignatius-von-loyola"
+    ],
+    "termIds": [
+      "dharma",
+      "daoismus",
+      "koran",
+      "sunniten-und-schiiten",
+      "moenchtum",
+      "kreuzzug",
+      "reformation",
+      "gegenreformation"
+    ],
+    "tags": [
+      "religion",
+      "kirche",
+      "islam",
+      "buddhismus",
+      "reformation",
+      "glaube"
+    ]
+  },
+  {
+    "id": "wissenschaft-technik",
+    "title": "Wissenschaft und Technik",
+    "subtitle": "Vom Faustkeil zum World Wide Web",
+    "summary": "Werkzeuge, Erfindungen und Entdeckungen haben das Leben der Menschen immer wieder von Grund auf verändert. Der rote Faden führt vom ersten Steinwerkzeug bis ins digitale Zeitalter.",
+    "intro": [
+      "Die ältesten Steinwerkzeuge des Oldowan sind rund 2,6 Millionen Jahre alt und markieren den Beginn der Technikgeschichte. Feuer, Töpferei, Rad und Metallverarbeitung folgten in großen Abständen, doch mit der Jungsteinzeit beschleunigte sich die Entwicklung. Die Keilschrift Mesopotamiens machte Wissen speicherbar, und die Eisenverarbeitung veränderte Landwirtschaft und Kriegführung. In Griechenland begannen Denker wie Hippokrates und Archimedes, Natur und Körper systematisch zu beobachten und mathematisch zu beschreiben, statt sie allein durch Götter zu erklären.",
+      "China war über Jahrhunderte das technisch fortschrittlichste Land der Welt: Papier, Holztafeldruck, Schießpulver, Kompass und Papiergeld entstanden dort lange vor ihrer Verbreitung in Europa. In Bagdad übersetzten Gelehrte des Hauses der Weisheit griechische, persische und indische Schriften, und al-Chwarizmi begründete die Algebra. Über Al-Andalus gelangte dieses Wissen ins mittelalterliche Europa. Gutenbergs Buchdruck mit beweglichen Lettern machte um 1450 Bücher erschwinglich und schuf die Voraussetzung dafür, dass neue Ideen sich rasch verbreiten konnten.",
+      "Mit Kopernikus, Galilei und Newton entstand zwischen 1543 und 1687 ein neues Weltbild, das auf Beobachtung, Experiment und Mathematik beruhte und sich gegen kirchlichen Widerstand durchsetzte. Die Dampfmaschine, die Eisenbahn und das Fabriksystem lösten im 18. und 19. Jahrhundert die Industrielle Revolution aus, Darwin erklärte die Entstehung der Arten, und Automobil und Flugzeug schrumpften die Entfernungen. Im 20. Jahrhundert eroberte der Mensch mit Sputnik und der Mondlandung den Weltraum, während Kernphysik und Computer die Welt ebenso veränderten wie bedrohten. Seit 1991 verbindet das World Wide Web Milliarden Menschen und macht Wissen so leicht zugänglich wie nie zuvor."
+    ],
+    "color": "#0ea5e9",
+    "eventIds": [
+      "oldowan-steinwerkzeuge",
+      "erfindung-des-rades",
+      "sumerische-keilschrift",
+      "beginn-der-eisenzeit",
+      "hippokrates-und-die-medizin",
+      "archimedes-und-die-belagerung-von-syrakus",
+      "erfindung-des-papiers",
+      "al-chwarizmi-begruendet-die-algebra",
+      "song-dynastie-erfindungen",
+      "gutenbergs-buchdruck",
+      "kopernikus-heliozentrisches-weltbild",
+      "galileis-prozess",
+      "newtons-principia",
+      "watts-dampfmaschine",
+      "eisenbahn-stockton-darlington",
+      "darwin-entstehung-der-arten",
+      "erster-motorflug-wright",
+      "sputnik-1957",
+      "mondlandung-1969",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "archimedes",
+      "euklid",
+      "al-chwarizmi",
+      "ibn-sina",
+      "leonardo-da-vinci",
+      "galileo-galilei",
+      "isaac-newton",
+      "james-watt",
+      "marie-curie",
+      "albert-einstein"
+    ],
+    "termIds": [
+      "faustkeil",
+      "keilschrift",
+      "holztafeldruck",
+      "industrielle-revolution",
+      "fabriksystem",
+      "evolutionstheorie"
+    ],
+    "tags": [
+      "erfindungen",
+      "naturwissenschaft",
+      "technik",
+      "medizin",
+      "industrialisierung",
+      "raumfahrt"
+    ]
+  },
+  {
+    "id": "krieg-frieden",
+    "title": "Krieg und Frieden",
+    "subtitle": "Schlachten, Friedensschlüsse und die Suche nach Ordnung",
+    "summary": "Kriege haben Reiche geschaffen und zerstört; ebenso alt ist der Versuch, sie durch Verträge, Regeln und Bündnisse zu bändigen. Eine Geschichte der Gewalt und ihrer Begrenzung.",
+    "intro": [
+      "Der älteste erhaltene Friedensvertrag der Welt wurde nach der Schlacht bei Kadesch zwischen Ägyptern und Hethitern geschlossen. Die griechischen Stadtstaaten wehrten die Perser bei Marathon und Salamis ab, rieben sich aber im Peloponnesischen Krieg gegenseitig auf. In China formulierte Sunzi in der Zeit der Streitenden Reiche Grundsätze der Kriegskunst, die bis heute gelesen werden. Rom baute mit seinen Legionen in den Punischen Kriegen ein Weltreich auf, stieß in der Varusschlacht jedoch an seine Grenzen und sicherte sie mit Limes und Hadrianswall.",
+      "Im Mittelalter prägten Ritterheere, Burgen und Belagerungen die Kriegführung. Die Kreuzzüge verbanden religiösen Eifer mit Eroberung, der Hundertjährige Krieg zog sich über Generationen hin. Der Dreißigjährige Krieg verwüstete weite Teile Mitteleuropas und endete 1648 mit dem Westfälischen Frieden, der die Souveränität der Staaten zur Grundlage der europäischen Ordnung machte. Nach den napoleonischen Kriegen versuchte der Wiener Kongress, durch ein Gleichgewicht der Großmächte einen dauerhaften Frieden zu sichern, und im 19. Jahrhundert entstand mit dem Roten Kreuz und den Genfer Konventionen ein humanitäres Völkerrecht.",
+      "Der Erste Weltkrieg zeigte mit Stellungskrieg, Giftgas und Millionen Toten die Zerstörungskraft der Industrie. Der Versailler Vertrag und der Völkerbund sollten neue Kriege verhindern, scheiterten aber. Der Zweite Weltkrieg wurde zum Vernichtungskrieg und endete mit den Atombomben auf Hiroshima und Nagasaki. Die Vereinten Nationen und das Prinzip der kollektiven Sicherheit entstanden aus dieser Erfahrung, doch der Kalte Krieg brachte Stellvertreterkriege und in der Kubakrise die Welt an den Rand eines Atomkriegs. Der russische Angriff auf die Ukraine 2022 zeigt, dass zwischenstaatliche Kriege auch im 21. Jahrhundert nicht Vergangenheit sind."
+    ],
+    "color": "#dc2626",
+    "eventIds": [
+      "schlacht-bei-kadesch",
+      "schlacht-von-marathon",
+      "zeit-der-streitenden-reiche",
+      "peloponnesischer-krieg",
+      "punische-kriege",
+      "varusschlacht",
+      "schlacht-bei-tours-und-poitiers",
+      "erster-kreuzzug",
+      "hundertjaehriger-krieg",
+      "dreissigjaehriger-krieg",
+      "westfaelischer-frieden",
+      "wiener-kongress",
+      "gruendung-rotes-kreuz",
+      "schlacht-um-verdun",
+      "versailler-vertrag",
+      "schlacht-von-stalingrad",
+      "atombomben-hiroshima-nagasaki",
+      "gruendung-vereinte-nationen",
+      "kubakrise",
+      "russischer-angriff-ukraine-2022"
+    ],
+    "personIds": [
+      "sunzi",
+      "hannibal",
+      "alexander-der-grosse",
+      "saladin",
+      "napoleon-bonaparte",
+      "henry-dunant",
+      "bertha-von-suttner",
+      "winston-churchill",
+      "erwin-rommel",
+      "john-f-kennedy"
+    ],
+    "termIds": [
+      "hoplit",
+      "legion",
+      "kreuzzug",
+      "stellungskrieg",
+      "totaler-krieg",
+      "vernichtungskrieg",
+      "stellvertreterkrieg",
+      "kalter-krieg"
+    ],
+    "tags": [
+      "krieg",
+      "frieden",
+      "schlachten",
+      "völkerrecht",
+      "diplomatie",
+      "militär"
+    ]
+  },
+  {
+    "id": "handel-globalisierung",
+    "title": "Handel, Wirtschaft und Globalisierung",
+    "subtitle": "Wie Waren, Geld und Ideen die Welt verbanden",
+    "summary": "Von den ersten Bauern über Seidenstraße und Hanse bis zu Weltmärkten und Finanzkrisen: Wirtschaft und Handel haben Kulturen verknüpft, Reichtum geschaffen und Ungleichheit hervorgebracht.",
+    "intro": [
+      "Mit der Neolithischen Revolution begannen Menschen, Getreide anzubauen und Tiere zu halten; Bewässerung in Mesopotamien ermöglichte Überschüsse, aus denen Städte, Arbeitsteilung und Handel entstanden. Die Phönizier bauten ein Handelsnetz über das gesamte Mittelmeer und gaben ihr Alphabet weiter, die Griechen gründeten Kolonien von Spanien bis zum Schwarzen Meer. Unter der Han-Dynastie entstand die Seidenstraße, auf der Seide, Gewürze, Glas und Ideen zwischen China, Indien, Persien und Rom ausgetauscht wurden. Münzgeld, Schrift und Rechtsordnungen machten den Fernhandel verlässlicher.",
+      "Im Mittelalter waren Bagdad, Kairo und Córdoba Drehscheiben eines Handelsraums, der von Westafrika bis China reichte; Timbuktu wurde durch Gold und Salz reich, und Mansa Musas Pilgerreise machte diesen Reichtum in der ganzen islamischen Welt bekannt. Marco Polo und Ibn Battuta berichteten von den Märkten Asiens, in Nordeuropa organisierte die Hanse den Handel zwischen Ostsee und Nordsee. Nach 1492 verbanden Kolumbus und Vasco da Gama die Kontinente über die Ozeane. Der Kolumbianische Austausch brachte Kartoffeln und Mais nach Europa, Pferde und Krankheiten nach Amerika, und der transatlantische Sklavenhandel verschleppte Millionen Afrikaner auf die Plantagen der Neuen Welt.",
+      "Die Industrielle Revolution machte Großbritannien zur Werkstatt der Welt; Fabriken, Eisenbahnen und der Suezkanal beschleunigten den Warenverkehr, und die Opiumkriege zwangen China zur Öffnung. Japan reagierte mit der Meiji-Restauration auf den Druck des Westens und industrialisierte sich selbst. Die Weltwirtschaftskrise von 1929 zeigte, wie eng die Volkswirtschaften bereits verflochten waren. Nach 1945 wuchsen Welthandel und Wohlstand rasant, die Ölkrise 1973, die Einführung des Euro und die Finanzkrise 2008 machten Abhängigkeiten sichtbar. Die Globalisierung des 21. Jahrhunderts verbindet Lieferketten, Kapitalmärkte und digitale Netze über alle Grenzen hinweg."
+    ],
+    "color": "#d97706",
+    "eventIds": [
+      "neolithische-revolution",
+      "bewaesserungslandwirtschaft-mesopotamien",
+      "phoenizier-und-alphabet",
+      "griechische-kolonisation",
+      "han-dynastie-und-seidenstrasse",
+      "gruendung-bagdads",
+      "marco-polos-reise-nach-china",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum",
+      "erster-hansetag",
+      "vasco-da-gama-erreicht-indien",
+      "beginn-transatlantischer-sklavenhandel",
+      "abschliessung-japans",
+      "mechanischer-webstuhl-fabriksystem",
+      "erster-opiumkrieg",
+      "eroeffnung-suezkanal",
+      "weltwirtschaftskrise-1929",
+      "oelkrise-1973",
+      "einfuehrung-euro-bargeld",
+      "weltfinanzkrise-2008"
+    ],
+    "personIds": [
+      "mansa-musa",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "james-watt",
+      "karl-marx",
+      "kaiser-meiji",
+      "cecil-rhodes",
+      "deng-xiaoping",
+      "tim-berners-lee"
+    ],
+    "termIds": [
+      "seidenstrasse",
+      "hanse",
+      "merkantilismus",
+      "kolumbianischer-austausch",
+      "industrielle-revolution",
+      "imperialismus",
+      "hyperinflation",
+      "globalisierung"
+    ],
+    "tags": [
+      "handel",
+      "wirtschaft",
+      "globalisierung",
+      "seidenstraße",
+      "kolonialismus",
+      "geld"
+    ]
+  },
+  {
+    "id": "herrschaft-demokratie",
+    "title": "Herrschaft, Recht und Demokratie",
+    "subtitle": "Wer regiert, und wer darf mitbestimmen?",
+    "summary": "Von Gottkönigen und Gesetzesstelen über die Demokratie Athens bis zu Verfassungen und Menschenrechten: die lange Auseinandersetzung darüber, wie Macht begründet und begrenzt wird.",
+    "intro": [
+      "In den frühen Hochkulturen galt Herrschaft als göttlich gewollt, doch schon der Codex Hammurapi zeigte, dass ein König sich an geschriebene Gesetze binden konnte. In Athen schufen Solon und Kleisthenes Reformen, die erstmals freie Bürger an Entscheidungen beteiligten; die attische Demokratie blieb jedoch auf Männer beschränkt und schloss Frauen, Fremde und Sklaven aus. Rom vertrieb seine Könige, gab sich das Zwölftafelgesetz und entwickelte eine Republik aus Konsuln, Senat und Volksversammlungen. In China einte der Erste Kaiser Qin Shihuangdi das Land mit einer straffen Verwaltung, und das Mandat des Himmels rechtfertigte fortan die Herrschaft der Dynastien.",
+      "Mit dem Prinzipat des Augustus wurde Rom faktisch zur Monarchie, und mit der Kaiserkrönung Karls des Großen knüpfte das Mittelalter an diese Idee an. Zugleich mussten Könige ihre Macht mit Adel, Kirche und Städten teilen: Die Magna Carta von 1215 band den englischen König an das Recht, Landstände und Parlamente bewilligten Steuern. Im Absolutismus des 17. Jahrhunderts beanspruchten Herrscher wie Ludwig XIV. die ganze Staatsgewalt für sich, während England in der Glorious Revolution den Vorrang des Parlaments durchsetzte. Locke und Montesquieu begründeten die Ideen des Gesellschaftsvertrags und der Gewaltenteilung.",
+      "Die Amerikanische und die Französische Revolution machten daraus Verfassungen und Erklärungen der Menschenrechte, und der Code civil trug die Rechtsgleichheit durch Europa. Im 19. Jahrhundert kämpften Liberale und Demokraten in der Revolution von 1848 um Verfassungen und Nationalstaaten, Neuseeland führte 1893 als erstes Land das Frauenwahlrecht ein. Die Weimarer Verfassung war eine der modernsten ihrer Zeit, zeigte mit dem Ermächtigungsgesetz aber auch, wie eine Demokratie legal zerstört werden kann. Nach 1945 verbreiteten sich Menschenrechte und Demokratie weltweit, und das Ende der Apartheid 1994 machte Südafrika zum Symbol für den friedlichen Übergang zur Gleichberechtigung."
+    ],
+    "color": "#2563eb",
+    "eventIds": [
+      "codex-hammurapi",
+      "reformen-solons",
+      "beginn-der-roemischen-republik",
+      "reformen-des-kleisthenes",
+      "zwoelftafelgesetz",
+      "qin-shihuangdi-einigt-china",
+      "augustus-begruendet-den-prinzipat",
+      "kaiserkroenung-karls-des-grossen",
+      "magna-carta",
+      "hof-nach-versailles",
+      "glorious-revolution",
+      "montesquieu-geist-der-gesetze",
+      "verfassung-der-usa",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "code-civil",
+      "maerzrevolution-1848",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "ende-der-apartheid"
+    ],
+    "personIds": [
+      "hammurapi",
+      "perikles",
+      "cicero",
+      "augustus",
+      "karl-der-grosse",
+      "john-locke",
+      "thomas-jefferson",
+      "olympe-de-gouges",
+      "friedrich-ebert",
+      "nelson-mandela"
+    ],
+    "termIds": [
+      "polis",
+      "ostrakismos",
+      "senat",
+      "prinzipat",
+      "mandat-des-himmels",
+      "absolutismus",
+      "gewaltenteilung",
+      "volkssouveraenitaet"
+    ],
+    "tags": [
+      "demokratie",
+      "verfassung",
+      "recht",
+      "monarchie",
+      "menschenrechte",
+      "parlament"
+    ]
+  },
+  {
+    "id": "frauen",
+    "title": "Frauen in der Geschichte",
+    "subtitle": "Herrscherinnen, Denkerinnen und der Kampf um Gleichberechtigung",
+    "summary": "Frauen haben regiert, geschrieben, geforscht und Widerstand geleistet, doch lange blieben sie von Macht und Bildung ausgeschlossen. Ihr Weg von den frühen Hochkulturen bis zum Wahlrecht und zur Bürgerrechtsbewegung.",
+    "intro": [
+      "In der Großsiedlung Çatalhöyük fanden Archäologen zahlreiche weibliche Figurinen, deren Bedeutung bis heute diskutiert wird. Aus dem Reich Sargons von Akkad stammt mit der Priesterin Enheduanna die erste namentlich bekannte Autorin der Weltgeschichte, und die Shang-Fürstin Fu Hao führte Heere ins Feld. In Ägypten regierte Hatschepsut als Pharao, in Athen dagegen waren Frauen von der Demokratie ausgeschlossen, und selbst die gebildete Aspasia wurde für ihren Einfluss auf Perikles angefeindet. Kleopatra VII. behauptete sich als letzte Herrscherin Ägyptens zwischen den römischen Machthabern, bevor ihr Tod das Ende des Hellenismus besiegelte.",
+      "Im Mittelalter erlangten einzelne Frauen große Macht: Theodora regierte an der Seite Justinians, Wu Zetian war die einzige Frau, die als Kaiserin über China herrschte, und Murasaki Shikibu schrieb mit dem Genji-Monogatari einen der ersten Romane der Welt. Klöster boten Frauen wie Hildegard von Bingen Zugang zu Bildung und Einfluss, während Jeanne d'Arc im Hundertjährigen Krieg zur Heldin wurde und als Ketzerin verbrannt wurde. Isabella von Kastilien und Elisabeth I. zeigten, dass Königinnen erfolgreich regieren konnten. Zugleich fielen im 16. und 17. Jahrhundert Zehntausende Menschen, überwiegend Frauen, den Hexenverfolgungen zum Opfer.",
+      "Die Aufklärung versprach gleiche Rechte, meinte damit aber meist nur Männer. Beim Marsch der Frauen nach Versailles 1789 griffen Pariserinnen aktiv in die Revolution ein, und Olympe de Gouges forderte in ihrer Erklärung der Rechte der Frau die volle Gleichberechtigung; sie wurde 1793 hingerichtet. Im 19. Jahrhundert entstand eine organisierte Frauenbewegung, die für Bildung, Berufstätigkeit und Wahlrecht kämpfte; Neuseeland führte 1893 als erstes Land das Frauenwahlrecht ein, Deutschland folgte 1918. Marie Juchacz sprach 1919 als erste Frau in einem deutschen Parlament, Marie Curie erhielt zwei Nobelpreise. Rosa Parks löste 1955 den Busboykott von Montgomery aus und machte den Kampf um Bürgerrechte auch zu einer Geschichte weiblichen Widerstands."
+    ],
+    "color": "#db2777",
+    "eventIds": [
+      "catalhoeyuek",
+      "sargon-gruendet-akkadisches-reich",
+      "shang-dynastie-orakelknochen",
+      "bau-des-parthenon",
+      "tod-kleopatras",
+      "justinian-und-hagia-sophia",
+      "wu-zetian-wird-kaiserin",
+      "genji-monogatari",
+      "hundertjaehriger-krieg",
+      "fall-granadas",
+      "spanische-armada",
+      "hoehepunkt-der-hexenverfolgung",
+      "oesterreichischer-erbfolgekrieg",
+      "frauenmarsch-nach-versailles",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "montgomery-busboykott"
+    ],
+    "personIds": [
+      "hatschepsut",
+      "enheduanna",
+      "kleopatra-vii",
+      "theodora",
+      "wu-zetian",
+      "hildegard-von-bingen",
+      "jeanne-darc",
+      "olympe-de-gouges",
+      "emmeline-pankhurst",
+      "rosa-parks"
+    ],
+    "termIds": [
+      "staendegesellschaft",
+      "moenchtum",
+      "aufklaerung",
+      "dritter-stand",
+      "weimarer-republik",
+      "buergerrechtsbewegung"
+    ],
+    "tags": [
+      "frauen",
+      "gleichberechtigung",
+      "wahlrecht",
+      "herrscherinnen",
+      "frauenbewegung"
+    ]
+  },
+  {
+    "id": "migration-begegnung",
+    "title": "Migration und Begegnung der Kulturen",
+    "subtitle": "Wanderungen, Eroberungen und Austausch zwischen den Völkern",
+    "summary": "Menschen waren immer in Bewegung: aus Afrika in alle Welt, als Händler, Eroberer, Flüchtlinge und Siedler. Begegnungen brachten Austausch und Bereicherung, aber auch Gewalt und Verdrängung.",
+    "intro": [
+      "Die Geschichte der Menschheit beginnt mit einer Wanderung: Homo erectus verließ vor fast zwei Millionen Jahren Afrika, und der moderne Mensch folgte vor rund 70.000 Jahren und besiedelte Australien, Asien, Europa und schließlich Amerika. Die Lapita-Kultur erreichte mit ihren Booten die Inseln des Pazifiks. Am Ende der Bronzezeit brachten die Seevölker das östliche Mittelmeer in Aufruhr, während griechische Kolonisten später Städte von Marseille bis zur Krim gründeten. Alexanders Feldzug trug griechische Sprache und Kunst bis nach Indien und schuf im Hellenismus eine Mischkultur, in der Buddhismus und griechische Bildhauerei aufeinandertrafen.",
+      "Über die Seidenstraße gelangte der Buddhismus nach China, und Mönche wie Xuanzang reisten nach Indien, um heilige Schriften zu holen. Die Völkerwanderung brachte Goten, Vandalen und Hunnen ins Römische Reich, die Wikinger fuhren bis Nordamerika und ins Kaspische Meer. In Al-Andalus lebten Muslime, Juden und Christen über Jahrhunderte zusammen, und Gelehrte wie Ibn Ruschd vermittelten die Philosophie des Aristoteles an das lateinische Europa. Die Mongolen unter Dschingis Khan schufen das größte zusammenhängende Landreich der Geschichte, über dessen Wege Reisende wie Marco Polo und Ibn Battuta Ost und West verbanden.",
+      "Die Ankunft des Kolumbus 1492 leitete eine Begegnung ein, die für die Ureinwohner Amerikas in Eroberung, Seuchen und Zusammenbruch mündete, während Millionen Afrikaner als Sklaven über den Atlantik verschleppt wurden. Glaubensflüchtlinge wie die Hugenotten, Hungernde wie die Iren nach 1845 und Millionen Auswanderer suchten in der Neuen Welt ein besseres Leben. Die Teilung Indiens 1947 löste eine der größten Fluchtbewegungen des 20. Jahrhunderts aus, und Kriege, Dekolonisation und Arbeitsmigration prägten die Wanderungen seither. Migration bleibt bis heute eine der großen Fragen der Weltpolitik, und die Begegnung der Kulturen ist zugleich Quelle von Konflikten und von Erneuerung."
+    ],
+    "color": "#059669",
+    "eventIds": [
+      "homo-erectus-verlaesst-afrika",
+      "auszug-aus-afrika",
+      "besiedlung-amerikas",
+      "lapita-besiedlung-pazifik",
+      "ende-der-bronzezeit-seevoelker",
+      "griechische-kolonisation",
+      "alexanders-feldzug-nach-asien",
+      "buddhismus-erreicht-china",
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ueberfall-auf-lindisfarne",
+      "kalifat-von-cordoba",
+      "ibn-ruschd-erklaert-aristoteles",
+      "dschingis-khan-einigt-die-mongolen",
+      "reisen-des-ibn-battuta",
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel",
+      "edikt-von-fontainebleau",
+      "irische-hungersnot",
+      "unabhaengigkeit-indien-pakistan"
+    ],
+    "personIds": [
+      "homo-erectus",
+      "alexander-der-grosse",
+      "xuanzang",
+      "ibn-ruschd",
+      "dschingis-khan",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "akbar"
+    ],
+    "termIds": [
+      "hominini",
+      "hellenismus",
+      "seidenstrasse",
+      "voelkerwanderung",
+      "al-andalus",
+      "kolumbianischer-austausch",
+      "hugenotten",
+      "dekolonisation"
+    ],
+    "tags": [
+      "migration",
+      "wanderung",
+      "kulturaustausch",
+      "flucht",
+      "kolonisation",
+      "begegnung"
+    ]
+  },
+  {
+    "id": "kunst-schrift-bildung",
+    "title": "Kunst, Schrift und Bildung",
+    "subtitle": "Wie Menschen Wissen bewahrten und Schönheit schufen",
+    "summary": "Von den Höhlenbildern der Eiszeit über Keilschrift, Bibliotheken und Universitäten bis zu Buchdruck und Internet: die Geschichte, wie Menschen sich ausdrückten und Wissen weitergaben.",
+    "intro": [
+      "Schon vor 75.000 Jahren ritzten Menschen in der Blombos-Höhle Muster in Ocker und fertigten Schmuck; die Höhlenmalereien von Lascaux zeigen, welche Meisterschaft die Künstler der Eiszeit erreichten. Mit der Keilschrift Sumers und den Hieroglyphen Ägyptens begann vor rund 5.000 Jahren die Schriftgeschichte, zunächst für Verwaltung und Handel, bald auch für Literatur wie das Gilgamesch-Epos. Das Alphabet der Phönizier vereinfachte das Schreiben so sehr, dass es von Griechen und Römern übernommen wurde und bis heute unsere Buchstaben prägt. Homers Epen und die Tragödien Athens wurden zu Grundtexten der europäischen Bildung, und die Bibliothek von Alexandria versuchte, das gesamte Wissen der Welt zu sammeln.",
+      "China erfand das Papier und den Holztafeldruck; das Diamant-Sutra von 868 ist das älteste datierte gedruckte Buch. Im Haus der Weisheit in Bagdad und in den Madrasas von Kairo bis Timbuktu bewahrten und erweiterten Gelehrte das Erbe der Antike. In Europa entstanden mit Bologna und Paris die ersten Universitäten, die Scholastik verband Glauben und Vernunft, und die Gotik ließ Kathedralen aus Licht und Stein entstehen. Die Renaissance entdeckte die Antike neu: Brunelleschi, Leonardo und Michelangelo schufen Werke, die Kunst und Wissenschaft verbanden, und Gutenbergs Buchdruck machte Bücher zum Massengut.",
+      "Die Encyclopédie der Aufklärung wollte das Wissen der Zeit allen zugänglich machen, und im 19. Jahrhundert wurde die Schulpflicht in vielen Ländern durchgesetzt. Das Bauhaus verband nach 1919 Kunst, Handwerk und Technik zu einer neuen Formensprache, die weltweit wirkte. Wie gefährlich freie Kunst und Wissenschaft den Diktaturen erschienen, zeigten die Bücherverbrennungen von 1933. Mit dem World Wide Web steht heute mehr Wissen zur Verfügung als je zuvor, zugleich stellt sich neu die Frage, wie Bildung, Wahrheit und Kunst in der digitalen Welt bewahrt werden."
+    ],
+    "color": "#b45309",
+    "eventIds": [
+      "blombos-hoehle-kunst-und-schmuck",
+      "hoehlenmalerei-lascaux",
+      "sumerische-keilschrift",
+      "gilgamesch-epos",
+      "phoenizier-und-alphabet",
+      "homer-und-die-epen",
+      "bibliothek-von-alexandria",
+      "erfindung-des-papiers",
+      "haus-der-weisheit",
+      "diamant-sutra-holztafeldruck",
+      "gruendung-der-universitaet-bologna",
+      "beginn-der-gotik",
+      "timbuktu-gelehrtenzentrum",
+      "brunelleschis-kuppel",
+      "gutenbergs-buchdruck",
+      "michelangelos-david",
+      "erste-baende-der-encyclopedie",
+      "gruendung-des-bauhauses",
+      "buecherverbrennung-1933",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "enheduanna",
+      "sappho",
+      "platon",
+      "sima-qian",
+      "murasaki-shikibu",
+      "johannes-gutenberg",
+      "leonardo-da-vinci",
+      "michelangelo",
+      "erasmus-von-rotterdam",
+      "kaethe-kollwitz"
+    ],
+    "termIds": [
+      "keilschrift",
+      "hieroglyphen",
+      "alphabet",
+      "tragoedie",
+      "holztafeldruck",
+      "scholastik",
+      "gotik",
+      "humanismus"
+    ],
+    "tags": [
+      "kunst",
+      "schrift",
+      "bildung",
+      "literatur",
+      "buchdruck",
+      "universität"
+    ]
+  }
+]
