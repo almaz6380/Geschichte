@@ -574,6 +574,90 @@
     "difficulty": 3
   },
   {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-06",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Wogegen richtete sich Gandhis Salzmarsch im Jahr 1930?",
+    "choices": [
+      "Gegen die Teilung Indiens",
+      "Gegen die Wehrpflicht",
+      "Gegen den Import britischer Stoffe",
+      "Gegen das britische Salzmonopol und die Salzsteuer"
+    ],
+    "answer": 3,
+    "explanation": "Gandhi marschierte 385 Kilometer zum Meer und gewann dort demonstrativ Salz, was nach britischem Recht verboten war.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-07",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Durch welche Leistung wurde Mustafa Kemal 1915 bekannt?",
+    "choices": [
+      "Die Verteidigung von Gallipoli gegen die Alliierten",
+      "Die Eroberung Bagdads",
+      "Den Sieg bei Tannenberg",
+      "Die Einnahme von Jerusalem"
+    ],
+    "answer": 0,
+    "explanation": "Als Oberst hielt Mustafa Kemal mit seinen Truppen die Höhen der Halbinsel Gallipoli; die Alliierten mussten im Januar 1916 abziehen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-08",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Welche neue Währung beendete im November 1923 die Hyperinflation in Deutschland?",
+    "choices": [
+      "Reichsmark",
+      "Goldmark",
+      "Rentenmark",
+      "Deutsche Mark"
+    ],
+    "answer": 2,
+    "explanation": "Die am 15. November 1923 eingeführte Rentenmark stabilisierte die Währung; die Reichsmark löste sie 1924 ab.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-09",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Wer hielt am 19. Februar 1919 als erste Frau eine Rede in einem deutschen Parlament?",
+    "choices": [
+      "Rosa Luxemburg",
+      "Marie Juchacz",
+      "Käthe Kollwitz",
+      "Clara Zetkin"
+    ],
+    "answer": 1,
+    "explanation": "Die Sozialdemokratin Marie Juchacz sprach in der Weimarer Nationalversammlung und gründete im selben Jahr die Arbeiterwohlfahrt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-10",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Welche Schule für Kunst, Handwerk und Design gründete Walter Gropius 1919 in Weimar?",
+    "choices": [
+      "Das Bauhaus",
+      "Die Werkbund-Akademie",
+      "Die Sezession",
+      "Die Blaue Reiter-Schule"
+    ],
+    "answer": 0,
+    "explanation": "Das Bauhaus zog 1925 nach Dessau und wurde 1933 von den Nationalsozialisten geschlossen; sein Einfluss auf Architektur und Design hält bis heute an.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-11",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Was behauptete die Dolchstoßlegende nach dem Ersten Weltkrieg?",
+    "choices": [
+      "Die Alliierten hätten den Waffenstillstand gebrochen",
+      "Der Kaiser habe die Armee verraten",
+      "Das im Feld unbesiegte Heer sei von der Heimat und den Politikern verraten worden",
+      "Die Reparationen seien von Frankreich erfunden worden"
+    ],
+    "answer": 2,
+    "explanation": "Hindenburg und Ludendorff verbreiteten die Legende, um die eigene Verantwortung für die Niederlage zu verschleiern; sie diente den Gegnern der Republik als Propagandawaffe.",
+    "difficulty": 3
+  },
+  {
     "id": "q-fruehe-hochkulturen-01",
     "epochId": "fruehe-hochkulturen",
     "question": "Wie heißt die älteste bekannte Schrift der Welt, die von den Sumerern entwickelt wurde?",
@@ -994,6 +1078,90 @@
     "difficulty": 3
   },
   {
+    "id": "q-islamische-welt-07",
+    "epochId": "islamische-welt",
+    "question": "Welches Ereignis von 680 ist für die Schiiten bis heute von zentraler Bedeutung?",
+    "choices": [
+      "Die Schlacht von Badr",
+      "Der Tod Husains bei Kerbela",
+      "Die Gründung Kairos",
+      "Die Schlacht von Manzikert"
+    ],
+    "answer": 1,
+    "explanation": "Husain, der Enkel des Propheten, wurde 680 bei Kerbela von Truppen des Umayyadenkalifen Yazid getötet; Schiiten gedenken seines Todes jährlich am Aschura-Tag.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-08",
+    "epochId": "islamische-welt",
+    "question": "Woher stammt das Wort Algebra?",
+    "choices": [
+      "Aus dem Namen der Stadt Bagdad",
+      "Aus dem Griechischen",
+      "Aus dem Namen des Mathematikers al-Chwarizmi",
+      "Aus dem Titel eines Rechenbuchs von al-Chwarizmi"
+    ],
+    "answer": 3,
+    "explanation": "Al-Chwarizmis Buch über das Rechnen durch Ergänzen und Ausgleichen, arabisch al-dschabr, gab der Algebra ihren Namen; aus seinem Namen entstand dagegen das Wort Algorithmus.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-09",
+    "epochId": "islamische-welt",
+    "question": "Welche Dynastie gründete 969 die Stadt Kairo?",
+    "choices": [
+      "Die Fatimiden",
+      "Die Abbasiden",
+      "Die Seldschuken",
+      "Die Ayyubiden"
+    ],
+    "answer": 0,
+    "explanation": "Die schiitischen Fatimiden eroberten 969 Ägypten und legten die Palaststadt al-Qahira an, aus der Kairo wurde; 970 begann der Bau der Moschee al-Azhar.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-10",
+    "epochId": "islamische-welt",
+    "question": "Welche Folge hatte die Schlacht von Manzikert 1071?",
+    "choices": [
+      "Die Mongolen eroberten Bagdad",
+      "Die Kreuzfahrer nahmen Jerusalem ein",
+      "Türkische Stämme drangen nach Anatolien vor",
+      "Die Umayyaden verloren Spanien"
+    ],
+    "answer": 2,
+    "explanation": "Nach dem Sieg der Seldschuken über Byzanz besiedelten türkische Stämme Kleinasien, wo das Sultanat der Rum-Seldschuken und später das Osmanische Reich entstanden.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-11",
+    "epochId": "islamische-welt",
+    "question": "Wer stiftete 859 in Fes die Moschee al-Qarawiyyin, aus der eine der ältesten Hochschulen der Welt hervorging?",
+    "choices": [
+      "Aischa bint Abi Bakr",
+      "Fatima al-Fihri",
+      "Rabia von Basra",
+      "Schadschar ad-Durr"
+    ],
+    "answer": 1,
+    "explanation": "Die Kaufmannstochter Fatima al-Fihri finanzierte den Bau der Moschee aus ihrem Erbe; die Universität al-Qarawiyyin besteht bis heute.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-12",
+    "epochId": "islamische-welt",
+    "question": "Was geschah am 2. Januar 1492 in Granada?",
+    "choices": [
+      "Die Alhambra wurde fertiggestellt",
+      "Kolumbus brach nach Amerika auf",
+      "Timur eroberte die Stadt",
+      "Der letzte Emir übergab die Stadt den katholischen Königen"
+    ],
+    "answer": 3,
+    "explanation": "Mit der Übergabe Granadas durch Muhammad XII., genannt Boabdil, an Isabella und Ferdinand endete die muslimische Herrschaft in Spanien nach fast 800 Jahren.",
+    "difficulty": 1
+  },
+  {
     "id": "q-kalter-krieg-gegenwart-01",
     "epochId": "kalter-krieg-gegenwart",
     "question": "In welchem Jahr fiel die Berliner Mauer?",
@@ -1075,6 +1243,90 @@
     ],
     "answer": 2,
     "explanation": "Die Pleite von Lehman Brothers am 15. September 2008 brachte das weltweite Finanzsystem ins Wanken.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-07",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Wie reagierten die Westmächte 1948 auf die sowjetische Blockade West-Berlins?",
+    "choices": [
+      "Sie zogen ihre Truppen aus Berlin ab",
+      "Sie versorgten die Stadt über eine Luftbrücke",
+      "Sie durchbrachen die Blockade mit Panzern",
+      "Sie verhängten eine Seeblockade gegen die Sowjetunion"
+    ],
+    "answer": 1,
+    "explanation": "Fast ein Jahr lang flogen amerikanische und britische Flugzeuge Kohle, Lebensmittel und Medikamente nach West-Berlin, bis Stalin die Blockade im Mai 1949 aufhob.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-08",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Warum wird 1960 als das Afrikanische Jahr bezeichnet?",
+    "choices": [
+      "Weil die Apartheid in Südafrika endete",
+      "Weil die Afrikanische Union gegründet wurde",
+      "Weil der Suezkanal verstaatlicht wurde",
+      "Weil 17 afrikanische Kolonien unabhängig wurden"
+    ],
+    "answer": 3,
+    "explanation": "Innerhalb eines Jahres erlangten 17 Staaten die Unabhängigkeit, darunter fast alle französischen Kolonien sowie Nigeria, Somalia und der Kongo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-09",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Welche Bewegung ging aus der Bandung-Konferenz von 1955 hervor?",
+    "choices": [
+      "Die Bewegung der Blockfreien Staaten",
+      "Der Warschauer Pakt",
+      "Die Organisation erdölexportierender Länder",
+      "Die Europäische Wirtschaftsgemeinschaft"
+    ],
+    "answer": 0,
+    "explanation": "In Bandung forderten 29 asiatische und afrikanische Staaten einen eigenen Weg zwischen den Blöcken; 1961 gründeten sie in Belgrad die Bewegung der Blockfreien.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-10",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Womit löste Rosa Parks 1955 den Busboykott von Montgomery aus?",
+    "choices": [
+      "Mit einer Rede vor dem Kongress",
+      "Mit einem Hungerstreik im Gefängnis",
+      "Mit der Weigerung, ihren Sitzplatz einem Weißen zu überlassen",
+      "Mit einer Klage gegen die Stadt Montgomery"
+    ],
+    "answer": 2,
+    "explanation": "Parks blieb im Bus sitzen und wurde verhaftet; daraufhin boykottierte die schwarze Bevölkerung 381 Tage lang die Busse der Stadt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-11",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Wofür steht die Politik Deng Xiaopings ab 1978?",
+    "choices": [
+      "Für die Kulturrevolution",
+      "Für den Großen Sprung nach vorn",
+      "Für den Bruch mit der Sowjetunion",
+      "Für Reform und Öffnung zur Marktwirtschaft"
+    ],
+    "answer": 3,
+    "explanation": "Deng erlaubte Privatwirtschaft, schuf Sonderwirtschaftszonen und öffnete China für ausländisches Kapital, hielt aber an der Alleinherrschaft der Partei fest.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-12",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "In welchem Jahr endete der Vietnamkrieg mit der Einnahme Saigons durch den Norden?",
+    "choices": [
+      "1968",
+      "1975",
+      "1973",
+      "1979"
+    ],
+    "answer": 1,
+    "explanation": "Die USA zogen 1973 ab; am 30. April 1975 nahmen nordvietnamesische Truppen Saigon ein und vereinigten das Land unter kommunistischer Herrschaft.",
     "difficulty": 3
   },
   {
@@ -1498,6 +1750,90 @@
     "difficulty": 3
   },
   {
+    "id": "q-revolutionen-07",
+    "epochId": "revolutionen",
+    "question": "In welcher Stadt wurde 1787 die Verfassung der Vereinigten Staaten beschlossen?",
+    "choices": [
+      "Philadelphia",
+      "Washington",
+      "New York",
+      "Boston"
+    ],
+    "answer": 0,
+    "explanation": "Von Mai bis September 1787 berieten 55 Delegierte in Philadelphia unter Vorsitz George Washingtons die Verfassung; die Hauptstadt Washington entstand erst später.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-08",
+    "epochId": "revolutionen",
+    "question": "Was erreichten die Pariser Frauen mit ihrem Marsch nach Versailles im Oktober 1789?",
+    "choices": [
+      "Das Wahlrecht für Frauen",
+      "Die Abschaffung der Monarchie",
+      "Die Übersiedlung des Königs nach Paris",
+      "Die Freilassung politischer Gefangener"
+    ],
+    "answer": 2,
+    "explanation": "Die Frauen zwangen Ludwig XVI., die Menschenrechtserklärung zu unterzeichnen und mit seiner Familie von Versailles nach Paris zu ziehen, wo er unter den Augen des Volkes stand.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-09",
+    "epochId": "revolutionen",
+    "question": "Welcher Fund aus Napoleons Ägyptenfeldzug ermöglichte die Entzifferung der Hieroglyphen?",
+    "choices": [
+      "Die Schriftrollen von Alexandria",
+      "Der Stein von Rosette",
+      "Das Grab des Tutanchamun",
+      "Die Tafeln von Amarna"
+    ],
+    "answer": 1,
+    "explanation": "Der 1799 gefundene Stein von Rosette trägt denselben Text in Hieroglyphen, demotischer Schrift und Griechisch; Champollion gelang damit 1822 die Entzifferung.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-10",
+    "epochId": "revolutionen",
+    "question": "Was geschah am 6. August 1806?",
+    "choices": [
+      "Napoleon krönte sich zum Kaiser",
+      "Preußen verlor die Schlacht bei Jena",
+      "Der Rheinbund wurde gegründet",
+      "Franz II. legte die Krone des Heiligen Römischen Reiches nieder"
+    ],
+    "answer": 3,
+    "explanation": "Nach der Gründung des Rheinbunds und einem Ultimatum Napoleons erklärte Franz II. das über 800 Jahre alte Reich für erloschen.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-11",
+    "epochId": "revolutionen",
+    "question": "Wessen Eintreffen entschied am Abend des 18. Juni 1815 die Schlacht bei Waterloo?",
+    "choices": [
+      "Der russischen Garde unter Zar Alexander",
+      "Der österreichischen Armee unter Schwarzenberg",
+      "Der preußischen Truppen unter Blücher",
+      "Der spanischen Guerilla"
+    ],
+    "answer": 2,
+    "explanation": "Wellingtons Armee hielt den ganzen Tag stand, bis Blüchers Preußen eintrafen und Napoleons Heer in die Flucht schlugen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-12",
+    "epochId": "revolutionen",
+    "question": "Welche Schrift veröffentlichte Mary Wollstonecraft 1792?",
+    "choices": [
+      "Eine Verteidigung der Rechte der Frau",
+      "Die Erklärung der Rechte der Frau und Bürgerin",
+      "Der Gesellschaftsvertrag",
+      "Frankenstein"
+    ],
+    "answer": 0,
+    "explanation": "In A Vindication of the Rights of Woman forderte Wollstonecraft gleiche Bildung und Bürgerrechte für Frauen; die Erklärung der Rechte der Frau und Bürgerin stammt von Olympe de Gouges.",
+    "difficulty": 3
+  },
+  {
     "id": "q-rom-01",
     "epochId": "rom",
     "question": "In welchem Jahr wurde Rom der Sage nach gegründet?",
@@ -1916,5 +2252,89 @@
     "answer": 3,
     "explanation": "Am 8. Mai 1945 trat die bedingungslose Kapitulation der Wehrmacht in Kraft; Japan kapitulierte erst am 2. September.",
     "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-07",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Was vereinbarten Deutschland und die Sowjetunion im geheimen Zusatzprotokoll des Hitler-Stalin-Pakts vom August 1939?",
+    "choices": [
+      "Einen gemeinsamen Angriff auf Großbritannien",
+      "Die Aufteilung Polens und Osteuropas in Interessensphären",
+      "Den Austausch von Kriegsgefangenen",
+      "Die Abschaffung aller Zölle"
+    ],
+    "answer": 1,
+    "explanation": "Das Protokoll teilte Polen entlang der Flüsse Narew, Weichsel und San und wies Finnland, das Baltikum und Bessarabien der sowjetischen Sphäre zu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-08",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Wer zündete am 20. Juli 1944 die Bombe im Führerhauptquartier Wolfsschanze?",
+    "choices": [
+      "Erwin Rommel",
+      "Georg Elser",
+      "Dietrich Bonhoeffer",
+      "Claus Schenk Graf von Stauffenberg"
+    ],
+    "answer": 3,
+    "explanation": "Oberst Stauffenberg deponierte die Aktentasche mit dem Sprengsatz bei der Lagebesprechung; Hitler überlebte leicht verletzt, Stauffenberg wurde noch in der Nacht erschossen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-09",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Was geschah nach der Eroberung Nankings im Dezember 1937?",
+    "choices": [
+      "Japanische Truppen ermordeten wochenlang Zehntausende bis Hunderttausende Zivilisten und Gefangene",
+      "China und Japan schlossen Frieden",
+      "Die Stadt wurde zur Hauptstadt Japans erklärt",
+      "Der Völkerbund schickte Friedenstruppen"
+    ],
+    "answer": 0,
+    "explanation": "Das Massaker von Nanking dauerte etwa sechs Wochen; das Tokioter Tribunal ging von über 200.000 Toten aus, und Massenvergewaltigungen gehörten zum Verbrechen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-10",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Welcher Anklagepunkt wurde in den Nürnberger Prozessen 1945/46 erstmals vor einem internationalen Gericht verhandelt?",
+    "choices": [
+      "Hochverrat",
+      "Spionage",
+      "Verbrechen gegen die Menschlichkeit",
+      "Steuerhinterziehung"
+    ],
+    "answer": 2,
+    "explanation": "Neben Kriegsverbrechen und Verbrechen gegen den Frieden führte das Tribunal den neuen Tatbestand der Verbrechen gegen die Menschlichkeit ein, der bis heute das Völkerstrafrecht prägt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-11",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Welches Gebiet trat die Tschechoslowakei nach dem Münchner Abkommen von 1938 an Deutschland ab?",
+    "choices": [
+      "Das Elsass",
+      "Die Slowakei",
+      "Das Memelland",
+      "Das Sudetenland"
+    ],
+    "answer": 3,
+    "explanation": "Großbritannien, Frankreich, Italien und Deutschland einigten sich ohne Beteiligung der Tschechoslowakei auf die Abtretung des mehrheitlich deutschsprachigen Sudetenlands.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-12",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Welcher Theologe der Bekennenden Kirche wurde im April 1945 im Konzentrationslager Flossenbürg hingerichtet?",
+    "choices": [
+      "Martin Niemöller",
+      "Dietrich Bonhoeffer",
+      "Clemens August von Galen",
+      "Bernhard Lichtenberg"
+    ],
+    "answer": 1,
+    "explanation": "Bonhoeffer hatte sich über die Abwehr dem Widerstand angeschlossen und wurde am 9. April 1945 auf Befehl Hitlers gehängt; Niemöller überlebte das KZ Dachau.",
+    "difficulty": 3
   }
 ]

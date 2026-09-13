@@ -41,6 +41,18 @@
     ]
   },
   {
+    "id": "al-andalus",
+    "term": "Al-Andalus",
+    "definition": "Der arabische Name für die von Muslimen beherrschten Teile der Iberischen Halbinsel zwischen 711 und 1492. Unter dem Emirat und Kalifat von Córdoba erlebte al-Andalus eine Blüte von Landwirtschaft, Handel, Wissenschaft und Baukunst, an der Muslime, Juden und Christen Anteil hatten. Nach dem Zerfall des Kalifats 1031 verlor es Stück für Stück an die christlichen Reiche, bis mit Granada der letzte Rest fiel.",
+    "epochId": "islamische-welt",
+    "related": [
+      "kalifat-von-cordoba",
+      "ibn-ruschd",
+      "bau-der-alhambra",
+      "fall-granadas"
+    ]
+  },
+  {
     "id": "alphabet",
     "term": "Alphabet",
     "definition": "Ein Schriftsystem, in dem jedes Zeichen für einen einzelnen Laut steht, sodass man mit wenigen Buchstaben jedes Wort schreiben kann. Das phönizische Alphabet aus 22 Konsonantenzeichen entstand um 1050 v. Chr. und ist der Vorfahre der griechischen, lateinischen, hebräischen und arabischen Schrift.",
@@ -59,6 +71,17 @@
       "oldowan-steinwerkzeuge",
       "hoehlenmalerei-lascaux",
       "homo-erectus"
+    ]
+  },
+  {
+    "id": "appeasement",
+    "term": "Appeasement",
+    "definition": "Die Politik Großbritanniens und Frankreichs in den 1930er Jahren, Hitlers Forderungen durch Zugeständnisse zu befriedigen, um einen neuen Krieg zu vermeiden. Sie gipfelte im Münchner Abkommen von 1938 und scheiterte, als Deutschland im März 1939 die restliche Tschechoslowakei besetzte. Der Begriff steht seither für das Nachgeben gegenüber Aggressoren.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "muenchner-abkommen",
+      "winston-churchill",
+      "ueberfall-auf-polen"
     ]
   },
   {
@@ -96,6 +119,27 @@
     ]
   },
   {
+    "id": "blockfreie-bewegung",
+    "term": "Bewegung der Blockfreien",
+    "definition": "Ein 1961 in Belgrad gegründeter Zusammenschluss von Staaten, die sich im Kalten Krieg weder dem westlichen noch dem östlichen Bündnis anschließen wollten. Führende Köpfe waren Nehru, Nasser, Tito und Sukarno; Vorläufer war die Bandung-Konferenz von 1955. Die Bewegung forderte Abrüstung, das Ende des Kolonialismus und eine gerechtere Weltwirtschaft und umfasst heute rund 120 Staaten.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "bandung-konferenz",
+      "afrikanisches-jahr-1960"
+    ]
+  },
+  {
+    "id": "blitzkrieg",
+    "term": "Blitzkrieg",
+    "definition": "Bezeichnung für die schnellen deutschen Feldzüge 1939 bis 1941, in denen Panzerverbände und Flugzeuge gemeinsam tief in das gegnerische Hinterland vorstießen und die Fronten in Wochen zusammenbrechen ließen. Polen, Frankreich und der Balkan wurden so überrannt. Gegen die Sowjetunion versagte das Konzept, und der Krieg wurde zum langen Abnutzungskrieg, in dem die Wirtschaftskraft der Alliierten entschied.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "westfeldzug-1940",
+      "ueberfall-auf-polen",
+      "erwin-rommel"
+    ]
+  },
+  {
     "id": "bronzezeit",
     "term": "Bronzezeit",
     "definition": "Die Epoche, in der Bronze, eine Legierung aus Kupfer und Zinn, der wichtigste Werkstoff für Waffen und Werkzeuge war; im Nahen Osten etwa 3300 bis 1200 v. Chr., in Mitteleuropa 2200 bis 800 v. Chr. Da Zinn selten war, förderte die Bronze den Fernhandel und die Entstehung von Reichen.",
@@ -104,6 +148,17 @@
       "ende-der-bronzezeit-seevoelker",
       "beginn-der-eisenzeit",
       "mykenische-kultur"
+    ]
+  },
+  {
+    "id": "buergerrechtsbewegung",
+    "term": "Bürgerrechtsbewegung",
+    "definition": "Die Bewegung der Afroamerikaner und ihrer Unterstützer, die in den 1950er und 1960er Jahren mit gewaltlosen Protesten, Boykotten und Gerichtsverfahren die Rassentrennung und den Ausschluss vom Wahlrecht in den Südstaaten der USA bekämpfte. Höhepunkte waren der Busboykott von Montgomery, der Marsch auf Washington 1963 und die Bürgerrechtsgesetze von 1964 und 1965. Sie wurde zum Vorbild für Freiheitsbewegungen in aller Welt.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "montgomery-busboykott",
+      "martin-luther-king",
+      "rosa-parks"
     ]
   },
   {
@@ -128,6 +183,18 @@
     ]
   },
   {
+    "id": "dekolonisation",
+    "term": "Dekolonisation",
+    "definition": "Die Auflösung der europäischen Kolonialreiche nach dem Zweiten Weltkrieg, durch die zwischen 1945 und 1975 mehr als 80 Staaten in Asien, Afrika, der Karibik und im Pazifik unabhängig wurden. Sie verlief teils friedlich durch Verhandlungen, teils in langen Kriegen wie in Indochina und Algerien. Wirtschaftliche Abhängigkeit und koloniale Grenzen wirkten in vielen neuen Staaten nach.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "unabhaengigkeit-indien-pakistan",
+      "afrikanisches-jahr-1960",
+      "mahatma-gandhi",
+      "ho-chi-minh"
+    ]
+  },
+  {
     "id": "dharma",
     "term": "Dharma",
     "definition": "Zentraler Begriff der indischen Religionen, der je nach Zusammenhang die kosmische Ordnung, die religiöse Pflicht oder die Lehre des Buddha bezeichnet. Für Hindus meint Dharma die Pflichten des Einzelnen entsprechend seinem Stand und Lebensalter, für Buddhisten die vom Buddha verkündete Wahrheit. Ashoka verstand darunter eine Politik der Gewaltlosigkeit und Fürsorge.",
@@ -136,6 +203,27 @@
       "buddha-lehrt-in-nordindien",
       "ashoka-verbreitet-den-buddhismus",
       "siddhartha-gautama"
+    ]
+  },
+  {
+    "id": "dhimmi",
+    "term": "Dhimmi",
+    "definition": "Schutzbefohlene Nichtmuslime, vor allem Christen, Juden und Zoroastrier, die unter islamischer Herrschaft ihre Religion behalten und ihre Gemeinden selbst verwalten durften. Dafür zahlten sie eine besondere Kopfsteuer und unterlagen Einschränkungen, etwa beim Bau neuer Gotteshäuser, beim Waffentragen und beim Zugang zu hohen Ämtern. Diese Regelung war toleranter als der Umgang mit religiösen Minderheiten im damaligen Europa, bedeutete aber keine Gleichberechtigung.",
+    "epochId": "islamische-welt",
+    "related": [
+      "arabische-eroberung-jerusalems",
+      "kalifat-von-cordoba"
+    ]
+  },
+  {
+    "id": "dolchstosslegende",
+    "term": "Dolchstoßlegende",
+    "definition": "Die falsche Behauptung, das deutsche Heer sei im Ersten Weltkrieg im Feld unbesiegt geblieben und erst durch Streiks, Revolution und die Politiker in der Heimat von hinten erdolcht worden. Tatsächlich hatte die Oberste Heeresleitung im Herbst 1918 selbst den Waffenstillstand gefordert. Nationalisten und Nationalsozialisten nutzten die Legende, um die Weimarer Republik und ihre Gründer als Verräter zu verunglimpfen.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "paul-von-hindenburg",
+      "waffenstillstand-compiegne",
+      "novemberrevolution-1918"
     ]
   },
   {
@@ -160,6 +248,27 @@
     ]
   },
   {
+    "id": "dritter-stand",
+    "term": "Dritter Stand",
+    "definition": "Im vorrevolutionären Frankreich die Gesamtheit aller, die weder zum Klerus noch zum Adel gehörten, also rund 98 Prozent der Bevölkerung von reichen Kaufleuten bis zu Tagelöhnern. Der Dritte Stand trug fast die gesamte Steuerlast, hatte in den Generalständen aber nur eine von drei Stimmen. 1789 erklärten sich seine Vertreter zur Nationalversammlung und lösten damit die Revolution aus.",
+    "epochId": "revolutionen",
+    "related": [
+      "sturm-auf-die-bastille",
+      "erklaerung-der-menschen-und-buergerrechte"
+    ]
+  },
+  {
+    "id": "eiserner-vorhang",
+    "term": "Eiserner Vorhang",
+    "definition": "Bezeichnung für die abgeriegelte Grenze zwischen den westlichen Demokratien und dem sowjetisch beherrschten Ostblock, die Europa von der Ostsee bis zur Adria teilte. Winston Churchill machte den Begriff 1946 in einer Rede berühmt. Stacheldraht, Minen und Schießbefehl verhinderten die Flucht nach Westen; 1989 wurde der Vorhang geöffnet.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "bau-der-berliner-mauer",
+      "fall-der-berliner-mauer",
+      "prager-fruehling-1968"
+    ]
+  },
+  {
     "id": "eiszeit",
     "term": "Eiszeit",
     "definition": "Eine lange Kälteperiode, in der Gletscher große Teile Nordeuropas, Nordamerikas und der Gebirge bedeckten und der Meeresspiegel um über 100 Meter sank. Die letzte Eiszeit erreichte vor rund 20.000 Jahren ihren Höhepunkt und endete vor etwa 12.000 Jahren; über trockengefallene Landbrücken erreichten Menschen unter anderem Amerika.",
@@ -168,6 +277,28 @@
       "besiedlung-amerikas",
       "hoehlenmalerei-lascaux",
       "neandertaler"
+    ]
+  },
+  {
+    "id": "entspannungspolitik",
+    "term": "Entspannungspolitik",
+    "definition": "Die Politik der 1970er Jahre, die Spannungen zwischen Ost und West durch Verhandlungen, Verträge und Handel abzubauen, ohne die Gegensätze aufzugeben. Dazu gehörten die Ostverträge Willy Brandts, die Abkommen über die Begrenzung strategischer Waffen und die Schlussakte von Helsinki 1975. Sie erleichterte den Alltag im geteilten Deutschland und bereitete das friedliche Ende des Kalten Krieges vor.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "willy-brandt",
+      "michail-gorbatschow",
+      "fall-der-berliner-mauer"
+    ]
+  },
+  {
+    "id": "ermaechtigungsgesetz",
+    "term": "Ermächtigungsgesetz",
+    "definition": "Das am 23. März 1933 vom Reichstag beschlossene Gesetz zur Behebung der Not von Volk und Reich, das der Regierung Hitler erlaubte, Gesetze ohne Parlament und auch abweichend von der Verfassung zu erlassen. Nur die SPD stimmte dagegen, die KPD-Abgeordneten waren bereits verhaftet. Das Gesetz war die rechtliche Grundlage der Diktatur und wurde bis 1945 immer wieder verlängert.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "machtuebernahme-nationalsozialisten",
+      "adolf-hitler"
     ]
   },
   {
@@ -188,6 +319,17 @@
     "related": [
       "mechanischer-webstuhl-fabriksystem",
       "fliessband-ford"
+    ]
+  },
+  {
+    "id": "faschismus",
+    "term": "Faschismus",
+    "definition": "Eine 1919 von Benito Mussolini in Italien begründete politische Bewegung und Herrschaftsform, die extremen Nationalismus, die Verherrlichung von Gewalt und Führertum, die Ablehnung von Demokratie und Marxismus und die Gleichschaltung von Staat und Gesellschaft verbindet. Nach dem Marsch auf Rom 1922 errichtete Mussolini die erste faschistische Diktatur, die zum Vorbild für ähnliche Bewegungen in Europa wurde. Im weiteren Sinn bezeichnet der Begriff auch den Nationalsozialismus und Francos Regime in Spanien.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "spanischer-buergerkrieg",
+      "weltwirtschaftskrise-1929",
+      "krisenjahr-1923"
     ]
   },
   {
@@ -244,6 +386,29 @@
     ]
   },
   {
+    "id": "gleichschaltung",
+    "term": "Gleichschaltung",
+    "definition": "Bezeichnung der Nationalsozialisten für die Unterwerfung aller Bereiche von Staat und Gesellschaft unter die Partei in den Jahren 1933 und 1934. Länderparlamente, Gewerkschaften, Vereine, Presse, Rundfunk, Kultur und Wissenschaft wurden aufgelöst, verboten oder mit nationalsozialistischen Führern besetzt. Wer sich nicht fügte, verlor seine Stellung oder kam ins Konzentrationslager.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "machtuebernahme-nationalsozialisten",
+      "buecherverbrennung-1933",
+      "reichstagsbrand-und-ermaechtigungsgesetz"
+    ]
+  },
+  {
+    "id": "globalisierung",
+    "term": "Globalisierung",
+    "definition": "Die weltweite Verflechtung von Wirtschaft, Politik, Kultur und Kommunikation, die sich seit den 1990er Jahren durch Freihandel, Containerschifffahrt, Internet und den Aufstieg Chinas stark beschleunigt hat. Sie senkte Preise und Armut in vielen Ländern, führte aber auch zum Verlust von Industriearbeitsplätzen im Westen und machte Krisen wie die Finanzkrise 2008 und die Coronapandemie zu weltweiten Ereignissen. Kritiker fordern fairere Handelsregeln und mehr Klimaschutz.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "world-wide-web-1991",
+      "weltfinanzkrise-2008",
+      "covid-19-pandemie",
+      "deng-xiaoping"
+    ]
+  },
+  {
     "id": "gotik",
     "term": "Gotik",
     "definition": "Baustil des Hoch- und Spätmittelalters, der um 1140 in Frankreich entstand und Spitzbogen, Kreuzrippengewölbe und Strebepfeiler zu hohen, lichtdurchfluteten Kirchen verband. Kathedralen wie Chartres, Reims oder der Kölner Dom sind seine berühmtesten Werke; der Name wurde erst in der Renaissance abwertend geprägt.",
@@ -283,6 +448,18 @@
     "related": [
       "reichseinigung-aegyptens",
       "tutanchamun"
+    ]
+  },
+  {
+    "id": "holocaust",
+    "term": "Holocaust",
+    "definition": "Der systematische, staatlich organisierte Völkermord an rund sechs Millionen europäischen Juden durch das nationalsozialistische Deutschland und seine Helfer zwischen 1941 und 1945. Er begann mit Massenerschießungen hinter der Ostfront und wurde in Vernichtungslagern wie Auschwitz-Birkenau, Treblinka und Sobibor mit Gaskammern industriell fortgesetzt. Im Hebräischen wird das Verbrechen Shoah, Katastrophe, genannt.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "wannseekonferenz",
+      "befreiung-von-auschwitz",
+      "aufstand-im-warschauer-ghetto",
+      "anne-frank"
     ]
   },
   {
@@ -340,6 +517,17 @@
     ]
   },
   {
+    "id": "hyperinflation",
+    "term": "Hyperinflation",
+    "definition": "Extreme Geldentwertung, bei der die Preise innerhalb von Tagen oder Stunden vervielfachen und das Geld seine Funktion verliert. In Deutschland führten Kriegsschulden, Reparationen und die Finanzierung des Ruhrkampfs mit der Notenpresse 1923 dazu, dass ein Dollar 4,2 Billionen Mark kostete. Die Vernichtung der Ersparnisse des Mittelstands erschütterte das Vertrauen in die Republik nachhaltig.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "krisenjahr-1923",
+      "gustav-stresemann",
+      "versailler-vertrag"
+    ]
+  },
+  {
     "id": "imperialismus",
     "term": "Imperialismus",
     "definition": "Das Streben von Großmächten, ihre Herrschaft über andere Länder und Völker auszudehnen, sei es durch Kolonien, wirtschaftliche Abhängigkeit oder militärischen Druck. Das Zeitalter des Imperialismus von etwa 1880 bis 1914 brachte fast ganz Afrika und große Teile Asiens unter europäische Kontrolle und verschärfte die Rivalität der Mächte.",
@@ -372,6 +560,16 @@
     ]
   },
   {
+    "id": "jakobiner",
+    "term": "Jakobiner",
+    "definition": "Mitglieder des einflussreichsten politischen Klubs der Französischen Revolution, benannt nach ihrem Versammlungsort in einem ehemaligen Jakobinerkloster in Paris. Unter Robespierre wurden sie zur radikalen Partei, die 1793 bis 1794 die Republik mit Terror gegen innere und äußere Feinde verteidigte. Der Begriff wurde in Europa lange als Schimpfwort für Anhänger radikaler demokratischer Ideen gebraucht.",
+    "epochId": "revolutionen",
+    "related": [
+      "maximilien-de-robespierre",
+      "hinrichtung-ludwigs-xvi-und-schreckensherrschaft"
+    ]
+  },
+  {
     "id": "jungsteinzeit",
     "term": "Jungsteinzeit (Neolithikum)",
     "definition": "Die Zeit ab etwa 9500 v. Chr., in der Menschen Ackerbau und Viehzucht betrieben und in festen Dörfern lebten. Kennzeichnend sind geschliffene Steinwerkzeuge, Keramik, Weberei und Großbauten wie Steinkreise. Sie endete regional unterschiedlich mit dem Beginn der Metallverarbeitung.",
@@ -383,6 +581,30 @@
     ]
   },
   {
+    "id": "kalifat",
+    "term": "Kalifat",
+    "definition": "Die Herrschaft des Kalifen, des Nachfolgers des Propheten Mohammed als Oberhaupt der muslimischen Gemeinde. Die ersten vier Kalifen wurden gewählt, danach machten die Umayyaden und Abbasiden das Amt erblich. Vom 10. Jahrhundert an bestanden mehrere Kalifate nebeneinander, und die tatsächliche Macht ging auf Sultane über; das Abbasidenkalifat endete 1258 mit der Zerstörung Bagdads.",
+    "epochId": "islamische-welt",
+    "related": [
+      "umayyaden-kalifat-in-damaskus",
+      "abbasiden-revolution",
+      "kalifat-von-cordoba",
+      "harun-ar-raschid"
+    ]
+  },
+  {
+    "id": "kalter-krieg",
+    "term": "Kalter Krieg",
+    "definition": "Der Konflikt zwischen den USA und der Sowjetunion und ihren jeweiligen Bündnissen von etwa 1947 bis 1991. Beide Seiten bekämpften sich mit Wettrüsten, Propaganda, Spionage und Stellvertreterkriegen, führten aber wegen der Atomwaffen nie direkt Krieg gegeneinander. Er endete mit dem Zusammenbruch des Ostblocks und der Auflösung der Sowjetunion.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "berliner-luftbruecke",
+      "kubakrise",
+      "aufloesung-der-sowjetunion",
+      "nikita-chruschtschow"
+    ]
+  },
+  {
     "id": "keilschrift",
     "term": "Keilschrift",
     "definition": "Die älteste bekannte Schrift, um 3200 v. Chr. von den Sumerern entwickelt. Die Zeichen wurden mit einem Rohrgriffel keilförmig in feuchten Ton gedrückt und bezeichneten zunächst Dinge, später auch Silben. Die Keilschrift wurde über 3.000 Jahre für viele Sprachen des Nahen Ostens verwendet.",
@@ -391,6 +613,18 @@
       "sumerische-keilschrift",
       "codex-hammurapi",
       "gilgamesch-epos"
+    ]
+  },
+  {
+    "id": "koalitionskriege",
+    "term": "Koalitionskriege",
+    "definition": "Die Kriege von 1792 bis 1815, in denen wechselnde Bündnisse europäischer Mächte, vor allem Großbritannien, Österreich, Preußen und Russland, gegen das revolutionäre und napoleonische Frankreich kämpften. Sie führten Massenheere mit Wehrpflichtigen ein, veränderten die Landkarte Europas und kosteten mehrere Millionen Menschenleben. Die letzten Abschnitte werden in Deutschland als Befreiungskriege bezeichnet.",
+    "epochId": "revolutionen",
+    "related": [
+      "russlandfeldzug-1812",
+      "voelkerschlacht-bei-leipzig",
+      "schlacht-bei-waterloo",
+      "napoleon-bonaparte"
     ]
   },
   {
@@ -411,6 +645,28 @@
     "related": [
       "fall-tenochtitlans",
       "eroberung-des-inkareiches"
+    ]
+  },
+  {
+    "id": "konzentrationslager",
+    "term": "Konzentrationslager",
+    "definition": "Lager, in denen die Nationalsozialisten ab 1933 politische Gegner und später Juden, Sinti und Roma, Homosexuelle, Zeugen Jehovas und Menschen aus den besetzten Ländern ohne Gerichtsurteil einsperrten, ausbeuteten und ermordeten. Die SS betrieb ein Netz von Hauptlagern wie Dachau, Buchenwald und Sachsenhausen mit über tausend Außenlagern. Von den reinen Vernichtungslagern wie Treblinka, deren einziger Zweck der Massenmord war, unterscheiden Historiker die Konzentrationslager, in denen Häftlinge durch Arbeit, Hunger, Krankheit und Gewalt starben.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "befreiung-von-auschwitz",
+      "dietrich-bonhoeffer",
+      "machtuebernahme-nationalsozialisten"
+    ]
+  },
+  {
+    "id": "koran",
+    "term": "Koran",
+    "definition": "Die heilige Schrift des Islam, die nach muslimischem Glauben die Offenbarungen enthält, die Mohammed zwischen 610 und 632 von Gott empfing. Der Text wurde unter dem dritten Kalifen Uthman um 650 in einer verbindlichen Fassung gesammelt und besteht aus 114 Kapiteln, den Suren. Der Koran ist Grundlage von Glauben, Recht und Alltag der Muslime und prägte die arabische Sprache und Kalligrafie.",
+    "epochId": "islamische-welt",
+    "related": [
+      "erste-offenbarung-mohammeds",
+      "mohammed",
+      "aischa-bint-abi-bakr"
     ]
   },
   {
@@ -468,6 +724,17 @@
     ]
   },
   {
+    "id": "liberalismus",
+    "term": "Liberalismus",
+    "definition": "Politische Richtung, die die Freiheit des Einzelnen gegenüber dem Staat in den Mittelpunkt stellt und Verfassung, Gewaltenteilung, Grundrechte, freie Presse und freie Wirtschaft fordert. Der Liberalismus entstand aus der Aufklärung und den Revolutionen in Amerika und Frankreich und wurde vom Bürgertum getragen. Im 19. Jahrhundert stritten Liberale mit den Kräften der Restauration um Verfassungen und mit Demokraten um die Ausweitung des Wahlrechts.",
+    "epochId": "revolutionen",
+    "related": [
+      "verfassung-der-usa",
+      "julirevolution-1830",
+      "lafayette"
+    ]
+  },
+  {
     "id": "limes",
     "term": "Limes",
     "definition": "Die befestigte Grenze des Römischen Reiches, bestehend aus Wällen, Palisaden, Gräben, Wachtürmen und Kastellen. Der Obergermanisch-Raetische Limes zwischen Rhein und Donau war rund 550 Kilometer lang, der Hadrianswall in Britannien 118 Kilometer. Der Limes diente weniger als unüberwindbare Mauer denn als Kontrolllinie für Handel, Zoll und Grenzverkehr.",
@@ -475,6 +742,17 @@
     "related": [
       "bau-des-hadrianswalls",
       "varusschlacht"
+    ]
+  },
+  {
+    "id": "madrasa",
+    "term": "Madrasa",
+    "definition": "Eine islamische Hochschule, an der vor allem Recht, Koranauslegung, Hadithkunde und arabische Grammatik, oft auch Mathematik, Astronomie und Medizin gelehrt wurden. Madrasas wurden meist von Herrschern oder reichen Privatleuten als fromme Stiftung finanziert und boten Studenten Unterkunft und Verpflegung. Berühmte Beispiele sind die al-Azhar in Kairo, die al-Qarawiyyin in Fes und die Schulen von Timbuktu.",
+    "epochId": "islamische-welt",
+    "related": [
+      "fatimiden-gruenden-kairo",
+      "fatima-al-fihri",
+      "timbuktu-gelehrtenzentrum"
     ]
   },
   {
@@ -541,6 +819,18 @@
     ]
   },
   {
+    "id": "nationalismus",
+    "term": "Nationalismus",
+    "definition": "Die Vorstellung, dass Menschen mit gemeinsamer Sprache, Kultur und Geschichte eine Nation bilden, die einen eigenen Staat haben soll. Die Französische Revolution machte die Nation zum Träger der Souveränität, und der Widerstand gegen Napoleon weckte in Deutschland, Spanien und Italien nationale Gefühle. Im 19. Jahrhundert war der Nationalismus meist mit Freiheitsforderungen verbunden, entwickelte sich später aber auch zu Überheblichkeit und Feindschaft gegenüber anderen Völkern.",
+    "epochId": "revolutionen",
+    "related": [
+      "hambacher-fest",
+      "ende-des-heiligen-roemischen-reiches",
+      "mexikanische-unabhaengigkeit",
+      "maerzrevolution-1848"
+    ]
+  },
+  {
     "id": "nationalstaat",
     "term": "Nationalstaat",
     "definition": "Ein Staat, dessen Bevölkerung sich als eine Nation mit gemeinsamer Sprache, Geschichte und Kultur versteht und in dem die Staatsgrenzen mit dieser Nation übereinstimmen sollen. Im 19. Jahrhundert wurde er zum politischen Leitbild und führte zur Einigung Italiens und Deutschlands, aber auch zum Zerfall der Vielvölkerreiche.",
@@ -595,6 +885,17 @@
     ]
   },
   {
+    "id": "reconquista",
+    "term": "Reconquista",
+    "definition": "Die Rückeroberung der Iberischen Halbinsel durch die christlichen Königreiche Asturien, León, Kastilien, Aragón und Portugal, die vom 8. Jahrhundert bis zum Fall Granadas 1492 dauerte. Sie verlief nicht als ununterbrochener Krieg, sondern mit langen Phasen von Bündnissen, Handel und kulturellem Austausch über die Grenze hinweg. Nach 1492 wurden Juden und Muslime vertrieben oder zur Taufe gezwungen, was die religiöse Vielfalt Spaniens beendete.",
+    "epochId": "islamische-welt",
+    "related": [
+      "fall-granadas",
+      "kalifat-von-cordoba",
+      "schlacht-bei-tours-und-poitiers"
+    ]
+  },
+  {
     "id": "reformation",
     "term": "Reformation",
     "definition": "Religiöse Erneuerungsbewegung, die 1517 mit Luthers 95 Thesen begann und zur Spaltung der westlichen Christenheit in Katholiken und Protestanten führte. Ihre Anhänger beriefen sich allein auf die Bibel und den Glauben, lehnten Ablass und päpstliche Autorität ab und schufen eigene Kirchen in Deutschland, der Schweiz, Skandinavien, England und den Niederlanden.",
@@ -604,6 +905,28 @@
       "luthers-95-thesen",
       "reichstag-zu-worms",
       "augsburger-religionsfrieden"
+    ]
+  },
+  {
+    "id": "reparationen",
+    "term": "Reparationen",
+    "definition": "Zahlungen und Sachleistungen, die ein Kriegsverlierer den Siegern als Ersatz für Kriegsschäden leisten muss. Der Versailler Vertrag legte Deutschland Reparationen auf, die 1921 auf 132 Milliarden Goldmark festgesetzt wurden und Kohle, Lokomotiven und Schiffe einschlossen. Der Streit um die Zahlungen führte zur Ruhrbesetzung und wurde durch den Dawes-Plan 1924 und den Young-Plan 1929 vorübergehend entschärft, bis die Zahlungen 1932 faktisch endeten.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "versailler-vertrag",
+      "krisenjahr-1923",
+      "gustav-stresemann"
+    ]
+  },
+  {
+    "id": "restauration",
+    "term": "Restauration",
+    "definition": "Die Politik nach 1815, die vom Wiener Kongress ausgehend die Herrschaft der alten Dynastien wiederherstellen und die Ideen der Revolution zurückdrängen wollte. Ihre Mittel waren Zensur, Polizeiüberwachung, das Verbot politischer Vereine und Interventionen gegen Aufstände in Spanien, Italien und Deutschland. Ihr wichtigster Vertreter war der österreichische Staatskanzler Metternich.",
+    "epochId": "revolutionen",
+    "related": [
+      "wiener-kongress",
+      "klemens-von-metternich",
+      "hambacher-fest"
     ]
   },
   {
@@ -713,6 +1036,60 @@
     ]
   },
   {
+    "id": "stellungskrieg",
+    "term": "Stellungskrieg",
+    "definition": "Kriegsführung, bei der sich gegnerische Armeen in befestigten Schützengräben gegenüberliegen und die Front sich über Monate oder Jahre kaum bewegt. An der Westfront des Ersten Weltkriegs machten Maschinengewehre, Artillerie und Stacheldraht jeden Angriff so verlustreich, dass beide Seiten bis 1918 in Gräben verharrten. Verdun und die Somme sind die bekanntesten Beispiele.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "marneschlacht-und-stellungskrieg",
+      "schlacht-um-verdun",
+      "schlacht-um-gallipoli"
+    ]
+  },
+  {
+    "id": "stellvertreterkrieg",
+    "term": "Stellvertreterkrieg",
+    "definition": "Ein Krieg, in dem Großmächte nicht selbst gegeneinander kämpfen, sondern verfeindete Parteien in einem dritten Land mit Waffen, Geld, Beratern oder eigenen Truppen unterstützen. Im Kalten Krieg trugen die USA und die Sowjetunion ihren Gegensatz auf diese Weise in Korea, Vietnam, Afghanistan und Afrika aus. Die Leidtragenden waren vor allem die Bevölkerungen dieser Länder.",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "koreakrieg",
+      "vietnamkrieg",
+      "ho-chi-minh"
+    ]
+  },
+  {
+    "id": "sufismus",
+    "term": "Sufismus",
+    "definition": "Die mystische Richtung des Islam, die nach einer unmittelbaren, liebenden Erfahrung Gottes strebt und dafür Gebet, Meditation, Gesang, Tanz und Askese nutzt. Sufis wie Rabia von Basra, al-Ghazali und Rumi schufen bedeutende Dichtung und Philosophie; seit dem 12. Jahrhundert schlossen sie sich zu Orden mit Meistern und Schülern zusammen. Sufi-Bruderschaften trugen den Islam nach Anatolien, Indien, Südostasien und Afrika.",
+    "epochId": "islamische-welt",
+    "related": [
+      "rumi",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "sunniten-und-schiiten",
+    "term": "Sunniten und Schiiten",
+    "definition": "Die beiden großen Richtungen des Islam, die aus dem Streit um die Nachfolge Mohammeds entstanden. Die Schiiten sehen Ali, den Vetter und Schwiegersohn des Propheten, und seine Nachkommen als einzig rechtmäßige Führer an; die Sunniten erkennen die gewählten Kalifen an und berufen sich auf die Sunna, das Vorbild des Propheten. Rund 85 bis 90 Prozent der Muslime sind heute Sunniten; Schiiten leben vor allem im Iran, Irak, Libanon und Bahrain.",
+    "epochId": "islamische-welt",
+    "related": [
+      "schlacht-von-kerbela",
+      "umayyaden-kalifat-in-damaskus",
+      "fatimiden-gruenden-kairo"
+    ]
+  },
+  {
+    "id": "totaler-krieg",
+    "term": "Totaler Krieg",
+    "definition": "Ein Krieg, in dem ein Staat alle Menschen, Wirtschaftskräfte und Ressourcen für den Kampf mobilisiert und die Grenze zwischen Soldaten und Zivilisten verschwimmt. Der Erste Weltkrieg gilt als erster totaler Krieg: Fabriken produzierten nur noch für die Front, Frauen ersetzten die Männer in der Arbeit, und Blockaden ließen die Zivilbevölkerung hungern. Propaganda und Zensur sollten den Durchhaltewillen sichern.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "schlacht-um-verdun",
+      "novemberrevolution-1918",
+      "kaethe-kollwitz"
+    ]
+  },
+  {
     "id": "tragoedie",
     "term": "Tragödie",
     "definition": "Ein ernstes Drama, das im Athen des 5. Jahrhunderts v. Chr. aus den Chorgesängen zu Ehren des Dionysos entstand. Die Tragödien von Aischylos, Sophokles und Euripides zeigen Helden aus Mythos und Geschichte im Konflikt mit Göttern, Gesetz und Schicksal und wurden bei Wettbewerben vor tausenden Bürgern aufgeführt.",
@@ -733,6 +1110,28 @@
     ]
   },
   {
+    "id": "vernichtungskrieg",
+    "term": "Vernichtungskrieg",
+    "definition": "Bezeichnung für den deutschen Krieg gegen die Sowjetunion ab 1941, der von Beginn an nicht nur auf militärischen Sieg, sondern auf die Vernichtung des Staates, die Ermordung der Juden und kommunistischen Funktionäre und den Hungertod von Millionen Zivilisten und Kriegsgefangenen zielte. Befehle wie der Kommissarbefehl hoben das Kriegsrecht auf. Die Wehrmacht war daran unmittelbar beteiligt.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "angriff-auf-die-sowjetunion",
+      "schlacht-von-stalingrad",
+      "hitler-stalin-pakt"
+    ]
+  },
+  {
+    "id": "voelkerbundsmandat",
+    "term": "Völkerbundsmandat",
+    "definition": "Ein Gebiet, das nach dem Ersten Weltkrieg aus dem Besitz Deutschlands oder des Osmanischen Reiches herausgelöst und im Auftrag des Völkerbundes von einer Siegermacht verwaltet wurde, angeblich bis zur Reife für die Selbstständigkeit. Großbritannien erhielt Palästina, Irak und Transjordanien, Frankreich Syrien und Libanon, die deutschen Kolonien gingen an Großbritannien, Frankreich, Belgien, Japan und andere. In der Praxis unterschieden sich Mandate kaum von Kolonien.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "balfour-erklaerung",
+      "gruendung-voelkerbund",
+      "gruendung-tuerkische-republik"
+    ]
+  },
+  {
     "id": "voelkerwanderung",
     "term": "Völkerwanderung",
     "definition": "Die Zeit vom Einfall der Hunnen um 375 bis etwa 568, in der germanische Völker wie Goten, Vandalen, Franken und Langobarden in das Römische Reich eindrangen und dort eigene Reiche gründeten. Sie führte zum Untergang Westroms 476 und zur Entstehung der mittelalterlichen Staaten Europas; die Ursachen waren Landsuche, Bevölkerungsdruck und der Druck der Hunnen.",
@@ -744,6 +1143,40 @@
     ]
   },
   {
+    "id": "volkssouveraenitaet",
+    "term": "Volkssouveränität",
+    "definition": "Der Grundsatz, dass alle Staatsgewalt vom Volk ausgeht und Herrscher ihre Macht nur als Beauftragte des Volkes ausüben. Er wurde von Rousseau formuliert, 1776 in der amerikanischen Unabhängigkeitserklärung und 1789 in der Erklärung der Menschen- und Bürgerrechte verankert und ersetzte das Gottesgnadentum der Könige. Volkssouveränität ist bis heute die Grundlage demokratischer Verfassungen.",
+    "epochId": "revolutionen",
+    "related": [
+      "amerikanische-unabhaengigkeitserklaerung",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "verfassung-der-usa"
+    ]
+  },
+  {
+    "id": "vormaerz",
+    "term": "Vormärz",
+    "definition": "Die Zeit in Deutschland zwischen dem Wiener Kongress 1815 und der Märzrevolution 1848, in der liberale und nationale Bewegungen trotz Zensur und Verfolgung wuchsen. Burschenschaften, das Hambacher Fest, Schriftsteller wie Heine und Büchner und Aufstände wie der der schlesischen Weber prägten diese Jahre. Der Begriff blickt von der Revolution von 1848 aus zurück auf die Zeit davor.",
+    "epochId": "revolutionen",
+    "related": [
+      "hambacher-fest",
+      "maerzrevolution-1848",
+      "wiener-kongress"
+    ]
+  },
+  {
+    "id": "weimarer-republik",
+    "term": "Weimarer Republik",
+    "definition": "Bezeichnung für den deutschen Staat von 1918 bis 1933, benannt nach der Stadt Weimar, in der die Nationalversammlung 1919 die Verfassung beschloss. Die erste deutsche Demokratie stand von Beginn an unter dem Druck von Versailler Vertrag, Inflation, Putschen und politischer Gewalt. Nach kurzer Stabilisierung in den Goldenen Zwanzigern zerbrach sie an der Weltwirtschaftskrise und endete mit Hitlers Ernennung zum Reichskanzler.",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "weimarer-verfassung",
+      "friedrich-ebert",
+      "gustav-stresemann",
+      "krisenjahr-1923"
+    ]
+  },
+  {
     "id": "wettlauf-um-afrika",
     "term": "Wettlauf um Afrika",
     "definition": "Die rasche Aufteilung fast des gesamten afrikanischen Kontinents unter europäische Kolonialmächte zwischen etwa 1880 und 1914. Die Berliner Konferenz von 1884/85 legte die Spielregeln fest, ohne dass Afrikaner beteiligt waren. Grenzen wurden am Reißbrett gezogen und bestehen vielfach bis heute.",
@@ -752,6 +1185,18 @@
       "berliner-konferenz-afrika",
       "kongo-freistaat",
       "voelkermord-herero-nama"
+    ]
+  },
+  {
+    "id": "widerstand",
+    "term": "Widerstand",
+    "definition": "Sammelbegriff für alle Formen der Gegnerschaft gegen das NS-Regime, von der Verweigerung des Hitlergrußes über Flugblätter und das Verstecken von Verfolgten bis zu Attentaten und Umsturzplänen. Getragen wurde er von Kommunisten und Sozialdemokraten, Christen, Studenten, Offizieren und Einzelgängern wie Georg Elser, blieb aber immer eine kleine Minderheit. In den besetzten Ländern kämpften Partisanen und Untergrundbewegungen wie die Résistance gegen die deutsche Herrschaft.",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "attentat-vom-20-juli-1944",
+      "sophie-scholl",
+      "claus-von-stauffenberg",
+      "aufstand-im-warschauer-ghetto"
     ]
   },
   {

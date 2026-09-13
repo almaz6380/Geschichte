@@ -548,6 +548,53 @@
       "kreuzzüge",
       "osmanen",
       "handel"
+    ],
+    "keyFacts": [
+      "624 gewinnt die junge muslimische Gemeinde bei Badr ihren ersten Sieg; 680 vertieft der Tod Husains bei Kerbela die Trennung von Sunniten und Schiiten.",
+      "717 bis 718 scheitert die große arabische Belagerung Konstantinopels; 750 stürzt die Abbasiden-Revolution die Umayyaden.",
+      "Um 820 begründet al-Chwarizmi in Bagdad mit seinem Rechenbuch die Algebra; 859 stiftet Fatima al-Fihri in Fes die Moschee al-Qarawiyyin, eine der ältesten Hochschulen der Welt.",
+      "969 gründen die Fatimiden Kairo und 970 die Moschee al-Azhar, die bis heute als Lehranstalt besteht.",
+      "1071 besiegen die Seldschuken bei Manzikert Byzanz und öffnen Anatolien für türkische Siedler.",
+      "Im 12. Jahrhundert erklärt Ibn Ruschd in Córdoba die Werke des Aristoteles und prägt damit das Denken der europäischen Universitäten; im 14. Jahrhundert werden Timbuktu und die Alhambra zu Sinnbildern islamischer Gelehrsamkeit und Kunst.",
+      "1370 bis 1405 erobert Timur ein Reich von Delhi bis Ankara; 1492 endet mit dem Fall Granadas die fast 800-jährige muslimische Herrschaft in Spanien."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Nach Mohammeds Tod 632 übernahmen vier Kalifen aus seinem engsten Umfeld die Führung der Gemeinde; Muslime nennen sie die rechtgeleiteten Kalifen. Bereits in dieser Zeit brach der Streit um die rechtmäßige Nachfolge auf: Die Anhänger Alis, des Vetters und Schwiegersohns des Propheten, sahen die Führung als Sache seiner Familie an, während die Mehrheit die Wahl des geeignetsten Mannes für richtig hielt. Aus diesem Konflikt entstanden die Schiiten und die Sunniten, und die Kämpfe von 656 bis 661 sowie der Tod Husains bei Kerbela 680 wurden zu Gründungserzählungen beider Richtungen.",
+          "Die Kalifen der Umayyaden und Abbasiden verstanden sich als Nachfolger des Propheten mit religiöser und weltlicher Autorität, regierten aber tatsächlich mit persisch geprägten Verwaltungen, Wesiren, Steuerregistern und Postrouten. Vom 9. Jahrhundert an lösten sich Provinzen unter eigenen Dynastien: Aghlabiden und Fatimiden in Nordafrika, Samaniden und Buyiden in Persien, Umayyaden in Spanien. Der Kalif in Bagdad blieb ein geistliches Oberhaupt, dessen Namen man im Freitagsgebet nannte, während türkische Militärsklaven und später die Seldschuken die tatsächliche Macht ausübten.",
+          "Seit dem 11. Jahrhundert wurde der Sultan, der Machthaber im Namen des Kalifen, zur typischen Herrscherfigur der islamischen Welt. Die Seldschuken, die Ayyubiden Saladins, die Mamluken in Ägypten und schließlich die Osmanen stützten sich auf Reiterheere, Militärsklaven und die Einnahmen aus Land, das sie an ihre Offiziere vergaben. Eroberer wie die Mongolen und Timur zerstörten Städte und Bewässerungssysteme, nahmen aber bald selbst den Islam an und förderten Gelehrte und Baumeister an ihren Höfen."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Städte waren das Herz der islamischen Welt: Um die Freitagsmoschee lagen der Basar mit seinen nach Gewerben geordneten Gassen, die Karawanserei für Händler, Bäder, Brunnen und Wohnviertel mit Innenhöfen. Kairo, Bagdad, Damaskus und Córdoba zählten zu den größten Städten ihrer Zeit, versorgt durch Bewässerungsfelder, Getreidespeicher und ein Netz von Fernstraßen. Auf dem Land lebten Bauern in Dörfern unter Grundherren, dazu Nomaden, die Kamele, Schafe und Pferde züchteten und Karawanen schützten oder überfielen.",
+          "Die Religion prägte den Tagesablauf mit fünf Gebeten, den Fastenmonat Ramadan, das Verbot von Wein und Schweinefleisch und die Almosensteuer für die Armen. Christen, Juden und Zoroastrier lebten als Schutzbefohlene mit eigenen Gemeinden, Gerichten und Gotteshäusern, mussten aber eine Kopfsteuer zahlen und blieben von hohen Ämtern meist ausgeschlossen; in al-Andalus und Bagdad stiegen dennoch jüdische Ärzte, Wesire und Gelehrte auf. Sklaverei war verbreitet; Sklaven aus Afrika, dem Kaukasus und den Steppen dienten in Haushalten, Heeren und Palästen, und Militärsklaven konnten wie die Mamluken bis zur Herrschaft aufsteigen.",
+          "Frauen waren rechtlich benachteiligt, erhielten aber Erbanteile, konnten Vermögen besitzen und Stiftungen gründen. Aischa, die Frau des Propheten, überlieferte hunderte Aussprüche Mohammeds und lehrte in Medina, Fatima al-Fihri stiftete in Fes eine Moschee mit Hochschule, und Herrscherinnen wie Schadschar ad-Durr in Ägypten oder Radiyya in Delhi regierten zeitweise selbst. In Gedichten, Reiseberichten und Rechtsurkunden treten Frauen als Händlerinnen, Dichterinnen, Mystikerinnen und Gelehrte auf."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Im 8. und 9. Jahrhundert entstanden die Grundlagen der islamischen Religionswissenschaften: Gelehrte sammelten und prüften die Hadithe, die überlieferten Aussprüche des Propheten, und entwickelten daraus vier sunnitische Rechtsschulen. Neben der Rechtsgelehrsamkeit blühte die Mystik des Sufismus, die nach unmittelbarer Gotteserfahrung strebte; Rabia von Basra, al-Ghazali und Rumi verbanden sie mit Dichtung und Philosophie, und Sufi-Bruderschaften trugen den Islam nach Indien, Anatolien und Afrika.",
+          "Die Übersetzungsbewegung Bagdads legte den Grund für Jahrhunderte eigener Forschung. Al-Chwarizmi schuf die Algebra, al-Biruni berechnete den Erdradius, Ibn al-Haitham begründete die Optik mit Experimenten, ar-Razi und Ibn Sina schrieben medizinische Lehrbücher, und in Maragha und Samarkand entstanden Sternwarten. Philosophen wie al-Farabi und Ibn Ruschd deuteten Aristoteles neu; ihre lateinischen Übersetzungen aus Toledo bestimmten ab dem 13. Jahrhundert den Lehrplan der Universitäten von Paris bis Padua. Ibn Chaldun entwarf im 14. Jahrhundert eine Theorie vom Aufstieg und Niedergang der Reiche, die als Beginn der Sozialwissenschaften gilt.",
+          "Weil bildliche Darstellungen in Moscheen gemieden wurden, entwickelten Künstler die Kalligrafie, geometrische Ornamente und die Arabeske zu höchster Vollendung. Moscheen mit Kuppeln, Minaretten und Gebetsnischen, Palaststädte wie die Alhambra, Koranhandschriften, Miniaturmalerei aus Persien und Teppiche aus Anatolien zeigen die Vielfalt der Kunst. Die Dichtung war die angesehenste Kunst; die persischen Epen Firdausis, die Vierzeiler Omar Chajjams und die Liebeslyrik des Hafis werden bis heute gelesen."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die islamische Welt lag im Schnittpunkt der Handelswege dreier Kontinente. Karawanen brachten Gold und Sklaven aus Westafrika über die Sahara nach Nordafrika, Schiffe segelten mit dem Monsun von Basra und Aden nach Indien, Ostafrika und China, und die Seidenstraße verband Bagdad über Samarkand mit dem Fernen Osten. Eine gemeinsame Sprache, das islamische Recht und der Golddinar erleichterten Geschäfte über tausende Kilometer; Kaufleute nutzten Wechsel, Kredite und Handelsgesellschaften, lange bevor sie in Italien üblich wurden.",
+          "Landwirtschaft und Technik wurden von den Bauern und Ingenieuren des Vorderen Orients vorangetrieben: Wasserräder, unterirdische Kanäle und Zisternen bewässerten Felder von Persien bis Spanien, wo Reis, Zuckerrohr, Baumwolle, Orangen und Zitronen angebaut wurden. Papiermühlen entstanden ab dem 8. Jahrhundert in Samarkand und Bagdad und ermöglichten Bibliotheken, Verwaltung und Buchhandel. Gelehrte wie al-Dschazari beschrieben Pumpen, Wasseruhren und Automaten, und aus Damaskus und Toledo kamen berühmte Klingen, Gläser und Keramiken.",
+          "Der Reichtum der Städte hing an sicheren Handelswegen und intakten Bewässerungsanlagen. Die Zerstörungen der Mongolen im 13. und Timurs im 14. Jahrhundert, die Pest ab 1347 und die Verlagerung des Handels auf die Seewege der Europäer ab 1500 trafen die alten Zentren hart. Zugleich blühten neue Räume auf: Timbuktu und Gao am Niger, Kilwa und Sansibar an der ostafrikanischen Küste, Malakka in Südostasien sowie das aufsteigende Osmanische Reich mit Bursa und später Istanbul."
+        ]
+      }
     ]
   },
   {
@@ -754,6 +801,53 @@
       "nation",
       "verfassung",
       "unabhängigkeit"
+    ],
+    "keyFacts": [
+      "1787 geben sich die Vereinigten Staaten in Philadelphia die erste moderne geschriebene Verfassung mit Gewaltenteilung; 1791 folgen die Grundrechte der Bill of Rights.",
+      "Im Oktober 1789 zwingt der Marsch tausender Pariser Frauen nach Versailles den König zum Umzug nach Paris; 1794 schafft der Nationalkonvent die Sklaverei in den französischen Kolonien ab.",
+      "1798 bis 1801 scheitert Napoleons Feldzug nach Ägypten militärisch, begründet aber die moderne Ägyptenforschung; 1804 wird Haiti als erster von ehemaligen Sklaven gegründeter Staat unabhängig.",
+      "1806 legt Franz II. die Krone des Heiligen Römischen Reiches nieder; ab 1807 modernisieren die Preußischen Reformen Staat, Heer und Bildung.",
+      "1812 verliert Napoleon in Russland den größten Teil seiner Armee; 1815 endet seine Herrschaft endgültig bei Waterloo.",
+      "1810 bis 1821 erkämpft Mexiko seine Unabhängigkeit von Spanien; 1830 stürzt die Julirevolution in Paris die Bourbonen.",
+      "1832 fordern auf dem Hambacher Fest rund 30.000 Menschen Freiheit und deutsche Einheit; die Farben Schwarz-Rot-Gold werden zum Symbol der Bewegung."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die Revolutionen in Amerika und Frankreich beantworteten dieselbe Frage neu: Woher stammt die Macht des Staates? An die Stelle des Königs von Gottes Gnaden trat das Volk als Träger der Souveränität, das sich durch gewählte Vertreter eine Verfassung gibt. Die amerikanische Verfassung von 1787 setzte die Gewaltenteilung Montesquieus mit Kongress, Präsident und Oberstem Gerichtshof in die Praxis um; Frankreich probierte binnen zehn Jahren eine konstitutionelle Monarchie, eine radikale Republik, die Diktatur des Wohlfahrtsausschusses und das Direktorium aus, bevor Napoleon die Macht an sich riss.",
+          "Napoleon herrschte als Kaiser mit Volksabstimmungen, einem gefügigen Parlament und einer straffen Verwaltung, exportierte aber mit seinen Eroberungen Gesetzbuch, Gleichheit vor dem Gesetz und die Auflösung der alten Reichsstrukturen nach halb Europa. Die Reformen in Preußen, Bayern und Österreich waren zum Teil Antworten auf diese Herausforderung: Staaten, die überleben wollten, mussten ihre Untertanen zu Bürgern machen, die bereit waren, für das Vaterland zu kämpfen und Steuern zu zahlen.",
+          "Nach 1815 versuchten die Monarchen unter Führung Metternichs, das Rad zurückzudrehen. Zensur, Polizeispitzel, die Karlsbader Beschlüsse von 1819 und die Interventionen der Heiligen Allianz in Spanien und Italien sollten Verfassungen und nationale Bewegungen ersticken. Doch Großbritannien schied aus dem System aus, Griechenland, Belgien und die lateinamerikanischen Staaten erkämpften ihre Unabhängigkeit, und die Julirevolution von 1830 zeigte, dass Könige, die die Verfassung brachen, gestürzt werden konnten. Der Vormärz, die Zeit zwischen 1815 und 1848, war ein Wettlauf zwischen Unterdrückung und wachsendem Freiheitsverlangen."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Revolution beendete die Ständegesellschaft. Adelstitel, Zehnten, Frondienste und Zunftzwang wurden in Frankreich 1789 bis 1791 abgeschafft, Kirchengüter versteigert und Bauern zu Eigentümern ihres Landes. Die neuen Herren waren Besitzbürger, Anwälte, Kaufleute und Beamte; die Handwerker und Kleinhändler der Städte, die Sansculotten, hatten die Revolution auf der Straße vorangetrieben, blieben aber vom Wahlrecht meist ausgeschlossen. In Preußen hob das Oktoberedikt 1807 die Erbuntertänigkeit der Bauern auf, doch viele verloren beim Ablösen der Lasten ihr Land an die Gutsherren.",
+          "Frauen trugen die Revolution mit, vom Marsch nach Versailles über die politischen Klubs bis zu den Frauen, die Napoleon als Marketenderinnen in den Krieg folgten. Olympe de Gouges in Frankreich und Mary Wollstonecraft in England forderten gleiche Rechte, doch die Revolution schloss Frauen 1793 aus der Politik aus, und der Code civil stellte sie unter die Vormundschaft der Männer. Die Sklaverei wurde 1794 in den französischen Kolonien abgeschafft, von Napoleon 1802 wiedereingeführt und in Haiti von den Versklavten selbst beseitigt; in den USA schrieb die Verfassung die Sklaverei fest, und Britannien verbot 1807 zunächst nur den Sklavenhandel.",
+          "Der Krieg prägte den Alltag einer ganzen Generation. Die allgemeine Wehrpflicht, 1793 in Frankreich eingeführt, schickte Millionen junger Männer in die Heere; Einquartierungen, Requisitionen, Seuchen und die britische Seeblockade trafen die Zivilbevölkerung. Zugleich entstand eine politische Öffentlichkeit mit Zeitungen, Flugschriften, Liedern und Festen wie dem Hambacher Fest, und Farben, Kokarden und Hymnen wie die Marseillaise machten Politik zu einer Sache des Gefühls."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Revolution griff tief in die Religion ein. Frankreich verstaatlichte 1789 den Kirchenbesitz, ließ Priester auf die Verfassung schwören und versuchte 1793 mit einem Kult der Vernunft und einem neuen Kalender, das Christentum zu ersetzen; Napoleon söhnte sich 1801 im Konkordat mit dem Papst aus, hielt die Kirche aber unter staatlicher Aufsicht. In Deutschland löste der Reichsdeputationshauptschluss 1803 die geistlichen Fürstentümer und Klöster auf, und Juden erhielten in Frankreich 1791 und in Preußen 1812 erstmals Bürgerrechte.",
+          "Die Kunst wurde politisch. Jacques-Louis David malte den Ballhausschwur und den ermordeten Marat, Goya hielt die Erschießungen der Madrider Aufständischen 1808 fest, Delacroix schuf 1830 die Freiheit, die das Volk führt. Beethoven strich die Widmung seiner Dritten Sinfonie an Napoleon, als dieser sich zum Kaiser krönte; Dichter wie Byron und Hölderlin begeisterten sich für die Freiheit Griechenlands. Die Romantik entdeckte Volkslieder, Märchen und die mittelalterliche Vergangenheit und trug damit zur Entstehung nationaler Identitäten bei.",
+          "Wissenschaft und Bildung wurden zu Aufgaben des Staates. Frankreich führte das metrische System, die Polytechnische Schule und ein zentral gelenktes Schulwesen ein; die Gelehrten, die Napoleon nach Ägypten begleiteten, begründeten mit der Description de l'Égypte und dem Stein von Rosette die Ägyptologie. Wilhelm von Humboldt gründete 1810 die Universität Berlin nach dem Grundsatz der Einheit von Forschung und Lehre, und die Brüder Grimm, Sprachforscher und Historiker, machten die Universitäten zu Trägern des nationalen Gedankens."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Revolution schuf die rechtlichen Grundlagen der Marktwirtschaft: Gewerbefreiheit, Abschaffung der Zünfte, Schutz des Eigentums, einheitliche Maße und Gewichte und in Frankreich 1800 die Bank von Frankreich. Der Code civil und die Preußischen Reformen erlaubten es, Land frei zu kaufen und zu verkaufen und jedes Gewerbe zu betreiben. Die Zollschranken zwischen hunderten deutschen Kleinstaaten fielen erst nach und nach; der Deutsche Zollverein von 1834 war eine späte Frucht dieser Entwicklung.",
+          "Napoleons Kontinentalsperre gegen britische Waren ab 1806 sollte Großbritannien wirtschaftlich in die Knie zwingen, förderte aber vor allem Schmuggel und trieb die Preise für Zucker und Kaffee in die Höhe; zugleich regte sie den Anbau von Zuckerrüben und die Textilindustrie auf dem Festland an. Großbritannien, durch seine Flotte geschützt, finanzierte die Koalitionen gegen Frankreich mit den Gewinnen seiner beginnenden Industrialisierung und ging als führende Wirtschaftsmacht aus den Kriegen hervor.",
+          "Die Technik des Krieges und des Staates wandelte sich. Massenheere brauchten standardisierte Gewehre, Konservendosen, die Napoleons Regierung mit einem Preisausschreiben hervorbrachte, und den optischen Telegrafen, der Nachrichten in Stunden von Paris an die Grenzen trug. Nach 1815 erreichten Dampfmaschine und Eisenbahn den Kontinent; die erste deutsche Eisenbahn fuhr 1835 von Nürnberg nach Fürth, und die Arbeiterfrage, die 1848 auf die Tagesordnung kam, kündigte sich in den Textilstädten bereits an."
+        ]
+      }
     ]
   },
   {
@@ -878,6 +972,53 @@
       "völkerbund",
       "weltwirtschaftskrise",
       "faschismus"
+    ],
+    "keyFacts": [
+      "Im September 1914 stoppt die Marneschlacht den deutschen Vormarsch; bis zum Jahresende erstarrt die Westfront von der Nordsee bis zur Schweizer Grenze im Stellungskrieg.",
+      "1915 beginnt der Völkermord an den Armeniern im Osmanischen Reich, dem bis 1916 schätzungsweise eine Million Menschen zum Opfer fallen; im selben Jahr scheitert die alliierte Landung auf Gallipoli.",
+      "Am 9. November 1918 wird in Berlin die Republik ausgerufen; am 12. November erhalten Frauen in Deutschland das Wahlrecht und wählen am 19. Januar 1919 erstmals.",
+      "Die Spanische Grippe tötet zwischen 1918 und 1920 weltweit mindestens 20 bis 50 Millionen Menschen, mehr als der Krieg selbst.",
+      "Am 11. August 1919 tritt die Weimarer Verfassung in Kraft; im selben Jahr gründet Walter Gropius in Weimar das Bauhaus.",
+      "1923 erlebt Deutschland Ruhrbesetzung, Hyperinflation und Hitler-Putsch; die Rentenmark und die Verträge von Locarno 1925 leiten eine kurze Phase der Stabilität ein.",
+      "1930 führt Gandhi den Salzmarsch gegen die britische Herrschaft in Indien, 1934/35 rettet sich Maos Rote Armee im Langen Marsch, und 1936 bis 1938 lässt Stalin in der Großen Säuberung Hunderttausende ermorden."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Im Krieg verschob sich die Macht in allen Staaten hin zu den Militärs und Regierungen. In Deutschland regierte ab 1916 faktisch die Oberste Heeresleitung unter Hindenburg und Ludendorff, die den Kaiser entmachtete, den uneingeschränkten U-Boot-Krieg durchsetzte und im Herbst 1918 die Verantwortung für den Waffenstillstand den Parteien des Reichstags zuschob. Der zu Kriegsbeginn ausgerufene Burgfrieden zwischen den Parteien zerbrach 1917 über der Frage nach den Kriegszielen, als der Reichstag eine Friedensresolution ohne Annexionen verabschiedete. Auch in Frankreich und Großbritannien übernahmen mit Clemenceau und Lloyd George entschlossene Kriegspremiers das Ruder, die Presse wurde zensiert und Kriegsgegner wurden verfolgt.",
+          "Die Weimarer Republik schuf mit Verhältniswahlrecht, Volksentscheiden und einem direkt gewählten Reichspräsidenten eine der modernsten Verfassungen ihrer Zeit, doch der Artikel 48 erlaubte dem Präsidenten, mit Notverordnungen am Parlament vorbei zu regieren. Die Republik wurde von rechts und links bekämpft: Der Kapp-Putsch von 1920 scheiterte nur am Generalstreik der Arbeiter, die politischen Morde an Matthias Erzberger 1921 und Walther Rathenau 1922 zeigten die Gewaltbereitschaft rechter Geheimbünde. Ab 1930 regierten Präsidialkabinette mit Notverordnungen, und die Parteien der Mitte verloren an die Nationalsozialisten und die Kommunisten.",
+          "Außerhalb Deutschlands prägten neue Bewegungen die Politik. In Italien erzwang Mussolini 1922 mit dem Marsch auf Rom seine Ernennung zum Regierungschef und baute bis 1926 den ersten faschistischen Staat auf. In der Sowjetunion setzte sich Stalin nach Lenins Tod gegen Trotzki durch, den er 1929 des Landes verwies, und errichtete eine Alleinherrschaft mit Geheimpolizei und Lagern. Das britische Empire geriet unter Druck: In Irland führte der Osteraufstand von 1916 über einen Unabhängigkeitskrieg zum Irischen Freistaat von 1922, in Indien machte das Massaker von Amritsar 1919 Gandhis Bewegung der Gewaltlosigkeit zur Massenbewegung."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Der Krieg veränderte das Leben der Zivilbevölkerung tiefgreifend. Millionen Frauen arbeiteten in Munitionsfabriken, als Straßenbahnschaffnerinnen, in Büros und Lazaretten und hielten die Landwirtschaft am Laufen; in Deutschland stieg die Zahl der Arbeiterinnen in der Rüstungsindustrie auf über zwei Millionen. Die britische Seeblockade führte im Steckrübenwinter 1916/17 zu Hunger in deutschen Städten, an dessen Folgen Hunderttausende starben. An der Front dagegen zeigten die Weihnachtsfrieden von 1914, als deutsche und britische Soldaten in Flandern gemeinsam sangen, Geschenke tauschten und Fußball spielten, wie fremd der Hass der Propaganda den einfachen Soldaten sein konnte; die Heeresleitungen verboten solche Verbrüderungen in den folgenden Jahren streng.",
+          "Nach dem Krieg lebten allein in Deutschland rund 2,7 Millionen Kriegsversehrte, dazu Hunderttausende Witwen und Waisen, deren Versorgung die Staatshaushalte belastete. Das Frauenwahlrecht wurde in vielen Ländern zur Anerkennung der Kriegsleistung eingeführt: 1918 in Deutschland, Österreich und mit Einschränkungen in Großbritannien, 1920 in den USA, 1934 in der Türkei; Frankreich folgte erst 1944. In den Städten entstand das Bild der Neuen Frau mit Bubikopf, kurzem Rock, eigenem Einkommen und Zigarette, das die Illustrierten feierten und Konservative empörte. Für die Mehrheit der Frauen blieb der Alltag von Hausarbeit, schlecht bezahlter Erwerbsarbeit und Wohnungsnot bestimmt.",
+          "Die Zwischenkriegszeit war auch eine Zeit der Flüchtlinge: Griechen und Türken wurden 1923 zwangsweise ausgetauscht, Russen flohen vor den Bolschewiki, Armenier vor der Verfolgung. Für Staatenlose schuf der Völkerbund 1922 den Nansen-Pass. In den USA verbot die Prohibition von 1920 bis 1933 den Alkohol und ließ Schmuggel und organisierte Kriminalität blühen, während Hunderttausende Afroamerikaner in der Great Migration aus dem Süden in die Industriestädte des Nordens zogen. Die Weltwirtschaftskrise brachte ab 1930 Massenarbeitslosigkeit, Suppenküchen und Obdachlosensiedlungen von Berlin bis Chicago."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Kunst antwortete auf den Krieg mit Bruch und Provokation. 1916 gründeten Emigranten in Zürich den Dadaismus, der mit Lautgedichten und Collagen die Vernunft einer Welt verspottete, die Millionen in den Tod schickte. Expressionisten wie Otto Dix und George Grosz zeigten verstümmelte Soldaten und Kriegsgewinnler, Käthe Kollwitz gab dem Leid der Mütter eine Form, und Erich Maria Remarques Roman Im Westen nichts Neues wurde 1929 ein Welterfolg. Das Bauhaus verband Kunst und Handwerk zu einer sachlichen Gestaltung, die Architektur und Design bis heute prägt.",
+          "Die Goldenen Zwanziger machten Berlin, Paris und New York zu Zentren einer neuen Massenkultur. Der Jazz aus den USA eroberte die Tanzsäle, der Rundfunk begann 1923 in Deutschland zu senden, und das Kino wechselte 1927 vom Stummfilm zum Tonfilm. Filme wie Metropolis von Fritz Lang, Varietés und Revuen, Boxkämpfe und Sechstagerennen zogen Millionen an. Zugleich wehrten sich Konservative und Kirchen gegen die als sittenlos empfundene Großstadtkultur, und die Nationalsozialisten verunglimpften moderne Kunst als entartet.",
+          "In der Wissenschaft wurde das Weltbild neu vermessen. 1919 bestätigte eine britische Sonnenfinsternis-Expedition Einsteins allgemeine Relativitätstheorie und machte ihn über Nacht weltberühmt; wenige Jahre später begründeten Heisenberg, Schrödinger und Bohr die Quantenmechanik. 1928 entdeckte Alexander Fleming das Penicillin, 1922 öffnete Howard Carter das Grab Tutanchamuns. Religionen gerieten unter Druck: Die Sowjetunion verfolgte die orthodoxe Kirche, die Türkei schaffte das Kalifat ab, und in Mexiko führte der Kirchenkampf zum Cristero-Aufstand."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Der Erste Weltkrieg war der erste Industriekrieg, in dem die Fabrik über den Ausgang mitentschied. Das Hindenburg-Programm von 1916 unterstellte die deutsche Industrie den Bedürfnissen der Rüstung, das Hilfsdienstgesetz verpflichtete alle Männer zwischen 17 und 60 zur Arbeit. Weil die Blockade Rohstoffe abschnitt, entstanden Ersatzstoffe von Papierkleidung bis Kriegsbrot, und das Haber-Bosch-Verfahren lieferte Stickstoff für Sprengstoff und Dünger. Neue Waffen prägten die Schlachtfelder: Giftgas, das die deutsche Armee im April 1915 bei Ypern erstmals massenhaft einsetzte, Flugzeuge, U-Boote und der Panzer, den die Briten im September 1916 an der Somme erstmals ins Gefecht schickten.",
+          "Die Kriegskosten hatten alle Staaten mit Schulden überhäuft, Deutschland zudem mit Reparationen. Die Inflation vernichtete 1923 Sparvermögen und Renten des deutschen Mittelstands; erst der Dawes-Plan von 1924 mit amerikanischen Krediten und 1929 der Young-Plan schufen ein tragfähiges Zahlungssystem. Die Rationalisierung nach amerikanischem Vorbild mit Fließband, Zeitstudien und Großkonzernen wie der IG Farben steigerte die Produktion, und Massenprodukte wie Radio, Kühlschrank und Auto veränderten den Alltag der Wohlhabenderen. Charles Lindberghs Alleinflug über den Atlantik 1927 und die Luftschiffe der Zeppelin-Werft kündigten das Zeitalter des Luftverkehrs an.",
+          "Die Sowjetunion ging mit dem ersten Fünfjahresplan von 1928 einen anderen Weg: Der Staat baute in wenigen Jahren Schwerindustrie und Kraftwerke auf, zwang die Bauern in Kollektivwirtschaften und verursachte 1932/33 in der Ukraine und Kasachstan Hungersnöte mit Millionen Toten. Die Weltwirtschaftskrise beendete den kurzen Aufschwung des Westens: Banken brachen 1931 auch in Österreich und Deutschland zusammen, Länder schotteten sich mit Zöllen ab, und der Welthandel schrumpfte dramatisch. Die USA reagierten ab 1933 mit dem New Deal, Deutschland unter Hitler mit Arbeitsbeschaffung und Aufrüstung."
+        ]
+      }
     ]
   },
   {
@@ -917,6 +1058,53 @@
       "vernichtungskrieg",
       "widerstand",
       "kapitulation"
+    ],
+    "keyFacts": [
+      "Nach dem Reichstagsbrand vom 27. Februar 1933 setzt eine Notverordnung die Grundrechte außer Kraft; am 23. März 1933 entmachtet das Ermächtigungsgesetz den Reichstag, am 10. Mai brennen auf deutschen Plätzen die Bücher verfemter Autoren.",
+      "Im Dezember 1937 ermorden japanische Truppen in Nanking innerhalb weniger Wochen Zehntausende bis Hunderttausende Zivilisten und Kriegsgefangene.",
+      "Das Münchner Abkommen vom 30. September 1938 überlässt Hitler das Sudetenland; der Hitler-Stalin-Pakt vom 23. August 1939 teilt Osteuropa in einem geheimen Zusatzprotokoll auf.",
+      "Im Mai und Juni 1940 besiegt die Wehrmacht Frankreich in sechs Wochen, am 18. Juni ruft de Gaulle aus London zum Widerstand auf; im Sommer und Herbst scheitert die Luftwaffe in der Luftschlacht um England.",
+      "1942 wenden Midway im Pazifik und El Alamein in Nordafrika das Kriegsglück gegen Japan und Deutschland, noch bevor Stalingrad fällt.",
+      "Am 19. April 1943 erheben sich die letzten Bewohner des Warschauer Ghettos gegen die SS; am 20. Juli 1944 scheitert Stauffenbergs Attentat auf Hitler.",
+      "Im Februar 1945 legen Churchill, Roosevelt und Stalin in Jalta die Nachkriegsordnung fest; vom 20. November 1945 bis zum 1. Oktober 1946 stehen in Nürnberg die Hauptkriegsverbrecher vor einem internationalen Gericht."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Der nationalsozialistische Staat war kein geordnetes System, sondern ein Geflecht konkurrierender Machtapparate, die alle um die Gunst Hitlers rangen: Partei, Ministerien, die SS unter Heinrich Himmler mit Gestapo und Konzentrationslagern, Görings Vierjahresplanbehörde und Goebbels Propagandaministerium. Der Führer entschied oft spät und vage, und die Unterordnung aller Ebenen unter seinen vermuteten Willen trieb die Radikalisierung an. Die Justiz wurde zum Werkzeug des Regimes: Sondergerichte und ab 1934 der Volksgerichtshof verhängten Zehntausende Todesurteile, allein unter Roland Freisler mehr als 2.600. Volksabstimmungen mit über 90 Prozent Zustimmung, Massenaufmärsche und der Kult um den Führer ersetzten die Demokratie durch inszenierte Zustimmung.",
+          "In den besetzten Ländern herrschte Deutschland auf unterschiedliche Weise: In Polen und der Sowjetunion regierten Generalgouverneur und Reichskommissare mit Terror und Ausplünderung, in Westeuropa suchte man die Zusammenarbeit mit einheimischen Regierungen wie dem Vichy-Regime unter Marschall Pétain, das Juden auslieferte und Arbeiter nach Deutschland schickte. Kollaborateure wie der Norweger Vidkun Quisling gaben dem Verrat ihren Namen. Auch Japan errichtete in Ostasien eine Herrschaft, die als Großostasiatische Wohlstandssphäre beworben wurde, tatsächlich aber auf Ausbeutung, Zwangsarbeit und Massakern beruhte.",
+          "Die Alliierten hielten ihr Bündnis trotz tiefer Gegensätze zusammen. In der Atlantik-Charta von 1941 formulierten Roosevelt und Churchill Kriegsziele wie Selbstbestimmung und Freiheit von Furcht und Not, in Casablanca 1943 forderten sie die bedingungslose Kapitulation, in Teheran 1943 und Jalta 1945 einigten sie sich mit Stalin auf die zweite Front, die Grenzen Polens und die Aufteilung Deutschlands in Besatzungszonen. Der Widerstand gegen Hitler kam aus vielen Richtungen: vom Schreiner Georg Elser, dessen Bombe im November 1939 Hitler um wenige Minuten verfehlte, von kommunistischen Zellen, der Roten Kapelle, dem Kreisauer Kreis um Helmuth James von Moltke, den Offizieren des 20. Juli und den Partisanen in Jugoslawien, Polen, Italien und der Sowjetunion."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Nationalsozialisten versprachen eine Volksgemeinschaft ohne Klassenschranken und schlossen zugleich alle aus, die sie als fremd oder minderwertig erklärten: Juden, Sinti und Roma, Menschen mit Behinderungen, Homosexuelle, politische Gegner, Zeugen Jehovas und sogenannte Asoziale. Hitlerjugend und Bund Deutscher Mädel erfassten fast die gesamte Jugend, Arbeitsdienst und Wehrmacht die jungen Männer, und Organisationen wie Kraft durch Freude boten Reisen und Unterhaltung als Belohnung für Anpassung. Frauen wurden mit Mutterkreuz und Ehestandsdarlehen auf die Rolle der Mutter festgelegt, im Krieg aber massenhaft in Rüstungsbetrieben, als Flakhelferinnen und Nachrichtenhelferinnen eingesetzt.",
+          "Der Krieg erreichte die Zivilbevölkerung mit voller Wucht. Der Bombenkrieg, den die deutsche Luftwaffe mit Angriffen auf Warschau, Rotterdam und Coventry eröffnet hatte, traf ab 1942 deutsche Städte: Hamburg 1943 und Dresden 1945 gingen in Feuerstürmen unter, insgesamt starben in Deutschland etwa eine halbe Million Menschen durch Luftangriffe, Millionen Kinder wurden aufs Land verschickt. Rund 13 Millionen ausländische Zwangsarbeiter und Kriegsgefangene hielten die deutsche Wirtschaft am Laufen; sie lebten in Lagern, waren rechtlos und oft Hunger und Misshandlung ausgesetzt. Am Kriegsende flohen zwölf bis vierzehn Millionen Deutsche aus den Ostgebieten oder wurden vertrieben, Hunderttausende starben dabei.",
+          "Auch in den Ländern der Alliierten veränderte der Krieg den Alltag. In Großbritannien und den USA ersetzten Frauen die Männer in den Fabriken, Lebensmittel wurden rationiert, und Kinder wurden aus London evakuiert. Die USA internierten 1942 rund 120.000 Amerikaner japanischer Herkunft in Lagern, ein Unrecht, für das sich der Kongress erst 1988 entschuldigte. In der Sowjetunion wurden ganze Fabriken hinter den Ural verlagert, und die Belagerung Leningrads ließ eine Million Menschen verhungern. In den besetzten Ländern Europas bedeutete der Alltag Hunger, Razzien, Zwangsarbeit und die ständige Angst vor Verhaftung, während Nachbarn, Pfarrer und ganze Dörfer wie Le Chambon-sur-Lignon in Frankreich Verfolgte versteckten."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Nationalsozialisten stellten Kunst und Medien mit der Reichskulturkammer unter staatliche Kontrolle; wer nicht Mitglied war, durfte nicht arbeiten. Moderne Kunst wurde 1937 in der Ausstellung Entartete Kunst verhöhnt, Tausende Werke aus Museen entfernt und verkauft oder verbrannt. Der Volksempfänger brachte Hitlers Reden in jede Wohnung, Leni Riefenstahls Parteitagsfilme und Unterhaltungsfilme der Ufa lenkten ab und begeisterten, und die Olympischen Spiele 1936 in Berlin zeigten der Welt ein friedliches, weltoffenes Deutschland, während der afroamerikanische Sprinter Jesse Owens mit vier Goldmedaillen die Rassenlehre widerlegte. Hunderttausende, darunter Thomas Mann, Bertolt Brecht, Albert Einstein und die meisten jüdischen Wissenschaftler und Künstler, gingen ins Exil.",
+          "Die Kirchen verhielten sich widersprüchlich. Die Deutschen Christen wollten den Protestantismus mit dem Nationalsozialismus verschmelzen, wogegen sich 1934 die Bekennende Kirche mit der Barmer Erklärung stellte; Pfarrer wie Martin Niemöller und Dietrich Bonhoeffer landeten dafür im Konzentrationslager. Die katholische Kirche schloss 1933 ein Konkordat mit Hitler, doch die Predigten des Münsteraner Bischofs Clemens August von Galen gegen die Ermordung von Kranken und Behinderten zwangen das Regime 1941, die Morde der Aktion T4 zu verschleiern und zu verlagern. Ein geschlossener Widerstand der Kirchen gegen den Holocaust blieb aus, Einzelne wie der Berliner Dompropst Bernhard Lichtenberg bezahlten ihr öffentliches Gebet für die Juden mit dem Leben.",
+          "Der Krieg beschleunigte die Wissenschaft wie nie zuvor. Otto Hahn und Lise Meitner hatten 1938 die Kernspaltung entdeckt; in den USA baute das Manhattan-Projekt unter Robert Oppenheimer daraus bis 1945 die Atombombe. Radar, das britische Rechnersystem Colossus und Konrad Zuses Z3 von 1941 begründeten das Computerzeitalter, die Massenproduktion von Penicillin rettete unzählige Verwundete, und die deutsche Rakete V2 wurde von KZ-Häftlingen in den Stollen von Mittelbau-Dora gebaut, wo mehr Menschen starben als durch die Waffe selbst getötet wurden. Ärzte des Regimes verübten in Konzentrationslagern Menschenversuche, die nach dem Krieg im Nürnberger Ärzteprozess verhandelt wurden und zum Nürnberger Kodex über die Einwilligung von Versuchspersonen führten."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Nationalsozialisten überwanden die Arbeitslosigkeit mit Autobahnbau, Arbeitsbeschaffung und vor allem einer gigantischen Aufrüstung, die über verdeckte Kredite finanziert wurde und den Staat 1939 an den Rand des Bankrotts brachte. Der Vierjahresplan von 1936 unter Göring sollte Deutschland in vier Jahren kriegsfähig machen und trieb die Produktion von synthetischem Benzin und Gummi voran. Die Enteignung der Juden, beschönigend Arisierung genannt, brachte dem Staat und deutschen Unternehmern Milliardenwerte ein. Im Krieg plünderte das Reich die besetzten Länder aus: Frankreich zahlte Besatzungskosten, die Ukraine sollte nach dem Hungerplan Getreide liefern, während Millionen Menschen verhungern sollten.",
+          "Ab 1942 steigerte Rüstungsminister Albert Speer die deutsche Waffenproduktion trotz Bombardierung bis 1944 auf das Dreifache, gestützt auf Zwangsarbeiter und KZ-Häftlinge, die von Konzernen wie IG Farben, Krupp und Siemens angefordert wurden. Doch gegen die vereinte Wirtschaftskraft der Alliierten hatte Deutschland keine Chance: Die USA lieferten schon vor ihrem Kriegseintritt über das Leih-und-Pacht-Gesetz von 1941 Waffen und Lastwagen an Großbritannien und die Sowjetunion, bauten Liberty-Schiffe in Tagen statt Monaten und stellten bis 1945 fast 300.000 Flugzeuge her. Die sowjetische Industrie fertigte im Ural den Panzer T-34 in größerer Zahl als alle deutschen Panzerwerke zusammen.",
+          "Technik entschied über Schlachten. Der Schlacht im Atlantik, in der deutsche U-Boote die Versorgung Großbritanniens abschneiden wollten, begegneten die Alliierten mit Geleitzügen, Radar, Peilgeräten und der Entschlüsselung des Enigma-Funkverkehrs in Bletchley Park. Flugzeugträger lösten im Pazifik die Schlachtschiffe als Hauptwaffe ab, die deutsche Me 262 war 1944 der erste Düsenjäger im Einsatz, und die V2 die erste Rakete, die den Rand des Weltraums erreichte. Für die Zeit nach dem Krieg planten die Alliierten in Bretton Woods 1944 eine neue Weltwirtschaftsordnung mit festen Wechselkursen, dem Dollar als Leitwährung, Weltbank und Internationalem Währungsfonds."
+        ]
+      }
     ]
   },
   {
@@ -958,6 +1146,53 @@
       "globalisierung",
       "terrorismus",
       "pandemie"
+    ],
+    "keyFacts": [
+      "1948/49 versorgen die Westmächte das von der Sowjetunion blockierte West-Berlin über die Luftbrücke; 1949 entstehen die NATO und zwei deutsche Staaten.",
+      "1950 bis 1953 wird der Koreakrieg zum ersten heißen Krieg des Kalten Krieges; 1955 gründet die Sowjetunion als Gegenstück zur NATO den Warschauer Pakt.",
+      "1960 werden im sogenannten Afrikanischen Jahr 17 afrikanische Staaten unabhängig; 1961 entsteht in Belgrad die Bewegung der Blockfreien.",
+      "1965 bis 1975 kämpfen die USA in Vietnam vergeblich gegen den kommunistischen Norden; 1968 schlägt der Warschauer Pakt den Prager Frühling nieder.",
+      "1986 explodiert ein Reaktor in Tschernobyl; 1989 lässt Chinas Führung die Proteste auf dem Tian'anmen-Platz niederschlagen, und am 3. Oktober 1990 wird Deutschland wiedervereinigt.",
+      "1991 gibt das CERN das World Wide Web frei; 1994 sterben beim Völkermord in Ruanda innerhalb von 100 Tagen rund 800.000 Menschen.",
+      "2015 einigen sich fast alle Staaten auf das Pariser Klimaabkommen; am 24. Februar 2022 beginnt Russland einen Angriffskrieg gegen die Ukraine."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die Ordnung des Kalten Krieges beruhte auf zwei Bündnissystemen. Mit der Truman-Doktrin von 1947 verpflichteten sich die USA, jede von kommunistischer Übernahme bedrohte Regierung zu unterstützen; diese Politik der Eindämmung, Containment, fand in der NATO von 1949 ihre militärische Form. Die Sowjetunion antwortete 1955 mit dem Warschauer Pakt und band die Staaten Osteuropas über kommunistische Einheitsparteien, Geheimdienste und Wirtschaftsverträge an sich. Wer aus diesem Block ausbrechen wollte, wie Ungarn 1956 oder die Tschechoslowakei 1968, wurde mit Panzern zurückgeholt; Leonid Breschnew erklärte 1968 die begrenzte Souveränität der sozialistischen Staaten zur Doktrin.",
+          "Zwischen den Blöcken suchten die neuen Staaten Asiens und Afrikas einen dritten Weg. Auf der Konferenz von Bandung 1955 und in der Bewegung der Blockfreien ab 1961 forderten Politiker wie Nehru, Nasser, Sukarno und Tito Selbstbestimmung, Abrüstung und wirtschaftliche Gerechtigkeit. Zugleich wurden viele dieser Länder zu Schauplätzen von Stellvertreterkriegen, in denen Washington und Moskau Regierungen stützten oder stürzten, etwa im Kongo, in Angola, Chile oder Afghanistan. In den 1970er Jahren milderte die Entspannungspolitik die Gegensätze: Verträge über die Begrenzung strategischer Waffen und die Schlussakte von Helsinki 1975 schufen Regeln, auf die sich Bürgerrechtler im Osten später berufen konnten.",
+          "Nach 1990 schien die liberale Demokratie gesiegt zu haben; die Europäische Union nahm 2004 zehn meist osteuropäische Staaten auf, und die NATO dehnte sich nach Osten aus. Doch der Aufstieg Chinas zur zweiten Supermacht, der Wiederaufstieg Russlands unter Wladimir Putin, Bürgerkriege in Syrien und Afrika sowie populistische Bewegungen in Europa und den USA veränderten das Bild. Der Austritt Großbritanniens aus der EU 2020 und der russische Angriff auf die Ukraine 2022 zeigten, dass Frieden und Zusammenarbeit in Europa nicht selbstverständlich sind."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "In Westeuropa brachte das Wirtschaftswunder der 1950er und 1960er Jahre Vollbeschäftigung, Auto, Kühlschrank und Fernseher in Millionen Haushalte. Die Bundesrepublik warb ab 1955 Gastarbeiter aus Italien, Griechenland, Spanien und der Türkei an, aus denen eine Einwanderungsgesellschaft wurde. In der DDR und den Ostblockstaaten sicherte der Staat Arbeit, Wohnung und Kinderbetreuung, überwachte aber das Leben der Bürger durch Geheimdienste wie die Stasi und schränkte Reisen und Meinungsfreiheit ein. Die Konsumwelt des Westens, sichtbar im Westfernsehen, wurde zu einem stillen Argument gegen das System.",
+          "Die 1960er Jahre stellten die alten Autoritäten in Frage. In den USA erkämpfte die Bürgerrechtsbewegung um Rosa Parks und Martin Luther King das Ende der gesetzlichen Rassentrennung, Studenten in Berkeley, Paris, Berlin und Mexiko-Stadt protestierten 1968 gegen Vietnamkrieg, verkrustete Universitäten und die Generation ihrer Eltern. Die Antibabypille, die Frauenbewegung und neue Scheidungs- und Gleichstellungsgesetze veränderten das Familienleben; in der Schweiz erhielten Frauen erst 1971 das Wahlrecht. Umwelt- und Friedensbewegungen der 1970er und 1980er Jahre, verstärkt durch Tschernobyl, brachten grüne Parteien in die Parlamente.",
+          "Die Weltbevölkerung wuchs von 2,5 Milliarden im Jahr 1950 auf über 8 Milliarden im Jahr 2022, und erstmals lebte die Mehrheit der Menschen in Städten. Bildung breitete sich aus, doch Mädchen wurden vielerorts weiter benachteiligt; die Pakistanerin Malala Yousafzai, die 2012 wegen ihres Einsatzes für Mädchenbildung von den Taliban angeschossen wurde, erhielt 2014 als jüngste Preisträgerin den Friedensnobelpreis. Migration, Flucht vor Kriegen und der Wunsch nach Arbeit brachten Millionen Menschen über Grenzen und machten Einwanderung zu einem der umstrittensten Themen der Gegenwart."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Popkultur wurde zum Exportschlager des Westens: Rock 'n' Roll, Hollywoodfilme, Jeans und Coca-Cola verbreiteten ein Lebensgefühl, dem die Jugend auch hinter dem Eisernen Vorhang folgte, während die Ostblockstaaten mit sozialistischem Realismus und staatlich geförderter Kunst gegenhielten. Fernsehen wurde ab den 1950er Jahren zum Leitmedium, das Mondlandung, Vietnamkrieg und Mauerfall in die Wohnzimmer brachte. Literatur und Film verarbeiteten Weltkrieg und Holocaust, Diktatur und Exil, von Anne Franks Tagebuch über Alexander Solschenizyns Archipel Gulag bis zu Gabriel García Márquez und dem lateinamerikanischen Roman.",
+          "Die Wissenschaft erlebte einen beispiellosen Aufschwung, oft finanziert vom Wettlauf der Systeme. 1953 entschlüsselten Watson, Crick und Franklin die Struktur der DNA, Impfstoffe gegen Polio und die Ausrottung der Pocken 1980 verlängerten das Leben, die Grüne Revolution mit ertragreichen Getreidesorten wendete Hungersnöte in Asien ab. Der Transistor von 1947 und der Mikrochip machten Computer klein und billig; aus einem Militärnetz der USA erwuchs das Internet, das mit dem World Wide Web ab 1991 die Welt verband. Im 21. Jahrhundert prägen Smartphones, soziale Medien und künstliche Intelligenz Wissen, Öffentlichkeit und Arbeit.",
+          "Religion blieb eine gestaltende Kraft. Das Zweite Vatikanische Konzil von 1962 bis 1965 öffnete die katholische Kirche für die moderne Welt, die Befreiungstheologie in Lateinamerika stellte sich an die Seite der Armen, und der polnische Papst Johannes Paul II. stärkte den Widerstand gegen den Kommunismus. Die Iranische Revolution von 1979 machte den politischen Islam zu einer Weltmacht, und islamistischer Terror von al-Qaida bis zum sogenannten Islamischen Staat prägte die Sicherheitspolitik nach 2001. In Europa dagegen verloren die Kirchen viele Mitglieder, und die Gesellschaft wurde zunehmend säkular und religiös vielfältig."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Weltwirtschaft nach 1945 folgte im Westen den Regeln von Bretton Woods: fester Wechselkurs zum Dollar, Internationaler Währungsfonds und Weltbank, Abbau von Zöllen. Marshallplan, Wiederaufbau und die Soziale Marktwirtschaft nach Ludwig Erhard bescherten Westeuropa drei Jahrzehnte Wachstum, Japan stieg zur zweitgrößten Industrienation auf. Im Osten setzten Planwirtschaften auf Schwerindustrie und Fünfjahrpläne; sie hoben den Lebensstandard zunächst, konnten aber mit Konsumgütern und Computertechnik des Westens später nicht mithalten und trugen zum Zusammenbruch 1989 bei.",
+          "Die Ölkrisen von 1973 und 1979 beendeten den Boom, Inflation und Arbeitslosigkeit stiegen. Margaret Thatcher in Großbritannien und Ronald Reagan in den USA antworteten ab 1979 mit Privatisierung, Steuersenkungen und Deregulierung; die Macht der Gewerkschaften sank, die der Finanzmärkte wuchs. Zugleich öffnete Deng Xiaoping China ab 1978 für Marktwirtschaft und ausländisches Kapital; mit dem Beitritt zur Welthandelsorganisation 2001 wurde China zur Fabrik der Welt und hob Hunderte Millionen Menschen aus der Armut. Containerschiffe, Billigflüge und digitale Netze ließen Handel und Produktionsketten global werden.",
+          "Die Technik veränderte den Alltag in immer kürzeren Abständen: Düsenflugzeug und Atomkraftwerk in den 1950er Jahren, Taschenrechner und Farbfernseher in den 1970ern, Personal Computer in den 1980ern, Mobiltelefon und Internet in den 1990ern, das iPhone 2007 und seither Cloud, Plattformen und künstliche Intelligenz. Der Preis dieses Fortschritts wurde sichtbar: Der Ausstoß von Treibhausgasen verdreifachte sich seit 1960, und das Pariser Klimaabkommen von 2015 verpflichtet die Staaten, die Erderwärmung deutlich unter zwei Grad zu halten. Wind- und Solarenergie, Elektroautos und Batterien sollen die Wirtschaft des 21. Jahrhunderts von Kohle, Öl und Gas lösen."
+        ]
+      }
     ]
   }
 ]

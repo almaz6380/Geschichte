@@ -2150,6 +2150,27 @@
     "importance": 3
   },
   {
+    "id": "schlacht-von-badr",
+    "title": "Schlacht von Badr",
+    "year": 624,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Die kleine muslimische Gemeinde aus Medina besiegt bei der Oase Badr ein deutlich größeres Heer der Mekkaner.",
+    "text": "Zwei Jahre nach der Hidschra kam es im März 624 bei der Oase Badr südwestlich von Medina zur ersten großen Schlacht zwischen Mohammeds Anhängern und den führenden Familien Mekkas. Rund 300 Muslime standen etwa 1.000 Mekkanern gegenüber, die zum Schutz einer Handelskarawane ausgerückt waren, und errangen dennoch einen klaren Sieg, bei dem mehrere ihrer schärfsten Gegner fielen. Für die Muslime war Badr ein Zeichen göttlichen Beistands und stärkte das Ansehen Mohammeds in Medina und bei den Stämmen Arabiens erheblich. Es folgten die Niederlage bei Uhud 625 und die erfolgreiche Verteidigung Medinas in der Grabenschlacht 627, bevor Mohammed 630 Mekka gewann.",
+    "personIds": [
+      "mohammed"
+    ],
+    "tags": [
+      "badr",
+      "mekka",
+      "medina",
+      "schlacht"
+    ],
+    "importance": 2
+  },
+  {
     "id": "arabische-eroberung-jerusalems",
     "title": "Eroberung Jerusalems durch die Araber",
     "year": 638,
@@ -2188,6 +2209,26 @@
     "importance": 3
   },
   {
+    "id": "schlacht-von-kerbela",
+    "title": "Schlacht von Kerbela",
+    "year": 680,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Husain, der Enkel des Propheten, wird mit seinen Gefährten von Truppen des Umayyadenkalifen Yazid getötet; die Trennung von Sunniten und Schiiten vertieft sich.",
+    "text": "Nach dem Tod des Kalifen Muawiya 680 folgte ihm sein Sohn Yazid, was viele Muslime als Bruch mit der Wahl des Kalifen empfanden. Husain ibn Ali, Enkel Mohammeds und Sohn des vierten Kalifen Ali, zog mit seiner Familie und wenigen Dutzend Gefährten nach Kufa im Irak, wo ihn Anhänger zur Führung eingeladen hatten. Am 10. Oktober 680 wurde die kleine Gruppe bei Kerbela von einem weit überlegenen Heer eingeschlossen, von der Wasserstelle abgeschnitten und nach einem letzten Kampf getötet. Für die Schiiten, die Anhänger Alis und seiner Nachkommen, wurde Husain zum Märtyrer; sie gedenken seines Todes bis heute jedes Jahr am Aschura-Tag, und Kerbela ist einer ihrer wichtigsten Wallfahrtsorte.",
+    "personIds": [],
+    "tags": [
+      "kerbela",
+      "schiiten",
+      "sunniten",
+      "husain",
+      "umayyaden"
+    ],
+    "importance": 3
+  },
+  {
     "id": "wu-zetian-wird-kaiserin",
     "title": "Wu Zetian wird Kaiserin von China",
     "year": 690,
@@ -2209,6 +2250,25 @@
     "importance": 2
   },
   {
+    "id": "belagerung-konstantinopels-717",
+    "title": "Arabische Belagerung Konstantinopels",
+    "year": 717,
+    "endYear": 718,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "europa",
+    "summary": "Ein großes Heer und eine Flotte der Umayyaden belagern ein Jahr lang die byzantinische Hauptstadt, scheitern aber an Mauern, Griechischem Feuer und Winter.",
+    "text": "Nach der Eroberung Syriens, Ägyptens und Nordafrikas wollten die Umayyaden auch das christliche Byzanz bezwingen, dessen Hauptstadt sie schon 674 bis 678 vergeblich belagert hatten. Im Sommer 717 schloss der Feldherr Maslama mit einem Landheer und hunderten Schiffen Konstantinopel ein, das der neue Kaiser Leo III. energisch verteidigte. Byzantinische Schiffe zerstörten die arabische Flotte mit dem Griechischen Feuer, einer brennenden Flüssigkeit, ein ungewöhnlich harter Winter und Seuchen dezimierten die Belagerer, und die Bulgaren griffen das arabische Lager an. Im August 718 brach Maslama die Belagerung ab; Byzanz bestand weitere sieben Jahrhunderte und blieb die Schranke zwischen dem Kalifat und Südosteuropa.",
+    "personIds": [],
+    "tags": [
+      "byzanz",
+      "konstantinopel",
+      "umayyaden",
+      "belagerung"
+    ],
+    "importance": 2
+  },
+  {
     "id": "schlacht-bei-tours-und-poitiers",
     "title": "Schlacht bei Tours und Poitiers",
     "year": 732,
@@ -2226,6 +2286,25 @@
       "schlacht"
     ],
     "importance": 2
+  },
+  {
+    "id": "abbasiden-revolution",
+    "title": "Abbasiden-Revolution",
+    "year": 750,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Ein Aufstand aus Chorasan stürzt die Umayyaden; die Abbasiden übernehmen das Kalifat und verlagern das Zentrum des Reiches nach Osten.",
+    "text": "Die Herrschaft der Umayyaden war bei vielen nichtarabischen Muslimen, vor allem Persern, verhasst, weil sie trotz ihres Übertritts zum Islam höhere Steuern zahlten und von Ämtern ausgeschlossen blieben; auch die Schiiten und viele fromme Araber lehnten die Dynastie ab. Die Abbasiden, Nachkommen eines Onkels des Propheten, sammelten diese Unzufriedenen, und 747 erhoben sich unter dem Feldherrn Abu Muslim in Chorasan Truppen unter schwarzen Bannern. Im Januar 750 besiegten sie das Umayyadenheer am Großen Zab im Irak, der letzte Umayyadenkalif Marwan II. wurde auf der Flucht in Ägypten getötet, und fast die gesamte Familie fiel einem Massaker zum Opfer. Nur Abd ar-Rahman entkam nach Spanien, wo er 756 das Emirat von Córdoba gründete. Die Abbasiden öffneten Verwaltung und Hof für Perser und andere Völker und machten mit Bagdad den Irak zum Zentrum der islamischen Welt.",
+    "personIds": [],
+    "tags": [
+      "abbasiden",
+      "umayyaden",
+      "chorasan",
+      "revolution"
+    ],
+    "importance": 3
   },
   {
     "id": "gruendung-bagdads",
@@ -2303,6 +2382,27 @@
       "karolinger",
       "papst",
       "aachen"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "al-chwarizmi-begruendet-die-algebra",
+    "title": "Al-Chwarizmi begründet die Algebra",
+    "year": 820,
+    "endYear": null,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Der Mathematiker al-Chwarizmi verfasst in Bagdad ein Lehrbuch zum Lösen von Gleichungen, aus dessen Titel das Wort Algebra entsteht.",
+    "text": "Um 820 schrieb Muhammad ibn Musa al-Chwarizmi am Hof des Kalifen al-Mamun das Kurzgefasste Buch über das Rechnen durch Ergänzen und Ausgleichen, arabisch al-dschabr wal-muqabala. Darin zeigte er Schritt für Schritt, wie sich Gleichungen ersten und zweiten Grades lösen lassen, und erläuterte die Anwendung auf Erbteilungen, Handel und Landvermessung; aus al-dschabr wurde das Wort Algebra. In einer zweiten Schrift erklärte er das Rechnen mit den indischen Ziffern und der Null, das sich in lateinischer Übersetzung unter seinem Namen als Algorismus in Europa verbreitete; daraus entstand der Begriff Algorithmus. Al-Chwarizmi berechnete außerdem astronomische Tafeln und schrieb ein Erdkundewerk mit den Koordinaten von über 2.000 Orten.",
+    "personIds": [
+      "al-chwarizmi"
+    ],
+    "tags": [
+      "algebra",
+      "mathematik",
+      "bagdad",
+      "wissenschaft"
     ],
     "importance": 3
   },
@@ -2402,6 +2502,28 @@
       "ungarn",
       "augsburg",
       "kaisertum"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "fatimiden-gruenden-kairo",
+    "title": "Fatimiden gründen Kairo und die al-Azhar",
+    "year": 969,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "afrika",
+    "summary": "Die schiitischen Fatimiden erobern Ägypten, gründen die Residenzstadt al-Qahira und errichten die Moschee al-Azhar als Lehrstätte.",
+    "text": "Die Fatimiden, eine schiitische Dynastie, die sich auf Fatima, die Tochter des Propheten, zurückführte, hatten 909 in Nordafrika ein eigenes Kalifat errichtet. 969 eroberte ihr Feldherr Dschauhar Ägypten und ließ nördlich der alten Hauptstadt Fustat eine neue Palaststadt anlegen, die den Namen al-Qahira, die Siegreiche, erhielt; daraus wurde Kairo. Ab 970 entstand dort die Moschee al-Azhar, in der bald Rechtsgelehrte und Theologen unterrichteten; sie gilt als eine der ältesten noch bestehenden Hochschulen der Welt. Unter den Fatimiden wurde Kairo mit Bibliotheken, Märkten und dem Handel über das Rote Meer nach Indien zum reichsten Zentrum der islamischen Welt; nach dem Ende der Dynastie 1171 machte Saladin die al-Azhar zu einer sunnitischen Lehranstalt, die sie bis heute ist.",
+    "personIds": [
+      "saladin"
+    ],
+    "tags": [
+      "fatimiden",
+      "kairo",
+      "al-azhar",
+      "ägypten",
+      "bildung"
     ],
     "importance": 2
   },
@@ -2509,6 +2631,26 @@
     "importance": 3
   },
   {
+    "id": "schlacht-von-manzikert",
+    "title": "Seldschuken siegen bei Manzikert",
+    "year": 1071,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "summary": "Sultan Alp Arslan besiegt das byzantinische Heer und nimmt Kaiser Romanos IV. gefangen; Anatolien wird türkisch und islamisch.",
+    "text": "Die Seldschuken, ein türkisches Nomadenvolk aus Zentralasien, hatten den sunnitischen Islam angenommen, 1055 Bagdad eingenommen und den Abbasidenkalifen unter ihren Schutz gestellt; ihr Herrscher trug seither den Titel Sultan. Am 26. August 1071 stellte sich Kaiser Romanos IV. Diogenes bei Manzikert in Ostanatolien dem Heer Alp Arslans, wurde durch die Reitertaktik der Türken geschlagen und geriet in Gefangenschaft. Alp Arslan ließ ihn gegen Lösegeld frei, doch in Byzanz brachen Bürgerkriege aus, und türkische Stämme drangen fast ungehindert nach Kleinasien vor, wo das Sultanat der Rum-Seldschuken mit der Hauptstadt Konya entstand. Der Hilferuf des byzantinischen Kaisers an den Papst war einer der Anlässe für den Ersten Kreuzzug 1096.",
+    "personIds": [],
+    "tags": [
+      "seldschuken",
+      "byzanz",
+      "anatolien",
+      "türken",
+      "schlacht"
+    ],
+    "importance": 3
+  },
+  {
     "id": "gang-nach-canossa",
     "title": "Investiturstreit und Gang nach Canossa",
     "year": 1077,
@@ -2603,6 +2745,27 @@
       "tempel",
       "hinduismus",
       "südostasien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "ibn-ruschd-erklaert-aristoteles",
+    "title": "Ibn Ruschd erklärt Aristoteles in Córdoba",
+    "year": 1169,
+    "endYear": null,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "europa",
+    "summary": "Der Richter und Arzt Ibn Ruschd beginnt im Auftrag des Almohadenkalifen seine Kommentare zu Aristoteles, die das Denken Europas verändern.",
+    "text": "Um 1169 beauftragte der Almohadenkalif Abu Yaqub Yusuf den Gelehrten Ibn Ruschd aus Córdoba, die schwer verständlichen Schriften des Aristoteles zu erklären. In den folgenden Jahrzehnten verfasste Ibn Ruschd Kommentare zu fast allen Werken des griechischen Philosophen und verteidigte in einer eigenen Abhandlung die Vereinbarkeit von Vernunft und Offenbarung gegen die Kritik des Theologen al-Ghazali. 1195 fiel er wegen seiner Philosophie vorübergehend in Ungnade und musste in die Verbannung. Seine Kommentare wurden schon im 13. Jahrhundert ins Lateinische und Hebräische übersetzt; an der Universität Paris galt er schlicht als der Kommentator, und Thomas von Aquin setzte sich intensiv mit ihm auseinander.",
+    "personIds": [
+      "ibn-ruschd"
+    ],
+    "tags": [
+      "philosophie",
+      "aristoteles",
+      "al-andalus",
+      "córdoba"
     ],
     "importance": 2
   },
@@ -2807,6 +2970,28 @@
     "importance": 2
   },
   {
+    "id": "timbuktu-gelehrtenzentrum",
+    "title": "Timbuktu wird Handels- und Gelehrtenzentrum",
+    "year": 1325,
+    "endYear": null,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "afrika",
+    "summary": "Unter dem Mali-Reich entwickelt sich die Karawanenstadt am Niger zu einem Zentrum des Goldhandels und der islamischen Gelehrsamkeit.",
+    "text": "Timbuktu war um 1100 als Lagerplatz von Tuareg-Nomaden am Rand der Sahara entstanden, wo Karawanen mit Salz aus der Wüste auf Boote mit Gold, Elfenbein und Sklaven vom Niger trafen. Nach seiner Pilgerreise nach Mekka brachte Mansa Musa 1325 den andalusischen Baumeister Abu Ishaq as-Sahili mit, der die große Dschingereber-Moschee aus Lehm errichtete; an der Sankoré-Moschee und in Privathäusern entstanden Schulen, in denen Gelehrte aus Nordafrika und Ägypten Recht, Grammatik, Astronomie und Medizin lehrten. Im 15. und 16. Jahrhundert unter dem Songhai-Reich war Timbuktu mit tausenden Studenten und einem regen Handel mit Handschriften eine der bedeutendsten Bildungsstädte Afrikas. Zehntausende dieser Manuskripte sind bis heute erhalten und widerlegen das Vorurteil, Afrika südlich der Sahara habe keine Schriftkultur gehabt.",
+    "personIds": [
+      "ibn-battuta"
+    ],
+    "tags": [
+      "timbuktu",
+      "mali",
+      "westafrika",
+      "handel",
+      "bildung"
+    ],
+    "importance": 2
+  },
+  {
     "id": "hundertjaehriger-krieg",
     "title": "Hundertjähriger Krieg",
     "year": 1337,
@@ -2848,6 +3033,26 @@
     "importance": 3
   },
   {
+    "id": "bau-der-alhambra",
+    "title": "Blütezeit der Alhambra in Granada",
+    "year": 1350,
+    "endYear": null,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "europa",
+    "summary": "Die Nasriden-Sultane errichten in Granada die Palaststadt Alhambra, das prächtigste Bauwerk des islamischen Spanien.",
+    "text": "Nachdem die christlichen Königreiche im 13. Jahrhundert Córdoba und Sevilla erobert hatten, blieb das Emirat Granada als letzter muslimischer Staat auf der Iberischen Halbinsel bestehen und zahlte Tribut an Kastilien. Auf einem Hügel über der Stadt bauten die Nasriden-Sultane die Alhambra, die Rote Burg, zu einer befestigten Palaststadt aus; ihre schönsten Teile wie der Comares-Palast und der Löwenhof entstanden um die Mitte des 14. Jahrhunderts unter Yusuf I. und Muhammad V. Stuckornamente, Kalligrafien mit Koranversen und Gedichten, farbige Fliesen, Holzdecken und von Wasser durchzogene Gärten machen die Anlage zu einem Höhepunkt islamischer Kunst. Nach 1492 nutzten die spanischen Könige die Alhambra weiter, sodass sie fast unverändert erhalten blieb und heute zum Weltkulturerbe gehört.",
+    "personIds": [],
+    "tags": [
+      "alhambra",
+      "granada",
+      "architektur",
+      "al-andalus",
+      "kunst"
+    ],
+    "importance": 2
+  },
+  {
     "id": "erster-hansetag",
     "title": "Erster Hansetag in Lübeck",
     "year": 1356,
@@ -2864,6 +3069,28 @@
       "handel",
       "städtebund",
       "kogge"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "eroberungen-timurs",
+    "title": "Die Eroberungen Timurs",
+    "year": 1370,
+    "endYear": 1405,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "asien",
+    "summary": "Von Samarkand aus unterwirft Timur Persien, Indien, Syrien und Anatolien und macht seine Hauptstadt zu einem Zentrum von Kunst und Wissenschaft.",
+    "text": "Timur, ein türkisch-mongolischer Kriegsherr aus dem heutigen Usbekistan, übernahm 1370 die Macht in Samarkand und führte in den folgenden 35 Jahren fast ununterbrochen Krieg. Seine Reiterheere eroberten Persien, schlugen 1395 die Goldene Horde, plünderten 1398 Delhi, 1400 und 1401 Aleppo, Damaskus und Bagdad und besiegten 1402 bei Ankara den osmanischen Sultan Bayezid I., der in Gefangenschaft starb. Timur ließ als Warnung Türme aus Schädeln errichten; Hunderttausende kamen durch seine Feldzüge um, und ganze Landstriche verödeten. Zugleich holte er Handwerker, Baumeister und Gelehrte nach Samarkand, wo prächtige Moscheen und Mausoleen entstanden und sein Enkel Ulugh Beg später eine der besten Sternwarten der Welt errichtete. Timur starb 1405 zu Beginn eines Feldzugs gegen China; sein Nachfahre Babur gründete 1526 das Mogulreich in Indien.",
+    "personIds": [
+      "timur",
+      "ibn-chaldun"
+    ],
+    "tags": [
+      "timur",
+      "samarkand",
+      "zentralasien",
+      "eroberung"
     ],
     "importance": 2
   },
@@ -2962,6 +3189,25 @@
       "osmanen",
       "belagerung",
       "ende des mittelalters"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "fall-granadas",
+    "title": "Fall Granadas",
+    "year": 1492,
+    "endYear": null,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "europa",
+    "summary": "Der letzte Emir Granadas übergibt die Stadt an Isabella von Kastilien und Ferdinand von Aragón; die muslimische Herrschaft in Spanien endet nach fast 800 Jahren.",
+    "text": "Seit 1482 führten die katholischen Könige Isabella und Ferdinand Krieg gegen das durch Familienstreit geschwächte Emirat Granada und eroberten Stadt um Stadt. Nach monatelanger Belagerung übergab Emir Muhammad XII., den die Spanier Boabdil nannten, am 2. Januar 1492 die Alhambra; der Legende nach weinte er beim letzten Blick auf die Stadt. Der Übergabevertrag sicherte den Muslimen Religionsfreiheit und Eigentum zu, doch bereits um 1500 wurden sie zur Taufe gezwungen, und 1609 bis 1614 vertrieb Spanien die Nachkommen dieser Morisken. Noch im selben Jahr 1492 mussten die Juden Spanien verlassen, und Kolumbus segelte im Auftrag der Könige nach Westen. Mit Granada endete die Reconquista, die Rückeroberung der Halbinsel durch die christlichen Reiche, die 711 mit der arabischen Eroberung begonnen hatte.",
+    "personIds": [],
+    "tags": [
+      "granada",
+      "reconquista",
+      "al-andalus",
+      "spanien"
     ],
     "importance": 3
   },
@@ -3865,6 +4111,27 @@
     "importance": 3
   },
   {
+    "id": "verfassung-der-usa",
+    "title": "Verfassung der Vereinigten Staaten",
+    "year": 1787,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "summary": "In Philadelphia beschließen die Delegierten der Staaten die erste moderne geschriebene Verfassung mit Gewaltenteilung und einem gewählten Präsidenten.",
+    "text": "Nach dem Unabhängigkeitskrieg bildeten die dreizehn Staaten nur einen lockeren Bund ohne Steuer- und Handelsbefugnisse, was zu Schulden, Unruhen und Streit führte. Von Mai bis September 1787 berieten 55 Delegierte unter dem Vorsitz George Washingtons in Philadelphia unter Ausschluss der Öffentlichkeit eine neue Ordnung; James Madison gilt als ihr wichtigster Architekt. Die Verfassung teilte die Macht zwischen einem Kongress aus zwei Kammern, einem Präsidenten und einem Obersten Gerichtshof und zwischen Bund und Einzelstaaten; ein Kompromiss zählte versklavte Menschen zu drei Fünfteln bei der Sitzverteilung und schrieb die Sklaverei damit fest. Nach heftigen Debatten trat sie 1789 in Kraft, 1791 ergänzten zehn Zusatzartikel, die Bill of Rights, Grundrechte wie Rede-, Presse- und Religionsfreiheit. Die Verfassung ist mit Änderungen bis heute in Kraft.",
+    "personIds": [
+      "george-washington"
+    ],
+    "tags": [
+      "usa",
+      "verfassung",
+      "gewaltenteilung",
+      "bill of rights"
+    ],
+    "importance": 3
+  },
+  {
     "id": "erklaerung-der-menschen-und-buergerrechte",
     "title": "Erklärung der Menschen- und Bürgerrechte",
     "year": 1789,
@@ -3883,6 +4150,28 @@
       "grundrechte"
     ],
     "importance": 3
+  },
+  {
+    "id": "frauenmarsch-nach-versailles",
+    "title": "Marsch der Frauen nach Versailles",
+    "year": 1789,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Tausende Pariser Frauen ziehen wegen Brotmangels nach Versailles und zwingen die Königsfamilie zur Übersiedlung nach Paris.",
+    "text": "Im Herbst 1789 stiegen die Brotpreise in Paris, während der König die Beschlüsse der Nationalversammlung noch nicht bestätigt hatte und Gerüchte über ein Festmahl der Garde in Versailles die Wut steigerten. Am 5. Oktober zogen rund 7.000 Frauen der Markthallen, bewaffnet mit Piken und Küchenmessern, im Regen die zwanzig Kilometer nach Versailles; die Nationalgarde unter Lafayette folgte ihnen. Nach einer nächtlichen Erstürmung des Schlosses, bei der Leibgardisten getötet wurden, musste Ludwig XVI. die Menschenrechtserklärung unterzeichnen und mit seiner Familie nach Paris in die Tuilerien übersiedeln, wohin auch die Nationalversammlung folgte. Der König stand fortan unter den Augen des Volkes, und Frauen hatten sich als politische Kraft der Revolution gezeigt.",
+    "personIds": [
+      "marie-antoinette",
+      "lafayette"
+    ],
+    "tags": [
+      "frauen",
+      "versailles",
+      "paris",
+      "französische revolution"
+    ],
+    "importance": 2
   },
   {
     "id": "sturm-auf-die-bastille",
@@ -3944,6 +4233,48 @@
     "importance": 2
   },
   {
+    "id": "abschaffung-sklaverei-frankreich-1794",
+    "title": "Frankreich schafft die Sklaverei ab",
+    "year": 1794,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "summary": "Der Nationalkonvent hebt am 4. Februar 1794 die Sklaverei in allen französischen Kolonien auf, unter dem Druck des Aufstands in Saint-Domingue.",
+    "text": "Trotz der Menschenrechtserklärung hatte die Nationalversammlung die Sklaverei in den Kolonien zunächst nicht angetastet, weil Pflanzer und Hafenstädte am Zuckerhandel verdienten. Erst der Aufstand in Saint-Domingue und der Krieg gegen Spanien und Großbritannien zwangen die Kommissare der Republik 1793, den Versklavten die Freiheit zu erklären, um sie als Soldaten zu gewinnen. Als eine Delegation aus der Kolonie, darunter der ehemalige Sklave Jean-Baptiste Belley, im Februar 1794 vor dem Konvent erschien, beschloss dieser ohne Gegenstimme die Abschaffung der Sklaverei in allen Kolonien und das Bürgerrecht für alle Männer unabhängig von der Hautfarbe. Napoleon führte die Sklaverei 1802 wieder ein, was den Freiheitskampf in Haiti erneut entfachte; endgültig schaffte Frankreich sie erst 1848 ab.",
+    "personIds": [
+      "toussaint-louverture"
+    ],
+    "tags": [
+      "sklaverei",
+      "kolonien",
+      "nationalkonvent",
+      "menschenrechte"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "napoleon-in-aegypten",
+    "title": "Napoleons Ägyptenfeldzug",
+    "year": 1798,
+    "endYear": 1801,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "afrika",
+    "summary": "Napoleon besetzt Ägypten, um Großbritanniens Weg nach Indien zu treffen; der Feldzug scheitert, begründet aber die moderne Ägyptenforschung.",
+    "text": "Im Juli 1798 landete Napoleon mit 35.000 Soldaten in Ägypten, das formal zum Osmanischen Reich gehörte, aber von den Mamluken beherrscht wurde, und besiegte deren Reiterheer in der Schlacht bei den Pyramiden. Wenige Tage später vernichtete die britische Flotte unter Nelson bei Abukir die französischen Schiffe, sodass die Armee vom Nachschub abgeschnitten war; ein Vorstoß nach Syrien scheiterte 1799 vor Akkon. Napoleon verließ sein Heer heimlich, um in Paris die Macht zu ergreifen; die Reste kapitulierten 1801 vor den Briten. Die 167 Gelehrten, die ihn begleitet hatten, vermaßen Tempel, Pyramiden und Tierwelt und veröffentlichten ihre Ergebnisse in der Description de l'Égypte; der 1799 gefundene Stein von Rosette ermöglichte Champollion 1822 die Entzifferung der Hieroglyphen. In Ägypten selbst leitete der Feldzug den Aufstieg Muhammad Alis und die Modernisierung des Landes ein.",
+    "personIds": [
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "ägypten",
+      "napoleon",
+      "ägyptologie",
+      "kolonialismus"
+    ],
+    "importance": 2
+  },
+  {
     "id": "code-civil",
     "title": "Der Code civil tritt in Kraft",
     "year": 1804,
@@ -3980,6 +4311,92 @@
       "kaiserkrönung",
       "notre-dame",
       "empire"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "unabhaengigkeit-haitis",
+    "title": "Unabhängigkeit Haitis",
+    "year": 1804,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "summary": "Am 1. Januar 1804 erklärt Jean-Jacques Dessalines die Unabhängigkeit Haitis, des ersten Staates, den ehemals versklavte Menschen gründeten.",
+    "text": "Nachdem Napoleon 1802 eine Armee nach Saint-Domingue geschickt hatte, um die Sklaverei wiederherzustellen, und Toussaint Louverture in die Gefangenschaft verschleppt worden war, führten Jean-Jacques Dessalines und Alexandre Pétion den Widerstand fort. Gelbfieber und die Guerilla der ehemaligen Sklaven rieben die französischen Truppen auf; nach der Niederlage bei Vertières im November 1803 räumten die Franzosen die Kolonie. Dessalines rief am 1. Januar 1804 in Gonaïves die Unabhängigkeit aus und gab dem Land den alten indigenen Namen Haiti; Massaker an den verbliebenen Franzosen folgten. Haiti wurde zur zweiten unabhängigen Republik Amerikas, blieb aber von den Sklavenhaltermächten isoliert; Frankreich erkannte es erst 1825 gegen eine Entschädigung von 150 Millionen Francs an, die das Land über ein Jahrhundert lang belastete.",
+    "personIds": [
+      "toussaint-louverture",
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "haiti",
+      "unabhängigkeit",
+      "sklaverei",
+      "dessalines"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "ende-des-heiligen-roemischen-reiches",
+    "title": "Ende des Heiligen Römischen Reiches",
+    "year": 1806,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Kaiser Franz II. legt am 6. August 1806 die Reichskrone nieder; das über 800 Jahre alte Reich hört auf zu bestehen.",
+    "text": "Nach der Niederlage Österreichs bei Austerlitz 1805 ordnete Napoleon Deutschland nach seinem Willen: Bayern und Württemberg wurden Königreiche, und im Juli 1806 schlossen sich 16 süd- und westdeutsche Staaten unter seinem Schutz zum Rheinbund zusammen und traten aus dem Reich aus. Schon 1803 hatte der Reichsdeputationshauptschluss die geistlichen Fürstentümer und die meisten Reichsstädte aufgelöst und ihre Gebiete an größere Staaten verteilt. Auf Napoleons Ultimatum hin erklärte Franz II., der sich 1804 vorsorglich zum Kaiser von Österreich erhoben hatte, am 6. August 1806 das Reich für erloschen und entband alle Stände von ihren Pflichten. Das Ende des Reiches, das seit Otto dem Großen bestanden hatte, löste kaum Widerstand aus; Goethe notierte, der Streit seines Kutschers habe ihn mehr erregt. Die deutsche Frage, wie die vielen Staaten künftig verbunden sein sollten, blieb bis 1871 offen.",
+    "personIds": [
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "heiliges römisches reich",
+      "rheinbund",
+      "franz ii",
+      "deutschland"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "preussische-reformen",
+    "title": "Preußische Reformen",
+    "year": 1807,
+    "endYear": 1814,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Nach der Niederlage gegen Napoleon modernisieren Stein, Hardenberg, Scharnhorst und Humboldt den preußischen Staat von oben.",
+    "text": "1806 hatte Napoleon das preußische Heer bei Jena und Auerstedt vernichtend geschlagen; der Frieden von Tilsit 1807 nahm Preußen die Hälfte seines Gebiets und zwang es zu hohen Zahlungen. Um den Staat zu retten, begannen der Minister Freiherr vom Stein und nach ihm Hardenberg Reformen, die Untertanen zu Bürgern machen sollten: Das Oktoberedikt 1807 hob die Erbuntertänigkeit der Bauern auf, die Städteordnung 1808 gab den Städten Selbstverwaltung, 1810 folgte die Gewerbefreiheit und 1812 das Edikt über die bürgerliche Gleichstellung der Juden. Scharnhorst und Gneisenau schufen ein Heer aus Bürgern, das Offiziere nach Leistung statt nach Adel beförderte und 1814 die allgemeine Wehrpflicht erhielt; Wilhelm von Humboldt reformierte Schulen und gründete 1810 die Universität Berlin. Die Reformen blieben unvollendet, eine Verfassung wurde versprochen, aber nicht erlassen, doch sie legten den Grund für Preußens Aufstieg im 19. Jahrhundert.",
+    "personIds": [
+      "freiherr-vom-stein",
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "preußen",
+      "reformen",
+      "bauernbefreiung",
+      "heeresreform"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "russlandfeldzug-1812",
+    "title": "Napoleons Russlandfeldzug",
+    "year": 1812,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Die Große Armee zieht mit über 600.000 Mann nach Moskau und geht auf dem Rückzug in Kälte, Hunger und Kämpfen fast vollständig zugrunde.",
+    "text": "Weil Zar Alexander I. die Kontinentalsperre gegen Großbritannien nicht mehr einhielt, überschritt Napoleon am 24. Juni 1812 mit dem größten Heer, das Europa je gesehen hatte, die russische Grenze; nur ein Drittel der Soldaten waren Franzosen, die übrigen Deutsche, Polen, Italiener und andere Verbündete. Die Russen wichen zurück und verbrannten das Land, stellten sich am 7. September bei Borodino zur blutigsten Schlacht des Feldzugs und gaben Moskau preis, das kurz nach dem Einzug der Franzosen in Flammen aufging. Da der Zar nicht verhandelte, befahl Napoleon am 19. Oktober den Rückzug, der bei früh einsetzendem Winter, Hunger und ständigen Angriffen der Kosaken zur Katastrophe wurde; beim Übergang über die Beresina Ende November zerfiel das Heer endgültig. Kaum mehr als 50.000 Mann kehrten zurück. Die Niederlage ermutigte Preußen und Österreich zum Bündnis mit Russland und leitete die Befreiungskriege ein.",
+    "personIds": [
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "russland",
+      "große armee",
+      "moskau",
+      "napoleon"
     ],
     "importance": 3
   },
@@ -4022,6 +4439,27 @@
     "importance": 3
   },
   {
+    "id": "schlacht-bei-waterloo",
+    "title": "Schlacht bei Waterloo",
+    "year": 1815,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Wellington und Blücher besiegen Napoleon am 18. Juni 1815 endgültig; er wird nach St. Helena verbannt.",
+    "text": "Im März 1815 kehrte Napoleon von der Insel Elba nach Frankreich zurück, wo die Truppen zu ihm überliefen und Ludwig XVIII. floh; die in Wien versammelten Mächte erklärten ihn zum Feind der Menschheit. Napoleon griff die in Belgien stehenden Heere an, bevor sie sich vereinigen konnten, und schlug am 16. Juni die Preußen bei Ligny. Am 18. Juni hielt Wellingtons britisch-niederländisch-deutsche Armee bei Waterloo südlich von Brüssel den ganzen Tag den französischen Angriffen stand, bis am Abend Blüchers Preußen eintrafen und die Entscheidung brachten; rund 50.000 Soldaten wurden getötet oder verwundet. Napoleon dankte zum zweiten Mal ab und wurde von den Briten auf die Atlantikinsel St. Helena gebracht, wo er 1821 starb. Die Herrschaft der Hundert Tage war zu Ende, und der Zweite Pariser Frieden legte Frankreich Gebietsverluste, Besatzung und Reparationen auf.",
+    "personIds": [
+      "napoleon-bonaparte"
+    ],
+    "tags": [
+      "waterloo",
+      "wellington",
+      "blücher",
+      "hundert tage"
+    ],
+    "importance": 3
+  },
+  {
     "id": "bolivar-unabhaengigkeit-suedamerikas",
     "title": "Bolívar und die Unabhängigkeit Südamerikas",
     "year": 1819,
@@ -4042,6 +4480,27 @@
     "importance": 2
   },
   {
+    "id": "mexikanische-unabhaengigkeit",
+    "title": "Unabhängigkeit Mexikos",
+    "year": 1821,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "summary": "Elf Jahre nach dem Aufruf des Priesters Hidalgo löst sich Neuspanien von Spanien und wird als Mexiko unabhängig.",
+    "text": "Am 16. September 1810 rief der Pfarrer Miguel Hidalgo im Dorf Dolores die Bevölkerung zum Aufstand gegen die spanische Kolonialherrschaft auf; Zehntausende Indigene und Mestizen folgten ihm, wurden aber 1811 geschlagen, und Hidalgo wurde hingerichtet. Sein Nachfolger José María Morelos führte den Kampf fort, berief einen Kongress ein und starb 1815 ebenfalls vor einem Erschießungskommando. Als 1820 in Spanien eine liberale Revolution ausbrach, wechselte der königliche Offizier Agustín de Iturbide die Seiten und vereinbarte mit dem Rebellenführer Vicente Guerrero den Plan von Iguala, der Unabhängigkeit, Katholizismus und Gleichheit aller Bewohner versprach. Am 27. September 1821 zog das Heer in Mexiko-Stadt ein; Iturbide ließ sich zum Kaiser krönen, wurde aber 1823 gestürzt, und 1824 gab sich Mexiko eine republikanische Verfassung. Der 16. September ist bis heute Nationalfeiertag.",
+    "personIds": [
+      "miguel-hidalgo"
+    ],
+    "tags": [
+      "mexiko",
+      "unabhängigkeit",
+      "lateinamerika",
+      "kolonialismus"
+    ],
+    "importance": 2
+  },
+  {
     "id": "eisenbahn-stockton-darlington",
     "title": "Erste öffentliche Eisenbahn Stockton–Darlington",
     "year": 1825,
@@ -4058,6 +4517,48 @@
       "verkehr"
     ],
     "importance": 3
+  },
+  {
+    "id": "julirevolution-1830",
+    "title": "Julirevolution in Paris",
+    "year": 1830,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "In drei Tagen Barrikadenkämpfen stürzt Paris den Bourbonenkönig Karl X.; Louis-Philippe wird Bürgerkönig, und die Revolution wirkt auf Belgien, Polen und Deutschland.",
+    "text": "König Karl X. versuchte, die Macht der Krone gegen das Parlament auszubauen, und erließ am 25. Juli 1830 Verordnungen, die die Pressefreiheit aufhoben, das Wahlrecht einschränkten und die gerade gewählte Kammer auflösten. Journalisten, Studenten, Handwerker und Arbeiter errichteten daraufhin Barrikaden, und in den drei glorreichen Tagen vom 27. bis 29. Juli eroberten sie das Rathaus und den Louvre; rund 800 Aufständische starben. Karl X. floh nach England, und die liberale Bürgerschaft setzte mit Unterstützung Lafayettes den Herzog von Orléans als Louis-Philippe I. zum König der Franzosen ein, der die Trikolore annahm und auf die Verfassung schwor. Die Revolution löste den Aufstand Belgiens gegen die Niederlande, den polnischen Novemberaufstand gegen Russland und Unruhen in mehreren deutschen Staaten aus; Delacroix' Gemälde Die Freiheit führt das Volk wurde zu ihrem Sinnbild.",
+    "personIds": [
+      "lafayette"
+    ],
+    "tags": [
+      "paris",
+      "barrikaden",
+      "bürgerkönig",
+      "1830"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "hambacher-fest",
+    "title": "Hambacher Fest",
+    "year": 1832,
+    "endYear": null,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "summary": "Rund 30.000 Menschen fordern auf dem Hambacher Schloss Freiheit, deutsche Einheit und Völkerverständigung; es ist die größte politische Kundgebung des Vormärz.",
+    "text": "Nach der Julirevolution hatte sich auch in der bayerischen Pfalz Unmut über Zensur, Steuern und Polizeiwillkür angestaut; die Karlsbader Beschlüsse von 1819 hatten Presse und Universitäten in ganz Deutschland unter Aufsicht gestellt. Die Journalisten Philipp Jakob Siebenpfeiffer und Johann Georg August Wirth luden zu einem Volksfest ein, und vom 27. bis 30. Mai 1832 zogen Handwerker, Bauern, Studenten und Bürger, darunter viele Frauen sowie polnische und französische Gäste, unter schwarz-rot-goldenen Fahnen zum Hambacher Schloss bei Neustadt an der Weinstraße. Die Redner forderten Pressefreiheit, eine Verfassung, nationale Einheit und ein Europa freier Völker; ein Aufstand wurde jedoch nicht beschlossen. Der Deutsche Bund antwortete mit einem Verbot politischer Vereine und Versammlungen und ließ die Veranstalter vor Gericht stellen. Das Fest gilt als Wiege der deutschen Demokratie, und Schwarz-Rot-Gold wurde 1848 und 1919 zur Nationalfarbe.",
+    "personIds": [
+      "klemens-von-metternich"
+    ],
+    "tags": [
+      "vormärz",
+      "schwarz-rot-gold",
+      "pressefreiheit",
+      "deutscher bund"
+    ],
+    "importance": 2
   },
   {
     "id": "abschaffung-sklaverei-britisches-empire",
@@ -4507,6 +5008,67 @@
     "importance": 3
   },
   {
+    "id": "marneschlacht-und-stellungskrieg",
+    "title": "Marneschlacht und Beginn des Stellungskriegs",
+    "year": 1914,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Der deutsche Vormarsch auf Paris wird an der Marne gestoppt; die Westfront erstarrt für vier Jahre im Grabenkrieg.",
+    "text": "Nach dem Schlieffen-Plan sollte die deutsche Armee Frankreich durch Belgien hindurch in sechs Wochen besiegen, bevor Russland im Osten voll mobilisiert war. Anfang September 1914 standen deutsche Truppen 40 Kilometer vor Paris, doch vom 5. bis 12. September warfen französische und britische Verbände sie in der Marneschlacht zurück, wobei Pariser Taxis Verstärkungen an die Front brachten. Im Osten hatten Hindenburg und Ludendorff bei Tannenberg gesiegt, aber der schnelle Sieg im Westen war verspielt. Nach einem Wettlauf zum Meer gruben sich beide Seiten bis Jahresende auf 700 Kilometern von der Nordsee bis zur Schweizer Grenze in Schützengräben ein, und Maschinengewehr, Stacheldraht und Artillerie machten jeden Angriff zum Massensterben.",
+    "personIds": [
+      "paul-von-hindenburg"
+    ],
+    "tags": [
+      "westfront",
+      "schlieffen-plan",
+      "stellungskrieg",
+      "marne"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-um-gallipoli",
+    "title": "Schlacht um Gallipoli",
+    "year": 1915,
+    "endYear": 1916,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "naher-osten",
+    "summary": "Die alliierte Landung an den Dardanellen scheitert an der osmanischen Verteidigung und kostet über 100.000 Menschen das Leben.",
+    "text": "Um das Osmanische Reich aus dem Krieg zu drängen und einen Seeweg nach Russland zu öffnen, versuchten britische und französische Schiffe im Frühjahr 1915 die Meerenge der Dardanellen zu erzwingen. Als das misslang, landeten am 25. April 1915 britische, französische, australische und neuseeländische Truppen auf der Halbinsel Gallipoli. Die osmanischen Verteidiger, unter ihnen der Oberst Mustafa Kemal, hielten die Höhen, und die Kämpfe erstarrten wie an der Westfront. Im Januar 1916 räumten die Alliierten die Halbinsel; über 100.000 Soldaten beider Seiten waren tot. Der 25. April wird in Australien und Neuseeland bis heute als Anzac Day begangen, und für die Türkei wurde der Sieg zum Gründungsmythos.",
+    "personIds": [
+      "mustafa-kemal-atatuerk"
+    ],
+    "tags": [
+      "osmanisches reich",
+      "dardanellen",
+      "anzac",
+      "landung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "voelkermord-an-den-armeniern",
+    "title": "Völkermord an den Armeniern",
+    "year": 1915,
+    "endYear": 1916,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "naher-osten",
+    "summary": "Die jungtürkische Regierung lässt die armenische Bevölkerung des Osmanischen Reiches deportieren und ermorden.",
+    "text": "Am 24. April 1915 ließ die Regierung des Komitees für Einheit und Fortschritt in Konstantinopel Hunderte armenische Intellektuelle und Politiker verhaften, die meisten wurden später getötet. Anschließend wurden die armenischen Gemeinden Anatoliens unter dem Vorwand der Kriegssicherheit auf Todesmärsche in die syrische Wüste geschickt; Männer wurden erschossen, Frauen, Kinder und Alte starben an Hunger, Durst und Gewalt oder in Lagern bei Deir ez-Zor. Schätzungen gehen von rund einer Million Toten aus, dazu kamen Massenmorde an Assyrern und Griechen. Das verbündete Deutsche Reich war durch seine Diplomaten und Offiziere informiert, griff aber nicht ein. Der Historiker Raphael Lemkin prägte später mit Blick auf dieses Verbrechen und den Holocaust den Begriff Genozid; der Deutsche Bundestag erkannte den Völkermord 2016 an, die Türkei bestreitet die Bezeichnung bis heute.",
+    "personIds": [],
+    "tags": [
+      "völkermord",
+      "armenier",
+      "osmanisches reich",
+      "deportation"
+    ],
+    "importance": 3
+  },
+  {
     "id": "schlacht-um-verdun",
     "title": "Schlacht um Verdun",
     "year": 1916,
@@ -4521,6 +5083,25 @@
       "stellungskrieg",
       "westfront",
       "materialschlacht"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "balfour-erklaerung",
+    "title": "Balfour-Erklärung",
+    "year": 1917,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "naher-osten",
+    "summary": "Großbritannien sagt den Juden eine nationale Heimstätte in Palästina zu und legt damit den Grund für den Nahostkonflikt.",
+    "text": "Am 2. November 1917 teilte der britische Außenminister Arthur Balfour in einem Brief an Lord Rothschild mit, die Regierung betrachte die Errichtung einer nationalen Heimstätte für das jüdische Volk in Palästina mit Wohlwollen, ohne die Rechte der dort lebenden nichtjüdischen Gemeinschaften zu beeinträchtigen. Die Zusage sollte die zionistische Bewegung und die jüdische Öffentlichkeit in den USA und Russland für die Kriegsanstrengung gewinnen. Zugleich hatte Großbritannien den Arabern für ihren Aufstand gegen die Osmanen einen eigenen Staat in Aussicht gestellt und im Sykes-Picot-Abkommen mit Frankreich den Nahen Osten heimlich in Einflusszonen aufgeteilt. 1920 erhielt Großbritannien das Völkerbundsmandat über Palästina; die wachsende jüdische Einwanderung und der Widerstand der arabischen Bevölkerung führten in den 1920er und 1930er Jahren zu ersten gewaltsamen Zusammenstößen.",
+    "personIds": [],
+    "tags": [
+      "palästina",
+      "zionismus",
+      "britisches empire",
+      "nahostkonflikt"
     ],
     "importance": 2
   },
@@ -4565,6 +5146,48 @@
     "importance": 3
   },
   {
+    "id": "novemberrevolution-1918",
+    "title": "Novemberrevolution in Deutschland",
+    "year": 1918,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Meuternde Matrosen und streikende Arbeiter stürzen die Monarchie; Deutschland wird Republik und führt das Frauenwahlrecht ein.",
+    "text": "Als die Marineleitung Ende Oktober 1918 die Flotte zu einer letzten Schlacht gegen England auslaufen lassen wollte, verweigerten die Matrosen in Wilhelmshaven und Kiel den Befehl. Der Aufstand griff innerhalb weniger Tage auf das ganze Reich über: Arbeiter- und Soldatenräte übernahmen die Macht in den Städten, die Fürsten dankten ab, und am 9. November rief Philipp Scheidemann in Berlin die Republik aus, während Karl Liebknecht wenige Stunden später eine sozialistische Republik proklamierte. Friedrich Ebert übernahm die Regierung als Rat der Volksbeauftragten, der am 12. November den Achtstundentag und das Wahlrecht für Frauen verkündete. Über die Frage, ob Deutschland eine parlamentarische Demokratie oder eine Räterepublik werden sollte, zerbrach die Arbeiterbewegung; im Januar 1919 ließ die Regierung den Spartakusaufstand durch Freikorps niederschlagen, Rosa Luxemburg und Karl Liebknecht wurden ermordet.",
+    "personIds": [
+      "friedrich-ebert",
+      "rosa-luxemburg",
+      "wilhelm-ii"
+    ],
+    "tags": [
+      "revolution",
+      "republik",
+      "räte",
+      "matrosenaufstand"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "spanische-grippe",
+    "title": "Spanische Grippe",
+    "year": 1918,
+    "endYear": 1920,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "welt",
+    "summary": "Eine weltweite Grippepandemie fordert mehr Tote als der Erste Weltkrieg.",
+    "text": "Im Frühjahr 1918 tauchte in Militärlagern der USA und an der Westfront eine neue Grippe auf, die sich mit den Truppentransporten über die ganze Welt verbreitete. Ihren Namen erhielt sie, weil die Zeitungen des neutralen Spaniens ohne Kriegszensur ausführlich über die Krankheit berichteten. In einer zweiten, weit tödlicheren Welle im Herbst 1918 starben ungewöhnlich viele junge Erwachsene innerhalb weniger Tage an Lungenentzündung. Bis 1920 infizierte sich etwa ein Drittel der Weltbevölkerung, und mindestens 20 bis 50 Millionen Menschen starben, besonders viele in Indien. Schulen, Theater und Kirchen wurden geschlossen, Masken vorgeschrieben, doch ohne Antibiotika und Impfstoffe blieb die Medizin weitgehend machtlos.",
+    "personIds": [],
+    "tags": [
+      "pandemie",
+      "grippe",
+      "medizin",
+      "gesellschaft"
+    ],
+    "importance": 2
+  },
+  {
     "id": "waffenstillstand-compiegne",
     "title": "Waffenstillstand von Compiègne",
     "year": 1918,
@@ -4581,6 +5204,48 @@
       "kriegsende",
       "novemberrevolution",
       "republik"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "gruendung-des-bauhauses",
+    "title": "Gründung des Bauhauses",
+    "year": 1919,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Walter Gropius gründet in Weimar eine Schule, die Kunst, Handwerk und Industrie verbindet und das moderne Design begründet.",
+    "text": "Im April 1919 vereinigte der Architekt Walter Gropius in Weimar die Kunstakademie und die Kunstgewerbeschule zum Staatlichen Bauhaus, dessen Manifest das Ziel ausgab, alle Künste unter dem Dach des Bauens zusammenzuführen. Lehrer wie Wassily Kandinsky, Paul Klee, Lyonel Feininger und László Moholy-Nagy und Werkstattmeisterinnen wie die Weberin Gunta Stölzl und die Metallgestalterin Marianne Brandt entwarfen Möbel, Lampen, Geschirr und Schrift für die industrielle Massenproduktion. 1925 zog die Schule in das von Gropius entworfene Gebäude in Dessau, 1932 nach Berlin, wo die Nationalsozialisten sie 1933 schlossen. Viele Bauhäusler emigrierten und trugen die Ideen der Schule in die USA, nach Israel und in die ganze Welt; das Bauhaus wurde zum Symbol der Goldenen Zwanziger und der Moderne.",
+    "personIds": [],
+    "tags": [
+      "bauhaus",
+      "architektur",
+      "design",
+      "moderne",
+      "goldene zwanziger"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "weimarer-verfassung",
+    "title": "Nationalversammlung und Weimarer Verfassung",
+    "year": 1919,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Die erste deutsche Demokratie erhält ihre Verfassung; erstmals wählen Frauen und ziehen ins Parlament ein.",
+    "text": "Am 19. Januar 1919 wählten die Deutschen eine verfassunggebende Nationalversammlung, an der sich Frauen erstmals als Wählerinnen und Kandidatinnen beteiligten; 37 von ihnen wurden gewählt. Weil in Berlin Unruhen herrschten, tagte das Parlament im Nationaltheater von Weimar, wählte Friedrich Ebert zum Reichspräsidenten und hörte am 19. Februar mit Marie Juchacz die erste Rede einer Frau in einem deutschen Parlament. Die am 11. August 1919 unterzeichnete Verfassung machte Deutschland zu einer parlamentarischen Republik mit allgemeinem Wahlrecht ab 20 Jahren, Grundrechten, Volksentscheiden und einem starken, direkt gewählten Reichspräsidenten. Der Notverordnungsartikel 48 und das reine Verhältniswahlrecht, das viele kleine Parteien ins Parlament brachte, erwiesen sich später als Schwachstellen, die die Gegner der Republik ausnutzten.",
+    "personIds": [
+      "friedrich-ebert",
+      "marie-juchacz"
+    ],
+    "tags": [
+      "verfassung",
+      "demokratie",
+      "weimarer republik",
+      "frauenwahlrecht"
     ],
     "importance": 3
   },
@@ -4646,6 +5311,28 @@
     "importance": 2
   },
   {
+    "id": "krisenjahr-1923",
+    "title": "Krisenjahr 1923: Ruhrbesetzung, Hyperinflation und Hitler-Putsch",
+    "year": 1923,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Die Mark wird wertlos, Frankreich besetzt das Ruhrgebiet, und in München versucht Hitler einen Staatsstreich.",
+    "text": "Als Deutschland mit Reparationslieferungen in Verzug geriet, besetzten französische und belgische Truppen im Januar 1923 das Ruhrgebiet. Die Reichsregierung rief zum passiven Widerstand auf und bezahlte die streikenden Arbeiter mit frisch gedrucktem Geld, was die seit dem Krieg laufende Inflation ins Unermessliche trieb: Im November kostete ein Dollar 4,2 Billionen Mark, ein Brot Milliarden, und Löhne wurden täglich ausgezahlt, damit man sie noch am selben Tag ausgeben konnte. Gustav Stresemann, seit August Reichskanzler, brach den Ruhrkampf ab und führte am 15. November die Rentenmark ein, die die Währung stabilisierte. Wenige Tage zuvor, am 8. und 9. November, hatte Adolf Hitler mit Erich Ludendorff in München einen Putsch versucht, der vor der Feldherrnhalle im Kugelhagel der Polizei endete; Hitler nutzte den Prozess als Bühne und schrieb in der Haft sein Buch Mein Kampf.",
+    "personIds": [
+      "gustav-stresemann"
+    ],
+    "tags": [
+      "inflation",
+      "ruhrbesetzung",
+      "rentenmark",
+      "putsch",
+      "weimarer republik"
+    ],
+    "importance": 3
+  },
+  {
     "id": "weltwirtschaftskrise-1929",
     "title": "Weltwirtschaftskrise",
     "year": 1929,
@@ -4662,6 +5349,44 @@
       "wirtschaftskrise"
     ],
     "importance": 3
+  },
+  {
+    "id": "salzmarsch-gandhis",
+    "title": "Salzmarsch Gandhis",
+    "year": 1930,
+    "endYear": null,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "asien",
+    "summary": "Mit einem 385 Kilometer langen Marsch zum Meer bricht Gandhi das britische Salzmonopol und macht den gewaltlosen Widerstand weltbekannt.",
+    "text": "Das britische Salzmonopol verbot den Indern, selbst Salz zu gewinnen, und belegte das Grundnahrungsmittel mit einer Steuer, die die Armen am härtesten traf. Am 12. März 1930 brach Mohandas Gandhi mit 78 Anhängern von seinem Ashram bei Ahmedabad auf; nach 24 Tagen erreichte er mit Zehntausenden Begleitern den Ort Dandi am Arabischen Meer und hob dort am 6. April demonstrativ eine Handvoll Salz auf. Überall im Land kochten Menschen nun Salz, boykottierten britische Waren und legten Ämter nieder; die Kolonialmacht verhaftete über 60.000 Menschen, darunter Gandhi selbst. Die Bilder von Polizisten, die auf friedliche Demonstranten einschlugen, gingen um die Welt und schwächten die moralische Autorität des Empires. Der Marsch wurde zum Vorbild für gewaltlose Bewegungen bis hin zu Martin Luther King.",
+    "personIds": [],
+    "tags": [
+      "indien",
+      "gewaltloser widerstand",
+      "kolonialismus",
+      "unabhängigkeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "buecherverbrennung-1933",
+    "title": "Bücherverbrennung",
+    "year": 1933,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Studenten werfen in Berlin und zwanzig weiteren Universitätsstädten die Werke jüdischer, linker und pazifistischer Autoren ins Feuer.",
+    "text": "Die nationalsozialistische Deutsche Studentenschaft rief im Frühjahr 1933 zu einer Aktion wider den undeutschen Geist auf und plünderte Bibliotheken und Buchhandlungen. Am 10. Mai 1933 verbrannten Studenten und SA-Männer auf dem Berliner Opernplatz unter Fackelschein Zehntausende Bücher, während Propagandaminister Joseph Goebbels das Ende des jüdischen Intellektualismus verkündete; ähnliche Feuer brannten in Bonn, Frankfurt, München, Dresden und vielen anderen Städten. Betroffen waren unter anderem Heinrich und Thomas Mann, Erich Kästner, der die Verbrennung seiner eigenen Bücher in der Menge beobachtete, Kurt Tucholsky, Erich Maria Remarque, Sigmund Freud, Karl Marx und Bertolt Brecht. Über hundert Jahre zuvor hatte Heinrich Heine, dessen Werke ebenfalls brannten, geschrieben, wo man Bücher verbrenne, verbrenne man am Ende auch Menschen. Die Verbrennung stand am Anfang einer Kulturpolitik, die die Literatur der Moderne aus Deutschland vertrieb.",
+    "personIds": [],
+    "tags": [
+      "kultur",
+      "zensur",
+      "propaganda",
+      "literatur"
+    ],
+    "importance": 2
   },
   {
     "id": "machtuebernahme-nationalsozialisten",
@@ -4684,6 +5409,48 @@
     "importance": 3
   },
   {
+    "id": "reichstagsbrand-und-ermaechtigungsgesetz",
+    "title": "Reichstagsbrand und Ermächtigungsgesetz",
+    "year": 1933,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Der Brand des Reichstags liefert den Vorwand für die Abschaffung der Grundrechte; das Ermächtigungsgesetz entmachtet das Parlament.",
+    "text": "In der Nacht des 27. Februar 1933 stand das Reichstagsgebäude in Flammen; am Tatort wurde der niederländische Rätekommunist Marinus van der Lubbe festgenommen, der die Tat allein begangen haben wollte. Die Regierung erklärte den Brand noch in derselben Nacht zum Signal für einen kommunistischen Aufstand, und schon am 28. Februar setzte die Reichstagsbrandverordnung Meinungs-, Presse- und Versammlungsfreiheit sowie den Schutz vor willkürlicher Verhaftung außer Kraft. Tausende Kommunisten und Sozialdemokraten wurden verhaftet, die Wahl vom 5. März fand unter Terror statt. Am 23. März stimmte der Reichstag in der von SA umstellten Kroll-Oper mit 444 gegen 94 Stimmen dem Ermächtigungsgesetz zu, das der Regierung erlaubte, Gesetze ohne Parlament und Verfassung zu erlassen; nur die SPD stimmte dagegen, deren Vorsitzender Otto Wels erklärte, Freiheit und Leben könne man ihnen nehmen, die Ehre nicht. Die KPD-Abgeordneten waren bereits verhaftet oder untergetaucht.",
+    "personIds": [
+      "adolf-hitler"
+    ],
+    "tags": [
+      "diktatur",
+      "reichstag",
+      "grundrechte",
+      "gleichschaltung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "langer-marsch",
+    "title": "Der Lange Marsch",
+    "year": 1934,
+    "endYear": 1935,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "asien",
+    "summary": "Chinas Kommunisten entkommen der Einkesselung durch Chiang Kai-shek in einem einjährigen Rückzug, der Mao Zedong an die Spitze der Partei bringt.",
+    "text": "Seit 1927 bekämpfte Chiang Kai-sheks nationalchinesische Regierung die Kommunisten, die in der südchinesischen Provinz Jiangxi eine eigene Sowjetrepublik errichtet hatten. Als die fünfte Einkreisungskampagne die Rote Armee im Herbst 1934 zu erdrücken drohte, brachen etwa 86.000 Soldaten und Kader nach Westen aus. Über Flüsse, Sümpfe und schneebedeckte Gebirge legten sie in einem Jahr mehrere tausend Kilometer zurück, ständig verfolgt von Regierungstruppen und lokalen Kriegsherren; nur wenige tausend erreichten im Oktober 1935 das Gebiet um Yan'an in Nordchina. Auf der Konferenz von Zunyi im Januar 1935 hatte Mao Zedong die Führung übernommen. Der Lange Marsch wurde zum Gründungsmythos der Volksrepublik, und nach dem Zwischenfall von Xi'an 1936 mussten Chiang und die Kommunisten eine Einheitsfront gegen Japan bilden.",
+    "personIds": [
+      "chiang-kai-shek"
+    ],
+    "tags": [
+      "china",
+      "kommunismus",
+      "bürgerkrieg",
+      "mao"
+    ],
+    "importance": 2
+  },
+  {
     "id": "nuernberger-gesetze",
     "title": "Nürnberger Gesetze",
     "year": 1935,
@@ -4698,6 +5465,25 @@
       "antisemitismus",
       "rassengesetze",
       "entrechtung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "grosse-saeuberung",
+    "title": "Große Säuberung in der Sowjetunion",
+    "year": 1936,
+    "endYear": 1938,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "summary": "Stalin lässt in Schauprozessen und Massenoperationen Hunderttausende als angebliche Volksfeinde erschießen.",
+    "text": "Nach dem Mord an dem Leningrader Parteichef Sergei Kirow im Dezember 1934 nutzte Stalin die Angst vor Verschwörungen, um jede tatsächliche oder mögliche Opposition zu vernichten. In drei Moskauer Schauprozessen zwischen 1936 und 1938 gestanden alte Weggefährten Lenins wie Sinowjew, Kamenew und Bucharin unter Folter erfundene Verbrechen und wurden erschossen; auch der ins Exil vertriebene Trotzki wurde in Abwesenheit verurteilt und 1940 in Mexiko ermordet. 1937 ließ Stalin die Führung der Roten Armee um Marschall Tuchatschewski hinrichten. In den Massenoperationen des Geheimdienstes NKWD unter Nikolai Jeschow wurden 1937 und 1938 nach Quoten rund 750.000 Menschen erschossen und weit über eine Million in die Lager des Gulag verschleppt. Die Säuberung zerstörte die Führungsschicht des Landes und schwächte die Armee kurz vor dem deutschen Angriff.",
+    "personIds": [],
+    "tags": [
+      "stalinismus",
+      "terror",
+      "schauprozesse",
+      "gulag"
     ],
     "importance": 2
   },
@@ -4721,6 +5507,47 @@
     "importance": 2
   },
   {
+    "id": "nanking-massaker",
+    "title": "Massaker von Nanking",
+    "year": 1937,
+    "endYear": 1938,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "asien",
+    "summary": "Nach der Eroberung der chinesischen Hauptstadt verüben japanische Truppen wochenlang Massenmorde und Massenvergewaltigungen.",
+    "text": "Seit dem Zwischenfall an der Marco-Polo-Brücke im Juli 1937 führte Japan offenen Krieg gegen China und nahm nach schweren Kämpfen um Shanghai am 13. Dezember 1937 die Hauptstadt Nanking ein. In den folgenden sechs Wochen erschossen, erstachen und ertränkten japanische Soldaten Zehntausende gefangene Soldaten und Zivilisten, vergewaltigten Zehntausende Frauen und Mädchen und plünderten und verbrannten die Stadt. Das Internationale Militärtribunal für den Fernen Osten ging von mehr als 200.000 Toten aus, China nennt 300.000; Historiker streiten über die Zahl, nicht über das Verbrechen. Eine Gruppe von Ausländern um den deutschen Siemens-Vertreter John Rabe richtete eine Sicherheitszone ein, in der rund 200.000 Menschen Schutz fanden. Das Massaker belastet die Beziehungen zwischen China und Japan bis heute, weil japanische Nationalisten es verharmlosen oder leugnen.",
+    "personIds": [],
+    "tags": [
+      "japan",
+      "china",
+      "kriegsverbrechen",
+      "pazifikkrieg"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "muenchner-abkommen",
+    "title": "Münchner Abkommen",
+    "year": 1938,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Großbritannien und Frankreich überlassen Hitler das Sudetenland, um den Krieg zu vermeiden; die Tschechoslowakei wird nicht gefragt.",
+    "text": "Nach dem Anschluss Österreichs im März 1938 forderte Hitler die Abtretung des Sudetenlands, der von rund drei Millionen Deutschen bewohnten Grenzgebiete der Tschechoslowakei, und drohte mit Krieg. Der britische Premierminister Neville Chamberlain flog dreimal nach Deutschland, um zu verhandeln, und in der Nacht zum 30. September 1938 unterzeichneten Hitler, Mussolini, Chamberlain und der französische Ministerpräsident Daladier in München das Abkommen, das die Abtretung binnen zehn Tagen festlegte. Die tschechoslowakische Regierung, mit Frankreich verbündet, musste sich fügen und verlor ihre Grenzbefestigungen. In London jubelten die Menschen Chamberlain zu, der den Frieden für unsere Zeit versprach; Winston Churchill nannte das Abkommen eine totale Niederlage. Im März 1939 besetzte die Wehrmacht die restliche Tschechei und bewies, dass die Politik des Appeasement gescheitert war.",
+    "personIds": [
+      "adolf-hitler",
+      "winston-churchill"
+    ],
+    "tags": [
+      "appeasement",
+      "sudetenland",
+      "tschechoslowakei",
+      "diplomatie"
+    ],
+    "importance": 2
+  },
+  {
     "id": "novemberpogrome-1938",
     "title": "Novemberpogrome",
     "year": 1938,
@@ -4737,6 +5564,28 @@
       "antisemitismus"
     ],
     "importance": 2
+  },
+  {
+    "id": "hitler-stalin-pakt",
+    "title": "Hitler-Stalin-Pakt",
+    "year": 1939,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Die Todfeinde Deutschland und Sowjetunion schließen einen Nichtangriffspakt und teilen Osteuropa heimlich unter sich auf.",
+    "text": "Am 23. August 1939 unterzeichneten die Außenminister Joachim von Ribbentrop und Wjatscheslaw Molotow in Moskau einen Nichtangriffsvertrag, der die Welt überraschte, weil Nationalsozialismus und Kommunismus sich jahrelang als Erzfeinde bekämpft hatten. Ein geheimes Zusatzprotokoll teilte Polen entlang der Flüsse Narew, Weichsel und San auf und wies Finnland, Estland, Lettland und Bessarabien der sowjetischen, Litauen zunächst der deutschen Interessensphäre zu. Hitler hatte damit freie Hand für den Angriff auf Polen, Stalin gewann Zeit und Gebiete. Die Sowjetunion besetzte im September 1939 Ostpolen, ließ im Frühjahr 1940 bei Katyn rund 22.000 polnische Offiziere und Beamte erschießen, führte Krieg gegen Finnland und annektierte 1940 die baltischen Staaten. Die Sowjetunion bestritt die Existenz des Protokolls bis 1989.",
+    "personIds": [
+      "adolf-hitler",
+      "josef-stalin"
+    ],
+    "tags": [
+      "nichtangriffspakt",
+      "polen",
+      "sowjetunion",
+      "geheimprotokoll"
+    ],
+    "importance": 3
   },
   {
     "id": "ueberfall-auf-polen",
@@ -4758,6 +5607,50 @@
       "hitler-stalin-pakt"
     ],
     "importance": 3
+  },
+  {
+    "id": "luftschlacht-um-england",
+    "title": "Luftschlacht um England",
+    "year": 1940,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Die Royal Air Force verhindert die Luftherrschaft der Luftwaffe und damit die deutsche Invasion Großbritanniens.",
+    "text": "Nach dem Fall Frankreichs stand Großbritannien allein, und Hitler ließ die Landung an der englischen Küste vorbereiten, für die zuerst die Royal Air Force ausgeschaltet werden musste. Von Juli bis Oktober 1940 griff die Luftwaffe Häfen, Flugplätze und Radarstationen an, doch die britischen Jäger vom Typ Spitfire und Hurricane, geleitet durch das Radarsystem und die Bodenkontrolle des Fighter Command, fügten den Angreifern schwerere Verluste zu, als sie selbst erlitten; Piloten aus Polen, der Tschechoslowakei, Kanada und anderen Ländern kämpften mit. Als die Luftwaffe im September auf nächtliche Angriffe gegen London und andere Städte umschwenkte, den Blitz, verschaffte das der Royal Air Force die entscheidende Erholung. Hitler verschob die Invasion am 17. September auf unbestimmte Zeit; bis Mai 1941 starben im Bombenkrieg über 40.000 britische Zivilisten. Churchill dankte den Piloten mit dem Satz, nie hätten so viele so wenigen so viel verdankt.",
+    "personIds": [
+      "winston-churchill"
+    ],
+    "tags": [
+      "luftkrieg",
+      "großbritannien",
+      "royal air force",
+      "radar"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "westfeldzug-1940",
+    "title": "Westfeldzug und Fall Frankreichs",
+    "year": 1940,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "In sechs Wochen besiegt die Wehrmacht die Niederlande, Belgien und Frankreich; de Gaulle ruft aus London zum Widerstand auf.",
+    "text": "Am 10. Mai 1940 griff die Wehrmacht die neutralen Niederlande und Belgien an und stieß mit ihren Panzerdivisionen, darunter die von Erwin Rommel geführte 7. Panzerdivision, überraschend durch die bewaldeten Ardennen, wo die Alliierten keinen Angriff erwarteten. Innerhalb einer Woche erreichten die Deutschen die Kanalküste und schnitten die britischen und französischen Armeen in Belgien ab; rund 338.000 Soldaten konnten bei Dünkirchen über den Kanal evakuiert werden. Am 14. Juni fiel Paris, und am 22. Juni unterzeichnete die neue Regierung unter Marschall Pétain im selben Eisenbahnwagen von Compiègne, in dem 1918 der Waffenstillstand besiegelt worden war, die Kapitulation; Nordfrankreich wurde besetzt, im Süden entstand das mit Deutschland zusammenarbeitende Vichy-Regime. Der General Charles de Gaulle rief am 18. Juni über die BBC die Franzosen auf, den Kampf fortzusetzen; aus seinem Freien Frankreich und den Netzwerken der Résistance im Land wuchs bis 1944 eine Widerstandsbewegung, die Sabotage verübte, Verfolgte versteckte und die Alliierten mit Informationen versorgte.",
+    "personIds": [
+      "erwin-rommel",
+      "charles-de-gaulle"
+    ],
+    "tags": [
+      "frankreich",
+      "blitzkrieg",
+      "dünkirchen",
+      "résistance",
+      "vichy"
+    ],
+    "importance": 2
   },
   {
     "id": "angriff-auf-die-sowjetunion",
@@ -4801,6 +5694,48 @@
     "importance": 2
   },
   {
+    "id": "schlacht-um-midway",
+    "title": "Schlacht um Midway",
+    "year": 1942,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "ozeanien",
+    "summary": "Die US-Marine versenkt vier japanische Flugzeugträger und stoppt die japanische Expansion im Pazifik.",
+    "text": "Sechs Monate nach Pearl Harbor wollte Admiral Yamamoto die amerikanische Flotte durch einen Angriff auf das Atoll Midway zur Entscheidungsschlacht zwingen. Amerikanische Codeknacker hatten jedoch den japanischen Marinecode teilweise entschlüsselt, sodass Admiral Nimitz seine drei Träger im Hinterhalt aufstellen konnte. Am 4. Juni 1942 trafen amerikanische Sturzkampfbomber die japanischen Träger in dem Moment, in dem deren Flugzeuge an Deck betankt und bewaffnet wurden; Akagi, Kaga, Soryu und Hiryu sanken, die USA verloren die Yorktown. Japan büßte den Kern seiner Trägerflotte und Hunderte erfahrene Piloten ein und konnte die Verluste nie ersetzen, während amerikanische Werften jeden Monat neue Schiffe lieferten. Von Guadalcanal ab August 1942 an gingen die USA im Pazifik zur Offensive über.",
+    "personIds": [],
+    "tags": [
+      "pazifikkrieg",
+      "flugzeugträger",
+      "japan",
+      "usa",
+      "wende"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-von-el-alamein",
+    "title": "Schlacht von El Alamein",
+    "year": 1942,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "afrika",
+    "summary": "Die britische 8. Armee schlägt Rommels Panzerarmee in Ägypten und wendet den Krieg in Nordafrika.",
+    "text": "Seit 1941 kämpften das deutsche Afrikakorps unter Erwin Rommel und italienische Truppen gegen die Briten um Libyen und den Zugang zum Suezkanal und den Ölfeldern des Nahen Ostens. Im Sommer 1942 stand Rommel nach der Eroberung von Tobruk nur noch 100 Kilometer vor Alexandria, doch seine Nachschublinien waren überdehnt, und alliierte Flugzeuge und U-Boote versenkten seine Tanker im Mittelmeer. Der neue britische Befehlshaber Bernard Montgomery griff am 23. Oktober 1942 mit rund doppelter Überlegenheit an Soldaten, Panzern und Flugzeugen an, darunter Truppen aus Australien, Neuseeland, Indien und Südafrika; nach zwölf Tagen brach die deutsch-italienische Front, und Rommel zog sich unter Missachtung eines Haltebefehls Hitlers nach Westen zurück. Wenige Tage später landeten amerikanische und britische Truppen in Marokko und Algerien; im Mai 1943 kapitulierten in Tunesien rund 250.000 Achsensoldaten. Churchill nannte El Alamein das Ende des Anfangs.",
+    "personIds": [
+      "erwin-rommel",
+      "winston-churchill"
+    ],
+    "tags": [
+      "nordafrika",
+      "afrikakorps",
+      "wüstenkrieg",
+      "wende"
+    ],
+    "importance": 2
+  },
+  {
     "id": "schlacht-von-stalingrad",
     "title": "Schlacht von Stalingrad",
     "year": 1942,
@@ -4837,6 +5772,47 @@
       "endlösung",
       "ss",
       "deportation"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "aufstand-im-warschauer-ghetto",
+    "title": "Aufstand im Warschauer Ghetto",
+    "year": 1943,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Die letzten Bewohner des Ghettos leisten der SS fast vier Wochen bewaffneten Widerstand und wählen den Kampf statt der Deportation.",
+    "text": "Im Warschauer Ghetto, das die deutsche Besatzung 1940 mit einer Mauer abgeriegelt hatte, lebten auf engstem Raum über 400.000 Menschen, von denen Zehntausende an Hunger und Seuchen starben. Zwischen Juli und September 1942 deportierte die SS etwa 265.000 Bewohner in das Vernichtungslager Treblinka. Die verbliebenen rund 60.000 wussten nun, was Deportation bedeutete; junge Leute schlossen sich in der Jüdischen Kampforganisation unter dem 24-jährigen Mordechaj Anielewicz und im Jüdischen Militärverband zusammen und beschafften mühsam Pistolen und selbstgebaute Brandflaschen. Als die SS am 19. April 1943 zur endgültigen Räumung anrückte, wurde sie unter Beschuss genommen und musste sich zurückziehen. Der SS-Führer Jürgen Stroop ließ das Ghetto daraufhin Haus für Haus niederbrennen und sprengen; am 8. Mai starben Anielewicz und seine Gefährten im Bunker in der Miła-Straße, am 16. Mai meldete Stroop nach der Sprengung der Großen Synagoge, das Ghetto bestehe nicht mehr. Etwa 7.000 Menschen waren im Kampf gestorben, die Überlebenden wurden nach Treblinka und Majdanek verschleppt. Der Aufstand war die erste große bewaffnete Erhebung in einer besetzten Stadt und wurde zum Symbol jüdischen Widerstands.",
+    "personIds": [],
+    "tags": [
+      "holocaust",
+      "widerstand",
+      "ghetto",
+      "warschau"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "attentat-vom-20-juli-1944",
+    "title": "Attentat vom 20. Juli 1944",
+    "year": 1944,
+    "endYear": null,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Stauffenbergs Bombe verfehlt Hitler, der Staatsstreich scheitert, und das Regime rächt sich mit Hunderten Hinrichtungen.",
+    "text": "Ein Kreis von Offizieren, Diplomaten, Gewerkschaftern und Politikern hatte seit Jahren geplant, Hitler zu beseitigen und den Krieg zu beenden, bevor Deutschland völlig zerstört war. Am 20. Juli 1944 zündete Oberst Claus Schenk Graf von Stauffenberg während einer Lagebesprechung im Führerhauptquartier Wolfsschanze in Ostpreußen eine Bombe in einer Aktentasche. Vier Männer starben, doch Hitler wurde nur leicht verletzt, weil die Tasche hinter einen massiven Tischsockel geschoben worden war. Stauffenberg flog nach Berlin und löste mit den Mitverschwörern im Bendlerblock den Plan Walküre aus, mit dem das Ersatzheer die Macht übernehmen sollte; als sich Hitlers Überleben herumsprach, brach der Umsturz zusammen. Stauffenberg, Friedrich Olbricht, Albrecht Mertz von Quirnheim und Werner von Haeften wurden noch in der Nacht im Hof erschossen. In den folgenden Monaten verurteilte der Volksgerichtshof unter Roland Freisler rund 200 Menschen zum Tode, darunter Helmuth James von Moltke, Carl Goerdeler und Julius Leber; Angehörige kamen in Sippenhaft. Der 20. Juli gilt heute als Symbol dafür, dass es auch in der Führungsschicht des Reiches Menschen gab, die ihr Gewissen über den Gehorsam stellten.",
+    "personIds": [
+      "claus-von-stauffenberg",
+      "adolf-hitler"
+    ],
+    "tags": [
+      "widerstand",
+      "attentat",
+      "wehrmacht",
+      "walküre"
     ],
     "importance": 3
   },
@@ -4942,6 +5918,25 @@
     "importance": 3
   },
   {
+    "id": "nuernberger-prozesse",
+    "title": "Nürnberger Prozesse",
+    "year": 1945,
+    "endYear": 1946,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "summary": "Erstmals müssen sich die Führer eines Staates vor einem internationalen Gericht für Angriffskrieg und Verbrechen gegen die Menschlichkeit verantworten.",
+    "text": "Die vier Siegermächte einigten sich im Sommer 1945 darauf, die Hauptverantwortlichen des NS-Regimes nicht standrechtlich zu erschießen, sondern in einem rechtsstaatlichen Verfahren anzuklagen. Vom 20. November 1945 bis zum 1. Oktober 1946 verhandelte das Internationale Militärtribunal im Nürnberger Justizpalast gegen 24 Angeklagte, darunter Hermann Göring, Rudolf Heß, Joachim von Ribbentrop und Albert Speer, wegen Verschwörung, Verbrechen gegen den Frieden, Kriegsverbrechen und Verbrechen gegen die Menschlichkeit. Als Beweise dienten vor allem die Akten der Täter selbst, dazu Filme aus den befreiten Lagern und Aussagen von Überlebenden; der Einwand, man habe nur Befehle befolgt, wurde nicht als Entschuldigung anerkannt. Zwölf Angeklagte wurden zum Tode verurteilt, Göring entzog sich der Hinrichtung durch Gift, drei wurden freigesprochen. In zwölf Nachfolgeprozessen bis 1949 standen Ärzte, Juristen, Industrielle, Diplomaten und Kommandeure der Einsatzgruppen vor amerikanischen Gerichten, in Tokio ein paralleles Tribunal gegen die japanische Führung. Die Nürnberger Prinzipien wurden Grundlage des Völkerstrafrechts und des Internationalen Strafgerichtshofs.",
+    "personIds": [],
+    "tags": [
+      "kriegsverbrechen",
+      "völkerrecht",
+      "gerichtsprozess",
+      "nachkriegszeit"
+    ],
+    "importance": 3
+  },
+  {
     "id": "unabhaengigkeit-indien-pakistan",
     "title": "Unabhängigkeit Indiens und Pakistans",
     "year": 1947,
@@ -4958,6 +5953,25 @@
       "dekolonisation",
       "indien",
       "teilung"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "berliner-luftbruecke",
+    "title": "Berliner Luftbrücke",
+    "year": 1948,
+    "endYear": 1949,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "Nach der sowjetischen Blockade West-Berlins versorgen die Westmächte die Stadt fast ein Jahr lang aus der Luft.",
+    "text": "Als die Westmächte im Juni 1948 in ihren Zonen die D-Mark einführten, sperrte die Sowjetunion alle Straßen, Schienen und Wasserwege nach West-Berlin, um die Westalliierten aus der Stadt zu drängen. Die USA und Großbritannien richteten daraufhin eine Luftbrücke ein: In fast 280.000 Flügen brachten die Rosinenbomber rund 2,3 Millionen Tonnen Kohle, Lebensmittel und Medikamente zu den gut zwei Millionen Berlinern. Am 12. Mai 1949 hob Stalin die Blockade auf. Die Luftbrücke machte aus den Besatzern in den Augen vieler Deutscher Beschützer, führte 1949 zur Gründung der NATO und beschleunigte die Entstehung der Bundesrepublik und der DDR im selben Jahr.",
+    "personIds": [],
+    "tags": [
+      "berlin",
+      "blockade",
+      "kalter krieg",
+      "westmächte"
     ],
     "importance": 3
   },
@@ -4998,6 +6012,108 @@
       "mao"
     ],
     "importance": 2
+  },
+  {
+    "id": "koreakrieg",
+    "title": "Koreakrieg",
+    "year": 1950,
+    "endYear": 1953,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "summary": "Der Angriff Nordkoreas auf den Süden führt zum ersten heißen Krieg des Kalten Krieges mit Millionen Toten.",
+    "text": "Korea war 1945 entlang des 38. Breitengrads in eine sowjetische und eine amerikanische Zone geteilt worden, aus denen zwei feindliche Staaten entstanden. Am 25. Juni 1950 griff das kommunistische Nordkorea mit Stalins Billigung den Süden an; die Vereinten Nationen, in deren Sicherheitsrat die Sowjetunion gerade fehlte, schickten Truppen unter amerikanischer Führung. Nach der Landung bei Incheon stießen die UN-Truppen bis an die chinesische Grenze vor, worauf China mit Hunderttausenden Soldaten eingriff. Der Waffenstillstand von 1953 stellte die alte Grenze wieder her; ein Friedensvertrag wurde nie geschlossen. Rund drei Millionen Menschen starben, und Korea ist bis heute geteilt.",
+    "personIds": [
+      "mao-zedong"
+    ],
+    "tags": [
+      "korea",
+      "stellvertreterkrieg",
+      "uno",
+      "teilung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "bandung-konferenz",
+    "title": "Bandung-Konferenz",
+    "year": 1955,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "summary": "29 asiatische und afrikanische Staaten treffen sich in Indonesien und fordern einen eigenen Weg zwischen den Blöcken.",
+    "text": "Auf Einladung Indonesiens, Indiens, Pakistans, Burmas und Ceylons kamen im April 1955 in Bandung Vertreter von 29 Staaten zusammen, die zusammen mehr als die Hälfte der Weltbevölkerung vertraten. Jawaharlal Nehru, Sukarno, Gamal Abdel Nasser und Chinas Ministerpräsident Zhou Enlai verurteilten Kolonialismus und Rassismus, forderten die Achtung der Souveränität und lehnten die Einordnung in die Militärblöcke ab. Die Konferenz gab den entkolonisierten Ländern erstmals eine gemeinsame Stimme in der Weltpolitik. Aus ihr ging 1961 in Belgrad die Bewegung der Blockfreien Staaten hervor, die bis heute besteht.",
+    "personIds": [],
+    "tags": [
+      "blockfreie",
+      "dekolonisation",
+      "dritte welt",
+      "asien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "montgomery-busboykott",
+    "title": "Busboykott von Montgomery",
+    "year": 1955,
+    "endYear": 1956,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "amerika",
+    "summary": "Die Verhaftung von Rosa Parks löst einen 381 Tage langen Boykott aus und macht Martin Luther King zum Führer der Bürgerrechtsbewegung.",
+    "text": "Am 1. Dezember 1955 weigerte sich die Näherin Rosa Parks in Montgomery, Alabama, ihren Sitzplatz im Bus einem Weißen zu überlassen, und wurde festgenommen. Die schwarze Gemeinde der Stadt beschloss daraufhin, die Busse nicht mehr zu benutzen; über ein Jahr lang gingen Zehntausende zu Fuß oder organisierten Fahrgemeinschaften. Der 26-jährige Pastor Martin Luther King führte den Boykott und wurde zum Sprecher des gewaltlosen Widerstands gegen die Rassentrennung. Im November 1956 erklärte der Oberste Gerichtshof die Trennung in Bussen für verfassungswidrig. Der Erfolg ermutigte Sit-ins, Freiheitsfahrten und den Marsch auf Washington 1963, die 1964 und 1965 zu den Bürgerrechts- und Wahlrechtsgesetzen führten.",
+    "personIds": [
+      "rosa-parks",
+      "martin-luther-king"
+    ],
+    "tags": [
+      "bürgerrechte",
+      "usa",
+      "rassentrennung",
+      "gewaltlosigkeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "sputnik-1957",
+    "title": "Start von Sputnik 1",
+    "year": 1957,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "welt",
+    "summary": "Die Sowjetunion schickt den ersten künstlichen Satelliten ins All und löst im Westen den Sputnik-Schock aus.",
+    "text": "Am 4. Oktober 1957 brachte eine sowjetische Rakete die 84 Kilogramm schwere Metallkugel Sputnik in eine Erdumlaufbahn; ihr Piepsen konnten Funkamateure weltweit empfangen. Für die USA war das ein Schock, denn dieselbe Rakete konnte Atomsprengköpfe über den Ozean tragen, und die Sowjetunion schien technisch überlegen. Washington gründete 1958 die Raumfahrtbehörde NASA und investierte massiv in Wissenschaft und Bildung. Das Wettrennen ins All brachte 1961 mit Juri Gagarin den ersten Menschen in den Weltraum, 1969 die amerikanische Mondlandung und Satelliten für Wetter, Fernsehen und Navigation.",
+    "personIds": [
+      "nikita-chruschtschow"
+    ],
+    "tags": [
+      "raumfahrt",
+      "wettrüsten",
+      "technik",
+      "sowjetunion"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "afrikanisches-jahr-1960",
+    "title": "Das Afrikanische Jahr",
+    "year": 1960,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "afrika",
+    "summary": "In einem einzigen Jahr werden 17 afrikanische Kolonien unabhängige Staaten.",
+    "text": "Nachdem Ghana 1957 unter Kwame Nkrumah als erste Kolonie südlich der Sahara die Unabhängigkeit erlangt hatte, entließ Frankreich 1960 fast alle seine afrikanischen Gebiete von Senegal bis Madagaskar in die Selbstständigkeit; auch Nigeria, Somalia und Belgisch-Kongo wurden unabhängig. Die Vereinten Nationen nahmen 17 neue Mitglieder auf und verabschiedeten eine Erklärung gegen den Kolonialismus. Doch die Grenzen der Kolonialzeit, schwache Institutionen und die Einmischung der Supermächte belasteten die jungen Staaten: Im Kongo brach sofort ein Bürgerkrieg aus, in dem der erste Ministerpräsident Patrice Lumumba 1961 ermordet wurde. Die Siedlerkolonien im Süden, etwa Algerien, Angola und Rhodesien, mussten ihre Freiheit noch in langen Kriegen erkämpfen.",
+    "personIds": [],
+    "tags": [
+      "dekolonisation",
+      "afrika",
+      "unabhängigkeit",
+      "uno"
+    ],
+    "importance": 3
   },
   {
     "id": "bau-der-berliner-mauer",
@@ -5042,6 +6158,69 @@
     "importance": 3
   },
   {
+    "id": "vietnamkrieg",
+    "title": "Vietnamkrieg",
+    "year": 1965,
+    "endYear": 1975,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "summary": "Die USA greifen mit Hunderttausenden Soldaten in Vietnam ein und erleiden ihre erste Kriegsniederlage.",
+    "text": "Nach dem Sieg der Viet Minh über Frankreich 1954 war Vietnam in einen kommunistischen Norden unter Ho Chi Minh und einen vom Westen gestützten Süden geteilt. Um das Vordringen des Kommunismus in Südostasien aufzuhalten, schickten die USA ab März 1965 Bodentruppen und bombardierten den Norden; auf dem Höhepunkt standen über 500.000 amerikanische Soldaten im Land. Trotz überlegener Technik konnten sie die Guerilla des Vietcong nicht besiegen, und die Fernsehbilder von Napalm und zerstörten Dörfern lösten weltweit Proteste aus. 1973 zogen die USA ab, 1975 nahm der Norden Saigon ein und vereinigte das Land. Rund 58.000 Amerikaner und mehrere Millionen Vietnamesen verloren ihr Leben.",
+    "personIds": [
+      "ho-chi-minh",
+      "john-f-kennedy"
+    ],
+    "tags": [
+      "vietnam",
+      "stellvertreterkrieg",
+      "usa",
+      "protest"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "kulturrevolution-china",
+    "title": "Kulturrevolution in China",
+    "year": 1966,
+    "endYear": 1976,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "summary": "Mao Zedong mobilisiert die Jugend gegen Partei, Intellektuelle und Traditionen; Terror und Chaos erfassen das Land.",
+    "text": "Um seine nach dem gescheiterten Großen Sprung geschwächte Macht zurückzugewinnen, rief Mao 1966 die Jugend auf, gegen bürgerliche Ideen und angebliche Verräter in der Partei zu kämpfen. Millionen Rote Garden schwenkten die Mao-Bibel, demütigten Lehrer, Beamte und Künstler öffentlich, zerstörten Tempel und Bücher und verschleppten Gebildete zur Umerziehung aufs Land; auch Deng Xiaoping wurde entmachtet, Staatspräsident Liu Shaoqi starb in Haft. Schulen und Universitäten blieben jahrelang geschlossen, die Wirtschaft brach ein. Erst Maos Tod und die Verhaftung der Viererbande 1976 beendeten das Jahrzehnt, das nach Schätzungen über eine Million Menschenleben kostete. Die Partei erklärte es 1981 zur Katastrophe, verbot aber eine offene Aufarbeitung.",
+    "personIds": [
+      "mao-zedong",
+      "deng-xiaoping"
+    ],
+    "tags": [
+      "china",
+      "mao",
+      "terror",
+      "kommunismus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "prager-fruehling-1968",
+    "title": "Prager Frühling und Protestjahr 1968",
+    "year": 1968,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "Truppen des Warschauer Pakts ersticken den Reformversuch in der Tschechoslowakei, während im Westen Studenten rebellieren.",
+    "text": "Unter dem neuen Parteichef Alexander Dubček versuchte die Tschechoslowakei ab Januar 1968 einen Sozialismus mit menschlichem Antlitz: Zensur wurde aufgehoben, Reisen erlaubt, Wirtschaftsreformen begonnen. In der Nacht zum 21. August marschierten rund eine halbe Million Soldaten der Sowjetunion und ihrer Verbündeten ein; die Bevölkerung leistete gewaltlosen Widerstand, doch die Reformen wurden zurückgenommen, und die Breschnew-Doktrin erklärte das Eingreifen zur Regel. Im selben Jahr protestierten Studenten in Paris, Berlin, Berkeley und Mexiko-Stadt gegen den Vietnamkrieg, autoritäre Strukturen und das Schweigen der Elterngeneration. 1968 wurde zum Symbol einer Aufbruchsgeneration, die Gesellschaft, Universitäten und politische Kultur veränderte.",
+    "personIds": [],
+    "tags": [
+      "tschechoslowakei",
+      "warschauer pakt",
+      "studentenbewegung",
+      "reform"
+    ],
+    "importance": 2
+  },
+  {
     "id": "mondlandung-1969",
     "title": "Mondlandung",
     "year": 1969,
@@ -5078,6 +6257,46 @@
       "wirtschaftskrise"
     ],
     "importance": 1
+  },
+  {
+    "id": "iranische-revolution-1979",
+    "title": "Iranische Revolution",
+    "year": 1979,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "naher-osten",
+    "summary": "Der Sturz des Schahs macht den Iran zur Islamischen Republik unter Ajatollah Chomeini.",
+    "text": "Gegen die Diktatur, die Verwestlichung und die soziale Ungleichheit unter Schah Mohammad Reza Pahlavi gingen 1978 Millionen Iraner auf die Straße; Geistliche, Studenten, Händler und Linke vereinten sich im Protest. Im Januar 1979 verließ der Schah das Land, im Februar kehrte der Geistliche Ruhollah Chomeini aus dem Exil zurück und ließ per Volksabstimmung eine Islamische Republik ausrufen, in der das Wort des obersten Religionsführers über allen Gesetzen steht. Die Besetzung der amerikanischen Botschaft in Teheran mit 444 Tagen Geiselhaft zerstörte das Verhältnis zu den USA, der Angriff des Irak 1980 führte in einen achtjährigen Krieg. Die Revolution gab dem politischen Islam weltweit Auftrieb und löste die zweite Ölkrise aus.",
+    "personIds": [],
+    "tags": [
+      "iran",
+      "islamismus",
+      "revolution",
+      "naher osten"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "reaktorkatastrophe-tschernobyl",
+    "title": "Reaktorkatastrophe von Tschernobyl",
+    "year": 1986,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "Die Explosion eines sowjetischen Kernreaktors verstrahlt weite Teile Europas und erschüttert das Vertrauen in die Atomkraft.",
+    "text": "Bei einem missglückten Test explodierte am 26. April 1986 der Reaktorblock 4 des Kernkraftwerks Tschernobyl in der Ukraine; brennender Grafit schleuderte radioaktive Stoffe kilometerhoch in die Luft. Die sowjetische Führung schwieg tagelang, erst Messungen in Schweden zwangen sie zur Aufklärung; die Stadt Prypjat und eine Zone von 30 Kilometern wurden geräumt, Hunderttausende Aufräumarbeiter setzten sich hoher Strahlung aus. Die radioaktive Wolke ging über Belarus, Skandinavien und Mitteleuropa nieder, wo Spielplätze gesperrt und Gemüse vernichtet wurden. Die Katastrophe verstärkte Gorbatschows Politik der Offenheit, stärkte die Anti-Atomkraft-Bewegung und führte in mehreren Ländern zum Ausstieg aus der Kernenergie.",
+    "personIds": [
+      "michail-gorbatschow"
+    ],
+    "tags": [
+      "atomkraft",
+      "umwelt",
+      "sowjetunion",
+      "katastrophe"
+    ],
+    "importance": 2
   },
   {
     "id": "fall-der-berliner-mauer",
@@ -5121,6 +6340,27 @@
     "importance": 3
   },
   {
+    "id": "world-wide-web-1991",
+    "title": "Das World Wide Web wird öffentlich",
+    "year": 1991,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "welt",
+    "summary": "Tim Berners-Lee stellt am CERN die erste Website ins Netz und macht das Internet für alle nutzbar.",
+    "text": "Das Internet verband seit den 1970er Jahren Rechner von Universitäten und Militär, war aber nur für Fachleute zu bedienen. Der britische Physiker Tim Berners-Lee entwickelte am Forschungszentrum CERN bei Genf ab 1989 ein System aus Webadressen, dem Übertragungsprotokoll HTTP und der Seitensprache HTML, mit dem sich Dokumente weltweit verknüpfen ließen. Im August 1991 machte er die erste Website öffentlich, 1993 gab das CERN die Technik kostenlos frei, und mit dem Browser Mosaic begann der Siegeszug. Innerhalb weniger Jahre entstanden Suchmaschinen, Onlinehandel und soziale Netzwerke; heute nutzen über fünf Milliarden Menschen das Netz, das Wirtschaft, Politik und Alltag grundlegend verändert hat.",
+    "personIds": [
+      "tim-berners-lee"
+    ],
+    "tags": [
+      "internet",
+      "digitalisierung",
+      "technik",
+      "kommunikation"
+    ],
+    "importance": 3
+  },
+  {
     "id": "ende-der-apartheid",
     "title": "Ende der Apartheid und Wahl Mandelas",
     "year": 1994,
@@ -5139,6 +6379,25 @@
       "menschenrechte"
     ],
     "importance": 2
+  },
+  {
+    "id": "voelkermord-ruanda",
+    "title": "Völkermord in Ruanda",
+    "year": 1994,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "afrika",
+    "summary": "Innerhalb von rund 100 Tagen ermorden Hutu-Milizen etwa 800.000 Tutsi und gemäßigte Hutu, während die Welt zusieht.",
+    "text": "Die belgische Kolonialmacht hatte die Bevölkerung Ruandas in Hutu und Tutsi eingeteilt und die Tutsi-Minderheit bevorzugt; nach der Unabhängigkeit 1962 wechselten Diskriminierung und Gewalt die Richtung. Als am 6. April 1994 das Flugzeug des Präsidenten Habyarimana abgeschossen wurde, begannen Armee, Milizen und aufgehetzte Nachbarn ein geplantes Morden, angefeuert durch Radiosender, die Tutsi als Kakerlaken bezeichneten. Bis Juli wurden etwa 800.000 Menschen mit Macheten und Gewehren getötet, viele in Kirchen und Schulen, in die sie geflohen waren. Die Vereinten Nationen zogen ihre Blauhelme sogar ab. Erst der Vormarsch der Tutsi-Rebellen unter Paul Kagame beendete das Töten. Ein internationales Tribunal verurteilte später die Verantwortlichen, und das Versagen der Weltgemeinschaft prägt bis heute die Debatte über die Schutzverantwortung.",
+    "personIds": [],
+    "tags": [
+      "genozid",
+      "afrika",
+      "uno",
+      "menschenrechte"
+    ],
+    "importance": 3
   },
   {
     "id": "anschlaege-11-september",
@@ -5230,5 +6489,26 @@
       "globalisierung"
     ],
     "importance": 2
+  },
+  {
+    "id": "russischer-angriff-ukraine-2022",
+    "title": "Russischer Angriff auf die Ukraine",
+    "year": 2022,
+    "endYear": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "summary": "Russland überfällt am 24. Februar 2022 die Ukraine und beginnt den größten Krieg in Europa seit 1945.",
+    "text": "Nach der Annexion der Krim 2014 und dem Krieg im Donbass befahl Präsident Wladimir Putin am 24. Februar 2022 den Angriff auf das gesamte Nachbarland, das er als Teil Russlands betrachtet und aus dem Einflussbereich des Westens lösen wollte. Der erwartete schnelle Sieg blieb aus: Die ukrainische Armee und Bevölkerung verteidigten Kiew, und beim Rückzug der Russen wurden in Butscha und anderen Orten Massaker an Zivilisten entdeckt. Die westlichen Staaten verhängten beispiellose Sanktionen und lieferten Waffen, Finnland und Schweden traten der NATO bei, Millionen Ukrainer flohen nach Europa. Der Krieg mit Hunderttausenden Toten und Verwundeten, zerstörten Städten und weltweit steigenden Energie- und Lebensmittelpreisen beendete die Hoffnung auf eine dauerhafte Friedensordnung in Europa.",
+    "personIds": [
+      "angela-merkel"
+    ],
+    "tags": [
+      "ukraine",
+      "russland",
+      "krieg",
+      "nato"
+    ],
+    "importance": 3
   }
 ]
