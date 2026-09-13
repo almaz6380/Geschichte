@@ -1,0 +1,103 @@
+name: iOS App
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths: ["ios/**", "js/**", "css/**", "data/**", "index.html", "capacitor.config.json", ".github/workflows/ios.yml"]
+
+jobs:
+  build:
+    name: iOS bauen
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Xcode auswählen
+        run: |
+          XC=$(ls -d /Applications/Xcode_16*.app /Applications/Xcode_26*.app 2>/dev/null | sort -V | tail -1)
+          [ -n "$XC" ] && sudo xcode-select -s "$XC"
+          xcodebuild -version
+      - name: Abhängigkeiten installieren
+        run: npm ci
+      - name: Web-App einspielen
+        run: npm run cap:sync -- ios
+
+      - name: Test-Build im Simulator (unsigniert)
+        working-directory: ios/App
+        run: |
+          xcodebuild -project App.xcodeproj -scheme App -configuration Debug \
+            -destination 'generic/platform=iOS Simulator' \
+            -derivedDataPath "$RUNNER_TEMP/dd" \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO build
+
+      - name: App-Store-Connect-Schlüssel bereitstellen
+        id: asc
+        if: ${{ env.KEY != '' }}
+        env:
+          KEY: ${{ secrets.APPSTORE_PRIVATE_KEY }}
+          KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+        run: |
+          mkdir -p "$HOME/private_keys"
+          echo "$KEY" > "$HOME/private_keys/AuthKey_$KEY_ID.p8"
+          echo "path=$HOME/private_keys/AuthKey_$KEY_ID.p8" >> "$GITHUB_OUTPUT"
+
+      - name: Archiv erstellen (automatische Cloud-Signierung)
+        if: ${{ steps.asc.outputs.path != '' }}
+        working-directory: ios/App
+        env:
+          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+          KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+          ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+          BUILD_NUMBER: ${{ github.run_number }}
+        run: |
+          xcodebuild -project App.xcodeproj -scheme App -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -archivePath "$RUNNER_TEMP/App.xcarchive" \
+            -allowProvisioningUpdates -allowProvisioningDeviceRegistration \
+            -authenticationKeyPath "${{ steps.asc.outputs.path }}" \
+            -authenticationKeyID "$KEY_ID" \
+            -authenticationKeyIssuerID "$ISSUER_ID" \
+            DEVELOPMENT_TEAM="$TEAM_ID" CODE_SIGN_STYLE=Automatic \
+            CURRENT_PROJECT_VERSION="$BUILD_NUMBER" \
+            archive
+
+      - name: In App Store Connect hochladen
+        if: ${{ steps.asc.outputs.path != '' }}
+        working-directory: ios/App
+        env:
+          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+          KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+          ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+        run: |
+          cat > "$RUNNER_TEMP/ExportOptions.plist" <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict>
+            <key>method</key><string>app-store-connect</string>
+            <key>destination</key><string>upload</string>
+            <key>signingStyle</key><string>automatic</string>
+            <key>teamID</key><string>$TEAM_ID</string>
+            <key>uploadSymbols</key><true/>
+            <key>manageAppVersionAndBuildNumber</key><true/>
+          </dict></plist>
+          EOF
+          xcodebuild -exportArchive \
+            -archivePath "$RUNNER_TEMP/App.xcarchive" \
+            -exportOptionsPlist "$RUNNER_TEMP/ExportOptions.plist" \
+            -exportPath "$RUNNER_TEMP/export" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "${{ steps.asc.outputs.path }}" \
+            -authenticationKeyID "$KEY_ID" \
+            -authenticationKeyIssuerID "$ISSUER_ID"
+          echo "## Upload nach App Store Connect abgeschlossen" >> "$GITHUB_STEP_SUMMARY"
+          echo "Build $GITHUB_RUN_NUMBER erscheint in 10–30 Minuten unter TestFlight bzw. bei der Build-Auswahl der Version." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Hinweis
+        if: ${{ steps.asc.outputs.path == '' }}
+        run: |
+          echo "## iOS-Build erfolgreich (nur Test-Build im Simulator)" >> "$GITHUB_STEP_SUMMARY"
+          echo "Für den Upload in den App Store fehlen noch die Secrets APPSTORE_ISSUER_ID, APPSTORE_KEY_ID, APPSTORE_PRIVATE_KEY und APPLE_TEAM_ID (siehe docs/APP-STORES.md)." >> "$GITHUB_STEP_SUMMARY"

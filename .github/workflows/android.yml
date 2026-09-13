@@ -1,0 +1,68 @@
+name: Android App
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths: ["android/**", "js/**", "css/**", "data/**", "index.html", "capacitor.config.json", ".github/workflows/android.yml"]
+
+jobs:
+  build:
+    name: Android bauen
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - name: Abhängigkeiten installieren
+        run: npm ci
+      - name: Web-App einspielen
+        run: npm run cap:sync -- android
+      - name: Gradle-Cache
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Test-Build (unsigniert)
+        working-directory: android
+        run: ./gradlew assembleDebug --no-daemon
+
+      - name: Signierschlüssel bereitstellen
+        id: keystore
+        if: ${{ env.KEYSTORE != '' }}
+        env:
+          KEYSTORE: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          echo "$KEYSTORE" | base64 -d > "$RUNNER_TEMP/upload.jks"
+          echo "path=$RUNNER_TEMP/upload.jks" >> "$GITHUB_OUTPUT"
+
+      - name: Signiertes App-Bundle für Google Play (AAB)
+        if: ${{ steps.keystore.outputs.path != '' }}
+        working-directory: android
+        env:
+          ANDROID_KEYSTORE_PATH: ${{ steps.keystore.outputs.path }}
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+          ANDROID_VERSION_CODE: ${{ github.run_number }}
+        run: |
+          ./gradlew bundleRelease --no-daemon
+          ls -la app/build/outputs/bundle/release/
+
+      - name: AAB als Download bereitstellen
+        if: ${{ steps.keystore.outputs.path != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: weltgeschichte-android-aab
+          path: android/app/build/outputs/bundle/release/app-release.aab
+          if-no-files-found: error
+
+      - name: Hinweis
+        if: ${{ steps.keystore.outputs.path == '' }}
+        run: |
+          echo "## Android-Build erfolgreich (nur Test-Build)" >> "$GITHUB_STEP_SUMMARY"
+          echo "Für das Google-Play-Bundle fehlen noch die Secrets ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD. Einmalig den Workflow „Android Signierschlüssel erzeugen“ ausführen und die Werte eintragen (siehe docs/APP-STORES.md)." >> "$GITHUB_STEP_SUMMARY"
