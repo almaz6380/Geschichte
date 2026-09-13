@@ -1,0 +1,4 @@
+node_modules/
+.playwright-out/
+.DS_Store
+*.log

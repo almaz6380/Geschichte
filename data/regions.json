@@ -1,0 +1,9 @@
+[
+  { "id": "europa", "name": "Europa", "color": "#3b82f6" },
+  { "id": "naher-osten", "name": "Naher Osten", "color": "#f59e0b" },
+  { "id": "afrika", "name": "Afrika", "color": "#10b981" },
+  { "id": "asien", "name": "Asien", "color": "#ef4444" },
+  { "id": "amerika", "name": "Amerika", "color": "#8b5cf6" },
+  { "id": "ozeanien", "name": "Ozeanien", "color": "#14b8a6" },
+  { "id": "welt", "name": "Weltweit", "color": "#64748b" }
+]
