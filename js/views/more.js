@@ -57,7 +57,8 @@ export function render(el) {
           <div class="stat"><b>${DB.quiz.length}</b><span>Quizfragen</span></div>
         </div>
         <p class="muted">Die Texte fassen den allgemein anerkannten Forschungsstand zusammen und sind für Schule, Studium und Allgemeinbildung gedacht. Jahreszahlen vor Christus sind mit „v. Chr.“ gekennzeichnet, ungefähre Angaben mit „ca.“. Lesezeichen und Quiz-Fortschritt bleiben nur auf diesem Gerät.</p>
-        <p class="muted">Version ${esc(APP_VERSION)} · Progressive Web App · Funktioniert offline</p>
+        <p class="muted">Version ${esc(APP_VERSION)} · ${window.wgIsNative ? 'App-Version' : 'Progressive Web App'} · Funktioniert offline</p>
+        <p><a class="btn btn-small" href="${window.wgIsNative ? 'https://geschichte-gilt.vercel.app/datenschutz.html' : './datenschutz.html'}" ${window.wgIsNative ? 'target="_blank" rel="noopener"' : ''}>Datenschutzerklärung</a></p>
       </div>
     </section>
   `;
