@@ -71,7 +71,7 @@ npm run android       # öffnet Android Studio
 
 Bundle-ID `de.almaz.weltgeschichte`, Version in `package.json`, `js/version.js`, Xcode (`MARKETING_VERSION`) und `android/app/build.gradle`. Icons und Startbildschirme werden aus `assets/` mit `npm run assets` erzeugt (Vorlagen mit `node scripts/make-store-assets.mjs`).
 
-Die Apps werden per GitHub Actions in der Cloud gebaut (`.github/workflows/ios.yml`, `android.yml`), ganz ohne eigenen Mac: iOS wird automatisch nach App Store Connect hochgeladen, für Android entsteht das App-Bundle als Download. Die vollständige Anleitung für den Browser-Weg steht in **[docs/APP-STORES.md](docs/APP-STORES.md)**, Store-Texte in [docs/store-texte.md](docs/store-texte.md), fertige Screenshots in `docs/screenshots/` (`node scripts/make-screenshots.mjs`). Die Datenschutzerklärung liegt unter `datenschutz.html`.
+Die Apps werden per GitHub Actions in der Cloud gebaut (`.github/workflows/ios.yml`, `android.yml`), ganz ohne eigenen Mac: iOS wird mit fastlane (`ios/App/fastlane/Fastfile`) signiert und automatisch nach App Store Connect hochgeladen, für Android entsteht das App-Bundle als Download. Die vollständige Anleitung für den Browser-Weg steht in **[docs/APP-STORES.md](docs/APP-STORES.md)**, Store-Texte in [docs/store-texte.md](docs/store-texte.md), fertige Screenshots in `docs/screenshots/` (`node scripts/make-screenshots.mjs`). Die Datenschutzerklärung liegt unter `datenschutz.html`.
 
 ## Browser-Test
 
