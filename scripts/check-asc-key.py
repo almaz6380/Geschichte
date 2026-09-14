@@ -56,7 +56,7 @@ if bundle_id:
     if found:
         print(f"OK: App-Eintrag für {bundle_id} vorhanden: „{found[0]['attributes'].get('name')}“")
     else:
-        print(f"WARNUNG: In App Store Connect gibt es noch keine App mit Bundle-ID {bundle_id}. Der Upload schlägt dann fehl – bitte unter „Meine Apps“ → „+“ anlegen.")
+        print(f"FEHLER: In App Store Connect gibt es noch keine App mit Bundle-ID {bundle_id}. Bitte anlegen: appstoreconnect.apple.com → Meine Apps → + → Neue App → Plattform iOS, Bundle-ID {bundle_id}, SKU weltgeschichte-1. Danach den Workflow erneut starten.")
     try:
         bids = get(f"https://api.appstoreconnect.apple.com/v1/bundleIds?filter[identifier]={bundle_id}")
         if bids.get("data"):

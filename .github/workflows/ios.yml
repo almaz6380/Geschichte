@@ -10,6 +10,8 @@ jobs:
   build:
     name: iOS bauen
     runs-on: macos-15
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -56,16 +58,8 @@ jobs:
           echo "issuer_id=$ISSUER_ID" >> "$GITHUB_OUTPUT"
           echo "team_id=$TEAM_ID" >> "$GITHUB_OUTPUT"
 
-      - name: Signierzertifikat aus dem Zwischenspeicher holen
-        id: certcache
-        if: ${{ steps.asc.outputs.path != '' }}
-        uses: actions/cache/restore@v4
-        with:
-          path: ${{ runner.temp }}/cert-cache
-          key: ios-dist-cert-${{ github.run_id }}
-          restore-keys: ios-dist-cert-
-
       - name: Signieren, archivieren und in App Store Connect hochladen
+        id: sign
         if: ${{ steps.asc.outputs.path != '' }}
         working-directory: ios/App
         env:
@@ -73,7 +67,7 @@ jobs:
           KEY_ID: ${{ steps.asc.outputs.key_id }}
           ISSUER_ID: ${{ steps.asc.outputs.issuer_id }}
           KEY_PATH: ${{ steps.asc.outputs.path }}
-          CACHE_PASS: ${{ steps.asc.outputs.cache_pass }}
+          CERT_PASS: ${{ steps.asc.outputs.cache_pass }}
           BUILD_NUMBER: ${{ github.run_number }}
           CERTS_DIR: ${{ runner.temp }}/certs
           OUT_DIR: ${{ runner.temp }}/out
@@ -83,26 +77,36 @@ jobs:
           LC_ALL: en_US.UTF-8
           LANG: en_US.UTF-8
         run: |
-          mkdir -p "$CERTS_DIR" "$RUNNER_TEMP/cert-cache"
-          if [ -f "$RUNNER_TEMP/cert-cache/certs.tar.enc" ]; then
-            openssl enc -d -aes-256-cbc -pbkdf2 -pass env:CACHE_PASS \
-              -in "$RUNNER_TEMP/cert-cache/certs.tar.enc" | tar -x -C "$CERTS_DIR" \
-              && echo "Zertifikat aus dem Zwischenspeicher übernommen." \
-              || echo "Zwischenspeicher nicht lesbar, es wird ein neues Zertifikat erzeugt."
+          # Das Signierzertifikat liegt verschlüsselt im Repository (fastlane/certs.tar.enc) und wird wiederverwendet.
+          mkdir -p "$CERTS_DIR"
+          fingerprint() { (cd "$CERTS_DIR" && find . -type f | sort | xargs -I{} shasum -a 256 {} | shasum -a 256 | cut -c1-16); }
+          if [ -f fastlane/certs.tar.enc ]; then
+            openssl enc -d -aes-256-cbc -pbkdf2 -pass env:CERT_PASS -in fastlane/certs.tar.enc | tar -x -C "$CERTS_DIR" \
+              && echo "Gespeichertes Zertifikat übernommen." \
+              || echo "Gespeichertes Zertifikat nicht lesbar, es wird ein neues erzeugt."
           fi
+          BEFORE=$(fingerprint)
           export KEYCHAIN_PASSWORD=$(openssl rand -hex 16)
+          set +e
           fastlane ios release
-          if [ -n "$(ls -A "$CERTS_DIR")" ]; then
-            tar -c -C "$CERTS_DIR" . | openssl enc -aes-256-cbc -pbkdf2 -pass env:CACHE_PASS \
-              -out "$RUNNER_TEMP/cert-cache/certs.tar.enc"
+          RC=$?
+          set -e
+          AFTER=$(fingerprint)
+          if [ -n "$(ls -A "$CERTS_DIR")" ] && [ "$BEFORE" != "$AFTER" ]; then
+            tar -c -C "$CERTS_DIR" . | openssl enc -aes-256-cbc -pbkdf2 -pass env:CERT_PASS -out fastlane/certs.tar.enc
+            echo "cert_changed=true" >> "$GITHUB_OUTPUT"
           fi
+          exit $RC
 
-      - name: Signierzertifikat im Zwischenspeicher ablegen
-        if: ${{ steps.asc.outputs.path != '' }}
-        uses: actions/cache/save@v4
-        with:
-          path: ${{ runner.temp }}/cert-cache
-          key: ios-dist-cert-${{ github.run_id }}
+      - name: Signierzertifikat verschlüsselt im Repository sichern
+        if: ${{ always() && steps.sign.outputs.cert_changed == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ios/App/fastlane/certs.tar.enc
+          git commit -m "iOS: Signierzertifikat (verschlüsselt) gesichert [skip ci]"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin "HEAD:${{ github.ref_name }}"
 
       - name: Test-Build im Simulator (unsigniert, nur ohne Apple-Schlüssel)
         if: ${{ steps.asc.outputs.path == '' }}
