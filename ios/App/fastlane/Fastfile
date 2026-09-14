@@ -67,7 +67,7 @@ platform :ios do
       raise
     end
 
-    profile_path = get_provisioning_profile(
+    get_provisioning_profile(
       api_key: api_key,
       app_identifier: APP_ID,
       development: false,
@@ -78,6 +78,7 @@ platform :ios do
     )
     profile_name = lane_context[SharedValues::SIGH_NAME]
     profile_uuid = lane_context[SharedValues::SIGH_UUID]
+    profile_path = lane_context[SharedValues::SIGH_PROFILE_PATH]
     UI.message("Profil: #{profile_name} (#{profile_uuid})")
 
     # Profil an beiden Orten ablegen, die Xcode kennt (vor und ab Xcode 16).
