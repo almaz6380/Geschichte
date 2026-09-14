@@ -48,6 +48,9 @@ jobs:
           fi
           { echo "## Apple-Schlüssel geprüft"; echo; cat "$RUNNER_TEMP/asc-check.txt"; } >> "$GITHUB_STEP_SUMMARY"
           [ ${#TEAM_ID} -eq 10 ] || { echo "FEHLER: APPLE_TEAM_ID muss genau 10 Zeichen haben (Team ID aus developer.apple.com → Membership)."; exit 1; }
+          CACHE_PASS=$(shasum -a 256 "$P8" | cut -c1-64)
+          echo "::add-mask::$CACHE_PASS"
+          echo "cache_pass=$CACHE_PASS" >> "$GITHUB_OUTPUT"
           echo "path=$P8" >> "$GITHUB_OUTPUT"
           echo "key_id=$KEY_ID" >> "$GITHUB_OUTPUT"
           echo "issuer_id=$ISSUER_ID" >> "$GITHUB_OUTPUT"
@@ -61,56 +64,53 @@ jobs:
             -derivedDataPath "$RUNNER_TEMP/dd" \
             CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO build
 
-      - name: Archiv erstellen (automatische Cloud-Signierung)
+      - name: Signierzertifikat aus dem Zwischenspeicher holen
+        id: certcache
         if: ${{ steps.asc.outputs.path != '' }}
-        working-directory: ios/App
-        env:
-          TEAM_ID: ${{ steps.asc.outputs.team_id }}
-          KEY_ID: ${{ steps.asc.outputs.key_id }}
-          ISSUER_ID: ${{ steps.asc.outputs.issuer_id }}
-          BUILD_NUMBER: ${{ github.run_number }}
-        run: |
-          xcodebuild -project App.xcodeproj -scheme App -configuration Release \
-            -destination 'generic/platform=iOS' \
-            -archivePath "$RUNNER_TEMP/App.xcarchive" \
-            -allowProvisioningUpdates -allowProvisioningDeviceRegistration \
-            -authenticationKeyPath "${{ steps.asc.outputs.path }}" \
-            -authenticationKeyID "$KEY_ID" \
-            -authenticationKeyIssuerID "$ISSUER_ID" \
-            DEVELOPMENT_TEAM="$TEAM_ID" CODE_SIGN_STYLE=Automatic \
-            CURRENT_PROJECT_VERSION="$BUILD_NUMBER" \
-            archive
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ runner.temp }}/cert-cache
+          key: ios-dist-cert-${{ github.run_id }}
+          restore-keys: ios-dist-cert-
 
-      - name: In App Store Connect hochladen
+      - name: Signieren, archivieren und in App Store Connect hochladen
         if: ${{ steps.asc.outputs.path != '' }}
         working-directory: ios/App
         env:
           TEAM_ID: ${{ steps.asc.outputs.team_id }}
           KEY_ID: ${{ steps.asc.outputs.key_id }}
           ISSUER_ID: ${{ steps.asc.outputs.issuer_id }}
+          KEY_PATH: ${{ steps.asc.outputs.path }}
+          CACHE_PASS: ${{ steps.asc.outputs.cache_pass }}
+          BUILD_NUMBER: ${{ github.run_number }}
+          CERTS_DIR: ${{ runner.temp }}/certs
+          OUT_DIR: ${{ runner.temp }}/out
+          FASTLANE_SKIP_UPDATE_CHECK: "1"
+          FASTLANE_OPT_OUT_USAGE: "1"
+          FASTLANE_HIDE_CHANGELOG: "1"
+          LC_ALL: en_US.UTF-8
+          LANG: en_US.UTF-8
         run: |
-          cat > "$RUNNER_TEMP/ExportOptions.plist" <<EOF
-          <?xml version="1.0" encoding="UTF-8"?>
-          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-          <plist version="1.0"><dict>
-            <key>method</key><string>app-store-connect</string>
-            <key>destination</key><string>upload</string>
-            <key>signingStyle</key><string>automatic</string>
-            <key>teamID</key><string>$TEAM_ID</string>
-            <key>uploadSymbols</key><true/>
-            <key>manageAppVersionAndBuildNumber</key><true/>
-          </dict></plist>
-          EOF
-          xcodebuild -exportArchive \
-            -archivePath "$RUNNER_TEMP/App.xcarchive" \
-            -exportOptionsPlist "$RUNNER_TEMP/ExportOptions.plist" \
-            -exportPath "$RUNNER_TEMP/export" \
-            -allowProvisioningUpdates \
-            -authenticationKeyPath "${{ steps.asc.outputs.path }}" \
-            -authenticationKeyID "$KEY_ID" \
-            -authenticationKeyIssuerID "$ISSUER_ID"
-          echo "## Upload nach App Store Connect abgeschlossen" >> "$GITHUB_STEP_SUMMARY"
-          echo "Build $GITHUB_RUN_NUMBER erscheint in 10–30 Minuten unter TestFlight bzw. bei der Build-Auswahl der Version." >> "$GITHUB_STEP_SUMMARY"
+          mkdir -p "$CERTS_DIR" "$RUNNER_TEMP/cert-cache"
+          if [ -f "$RUNNER_TEMP/cert-cache/certs.tar.enc" ]; then
+            openssl enc -d -aes-256-cbc -pbkdf2 -pass env:CACHE_PASS \
+              -in "$RUNNER_TEMP/cert-cache/certs.tar.enc" | tar -x -C "$CERTS_DIR" \
+              && echo "Zertifikat aus dem Zwischenspeicher übernommen." \
+              || echo "Zwischenspeicher nicht lesbar, es wird ein neues Zertifikat erzeugt."
+          fi
+          export KEYCHAIN_PASSWORD=$(openssl rand -hex 16)
+          fastlane ios release
+          if [ -n "$(ls -A "$CERTS_DIR")" ]; then
+            tar -c -C "$CERTS_DIR" . | openssl enc -aes-256-cbc -pbkdf2 -pass env:CACHE_PASS \
+              -out "$RUNNER_TEMP/cert-cache/certs.tar.enc"
+          fi
+
+      - name: Signierzertifikat im Zwischenspeicher ablegen
+        if: ${{ steps.asc.outputs.path != '' }}
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ runner.temp }}/cert-cache
+          key: ios-dist-cert-${{ github.run_id }}
 
       - name: Hinweis
         if: ${{ steps.asc.outputs.path == '' }}

@@ -119,8 +119,10 @@ Hinweis: Neue Play-Konten müssen vor der ersten Produktionsfreigabe einen gesch
 
 ## Wenn etwas schiefgeht
 
-- **iOS-Lauf rot bei „Archiv erstellen“**: meist Signierung. Prüfen: Team-ID korrekt, API-Schlüssel mit Rolle Admin, Bundle-ID in A1 registriert, `.p8`-Inhalt vollständig kopiert.
-- **iOS-Lauf rot bei „Hochladen“**: App in App Store Connect noch nicht angelegt (A5) oder Build-Nummer bereits verwendet (Workflow einfach erneut starten).
+- **iOS-Lauf rot bei „Schlüssel bereitstellen und prüfen“**: Die Zusammenfassung des Laufs nennt die Ursache (Schlüssel-ID, Issuer-ID oder `.p8`-Inhalt falsch, Team-ID nicht 10 Zeichen). Das betroffene Secret neu eintragen.
+- **iOS-Lauf rot bei „Signieren, archivieren und hochladen“ mit „Zertifikat-Limit erreicht“**: Apple erlaubt nur wenige Distribution-Zertifikate pro Team. developer.apple.com → Account → **Certificates** → ein altes „Apple Distribution“-Zertifikat auswählen → **Revoke**. Bereits veröffentlichte Apps sind davon nicht betroffen. Danach den Workflow erneut starten.
+- **iOS-Lauf rot beim Hochladen**: App in App Store Connect noch nicht angelegt (A5) oder Build-Nummer bereits verwendet (Workflow einfach erneut starten).
+- Das im Cloud-Lauf erzeugte Signierzertifikat wird verschlüsselt im GitHub-Zwischenspeicher aufbewahrt und bei späteren Läufen wiederverwendet. Nur wer den API-Schlüssel kennt, kann es entschlüsseln.
 - **Android-Lauf rot bei „Signiertes App-Bundle“**: ein Secret fehlt oder der Base64-Block ist unvollständig kopiert.
 - **Apple lehnt mit Richtlinie 4.2 ab („Minimum Functionality“)**: In der Antwort im Resolution Center kurz erklären, dass die App eine eigenständige Lern-App mit vollständig enthaltenen Inhalten, Quiz mit gespeichertem Fortschritt, Lesezeichen und Offline-Betrieb ist. Meist reicht das.
 - **Play Console verlangt geschlossenen Test**: siehe Hinweis in B5.

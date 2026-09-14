@@ -1,0 +1,113 @@
+# Signiert die App mit einem App-Store-Connect-API-Schlüssel und lädt sie hoch.
+# Wird vom Workflow .github/workflows/ios.yml aufgerufen; alle Werte kommen aus Umgebungsvariablen.
+
+default_platform(:ios)
+
+APP_ID = "de.almaz.weltgeschichte"
+
+platform :ios do
+  desc "Zertifikat und Profil beschaffen, Archiv bauen, nach App Store Connect hochladen"
+  lane :release do
+    team_id      = ENV.fetch("TEAM_ID")
+    build_number = ENV.fetch("BUILD_NUMBER")
+    certs_dir    = File.expand_path(ENV.fetch("CERTS_DIR"))
+    out_dir      = File.expand_path(ENV.fetch("OUT_DIR"))
+    keychain     = "weltgeschichte-ci"
+    keychain_pw  = ENV.fetch("KEYCHAIN_PASSWORD")
+    keychain_path = File.expand_path("~/Library/Keychains/#{keychain}-db")
+
+    FileUtils.mkdir_p(certs_dir)
+    FileUtils.mkdir_p(out_dir)
+
+    api_key = app_store_connect_api_key(
+      key_id: ENV.fetch("KEY_ID"),
+      issuer_id: ENV.fetch("ISSUER_ID"),
+      key_filepath: ENV.fetch("KEY_PATH"),
+      in_house: false
+    )
+
+    create_keychain(
+      name: keychain,
+      password: keychain_pw,
+      default_keychain: true,
+      unlock: true,
+      timeout: 0,
+      lock_when_sleeps: false,
+      add_to_search_list: true
+    )
+
+    # Vorhandenes Zertifikat (aus dem Zwischenspeicher) wiederverwenden, sonst neu erzeugen.
+    begin
+      get_certificates(
+        api_key: api_key,
+        development: false,
+        generate_apple_certs: true,
+        output_path: certs_dir,
+        keychain_path: keychain_path,
+        keychain_password: keychain_pw,
+        platform: "ios"
+      )
+    rescue => e
+      if e.message.include?("maximum number")
+        msg = "Apple erlaubt nur wenige Distribution-Zertifikate pro Team und das Limit ist erreicht. " \
+              "Lösung: developer.apple.com → Account → Certificates → ein altes „Apple Distribution“-Zertifikat auswählen → Revoke. " \
+              "Danach den Workflow „iOS App“ erneut starten. Bereits veröffentlichte Apps sind davon nicht betroffen."
+        File.open(ENV["GITHUB_STEP_SUMMARY"], "a") { |f| f.puts("## Zertifikat-Limit erreicht", "", msg) } if ENV["GITHUB_STEP_SUMMARY"]
+        UI.user_error!(msg)
+      end
+      raise
+    end
+
+    profile_path = get_provisioning_profile(
+      api_key: api_key,
+      app_identifier: APP_ID,
+      development: false,
+      force: true,
+      output_path: out_dir,
+      filename: "AppStore.mobileprovision",
+      platform: "ios"
+    )
+    profile_name = lane_context[SharedValues::SIGH_NAME]
+    UI.message("Profil: #{profile_name} (#{profile_path})")
+
+    update_code_signing_settings(
+      path: "App.xcodeproj",
+      targets: ["App"],
+      use_automatic_signing: false,
+      team_id: team_id,
+      code_sign_identity: "Apple Distribution",
+      profile_name: profile_name,
+      bundle_identifier: APP_ID
+    )
+
+    build_app(
+      project: "App.xcodeproj",
+      scheme: "App",
+      configuration: "Release",
+      export_method: "app-store",
+      output_directory: out_dir,
+      output_name: "Weltgeschichte.ipa",
+      xcargs: "CURRENT_PROJECT_VERSION=#{build_number}",
+      export_options: {
+        provisioningProfiles: { APP_ID => profile_name },
+        signingStyle: "manual",
+        teamID: team_id,
+        uploadSymbols: true
+      }
+    )
+
+    upload_to_testflight(
+      api_key: api_key,
+      ipa: File.join(out_dir, "Weltgeschichte.ipa"),
+      skip_waiting_for_build_processing: true,
+      skip_submission: true
+    )
+
+    if ENV["GITHUB_STEP_SUMMARY"]
+      File.open(ENV["GITHUB_STEP_SUMMARY"], "a") do |f|
+        f.puts("## Upload nach App Store Connect abgeschlossen", "")
+        f.puts("Build #{build_number} erscheint in 10–30 Minuten unter TestFlight bzw. bei der Build-Auswahl der Version.")
+      end
+    end
+  end
+end

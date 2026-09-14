@@ -15,3 +15,6 @@ android/app/build/
 android/local.properties
 *.keystore
 *.jks
+ios/App/fastlane/report.xml
+ios/App/fastlane/README.md
+ios/App/build/
