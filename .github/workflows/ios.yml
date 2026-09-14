@@ -56,14 +56,6 @@ jobs:
           echo "issuer_id=$ISSUER_ID" >> "$GITHUB_OUTPUT"
           echo "team_id=$TEAM_ID" >> "$GITHUB_OUTPUT"
 
-      - name: Test-Build im Simulator (unsigniert)
-        working-directory: ios/App
-        run: |
-          xcodebuild -project App.xcodeproj -scheme App -configuration Debug \
-            -destination 'generic/platform=iOS Simulator' \
-            -derivedDataPath "$RUNNER_TEMP/dd" \
-            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO build
-
       - name: Signierzertifikat aus dem Zwischenspeicher holen
         id: certcache
         if: ${{ steps.asc.outputs.path != '' }}
@@ -111,6 +103,15 @@ jobs:
         with:
           path: ${{ runner.temp }}/cert-cache
           key: ios-dist-cert-${{ github.run_id }}
+
+      - name: Test-Build im Simulator (unsigniert, nur ohne Apple-Schlüssel)
+        if: ${{ steps.asc.outputs.path == '' }}
+        working-directory: ios/App
+        run: |
+          xcodebuild -project App.xcodeproj -scheme App -configuration Debug \
+            -destination 'generic/platform=iOS Simulator' \
+            -derivedDataPath "$RUNNER_TEMP/dd" \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO build
 
       - name: Hinweis
         if: ${{ steps.asc.outputs.path == '' }}

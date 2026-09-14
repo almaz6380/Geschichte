@@ -65,3 +65,14 @@ if bundle_id:
             print(f"WARNUNG: Bundle-ID {bundle_id} ist im Developer-Portal nicht registriert (wird beim Archivieren automatisch angelegt).")
     except Exception as e:
         print("Hinweis: Bundle-ID-Prüfung nicht möglich:", e)
+
+# Vorhandene Signierzertifikate des Teams auflisten (Apple begrenzt die Anzahl der Distribution-Zertifikate).
+try:
+    certs = get("https://api.appstoreconnect.apple.com/v1/certificates?limit=200")
+    dist = [c for c in certs.get("data", []) if "DISTRIBUTION" in c["attributes"].get("certificateType", "")]
+    print(f"INFO: {len(certs.get('data', []))} Zertifikat(e) im Team, davon {len(dist)} Distribution-Zertifikat(e):")
+    for c in dist:
+        a = c["attributes"]
+        print(f"INFO:   {a.get('certificateType')} – {a.get('displayName')} – gültig bis {str(a.get('expirationDate'))[:10]}")
+except Exception as e:
+    print("Hinweis: Zertifikatsliste nicht abrufbar:", e)
