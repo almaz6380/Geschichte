@@ -1,30 +1,39 @@
 # Signiert die App mit einem App-Store-Connect-API-Schlüssel und lädt sie hoch.
 # Wird vom Workflow .github/workflows/ios.yml aufgerufen; alle Werte kommen aus Umgebungsvariablen.
+# Lane "prepare": Schlüsselbund, Zertifikat, Profil, Projekt auf manuelle Signierung.
+# Lane "upload":  Archiv bauen und nach App Store Connect hochladen.
 
 default_platform(:ios)
 
 APP_ID = "de.almaz.weltgeschichte"
 
+def api_key_from_env
+  app_store_connect_api_key(
+    key_id: ENV.fetch("KEY_ID"),
+    issuer_id: ENV.fetch("ISSUER_ID"),
+    key_filepath: ENV.fetch("KEY_PATH"),
+    in_house: false
+  )
+end
+
+def summary(title, text)
+  return unless ENV["GITHUB_STEP_SUMMARY"]
+  File.open(ENV["GITHUB_STEP_SUMMARY"], "a") { |f| f.puts("## #{title}", "", text) }
+end
+
 platform :ios do
-  desc "Zertifikat und Profil beschaffen, Archiv bauen, nach App Store Connect hochladen"
-  lane :release do
-    team_id      = ENV.fetch("TEAM_ID")
-    build_number = ENV.fetch("BUILD_NUMBER")
-    certs_dir    = File.expand_path(ENV.fetch("CERTS_DIR"))
-    out_dir      = File.expand_path(ENV.fetch("OUT_DIR"))
-    keychain     = "weltgeschichte-ci"
-    keychain_pw  = ENV.fetch("KEYCHAIN_PASSWORD")
+  desc "Zertifikat und Profil beschaffen, Projekt auf manuelle Signierung stellen"
+  lane :prepare do
+    team_id       = ENV.fetch("TEAM_ID")
+    certs_dir     = File.expand_path(ENV.fetch("CERTS_DIR"))
+    out_dir       = File.expand_path(ENV.fetch("OUT_DIR"))
+    keychain      = "weltgeschichte-ci"
+    keychain_pw   = ENV.fetch("KEYCHAIN_PASSWORD")
     keychain_path = File.expand_path("~/Library/Keychains/#{keychain}-db")
 
     FileUtils.mkdir_p(certs_dir)
     FileUtils.mkdir_p(out_dir)
-
-    api_key = app_store_connect_api_key(
-      key_id: ENV.fetch("KEY_ID"),
-      issuer_id: ENV.fetch("ISSUER_ID"),
-      key_filepath: ENV.fetch("KEY_PATH"),
-      in_house: false
-    )
+    api_key = api_key_from_env
 
     create_keychain(
       name: keychain,
@@ -36,7 +45,7 @@ platform :ios do
       add_to_search_list: true
     )
 
-    # Vorhandenes Zertifikat (aus dem Zwischenspeicher) wiederverwenden, sonst neu erzeugen.
+    # Vorhandenes Zertifikat (aus dem Repository entschlüsselt) wiederverwenden, sonst neu erzeugen.
     begin
       get_certificates(
         api_key: api_key,
@@ -50,9 +59,9 @@ platform :ios do
     rescue => e
       if e.message.include?("maximum number")
         msg = "Apple erlaubt nur wenige Distribution-Zertifikate pro Team und das Limit ist erreicht. " \
-              "Lösung: developer.apple.com → Account → Certificates → ein altes Apple-Distribution-Zertifikat auswählen → Revoke. " \
-              "Danach den Workflow iOS App erneut starten. Bereits veröffentlichte Apps sind davon nicht betroffen."
-        File.open(ENV["GITHUB_STEP_SUMMARY"], "a") { |f| f.puts("## Zertifikat-Limit erreicht", "", msg) } if ENV["GITHUB_STEP_SUMMARY"]
+              "Loesung: developer.apple.com -> Account -> Certificates -> ein altes Apple-Distribution-Zertifikat auswaehlen -> Revoke. " \
+              "Danach den Workflow iOS App erneut starten. Bereits veroeffentlichte Apps sind davon nicht betroffen."
+        summary("Zertifikat-Limit erreicht", msg)
         UI.user_error!(msg)
       end
       raise
@@ -68,7 +77,18 @@ platform :ios do
       platform: "ios"
     )
     profile_name = lane_context[SharedValues::SIGH_NAME]
-    UI.message("Profil: #{profile_name} (#{profile_path})")
+    profile_uuid = lane_context[SharedValues::SIGH_UUID]
+    UI.message("Profil: #{profile_name} (#{profile_uuid})")
+
+    # Profil an beiden Orten ablegen, die Xcode kennt (vor und ab Xcode 16).
+    [
+      File.expand_path("~/Library/MobileDevice/Provisioning Profiles"),
+      File.expand_path("~/Library/Developer/Xcode/UserData/Provisioning Profiles")
+    ].each do |dir|
+      FileUtils.mkdir_p(dir)
+      FileUtils.cp(profile_path, File.join(dir, "#{profile_uuid}.mobileprovision"))
+      UI.message("Profil installiert: #{dir}")
+    end
 
     update_code_signing_settings(
       path: "App.xcodeproj",
@@ -79,6 +99,17 @@ platform :ios do
       profile_name: profile_name,
       bundle_identifier: APP_ID
     )
+
+    File.write(File.join(out_dir, "profile-name.txt"), profile_name)
+  end
+
+  desc "Archiv bauen und nach App Store Connect hochladen"
+  lane :upload do
+    team_id      = ENV.fetch("TEAM_ID")
+    build_number = ENV.fetch("BUILD_NUMBER")
+    out_dir      = File.expand_path(ENV.fetch("OUT_DIR"))
+    profile_name = File.read(File.join(out_dir, "profile-name.txt")).strip
+    api_key = api_key_from_env
 
     build_app(
       project: "App.xcodeproj",
@@ -103,11 +134,7 @@ platform :ios do
       skip_submission: true
     )
 
-    if ENV["GITHUB_STEP_SUMMARY"]
-      File.open(ENV["GITHUB_STEP_SUMMARY"], "a") do |f|
-        f.puts("## Upload nach App Store Connect abgeschlossen", "")
-        f.puts("Build #{build_number} erscheint in 10–30 Minuten unter TestFlight bzw. bei der Build-Auswahl der Version.")
-      end
-    end
+    summary("Upload nach App Store Connect abgeschlossen",
+            "Build #{build_number} erscheint in 10 bis 30 Minuten unter TestFlight bzw. bei der Build-Auswahl der Version.")
   end
 end
