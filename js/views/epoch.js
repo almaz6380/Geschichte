@@ -2,7 +2,7 @@ import { DB, centuryKey, centuryLabel } from '../data.js';
 import { esc, epochRange, eventItem, personCard, termItem, bookmarkButton, regionChip, themeChip, tagChips, setTitle, backLink, sectionHead, bindAnchorScroll } from '../ui.js';
 import { render as notFound } from './notfound.js';
 import { getQuizProgress } from '../store.js';
-import { plural } from '../i18n.js';
+import { t, plural } from '../i18n.js';
 
 function groupByCentury(events) {
   const groups = [];
@@ -17,7 +17,7 @@ function groupByCentury(events) {
 
 export function render(el, { slug }) {
   const e = DB.epochsById.get(slug);
-  if (!e) return notFound(el, {}, { message: 'Diese Epoche gibt es nicht.' });
+  if (!e) return notFound(el, {}, { message: t('epoch.notfound') });
   setTitle(e.title);
   const events = DB.eventsByEpoch.get(e.id) || [];
   const persons = DB.personsByEpoch.get(e.id) || [];
@@ -33,13 +33,13 @@ export function render(el, { slug }) {
   const useCenturies = events.length >= 12 && (e.end - e.start) >= 250;
 
   const toc = [
-    e.keyFacts?.length ? ['blick', 'Auf einen Blick'] : null,
-    ['ueberblick', 'Überblick'],
+    e.keyFacts?.length ? ['blick', t('epoch.keyfacts.title')] : null,
+    ['ueberblick', t('epoch.overview.title')],
     ...sections.map((s) => [`sec-${s.id}`, s.title]),
-    ['ereignisse', 'Ereignisse'],
-    persons.length ? ['personen', 'Personen'] : null,
-    terms.length ? ['begriffe', 'Begriffe'] : null,
-    ['folgen', 'Folgen'],
+    ['ereignisse', t('epoch.toc.events')],
+    persons.length ? ['personen', t('epoch.toc.persons')] : null,
+    terms.length ? ['begriffe', t('epoch.toc.terms')] : null,
+    ['folgen', t('epoch.toc.consequences')],
   ].filter(Boolean);
 
   const renderEvents = (onlyMilestones) => {
@@ -53,14 +53,14 @@ export function render(el, { slug }) {
   };
 
   el.innerHTML = `
-    ${backLink('#/epochen', 'Alle Epochen')}
+    ${backLink('#/epochen', t('epoch.back'))}
     <header class="hero" style="--epoch-color:${e.color}">
-      <div class="hero-range">Epoche ${idx + 1} von ${DB.epochs.length} · ${esc(epochRange(e))}</div>
+      <div class="hero-range">${esc(t('epoch.hero.position', { index: idx + 1, total: DB.epochs.length }))} · ${esc(epochRange(e))}</div>
       <h1>${esc(e.title)}</h1>
       <p>${esc(e.summary)}</p>
       <div class="btn-row">
-        ${quizCount ? `<a class="btn" href="#/quiz/${e.id}">Quiz starten${prog ? ` · Bestwert ${prog.best}/${prog.total}` : ''}</a>` : ''}
-        <a class="btn" href="#/zeitleiste?epoche=${e.id}">In der Zeitleiste</a>
+        ${quizCount ? `<a class="btn" href="#/quiz/${e.id}">${esc(t('epoch.quiz.start'))}${prog ? ` · ${esc(t('epoch.quiz.best', { best: prog.best, total: prog.total }))}` : ''}</a>` : ''}
+        <a class="btn" href="#/zeitleiste?epoche=${e.id}">${esc(t('epoch.timeline'))}</a>
       </div>
     </header>
 
@@ -70,26 +70,26 @@ export function render(el, { slug }) {
     </div>
 
     <div class="article-layout">
-      <nav class="toc" aria-label="Inhalt dieser Epoche">
-        <div class="toc-title">Inhalt</div>
+      <nav class="toc" aria-label="${esc(t('epoch.toc.aria'))}">
+        <div class="toc-title">${esc(t('epoch.toc.title'))}</div>
         ${toc.map(([id, label]) => `<a data-anchor="${id}" href="#">${esc(label)}</a>`).join('')}
       </nav>
 
       <div class="article-body">
         ${e.keyFacts?.length ? `
         <section class="section keyfacts" id="blick">
-          <h2>Auf einen Blick</h2>
+          <h2>${esc(t('epoch.keyfacts.title'))}</h2>
           <ul>${e.keyFacts.map((f) => `<li>${esc(f)}</li>`).join('')}</ul>
           <div class="keyfacts-stats">
-            <span><b>${events.length}</b> Ereignisse</span>
-            <span><b>${milestones}</b> Meilensteine</span>
-            <span><b>${persons.length}</b> Personen</span>
-            <span><b>${terms.length}</b> Begriffe</span>
+            <span><b>${events.length}</b> ${esc(t('unit.event.other'))}</span>
+            <span><b>${milestones}</b> ${esc(t('epoch.keyfacts.milestones'))}</span>
+            <span><b>${persons.length}</b> ${esc(t('unit.person.other'))}</span>
+            <span><b>${terms.length}</b> ${esc(t('unit.term.other'))}</span>
           </div>
         </section>` : ''}
 
         <article class="article" id="ueberblick">
-          <h2>Überblick</h2>
+          <h2>${esc(t('epoch.overview.title'))}</h2>
           ${e.overview.map((p, i) => `<p${i === 0 ? ' class="lead"' : ''}>${esc(p)}</p>`).join('')}
         </article>
 
@@ -100,38 +100,38 @@ export function render(el, { slug }) {
         </article>`).join('')}
 
         <section class="section" id="ereignisse">
-          ${sectionHead('Schlüsselereignisse', null, `
-            <label class="toggle"><input type="checkbox" id="only-milestones"> <span>Nur Meilensteine (${milestones})</span></label>`)}
+          ${sectionHead(t('epoch.events.title'), null, `
+            <label class="toggle"><input type="checkbox" id="only-milestones"> <span>${esc(t('epoch.events.only', { n: milestones }))}</span></label>`)}
           <div id="events-box">${renderEvents(false)}</div>
         </section>
 
         ${persons.length ? `
         <section class="section" id="personen">
-          ${sectionHead('Wichtige Personen', null, `<span class="muted">${plural(persons.length, 'unit.person')}</span>`)}
+          ${sectionHead(t('epoch.persons.title'), null, `<span class="muted">${plural(persons.length, 'unit.person')}</span>`)}
           <div class="person-grid">${persons.map(personCard).join('')}</div>
         </section>` : ''}
 
         ${terms.length ? `
         <section class="section" id="begriffe">
-          ${sectionHead('Begriffe dieser Epoche', null, `<a href="#/glossar?epoche=${e.id}">Im Glossar</a>`)}
+          ${sectionHead(t('epoch.terms.title'), null, `<a href="#/glossar?epoche=${e.id}">${esc(t('epoch.terms.link'))}</a>`)}
           <div class="term-list">${terms.map((g) => termItem(g, { showEpoch: false })).join('')}</div>
         </section>` : ''}
 
         <section class="section article" id="folgen">
-          <h2>Folgen und Bedeutung</h2>
+          <h2>${esc(t('epoch.consequences.title'))}</h2>
           <ul class="consequences">${e.consequences.map((c) => `<li>${esc(c)}</li>`).join('')}</ul>
           ${tagChips(e.tags)}
         </section>
 
         ${themes.length ? `
         <section class="section">
-          ${sectionHead('Passende Querschnittsthemen')}
+          ${sectionHead(t('epoch.themes.title'))}
           <div class="chip-row">${themes.map(themeChip).join('')}</div>
         </section>` : ''}
 
         <nav class="pager" aria-label="Benachbarte Epochen">
-          ${prev ? `<a href="#/epoche/${prev.id}"><span class="lbl">Vorherige Epoche</span><span>${esc(prev.title)}</span></a>` : '<span></span>'}
-          ${next ? `<a class="next" href="#/epoche/${next.id}"><span class="lbl">Nächste Epoche</span><span>${esc(next.title)}</span></a>` : '<span></span>'}
+          ${prev ? `<a href="#/epoche/${prev.id}"><span class="lbl">${esc(t('epoch.nav.prev'))}</span><span>${esc(prev.title)}</span></a>` : '<span></span>'}
+          ${next ? `<a class="next" href="#/epoche/${next.id}"><span class="lbl">${esc(t('epoch.nav.next'))}</span><span>${esc(next.title)}</span></a>` : '<span></span>'}
         </nav>
       </div>
     </div>

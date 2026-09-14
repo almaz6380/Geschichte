@@ -60,3 +60,22 @@ test('index.html verweist nur auf bekannte Schlüssel', () => {
   assert.ok(used.length > 10, `nur ${used.length} Verweise gefunden`);
   for (const key of used) assert.ok(key in de, `index.html nutzt unbekannten Schlüssel ${key}`);
 });
+
+test('alle im Code verwendeten Schlüssel sind auf Deutsch hinterlegt', async () => {
+  const { readdirSync } = await import('node:fs');
+  const dirs = [path.join(ROOT, 'js'), path.join(ROOT, 'js', 'views')];
+  const used = new Set();
+  for (const dir of dirs) {
+    for (const f of readdirSync(dir).filter((x) => x.endsWith('.js'))) {
+      const src = readFileSync(path.join(dir, f), 'utf8');
+      for (const m of src.matchAll(/\bt\('([a-z][a-zA-Z0-9.]*)'/g)) used.add(m[1]);
+      // plural(n, 'unit.x') braucht .one und .other
+      for (const m of src.matchAll(/\bplural\([^,]+,\s*'([a-z][a-zA-Z0-9.]*)'/g)) {
+        used.add(`${m[1]}.one`);
+        used.add(`${m[1]}.other`);
+      }
+    }
+  }
+  const fehlend = [...used].filter((k) => !(k in de)).sort();
+  assert.equal(fehlend.length, 0, `nicht hinterlegt: ${fehlend.join(', ')}`);
+});
