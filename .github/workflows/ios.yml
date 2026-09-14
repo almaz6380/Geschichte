@@ -26,6 +26,33 @@ jobs:
       - name: Web-App einspielen
         run: npm run cap:sync -- ios
 
+      - name: App-Store-Connect-Schlüssel bereitstellen und prüfen
+        id: asc
+        if: ${{ env.KEY != '' }}
+        env:
+          KEY: ${{ secrets.APPSTORE_PRIVATE_KEY }}
+          KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+          ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+        run: |
+          KEY_ID=$(printf '%s' "$KEY_ID" | tr -d '[:space:]')
+          ISSUER_ID=$(printf '%s' "$ISSUER_ID" | tr -d '[:space:]')
+          TEAM_ID=$(printf '%s' "$TEAM_ID" | tr -d '[:space:]')
+          mkdir -p "$HOME/private_keys"
+          P8="$HOME/private_keys/AuthKey_$KEY_ID.p8"
+          printf '%s\n' "$KEY" | tr -d '\r' > "$P8"
+          python3 scripts/check-asc-key.py "$P8" "$KEY_ID" "$ISSUER_ID" de.almaz.weltgeschichte | tee "$RUNNER_TEMP/asc-check.txt"
+          if grep -q '^FEHLER' "$RUNNER_TEMP/asc-check.txt"; then
+            { echo "## Apple-Schlüssel ungültig"; echo; cat "$RUNNER_TEMP/asc-check.txt"; } >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          { echo "## Apple-Schlüssel geprüft"; echo; cat "$RUNNER_TEMP/asc-check.txt"; } >> "$GITHUB_STEP_SUMMARY"
+          [ ${#TEAM_ID} -eq 10 ] || { echo "FEHLER: APPLE_TEAM_ID muss genau 10 Zeichen haben (Team ID aus developer.apple.com → Membership)."; exit 1; }
+          echo "path=$P8" >> "$GITHUB_OUTPUT"
+          echo "key_id=$KEY_ID" >> "$GITHUB_OUTPUT"
+          echo "issuer_id=$ISSUER_ID" >> "$GITHUB_OUTPUT"
+          echo "team_id=$TEAM_ID" >> "$GITHUB_OUTPUT"
+
       - name: Test-Build im Simulator (unsigniert)
         working-directory: ios/App
         run: |
@@ -34,24 +61,13 @@ jobs:
             -derivedDataPath "$RUNNER_TEMP/dd" \
             CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO build
 
-      - name: App-Store-Connect-Schlüssel bereitstellen
-        id: asc
-        if: ${{ env.KEY != '' }}
-        env:
-          KEY: ${{ secrets.APPSTORE_PRIVATE_KEY }}
-          KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
-        run: |
-          mkdir -p "$HOME/private_keys"
-          echo "$KEY" > "$HOME/private_keys/AuthKey_$KEY_ID.p8"
-          echo "path=$HOME/private_keys/AuthKey_$KEY_ID.p8" >> "$GITHUB_OUTPUT"
-
       - name: Archiv erstellen (automatische Cloud-Signierung)
         if: ${{ steps.asc.outputs.path != '' }}
         working-directory: ios/App
         env:
-          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
-          KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
-          ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+          TEAM_ID: ${{ steps.asc.outputs.team_id }}
+          KEY_ID: ${{ steps.asc.outputs.key_id }}
+          ISSUER_ID: ${{ steps.asc.outputs.issuer_id }}
           BUILD_NUMBER: ${{ github.run_number }}
         run: |
           xcodebuild -project App.xcodeproj -scheme App -configuration Release \
@@ -69,9 +85,9 @@ jobs:
         if: ${{ steps.asc.outputs.path != '' }}
         working-directory: ios/App
         env:
-          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
-          KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
-          ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+          TEAM_ID: ${{ steps.asc.outputs.team_id }}
+          KEY_ID: ${{ steps.asc.outputs.key_id }}
+          ISSUER_ID: ${{ steps.asc.outputs.issuer_id }}
         run: |
           cat > "$RUNNER_TEMP/ExportOptions.plist" <<EOF
           <?xml version="1.0" encoding="UTF-8"?>
