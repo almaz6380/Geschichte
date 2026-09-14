@@ -50,8 +50,8 @@ platform :ios do
     rescue => e
       if e.message.include?("maximum number")
         msg = "Apple erlaubt nur wenige Distribution-Zertifikate pro Team und das Limit ist erreicht. " \
-              "Lösung: developer.apple.com → Account → Certificates → ein altes „Apple Distribution“-Zertifikat auswählen → Revoke. " \
-              "Danach den Workflow „iOS App“ erneut starten. Bereits veröffentlichte Apps sind davon nicht betroffen."
+              "Lösung: developer.apple.com → Account → Certificates → ein altes Apple-Distribution-Zertifikat auswählen → Revoke. " \
+              "Danach den Workflow iOS App erneut starten. Bereits veröffentlichte Apps sind davon nicht betroffen."
         File.open(ENV["GITHUB_STEP_SUMMARY"], "a") { |f| f.puts("## Zertifikat-Limit erreicht", "", msg) } if ENV["GITHUB_STEP_SUMMARY"]
         UI.user_error!(msg)
       end
