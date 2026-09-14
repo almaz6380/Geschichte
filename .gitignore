@@ -18,3 +18,4 @@ android/local.properties
 ios/App/fastlane/report.xml
 ios/App/fastlane/README.md
 ios/App/build/
+__pycache__/
