@@ -26,37 +26,35 @@ Die Cloud-Workflows laufen im Repository unter dem Reiter **Actions**. Sie heiß
 2. **App IDs** → Continue → Typ **App** → Continue.
 3. Description: `Weltgeschichte`, Bundle ID **Explicit**: `de.almaz.weltgeschichte`. Keine Capabilities nötig → Continue → **Register**.
 
-### A2. Team-ID notieren
-developer.apple.com → Account → **Membership details** → **Team ID** (10 Zeichen, z. B. `AB12CD34EF`). Notieren.
-
-### A3. Schlüssel für den Cloud-Upload erzeugen (App Store Connect API)
+### A2. Schlüssel für den Cloud-Upload erzeugen (App Store Connect API)
 1. appstoreconnect.apple.com → **Benutzer und Zugriff** → Reiter **Integrationen** → **App Store Connect API** → **Teamschlüssel** → **+** (Schlüssel generieren).
 2. Name: `GitHub Upload`, Zugriff: **Admin** (nötig, damit Zertifikate automatisch erstellt werden können) → Generieren.
 3. Notieren: **Issuer ID** (oben auf der Seite) und **Schlüssel-ID** (Key ID) des neuen Schlüssels.
 4. **API-Schlüssel herunterladen** (Datei `AuthKey_XXXXXXXXXX.p8`). Das geht **nur einmal**. Die Datei mit einer Text-App öffnen; der Inhalt beginnt mit `-----BEGIN PRIVATE KEY-----`. Diesen kompletten Text brauchst du gleich.
 
-### A4. Vier Secrets in GitHub eintragen
-github.com/almaz6380/Geschichte → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**. Vier Einträge:
+### A3. Drei Secrets in GitHub eintragen
+github.com/almaz6380/Geschichte → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**. Drei Einträge:
 
 | Name | Wert |
 |---|---|
-| `APPLE_TEAM_ID` | deine Team-ID aus A2 |
-| `APPSTORE_ISSUER_ID` | Issuer ID aus A3 |
-| `APPSTORE_KEY_ID` | Schlüssel-ID aus A3 |
+| `APPSTORE_ISSUER_ID` | Issuer ID aus A2 |
+| `APPSTORE_KEY_ID` | Schlüssel-ID aus A2 |
 | `APPSTORE_PRIVATE_KEY` | der komplette Inhalt der .p8-Datei inklusive der BEGIN/END-Zeilen |
 
-### A5. App in App Store Connect anlegen
+`APPLE_TEAM_ID` ist optional: Der Build liest die Team-ID aus dem Provisioning-Profil des Apple-Kontos. Ein vorhandenes, abweichendes Secret führt nur zu einem Hinweis in der Zusammenfassung, nicht zum Abbruch.
+
+### A4. App in App Store Connect anlegen
 1. appstoreconnect.apple.com → **Meine Apps** → **+** → **Neue App**.
 2. Plattform **iOS**, Name `Weltgeschichte: Epochen & Quiz`, Primärsprache **Deutsch**, Bundle-ID `de.almaz.weltgeschichte` (aus A1), SKU `weltgeschichte-1`, Nutzerzugriff **Voller Zugriff** → Erstellen.
 
-### A6. Cloud-Build starten
+### A5. Cloud-Build starten
 1. github.com/almaz6380/Geschichte → **Actions** → links **iOS App** → rechts **Run workflow** → **Run workflow**.
 2. Dauer 10–20 Minuten. Grüner Haken = Archiv wurde erstellt und nach App Store Connect hochgeladen.
 3. Nach weiteren 10–30 Minuten erscheint der Build in App Store Connect (E-Mail von Apple „hat die Verarbeitung abgeschlossen“).
 
-Wenn der Lauf rot ist: auf den Lauf klicken, den fehlgeschlagenen Schritt öffnen, die letzten Zeilen lesen. Häufig: Secret falsch kopiert (Leerzeichen, fehlende BEGIN/END-Zeile), Schlüssel ohne Admin-Rechte, oder A5 wurde noch nicht gemacht („No suitable application records“).
+Wenn der Lauf rot ist: auf den Lauf klicken, den fehlgeschlagenen Schritt öffnen, die letzten Zeilen lesen. Häufig: Secret falsch kopiert (Leerzeichen, fehlende BEGIN/END-Zeile), Schlüssel ohne Admin-Rechte, oder A4 wurde noch nicht gemacht („No suitable application records“).
 
-### A7. Store-Eintrag ausfüllen und einreichen
+### A6. Store-Eintrag ausfüllen und einreichen
 In App Store Connect bei der App:
 1. **App-Informationen**: Kategorie **Bildung**, Zweitkategorie **Nachschlagewerke**; Inhaltsrechte „enthält keine Inhalte Dritter“; Altersfreigabe: Fragebogen, alles „Nein“ → 4+.
 2. **Preis und Verfügbarkeit**: Kostenlos, alle Länder.
@@ -120,8 +118,9 @@ Hinweis: Neue Play-Konten müssen vor der ersten Produktionsfreigabe einen gesch
 ## Wenn etwas schiefgeht
 
 - **iOS-Lauf rot bei „Schlüssel bereitstellen und prüfen“**: Die Zusammenfassung des Laufs nennt die Ursache (Schlüssel-ID, Issuer-ID oder `.p8`-Inhalt falsch, Team-ID nicht 10 Zeichen). Das betroffene Secret neu eintragen.
+- **iOS-Lauf rot mit „No profile … found“**: Team-ID und Profil passen nicht zusammen. Der Build leitet die Team-ID inzwischen aus dem Profil ab; tritt die Meldung erneut auf, in der Zusammenfassung die ausgegebenen Werte (Profil, UUID, Team) prüfen.
 - **iOS-Lauf rot bei „Zertifikat und Profil bereitstellen“ mit „Zertifikat-Limit erreicht“**: Apple erlaubt nur wenige Distribution-Zertifikate pro Team. Die Zusammenfassung des Laufs listet die vorhandenen Zertifikate mit Ablaufdatum. Entweder developer.apple.com → Account → **Certificates** → ein altes „Apple Distribution“-Zertifikat auswählen → **Revoke**, oder beim Start des Workflows („Run workflow“) die Zertifikat-ID ins Feld `revoke_certificate_id` eintragen. Bereits veröffentlichte Apps sind davon nicht betroffen.
-- **iOS-Lauf rot beim Hochladen**: App in App Store Connect noch nicht angelegt (A5) oder Build-Nummer bereits verwendet (Workflow einfach erneut starten).
+- **iOS-Lauf rot beim Hochladen**: App in App Store Connect noch nicht angelegt (A4) oder Build-Nummer bereits verwendet (Workflow einfach erneut starten).
 - Das im Cloud-Lauf erzeugte Signierzertifikat wird verschlüsselt im Repository abgelegt (`ios/App/fastlane/certs.tar.enc`, Commit vom Workflow) und bei späteren Läufen wiederverwendet. Nur wer den API-Schlüssel kennt, kann es entschlüsseln. Die Datei nicht löschen, sonst muss ein neues Zertifikat erzeugt werden.
 - **Android-Lauf rot bei „Signiertes App-Bundle“**: ein Secret fehlt oder der Base64-Block ist unvollständig kopiert.
 - **Apple lehnt mit Richtlinie 4.2 ab („Minimum Functionality“)**: In der Antwort im Resolution Center kurz erklären, dass die App eine eigenständige Lern-App mit vollständig enthaltenen Inhalten, Quiz mit gespeichertem Fortschritt, Lesezeichen und Offline-Betrieb ist. Meist reicht das.

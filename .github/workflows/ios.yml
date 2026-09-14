@@ -55,7 +55,9 @@ jobs:
             exit 1
           fi
           { echo "## Apple-Schlüssel geprüft"; echo; cat "$RUNNER_TEMP/asc-check.txt"; } >> "$GITHUB_STEP_SUMMARY"
-          [ ${#TEAM_ID} -eq 10 ] || { echo "FEHLER: APPLE_TEAM_ID muss genau 10 Zeichen haben (Team ID aus developer.apple.com → Membership)."; exit 1; }
+          if [ -n "$TEAM_ID" ] && [ ${#TEAM_ID} -ne 10 ]; then
+            echo "Hinweis: APPLE_TEAM_ID hat nicht die üblichen 10 Zeichen. Der Build nutzt ohnehin die Team-ID aus dem Apple-Konto."
+          fi
           CACHE_PASS=$(shasum -a 256 "$P8" | cut -c1-64)
           echo "::add-mask::$CACHE_PASS"
           echo "cache_pass=$CACHE_PASS" >> "$GITHUB_OUTPUT"
