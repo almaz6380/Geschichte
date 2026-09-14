@@ -1,6 +1,7 @@
 import { DB, themeEvents } from '../data.js';
-import { esc, themeTile, eventItem, personCard, termItem, tagChips, setTitle, backLink, sectionHead, emptyState, plural, bindAnchorScroll } from '../ui.js';
+import { esc, themeTile, eventItem, personCard, termItem, tagChips, setTitle, backLink, sectionHead, emptyState, bindAnchorScroll } from '../ui.js';
 import { render as notFound } from './notfound.js';
+import { plural } from '../i18n.js';
 
 export function renderList(el) {
   setTitle('Querschnittsthemen');
@@ -31,7 +32,7 @@ export function renderDetail(el, { id }) {
   el.innerHTML = `
     ${backLink('#/themen', 'Alle Themen')}
     <header class="hero" style="--epoch-color:${t.color}">
-      <div class="hero-range">Querschnittsthema · ${plural(events.length, 'Ereignis', 'Ereignisse')} · ${plural(epochsCovered.length, 'Epoche', 'Epochen')}</div>
+      <div class="hero-range">Querschnittsthema · ${plural(events.length, 'unit.event')} · ${plural(epochsCovered.length, 'unit.epoch')}</div>
       <h1>${esc(t.title)}</h1>
       ${t.subtitle ? `<p class="hero-sub">${esc(t.subtitle)}</p>` : ''}
       <p>${esc(t.summary)}</p>

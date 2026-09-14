@@ -54,6 +54,9 @@ export function startRouter(handler) {
   dispatch();
 }
 
+// Aktuelle Route erneut ausführen, z. B. nach einem Sprachwechsel.
+export function rerender() { dispatch(); }
+
 function dispatch() {
   const { path, query } = parseHash();
   const m = matchRoute(path);

@@ -284,3 +284,28 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
 .two-col { grid-template-columns: minmax(0, 1fr); }
 @media (min-width: 900px) { .two-col { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
 .card, .list-item, .term { min-width: 0; overflow-wrap: anywhere; }
+
+/* Sprachauswahl in der Kopfzeile */
+.lang-picker { position: relative; display: inline-flex; align-items: center; }
+.lang-picker .lang-icon {
+  position: absolute; left: 6px; width: 18px; height: 18px;
+  color: var(--muted); pointer-events: none;
+}
+.lang-picker select {
+  appearance: none;
+  padding: 6px 8px 6px 28px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-size: .85rem;
+  line-height: 1.2;
+  cursor: pointer;
+  min-width: 0;
+}
+.lang-picker select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+@media (max-width: 480px) {
+  .lang-picker select { padding-left: 24px; font-size: .8rem; }
+  .lang-picker .lang-icon { left: 4px; width: 16px; height: 16px; }
+}

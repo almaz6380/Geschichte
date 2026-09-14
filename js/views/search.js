@@ -1,7 +1,8 @@
 import { DB } from '../data.js';
-import { esc, formatRange, lifeSpan, epochRange, setTitle, plural } from '../ui.js';
+import { esc, formatRange, lifeSpan, epochRange, setTitle } from '../ui.js';
 import { buildIndex, search, makeSnippet } from '../search.js';
 import { setQuery } from '../router.js';
+import { plural } from '../i18n.js';
 
 let index = null;
 
@@ -61,7 +62,7 @@ export function render(el, params, { query }) {
 
   function renderResults(t) {
     const shown = typeFilter ? lastResults.filter((r) => r.doc.type === typeFilter) : lastResults;
-    out.innerHTML = `<p class="result-count">${plural(shown.length, 'Treffer', 'Treffer')} für „${esc(t)}“</p>
+    out.innerHTML = `<p class="result-count">${plural(shown.length, 'unit.hit')} für „${esc(t)}“</p>
       <div class="list">${shown.map(({ doc, tokens }) => `
         <a class="list-item list-item-single" href="${href(doc)}">
           <span>

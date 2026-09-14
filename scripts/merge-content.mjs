@@ -1,7 +1,7 @@
-// Führt Epochen-Dateien aus einem Ordner zu data/*.json zusammen.
+// Führt Epochen-Dateien aus einem Ordner zu data/de/*.json zusammen (deutsche Referenz).
 //   <slug>.json      Basis: { epoch, events, persons, quiz, glossary? }
 //   <slug>.add.json  Ergänzung: { epoch? (Zusatzfelder), events, persons, quiz, glossary }
-//   themes.json      Querschnittsthemen (wird 1:1 nach data/themes.json übernommen)
+//   themes.json      Querschnittsthemen (wird 1:1 nach data/de/themes.json übernommen)
 // Aufruf: node scripts/merge-content.mjs <ordner-mit-epochen-json>
 import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -59,7 +59,7 @@ quiz.sort((a, b) => a.epochId.localeCompare(b.epochId) || a.id.localeCompare(b.i
 glossary.sort((a, b) => a.term.localeCompare(b.term, 'de'));
 
 const out = (name, data) =>
-  writeFileSync(path.join(ROOT, 'data', name), JSON.stringify(data, null, 2) + '\n');
+  writeFileSync(path.join(ROOT, 'data', 'de', name), JSON.stringify(data, null, 2) + '\n');
 out('epochs.json', epochList);
 out('events.json', events);
 out('persons.json', persons);

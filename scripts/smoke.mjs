@@ -27,12 +27,14 @@ await new Promise((r) => setTimeout(r, 800));
 
 const { chromium } = loadPlaywright();
 const browser = await chromium.launch();
+// Feste Sprache, damit der Test unabhängig von der Browsersprache immer dieselbe Fassung prüft.
+const LOCALE = process.env.SMOKE_LOCALE || 'de-DE';
 const failures = [];
 const check = (cond, msg) => { if (cond) console.log('  ok  ', msg); else { console.log('  FAIL', msg); failures.push(msg); } };
 const count = async (page, sel) => (await page.$$(sel)).length;
 
 try {
-  const context = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, serviceWorkers: 'allow' });
+  const context = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, serviceWorkers: 'allow', locale: LOCALE });
   const page = await context.newPage();
   const errors = [];
   page.on('pageerror', (e) => errors.push(String(e)));
@@ -179,7 +181,7 @@ try {
   }
 
   console.log('Desktop');
-  const desk = await browser.newPage({ viewport: { width: 1280, height: 800 } });
+  const desk = await browser.newPage({ viewport: { width: 1280, height: 800 }, locale: LOCALE });
   await desk.goto(BASE + '#/zeitleiste'); await desk.waitForSelector('.tl-event');
   await desk.screenshot({ path: path.join(OUT, 'timeline-desktop.png') });
   await desk.goto(BASE + '#/epoche/rom'); await desk.waitForSelector('.hero h1');
@@ -189,7 +191,7 @@ try {
   await desk.screenshot({ path: path.join(OUT, 'home-desktop.png') });
 
   console.log('Kein horizontales Scrollen (360px)');
-  const narrow = await browser.newPage({ viewport: { width: 360, height: 740 } });
+  const narrow = await browser.newPage({ viewport: { width: 360, height: 740 }, locale: LOCALE });
   for (const route of ['#/', '#/epoche/rom', '#/zeitleiste', '#/quiz', '#/suche?q=rom', '#/glossar', '#/regionen', '#/mehr', '#/themen']) {
     await narrow.goto(BASE + route); await narrow.waitForTimeout(400);
     const over = await narrow.evaluate(() => document.documentElement.scrollWidth > document.documentElement.clientWidth + 1);

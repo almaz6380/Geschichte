@@ -1,7 +1,8 @@
 import { DB, centuryKey, centuryLabel } from '../data.js';
-import { esc, formatRange, epochRange, regionChip, setTitle, plural } from '../ui.js';
+import { esc, formatRange, epochRange, regionChip, setTitle } from '../ui.js';
 import { setQuery } from '../router.js';
 import { getTimelineFilters, setTimelineFilters } from '../store.js';
+import { plural } from '../i18n.js';
 
 export function render(el, params, { query }) {
   setTitle('Zeitleiste');
@@ -79,14 +80,14 @@ export function render(el, params, { query }) {
       return `<section class="tl-epoch" id="tl-${e.id}" style="--epoch-color:${e.color}">
         <div class="tl-epoch-head">
           <h2><a href="#/epoche/${e.id}">${esc(e.title)}</a></h2>
-          <span class="range">${esc(epochRange(e))} · ${plural(events.length, 'Ereignis', 'Ereignisse')}</span>
+          <span class="range">${esc(epochRange(e))} · ${plural(events.length, 'unit.event')}</span>
           <span class="band"></span>
         </div>
         <div class="tl-epoch-body">${items}</div>
       </section>`;
     }).join('');
     tl.innerHTML = html || `<div class="empty card"><h2>Keine Ereignisse</h2><p>Für diese Kombination aus Filtern gibt es keine Einträge.</p></div>`;
-    count.textContent = plural(total, 'Ereignis', 'Ereignisse');
+    count.textContent = plural(total, 'unit.event');
   }
 
   function apply() {

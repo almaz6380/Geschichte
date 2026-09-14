@@ -1,6 +1,7 @@
 import { DB } from '../data.js';
-import { esc, termItem, setTitle, emptyState, plural, bindAnchorScroll } from '../ui.js';
+import { esc, termItem, setTitle, emptyState, bindAnchorScroll } from '../ui.js';
 import { setQuery } from '../router.js';
+import { plural } from '../i18n.js';
 
 function letterOf(term) {
   const c = term.trim().charAt(0).toUpperCase();
@@ -19,7 +20,7 @@ export function render(el, { id } = {}, { query } = { query: new URLSearchParams
 
   el.innerHTML = `
     <h1>Glossar</h1>
-    <p class="muted intro-text">${plural(DB.glossary.length, 'Begriff', 'Begriffe')} aus allen Epochen, alphabetisch geordnet und kurz erklärt.</p>
+    <p class="muted intro-text">${plural(DB.glossary.length, 'unit.term')} aus allen Epochen, alphabetisch geordnet und kurz erklärt.</p>
     <div class="search-box">
       <svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg>
       <input id="gl-input" type="search" placeholder="Begriff filtern …" value="${esc(q)}" aria-label="Begriff filtern" autocomplete="off">
@@ -58,7 +59,7 @@ export function render(el, { id } = {}, { query } = { query: new URLSearchParams
     const present = [...groups.keys()];
     const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('');
     letters.innerHTML = alphabet.map((L) => present.includes(L) ? `<a data-anchor="gl-${L === '#' ? 'x' : L}" href="#">${L}</a>` : `<span>${L}</span>`).join('');
-    count.textContent = plural(items.length, 'Begriff', 'Begriffe');
+    count.textContent = plural(items.length, 'unit.term');
     list.innerHTML = present.length
       ? present.map((L) => `<section class="letter-group" id="gl-${L === '#' ? 'x' : L}"><h2 class="letter">${L}</h2><div class="term-list">${groups.get(L).map((g) => termItem(g)).join('')}</div></section>`).join('')
       : `<p class="muted">Keine Begriffe gefunden.</p>`;

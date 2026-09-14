@@ -1,7 +1,8 @@
 import { DB, centuryKey, centuryLabel } from '../data.js';
-import { esc, epochRange, eventItem, personCard, termItem, bookmarkButton, regionChip, themeChip, tagChips, setTitle, backLink, sectionHead, plural, bindAnchorScroll } from '../ui.js';
+import { esc, epochRange, eventItem, personCard, termItem, bookmarkButton, regionChip, themeChip, tagChips, setTitle, backLink, sectionHead, bindAnchorScroll } from '../ui.js';
 import { render as notFound } from './notfound.js';
 import { getQuizProgress } from '../store.js';
+import { plural } from '../i18n.js';
 
 function groupByCentury(events) {
   const groups = [];
@@ -106,7 +107,7 @@ export function render(el, { slug }) {
 
         ${persons.length ? `
         <section class="section" id="personen">
-          ${sectionHead('Wichtige Personen', null, `<span class="muted">${plural(persons.length, 'Person', 'Personen')}</span>`)}
+          ${sectionHead('Wichtige Personen', null, `<span class="muted">${plural(persons.length, 'unit.person')}</span>`)}
           <div class="person-grid">${persons.map(personCard).join('')}</div>
         </section>` : ''}
 

@@ -24,6 +24,10 @@ const listeners = new Set();
 function emit(key) { for (const fn of listeners) fn(key); }
 export function subscribe(fn) { listeners.add(fn); return () => listeners.delete(fn); }
 
+// Sprache (null = noch keine Wahl getroffen, dann entscheidet die Gerätesprache)
+export function getLangPref() { return read('lang', null); }
+export function setLangPref(code) { write('lang', code); emit('lang'); }
+
 // Theme
 export function getTheme() { return read('theme', 'system'); }
 export function setTheme(t) { write('theme', t); emit('theme'); }

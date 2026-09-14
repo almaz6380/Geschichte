@@ -1,7 +1,9 @@
 import { loadData } from './data.js';
-import { addRoute, startRouter } from './router.js';
+import { addRoute, startRouter, rerender } from './router.js';
 import { applyTheme, cycleTheme, themeLabel } from './theme.js';
 import { handleBookmarkClick, showToast, esc } from './ui.js';
+import { LANGS, DEFAULT_LANG, t, setLang, getLang, detectLang } from './i18n.js';
+import { getLangPref, setLangPref } from './store.js';
 import * as home from './views/home.js';
 import * as epochs from './views/epochs.js';
 import * as epoch from './views/epoch.js';
@@ -70,15 +72,15 @@ function onNavigate(match, ctx) {
     cleanup = match ? match.handler(view, match.params, ctx) : notfound.render(view, {}, ctx);
   } catch (err) {
     console.error(err);
-    view.innerHTML = `<div class="empty card"><h2>Fehler</h2><p>${esc(err.message)}</p></div>`;
+    view.innerHTML = `<div class="empty card"><h2>${esc(t('app.error'))}</h2><p>${esc(err.message)}</p></div>`;
   }
 }
 
 function setupTheme() {
   applyTheme();
   document.getElementById('theme-btn')?.addEventListener('click', () => {
-    const t = cycleTheme();
-    showToast(`Farbschema: ${themeLabel(t)}`);
+    const next = cycleTheme();
+    showToast(t('theme.toast', { name: themeLabel(next) }));
   });
 }
 
@@ -103,7 +105,7 @@ function setupInstall() {
     document.dispatchEvent(new CustomEvent('wg:installable'));
   });
   btn?.addEventListener('click', () => window.wgInstall.prompt());
-  window.addEventListener('appinstalled', () => { btn.hidden = true; deferred = null; showToast('App installiert'); });
+  window.addEventListener('appinstalled', () => { btn.hidden = true; deferred = null; showToast(t('app.installed')); });
 }
 
 function setupServiceWorker() {
@@ -117,7 +119,7 @@ function setupServiceWorker() {
         const nw = reg.installing;
         nw?.addEventListener('statechange', () => {
           if (nw.state === 'installed' && navigator.serviceWorker.controller) {
-            showToast('Neue Version verfügbar', { action: 'Neu laden', onAction: () => location.reload(), sticky: true });
+            showToast(t('app.update.available'), { action: t('app.update.action'), onAction: () => location.reload(), sticky: true });
           }
         });
       });
@@ -127,16 +129,63 @@ function setupServiceWorker() {
   });
 }
 
+// Statische Texte in index.html übersetzen.
+function applyStaticTexts() {
+  document.querySelectorAll('[data-i18n]').forEach((el) => { el.textContent = t(el.dataset.i18n); });
+  document.querySelectorAll('[data-i18n-aria]').forEach((el) => { el.setAttribute('aria-label', t(el.dataset.i18nAria)); });
+  document.querySelectorAll('[data-i18n-title]').forEach((el) => { el.setAttribute('title', t(el.dataset.i18nTitle)); });
+  document.querySelectorAll('[data-i18n-content]').forEach((el) => { el.setAttribute('content', t(el.dataset.i18nContent)); });
+  document.title = t('app.name');
+}
+
+// Lädt die Inhalte der aktuellen Sprache. Fehlt eine Übersetzung noch, greift Deutsch.
+async function loadLanguageData() {
+  try {
+    await loadData(`./data/${getLang()}/`);
+  } catch (err) {
+    if (getLang() === DEFAULT_LANG) throw err;
+    console.warn(`Inhalte für "${getLang()}" nicht verfügbar, es wird Deutsch geladen.`, err);
+    setLang(DEFAULT_LANG);
+    await loadData(`./data/${DEFAULT_LANG}/`);
+  }
+}
+
+function setupLangPicker() {
+  const sel = document.getElementById('lang-select');
+  if (!sel) return;
+  sel.innerHTML = LANGS.map((l) => `<option value="${l.code}">${esc(l.name)}</option>`).join('');
+  sel.value = getLang();
+  sel.addEventListener('change', async () => {
+    const code = sel.value;
+    setLangPref(code);
+    setLang(code);
+    sel.value = getLang();
+    try {
+      await loadLanguageData();
+    } catch (err) {
+      console.error(err);
+      showToast(t('app.loadFailed'));
+      return;
+    }
+    sel.value = getLang();
+    applyStaticTexts();
+    rerender();
+  });
+}
+
 async function main() {
+  setLang(getLangPref() || detectLang());
+  applyStaticTexts();
   setupTheme();
   setupInstall();
   setupServiceWorker();
+  setupLangPicker();
   document.addEventListener('click', (e) => { handleBookmarkClick(e); });
   try {
-    await loadData();
+    await loadLanguageData();
   } catch (err) {
     console.error(err);
-    view.innerHTML = `<div class="empty card"><h2>Inhalte konnten nicht geladen werden</h2><p>${esc(err.message)}</p><button class="btn btn-primary" onclick="location.reload()">Erneut versuchen</button></div>`;
+    view.innerHTML = `<div class="empty card"><h2>${esc(t('app.loadFailed'))}</h2><p>${esc(err.message)}</p><button class="btn btn-primary" onclick="location.reload()">${esc(t('app.retry'))}</button></div>`;
     return;
   }
   startRouter(onNavigate);

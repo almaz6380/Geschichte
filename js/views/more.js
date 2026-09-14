@@ -1,9 +1,10 @@
 import { DB } from '../data.js';
-import { esc, setTitle, plural } from '../ui.js';
+import { esc, setTitle } from '../ui.js';
 import { getQuizProgress, bookmarkCount, resetQuizProgress, getTheme } from '../store.js';
 import { cycleTheme, themeLabel } from '../theme.js';
 import { showToast } from '../ui.js';
 import { APP_VERSION } from '../version.js';
+import { plural } from '../i18n.js';
 
 export function render(el) {
   setTitle('Mehr');
@@ -17,11 +18,11 @@ export function render(el) {
     <section class="section">
       <h2 class="section-title">Entdecken</h2>
       <div class="card-grid">
-        <a class="card card-link hub-card" href="#/themen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-topic"/></svg><span><span class="title">Querschnittsthemen</span><span class="sub">${plural(DB.themes.length, 'Thema', 'Themen')} quer durch alle Epochen</span></span></a>
-        <a class="card card-link hub-card" href="#/glossar"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-glossary"/></svg><span><span class="title">Glossar</span><span class="sub">${plural(DB.glossary.length, 'Begriff', 'Begriffe')} kurz erklärt</span></span></a>
+        <a class="card card-link hub-card" href="#/themen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-topic"/></svg><span><span class="title">Querschnittsthemen</span><span class="sub">${plural(DB.themes.length, 'unit.theme')} quer durch alle Epochen</span></span></a>
+        <a class="card card-link hub-card" href="#/glossar"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-glossary"/></svg><span><span class="title">Glossar</span><span class="sub">${plural(DB.glossary.length, 'unit.term')} kurz erklärt</span></span></a>
         <a class="card card-link hub-card" href="#/regionen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-globe"/></svg><span><span class="title">Regionen</span><span class="sub">Geschichte nach Kontinenten</span></span></a>
         <a class="card card-link hub-card" href="#/suche"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg><span><span class="title">Suche</span><span class="sub">Alle Inhalte durchsuchen</span></span></a>
-        <a class="card card-link hub-card" href="#/lesezeichen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg><span><span class="title">Lesezeichen</span><span class="sub">${plural(bookmarkCount(), 'Eintrag', 'Einträge')} gespeichert</span></span></a>
+        <a class="card card-link hub-card" href="#/lesezeichen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg><span><span class="title">Lesezeichen</span><span class="sub">${plural(bookmarkCount(), 'unit.entry')} gespeichert</span></span></a>
         <a class="card card-link hub-card" href="#/quiz"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-quiz"/></svg><span><span class="title">Quiz</span><span class="sub">${mastered} von ${DB.epochs.length} Epochen gemeistert</span></span></a>
       </div>
     </section>

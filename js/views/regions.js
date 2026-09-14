@@ -1,6 +1,7 @@
 import { DB } from '../data.js';
-import { esc, regionTile, eventItem, personCard, setTitle, backLink, sectionHead, plural, epochRange, bindAnchorScroll } from '../ui.js';
+import { esc, regionTile, eventItem, personCard, setTitle, backLink, sectionHead, epochRange, bindAnchorScroll } from '../ui.js';
 import { render as notFound } from './notfound.js';
+import { plural } from '../i18n.js';
 
 export function renderList(el) {
   setTitle('Regionen');
@@ -22,7 +23,7 @@ export function renderDetail(el, { id }) {
   el.innerHTML = `
     ${backLink('#/regionen', 'Alle Regionen')}
     <header class="hero" style="--epoch-color:${r.color}">
-      <div class="hero-range">Region · ${plural(events.length, 'Ereignis', 'Ereignisse')} · ${plural(persons.length, 'Person', 'Personen')}</div>
+      <div class="hero-range">Region · ${plural(events.length, 'unit.event')} · ${plural(persons.length, 'unit.person')}</div>
       <h1>${esc(r.name)}</h1>
       <div class="btn-row"><a class="btn" href="#/zeitleiste?region=${r.id}">In der Zeitleiste</a></div>
     </header>
