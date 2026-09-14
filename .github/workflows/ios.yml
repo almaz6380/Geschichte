@@ -2,6 +2,11 @@ name: iOS App
 
 on:
   workflow_dispatch:
+    inputs:
+      revoke_certificate_id:
+        description: "Optional: ID eines Distribution-Zertifikats, das vor dem Lauf widerrufen werden soll"
+        required: false
+        default: ""
   push:
     branches: ["main"]
     paths: ["ios/**", "js/**", "css/**", "data/**", "index.html", "capacitor.config.json", ".github/workflows/ios.yml"]
@@ -36,6 +41,7 @@ jobs:
           KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
           ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
           TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+          REVOKE_CERT_ID: ${{ github.event.inputs.revoke_certificate_id }}
         run: |
           KEY_ID=$(printf '%s' "$KEY_ID" | tr -d '[:space:]')
           ISSUER_ID=$(printf '%s' "$ISSUER_ID" | tr -d '[:space:]')
@@ -58,7 +64,7 @@ jobs:
           echo "issuer_id=$ISSUER_ID" >> "$GITHUB_OUTPUT"
           echo "team_id=$TEAM_ID" >> "$GITHUB_OUTPUT"
 
-      - name: Signieren, archivieren und in App Store Connect hochladen
+      - name: Zertifikat und Profil bereitstellen
         id: sign
         if: ${{ steps.asc.outputs.path != '' }}
         working-directory: ios/App
@@ -68,7 +74,6 @@ jobs:
           ISSUER_ID: ${{ steps.asc.outputs.issuer_id }}
           KEY_PATH: ${{ steps.asc.outputs.path }}
           CERT_PASS: ${{ steps.asc.outputs.cache_pass }}
-          BUILD_NUMBER: ${{ github.run_number }}
           CERTS_DIR: ${{ runner.temp }}/certs
           OUT_DIR: ${{ runner.temp }}/out
           FASTLANE_SKIP_UPDATE_CHECK: "1"
@@ -78,7 +83,7 @@ jobs:
           LANG: en_US.UTF-8
         run: |
           # Das Signierzertifikat liegt verschlüsselt im Repository (fastlane/certs.tar.enc) und wird wiederverwendet.
-          mkdir -p "$CERTS_DIR"
+          mkdir -p "$CERTS_DIR" "$OUT_DIR"
           fingerprint() { (cd "$CERTS_DIR" && find . -type f | sort | xargs -I{} shasum -a 256 {} | shasum -a 256 | cut -c1-16); }
           if [ -f fastlane/certs.tar.enc ]; then
             openssl enc -d -aes-256-cbc -pbkdf2 -pass env:CERT_PASS -in fastlane/certs.tar.enc | tar -x -C "$CERTS_DIR" \
@@ -86,9 +91,12 @@ jobs:
               || echo "Gespeichertes Zertifikat nicht lesbar, es wird ein neues erzeugt."
           fi
           BEFORE=$(fingerprint)
-          export KEYCHAIN_PASSWORD=$(openssl rand -hex 16)
+          KEYCHAIN_PASSWORD=$(openssl rand -hex 16)
+          echo "::add-mask::$KEYCHAIN_PASSWORD"
+          echo "keychain_password=$KEYCHAIN_PASSWORD" >> "$GITHUB_OUTPUT"
+          export KEYCHAIN_PASSWORD
           set +e
-          fastlane ios release
+          fastlane ios prepare
           RC=$?
           set -e
           AFTER=$(fingerprint)
@@ -105,8 +113,35 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ios/App/fastlane/certs.tar.enc
           git commit -m "iOS: Signierzertifikat (verschlüsselt) gesichert [skip ci]"
-          git pull --rebase origin "${{ github.ref_name }}"
+          git pull --rebase --autostash origin "${{ github.ref_name }}"
           git push origin "HEAD:${{ github.ref_name }}"
+          echo "## Signierzertifikat im Repository gesichert" >> "$GITHUB_STEP_SUMMARY"
+          echo "Datei ios/App/fastlane/certs.tar.enc (verschlüsselt) wurde auf ${{ github.ref_name }} committet." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Signierzertifikat zusätzlich als Artefakt sichern
+        if: ${{ always() && steps.sign.outputs.cert_changed == 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-signierzertifikat-verschluesselt
+          path: ios/App/fastlane/certs.tar.enc
+          retention-days: 90
+
+      - name: Archiv bauen und in App Store Connect hochladen
+        if: ${{ steps.asc.outputs.path != '' }}
+        working-directory: ios/App
+        env:
+          TEAM_ID: ${{ steps.asc.outputs.team_id }}
+          KEY_ID: ${{ steps.asc.outputs.key_id }}
+          ISSUER_ID: ${{ steps.asc.outputs.issuer_id }}
+          KEY_PATH: ${{ steps.asc.outputs.path }}
+          BUILD_NUMBER: ${{ github.run_number }}
+          OUT_DIR: ${{ runner.temp }}/out
+          FASTLANE_SKIP_UPDATE_CHECK: "1"
+          FASTLANE_OPT_OUT_USAGE: "1"
+          FASTLANE_HIDE_CHANGELOG: "1"
+          LC_ALL: en_US.UTF-8
+          LANG: en_US.UTF-8
+        run: fastlane ios upload
 
       - name: Test-Build im Simulator (unsigniert, nur ohne Apple-Schlüssel)
         if: ${{ steps.asc.outputs.path == '' }}

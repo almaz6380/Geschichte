@@ -66,6 +66,17 @@ if bundle_id:
     except Exception as e:
         print("Hinweis: Bundle-ID-Prüfung nicht möglich:", e)
 
+# Optional: ein Zertifikat widerrufen (z. B. eines, dessen privater Schlüssel verloren ging).
+revoke_id = os.environ.get("REVOKE_CERT_ID", "").strip()
+if revoke_id:
+    req = urllib.request.Request(f"https://api.appstoreconnect.apple.com/v1/certificates/{revoke_id}",
+                                 headers={"Authorization": f"Bearer {token}"}, method="DELETE")
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            print(f"OK: Zertifikat {revoke_id} widerrufen.")
+    except urllib.error.HTTPError as e:
+        print(f"WARNUNG: Zertifikat {revoke_id} konnte nicht widerrufen werden ({e.code}): {e.read().decode(errors='replace')[:200]}")
+
 # Vorhandene Signierzertifikate des Teams auflisten (Apple begrenzt die Anzahl der Distribution-Zertifikate).
 try:
     certs = get("https://api.appstoreconnect.apple.com/v1/certificates?limit=200")
