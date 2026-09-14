@@ -121,6 +121,27 @@ export default {
   'epoch.themes.title': 'Passende Querschnittsthemen',
   'epoch.nav.prev': 'Vorherige Epoche',
   'epoch.nav.next': 'Nächste Epoche',
+  'epoch.nav.aria': 'Benachbarte Epochen',
+
+  'event.notfound': 'Dieses Ereignis gibt es nicht.',
+  'event.back': 'Epoche',
+  'event.importance.major': 'Wichtiges Ereignis',
+  'event.importance.label': 'Bedeutung',
+  'event.persons.title': 'Beteiligte Personen',
+  'event.terms.title': 'Begriffe zum Ereignis',
+  'event.themes.title': 'Querschnittsthemen',
+  'event.nearby.title': 'Zur gleichen Zeit in dieser Epoche',
+  'event.nav.aria': 'Chronologische Nachbarn',
+  'event.nav.prev': 'Davor',
+  'event.nav.next': 'Danach',
+
+  'person.notfound': 'Diese Person gibt es nicht.',
+  'person.back': 'Epoche',
+  'person.events.title': 'Verknüpfte Ereignisse',
+  'person.terms.title': 'Begriffe',
+  'person.themes.title': 'Querschnittsthemen',
+  'person.contemporaries.title': 'Zeitgenossen',
+
 
   'tile.theme.kicker': 'Querschnittsthema',
   'tile.theme.events': '{events} durch alle Epochen',

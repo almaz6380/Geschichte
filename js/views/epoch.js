@@ -129,7 +129,7 @@ export function render(el, { slug }) {
           <div class="chip-row">${themes.map(themeChip).join('')}</div>
         </section>` : ''}
 
-        <nav class="pager" aria-label="Benachbarte Epochen">
+        <nav class="pager" aria-label="${esc(t('epoch.nav.aria'))}">
           ${prev ? `<a href="#/epoche/${prev.id}"><span class="lbl">${esc(t('epoch.nav.prev'))}</span><span>${esc(prev.title)}</span></a>` : '<span></span>'}
           ${next ? `<a class="next" href="#/epoche/${next.id}"><span class="lbl">${esc(t('epoch.nav.next'))}</span><span>${esc(next.title)}</span></a>` : '<span></span>'}
         </nav>
