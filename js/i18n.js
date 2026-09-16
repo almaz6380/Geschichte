@@ -3,17 +3,20 @@
 // damit Lesezeichen, Quiz-Fortschritt und Links beim Sprachwechsel gültig bleiben.
 import { STRINGS } from './strings.js';
 
+// ready: Oberfläche und Inhalte sind vollständig übersetzt und werden zur Auswahl angeboten.
 export const LANGS = [
-  { code: 'de', name: 'Deutsch', locale: 'de-DE' },
-  { code: 'en', name: 'English', locale: 'en-US' },
-  { code: 'fr', name: 'Français', locale: 'fr-FR' },
-  { code: 'es', name: 'Español', locale: 'es-ES' },
-  { code: 'it', name: 'Italiano', locale: 'it-IT' },
-  { code: 'pt', name: 'Português', locale: 'pt-PT' },
+  { code: 'de', name: 'Deutsch', locale: 'de-DE', ready: true },
+  { code: 'en', name: 'English', locale: 'en-US', ready: true },
+  { code: 'fr', name: 'Français', locale: 'fr-FR', ready: false },
+  { code: 'es', name: 'Español', locale: 'es-ES', ready: false },
+  { code: 'it', name: 'Italiano', locale: 'it-IT', ready: false },
+  { code: 'pt', name: 'Português', locale: 'pt-PT', ready: false },
 ];
 
 export const DEFAULT_LANG = 'de';
 export const LANG_CODES = LANGS.map((l) => l.code);
+export const READY_LANGS = LANGS.filter((l) => l.ready);
+export const READY_CODES = READY_LANGS.map((l) => l.code);
 
 let current = DEFAULT_LANG;
 
@@ -27,14 +30,28 @@ export function setLang(code) {
   return current;
 }
 
-// Sprache des Geräts, sofern sie unterstützt wird.
+// Sprache des Geräts, sofern sie fertig übersetzt ist.
 export function detectLang(navLangs) {
   const list = navLangs || (typeof navigator === 'undefined' ? [] : navigator.languages || [navigator.language]);
   for (const raw of list) {
     const code = String(raw || '').slice(0, 2).toLowerCase();
-    if (LANG_CODES.includes(code)) return code;
+    if (READY_CODES.includes(code)) return code;
   }
   return DEFAULT_LANG;
+}
+
+// Ordnungszahl für Jahrhundert-Angaben: deutsch "5.", englisch "5th".
+const ORDINAL = {
+  de: (n) => `${n}.`,
+  en: (n) => {
+    const rest100 = n % 100;
+    if (rest100 >= 11 && rest100 <= 13) return `${n}th`;
+    return `${n}${{ 1: 'st', 2: 'nd', 3: 'rd' }[n % 10] || 'th'}`;
+  },
+};
+
+export function ordinal(n, code = current) {
+  return (ORDINAL[code] || ORDINAL[DEFAULT_LANG])(n);
 }
 
 // Text nachschlagen. Fehlt ein Eintrag, greift Deutsch als Rückfallebene.

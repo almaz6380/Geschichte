@@ -1,9 +1,11 @@
+import { compare } from './i18n.js';
 // DOM-freie Suche: Normalisierung, Index, Ranking.
 
 export function normalize(s) {
   return String(s ?? '')
     .toLowerCase()
     .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+    .replace(/æ/g, 'ae').replace(/œ/g, 'oe').replace(/ø/g, 'o').replace(/ð/g, 'd').replace(/þ/g, 'th')
     .normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/[^a-z0-9]+/g, ' ')
     .trim();
@@ -95,7 +97,7 @@ export function search(index, query, limit = 50) {
     const score = scoreDoc(doc, tokens);
     if (score > 0) results.push({ doc, score });
   }
-  results.sort((a, b) => b.score - a.score || a.doc.title.localeCompare(b.doc.title, 'de'));
+  results.sort((a, b) => b.score - a.score || compare(a.doc.title, b.doc.title));
   return results.slice(0, limit).map((r) => ({ ...r, tokens }));
 }
 

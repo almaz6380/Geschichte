@@ -1,3 +1,4 @@
+import { t } from './i18n.js';
 // DOM-freie Quiz-Logik.
 export const MIXED = 'gemischt';
 export const MIXED_COUNT = 20;
@@ -78,8 +79,8 @@ export function evaluate(session) {
 }
 
 export function grade(percent) {
-  if (percent >= 90) return 'Hervorragend!';
-  if (percent >= 75) return 'Sehr gut!';
-  if (percent >= 50) return 'Gut gemacht.';
-  return 'Weiter üben!';
+  if (percent >= 90) return t('quiz.verdict.excellent');
+  if (percent >= 75) return t('quiz.verdict.verygood');
+  if (percent >= 50) return t('quiz.verdict.good');
+  return t('quiz.verdict.keepgoing');
 }

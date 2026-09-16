@@ -1,32 +1,32 @@
 import { DB } from '../data.js';
 import { esc, termItem, setTitle, emptyState, bindAnchorScroll } from '../ui.js';
 import { setQuery } from '../router.js';
-import { plural } from '../i18n.js';
+import { t, plural } from '../i18n.js';
 
+// Anfangsbuchstabe ohne Diakritika, damit É, Ä oder Ç unter E, A und C einsortiert werden.
 function letterOf(term) {
-  const c = term.trim().charAt(0).toUpperCase();
-  const map = { Ä: 'A', Ö: 'O', Ü: 'U' };
-  return map[c] || (/[A-Z]/.test(c) ? c : '#');
+  const c = term.trim().charAt(0).toUpperCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  return /[A-Z]/.test(c) ? c : '#';
 }
 
 export function render(el, { id } = {}, { query } = { query: new URLSearchParams() }) {
-  setTitle('Glossar');
+  setTitle(t('glossary.title'));
   if (!DB.glossary.length) {
-    el.innerHTML = `<h1>Glossar</h1>${emptyState('Noch keine Begriffe', 'Das Glossar wird gerade vorbereitet.', '#/epochen', 'Zu den Epochen')}`;
+    el.innerHTML = `<h1>${esc(t('glossary.title'))}</h1>${emptyState(t('glossary.empty.title'), t('glossary.empty.text'), '#/epochen', t('themes.empty.link'))}`;
     return;
   }
   const q = query?.get('q') || '';
   const epochFilter = query?.get('epoche') || '';
 
   el.innerHTML = `
-    <h1>Glossar</h1>
-    <p class="muted intro-text">${plural(DB.glossary.length, 'unit.term')} aus allen Epochen, alphabetisch geordnet und kurz erklärt.</p>
+    <h1>${esc(t('glossary.title'))}</h1>
+    <p class="muted intro-text">${esc(t('glossary.intro', { terms: plural(DB.glossary.length, 'unit.term') }))}</p>
     <div class="search-box">
       <svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg>
-      <input id="gl-input" type="search" placeholder="Begriff filtern …" value="${esc(q)}" aria-label="Begriff filtern" autocomplete="off">
+      <input id="gl-input" type="search" placeholder="${esc(t('glossary.filter'))}" value="${esc(q)}" aria-label="${esc(t('glossary.filter'))}" autocomplete="off">
     </div>
     <div class="chip-scroll" id="gl-epochs"></div>
-    <nav class="letter-bar" id="gl-letters" aria-label="Buchstaben"></nav>
+    <nav class="letter-bar" id="gl-letters" aria-label="${esc(t('glossary.letters'))}"></nav>
     <div class="result-count" id="gl-count"></div>
     <div id="gl-list"></div>
   `;
@@ -41,7 +41,7 @@ export function render(el, { id } = {}, { query } = { query: new URLSearchParams
 
   function renderEpochChips() {
     const chip = (id, label, color, on) => `<button type="button" class="chip chip-btn" data-id="${esc(id)}" aria-pressed="${on}">${color ? `<span class="dot" style="--chip-color:${color}"></span>` : ''}${esc(label)}</button>`;
-    epochBox.innerHTML = chip('', 'Alle Epochen', null, epoch === '') + DB.epochs.map((e) => chip(e.id, e.title, e.color, epoch === e.id)).join('');
+    epochBox.innerHTML = chip('', t('glossary.allEpochs'), null, epoch === '') + DB.epochs.map((e) => chip(e.id, e.title, e.color, epoch === e.id)).join('');
   }
 
   function draw() {
@@ -62,7 +62,7 @@ export function render(el, { id } = {}, { query } = { query: new URLSearchParams
     count.textContent = plural(items.length, 'unit.term');
     list.innerHTML = present.length
       ? present.map((L) => `<section class="letter-group" id="gl-${L === '#' ? 'x' : L}"><h2 class="letter">${L}</h2><div class="term-list">${groups.get(L).map((g) => termItem(g)).join('')}</div></section>`).join('')
-      : `<p class="muted">Keine Begriffe gefunden.</p>`;
+      : `<p class="muted">${esc(t('glossary.none'))}</p>`;
   }
 
   let timer = null;

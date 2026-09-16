@@ -19,6 +19,7 @@ Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, 
 - Helles und dunkles Farbschema, mobile Navigation mit „Mehr“-Bereich, Desktop-Layout mit festem Inhaltsverzeichnis
 - Installierbar als App (Manifest, Icons, Service Worker), Update-Hinweis bei neuer Version
 - Tastatur- und Screenreader-freundlich, keine externen Abhängigkeiten, kein Tracking
+- Zweisprachig (Deutsch, Englisch): Umschalter in der Kopfzeile, Auswahl bleibt gespeichert, Gerätesprache wird beim ersten Start erkannt
 
 ## Lokal starten
 
@@ -37,7 +38,7 @@ Bei Änderungen an App-Dateien die Konstante `VERSION` in `sw.js` erhöhen, dami
 
 ## Inhalte pflegen
 
-Die Inhalte liegen als JSON in `data/`:
+Die Inhalte liegen je Sprache als JSON in `data/<sprache>/` (`data/de/`, `data/en/`):
 
 | Datei | Inhalt |
 |-------|--------|
@@ -58,6 +59,27 @@ npm test             # Node-Tests für Daten, Suche und Quiz-Logik
 
 Inhalte lassen sich auch als einzelne Epochen-Dateien (`<slug>.json` plus Ergänzung `<slug>.add.json`, jeweils `{ epoch, events, persons, quiz, glossary }`) pflegen und mit `node scripts/merge-content.mjs <ordner>` zu den Dateien in `data/` zusammenführen.
 
+## Sprachen
+
+Deutsch ist die Referenz; Englisch ist vollständig übersetzt. Französisch, Spanisch, Italienisch und Portugiesisch sind in `js/i18n.js` mit `ready: false` angelegt und erscheinen erst im Umschalter, wenn Inhalte und Oberflächentexte vorliegen.
+
+| Ort | Inhalt |
+|-----|--------|
+| `data/<sprache>/` | Übersetzte Inhalte, **gleiche IDs** wie Deutsch |
+| `js/strings/<sprache>.js` | Oberflächentexte; fehlende Schlüssel fallen auf Deutsch zurück |
+| `js/i18n.js` | Sprachliste, `t()`, `plural()`, `ordinal()`, Sortierung je Locale |
+
+Weil die IDs in allen Sprachen identisch sind, überleben Lesezeichen, Quiz-Fortschritt und geteilte Links einen Sprachwechsel. Eine neue Sprache entsteht so:
+
+```bash
+node scripts/i18n-extract.mjs <sprache>   # flache Textlisten aus data/de/ erzeugen
+# Werte übersetzen, IDs, Jahreszahlen und Verweise unverändert lassen
+node scripts/i18n-apply.mjs <sprache>     # Übersetzungen auf die deutsche Struktur anwenden
+node scripts/validate-data.mjs            # prüft ID-Gleichheit, Jahre und Quiz-Antworten je Sprache
+```
+
+Danach `js/strings/<sprache>.js` füllen, in `js/i18n.js` auf `ready: true` setzen und die Datendateien in `sw.js` ergänzen.
+
 ## Native Apps für iOS und Android (App Store, Google Play)
 
 Die Web-App ist mit **Capacitor** als native App verpackt; die Projekte liegen in `ios/` und `android/`. Alle Inhalte sind in der App enthalten, sie braucht keinen Server.
@@ -77,6 +99,7 @@ Die Apps werden per GitHub Actions in der Cloud gebaut (`.github/workflows/ios.y
 
 ```bash
 npm run smoke        # Playwright-Smoke-Test mit Chromium, Screenshots in .playwright-out/
+SMOKE_LOCALE=en-US npm run smoke   # derselbe Durchlauf in der englischen Fassung
 npm run icons        # erzeugt PNG-Icons aus icons/icon.svg
 ```
 
@@ -89,10 +112,11 @@ index.html            App-Shell mit Navigation
 manifest.webmanifest  PWA-Manifest
 sw.js                 Service Worker (Offline-Cache)
 css/                  Styles (Basis, Komponenten, Zeitleiste, Quiz)
-js/                   Router, Store, Daten-Indizes, Suche, Quiz-Logik
+js/                   Router, Store, Daten-Indizes, Suche, Quiz-Logik, Sprachen (i18n)
 js/views/             Startseite, Epochen, Ereignis, Person, Zeitleiste, Themen, Glossar,
                       Regionen, Quiz, Suche, Lesezeichen, Mehr
-data/                 Inhalte als JSON
+js/strings/           Oberflächentexte je Sprache
+data/<sprache>/       Inhalte als JSON, je Sprache mit gleichen IDs
 icons/                App-Icons
 scripts/              Validierung, Merge, Icons, Smoke-Test
 test/                 Node-Tests

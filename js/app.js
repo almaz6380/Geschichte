@@ -2,7 +2,7 @@ import { loadData } from './data.js';
 import { addRoute, startRouter, rerender } from './router.js';
 import { applyTheme, cycleTheme, themeLabel } from './theme.js';
 import { handleBookmarkClick, showToast, esc } from './ui.js';
-import { LANGS, DEFAULT_LANG, t, setLang, getLang, detectLang } from './i18n.js';
+import { READY_LANGS, DEFAULT_LANG, t, setLang, getLang, detectLang } from './i18n.js';
 import { getLangPref, setLangPref } from './store.js';
 import * as home from './views/home.js';
 import * as epochs from './views/epochs.js';
@@ -153,7 +153,7 @@ async function loadLanguageData() {
 function setupLangPicker() {
   const sel = document.getElementById('lang-select');
   if (!sel) return;
-  sel.innerHTML = LANGS.map((l) => `<option value="${l.code}">${esc(l.name)}</option>`).join('');
+  sel.innerHTML = READY_LANGS.map((l) => `<option value="${l.code}">${esc(l.name)}</option>`).join('');
   sel.value = getLang();
   sel.addEventListener('change', async () => {
     const code = sel.value;

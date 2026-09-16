@@ -1,6 +1,7 @@
 import { emptyState, setTitle } from '../ui.js';
+import { t } from '../i18n.js';
 
 export function render(el, params, ctx = {}) {
-  setTitle('Nicht gefunden');
-  el.innerHTML = emptyState('Seite nicht gefunden', ctx.message || 'Diese Seite existiert nicht.', '#/', 'Zur Startseite');
+  setTitle(t('notfound.title'));
+  el.innerHTML = emptyState(t('notfound.heading'), ctx.message || t('notfound.text'), '#/', t('notfound.home'));
 }

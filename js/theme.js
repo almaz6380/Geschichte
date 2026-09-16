@@ -1,14 +1,15 @@
 import { getTheme, setTheme } from './store.js';
+import { t } from './i18n.js';
 
 const ORDER = ['system', 'light', 'dark'];
-const LABEL = { system: 'Automatisch', light: 'Hell', dark: 'Dunkel' };
+const LABEL_KEY = { system: 'theme.label.system', light: 'theme.label.light', dark: 'theme.label.dark' };
 
-export function applyTheme(t = getTheme()) {
+export function applyTheme(scheme = getTheme()) {
   const root = document.documentElement;
-  if (t === 'light' || t === 'dark') root.dataset.theme = t;
+  if (scheme === 'light' || scheme === 'dark') root.dataset.theme = scheme;
   else delete root.dataset.theme;
   const btn = document.getElementById('theme-btn');
-  if (btn) btn.title = `Farbschema: ${LABEL[t]} (klicken zum Wechseln)`;
+  if (btn) btn.title = t('theme.buttonTitle', { name: themeLabel(scheme) });
 }
 
 export function cycleTheme() {
@@ -19,4 +20,4 @@ export function cycleTheme() {
   return next;
 }
 
-export function themeLabel(t = getTheme()) { return LABEL[t]; }
+export function themeLabel(scheme = getTheme()) { return t(LABEL_KEY[scheme] || LABEL_KEY.system); }
