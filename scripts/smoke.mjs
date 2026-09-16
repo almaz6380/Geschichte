@@ -27,12 +27,20 @@ await new Promise((r) => setTimeout(r, 800));
 
 const { chromium } = loadPlaywright();
 const browser = await chromium.launch();
+// Feste Sprache, damit der Test unabhängig von der Browsersprache immer dieselbe Fassung prüft.
+const LOCALE = process.env.SMOKE_LOCALE || 'de-DE';
+// Die wenigen Prüfungen, die auf konkreten Text zugreifen, je Sprache.
+const TEXTS = {
+  de: { romTitle: 'Römische', searchTerm: 'Absolutismus', glossaryFilter: 'republik', bestScore: 'Bestwert' },
+  en: { romTitle: 'Roman', searchTerm: 'Absolutism', glossaryFilter: 'republic', bestScore: 'Best score' },
+};
+const TEXT = TEXTS[LOCALE.slice(0, 2).toLowerCase()] || TEXTS.de;
 const failures = [];
 const check = (cond, msg) => { if (cond) console.log('  ok  ', msg); else { console.log('  FAIL', msg); failures.push(msg); } };
 const count = async (page, sel) => (await page.$$(sel)).length;
 
 try {
-  const context = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, serviceWorkers: 'allow' });
+  const context = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, serviceWorkers: 'allow', locale: LOCALE });
   const page = await context.newPage();
   const errors = [];
   page.on('pageerror', (e) => errors.push(String(e)));
@@ -51,7 +59,7 @@ try {
 
   console.log('Epoche Rom (Gliederung)');
   await page.goto(BASE + '#/epoche/rom'); await page.waitForSelector('.hero h1');
-  check((await page.textContent('.hero h1')).includes('Römische'), 'Epochen-Artikel Rom hat Titel');
+  check((await page.textContent('.hero h1')).includes(TEXT.romTitle), 'Epochen-Artikel Rom hat Titel');
   check((await count(page, '.toc a[data-anchor]')) >= 6, 'Inhaltsverzeichnis mit ≥ 6 Einträgen');
   check(!!(await page.$('.keyfacts')), '„Auf einen Blick“-Box vorhanden');
   check((await count(page, '.article-body article.section')) >= 4, '4 Themenabschnitte vorhanden');
@@ -101,7 +109,7 @@ try {
   console.log('Suche');
   await page.goto(BASE + '#/suche?q=Napoleon'); await page.waitForSelector('#search-results .list-item');
   check((await count(page, '#search-results .list-item')) > 0, 'Suche „Napoleon“ liefert Treffer');
-  await page.fill('#search-input', 'Absolutismus'); await page.waitForTimeout(300);
+  await page.fill('#search-input', TEXT.searchTerm); await page.waitForTimeout(300);
   check(!!(await page.$('#search-results .badge-term')), 'Suche findet Glossarbegriff');
   check((await count(page, '#search-types .chip-btn')) >= 2, 'Typ-Filter in der Suche');
 
@@ -110,7 +118,7 @@ try {
   const termCount = await count(page, '.term');
   check(termCount >= 60, `Glossar zeigt ${termCount} Begriffe (≥ 60)`);
   check((await count(page, '.letter-bar a')) >= 10, 'Buchstaben-Sprungleiste');
-  await page.fill('#gl-input', 'republik'); await page.waitForTimeout(250);
+  await page.fill('#gl-input', TEXT.glossaryFilter); await page.waitForTimeout(250);
   check((await count(page, '.term')) < termCount && (await count(page, '.term')) > 0, 'Glossar-Filter funktioniert');
   await page.goto(BASE + '#/glossar/prinzipat'); await page.waitForSelector('.term-highlight');
   check(!!(await page.$('#term-prinzipat.term-highlight')), 'Deep-Link auf Begriff hebt hervor');
@@ -157,7 +165,7 @@ try {
   await page.waitForSelector('.quiz-score');
   check(/\d+ \/ 10/.test(await page.textContent('.quiz-score')), 'Quiz-Auswertung nach 10 Fragen');
   await page.goto(BASE + '#/quiz'); await page.waitForSelector('.quiz-mode-card');
-  check((await page.textContent('body')).includes('Bestwert'), 'Bestwert wird gespeichert');
+  check((await page.textContent('body')).includes(TEXT.bestScore), 'Bestwert wird gespeichert');
   await page.screenshot({ path: path.join(OUT, 'quiz.png') });
 
   console.log('Theme');
@@ -179,7 +187,7 @@ try {
   }
 
   console.log('Desktop');
-  const desk = await browser.newPage({ viewport: { width: 1280, height: 800 } });
+  const desk = await browser.newPage({ viewport: { width: 1280, height: 800 }, locale: LOCALE });
   await desk.goto(BASE + '#/zeitleiste'); await desk.waitForSelector('.tl-event');
   await desk.screenshot({ path: path.join(OUT, 'timeline-desktop.png') });
   await desk.goto(BASE + '#/epoche/rom'); await desk.waitForSelector('.hero h1');
@@ -189,7 +197,7 @@ try {
   await desk.screenshot({ path: path.join(OUT, 'home-desktop.png') });
 
   console.log('Kein horizontales Scrollen (360px)');
-  const narrow = await browser.newPage({ viewport: { width: 360, height: 740 } });
+  const narrow = await browser.newPage({ viewport: { width: 360, height: 740 }, locale: LOCALE });
   for (const route of ['#/', '#/epoche/rom', '#/zeitleiste', '#/quiz', '#/suche?q=rom', '#/glossar', '#/regionen', '#/mehr', '#/themen']) {
     await narrow.goto(BASE + route); await narrow.waitForTimeout(400);
     const over = await narrow.evaluate(() => document.documentElement.scrollWidth > document.documentElement.clientWidth + 1);

@@ -1,10 +1,11 @@
 import { DB } from '../data.js';
 import { esc, lifeSpan, regionChip, epochChip, themeChip, eventItem, termItem, tagChips, bookmarkButton, setTitle, backLink, sectionHead } from '../ui.js';
 import { render as notFound } from './notfound.js';
+import { t } from '../i18n.js';
 
 export function render(el, { id }) {
   const p = DB.personsById.get(id);
-  if (!p) return notFound(el, {}, { message: 'Diese Person gibt es nicht.' });
+  if (!p) return notFound(el, {}, { message: t('person.notfound') });
   setTitle(p.name);
   const epoch = DB.epochsById.get(p.epochId);
   const events = DB.eventsByPerson.get(p.id) || [];
@@ -14,7 +15,7 @@ export function render(el, { id }) {
   const initials = p.name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
 
   el.innerHTML = `
-    ${backLink(`#/epoche/${p.epochId}`, epoch?.title || 'Epoche')}
+    ${backLink(`#/epoche/${p.epochId}`, epoch?.title || t('person.back'))}
     <div class="person-head" style="--epoch-color:${epoch?.color}">
       <span class="avatar avatar-lg" aria-hidden="true">${esc(initials)}</span>
       <div>
@@ -33,9 +34,9 @@ export function render(el, { id }) {
       <p>${esc(p.text)}</p>
       ${tagChips(p.tags)}
     </article>
-    ${events.length ? `<section class="section">${sectionHead('Verknüpfte Ereignisse')}<div class="list">${events.map((ev) => eventItem(ev)).join('')}</div></section>` : ''}
-    ${terms.length ? `<section class="section">${sectionHead('Begriffe')}<div class="term-list">${terms.map((g) => termItem(g)).join('')}</div></section>` : ''}
-    ${themes.length ? `<section class="section">${sectionHead('Querschnittsthemen')}<div class="chip-row">${themes.map(themeChip).join('')}</div></section>` : ''}
-    ${contemporaries.length ? `<section class="section">${sectionHead('Zeitgenossen')}<div class="chip-row">${contemporaries.map((x) => `<a class="chip" href="#/person/${x.id}">${esc(x.name)}</a>`).join('')}</div></section>` : ''}
+    ${events.length ? `<section class="section">${sectionHead(t('person.events.title'))}<div class="list">${events.map((ev) => eventItem(ev)).join('')}</div></section>` : ''}
+    ${terms.length ? `<section class="section">${sectionHead(t('person.terms.title'))}<div class="term-list">${terms.map((g) => termItem(g)).join('')}</div></section>` : ''}
+    ${themes.length ? `<section class="section">${sectionHead(t('person.themes.title'))}<div class="chip-row">${themes.map(themeChip).join('')}</div></section>` : ''}
+    ${contemporaries.length ? `<section class="section">${sectionHead(t('person.contemporaries.title'))}<div class="chip-row">${contemporaries.map((x) => `<a class="chip" href="#/person/${x.id}">${esc(x.name)}</a>`).join('')}</div></section>` : ''}
   `;
 }

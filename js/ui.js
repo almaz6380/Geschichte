@@ -1,5 +1,6 @@
 import { DB } from './data.js';
 import { isBookmarked, toggleBookmark } from './store.js';
+import { t, plural, getLocale } from './i18n.js';
 
 export function esc(s) {
   return String(s ?? '')
@@ -7,36 +8,48 @@ export function esc(s) {
     .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
 
-const nf = new Intl.NumberFormat('de-DE');
+let nfCache = { locale: null, nf: null };
+function num(n) {
+  const locale = getLocale();
+  if (nfCache.locale !== locale) nfCache = { locale, nf: new Intl.NumberFormat(locale) };
+  return nfCache.nf.format(n);
+}
 
 export function formatYear(year, approx = false) {
-  if (year === null || year === undefined) return '?';
+  if (year === null || year === undefined) return t('year.unknown');
   const abs = Math.abs(year);
-  const num = abs >= 10000 ? nf.format(abs) : String(abs);
-  const s = year < 0 ? `${num} v. Chr.` : (abs < 1000 ? `${num} n. Chr.` : num);
-  return approx ? `ca. ${s}` : s;
+  const n = abs >= 10000 ? num(abs) : String(abs);
+  const s = year < 0 ? t('year.bc', { n }) : (abs < 1000 ? t('year.ad', { n }) : n);
+  return approx ? t('year.approx', { s }) : s;
 }
 
 export function formatRange(start, end, approx = false) {
   if (end === null || end === undefined || end === start) return formatYear(start, approx);
-  if (start < 0 && end < 0) return `${approx ? 'ca. ' : ''}${nf.format(-start)}–${nf.format(-end)} v. Chr.`;
-  if (start > 0 && end > 0 && start >= 1000 && end >= 1000) return `${approx ? 'ca. ' : ''}${start}–${end}`;
+  if (start < 0 && end < 0) {
+    const s = t('year.bc', { n: `${num(-start)}–${num(-end)}` });
+    return approx ? t('year.approx', { s }) : s;
+  }
+  if (start > 0 && end > 0 && start >= 1000 && end >= 1000) {
+    const s = `${start}–${end}`;
+    return approx ? t('year.approx', { s }) : s;
+  }
   return `${formatYear(start, approx)} – ${formatYear(end)}`;
 }
 
 export function epochRange(e) {
-  const end = e.end >= 2026 ? 'heute' : formatYear(e.end);
+  const end = e.end >= 2026 ? t('year.today') : formatYear(e.end);
   return `${formatYear(e.start, e.start <= -10000)} – ${end}`;
 }
 
 export function lifeSpan(p) {
   if (p.born === null && p.died === null) return '';
-  const b = p.born === null ? '?' : formatYear(p.born);
+  const b = p.born === null ? t('year.unknown') : formatYear(p.born);
   const d = p.died === null ? '' : formatYear(p.died);
-  return `${p.approx ? 'ca. ' : ''}${b}${d ? ' – ' + d : ''}`;
+  const span = `${b}${d ? ' – ' + d : ''}`;
+  return p.approx ? t('year.approx', { s: span }) : span;
 }
 
-export function plural(n, one, many) { return `${n} ${n === 1 ? one : many}`; }
+export { plural };
 
 export function regionChip(regionId) {
   const r = DB.regionsById.get(regionId);
@@ -50,12 +63,12 @@ export function epochChip(epochId) {
   return `<a class="chip" href="#/epoche/${e.id}" style="--chip-color:${e.color}"><span class="dot"></span>${esc(e.title)}</a>`;
 }
 
-export function themeChip(t) {
-  return `<a class="chip" href="#/thema/${t.id}" style="--chip-color:${t.color}"><span class="dot"></span>${esc(t.title)}</a>`;
+export function themeChip(th) {
+  return `<a class="chip" href="#/thema/${th.id}" style="--chip-color:${th.color}"><span class="dot"></span>${esc(th.title)}</a>`;
 }
 
 export function tagChips(tags) {
-  return `<div class="chip-row">${(tags || []).map((t) => `<a class="chip chip-tag" href="#/suche?q=${encodeURIComponent(t)}">#${esc(t)}</a>`).join('')}</div>`;
+  return `<div class="chip-row">${(tags || []).map((tag) => `<a class="chip chip-tag" href="#/suche?q=${encodeURIComponent(tag)}">#${esc(tag)}</a>`).join('')}</div>`;
 }
 
 export function epochTile(e, index) {
@@ -67,19 +80,19 @@ export function epochTile(e, index) {
       <div class="epoch-range">${esc(epochRange(e))}</div>
       <h3>${esc(e.title)}</h3>
       <p class="muted">${esc(e.summary)}</p>
-      <div class="tile-meta"><span>${plural(n, 'Ereignis', 'Ereignisse')}</span><span>${plural(p, 'Person', 'Personen')}</span></div>
+      <div class="tile-meta"><span>${plural(n, 'unit.event')}</span><span>${plural(p, 'unit.person')}</span></div>
     </a>`;
 }
 
-export function themeTile(t) {
-  const n = (t.eventIds || []).length;
+export function themeTile(th) {
+  const n = (th.eventIds || []).length;
   return `
-    <a class="card card-link theme-tile" href="#/thema/${t.id}" style="--epoch-color:${t.color}">
-      <div class="epoch-range">Querschnittsthema</div>
-      <h3>${esc(t.title)}</h3>
-      ${t.subtitle ? `<div class="muted">${esc(t.subtitle)}</div>` : ''}
-      <p class="muted">${esc(t.summary)}</p>
-      <div class="tile-meta"><span>${plural(n, 'Ereignis', 'Ereignisse')} durch alle Epochen</span></div>
+    <a class="card card-link theme-tile" href="#/thema/${th.id}" style="--epoch-color:${th.color}">
+      <div class="epoch-range">${esc(t('tile.theme.kicker'))}</div>
+      <h3>${esc(th.title)}</h3>
+      ${th.subtitle ? `<div class="muted">${esc(th.subtitle)}</div>` : ''}
+      <p class="muted">${esc(th.summary)}</p>
+      <div class="tile-meta"><span>${esc(t('tile.theme.events', { events: plural(n, 'unit.event') }))}</span></div>
     </a>`;
 }
 
@@ -89,7 +102,7 @@ export function regionTile(r) {
   return `
     <a class="card card-link region-tile" href="#/region/${r.id}" style="--epoch-color:${r.color}">
       <h3>${esc(r.name)}</h3>
-      <div class="tile-meta"><span>${plural(n, 'Ereignis', 'Ereignisse')}</span><span>${plural(p, 'Person', 'Personen')}</span></div>
+      <div class="tile-meta"><span>${plural(n, 'unit.event')}</span><span>${plural(p, 'unit.person')}</span></div>
     </a>`;
 }
 
@@ -99,7 +112,7 @@ export function eventItem(ev, { showEpoch = false } = {}) {
     <a class="list-item ${ev.importance === 3 ? 'milestone' : ''}" href="#/ereignis/${ev.id}" style="--epoch-color:${epoch?.color ?? 'var(--accent)'}">
       <span class="year">${esc(formatRange(ev.year, ev.endYear, ev.approx))}</span>
       <span>
-        <span class="title">${esc(ev.title)}</span>${ev.importance === 3 ? ' <span class="star" title="Meilenstein">★</span>' : ''}
+        <span class="title">${esc(ev.title)}</span>${ev.importance === 3 ? ` <span class="star" title="${esc(t('ui.milestone'))}">★</span>` : ''}
         <div class="sub">${esc(ev.summary)}</div>
         ${showEpoch && epoch ? `<div class="sub sub-epoch"><span class="dot" style="background:${epoch.color}"></span>${esc(epoch.title)}</div>` : ''}
       </span>
@@ -148,11 +161,12 @@ export function termItem(g, { showEpoch = true } = {}) {
     </article>`;
 }
 
-export function bookmarkButton(type, id, label = 'Merken') {
+export function bookmarkButton(type, id, label = null) {
+  const text = label ?? t('ui.bookmark.save');
   const on = isBookmarked(type, id);
   return `<button type="button" class="bm-btn" data-bm-type="${type}" data-bm-id="${esc(id)}" aria-pressed="${on}">
       <svg viewBox="0 0 24 24" aria-hidden="true"><use href="#${on ? 'i-bookmark-filled' : 'i-bookmark'}"/></svg>
-      <span>${on ? 'Gemerkt' : label}</span>
+      <span>${esc(on ? t('ui.bookmark.saved') : text)}</span>
     </button>`;
 }
 
@@ -162,8 +176,8 @@ export function handleBookmarkClick(e) {
   const on = toggleBookmark(btn.dataset.bmType, btn.dataset.bmId);
   btn.setAttribute('aria-pressed', String(on));
   btn.querySelector('use').setAttribute('href', on ? '#i-bookmark-filled' : '#i-bookmark');
-  btn.querySelector('span').textContent = on ? 'Gemerkt' : 'Merken';
-  showToast(on ? 'Lesezeichen gespeichert' : 'Lesezeichen entfernt');
+  btn.querySelector('span').textContent = on ? t('ui.bookmark.saved') : t('ui.bookmark.save');
+  showToast(on ? t('toast.bookmark.added') : t('toast.bookmark.removed'));
   return true;
 }
 

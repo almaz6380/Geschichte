@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Weltgeschichte</title>
-  <meta name="description" content="Weltgeschichte von der Urgeschichte bis zur Gegenwart: Epochen, Querschnittsthemen, Zeitleiste, Glossar, Quiz, Suche und Lesezeichen. Funktioniert offline.">
+  <meta name="description" data-i18n-content="app.description" content="Weltgeschichte von der Urgeschichte bis zur Gegenwart: Epochen, Querschnittsthemen, Zeitleiste, Glossar, Quiz, Suche und Lesezeichen. Funktioniert offline.">
   <meta name="theme-color" content="#f8f7f4" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#14161b" media="(prefers-color-scheme: dark)">
   <meta name="color-scheme" content="light dark">
@@ -28,42 +28,46 @@
   </script>
 </head>
 <body>
-  <a class="skip-link" href="#view">Zum Inhalt springen</a>
+  <a class="skip-link" href="#view" data-i18n="app.skipToContent">Zum Inhalt springen</a>
   <header class="app-header">
-    <a class="brand" href="#/" aria-label="Weltgeschichte – Startseite">
+    <a class="brand" href="#/" data-i18n-aria="app.brandAria" aria-label="Weltgeschichte – Startseite">
       <svg class="brand-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-hourglass"/></svg>
-      <span>Weltgeschichte</span>
+      <span data-i18n="app.name">Weltgeschichte</span>
     </a>
-    <nav class="top-nav" aria-label="Hauptnavigation">
-      <a href="#/" data-nav="home">Start</a>
-      <a href="#/epochen" data-nav="epochen">Epochen</a>
-      <a href="#/zeitleiste" data-nav="zeitleiste">Zeitleiste</a>
-      <a href="#/themen" data-nav="themen">Themen</a>
-      <a href="#/glossar" data-nav="glossar">Glossar</a>
-      <a href="#/quiz" data-nav="quiz">Quiz</a>
-      <a href="#/lesezeichen" data-nav="lesezeichen">Lesezeichen</a>
+    <nav class="top-nav" data-i18n-aria="nav.aria.main" aria-label="Hauptnavigation">
+      <a href="#/" data-nav="home" data-i18n="nav.home">Start</a>
+      <a href="#/epochen" data-nav="epochen" data-i18n="nav.epochs">Epochen</a>
+      <a href="#/zeitleiste" data-nav="zeitleiste" data-i18n="nav.timeline">Zeitleiste</a>
+      <a href="#/themen" data-nav="themen" data-i18n="nav.themes">Themen</a>
+      <a href="#/glossar" data-nav="glossar" data-i18n="nav.glossary">Glossar</a>
+      <a href="#/quiz" data-nav="quiz" data-i18n="nav.quiz">Quiz</a>
+      <a href="#/lesezeichen" data-nav="lesezeichen" data-i18n="nav.bookmarks">Lesezeichen</a>
     </nav>
     <div class="header-actions">
-      <button id="install-btn" class="btn btn-small" type="button" hidden>App installieren</button>
-      <a class="icon-btn" href="#/suche" data-nav="suche" aria-label="Suche">
+      <button id="install-btn" class="btn btn-small" type="button" data-i18n="app.install" hidden>App installieren</button>
+      <a class="icon-btn" href="#/suche" data-nav="suche" data-i18n-aria="nav.search" aria-label="Suche">
         <svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg>
       </a>
-      <button id="theme-btn" class="icon-btn" type="button" aria-label="Farbschema wechseln" title="Farbschema wechseln">
+      <div class="lang-picker">
+        <svg class="lang-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-globe"/></svg>
+        <select id="lang-select" data-i18n-aria="lang.label" aria-label="Sprache"></select>
+      </div>
+      <button id="theme-btn" class="icon-btn" type="button" data-i18n-aria="theme.toggle" data-i18n-title="theme.toggle" aria-label="Farbschema wechseln" title="Farbschema wechseln">
         <svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-theme"/></svg>
       </button>
     </div>
   </header>
 
   <main id="view" class="view" tabindex="-1" aria-live="polite">
-    <div class="loading">Inhalte werden geladen …</div>
+    <div class="loading" data-i18n="app.loading">Inhalte werden geladen …</div>
   </main>
 
-  <nav class="bottom-nav" aria-label="Navigation">
-    <a href="#/" data-nav="home"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-home"/></svg><span>Start</span></a>
-    <a href="#/epochen" data-nav="epochen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-book"/></svg><span>Epochen</span></a>
-    <a href="#/zeitleiste" data-nav="zeitleiste"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timeline"/></svg><span>Zeitleiste</span></a>
-    <a href="#/quiz" data-nav="quiz"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-quiz"/></svg><span>Quiz</span></a>
-    <a href="#/mehr" data-nav="mehr"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-more"/></svg><span>Mehr</span></a>
+  <nav class="bottom-nav" data-i18n-aria="nav.aria.bottom" aria-label="Navigation">
+    <a href="#/" data-nav="home"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-home"/></svg><span data-i18n="nav.home">Start</span></a>
+    <a href="#/epochen" data-nav="epochen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-book"/></svg><span data-i18n="nav.epochs">Epochen</span></a>
+    <a href="#/zeitleiste" data-nav="zeitleiste"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timeline"/></svg><span data-i18n="nav.timeline">Zeitleiste</span></a>
+    <a href="#/quiz" data-nav="quiz"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-quiz"/></svg><span data-i18n="nav.quiz">Quiz</span></a>
+    <a href="#/mehr" data-nav="mehr"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-more"/></svg><span data-i18n="nav.more">Mehr</span></a>
   </nav>
 
   <div id="toast" class="toast" role="status" hidden></div>

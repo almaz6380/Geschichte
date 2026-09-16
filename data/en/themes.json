@@ -1,0 +1,503 @@
+[
+  {
+    "id": "religionen",
+    "title": "Religions and Worldviews",
+    "subtitle": "From the Temple on the Hill to the Religious State",
+    "summary": "How beliefs created communities, legitimized empires and triggered wars: the path of religions from the first sanctuaries to the present day.",
+    "intro": [
+      "Long before there were cities and writing, hunters and gatherers erected monumental stone circles at Göbekli Tepe that probably served ritual purposes. In the early civilizations of Egypt and Mesopotamia, religion was inseparably bound up with rule: the pharaoh was regarded as the mediator between gods and humans, and Akhenaten's attempt to worship the sun god Aten alone failed after his death. In the first millennium BC, new teachings emerged almost simultaneously in India, China and Greece that placed human beings and their actions at the center: Buddha, Confucius and Laozi found followers, while the Greeks consulted their gods at Delphi. The Maurya ruler Ashoka made Buddhism a matter of state and sent missionaries as far as Sri Lanka.",
+      "In the Roman Empire, Christianity changed within three centuries from a persecuted sect into the state religion. Constantine granted freedom of religion in 313 and had the foundations of the faith defined at the Council of Nicaea. After the end of the Western Roman Empire, monasteries such as Montecassino and converted kings such as Clovis carried the faith to the Germanic peoples. In the 7th century Islam arose on the Arabian Peninsula; with the conquests of the caliphs it spread within a few decades from Spain to Persia and split early on into Sunnis and Shiites. The medieval conflict between pope and emperor over the appointment of bishops and the Crusades show how closely religion and power remained intertwined.",
+      "With Luther's 95 Theses, the unity of the Western Church broke apart in 1517. The Reformation and the Counter-Reformation led to wars of religion that were contained only by the Peace of Augsburg and the Peace of Westphalia; religious refugees such as the Huguenots left their homeland. The Enlightenment called for tolerance and the separation of church and state, and in the 19th and 20th centuries the churches lost influence in many European countries. At the same time religion remained a political force: the Iranian Revolution of 1979 established a theocracy, and religious affiliation shapes conflicts and identities worldwide to this day."
+    ],
+    "color": "#7c3aed",
+    "eventIds": [
+      "goebekli-tepe",
+      "echnatons-religionsreform",
+      "orakel-von-delphi",
+      "buddha-lehrt-in-nordindien",
+      "konfuzius-und-seine-lehre",
+      "ashoka-verbreitet-den-buddhismus",
+      "mailaender-vereinbarung",
+      "konzil-von-nicaea",
+      "taufe-chlodwigs",
+      "benedikt-gruendet-montecassino",
+      "erste-offenbarung-mohammeds",
+      "schlacht-von-kerbela",
+      "gang-nach-canossa",
+      "erster-kreuzzug",
+      "luthers-95-thesen",
+      "konzil-von-trient",
+      "augsburger-religionsfrieden",
+      "edikt-von-fontainebleau",
+      "iranische-revolution-1979"
+    ],
+    "personIds": [
+      "echnaton",
+      "siddhartha-gautama",
+      "konfuzius",
+      "konstantin-der-grosse",
+      "mohammed",
+      "hildegard-von-bingen",
+      "thomas-von-aquin",
+      "rumi",
+      "martin-luther",
+      "ignatius-von-loyola"
+    ],
+    "termIds": [
+      "dharma",
+      "daoismus",
+      "koran",
+      "sunniten-und-schiiten",
+      "moenchtum",
+      "kreuzzug",
+      "reformation",
+      "gegenreformation"
+    ],
+    "tags": [
+      "religion",
+      "church",
+      "islam",
+      "buddhism",
+      "reformation",
+      "faith"
+    ]
+  },
+  {
+    "id": "wissenschaft-technik",
+    "title": "Science and Technology",
+    "subtitle": "From the Hand Axe to the World Wide Web",
+    "summary": "Tools, inventions and discoveries have repeatedly transformed human life from the ground up. The common thread runs from the first stone tool to the digital age.",
+    "intro": [
+      "The oldest stone tools of the Oldowan are around 2.6 million years old and mark the beginning of the history of technology. Fire, pottery, the wheel and metalworking followed at long intervals, but with the Neolithic period development accelerated. The cuneiform script of Mesopotamia made knowledge storable, and ironworking changed agriculture and warfare. In Greece, thinkers such as Hippocrates and Archimedes began to observe nature and the body systematically and to describe them mathematically instead of explaining them through the gods alone.",
+      "For centuries China was the technologically most advanced country in the world: paper, woodblock printing, gunpowder, the compass and paper money all originated there long before they spread to Europe. In Baghdad, scholars of the House of Wisdom translated Greek, Persian and Indian writings, and al-Khwarizmi founded algebra. This knowledge reached medieval Europe by way of Al-Andalus. Around 1450 Gutenberg's printing with movable type made books affordable and created the conditions for new ideas to spread rapidly.",
+      "With Copernicus, Galileo and Newton, a new view of the world arose between 1543 and 1687 that was based on observation, experiment and mathematics and prevailed against resistance from the church. The steam engine, the railroad and the factory system triggered the Industrial Revolution in the 18th and 19th centuries, Darwin explained the origin of species, and the automobile and the airplane shrank distances. In the 20th century humankind reached space with Sputnik and the Moon landing, while nuclear physics and computers changed the world as much as they threatened it. Since 1991 the World Wide Web has connected billions of people and made knowledge more easily accessible than ever before."
+    ],
+    "color": "#0ea5e9",
+    "eventIds": [
+      "oldowan-steinwerkzeuge",
+      "erfindung-des-rades",
+      "sumerische-keilschrift",
+      "beginn-der-eisenzeit",
+      "hippokrates-und-die-medizin",
+      "archimedes-und-die-belagerung-von-syrakus",
+      "erfindung-des-papiers",
+      "al-chwarizmi-begruendet-die-algebra",
+      "song-dynastie-erfindungen",
+      "gutenbergs-buchdruck",
+      "kopernikus-heliozentrisches-weltbild",
+      "galileis-prozess",
+      "newtons-principia",
+      "watts-dampfmaschine",
+      "eisenbahn-stockton-darlington",
+      "darwin-entstehung-der-arten",
+      "erster-motorflug-wright",
+      "sputnik-1957",
+      "mondlandung-1969",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "archimedes",
+      "euklid",
+      "al-chwarizmi",
+      "ibn-sina",
+      "leonardo-da-vinci",
+      "galileo-galilei",
+      "isaac-newton",
+      "james-watt",
+      "marie-curie",
+      "albert-einstein"
+    ],
+    "termIds": [
+      "faustkeil",
+      "keilschrift",
+      "holztafeldruck",
+      "industrielle-revolution",
+      "fabriksystem",
+      "evolutionstheorie"
+    ],
+    "tags": [
+      "inventions",
+      "natural science",
+      "technology",
+      "medicine",
+      "industrialization",
+      "spaceflight"
+    ]
+  },
+  {
+    "id": "krieg-frieden",
+    "title": "War and Peace",
+    "subtitle": "Battles, Peace Settlements and the Search for Order",
+    "summary": "Wars have created and destroyed empires; equally old is the attempt to restrain them through treaties, rules and alliances. A history of violence and of its limitation.",
+    "intro": [
+      "The oldest surviving peace treaty in the world was concluded between the Egyptians and the Hittites after the Battle of Kadesh. The Greek city-states repelled the Persians at Marathon and Salamis, but wore each other down in the Peloponnesian War. In China, Sun Tzu formulated principles of the art of war during the Warring States period that are still read today. With its legions, Rome built a world empire in the Punic Wars, but reached its limits at the Battle of the Teutoburg Forest and secured them with the Limes and Hadrian's Wall.",
+      "In the Middle Ages, knightly armies, castles and sieges shaped warfare. The Crusades combined religious zeal with conquest, and the Hundred Years' War dragged on for generations. The Thirty Years' War devastated large parts of Central Europe and ended in 1648 with the Peace of Westphalia, which made the sovereignty of states the basis of the European order. After the Napoleonic Wars, the Congress of Vienna sought to secure a lasting peace through a balance among the great powers, and in the 19th century a humanitarian international law emerged with the Red Cross and the Geneva Conventions.",
+      "With trench warfare, poison gas and millions of dead, the First World War revealed the destructive power of industry. The Treaty of Versailles and the League of Nations were meant to prevent new wars, but failed. The Second World War became a war of annihilation and ended with the atomic bombs on Hiroshima and Nagasaki. The United Nations and the principle of collective security grew out of this experience, yet the Cold War brought proxy wars and, in the Cuban Missile Crisis, took the world to the brink of nuclear war. The Russian attack on Ukraine in 2022 shows that wars between states are not a thing of the past even in the 21st century."
+    ],
+    "color": "#dc2626",
+    "eventIds": [
+      "schlacht-bei-kadesch",
+      "schlacht-von-marathon",
+      "zeit-der-streitenden-reiche",
+      "peloponnesischer-krieg",
+      "punische-kriege",
+      "varusschlacht",
+      "schlacht-bei-tours-und-poitiers",
+      "erster-kreuzzug",
+      "hundertjaehriger-krieg",
+      "dreissigjaehriger-krieg",
+      "westfaelischer-frieden",
+      "wiener-kongress",
+      "gruendung-rotes-kreuz",
+      "schlacht-um-verdun",
+      "versailler-vertrag",
+      "schlacht-von-stalingrad",
+      "atombomben-hiroshima-nagasaki",
+      "gruendung-vereinte-nationen",
+      "kubakrise",
+      "russischer-angriff-ukraine-2022"
+    ],
+    "personIds": [
+      "sunzi",
+      "hannibal",
+      "alexander-der-grosse",
+      "saladin",
+      "napoleon-bonaparte",
+      "henry-dunant",
+      "bertha-von-suttner",
+      "winston-churchill",
+      "erwin-rommel",
+      "john-f-kennedy"
+    ],
+    "termIds": [
+      "hoplit",
+      "legion",
+      "kreuzzug",
+      "stellungskrieg",
+      "totaler-krieg",
+      "vernichtungskrieg",
+      "stellvertreterkrieg",
+      "kalter-krieg"
+    ],
+    "tags": [
+      "war",
+      "peace",
+      "battles",
+      "international law",
+      "diplomacy",
+      "military"
+    ]
+  },
+  {
+    "id": "handel-globalisierung",
+    "title": "Trade, Economy and Globalization",
+    "subtitle": "How Goods, Money and Ideas Connected the World",
+    "summary": "From the first farmers through the Silk Road and the Hanseatic League to world markets and financial crises: economy and trade have linked cultures, created wealth and produced inequality.",
+    "intro": [
+      "With the Neolithic Revolution, people began to grow grain and keep animals; irrigation in Mesopotamia made surpluses possible, out of which cities, the division of labor and trade arose. The Phoenicians built a trading network across the entire Mediterranean and passed on their alphabet; the Greeks founded colonies from Spain to the Black Sea. Under the Han dynasty the Silk Road emerged, along which silk, spices, glass and ideas were exchanged between China, India, Persia and Rome. Coinage, writing and legal systems made long-distance trade more reliable.",
+      "In the Middle Ages, Baghdad, Cairo and Córdoba were hubs of a trading area that reached from West Africa to China; Timbuktu grew rich on gold and salt, and Mansa Musa's pilgrimage made this wealth known throughout the Islamic world. Marco Polo and Ibn Battuta reported on the markets of Asia, and in northern Europe the Hanseatic League organized trade between the Baltic and the North Sea. After 1492, Columbus and Vasco da Gama connected the continents across the oceans. The Columbian Exchange brought potatoes and maize to Europe and horses and diseases to the Americas, and the transatlantic slave trade carried off millions of Africans to the plantations of the New World.",
+      "The Industrial Revolution made Great Britain the workshop of the world; factories, railroads and the Suez Canal accelerated the movement of goods, and the Opium Wars forced China to open up. Japan responded to Western pressure with the Meiji Restoration and industrialized itself. The Great Depression of 1929 showed how closely the national economies were already interwoven. After 1945, world trade and prosperity grew rapidly; the oil crisis of 1973, the introduction of the euro and the financial crisis of 2008 made dependencies visible. The globalization of the 21st century connects supply chains, capital markets and digital networks across all borders."
+    ],
+    "color": "#d97706",
+    "eventIds": [
+      "neolithische-revolution",
+      "bewaesserungslandwirtschaft-mesopotamien",
+      "phoenizier-und-alphabet",
+      "griechische-kolonisation",
+      "han-dynastie-und-seidenstrasse",
+      "gruendung-bagdads",
+      "marco-polos-reise-nach-china",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum",
+      "erster-hansetag",
+      "vasco-da-gama-erreicht-indien",
+      "beginn-transatlantischer-sklavenhandel",
+      "abschliessung-japans",
+      "mechanischer-webstuhl-fabriksystem",
+      "erster-opiumkrieg",
+      "eroeffnung-suezkanal",
+      "weltwirtschaftskrise-1929",
+      "oelkrise-1973",
+      "einfuehrung-euro-bargeld",
+      "weltfinanzkrise-2008"
+    ],
+    "personIds": [
+      "mansa-musa",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "james-watt",
+      "karl-marx",
+      "kaiser-meiji",
+      "cecil-rhodes",
+      "deng-xiaoping",
+      "tim-berners-lee"
+    ],
+    "termIds": [
+      "seidenstrasse",
+      "hanse",
+      "merkantilismus",
+      "kolumbianischer-austausch",
+      "industrielle-revolution",
+      "imperialismus",
+      "hyperinflation",
+      "globalisierung"
+    ],
+    "tags": [
+      "trade",
+      "economy",
+      "globalization",
+      "silk road",
+      "colonialism",
+      "money"
+    ]
+  },
+  {
+    "id": "herrschaft-demokratie",
+    "title": "Rule, Law and Democracy",
+    "subtitle": "Who Governs, and Who May Have a Say?",
+    "summary": "From god-kings and law steles through the democracy of Athens to constitutions and human rights: the long argument over how power is justified and limited.",
+    "intro": [
+      "In the early civilizations, rule was regarded as willed by the gods, yet the Code of Hammurabi already showed that a king could bind himself to written laws. In Athens, Solon and Cleisthenes created reforms that for the first time involved free citizens in decisions; Attic democracy, however, remained restricted to men and excluded women, foreigners and slaves. Rome drove out its kings, gave itself the Law of the Twelve Tables and developed a republic of consuls, senate and popular assemblies. In China the First Emperor Qin Shi Huang united the country with a tightly organized administration, and from then on the Mandate of Heaven justified the rule of the dynasties.",
+      "With the principate of Augustus, Rome became in effect a monarchy, and with the imperial coronation of Charlemagne the Middle Ages took up this idea again. At the same time kings had to share their power with the nobility, the church and the towns: the Magna Carta of 1215 bound the English king to the law, and estates and parliaments granted taxes. In the absolutism of the 17th century, rulers such as Louis XIV claimed all state authority for themselves, while England established the primacy of parliament in the Glorious Revolution. Locke and Montesquieu formulated the ideas of the social contract and the separation of powers.",
+      "The American and the French Revolution turned these into constitutions and declarations of human rights, and the Code civil carried equality before the law through Europe. In the 19th century, liberals and democrats fought in the Revolution of 1848 for constitutions and nation-states, and in 1893 New Zealand became the first country to introduce women's suffrage. The Weimar Constitution was one of the most modern of its time, but with the Enabling Act it also showed how a democracy can be destroyed by legal means. After 1945, human rights and democracy spread worldwide, and the end of apartheid in 1994 made South Africa a symbol of the peaceful transition to equality."
+    ],
+    "color": "#2563eb",
+    "eventIds": [
+      "codex-hammurapi",
+      "reformen-solons",
+      "beginn-der-roemischen-republik",
+      "reformen-des-kleisthenes",
+      "zwoelftafelgesetz",
+      "qin-shihuangdi-einigt-china",
+      "augustus-begruendet-den-prinzipat",
+      "kaiserkroenung-karls-des-grossen",
+      "magna-carta",
+      "hof-nach-versailles",
+      "glorious-revolution",
+      "montesquieu-geist-der-gesetze",
+      "verfassung-der-usa",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "code-civil",
+      "maerzrevolution-1848",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "ende-der-apartheid"
+    ],
+    "personIds": [
+      "hammurapi",
+      "perikles",
+      "cicero",
+      "augustus",
+      "karl-der-grosse",
+      "john-locke",
+      "thomas-jefferson",
+      "olympe-de-gouges",
+      "friedrich-ebert",
+      "nelson-mandela"
+    ],
+    "termIds": [
+      "polis",
+      "ostrakismos",
+      "senat",
+      "prinzipat",
+      "mandat-des-himmels",
+      "absolutismus",
+      "gewaltenteilung",
+      "volkssouveraenitaet"
+    ],
+    "tags": [
+      "democracy",
+      "constitution",
+      "law",
+      "monarchy",
+      "human rights",
+      "parliament"
+    ]
+  },
+  {
+    "id": "frauen",
+    "title": "Women in History",
+    "subtitle": "Rulers, Thinkers and the Struggle for Equality",
+    "summary": "Women have governed, written, carried out research and offered resistance, yet for a long time they remained excluded from power and education. Their path from the early civilizations to suffrage and the civil rights movement.",
+    "intro": [
+      "In the large settlement of Çatalhöyük, archaeologists found numerous female figurines whose meaning is still debated today. From the empire of Sargon of Akkad comes the priestess Enheduanna, the first author in world history known by name, and the Shang noblewoman Fu Hao led armies into the field. In Egypt, Hatshepsut ruled as pharaoh, whereas in Athens women were excluded from democracy, and even the educated Aspasia was attacked for her influence on Pericles. Cleopatra VII held her own as the last ruler of Egypt among the Roman power holders before her death sealed the end of the Hellenistic age.",
+      "In the Middle Ages, individual women attained great power: Theodora ruled at Justinian's side, Wu Zetian was the only woman to reign as empress over China, and Murasaki Shikibu wrote one of the world's first novels with The Tale of Genji. Convents gave women such as Hildegard of Bingen access to education and influence, while Joan of Arc became a heroine in the Hundred Years' War and was burned as a heretic. Isabella of Castile and Elizabeth I showed that queens could rule successfully. At the same time, in the 16th and 17th centuries tens of thousands of people, predominantly women, fell victim to the witch hunts.",
+      "The Enlightenment promised equal rights, but usually meant only men by them. In the Women's March on Versailles in 1789, the women of Paris intervened actively in the revolution, and Olympe de Gouges demanded full equality in her Declaration of the Rights of Woman; she was executed in 1793. In the 19th century an organized women's movement arose that fought for education, employment and the vote; in 1893 New Zealand became the first country to introduce women's suffrage, and Germany followed in 1918. In 1919 Marie Juchacz was the first woman to speak in a German parliament, and Marie Curie received two Nobel Prizes. In 1955 Rosa Parks set off the Montgomery bus boycott and made the struggle for civil rights a history of female resistance as well."
+    ],
+    "color": "#db2777",
+    "eventIds": [
+      "catalhoeyuek",
+      "sargon-gruendet-akkadisches-reich",
+      "shang-dynastie-orakelknochen",
+      "bau-des-parthenon",
+      "tod-kleopatras",
+      "justinian-und-hagia-sophia",
+      "wu-zetian-wird-kaiserin",
+      "genji-monogatari",
+      "hundertjaehriger-krieg",
+      "fall-granadas",
+      "spanische-armada",
+      "hoehepunkt-der-hexenverfolgung",
+      "oesterreichischer-erbfolgekrieg",
+      "frauenmarsch-nach-versailles",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "montgomery-busboykott"
+    ],
+    "personIds": [
+      "hatschepsut",
+      "enheduanna",
+      "kleopatra-vii",
+      "theodora",
+      "wu-zetian",
+      "hildegard-von-bingen",
+      "jeanne-darc",
+      "olympe-de-gouges",
+      "emmeline-pankhurst",
+      "rosa-parks"
+    ],
+    "termIds": [
+      "staendegesellschaft",
+      "moenchtum",
+      "aufklaerung",
+      "dritter-stand",
+      "weimarer-republik",
+      "buergerrechtsbewegung"
+    ],
+    "tags": [
+      "women",
+      "equality",
+      "suffrage",
+      "female rulers",
+      "women's movement"
+    ]
+  },
+  {
+    "id": "migration-begegnung",
+    "title": "Migration and Cultural Encounter",
+    "subtitle": "Migrations, Conquests and Exchange Between Peoples",
+    "summary": "People have always been on the move: out of Africa into all the world, as traders, conquerors, refugees and settlers. Encounters brought exchange and enrichment, but also violence and displacement.",
+    "intro": [
+      "The history of humankind begins with a migration: Homo erectus left Africa almost two million years ago, and modern humans followed around 70,000 years ago and settled Australia, Asia, Europe and finally the Americas. With their boats, the Lapita culture reached the islands of the Pacific. At the end of the Bronze Age the Sea Peoples threw the eastern Mediterranean into turmoil, while Greek colonists later founded cities from Marseille to Crimea. Alexander's campaign carried the Greek language and Greek art as far as India and created in the Hellenistic age a mixed culture in which Buddhism and Greek sculpture met.",
+      "Buddhism reached China along the Silk Road, and monks such as Xuanzang traveled to India to fetch sacred writings. The Migration Period brought Goths, Vandals and Huns into the Roman Empire, and the Vikings sailed as far as North America and the Caspian Sea. In Al-Andalus, Muslims, Jews and Christians lived together for centuries, and scholars such as Averroes transmitted the philosophy of Aristotle to Latin Europe. The Mongols under Genghis Khan created the largest contiguous land empire in history, along whose routes travelers such as Marco Polo and Ibn Battuta connected East and West.",
+      "The arrival of Columbus in 1492 initiated an encounter that for the native peoples of the Americas ended in conquest, epidemics and collapse, while millions of Africans were carried across the Atlantic as slaves. Religious refugees such as the Huguenots, the starving such as the Irish after 1845, and millions of emigrants sought a better life in the New World. The partition of India in 1947 set off one of the largest refugee movements of the 20th century, and wars, decolonization and labor migration have shaped migrations ever since. Migration remains one of the great questions of world politics to this day, and the encounter of cultures is a source of conflict and of renewal alike."
+    ],
+    "color": "#059669",
+    "eventIds": [
+      "homo-erectus-verlaesst-afrika",
+      "auszug-aus-afrika",
+      "besiedlung-amerikas",
+      "lapita-besiedlung-pazifik",
+      "ende-der-bronzezeit-seevoelker",
+      "griechische-kolonisation",
+      "alexanders-feldzug-nach-asien",
+      "buddhismus-erreicht-china",
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ueberfall-auf-lindisfarne",
+      "kalifat-von-cordoba",
+      "ibn-ruschd-erklaert-aristoteles",
+      "dschingis-khan-einigt-die-mongolen",
+      "reisen-des-ibn-battuta",
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel",
+      "edikt-von-fontainebleau",
+      "irische-hungersnot",
+      "unabhaengigkeit-indien-pakistan"
+    ],
+    "personIds": [
+      "homo-erectus",
+      "alexander-der-grosse",
+      "xuanzang",
+      "ibn-ruschd",
+      "dschingis-khan",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "akbar"
+    ],
+    "termIds": [
+      "hominini",
+      "hellenismus",
+      "seidenstrasse",
+      "voelkerwanderung",
+      "al-andalus",
+      "kolumbianischer-austausch",
+      "hugenotten",
+      "dekolonisation"
+    ],
+    "tags": [
+      "migration",
+      "movement of peoples",
+      "cultural exchange",
+      "flight",
+      "colonization",
+      "encounter"
+    ]
+  },
+  {
+    "id": "kunst-schrift-bildung",
+    "title": "Art, Writing and Education",
+    "subtitle": "How People Preserved Knowledge and Created Beauty",
+    "summary": "From the cave paintings of the Ice Age through cuneiform, libraries and universities to printing and the internet: the history of how people expressed themselves and passed on knowledge.",
+    "intro": [
+      "As long as 75,000 years ago, people in Blombos Cave engraved patterns in ocher and made jewelry; the cave paintings of Lascaux show the mastery the artists of the Ice Age achieved. With the cuneiform script of Sumer and the hieroglyphs of Egypt, the history of writing began around 5,000 years ago, at first for administration and trade, but soon also for literature such as the Epic of Gilgamesh. The alphabet of the Phoenicians simplified writing so greatly that it was adopted by the Greeks and Romans and shapes our letters to this day. Homer's epics and the tragedies of Athens became foundational texts of European education, and the Library of Alexandria sought to collect all the knowledge in the world.",
+      "China invented paper and woodblock printing; the Diamond Sutra of 868 is the oldest dated printed book. In the House of Wisdom in Baghdad and in the madrasas from Cairo to Timbuktu, scholars preserved and expanded the heritage of antiquity. In Europe the first universities arose at Bologna and Paris, scholasticism joined faith and reason, and the Gothic style gave rise to cathedrals of light and stone. The Renaissance rediscovered antiquity: Brunelleschi, Leonardo and Michelangelo created works that united art and science, and Gutenberg's printing made books a mass commodity.",
+      "The Encyclopédie of the Enlightenment sought to make the knowledge of the age accessible to everyone, and in the 19th century compulsory schooling was introduced in many countries. After 1919 the Bauhaus combined art, craft and technology into a new visual language that had worldwide influence. The book burnings of 1933 showed how dangerous free art and scholarship appeared to dictatorships. With the World Wide Web, more knowledge is available today than ever before, and at the same time the question of how education, truth and art can be preserved in the digital world arises anew."
+    ],
+    "color": "#b45309",
+    "eventIds": [
+      "blombos-hoehle-kunst-und-schmuck",
+      "hoehlenmalerei-lascaux",
+      "sumerische-keilschrift",
+      "gilgamesch-epos",
+      "phoenizier-und-alphabet",
+      "homer-und-die-epen",
+      "bibliothek-von-alexandria",
+      "erfindung-des-papiers",
+      "haus-der-weisheit",
+      "diamant-sutra-holztafeldruck",
+      "gruendung-der-universitaet-bologna",
+      "beginn-der-gotik",
+      "timbuktu-gelehrtenzentrum",
+      "brunelleschis-kuppel",
+      "gutenbergs-buchdruck",
+      "michelangelos-david",
+      "erste-baende-der-encyclopedie",
+      "gruendung-des-bauhauses",
+      "buecherverbrennung-1933",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "enheduanna",
+      "sappho",
+      "platon",
+      "sima-qian",
+      "murasaki-shikibu",
+      "johannes-gutenberg",
+      "leonardo-da-vinci",
+      "michelangelo",
+      "erasmus-von-rotterdam",
+      "kaethe-kollwitz"
+    ],
+    "termIds": [
+      "keilschrift",
+      "hieroglyphen",
+      "alphabet",
+      "tragoedie",
+      "holztafeldruck",
+      "scholastik",
+      "gotik",
+      "humanismus"
+    ],
+    "tags": [
+      "art",
+      "writing",
+      "education",
+      "literature",
+      "printing",
+      "university"
+    ]
+  }
+]

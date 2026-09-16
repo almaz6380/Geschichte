@@ -1,10 +1,11 @@
 import { DB, centuryKey, centuryLabel } from '../data.js';
-import { esc, formatRange, epochRange, regionChip, setTitle, plural } from '../ui.js';
+import { esc, formatRange, epochRange, regionChip, setTitle } from '../ui.js';
 import { setQuery } from '../router.js';
 import { getTimelineFilters, setTimelineFilters } from '../store.js';
+import { t, plural } from '../i18n.js';
 
 export function render(el, params, { query }) {
-  setTitle('Zeitleiste');
+  setTitle(t('timeline.title'));
   const remembered = getTimelineFilters();
   let epochFilter = query.has('epoche') ? query.get('epoche') : remembered.epoch || '';
   let regionFilter = query.has('region') ? query.get('region') : remembered.region || '';
@@ -15,19 +16,19 @@ export function render(el, params, { query }) {
   if (themeFilter && !DB.themesById.has(themeFilter)) themeFilter = '';
 
   el.innerHTML = `
-    <h1>Zeitleiste</h1>
-    <p class="muted">Alle Ereignisse in chronologischer Reihenfolge, gegliedert nach Epoche und Jahrhundert. Große Punkte markieren Meilensteine.</p>
+    <h1>${esc(t('timeline.title'))}</h1>
+    <p class="muted">${esc(t('timeline.intro'))}</p>
     <div class="tl-filters">
-      <div class="chip-scroll" id="tl-epoch-filter" role="group" aria-label="Nach Epoche filtern"></div>
-      <div class="chip-scroll" id="tl-region-filter" role="group" aria-label="Nach Region filtern"></div>
-      ${DB.themes.length ? '<div class="chip-scroll" id="tl-theme-filter" role="group" aria-label="Nach Thema filtern"></div>' : ''}
+      <div class="chip-scroll" id="tl-epoch-filter" role="group" aria-label="${esc(t('timeline.filter.epoch'))}"></div>
+      <div class="chip-scroll" id="tl-region-filter" role="group" aria-label="${esc(t('timeline.filter.region'))}"></div>
+      ${DB.themes.length ? `<div class="chip-scroll" id="tl-theme-filter" role="group" aria-label="${esc(t('timeline.filter.theme'))}"></div>` : ''}
       <div class="tl-bar">
         <span class="result-count" id="tl-count"></span>
-        <label class="toggle"><input type="checkbox" id="tl-milestones"> <span>Nur Meilensteine</span></label>
+        <label class="toggle"><input type="checkbox" id="tl-milestones"> <span>${esc(t('timeline.onlyMilestones'))}</span></label>
       </div>
     </div>
     <div class="timeline" id="tl"></div>
-    <a class="btn to-top" href="#/zeitleiste" id="tl-top" hidden>↑ Nach oben</a>
+    <a class="btn to-top" href="#/zeitleiste" id="tl-top" hidden>↑ ${esc(t('timeline.toTop'))}</a>
   `;
 
   const epochBox = el.querySelector('#tl-epoch-filter');
@@ -41,12 +42,12 @@ export function render(el, params, { query }) {
     `<button type="button" class="chip chip-btn" data-id="${esc(id)}" aria-pressed="${pressed}">${color ? `<span class="dot" style="--chip-color:${color}"></span>` : ''}${esc(label)}</button>`;
 
   function renderFilters() {
-    epochBox.innerHTML = chip('', 'Alle Epochen', null, epochFilter === '') +
+    epochBox.innerHTML = chip('', t('glossary.allEpochs'), null, epochFilter === '') +
       DB.epochs.map((e) => chip(e.id, e.title, e.color, epochFilter === e.id)).join('');
-    regionBox.innerHTML = chip('', 'Alle Regionen', null, regionFilter === '') +
+    regionBox.innerHTML = chip('', t('timeline.allRegions'), null, regionFilter === '') +
       DB.regions.map((r) => chip(r.id, r.name, r.color, regionFilter === r.id)).join('');
-    if (themeBox) themeBox.innerHTML = chip('', 'Alle Themen', null, themeFilter === '') +
-      DB.themes.map((t) => chip(t.id, t.title, t.color, themeFilter === t.id)).join('');
+    if (themeBox) themeBox.innerHTML = chip('', t('timeline.allThemes'), null, themeFilter === '') +
+      DB.themes.map((th) => chip(th.id, th.title, th.color, themeFilter === th.id)).join('');
     msBox.checked = onlyMilestones;
   }
 
@@ -71,7 +72,7 @@ export function render(el, params, { query }) {
         }
         return `${marker}<a class="tl-event imp-${ev.importance}" href="#/ereignis/${ev.id}">
           <span class="tl-year">${esc(formatRange(ev.year, ev.endYear, ev.approx))}</span>
-          <span class="tl-title">${esc(ev.title)}${ev.importance === 3 ? ' <span class="star" title="Meilenstein">★</span>' : ''}</span>
+          <span class="tl-title">${esc(ev.title)}${ev.importance === 3 ? ` <span class="star" title="${esc(t('ui.milestone'))}">★</span>` : ''}</span>
           <div class="tl-sum">${esc(ev.summary)}</div>
           <div class="tl-meta">${regionChip(ev.regionId)}</div>
         </a>`;
@@ -79,14 +80,14 @@ export function render(el, params, { query }) {
       return `<section class="tl-epoch" id="tl-${e.id}" style="--epoch-color:${e.color}">
         <div class="tl-epoch-head">
           <h2><a href="#/epoche/${e.id}">${esc(e.title)}</a></h2>
-          <span class="range">${esc(epochRange(e))} · ${plural(events.length, 'Ereignis', 'Ereignisse')}</span>
+          <span class="range">${esc(epochRange(e))} · ${plural(events.length, 'unit.event')}</span>
           <span class="band"></span>
         </div>
         <div class="tl-epoch-body">${items}</div>
       </section>`;
     }).join('');
-    tl.innerHTML = html || `<div class="empty card"><h2>Keine Ereignisse</h2><p>Für diese Kombination aus Filtern gibt es keine Einträge.</p></div>`;
-    count.textContent = plural(total, 'Ereignis', 'Ereignisse');
+    tl.innerHTML = html || `<div class="empty card"><h2>${esc(t('timeline.empty.title'))}</h2><p>${esc(t('timeline.empty.text'))}</p></div>`;
+    count.textContent = plural(total, 'unit.event');
   }
 
   function apply() {

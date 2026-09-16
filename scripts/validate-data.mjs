@@ -1,4 +1,4 @@
-// Validiert die Inhaltsdaten in data/*.json: Pflichtfelder, ID-Eindeutigkeit,
+// Validiert die Inhaltsdaten in data/<sprache>/*.json: Pflichtfelder, ID-Eindeutigkeit,
 // Referenzintegrität, Wertebereiche und Mindestmengen.
 // Aufruf: node scripts/validate-data.mjs   (Exit-Code 1 bei Fehlern)
 import { readFileSync, existsSync } from 'node:fs';
@@ -9,7 +9,17 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SLUG = /^[a-z0-9-]+$/;
 const SECTION_IDS = ['herrschaft', 'gesellschaft', 'kultur', 'wirtschaft'];
 
-export function loadData(dir = path.join(ROOT, 'data')) {
+export const LANGS = ['de', 'en', 'fr', 'es', 'it', 'pt'];
+export const REF_LANG = 'de';
+
+export function langDir(lang) { return path.join(ROOT, 'data', lang); }
+
+// Sprachen, für die bereits Inhalte vorliegen (Übersetzungen entstehen nach und nach).
+export function availableLangs() {
+  return LANGS.filter((l) => existsSync(path.join(langDir(l), 'epochs.json')));
+}
+
+export function loadData(dir = langDir(REF_LANG)) {
   const read = (f, fallback) => {
     const p = path.join(dir, f);
     if (!existsSync(p)) return fallback;
@@ -163,6 +173,53 @@ export function validate(db, min = MIN) {
   return errors;
 }
 
+// Vergleicht die IDs einer Übersetzung mit der deutschen Referenz. Sie müssen identisch sein,
+// damit Lesezeichen, Quiz-Fortschritt und geteilte Links beim Sprachwechsel gültig bleiben.
+export function compareIds(ref, other, lang) {
+  const errors = [];
+  const sets = [
+    ['regions', (x) => x.id], ['epochs', (x) => x.id], ['events', (x) => x.id],
+    ['persons', (x) => x.id], ['quiz', (x) => x.id], ['glossary', (x) => x.id], ['themes', (x) => x.id],
+  ];
+  for (const [key, idOf] of sets) {
+    const a = new Set((ref[key] || []).map(idOf));
+    const b = new Set((other[key] || []).map(idOf));
+    const missing = [...a].filter((id) => !b.has(id));
+    const extra = [...b].filter((id) => !a.has(id));
+    if (missing.length) errors.push(`${lang}/${key}: ${missing.length} ID(s) fehlen, z. B. ${missing.slice(0, 3).join(', ')}`);
+    if (extra.length) errors.push(`${lang}/${key}: ${extra.length} unbekannte ID(s), z. B. ${extra.slice(0, 3).join(', ')}`);
+  }
+  // Jahreszahlen und Zuordnungen dürfen sich beim Übersetzen nicht ändern.
+  const refEvents = new Map((ref.events || []).map((e) => [e.id, e]));
+  for (const e of other.events || []) {
+    const r = refEvents.get(e.id);
+    if (!r) continue;
+    if (e.year !== r.year) errors.push(`${lang}/events ${e.id}: Jahr ${e.year} statt ${r.year}`);
+    if ((e.endYear ?? null) !== (r.endYear ?? null)) errors.push(`${lang}/events ${e.id}: Endjahr weicht ab`);
+    if (e.epochId !== r.epochId) errors.push(`${lang}/events ${e.id}: andere Epoche`);
+    if (e.regionId !== r.regionId) errors.push(`${lang}/events ${e.id}: andere Region`);
+    if (e.importance !== r.importance) errors.push(`${lang}/events ${e.id}: andere Bedeutung`);
+  }
+  const refPersons = new Map((ref.persons || []).map((p) => [p.id, p]));
+  for (const p of other.persons || []) {
+    const r = refPersons.get(p.id);
+    if (!r) continue;
+    if ((p.born ?? null) !== (r.born ?? null) || (p.died ?? null) !== (r.died ?? null)) {
+      errors.push(`${lang}/persons ${p.id}: Lebensdaten weichen ab`);
+    }
+    if (p.epochId !== r.epochId) errors.push(`${lang}/persons ${p.id}: andere Epoche`);
+  }
+  const refQuiz = new Map((ref.quiz || []).map((q) => [q.id, q]));
+  for (const q of other.quiz || []) {
+    const r = refQuiz.get(q.id);
+    if (!r) continue;
+    if (q.answer !== r.answer) errors.push(`${lang}/quiz ${q.id}: andere richtige Antwort (${q.answer} statt ${r.answer})`);
+    if ((q.options || []).length !== (r.options || []).length) errors.push(`${lang}/quiz ${q.id}: andere Anzahl Antworten`);
+    if (q.epochId !== r.epochId) errors.push(`${lang}/quiz ${q.id}: andere Epoche`);
+  }
+  return errors;
+}
+
 export function stats(db) {
   return {
     regionen: db.regions.length,
@@ -176,12 +233,19 @@ export function stats(db) {
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
-  const db = loadData();
-  const errors = validate(db);
-  console.log('Daten:', stats(db));
-  if (errors.length) {
-    console.error(`\n${errors.length} Fehler:`);
-    for (const e of errors) console.error(' -', e);
+  const ref = loadData(langDir(REF_LANG));
+  const all = [];
+  for (const lang of availableLangs()) {
+    const db = lang === REF_LANG ? ref : loadData(langDir(lang));
+    console.log(`${lang}:`, stats(db));
+    for (const e of validate(db)) all.push(`${lang}: ${e}`);
+    if (lang !== REF_LANG) all.push(...compareIds(ref, db, lang));
+  }
+  const fehlend = LANGS.filter((l) => !availableLangs().includes(l));
+  if (fehlend.length) console.log(`Noch ohne Inhalte: ${fehlend.join(', ')}`);
+  if (all.length) {
+    console.error(`\n${all.length} Fehler:`);
+    for (const e of all) console.error(' -', e);
     process.exit(1);
   }
   console.log('Validierung erfolgreich.');

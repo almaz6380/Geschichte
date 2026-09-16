@@ -1,6 +1,7 @@
 import { DB, randomEvent } from '../data.js';
 import { esc, epochTile, themeTile, regionTile, formatRange, regionChip, epochChip, setTitle, sectionHead } from '../ui.js';
 import { getQuizProgress, isInstallHintDismissed, dismissInstallHint } from '../store.js';
+import { t, plural } from '../i18n.js';
 
 export function render(el, params, ctx) {
   setTitle('');
@@ -19,78 +20,78 @@ export function render(el, params, ctx) {
 
   el.innerHTML = `
     <section class="intro">
-      <h1>Weltgeschichte</h1>
-      <p>Alle wesentlichen Themen der Vergangenheit – von den ersten Menschen bis zur Gegenwart. Gegliedert nach Epochen, Querschnittsthemen und Regionen, mit Zeitleiste, Glossar und Quiz.</p>
+      <h1>${esc(t('app.name'))}</h1>
+      <p>${esc(t('home.intro'))}</p>
       <div class="stats-row">
-        <div class="stat"><b>${DB.epochs.length}</b><span>Epochen</span></div>
-        <div class="stat"><b>${DB.themes.length}</b><span>Themen</span></div>
-        <div class="stat"><b>${DB.events.length}</b><span>Ereignisse</span></div>
-        <div class="stat"><b>${DB.persons.length}</b><span>Personen</span></div>
-        <div class="stat"><b>${DB.glossary.length}</b><span>Begriffe</span></div>
-        <div class="stat"><b>${DB.quiz.length}</b><span>Quizfragen</span></div>
+        <div class="stat"><b>${DB.epochs.length}</b><span>${esc(t('unit.epoch.other'))}</span></div>
+        <div class="stat"><b>${DB.themes.length}</b><span>${esc(t('unit.theme.other'))}</span></div>
+        <div class="stat"><b>${DB.events.length}</b><span>${esc(t('unit.event.other'))}</span></div>
+        <div class="stat"><b>${DB.persons.length}</b><span>${esc(t('unit.person.other'))}</span></div>
+        <div class="stat"><b>${DB.glossary.length}</b><span>${esc(t('unit.term.other'))}</span></div>
+        <div class="stat"><b>${DB.quiz.length}</b><span>${esc(t('home.stat.quiz'))}</span></div>
       </div>
       <div class="btn-row">
-        <a class="btn btn-primary" href="#/epochen">Epochen entdecken</a>
-        <a class="btn" href="#/zeitleiste">Zeitleiste</a>
-        <a class="btn" href="#/quiz">Quiz starten</a>
+        <a class="btn btn-primary" href="#/epochen">${esc(t('home.cta.epochs'))}</a>
+        <a class="btn" href="#/zeitleiste">${esc(t('home.cta.timeline'))}</a>
+        <a class="btn" href="#/quiz">${esc(t('home.cta.quiz'))}</a>
       </div>
     </section>
 
     ${showIosHint ? `
     <section class="card install-hint" id="ios-hint">
-      <h3>Als App installieren</h3>
-      <p class="muted">Tippe in Safari auf „Teilen“ und dann auf „Zum Home-Bildschirm“. Danach funktioniert die App auch offline.</p>
-      <button type="button" class="btn btn-small" id="ios-hint-close">Ausblenden</button>
+      <h3>${esc(t('home.install.title'))}</h3>
+      <p class="muted">${esc(t('home.install.ios'))}</p>
+      <button type="button" class="btn btn-small" id="ios-hint-close">${esc(t('home.install.dismiss'))}</button>
     </section>` : ''}
     ${showAndroidHint ? `
     <section class="card install-hint" id="ios-hint">
-      <h3>Als App installieren</h3>
-      <p class="muted">Installiere Weltgeschichte auf dem Startbildschirm. Die App funktioniert danach auch offline.</p>
-      <div class="btn-row" style="margin-bottom:0"><button type="button" class="btn btn-primary btn-small" id="install-now">Installieren</button><button type="button" class="btn btn-small" id="ios-hint-close">Ausblenden</button></div>
+      <h3>${esc(t('home.install.title'))}</h3>
+      <p class="muted">${esc(t('home.install.android', { name: t('app.name') }))}</p>
+      <div class="btn-row" style="margin-bottom:0"><button type="button" class="btn btn-primary btn-small" id="install-now">${esc(t('home.install.action'))}</button><button type="button" class="btn btn-small" id="ios-hint-close">${esc(t('home.install.dismiss'))}</button></div>
     </section>` : ''}
 
     <div class="two-col">
       ${ev ? `
       <section class="card random-card" style="--epoch-color:${epoch?.color}">
-        <div class="muted">Zufälliges Ereignis</div>
+        <div class="muted">${esc(t('home.random.kicker'))}</div>
         <h3><a href="#/ereignis/${ev.id}">${esc(ev.title)}</a></h3>
         <div class="meta-row"><span class="chip">${esc(formatRange(ev.year, ev.endYear, ev.approx))}</span>${regionChip(ev.regionId)}${epochChip(ev.epochId)}</div>
         <p class="muted">${esc(ev.summary)}</p>
-        <div class="btn-row" style="margin-bottom:0"><a class="btn btn-small" href="#/ereignis/${ev.id}">Mehr lesen</a><button type="button" class="btn btn-small" id="random-again">Anderes Ereignis</button></div>
+        <div class="btn-row" style="margin-bottom:0"><a class="btn btn-small" href="#/ereignis/${ev.id}">${esc(t('home.random.more'))}</a><button type="button" class="btn btn-small" id="random-again">${esc(t('home.random.again'))}</button></div>
       </section>` : ''}
       <section class="card">
-        <div class="muted">Dein Quiz-Fortschritt</div>
-        <h3>${mastered} von ${DB.epochs.length} Epochen gemeistert</h3>
-        <div class="progress" aria-label="Fortschritt"><span style="width:${DB.epochs.length ? Math.round((mastered / DB.epochs.length) * 100) : 0}%"></span></div>
-        <p class="muted" style="margin-top:8px">Eine Epoche gilt als gemeistert, wenn du mindestens 80 % der Fragen richtig beantwortest.</p>
-        <a class="btn btn-small" href="#/quiz">Zum Quiz</a>
+        <div class="muted">${esc(t('home.progress.kicker'))}</div>
+        <h3>${esc(t('home.progress.title', { done: mastered, total: DB.epochs.length }))}</h3>
+        <div class="progress" aria-label="${esc(t('home.progress.label'))}"><span style="width:${DB.epochs.length ? Math.round((mastered / DB.epochs.length) * 100) : 0}%"></span></div>
+        <p class="muted" style="margin-top:8px">${esc(t('home.progress.hint'))}</p>
+        <a class="btn btn-small" href="#/quiz">${esc(t('home.progress.link'))}</a>
       </section>
     </div>
 
     <section class="section">
-      ${sectionHead('Epochen', null, '<a href="#/epochen">Alle anzeigen</a>')}
-      <p class="muted">Chronologisch von der Steinzeit bis heute.</p>
+      ${sectionHead(t('home.section.epochs'), null, `<a href="#/epochen">${esc(t('home.showall'))}</a>`)}
+      <p class="muted">${esc(t('home.epochs.note'))}</p>
       <div class="card-grid">${DB.epochs.map((e, i) => epochTile(e, i + 1)).join('')}</div>
     </section>
 
     ${DB.themes.length ? `
     <section class="section">
-      ${sectionHead('Querschnittsthemen', null, '<a href="#/themen">Alle anzeigen</a>')}
-      <p class="muted">Rote Linien durch die Jahrtausende.</p>
+      ${sectionHead(t('home.section.themes'), null, `<a href="#/themen">${esc(t('home.showall'))}</a>`)}
+      <p class="muted">${esc(t('home.themes.note'))}</p>
       <div class="card-grid">${DB.themes.map(themeTile).join('')}</div>
     </section>` : ''}
 
     <section class="section">
-      ${sectionHead('Regionen', null, '<a href="#/regionen">Alle anzeigen</a>')}
+      ${sectionHead(t('home.section.regions'), null, `<a href="#/regionen">${esc(t('home.showall'))}</a>`)}
       <div class="card-grid card-grid-compact">${DB.regions.map(regionTile).join('')}</div>
     </section>
 
     <section class="section">
-      ${sectionHead('Nachschlagen')}
+      ${sectionHead(t('home.section.reference'))}
       <div class="card-grid">
-        <a class="card card-link hub-card" href="#/glossar"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-glossary"/></svg><span><span class="title">Glossar</span><span class="sub">${DB.glossary.length} Begriffe kurz erklärt</span></span></a>
-        <a class="card card-link hub-card" href="#/suche"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg><span><span class="title">Suche</span><span class="sub">Ereignisse, Personen, Themen, Begriffe</span></span></a>
-        <a class="card card-link hub-card" href="#/lesezeichen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg><span><span class="title">Lesezeichen</span><span class="sub">Deine gemerkten Inhalte</span></span></a>
+        <a class="card card-link hub-card" href="#/glossar"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-glossary"/></svg><span><span class="title">${esc(t('home.hub.glossary.title'))}</span><span class="sub">${esc(t('home.hub.glossary.sub', { terms: plural(DB.glossary.length, 'unit.term') }))}</span></span></a>
+        <a class="card card-link hub-card" href="#/suche"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg><span><span class="title">${esc(t('home.hub.search.title'))}</span><span class="sub">${esc(t('home.hub.search.sub'))}</span></span></a>
+        <a class="card card-link hub-card" href="#/lesezeichen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg><span><span class="title">${esc(t('home.hub.bookmarks.title'))}</span><span class="sub">${esc(t('home.hub.bookmarks.sub'))}</span></span></a>
       </div>
     </section>
   `;

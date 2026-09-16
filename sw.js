@@ -1,5 +1,5 @@
 /* Service Worker: Precache aller App-Dateien, cache-first mit Netz-Fallback. */
-const VERSION = 'wg-v3';
+const VERSION = 'wg-v4';
 const PRECACHE = [
   './',
   './index.html',
@@ -32,13 +32,23 @@ const PRECACHE = [
   './js/views/regions.js',
   './js/views/more.js',
   './js/version.js',
-  './data/regions.json',
-  './data/epochs.json',
-  './data/events.json',
-  './data/persons.json',
-  './data/quiz.json',
-  './data/glossary.json',
-  './data/themes.json',
+  './js/i18n.js',
+  './js/strings.js',
+  './js/strings/de.js',
+  './js/strings/en.js',
+  './js/strings/fr.js',
+  './js/strings/es.js',
+  './js/strings/it.js',
+  './js/strings/pt.js',
+  // Nur die Standardsprache wird vorab gespeichert; weitere Sprachen landen beim
+  // ersten Wechsel über die Laufzeit-Zwischenspeicherung im Cache.
+  './data/de/regions.json',
+  './data/de/epochs.json',
+  './data/de/events.json',
+  './data/de/persons.json',
+  './data/de/quiz.json',
+  './data/de/glossary.json',
+  './data/de/themes.json',
   './icons/icon.svg',
   './icons/icon-192.png',
   './icons/icon-512.png',

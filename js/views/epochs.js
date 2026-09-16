@@ -1,11 +1,12 @@
 import { DB } from '../data.js';
-import { epochTile, setTitle } from '../ui.js';
+import { esc, epochTile, setTitle } from '../ui.js';
+import { t } from '../i18n.js';
 
 export function render(el) {
-  setTitle('Epochen');
+  setTitle(t('epochs.title'));
   el.innerHTML = `
-    <h1>Epochen</h1>
-    <p class="muted">Die Weltgeschichte in ${DB.epochs.length} Abschnitten, chronologisch geordnet. Jede Epoche enthält einen Überblick, Schlüsselereignisse, wichtige Personen und ihre Folgen.</p>
+    <h1>${esc(t('epochs.title'))}</h1>
+    <p class="muted">${esc(t('epochs.intro', { count: DB.epochs.length }))}</p>
     <div class="card-grid">${DB.epochs.map((e, i) => epochTile(e, i + 1)).join('')}</div>
   `;
 }

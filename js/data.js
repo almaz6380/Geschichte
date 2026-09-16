@@ -1,4 +1,5 @@
-// Lädt data/*.json und baut Indizes.
+// Lädt die Inhaltsdateien einer Sprache aus data/<code>/ und baut die Indizes.
+import { compare, ordinal, t } from './i18n.js';
 export const DB = {
   regions: [], epochs: [], events: [], persons: [], quiz: [], glossary: [], themes: [],
   regionsById: new Map(), epochsById: new Map(), eventsById: new Map(), personsById: new Map(),
@@ -39,7 +40,7 @@ export function buildIndexes({ regions, epochs, events, persons, quiz, glossary 
   DB.events = events;
   DB.persons = persons;
   DB.quiz = quiz;
-  DB.glossary = [...glossary].sort((a, b) => a.term.localeCompare(b.term, 'de'));
+  DB.glossary = [...glossary].sort((a, b) => compare(a.term, b.term));
   DB.themes = themes;
 
   DB.regionsById = new Map(regions.map((r) => [r.id, r]));
@@ -49,7 +50,7 @@ export function buildIndexes({ regions, epochs, events, persons, quiz, glossary 
   DB.termsById = new Map(DB.glossary.map((g) => [g.id, g]));
   DB.themesById = new Map(themes.map((t) => [t.id, t]));
 
-  DB.eventsSorted = [...events].sort((a, b) => a.year - b.year || a.title.localeCompare(b.title, 'de'));
+  DB.eventsSorted = [...events].sort((a, b) => a.year - b.year || compare(a.title, b.title));
 
   const mapOf = (keys) => new Map(keys.map((k) => [k, []]));
   DB.eventsByEpoch = mapOf(DB.epochs.map((e) => e.id));
@@ -110,13 +111,9 @@ export function themeEvents(theme) {
 
 // Jahrhundert-Label für Gruppierungen, z. B. "5. Jahrhundert v. Chr."
 export function centuryLabel(year) {
-  if (year <= -10000) return 'Vor 10.000 v. Chr.';
-  if (year < 0) {
-    const c = Math.ceil(-year / 100);
-    return `${c}. Jahrhundert v. Chr.`;
-  }
-  const c = Math.floor((year - 1) / 100) + 1;
-  return `${c}. Jahrhundert`;
+  if (year <= -10000) return t('century.earliest');
+  if (year < 0) return t('century.bc', { n: ordinal(Math.ceil(-year / 100)) });
+  return t('century.ad', { n: ordinal(Math.floor((year - 1) / 100) + 1) });
 }
 
 export function centuryKey(year) {
