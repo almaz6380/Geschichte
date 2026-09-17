@@ -274,4 +274,5 @@ export default {
   'more.kind.native': 'App version',
   'more.kind.pwa': 'Progressive Web App',
   'more.privacy': 'Privacy policy',
+  'more.imprint': 'Legal notice',
 };

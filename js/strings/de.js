@@ -276,4 +276,5 @@ export default {
   'more.kind.native': 'App-Version',
   'more.kind.pwa': 'Progressive Web App',
   'more.privacy': 'Datenschutzerklärung',
+  'more.imprint': 'Impressum',
 };

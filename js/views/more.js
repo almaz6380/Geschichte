@@ -59,7 +59,10 @@ export function render(el) {
         </div>
         <p class="muted">${esc(t('more.about.note'))}</p>
         <p class="muted">${esc(t('more.version', { version: APP_VERSION, kind: window.wgIsNative ? t('more.kind.native') : t('more.kind.pwa') }))}</p>
-        <p><a class="btn btn-small" href="${window.wgIsNative ? 'https://geschichte-gilt.vercel.app/datenschutz.html' : './datenschutz.html'}" ${window.wgIsNative ? 'target="_blank" rel="noopener"' : ''}>${esc(t('more.privacy'))}</a></p>
+        <p>
+          <a class="btn btn-small" href="${window.wgIsNative ? 'https://geschichte-gilt.vercel.app/datenschutz.html' : './datenschutz.html'}" ${window.wgIsNative ? 'target="_blank" rel="noopener"' : ''}>${esc(t('more.privacy'))}</a>
+          <a class="btn btn-small" href="${window.wgIsNative ? 'https://geschichte-gilt.vercel.app/impressum.html' : './impressum.html'}" ${window.wgIsNative ? 'target="_blank" rel="noopener"' : ''}>${esc(t('more.imprint'))}</a>
+        </p>
       </div>
     </section>
   `;
