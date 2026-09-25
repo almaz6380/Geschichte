@@ -2,14 +2,19 @@ name: Android App
 
 on:
   workflow_dispatch:
-  push:
-    branches: ["main"]
-    paths: ["android/**", "js/**", "css/**", "data/**", "index.html", "capacitor.config.json", ".github/workflows/android.yml"]
+    inputs:
+      laeufer:
+        description: 'Wo laufen? github = GitHub-Rechner (kostet Minuten), mac = eigener Mac (Self-hosted Runner)'
+        type: choice
+        default: 'github'
+        options: ['github', 'mac']
+# Kein push-Ausloeser mehr, seit das Repo privat ist (25.09.2026): jeder Lauf
+# kostet Minuten. Gebaut wird nur noch auf Zuruf.
 
 jobs:
   build:
     name: Android bauen
-    runs-on: ubuntu-latest
+    runs-on: ${{ inputs.laeufer == 'mac' && fromJSON('["self-hosted", "macOS"]') || 'ubuntu-latest' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -20,6 +25,20 @@ jobs:
         with:
           distribution: temurin
           java-version: 21
+      - name: Android-SDK finden
+        # GitHubs Rechner setzen ANDROID_HOME selbst. Auf dem eigenen Mac liegt
+        # das SDK dort, wohin Android Studio es installiert.
+        run: |
+          SDK="${ANDROID_HOME:-${ANDROID_SDK_ROOT:-}}"
+          if [ -z "$SDK" ] && [ -d "$HOME/Library/Android/sdk" ]; then
+            SDK="$HOME/Library/Android/sdk"
+          fi
+          if [ -z "$SDK" ] || [ ! -d "$SDK" ]; then
+            echo "ABBRUCH: Kein Android-SDK gefunden (Android Studio einmal starten)."
+            exit 1
+          fi
+          echo "ANDROID_HOME=$SDK" >> "$GITHUB_ENV"
+          echo "ANDROID_SDK_ROOT=$SDK" >> "$GITHUB_ENV"
       - name: Abhängigkeiten installieren
         run: npm ci
       - name: Web-App einspielen
@@ -53,8 +72,22 @@ jobs:
           ./gradlew bundleRelease --no-daemon
           ls -la app/build/outputs/bundle/release/
 
+      - name: AAB in Josefs Downloads-Ordner legen (nur auf dem Mac)
+        # Das AAB ist hier das Ergebnis selbst (es wird von Hand in die Play
+        # Console hochgeladen). Der Artefaktspeicher war am 25.09. voll; auf dem
+        # Mac liegt die Datei deshalb zusaetzlich direkt in ~/Downloads.
+        if: ${{ steps.keystore.outputs.path != '' && inputs.laeufer == 'mac' }}
+        run: |
+          ZIEL="$HOME/Downloads/weltgeschichte-${{ github.run_number }}.aab"
+          cp android/app/build/outputs/bundle/release/app-release.aab "$ZIEL"
+          echo "## AAB liegt auf dem Mac unter $ZIEL" >> "$GITHUB_STEP_SUMMARY"
+
       - name: AAB als Download bereitstellen
         if: ${{ steps.keystore.outputs.path != '' }}
+        # Auf dem Mac liegt es schon in ~/Downloads, dort darf ein voller
+        # Artefaktspeicher den Lauf nicht rot faerben. Auf GitHubs Rechnern ist
+        # das Artefakt der einzige Weg an die Datei.
+        continue-on-error: ${{ inputs.laeufer == 'mac' }}
         uses: actions/upload-artifact@v4
         with:
           name: weltgeschichte-android-aab
@@ -66,3 +99,7 @@ jobs:
         run: |
           echo "## Android-Build erfolgreich (nur Test-Build)" >> "$GITHUB_STEP_SUMMARY"
           echo "Für das Google-Play-Bundle fehlen noch die Secrets ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD. Einmalig den Workflow „Android Signierschlüssel erzeugen“ ausführen und die Werte eintragen (siehe docs/APP-STORES.md)." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Signierschluessel entfernen
+        if: always()
+        run: rm -f "$RUNNER_TEMP/upload.jks"

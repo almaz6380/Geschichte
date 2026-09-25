@@ -30,9 +30,9 @@ npm start            # entspricht: python3 -m http.server 8080
 # dann http://localhost:8080/ öffnen
 ```
 
-## Veröffentlichen (GitHub Pages)
+## Veröffentlichen
 
-Der Workflow `.github/workflows/pages.yml` veröffentlicht bei jedem Push auf `main` automatisch nach GitHub Pages. Dafür einmalig in den Repository-Einstellungen unter **Pages** als Quelle **GitHub Actions** wählen. Alle Pfade sind relativ, das Routing läuft über `#/…`, daher ist keine weitere Konfiguration nötig.
+Die Web-App läuft auf Vercel (https://geschichte-gilt.vercel.app) und aktualisiert sich bei jedem Push auf `main`. GitHub Pages ist seit dem 25.09.2026 abgeschaltet: Das Repository ist privat, und Pages gibt es im kostenlosen GitHub-Plan nur für öffentliche Repositories. Alle Pfade sind relativ, das Routing läuft über `#/…`.
 
 Bei Änderungen an Code, Styles oder Seiten die Konstante `VERSION` in `sw.js` erhöhen, damit installierte Apps die neue Version laden. Inhalte (`data/`) lädt der Service Worker zuerst aus dem Netz, sie kommen auch ohne Versionssprung an.
 
