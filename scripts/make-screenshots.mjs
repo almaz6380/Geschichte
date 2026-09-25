@@ -72,8 +72,7 @@ try {
   }
 
   // Funktionsgrafik 1024×500 für Google Play
-  const svg = readFileSync(path.join(ROOT, 'icons', 'icon.svg'), 'utf8');
-  const uri = 'data:image/svg+xml;base64,' + Buffer.from(svg).toString('base64');
+  const uri = 'data:image/png;base64,' + readFileSync(path.join(ROOT, 'icons', 'icon-source.png')).toString('base64');
   const page = await browser.newPage({ viewport: { width: 1024, height: 500 } });
   await page.setContent(`<html><body style="margin:0"><div style="width:1024px;height:500px;background:linear-gradient(135deg,#d97706,#7c2d12);display:flex;align-items:center;justify-content:center;gap:48px;font-family:Georgia,serif;color:#fff7ed">
     <img src="${uri}" style="width:280px;height:280px;border-radius:62px;box-shadow:0 20px 60px rgba(0,0,0,.35)">
