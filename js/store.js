@@ -49,10 +49,6 @@ export function toggleBookmark(type, id) {
   emit('bookmarks');
   return i < 0;
 }
-export function bookmarkCount() {
-  const bm = getBookmarks();
-  return bm.epoch.length + bm.event.length + bm.person.length;
-}
 
 // Quiz-Fortschritt: { [mode]: { best, total, attempts, lastScore, lastAt } }
 export function getQuizProgress() { return read('quiz.progress', {}); }
@@ -79,3 +75,17 @@ export function setTimelineFilters(f) { write('timeline.filters', f); }
 // Install-Hinweis ausgeblendet?
 export function isInstallHintDismissed() { return read('install.dismissed', false); }
 export function dismissInstallHint() { write('install.dismissed', true); }
+
+// Alle gespeicherten Daten der App löschen (Lesezeichen, Quiz, Filter, Farbschema, Sprache, Hinweise).
+export function resetAllData() {
+  memory.clear();
+  try {
+    for (let i = localStorage.length - 1; i >= 0; i--) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith(PREFIX)) localStorage.removeItem(k);
+    }
+  } catch {
+    /* Speicher nicht verfügbar */
+  }
+  emit('reset');
+}

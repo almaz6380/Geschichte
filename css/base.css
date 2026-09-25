@@ -94,6 +94,8 @@ ul { padding-left: 1.2em; }
   background: var(--accent); color: var(--accent-contrast); padding: 8px 12px; border-radius: 8px;
 }
 .skip-link:focus { left: 8px; }
+/* Programmatisch fokussierte Überschriften (Seitenwechsel) ohne Fokusrahmen. */
+.view h1[tabindex="-1"]:focus { outline: none; }
 
 /* Header */
 .app-header {
@@ -120,6 +122,11 @@ ul { padding-left: 1.2em; }
 }
 .top-nav a:hover { background: var(--bg-muted); text-decoration: none; color: var(--text); }
 .top-nav a[aria-current="page"] { background: var(--accent); color: var(--accent-contrast); }
+/* Zwischen Tablet- und Desktopbreite enger setzen, damit alle Einträge in eine Zeile passen. */
+@media (max-width: 1099px) {
+  .top-nav { gap: 2px; margin-left: 8px; }
+  .top-nav a { padding: 6px 8px; font-size: 0.9rem; }
+}
 .header-actions { margin-left: auto; display: flex; align-items: center; gap: 4px; }
 .icon-btn {
   display: inline-flex; align-items: center; justify-content: center;
@@ -160,10 +167,13 @@ ul { padding-left: 1.2em; }
 .bottom-nav a[aria-current="page"] { color: var(--accent); }
 
 @media (min-width: 768px) {
+  .view { padding: 28px 24px 48px; }
+}
+/* Obere Navigation erst, wenn alle Einträge samt Kopfzeilen-Aktionen in eine Zeile passen. */
+@media (min-width: 1024px) {
   body { padding-bottom: 0; }
   .top-nav { display: flex; }
   .bottom-nav { display: none; }
-  .view { padding: 28px 24px 48px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

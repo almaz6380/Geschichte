@@ -1,6 +1,7 @@
 import { DB } from '../data.js';
 import { esc, termItem, setTitle, emptyState, bindAnchorScroll } from '../ui.js';
 import { setQuery } from '../router.js';
+import { normalize } from '../search.js';
 import { t, plural } from '../i18n.js';
 
 // Anfangsbuchstabe ohne Diakritika, damit É, Ä oder Ç unter E, A und C einsortiert werden.
@@ -46,10 +47,11 @@ export function render(el, { id } = {}, { query } = { query: new URLSearchParams
 
   function draw() {
     setQuery({ q: filter || null, epoche: epoch || null });
-    const f = filter.trim().toLowerCase();
+    // Wie die globale Suche: Umlaute und Akzente spielen keine Rolle ("Pharao" = "Pharaó").
+    const f = normalize(filter);
     let items = DB.glossary;
     if (epoch) items = items.filter((g) => g.epochId === epoch);
-    if (f) items = items.filter((g) => g.term.toLowerCase().includes(f) || g.definition.toLowerCase().includes(f));
+    if (f) items = items.filter((g) => normalize(g.term).includes(f) || normalize(g.definition).includes(f));
     const groups = new Map();
     for (const g of items) {
       const L = letterOf(g.term);

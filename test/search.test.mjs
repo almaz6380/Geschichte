@@ -6,7 +6,9 @@ import { loadData } from '../scripts/validate-data.mjs';
 test('normalize: Umlaute, ß, Diakritika, Sonderzeichen', () => {
   assert.equal(normalize('Völkerschlacht bei Leipzig!'), 'voelkerschlacht bei leipzig');
   assert.equal(normalize('Straße – Café'), 'strasse cafe');
-  assert.deepEqual(tokenize('Der  Kalte Krieg'), ['der', 'kalte', 'krieg']);
+  assert.deepEqual(tokenize('Der  Kalte Krieg'), ['kalte', 'krieg']);
+  // Nur Füllwörter: trotzdem suchen statt leer zurückzugeben.
+  assert.deepEqual(tokenize('der die'), ['der', 'die']);
 });
 
 test('Suche findet Titeltreffer zuerst', () => {
@@ -37,4 +39,24 @@ test('zu kurze Anfrage liefert nichts', () => {
 test('Snippet markiert Treffer', () => {
   const s = makeSnippet('Der Fall der Berliner Mauer beendete die Teilung.', ['mauer'], (x) => x);
   assert.match(s, /<mark>Mauer<\/mark>/);
+});
+
+test('Mehrwort-Suche: Treffer für alle Wörter verdrängen Teiltreffer', () => {
+  const db = loadData();
+  const index = buildIndex(db);
+  const res = search(index, 'Karl der Große');
+  assert.ok(res.length > 0);
+  assert.match(res[0].doc.title, /Karl der Große/);
+  assert.ok(res.every((r) => r.tokens.every((tk) => r.doc.titleN.includes(tk) || r.doc.textN.includes(tk) || r.doc.tagsN.some((x) => x.includes(tk)))));
+});
+
+test('Jahreszahlen finden die Ereignisse dieses Jahres', () => {
+  const db = loadData();
+  const index = buildIndex(db);
+  const res = search(index, '1789');
+  assert.ok(res.length > 0);
+  const top = res[0].doc;
+  assert.equal(top.type, 'event');
+  const ev = db.events.find((e) => e.id === top.id);
+  assert.ok(ev.year === 1789 || ev.endYear === 1789);
 });

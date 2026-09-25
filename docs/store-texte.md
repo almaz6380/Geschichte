@@ -53,7 +53,7 @@ UMFANG
 
 `geschichte,weltgeschichte,lernen,quiz,epochen,zeitleiste,antike,mittelalter,schule,abitur,wissen`
 
-## Versionshinweise (Release Notes) für 2.1.0
+## Versionshinweise (Release Notes) für 1.0.0
 
 ```
 Erste Veröffentlichung: 14 Epochen, 8 Querschnittsthemen, Zeitleiste, Glossar, Quiz, Suche und Lesezeichen. Komplett offline.

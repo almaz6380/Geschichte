@@ -27,6 +27,7 @@ if (IS_NATIVE) document.documentElement.classList.add('native');
 
 const view = document.getElementById('view');
 let cleanup = null;
+let firstRender = true;
 
 addRoute('/', home.render);
 addRoute('/epochen', epochs.render);
@@ -67,13 +68,32 @@ function markNav(path) {
 function onNavigate(match, ctx) {
   if (typeof cleanup === 'function') { try { cleanup(); } catch { /* ignore */ } cleanup = null; }
   markNav(ctx.path);
-  window.scrollTo(0, 0);
+  if (!ctx.rerender) window.scrollTo(0, 0);
   try {
     cleanup = match ? match.handler(view, match.params, ctx) : notfound.render(view, {}, ctx);
   } catch (err) {
     console.error(err);
     view.innerHTML = `<div class="empty card"><h2>${esc(t('app.error'))}</h2><p>${esc(err.message)}</p></div>`;
   }
+  // Nach einem Seitenwechsel den Fokus auf die neue Überschrift setzen, damit Tastatur-
+  // und Screenreader-Nutzer nicht auf einem verschwundenen Link stehen bleiben.
+  if (!firstRender && !ctx.rerender && !view.contains(document.activeElement)) focusView();
+  firstRender = false;
+}
+
+function focusView() {
+  const h1 = view.querySelector('h1');
+  const target = h1 || view;
+  if (h1 && !h1.hasAttribute('tabindex')) h1.setAttribute('tabindex', '-1');
+  target.focus({ preventScroll: true });
+}
+
+function setupSkipLink() {
+  // "#view" würde als Route gelesen; stattdessen direkt fokussieren.
+  document.querySelector('.skip-link')?.addEventListener('click', (e) => {
+    e.preventDefault();
+    focusView();
+  });
 }
 
 function setupTheme() {
@@ -169,6 +189,7 @@ function setupLangPicker() {
     }
     sel.value = getLang();
     applyStaticTexts();
+    applyTheme();
     rerender();
   });
 }
@@ -180,6 +201,7 @@ async function main() {
   setupInstall();
   setupServiceWorker();
   setupLangPicker();
+  setupSkipLink();
   document.addEventListener('click', (e) => { handleBookmarkClick(e); });
   try {
     await loadLanguageData();

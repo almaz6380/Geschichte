@@ -1,10 +1,27 @@
 import { DB } from '../data.js';
 import { esc, setTitle } from '../ui.js';
-import { getQuizProgress, bookmarkCount, resetQuizProgress, getTheme } from '../store.js';
-import { cycleTheme, themeLabel } from '../theme.js';
+import { getQuizProgress, getBookmarks, resetQuizProgress, resetAllData, getTheme } from '../store.js';
+import { cycleTheme, themeLabel, applyTheme } from '../theme.js';
 import { showToast } from '../ui.js';
 import { APP_VERSION } from '../version.js';
-import { t, plural } from '../i18n.js';
+import { t, plural, getLang } from '../i18n.js';
+
+const WEB_BASE = 'https://geschichte-gilt.vercel.app/';
+
+// Rechtliche Seiten je Sprache; in der nativen App liegen sie online und öffnen im Browser.
+function legalLink(de, en, label) {
+  const file = getLang() === 'de' ? de : en;
+  const native = window.wgIsNative;
+  return `<a class="btn btn-small" href="${native ? WEB_BASE + file : './' + file}"${native ? ' target="_blank" rel="noopener"' : ''}>${esc(label)}</a>`;
+}
+
+// Nur Lesezeichen zählen, deren Inhalt es (noch) gibt – wie auf der Lesezeichen-Seite.
+function bookmarkTotal() {
+  const bm = getBookmarks();
+  return bm.epoch.filter((id) => DB.epochsById.has(id)).length
+    + bm.event.filter((id) => DB.eventsById.has(id)).length
+    + bm.person.filter((id) => DB.personsById.has(id)).length;
+}
 
 export function render(el) {
   setTitle(t('nav.more'));
@@ -22,7 +39,7 @@ export function render(el) {
         <a class="card card-link hub-card" href="#/glossar"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-glossary"/></svg><span><span class="title">${esc(t('glossary.title'))}</span><span class="sub">${esc(t('home.hub.glossary.sub', { terms: plural(DB.glossary.length, 'unit.term') }))}</span></span></a>
         <a class="card card-link hub-card" href="#/regionen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-globe"/></svg><span><span class="title">${esc(t('regions.title'))}</span><span class="sub">${esc(t('more.regions.sub'))}</span></span></a>
         <a class="card card-link hub-card" href="#/suche"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg><span><span class="title">${esc(t('search.title'))}</span><span class="sub">${esc(t('more.search.sub'))}</span></span></a>
-        <a class="card card-link hub-card" href="#/lesezeichen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg><span><span class="title">${esc(t('bookmarks.title'))}</span><span class="sub">${esc(t('more.bookmarks.sub', { entries: plural(bookmarkCount(), 'unit.entry') }))}</span></span></a>
+        <a class="card card-link hub-card" href="#/lesezeichen"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bookmark"/></svg><span><span class="title">${esc(t('bookmarks.title'))}</span><span class="sub">${esc(t('more.bookmarks.sub', { entries: plural(bookmarkTotal(), 'unit.entry') }))}</span></span></a>
         <a class="card card-link hub-card" href="#/quiz"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-quiz"/></svg><span><span class="title">${esc(t('nav.quiz'))}</span><span class="sub">${esc(t('home.progress.title', { done: mastered, total: DB.epochs.length }))}</span></span></a>
       </div>
     </section>
@@ -39,9 +56,13 @@ export function render(el) {
           <button type="button" class="btn btn-small" id="more-reset">${esc(t('more.progress.action'))}</button>
         </div>
         <div class="setting-row">
+          <span><span class="title">${esc(t('more.data.title'))}</span><span class="sub">${esc(t('more.data.sub'))}</span></span>
+          <button type="button" class="btn btn-small" id="more-wipe">${esc(t('more.data.action'))}</button>
+        </div>
+        ${'caches' in window && !window.wgIsNative ? `<div class="setting-row">
           <span><span class="title">${esc(t('more.offline.title'))}</span><span class="sub">${esc(t('more.offline.sub'))}</span></span>
           <button type="button" class="btn btn-small" id="more-refresh">${esc(t('more.offline.action'))}</button>
-        </div>
+        </div>` : ''}
       </div>
     </section>
 
@@ -60,8 +81,8 @@ export function render(el) {
         <p class="muted">${esc(t('more.about.note'))}</p>
         <p class="muted">${esc(t('more.version', { version: APP_VERSION, kind: window.wgIsNative ? t('more.kind.native') : t('more.kind.pwa') }))}</p>
         <p>
-          <a class="btn btn-small" href="${window.wgIsNative ? 'https://geschichte-gilt.vercel.app/datenschutz.html' : './datenschutz.html'}" ${window.wgIsNative ? 'target="_blank" rel="noopener"' : ''}>${esc(t('more.privacy'))}</a>
-          <a class="btn btn-small" href="${window.wgIsNative ? 'https://geschichte-gilt.vercel.app/impressum.html' : './impressum.html'}" ${window.wgIsNative ? 'target="_blank" rel="noopener"' : ''}>${esc(t('more.imprint'))}</a>
+          ${legalLink('datenschutz.html', 'privacy.html', t('more.privacy'))}
+          ${legalLink('impressum.html', 'imprint.html', t('more.imprint'))}
         </p>
       </div>
     </section>
@@ -74,7 +95,17 @@ export function render(el) {
   el.querySelector('#more-reset').addEventListener('click', () => {
     if (confirm(t('quiz.reset.confirm'))) { resetQuizProgress(); showToast(t('more.progress.done')); render(el); }
   });
-  el.querySelector('#more-refresh').addEventListener('click', async () => {
+  el.querySelector('#more-wipe').addEventListener('click', () => {
+    if (!confirm(t('more.data.confirm'))) return;
+    resetAllData();
+    applyTheme();
+    showToast(t('more.data.done'));
+    render(el);
+  });
+  el.querySelector('#more-refresh')?.addEventListener('click', async () => {
+    // Ohne Verbindung würde das Löschen der Caches die App bis zum nächsten Online-Gang unbrauchbar machen.
+    const online = navigator.onLine && await fetch('./index.html', { cache: 'no-store' }).then((r) => r.ok, () => false);
+    if (!online) { showToast(t('more.offline.noNetwork')); return; }
     try {
       const keys = await caches.keys();
       await Promise.all(keys.map((k) => caches.delete(k)));

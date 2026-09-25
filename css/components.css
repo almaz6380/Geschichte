@@ -155,7 +155,7 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
 }
 .toast[hidden] { display: none; }
 .toast button { background: transparent; border: 0; color: var(--accent); font-weight: 700; cursor: pointer; padding: 4px; }
-@media (min-width: 768px) { .toast { bottom: 24px; } }
+@media (min-width: 1024px) { .toast { bottom: 24px; } }
 
 /* Install hint */
 .install-hint { border-left: 6px solid var(--accent); }
@@ -170,7 +170,7 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
 .legend .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
 
 .to-top { position: fixed; right: 16px; bottom: calc(var(--nav-h) + 16px + env(safe-area-inset-bottom)); z-index: 40; }
-@media (min-width: 768px) { .to-top { bottom: 24px; } }
+@media (min-width: 1024px) { .to-top { bottom: 24px; } }
 
 /* ===== Version 2: Gliederung ===== */
 .intro-text { max-width: 70ch; font-size: 1.05rem; }

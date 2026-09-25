@@ -59,7 +59,7 @@ In App Store Connect bei der App:
 1. **App-Informationen**: Kategorie **Bildung**, Zweitkategorie **Nachschlagewerke**; Inhaltsrechte „enthält keine Inhalte Dritter“; Altersfreigabe: Fragebogen, alles „Nein“ → 4+.
 2. **Preis und Verfügbarkeit**: Kostenlos, alle Länder.
 3. **App-Datenschutz**: „Beginnen“ → **Nein, wir erheben keine Daten**. URL: `https://geschichte-gilt.vercel.app/datenschutz.html`.
-4. **Version 2.1** (linke Spalte, „iOS-App“):
+4. **Version 1.0** (linke Spalte, „iOS-App“). Die Versionsnummer muss exakt der App-Version entsprechen (`package.json`, derzeit 1.0.0), sonst erscheint der Build nicht in der Auswahl:
    - Screenshots 6,7″ aus `docs/screenshots/iphone-67/`, 6,5″ aus `iphone-65/`, iPad 13″ aus `ipad-13/` hochladen (je 3–6 Bilder).
    - Werbetext, Beschreibung, Schlüsselwörter aus `docs/store-texte.md`.
    - Support-URL `https://github.com/almaz6380/Geschichte`, Marketing-URL `https://geschichte-gilt.vercel.app`.
