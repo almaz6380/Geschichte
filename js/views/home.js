@@ -1,7 +1,10 @@
 import { DB, randomEvent } from '../data.js';
-import { esc, epochTile, themeTile, regionTile, formatRange, regionChip, epochChip, setTitle, sectionHead } from '../ui.js';
+import { esc, epochTile, themeTile, regionTile, formatRange, regionChip, epochChip, setTitle, sectionHead, progressBar } from '../ui.js';
 import { getQuizProgress, isInstallHintDismissed, dismissInstallHint } from '../store.js';
 import { t, plural } from '../i18n.js';
+
+// Nur ein Listener für "App installierbar", egal wie oft die Startseite gezeichnet wird.
+let onInstallable = null;
 
 export function render(el, params, ctx) {
   setTitle('');
@@ -62,7 +65,7 @@ export function render(el, params, ctx) {
       <section class="card">
         <div class="muted">${esc(t('home.progress.kicker'))}</div>
         <h3>${esc(t('home.progress.title', { done: mastered, total: DB.epochs.length }))}</h3>
-        <div class="progress" aria-label="${esc(t('home.progress.label'))}"><span style="width:${DB.epochs.length ? Math.round((mastered / DB.epochs.length) * 100) : 0}%"></span></div>
+        ${progressBar(DB.epochs.length ? (mastered / DB.epochs.length) * 100 : 0, t('home.progress.label'))}
         <p class="muted" style="margin-top:8px">${esc(t('home.progress.hint'))}</p>
         <a class="btn btn-small" href="#/quiz">${esc(t('home.progress.link'))}</a>
       </section>
@@ -96,12 +99,17 @@ export function render(el, params, ctx) {
     </section>
   `;
 
-  el.querySelector('#random-again')?.addEventListener('click', () => render(el, params, ctx));
+  el.querySelector('#random-again')?.addEventListener('click', () => {
+    render(el, params, ctx);
+    el.querySelector('#random-again')?.focus({ preventScroll: true });
+  });
   el.querySelector('#install-now')?.addEventListener('click', () => window.wgInstall?.prompt());
   el.querySelector('#ios-hint-close')?.addEventListener('click', () => {
     dismissInstallHint();
     el.querySelector('#ios-hint')?.remove();
   });
-  const onInstallable = () => { if (location.hash === '#/' || location.hash === '') render(el, params, ctx); };
+  if (onInstallable) document.removeEventListener('wg:installable', onInstallable);
+  onInstallable = () => { if (location.hash === '#/' || location.hash === '') render(el, params, ctx); };
   document.addEventListener('wg:installable', onInstallable, { once: true });
+  return () => { document.removeEventListener('wg:installable', onInstallable); onInstallable = null; };
 }

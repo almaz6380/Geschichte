@@ -34,7 +34,7 @@ npm start            # entspricht: python3 -m http.server 8080
 
 Der Workflow `.github/workflows/pages.yml` veröffentlicht bei jedem Push auf `main` automatisch nach GitHub Pages. Dafür einmalig in den Repository-Einstellungen unter **Pages** als Quelle **GitHub Actions** wählen. Alle Pfade sind relativ, das Routing läuft über `#/…`, daher ist keine weitere Konfiguration nötig.
 
-Bei Änderungen an App-Dateien die Konstante `VERSION` in `sw.js` erhöhen, damit installierte Apps die neue Version laden.
+Bei Änderungen an Code, Styles oder Seiten die Konstante `VERSION` in `sw.js` erhöhen, damit installierte Apps die neue Version laden. Inhalte (`data/`) lädt der Service Worker zuerst aus dem Netz, sie kommen auch ohne Versionssprung an.
 
 ## Inhalte pflegen
 
@@ -91,9 +91,9 @@ npm run ios           # öffnet Xcode (Mac)
 npm run android       # öffnet Android Studio
 ```
 
-Bundle-ID `de.almaz.weltgeschichte`, Version in `package.json`, `js/version.js`, Xcode (`MARKETING_VERSION`) und `android/app/build.gradle`. Icons und Startbildschirme werden aus `assets/` mit `npm run assets` erzeugt (Vorlagen mit `node scripts/make-store-assets.mjs`).
+Bundle-ID `de.almaz.weltgeschichte`, Version in `package.json`, `js/version.js`, Xcode (`MARKETING_VERSION`) und `android/app/build.gradle` – alle vier müssen übereinstimmen (prüft `npm test`) und zur Version in App Store Connect passen, sonst lässt sich der Build dort nicht auswählen. Icons und Startbildschirme werden aus `assets/` mit `npm run assets` erzeugt (Vorlagen mit `node scripts/make-store-assets.mjs`).
 
-Die Apps werden per GitHub Actions in der Cloud gebaut (`.github/workflows/ios.yml`, `android.yml`), ganz ohne eigenen Mac: iOS wird mit fastlane (`ios/App/fastlane/Fastfile`) signiert und automatisch nach App Store Connect hochgeladen, für Android entsteht das App-Bundle als Download. Die vollständige Anleitung für den Browser-Weg steht in **[docs/APP-STORES.md](docs/APP-STORES.md)**, Store-Texte in [docs/store-texte.md](docs/store-texte.md), fertige Screenshots in `docs/screenshots/` (`node scripts/make-screenshots.mjs`). Die Datenschutzerklärung liegt unter `datenschutz.html`.
+Die Apps werden per GitHub Actions in der Cloud gebaut (`.github/workflows/ios.yml`, `android.yml`), ganz ohne eigenen Mac: iOS wird mit fastlane (`ios/App/fastlane/Fastfile`) signiert und automatisch nach App Store Connect hochgeladen, für Android entsteht das App-Bundle als Download. Die vollständige Anleitung für den Browser-Weg steht in **[docs/APP-STORES.md](docs/APP-STORES.md)**, Store-Texte in [docs/store-texte.md](docs/store-texte.md), fertige Screenshots in `docs/screenshots/` (`node scripts/make-screenshots.mjs`). Datenschutzerklärung und Impressum liegen unter `datenschutz.html` und `impressum.html`, die englischen Fassungen unter `privacy.html` und `imprint.html`.
 
 ## Browser-Test
 

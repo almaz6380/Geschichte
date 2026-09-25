@@ -1,11 +1,13 @@
 /* Service Worker: Precache aller App-Dateien, cache-first mit Netz-Fallback. */
-const VERSION = 'wg-v4';
+const VERSION = 'wg-v5';
 const PRECACHE = [
   './',
   './index.html',
   './manifest.webmanifest',
   './datenschutz.html',
   './impressum.html',
+  './privacy.html',
+  './imprint.html',
   './css/base.css',
   './css/components.css',
   './css/timeline.css',
@@ -41,8 +43,7 @@ const PRECACHE = [
   './js/strings/es.js',
   './js/strings/it.js',
   './js/strings/pt.js',
-  // Nur die Standardsprache wird vorab gespeichert; weitere Sprachen landen beim
-  // ersten Wechsel über die Laufzeit-Zwischenspeicherung im Cache.
+  // Inhalte aller freigeschalteten Sprachen, damit ein Sprachwechsel auch offline klappt.
   './data/de/regions.json',
   './data/de/epochs.json',
   './data/de/events.json',
@@ -50,6 +51,13 @@ const PRECACHE = [
   './data/de/quiz.json',
   './data/de/glossary.json',
   './data/de/themes.json',
+  './data/en/regions.json',
+  './data/en/epochs.json',
+  './data/en/events.json',
+  './data/en/persons.json',
+  './data/en/quiz.json',
+  './data/en/glossary.json',
+  './data/en/themes.json',
   './icons/icon.svg',
   './icons/icon-192.png',
   './icons/icon-512.png',
@@ -77,10 +85,30 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
 
-  // Navigationsanfragen: App-Shell liefern (Hash-Routing braucht keine Server-Routen).
+  // Navigationsanfragen: Eigene HTML-Seiten (Datenschutz, Impressum) direkt liefern,
+  // sonst die App-Shell (Hash-Routing braucht keine Server-Routen).
   if (req.mode === 'navigate') {
+    const isPage = /\/[^/]+\.html$/.test(url.pathname) && !url.pathname.endsWith('/index.html');
     event.respondWith(
-      caches.match('./index.html').then((cached) => cached || fetch(req))
+      isPage
+        ? caches.match(req, { ignoreSearch: true }).then((cached) => cached || fetch(req))
+        : caches.match('./index.html').then((cached) => cached || fetch(req))
+    );
+    return;
+  }
+
+  // Inhalte (data/*.json): zuerst das Netz, damit neue Inhalte ohne Versionssprung
+  // ankommen; offline oder bei Fehlern greift der Cache.
+  if (url.pathname.includes('/data/') && url.pathname.endsWith('.json')) {
+    event.respondWith(
+      fetch(req).then((res) => {
+        if (res && res.ok && res.type === 'basic') {
+          const copy = res.clone();
+          caches.open(VERSION).then((cache) => cache.put(req, copy));
+          return res;
+        }
+        return caches.match(req, { ignoreSearch: true }).then((cached) => cached || res);
+      }).catch(() => caches.match(req, { ignoreSearch: true }).then((cached) => cached || Response.error()))
     );
     return;
   }

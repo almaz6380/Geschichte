@@ -1,10 +1,16 @@
 import { DB } from '../data.js';
 import { esc, formatRange, lifeSpan, epochRange, setTitle } from '../ui.js';
-import { buildIndex, search, makeSnippet } from '../search.js';
+import { buildIndex, search, makeSnippet, tokenize } from '../search.js';
 import { setQuery } from '../router.js';
 import { t, plural } from '../i18n.js';
 
+// Index je geladenem Datenstand; nach einem Sprachwechsel ersetzt loadData DB.events.
 let index = null;
+let indexSource = null;
+function getIndex() {
+  if (!index || indexSource !== DB.events) { index = buildIndex(DB); indexSource = DB.events; }
+  return index;
+}
 
 const TYPE_KEY = { epoch: 'unit.epoch.one', event: 'unit.event.one', person: 'unit.person.one', term: 'unit.term.one', theme: 'unit.theme.one' };
 const typeLabel = (type) => t(TYPE_KEY[type] || 'unit.event.one');
@@ -32,7 +38,6 @@ function subline(doc) {
 
 export function render(el, params, { query }) {
   setTitle(t('search.title'));
-  if (!index) index = buildIndex(DB);
   const q = query.get('q') || '';
   let typeFilter = '';
 
@@ -75,7 +80,7 @@ export function render(el, params, { query }) {
         </a>`).join('')}</div>`;
   }
 
-  const EXAMPLES = ['Napoleon', 'Revolution', 'China', 'Demokratie', 'Mauer'];
+  const EXAMPLES = t('search.examples').split(',').map((x) => x.trim()).filter(Boolean);
 
   const run = (term) => {
     const needle = term.trim();
@@ -86,7 +91,12 @@ export function render(el, params, { query }) {
       out.innerHTML = `<p class="muted">${esc(t('search.hint'))} ${links}.</p>`;
       return;
     }
-    lastResults = search(index, needle, 80);
+    if (!tokenize(needle).length) {
+      lastResults = []; renderTypes();
+      out.innerHTML = `<p class="muted">${esc(t('search.tooShort'))}</p>`;
+      return;
+    }
+    lastResults = search(getIndex(), needle, 80);
     typeFilter = '';
     renderTypes();
     if (!lastResults.length) {

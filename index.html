@@ -42,6 +42,7 @@
       <a href="#/glossar" data-nav="glossar" data-i18n="nav.glossary">Glossar</a>
       <a href="#/quiz" data-nav="quiz" data-i18n="nav.quiz">Quiz</a>
       <a href="#/lesezeichen" data-nav="lesezeichen" data-i18n="nav.bookmarks">Lesezeichen</a>
+      <a href="#/mehr" data-nav="mehr" data-i18n="nav.more">Mehr</a>
     </nav>
     <div class="header-actions">
       <button id="install-btn" class="btn btn-small" type="button" data-i18n="app.install" hidden>App installieren</button>
@@ -58,7 +59,7 @@
     </div>
   </header>
 
-  <main id="view" class="view" tabindex="-1" aria-live="polite">
+  <main id="view" class="view" tabindex="-1">
     <div class="loading" data-i18n="app.loading">Inhalte werden geladen …</div>
   </main>
 
@@ -71,6 +72,7 @@
   </nav>
 
   <div id="toast" class="toast" role="status" hidden></div>
+  <div id="sr-status" class="sr-only" role="status" aria-live="polite"></div>
 
   <svg width="0" height="0" style="position:absolute" aria-hidden="true">
     <defs>

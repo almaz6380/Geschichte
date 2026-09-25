@@ -39,6 +39,7 @@ export function shuffleChoices(q, rng = Math.random) {
     ...q,
     choices: idx.map((i) => q.choices[i]),
     answer: idx.indexOf(q.answer),
+    order: idx, // ursprüngliche Reihenfolge, um die Frage in einer anderen Sprache gleich anzuordnen
   };
 }
 
@@ -48,6 +49,17 @@ export function createSession(questions, rng = Math.random) {
     index: 0,
     answers: [], // gewählter Index pro Frage
   };
+}
+
+// Fragen einer laufenden Runde durch die Fassung in einer anderen Sprache ersetzen
+// (gleiche IDs, gleiche Antwortreihenfolge), damit ein Sprachwechsel die Runde nicht abbricht.
+export function relocalize(session, questionsById) {
+  session.questions = session.questions.map((q) => {
+    const src = questionsById.get(q.id);
+    if (!src || !q.order) return q;
+    return { ...src, choices: q.order.map((i) => src.choices[i]), answer: q.answer, order: q.order };
+  });
+  return session;
 }
 
 export function answer(session, choiceIndex) {

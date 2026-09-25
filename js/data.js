@@ -111,12 +111,14 @@ export function themeEvents(theme) {
 
 // Jahrhundert-Label für Gruppierungen, z. B. "5. Jahrhundert v. Chr."
 export function centuryLabel(year) {
+  if (year === 0) year = -1; // kein Jahr 0
   if (year <= -10000) return t('century.earliest');
   if (year < 0) return t('century.bc', { n: ordinal(Math.ceil(-year / 100)) });
   return t('century.ad', { n: ordinal(Math.floor((year - 1) / 100) + 1) });
 }
 
 export function centuryKey(year) {
+  if (year === 0) year = -1;
   if (year <= -10000) return -1000;
   if (year < 0) return -Math.ceil(-year / 100);
   return Math.floor((year - 1) / 100) + 1;

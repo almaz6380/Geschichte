@@ -15,25 +15,30 @@ function num(n) {
   return nfCache.nf.format(n);
 }
 
+// Ab 10 000 mit Tausendertrennzeichen ("12.000 v. Chr."), darunter ohne ("2055 v. Chr.").
+function yearNum(abs) { return abs >= 10000 ? num(abs) : String(abs); }
+
+// Ein Jahr 0 gibt es nicht; falls es in Daten auftaucht, als 1 v. Chr. behandeln.
+const fixYear = (y) => (y === 0 ? -1 : y);
+
 export function formatYear(year, approx = false) {
   if (year === null || year === undefined) return t('year.unknown');
-  const abs = Math.abs(year);
-  const n = abs >= 10000 ? num(abs) : String(abs);
-  const s = year < 0 ? t('year.bc', { n }) : (abs < 1000 ? t('year.ad', { n }) : n);
+  year = fixYear(year);
+  const n = yearNum(Math.abs(year));
+  const s = year < 0 ? t('year.bc', { n }) : (year < 1000 ? t('year.ad', { n }) : n);
   return approx ? t('year.approx', { s }) : s;
 }
 
 export function formatRange(start, end, approx = false) {
   if (end === null || end === undefined || end === start) return formatYear(start, approx);
-  if (start < 0 && end < 0) {
-    const s = t('year.bc', { n: `${num(-start)}–${num(-end)}` });
-    return approx ? t('year.approx', { s }) : s;
-  }
-  if (start > 0 && end > 0 && start >= 1000 && end >= 1000) {
-    const s = `${start}–${end}`;
-    return approx ? t('year.approx', { s }) : s;
-  }
-  return `${formatYear(start, approx)} – ${formatYear(end)}`;
+  start = fixYear(start); end = fixYear(end);
+  let s;
+  if (start < 0 && end < 0) s = t('year.bc', { n: `${yearNum(-start)}–${yearNum(-end)}` });
+  else if (start > 0 && end >= 1000 && start >= 1000) s = `${start}–${end}`;
+  // Beide n. Chr., aber mindestens eines unter 1000: Zusatz nur einmal ("800–1200 n. Chr.").
+  else if (start > 0 && end > 0) s = t('year.ad', { n: `${start}–${end}` });
+  else return `${formatYear(start, approx)} – ${formatYear(end)}`;
+  return approx ? t('year.approx', { s }) : s;
 }
 
 export function epochRange(e) {
@@ -51,10 +56,14 @@ export function lifeSpan(p) {
 
 export { plural };
 
-export function regionChip(regionId) {
+// link: false für Stellen, die selbst schon ein Link sind (verschachtelte Links sind in HTML unzulässig).
+export function regionChip(regionId, { link = true } = {}) {
   const r = DB.regionsById.get(regionId);
   if (!r) return '';
-  return `<a class="chip" href="#/region/${r.id}" style="--chip-color:${r.color}"><span class="dot"></span>${esc(r.name)}</a>`;
+  const inner = `<span class="dot"></span>${esc(r.name)}`;
+  return link
+    ? `<a class="chip" href="#/region/${r.id}" style="--chip-color:${r.color}">${inner}</a>`
+    : `<span class="chip" style="--chip-color:${r.color}">${inner}</span>`;
 }
 
 export function epochChip(epochId) {
@@ -192,8 +201,24 @@ export function showToast(text, { action, onAction, sticky = false } = {}) {
   if (!sticky) toastTimer = setTimeout(() => { t.hidden = true; }, 2500);
 }
 
-export function setTitle(t) {
-  document.title = t ? `${t} – Weltgeschichte` : 'Weltgeschichte';
+export function setTitle(title) {
+  const app = t('app.name');
+  document.title = title ? `${title} – ${app}` : app;
+}
+
+// Kurze Meldung für Screenreader (unsichtbare Live-Region in index.html).
+export function announce(text) {
+  const el = document.getElementById('sr-status');
+  if (!el) return;
+  el.textContent = '';
+  // Neu setzen, damit auch dieselbe Meldung zweimal hintereinander vorgelesen wird.
+  setTimeout(() => { el.textContent = text; }, 50);
+}
+
+// Fortschrittsbalken mit ARIA-Werten.
+export function progressBar(percent, label) {
+  const p = Math.max(0, Math.min(100, Math.round(percent)));
+  return `<div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${p}"${label ? ` aria-label="${esc(label)}"` : ''}><span style="width:${p}%"></span></div>`;
 }
 
 export function backLink(href, label) {
@@ -209,7 +234,10 @@ export function sectionHead(title, id, extra = '') {
 }
 
 // Scrollt zu einem Anker innerhalb der aktuellen View (Hash bleibt Route).
+// Der Container (#view) bleibt über Seitenwechsel bestehen, daher nur einmal binden.
 export function bindAnchorScroll(container) {
+  if (container.dataset.anchorBound) return;
+  container.dataset.anchorBound = '1';
   container.addEventListener('click', (e) => {
     const a = e.target.closest('a[data-anchor]');
     if (!a) return;

@@ -11,8 +11,22 @@ export function normalize(s) {
     .trim();
 }
 
+// Füllwörter, die sonst fast jedes Dokument treffen ("Karl der Große", "Fall of Rome").
+const STOPWORDS = new Set([
+  'der', 'die', 'das', 'den', 'dem', 'des', 'ein', 'eine', 'einer', 'eines', 'und', 'oder', 'von', 'vom', 'zu', 'zum', 'zur', 'im', 'in', 'am', 'an', 'auf', 'mit', 'fur', 'fuer',
+  'the', 'of', 'and', 'or', 'a', 'an', 'to', 'in', 'on', 'at', 'for', 'by', 'with',
+]);
+
 export function tokenize(s) {
-  return normalize(s).split(' ').filter((t) => t.length >= 2);
+  const all = normalize(s).split(' ').filter((t) => t.length >= 2);
+  const words = all.filter((t) => !STOPWORDS.has(t));
+  // Besteht die Suche nur aus Füllwörtern, trotzdem danach suchen.
+  return words.length ? words : all;
+}
+
+// Jahreszahlen als Schlagworte, damit "1789" die Ereignisse dieses Jahres findet.
+function yearTags(...years) {
+  return years.filter((y) => Number.isInteger(y)).map((y) => String(Math.abs(y)));
 }
 
 // db: { epochs, events, persons, glossary?, themes? }
@@ -33,6 +47,7 @@ export function buildIndex(db) {
       titleN: normalize(ev.title),
       textN: normalize([ev.summary, ev.text].join(' ')),
       tagsN: (ev.tags || []).map(normalize),
+      yearsN: yearTags(ev.year, ev.endYear),
       snippetSrc: [ev.summary, ev.text].join(' '),
     });
   }
@@ -42,6 +57,7 @@ export function buildIndex(db) {
       titleN: normalize(p.name),
       textN: normalize([p.role, p.summary, p.text].join(' ')),
       tagsN: (p.tags || []).map(normalize),
+      yearsN: yearTags(p.born, p.died),
       snippetSrc: [p.role, p.summary, p.text].join(' '),
     });
   }
@@ -77,6 +93,7 @@ function scoreDoc(doc, tokens) {
     else if (doc.titleN.includes(t)) s = 5;
     if (doc.tagsN.some((tag) => tag === t || tag.split(' ').includes(t))) s = Math.max(s, 4);
     else if (doc.tagsN.some((tag) => tag.includes(t))) s = Math.max(s, 3);
+    if (doc.yearsN?.includes(t)) s = Math.max(s, 8);
     if (s === 0 && doc.textN.includes(t)) s = 2;
     if (s > 0) hits++;
     score += s;
@@ -86,19 +103,23 @@ function scoreDoc(doc, tokens) {
   if (doc.type === 'epoch' || doc.type === 'theme') score += 1;
   // Bei Namens-/Begriffssuche Personen und Begriffe leicht bevorzugen (Titeltreffer).
   if ((doc.type === 'person' || doc.type === 'term') && tokens.some((t) => titleWords.includes(t))) score += 1;
-  return hits === 0 ? 0 : score;
+  return hits === 0 ? 0 : { score, hits };
 }
 
 export function search(index, query, limit = 50) {
   const tokens = tokenize(query);
   if (tokens.length === 0) return [];
-  const results = [];
+  let results = [];
   for (const doc of index) {
-    const score = scoreDoc(doc, tokens);
-    if (score > 0) results.push({ doc, score });
+    const r = scoreDoc(doc, tokens);
+    if (r && r.score > 0) results.push({ doc, score: r.score, hits: r.hits });
+  }
+  // Gibt es Treffer für alle Suchwörter, fallen Teiltreffer weg.
+  if (tokens.length > 1 && results.some((r) => r.hits === tokens.length)) {
+    results = results.filter((r) => r.hits === tokens.length);
   }
   results.sort((a, b) => b.score - a.score || compare(a.doc.title, b.doc.title));
-  return results.slice(0, limit).map((r) => ({ ...r, tokens }));
+  return results.slice(0, limit).map(({ doc, score }) => ({ doc, score, tokens }));
 }
 
 // Liefert ein Textstück um den ersten Treffer, Trefferworte mit <mark> markiert (esc wird auf Rohtext angewendet).

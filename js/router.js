@@ -7,8 +7,13 @@ export function parseHash(hash = location.hash) {
   const qIndex = h.indexOf('?');
   const pathPart = qIndex >= 0 ? h.slice(0, qIndex) : h;
   const queryPart = qIndex >= 0 ? h.slice(qIndex + 1) : '';
-  const path = pathPart.split('/').filter(Boolean).map(decodeURIComponent);
+  const path = pathPart.split('/').filter(Boolean).map(safeDecode);
   return { path, query: new URLSearchParams(queryPart) };
+}
+
+// Kaputte Prozent-Kodierung (z. B. "%E0%A4") darf den Router nicht abstürzen lassen.
+function safeDecode(part) {
+  try { return decodeURIComponent(part); } catch { return part; }
 }
 
 // pattern: '/epoche/:slug'
@@ -50,15 +55,18 @@ export function setQuery(params, replace = true) {
 let onNavigate = null;
 export function startRouter(handler) {
   onNavigate = handler;
-  window.addEventListener('hashchange', dispatch);
+  window.addEventListener('hashchange', () => dispatch());
   dispatch();
 }
 
 // Aktuelle Route erneut ausführen, z. B. nach einem Sprachwechsel.
-export function rerender() { dispatch(); }
+// Die Ansicht erfährt über ctx.rerender, dass es kein neuer Seitenaufruf ist.
+export function rerender() { dispatch({ rerender: true }); }
 
-function dispatch() {
-  const { path, query } = parseHash();
+function dispatch(opts) {
+  let parsed;
+  try { parsed = parseHash(); } catch { parsed = { path: ['?'], query: new URLSearchParams() }; }
+  const { path, query } = parsed;
   const m = matchRoute(path);
-  onNavigate?.(m, { path, query });
+  onNavigate?.(m, { path, query, rerender: !!opts?.rerender });
 }

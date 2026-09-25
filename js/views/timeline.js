@@ -6,7 +6,10 @@ import { t, plural } from '../i18n.js';
 
 export function render(el, params, { query }) {
   setTitle(t('timeline.title'));
-  const remembered = getTimelineFilters();
+  // Links mit Filter (z. B. von einer Epoche oder Region) zeigen genau diesen Ausschnitt;
+  // nur ohne Parameter gelten die zuletzt gewählten Filter.
+  const hasParams = ['epoche', 'region', 'thema', 'meilensteine'].some((k) => query.has(k));
+  const remembered = hasParams ? {} : getTimelineFilters();
   let epochFilter = query.has('epoche') ? query.get('epoche') : remembered.epoch || '';
   let regionFilter = query.has('region') ? query.get('region') : remembered.region || '';
   let themeFilter = query.has('thema') ? query.get('thema') : remembered.theme || '';
@@ -74,7 +77,7 @@ export function render(el, params, { query }) {
           <span class="tl-year">${esc(formatRange(ev.year, ev.endYear, ev.approx))}</span>
           <span class="tl-title">${esc(ev.title)}${ev.importance === 3 ? ` <span class="star" title="${esc(t('ui.milestone'))}">★</span>` : ''}</span>
           <div class="tl-sum">${esc(ev.summary)}</div>
-          <div class="tl-meta">${regionChip(ev.regionId)}</div>
+          <div class="tl-meta">${regionChip(ev.regionId, { link: false })}</div>
         </a>`;
       }).join('');
       return `<section class="tl-epoch" id="tl-${e.id}" style="--epoch-color:${e.color}">

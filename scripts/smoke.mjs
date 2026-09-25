@@ -183,8 +183,20 @@ try {
   await page.goto(BASE + '#/epoche/rom', { waitUntil: 'load' }).catch(() => {});
   await page.waitForSelector('.hero h1', { timeout: 10000 }).catch(() => {});
   check(!!(await page.$('.hero h1')), 'App lädt offline (Service Worker)');
+  await page.goto(BASE + 'impressum.html').catch(() => {});
+  check((await page.textContent('h1').catch(() => '')).includes('Impressum'), 'Impressum offline erreichbar (nicht die App-Startseite)');
   await context.setOffline(false);
   }
+
+  console.log('Regressionen');
+  await page.goto(BASE + '#/zeitleiste?epoche=urgeschichte'); await page.waitForSelector('.tl-event');
+  const tlLinks = await page.$$eval('.tl-event', (x) => x.map((a) => a.getAttribute('href')));
+  check(tlLinks.length > 0 && new Set(tlLinks).size === tlLinks.length, 'Zeitleiste zeigt jedes Ereignis genau einmal');
+  await page.goto(BASE + '#/person/%E0%A4'); await page.waitForTimeout(300);
+  check(!(await page.$('#view .loading')), 'Kaputter Link bleibt nicht beim Laden hängen');
+  await page.goto(BASE + '#/epochen'); await page.waitForSelector('h1');
+  await page.focus('.skip-link'); await page.keyboard.press('Enter'); await page.waitForTimeout(100);
+  check((await page.evaluate(() => location.hash)) === '#/epochen', 'Skip-Link wechselt nicht die Seite');
 
   console.log('Desktop');
   const desk = await browser.newPage({ viewport: { width: 1280, height: 800 }, locale: LOCALE });
@@ -192,6 +204,13 @@ try {
   await desk.screenshot({ path: path.join(OUT, 'timeline-desktop.png') });
   await desk.goto(BASE + '#/epoche/rom'); await desk.waitForSelector('.hero h1');
   check((await desk.evaluate(() => getComputedStyle(document.querySelector('.toc')).position)) === 'sticky', 'Desktop: Inhaltsverzeichnis ist sticky');
+  check(await desk.isVisible('.top-nav a[href="#/mehr"]'), 'Desktop: „Mehr“ (Datenschutz, Impressum) in der Navigation');
+  for (const w of [768, 1024]) {
+    await desk.setViewportSize({ width: w, height: 800 }); await desk.waitForTimeout(100);
+    const over = await desk.evaluate(() => { const h = document.querySelector('.app-header'); return h.scrollWidth > h.clientWidth + 1; });
+    check(!over, `Kopfzeile passt bei ${w}px`);
+  }
+  await desk.setViewportSize({ width: 1280, height: 800 });
   await desk.screenshot({ path: path.join(OUT, 'epoch-desktop.png') });
   await desk.goto(BASE + '#/'); await desk.waitForSelector('.epoch-tile');
   await desk.screenshot({ path: path.join(OUT, 'home-desktop.png') });

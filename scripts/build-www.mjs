@@ -12,7 +12,7 @@ rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 
 for (const dir of ['css', 'js', 'data', 'icons']) cpSync(path.join(ROOT, dir), path.join(OUT, dir), { recursive: true });
-for (const f of ['index.html', 'manifest.webmanifest', 'datenschutz.html']) {
+for (const f of ['index.html', 'manifest.webmanifest', 'datenschutz.html', 'impressum.html', 'privacy.html', 'imprint.html']) {
   if (existsSync(path.join(ROOT, f))) copyFileSync(path.join(ROOT, f), path.join(OUT, f));
 }
 
