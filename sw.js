@@ -1,5 +1,5 @@
 /* Service Worker: Precache aller App-Dateien, cache-first mit Netz-Fallback. */
-const VERSION = 'wg-v5';
+const VERSION = 'wg-v6';
 const PRECACHE = [
   './',
   './index.html',
