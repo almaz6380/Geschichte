@@ -50,18 +50,21 @@ platform :ios do
     secret_team_id = ENV["TEAM_ID"].to_s.strip
     certs_dir     = File.expand_path(ENV.fetch("CERTS_DIR"))
     out_dir       = File.expand_path(ENV.fetch("OUT_DIR"))
-    keychain      = "weltgeschichte-ci"
     keychain_pw   = ENV.fetch("KEYCHAIN_PASSWORD")
-    keychain_path = File.expand_path("~/Library/Keychains/#{keychain}-db")
+    # Der Schluesselbund liegt unter RUNNER_TEMP (vom Workflow gesetzt) und wird
+    # nicht zum Standard-Schluesselbund: Auf Josefs Mac als Self-hosted Runner
+    # wuerde er sonst dessen eigenen Standard ersetzen und nach dem Lauf liegen
+    # bleiben. Der Workflow loescht ihn und stellt die Suchliste wieder her.
+    keychain_path = File.expand_path(ENV.fetch("KEYCHAIN_PATH"))
 
     FileUtils.mkdir_p(certs_dir)
     FileUtils.mkdir_p(out_dir)
     api_key = api_key_from_env
 
     create_keychain(
-      name: keychain,
+      path: keychain_path,
       password: keychain_pw,
-      default_keychain: true,
+      default_keychain: false,
       unlock: true,
       timeout: 0,
       lock_when_sleeps: false,

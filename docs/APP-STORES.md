@@ -109,9 +109,10 @@ Hinweis: Neue Play-Konten müssen vor der ersten Produktionsfreigabe einen gesch
 
 ## Teil C: Updates später
 
-1. Inhalte oder Code ändern (per Pull Request oder direkt auf `main`). Vercel und GitHub Pages aktualisieren die Web-App automatisch.
+1. Inhalte oder Code ändern (per Pull Request oder direkt auf `main`). Vercel aktualisiert die Web-App automatisch.
 2. Versionsnummer erhöhen: `package.json`, `js/version.js`, `MARKETING_VERSION` in `ios/App/App.xcodeproj/project.pbxproj`, `versionName` in `android/app/build.gradle`. Die Build-Nummern zählen die Workflows automatisch hoch.
 3. **Actions → iOS App → Run workflow** (lädt direkt hoch) und **Actions → Android App → Run workflow** (AAB herunterladen und in der Play Console als neuen Release hochladen).
+   Seit das Repository privat ist (25.09.2026), bauen die beiden Workflows nicht mehr bei jedem Push, sondern nur noch auf Zuruf. Beim Start **`laeufer: mac`** wählen: Dann läuft der Build auf dem eigenen Mac (Self-hosted Runner) und kostet keine GitHub-Minuten; das Android-AAB liegt danach zusätzlich unter `~/Downloads/weltgeschichte-<Nummer>.aab`. Der Mac braucht Xcode 26+, `fastlane` (`brew install fastlane`) und Android Studio, und er muss während des Builds wach sein.
 4. In App Store Connect eine neue Version anlegen, Build auswählen, einreichen.
 
 ---

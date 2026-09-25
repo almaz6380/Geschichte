@@ -7,14 +7,21 @@ on:
         description: "Optional: ID eines Distribution-Zertifikats, das vor dem Lauf widerrufen werden soll"
         required: false
         default: ""
-  push:
-    branches: ["main"]
-    paths: ["ios/**", "js/**", "css/**", "data/**", "index.html", "capacitor.config.json", ".github/workflows/ios.yml"]
+      laeufer:
+        description: 'Wo laufen? github = GitHub-Rechner (kostet Minuten), mac = eigener Mac (Self-hosted Runner)'
+        type: choice
+        default: 'github'
+        options: ['github', 'mac']
+# Kein push-Ausloeser mehr: Seit das Repo privat ist (25.09.2026), kostet jeder
+# Lauf auf GitHubs macOS-Rechnern das Zehnfache an Minuten, und jeder Upload
+# verbraucht eine Build-Nummer. Gebaut wird nur noch auf Zuruf.
 
 jobs:
   build:
     name: iOS bauen
-    runs-on: macos-15
+    # mac: Josefs Mac als Self-hosted Runner (keine GitHub-Minuten). github:
+    # macos-26, dort liegt Xcode 26 bei.
+    runs-on: ${{ inputs.laeufer == 'mac' && fromJSON('["self-hosted", "macOS"]') || 'macos-26' }}
     permissions:
       contents: write
     steps:
@@ -28,7 +35,21 @@ jobs:
         # iOS-26-SDK an (Fehler 90725). Vorher stand hier auch Xcode 16 zur Wahl —
         # hätte der Läufer kein 26 mehr gehabt, wäre der Build still auf 16
         # gefallen und erst bei Apple gescheitert.
+        # Auf dem eigenen Mac kein xcode-select: das braucht sudo und wuerde
+        # Josefs Einstellung verstellen. Dort wird nur geprueft.
+        env:
+          AUF_MAC: ${{ inputs.laeufer == 'mac' }}
         run: |
+          if [ "$AUF_MAC" = "true" ]; then
+            command -v fastlane >/dev/null || { echo "ABBRUCH: fastlane fehlt auf dem Mac. Einmal: brew install fastlane"; exit 1; }
+            V=$(xcodebuild -version | head -1 | awk '{print $2}' | cut -d. -f1)
+            xcodebuild -version
+            if [ "${V:-0}" -lt 26 ]; then
+              echo "ABBRUCH: Xcode 26 oder neuer noetig (Apple-Fehler 90725). Xcode im App Store aktualisieren."
+              exit 1
+            fi
+            exit 0
+          fi
           XC=$(ls -d /Applications/Xcode_2[6-9]*.app /Applications/Xcode_[3-9][0-9]*.app 2>/dev/null | sort -V | tail -1)
           if [ -z "$XC" ]; then
             echo "ABBRUCH: Kein Xcode 26+ auf diesem Läufer. Vorhanden:"
@@ -56,8 +77,10 @@ jobs:
           KEY_ID=$(printf '%s' "$KEY_ID" | tr -d '[:space:]')
           ISSUER_ID=$(printf '%s' "$ISSUER_ID" | tr -d '[:space:]')
           TEAM_ID=$(printf '%s' "$TEAM_ID" | tr -d '[:space:]')
-          mkdir -p "$HOME/private_keys"
-          P8="$HOME/private_keys/AuthKey_$KEY_ID.p8"
+          # Unter RUNNER_TEMP, nicht im Home-Verzeichnis: auf dem eigenen Mac
+          # bliebe der Schluessel sonst nach dem Lauf liegen.
+          mkdir -p "$RUNNER_TEMP/private_keys"
+          P8="$RUNNER_TEMP/private_keys/AuthKey_$KEY_ID.p8"
           printf '%s\n' "$KEY" | tr -d '\r' > "$P8"
           python3 scripts/check-asc-key.py "$P8" "$KEY_ID" "$ISSUER_ID" de.almaz.weltgeschichte | tee "$RUNNER_TEMP/asc-check.txt"
           if grep -q '^FEHLER' "$RUNNER_TEMP/asc-check.txt"; then
@@ -88,12 +111,16 @@ jobs:
           CERT_PASS: ${{ steps.asc.outputs.cache_pass }}
           CERTS_DIR: ${{ runner.temp }}/certs
           OUT_DIR: ${{ runner.temp }}/out
+          KEYCHAIN_PATH: ${{ runner.temp }}/weltgeschichte-ci.keychain-db
           FASTLANE_SKIP_UPDATE_CHECK: "1"
           FASTLANE_OPT_OUT_USAGE: "1"
           FASTLANE_HIDE_CHANGELOG: "1"
           LC_ALL: en_US.UTF-8
           LANG: en_US.UTF-8
         run: |
+          # Suchliste der Schluesselbunde merken; der Aufraeumschritt stellt sie
+          # wieder her (auf dem eigenen Mac sonst dauerhaft verbogen).
+          security list-keychains -d user | tr -d '"' | xargs > "$RUNNER_TEMP/keychains-vorher.txt"
           # Das Signierzertifikat liegt verschlüsselt im Repository (fastlane/certs.tar.enc) und wird wiederverwendet.
           mkdir -p "$CERTS_DIR" "$OUT_DIR"
           fingerprint() { (cd "$CERTS_DIR" && find . -type f | sort | xargs -I{} shasum -a 256 {} | shasum -a 256 | cut -c1-16); }
@@ -132,6 +159,8 @@ jobs:
 
       - name: Signierzertifikat zusätzlich als Artefakt sichern
         if: ${{ always() && steps.sign.outputs.cert_changed == 'true' }}
+        # Ein voller Artefaktspeicher darf den Lauf nicht abbrechen (25.09.).
+        continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: ios-signierzertifikat-verschluesselt
@@ -169,3 +198,19 @@ jobs:
         run: |
           echo "## iOS-Build erfolgreich (nur Test-Build im Simulator)" >> "$GITHUB_STEP_SUMMARY"
           echo "Für den Upload in den App Store fehlen noch die Secrets APPSTORE_ISSUER_ID, APPSTORE_KEY_ID, APPSTORE_PRIVATE_KEY und APPLE_TEAM_ID (siehe docs/APP-STORES.md)." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Aufraeumen (Schluesselbund, Profil, Schluessel)
+        # Auf GitHubs Rechnern egal, auf dem eigenen Mac Pflicht.
+        if: always()
+        run: |
+          if [ -s "$RUNNER_TEMP/keychains-vorher.txt" ]; then
+            # shellcheck disable=SC2046
+            security list-keychains -d user -s $(cat "$RUNNER_TEMP/keychains-vorher.txt")
+          fi
+          security delete-keychain "$RUNNER_TEMP/weltgeschichte-ci.keychain-db" 2>/dev/null || true
+          if [ -f "$RUNNER_TEMP/out/signing.json" ]; then
+            UUID=$(python3 -c "import json,sys; print(json.load(open(sys.argv[1]))['profile_uuid'])" "$RUNNER_TEMP/out/signing.json")
+            rm -f "$HOME/Library/MobileDevice/Provisioning Profiles/$UUID.mobileprovision" \
+                  "$HOME/Library/Developer/Xcode/UserData/Provisioning Profiles/$UUID.mobileprovision"
+          fi
+          rm -rf "$RUNNER_TEMP/private_keys" "$RUNNER_TEMP/certs"
