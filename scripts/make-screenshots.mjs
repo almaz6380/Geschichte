@@ -1,5 +1,5 @@
 // Erzeugt Store-Screenshots der App mit dem vorinstallierten Chromium.
-//   docs/screenshots/iphone-67/   1290×2796 (iPhone 6,7 Zoll, App Store Pflichtformat)
+//   docs/screenshots/iphone-69/   1320×2868 (iPhone 6,9 Zoll, App Store Pflichtformat)
 //   docs/screenshots/iphone-65/   1242×2688 (iPhone 6,5 Zoll)
 //   docs/screenshots/ipad-13/     2064×2752 (iPad 13 Zoll)
 //   docs/screenshots/android/     1080×2340 (Telefon) und docs/screenshots/android-tablet/ 1600×2560
@@ -40,7 +40,7 @@ const SHOTS = [
 
 // Breite/Höhe in CSS-Pixeln und Skalierung -> Ausgabegröße
 const DEVICES = [
-  { dir: 'iphone-67', width: 430, height: 932, scale: 3 },       // 1290×2796
+  { dir: 'iphone-69', width: 440, height: 956, scale: 3 },       // 1320×2868
   { dir: 'iphone-65', width: 414, height: 896, scale: 3 },       // 1242×2688
   { dir: 'ipad-13', width: 1032, height: 1376, scale: 2 },       // 2064×2752
   { dir: 'android', width: 360, height: 780, scale: 3 },         // 1080×2340
