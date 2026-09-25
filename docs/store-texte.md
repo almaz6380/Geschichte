@@ -72,5 +72,5 @@ Erste Veröffentlichung: 14 Epochen, 8 Querschnittsthemen, Zeitleiste, Glossar, 
 ## URLs
 
 - Datenschutzerklärung: `https://geschichte-gilt.vercel.app/datenschutz.html`
-- Support: `https://github.com/almaz6380/Geschichte`
+- Support: `https://geschichte-gilt.vercel.app/impressum.html` (Kontakt per E-Mail; das GitHub-Repository ist privat und daher als Support-Adresse ungeeignet)
 - Marketing/Web-Version: `https://geschichte-gilt.vercel.app`

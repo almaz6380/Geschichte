@@ -62,7 +62,7 @@ In App Store Connect bei der App:
 4. **Version 1.0** (linke Spalte, „iOS-App“). Die Versionsnummer muss exakt der App-Version entsprechen (`package.json`, derzeit 1.0.0), sonst erscheint der Build nicht in der Auswahl:
    - Screenshots 6,7″ aus `docs/screenshots/iphone-67/`, 6,5″ aus `iphone-65/`, iPad 13″ aus `ipad-13/` hochladen (je 3–6 Bilder).
    - Werbetext, Beschreibung, Schlüsselwörter aus `docs/store-texte.md`.
-   - Support-URL `https://github.com/almaz6380/Geschichte`, Marketing-URL `https://geschichte-gilt.vercel.app`.
+   - Support-URL `https://geschichte-gilt.vercel.app/impressum.html`, Marketing-URL `https://geschichte-gilt.vercel.app`.
    - **Build**: **+** → den hochgeladenen Build auswählen. Frage zur Exportkonformität: „Nein“ (ist bereits im Projekt hinterlegt).
    - Prüfinformationen: dein Name, Telefon, E-Mail; Anmeldung nicht erforderlich. Notiz: „Lern-App, alle Inhalte enthalten, keine Anmeldung, funktioniert offline.“
    - Versionsfreigabe: automatisch.
@@ -73,15 +73,16 @@ In App Store Connect bei der App:
 ## Teil B: Android (Google Play)
 
 ### B1. Signierschlüssel einmalig erzeugen
-1. github.com/almaz6380/Geschichte → **Actions** → **Android Signierschlüssel erzeugen** → **Run workflow**.
+1. github.com/almaz6380/Geschichte → **Actions** → **Android Signierschlüssel erzeugen** → **Run workflow**, Läufer **mac** (eigener Mac, kostenlos; der Runner muss laufen).
 2. Nach etwa einer Minute auf den fertigen Lauf klicken. Unten in der **Zusammenfassung** stehen vier Werte.
 3. **Settings → Secrets and variables → Actions → New repository secret**, viermal:
    `ANDROID_KEY_ALIAS`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_PASSWORD`, `ANDROID_KEYSTORE_BASE64` (den langen Block komplett kopieren).
-4. **Wichtig:** Die Werte zusätzlich in einem Passwort-Manager speichern. Der Schlüssel ist auch als Artefakt am Lauf angehängt (90 Tage). Ohne ihn sind später keine Updates möglich. Den Workflow **nicht** ein zweites Mal ausführen.
+4. **Wichtig:** Die Werte zusätzlich in einem Passwort-Manager speichern. Eine Sicherung liegt auf dem Mac unter `~/Weltgeschichte-Android-Schluessel` (beim Läufer github stattdessen als Artefakt am Lauf, 90 Tage). Ohne ihn sind später keine Updates möglich. Den Workflow **nicht** ein zweites Mal ausführen.
+5. Das Repository muss dabei **privat** sein, sonst könnte jeder den Schlüssel in der Zusammenfassung lesen. Nach dem Eintragen der Secrets den Lauf löschen (Lauf öffnen → oben rechts **…** → **Delete workflow run**).
 
 ### B2. App-Bundle bauen
-1. **Actions** → **Android App** → **Run workflow**. Dauer etwa 5 Minuten.
-2. Auf den fertigen Lauf klicken → unten bei **Artifacts** die Datei `weltgeschichte-android-aab` herunterladen (ZIP, darin `app-release.aab`).
+1. **Actions** → **Android App** → **Run workflow**, Läufer **mac**. Dauer etwa 5 Minuten.
+2. Die Datei liegt danach auf dem Mac in `~/Downloads` (`weltgeschichte-<Nummer>.aab`); beim Läufer github stattdessen unten bei **Artifacts** (`weltgeschichte-android-aab`).
 
 ### B3. App in der Play Console anlegen
 play.google.com/console → **App erstellen**: Name `Weltgeschichte – Epochen & Quiz`, Standardsprache Deutsch, **App**, **Kostenlos**, Erklärungen bestätigen → Erstellen.
