@@ -24,9 +24,19 @@ jobs:
           node-version: 22
           cache: npm
       - name: Xcode auswählen
+        # Nur Xcode 26 oder neuer: Apple nimmt seit 2026 nur noch Uploads mit dem
+        # iOS-26-SDK an (Fehler 90725). Vorher stand hier auch Xcode 16 zur Wahl —
+        # hätte der Läufer kein 26 mehr gehabt, wäre der Build still auf 16
+        # gefallen und erst bei Apple gescheitert.
         run: |
-          XC=$(ls -d /Applications/Xcode_16*.app /Applications/Xcode_26*.app 2>/dev/null | sort -V | tail -1)
-          [ -n "$XC" ] && sudo xcode-select -s "$XC"
+          XC=$(ls -d /Applications/Xcode_2[6-9]*.app /Applications/Xcode_[3-9][0-9]*.app 2>/dev/null | sort -V | tail -1)
+          if [ -z "$XC" ]; then
+            echo "ABBRUCH: Kein Xcode 26+ auf diesem Läufer. Vorhanden:"
+            ls -d /Applications/Xcode*.app 2>/dev/null || true
+            echo "Abhilfe: runs-on auf macos-26 stellen."
+            exit 1
+          fi
+          sudo xcode-select -s "$XC"
           xcodebuild -version
       - name: Abhängigkeiten installieren
         run: npm ci
