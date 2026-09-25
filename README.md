@@ -91,7 +91,7 @@ npm run ios           # öffnet Xcode (Mac)
 npm run android       # öffnet Android Studio
 ```
 
-Bundle-ID `de.almaz.weltgeschichte`, Version in `package.json`, `js/version.js`, Xcode (`MARKETING_VERSION`) und `android/app/build.gradle` – alle vier müssen übereinstimmen (prüft `npm test`) und zur Version in App Store Connect passen, sonst lässt sich der Build dort nicht auswählen. Icons und Startbildschirme werden aus `assets/` mit `npm run assets` erzeugt (Vorlagen mit `node scripts/make-store-assets.mjs`).
+Bundle-ID `de.almaz.weltgeschichte`, Version in `package.json`, `js/version.js`, Xcode (`MARKETING_VERSION`) und `android/app/build.gradle` – alle vier müssen übereinstimmen (prüft `npm test`) und zur Version in App Store Connect passen, sonst lässt sich der Build dort nicht auswählen. Icons und Startbildschirme entstehen aus der Vorlage `icons/icon-source.png` (1024×1024): `npm run icons` erzeugt Web-Icons und die Vorlagen in `assets/`, danach `npm run assets` die nativen Icons. Neue Vorlage übernehmen: `ICON_FROM=bild.jpg npm run icons`.
 
 Die Apps werden per GitHub Actions in der Cloud gebaut (`.github/workflows/ios.yml`, `android.yml`), ganz ohne eigenen Mac: iOS wird mit fastlane (`ios/App/fastlane/Fastfile`) signiert und automatisch nach App Store Connect hochgeladen, für Android entsteht das App-Bundle als Download. Die vollständige Anleitung für den Browser-Weg steht in **[docs/APP-STORES.md](docs/APP-STORES.md)**, Store-Texte in [docs/store-texte.md](docs/store-texte.md), fertige Screenshots in `docs/screenshots/` (`node scripts/make-screenshots.mjs`). Datenschutzerklärung und Impressum liegen unter `datenschutz.html` und `impressum.html`, die englischen Fassungen unter `privacy.html` und `imprint.html`.
 
@@ -100,7 +100,7 @@ Die Apps werden per GitHub Actions in der Cloud gebaut (`.github/workflows/ios.y
 ```bash
 npm run smoke        # Playwright-Smoke-Test mit Chromium, Screenshots in .playwright-out/
 SMOKE_LOCALE=en-US npm run smoke   # derselbe Durchlauf in der englischen Fassung
-npm run icons        # erzeugt PNG-Icons aus icons/icon.svg
+npm run icons        # erzeugt Web-Icons und assets/ aus icons/icon-source.png
 ```
 
 Der Workflow `.github/workflows/ci.yml` führt Validierung und Tests bei jedem Push und Pull Request aus.
