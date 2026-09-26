@@ -9,7 +9,7 @@ export const LANGS = [
   { code: 'en', name: 'English', locale: 'en-US', ready: true },
   { code: 'fr', name: 'Français', locale: 'fr-FR', ready: true },
   { code: 'es', name: 'Español', locale: 'es-ES', ready: true },
-  { code: 'pt', name: 'Português', locale: 'pt-BR', ready: false },
+  { code: 'pt', name: 'Português', locale: 'pt-BR', ready: true },
   { code: 'it', name: 'Italiano', locale: 'it-IT', ready: true },
   { code: 'tr', name: 'Türkçe', locale: 'tr-TR', ready: true },
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
