@@ -80,7 +80,7 @@ export function render(el, params, { query }) {
         </a>`).join('')}</div>`;
   }
 
-  const EXAMPLES = t('search.examples').split(',').map((x) => x.trim()).filter(Boolean);
+  const EXAMPLES = t('search.examples').split(/[,،、，]/).map((x) => x.trim()).filter(Boolean);
 
   const run = (term) => {
     const needle = term.trim();

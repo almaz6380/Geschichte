@@ -15,7 +15,7 @@ export const LANGS = [
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: false },
   { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: false },
   { code: 'uk', name: 'Українська', locale: 'uk-UA', ready: false },
-  { code: 'ar', name: 'العربية', locale: 'ar-u-nu-latn', dir: 'rtl', ready: false },
+  { code: 'ar', name: 'العربية', locale: 'ar-u-nu-latn', dir: 'rtl', ready: true },
   { code: 'hi', name: 'हिन्दी', locale: 'hi-IN-u-nu-latn', ready: false },
   { code: 'zh', name: '中文', locale: 'zh-CN', ready: false },
   { code: 'ja', name: '日本語', locale: 'ja-JP', ready: false },
