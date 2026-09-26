@@ -13,7 +13,7 @@ export const LANGS = [
   { code: 'it', name: 'Italiano', locale: 'it-IT', ready: true },
   { code: 'tr', name: 'Türkçe', locale: 'tr-TR', ready: true },
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
-  { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: false },
+  { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: true },
   { code: 'uk', name: 'Українська', locale: 'uk-UA', ready: false },
   { code: 'ar', name: 'العربية', locale: 'ar-u-nu-latn', dir: 'rtl', ready: true },
   { code: 'hi', name: 'हिन्दी', locale: 'hi-IN-u-nu-latn', ready: false },
