@@ -284,4 +284,13 @@ export default {
   'more.kind.pwa': 'Progressive Web App',
   'more.privacy': 'Privacy policy',
   'more.imprint': 'Legal notice',
+  'quiz.joker': '50:50 joker',
+  'quiz.joker.watch': '50:50 joker for a short ad',
+  'quiz.joker.used': 'Two wrong answers have been removed.',
+  'quiz.joker.unavailable': 'No ad is available right now. Please try again later.',
+  'quiz.joker.loading': 'Loading ad …',
+  'more.ads.title': 'Ads and privacy',
+  'more.ads.sub': 'Change your consent for personalised ads',
+  'more.ads.action': 'Change',
+  'ads.label': 'Ad',
 };

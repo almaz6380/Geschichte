@@ -286,4 +286,13 @@ export default {
   'more.kind.pwa': 'Progressive Web App',
   'more.privacy': 'Datenschutzerklärung',
   'more.imprint': 'Impressum',
+  'quiz.joker': '50:50-Joker',
+  'quiz.joker.watch': '50:50-Joker gegen kurze Werbung',
+  'quiz.joker.used': 'Zwei falsche Antworten wurden entfernt.',
+  'quiz.joker.unavailable': 'Gerade ist keine Werbung verfügbar. Versuch es später noch einmal.',
+  'quiz.joker.loading': 'Werbung wird geladen …',
+  'more.ads.title': 'Werbung und Datenschutz',
+  'more.ads.sub': 'Einwilligung für personalisierte Werbung ändern',
+  'more.ads.action': 'Ändern',
+  'ads.label': 'Anzeige',
 };

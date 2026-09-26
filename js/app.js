@@ -4,6 +4,7 @@ import { applyTheme, cycleTheme, themeLabel } from './theme.js';
 import { handleBookmarkClick, showToast, esc } from './ui.js';
 import { READY_LANGS, DEFAULT_LANG, t, setLang, getLang, detectLang } from './i18n.js';
 import { getLangPref, setLangPref } from './store.js';
+import { initAds } from './ads.js';
 import * as home from './views/home.js';
 import * as epochs from './views/epochs.js';
 import * as epoch from './views/epoch.js';
@@ -211,6 +212,8 @@ async function main() {
     return;
   }
   startRouter(onNavigate);
+  // Werbung erst nach dem ersten Bild starten, damit die Einwilligungsabfrage nicht den Start blockiert.
+  if (IS_NATIVE) setTimeout(() => { initAds(); }, 800);
 }
 
 main();

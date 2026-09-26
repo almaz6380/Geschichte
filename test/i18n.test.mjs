@@ -39,8 +39,11 @@ test('Platzhalter stimmen in allen Sprachen überein', async () => {
     if (lang === REF_LANG) continue;
     const dict = await strings(lang);
     for (const [k, v] of Object.entries(dict)) {
-      assert.ok(k in de, `${lang}: unbekannter Schlüssel ${k}`);
-      assert.equal(placeholders(v), placeholders(de[k]), `${lang}/${k}: andere Platzhalter`);
+      // Zusätzliche Pluralformen (zero, two, few, many) sind erlaubt, wenn es die Einheit gibt.
+      const extraPlural = k.match(/^(.*)\.(zero|two|few|many)$/);
+      const ref = extraPlural && `${extraPlural[1]}.other` in de ? `${extraPlural[1]}.other` : k;
+      assert.ok(ref in de, `${lang}: unbekannter Schlüssel ${k}`);
+      assert.equal(placeholders(v), placeholders(de[ref]), `${lang}/${k}: andere Platzhalter`);
     }
   }
 });

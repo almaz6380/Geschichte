@@ -1,5 +1,6 @@
 import { DB } from '../data.js';
-import { esc, setTitle, backLink, progressBar, announce } from '../ui.js';
+import { esc, setTitle, backLink, progressBar, announce, showToast } from '../ui.js';
+import { adsEnabled, showRewarded, maybeShowInterstitial } from '../ads.js';
 import { MIXED, MIXED_COUNT, EPOCH_COUNT, pickQuestions, createSession, relocalize, answer, next, isFinished, evaluate, grade } from '../quiz.js';
 import { getQuizProgress, saveQuizResult, resetQuizProgress } from '../store.js';
 import { render as notFound } from './notfound.js';
@@ -84,6 +85,7 @@ function renderQuiz(el, mode, resume = false) {
     const q = session.questions[session.index];
     const chosen = session.answers[session.index];
     const answered = chosen !== undefined;
+    const removed = session.removed?.[session.index] || [];
     const n = session.index + 1;
     const total = session.questions.length;
     const qEpoch = DB.epochsById.get(q.epochId);
@@ -97,12 +99,14 @@ function renderQuiz(el, mode, resume = false) {
         <div class="quiz-question" id="quiz-q">${esc(q.question)}</div>
         <div class="quiz-choices" role="group" aria-labelledby="quiz-q">
           ${q.choices.map((c, i) => {
+            if (!answered && removed.includes(i)) return `<button type="button" class="quiz-choice removed" disabled aria-hidden="true"><span class="key">${KEYS[i]}</span><span>${esc(c)}</span></button>`;
             let cls = 'quiz-choice';
             if (answered && i === q.answer) cls += ' correct';
             else if (answered && i === chosen) cls += ' wrong';
             return `<button type="button" class="${cls}" data-i="${i}" ${answered ? 'disabled' : ''}><span class="key">${KEYS[i]}</span><span>${esc(c)}</span></button>`;
           }).join('')}
         </div>
+        ${!answered && adsEnabled() && !session.jokerUsed ? `<div class="quiz-joker"><button type="button" class="btn btn-small" id="quiz-joker">▶ ${esc(t('quiz.joker.watch'))}</button></div>` : ''}
         ${answered ? '' : `<p class="muted quiz-keyhint">${esc(t('quiz.keyHint'))}</p>`}
         ${answered ? `
           <div class="quiz-feedback ${chosen === q.answer ? 'ok' : 'nok'}">
@@ -121,14 +125,29 @@ function renderQuiz(el, mode, resume = false) {
     const goNext = () => { next(session); draw(); };
     el.querySelectorAll('.quiz-choice').forEach((b) => b.addEventListener('click', () => choose(Number(b.dataset.i))));
     el.querySelector('#quiz-next')?.addEventListener('click', goNext);
-    (el.querySelector('#quiz-next') || el.querySelector('.quiz-choice'))?.focus({ preventScroll: true });
+    // 50:50-Joker: nach einer Anzeige mit Belohnung zwei falsche Antworten ausblenden (einmal pro Runde).
+    el.querySelector('#quiz-joker')?.addEventListener('click', async (e) => {
+      const btn = e.currentTarget;
+      btn.disabled = true;
+      btn.textContent = t('quiz.joker.loading');
+      const earned = await showRewarded();
+      if (!earned) { showToast(t('quiz.joker.unavailable')); draw(); return; }
+      const wrong = q.choices.map((_, i) => i).filter((i) => i !== q.answer);
+      for (let i = wrong.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [wrong[i], wrong[j]] = [wrong[j], wrong[i]]; }
+      session.removed = session.removed || {};
+      session.removed[session.index] = wrong.slice(0, 2);
+      session.jokerUsed = true;
+      draw();
+      announce(t('quiz.joker.used'));
+    });
+    (el.querySelector('#quiz-next') || el.querySelector('.quiz-choice:not(.removed)'))?.focus({ preventScroll: true });
 
     // A–D bzw. 1–4 wählen eine Antwort, Enter geht weiter (nicht bei Eingaben mit Modifikatoren).
     onKey = (e) => {
       if (e.ctrlKey || e.metaKey || e.altKey || e.target.closest?.('input, select, textarea')) return;
       const k = e.key.toUpperCase();
       const i = KEYS.indexOf(k) >= 0 ? KEYS.indexOf(k) : ['1', '2', '3', '4'].indexOf(k);
-      if (!answered && i >= 0 && i < q.choices.length) { e.preventDefault(); choose(i); }
+      if (!answered && i >= 0 && i < q.choices.length && !removed.includes(i)) { e.preventDefault(); choose(i); }
       else if (answered && e.key === 'Enter' && e.target.id !== 'quiz-next') { e.preventDefault(); goNext(); }
     };
   }
@@ -161,6 +180,8 @@ function renderQuiz(el, mode, resume = false) {
     const score = el.querySelector('.quiz-score');
     score.setAttribute('tabindex', '-1');
     score.focus({ preventScroll: true });
+    // Vollbild-Anzeige nach dem Ergebnis, nur beim ersten Anzeigen (nicht nach Sprachwechsel).
+    if (!state.adShown) { state.adShown = true; setTimeout(() => { maybeShowInterstitial(); }, 1200); }
   }
 
   draw();

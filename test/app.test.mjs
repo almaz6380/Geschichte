@@ -23,7 +23,9 @@ test('Service Worker speichert alle Dateien vorab, die es gibt und die offline n
   const list = [...sw.matchAll(/'\.\/([^']*)'/g)].map((m) => m[1]).filter(Boolean);
   for (const f of list) assert.ok(existsSync(new URL('../' + f, import.meta.url)), `fehlt: ${f}`);
   const files = ['regions', 'epochs', 'events', 'persons', 'quiz', 'glossary', 'themes'];
-  for (const lang of READY_CODES) for (const f of files) assert.ok(list.includes(`data/${lang}/${f}.json`), `nicht vorab gespeichert: data/${lang}/${f}.json`);
+  for (const lang of ['de', 'en']) for (const f of files) assert.ok(list.includes(`data/${lang}/${f}.json`), `nicht vorab gespeichert: data/${lang}/${f}.json`);
+  for (const lang of READY_CODES) assert.ok(list.includes(`js/strings/${lang}.js`), `Oberflächentexte fehlen im Cache: ${lang}`);
+  for (const f of ['js/ads.js', 'js/ads-config.js']) assert.ok(list.includes(f), f);
   for (const page of ['datenschutz.html', 'impressum.html', 'privacy.html', 'imprint.html']) assert.ok(list.includes(page), page);
 });
 

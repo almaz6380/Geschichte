@@ -14,7 +14,7 @@ Zum Kopieren in App Store Connect und die Google Play Console.
 
 ## Werbetext (App Store, max. 170 Zeichen)
 
-`Alle wesentlichen Themen der Vergangenheit in einer App: Epochen-Artikel, Zeitleiste, Querschnittsthemen, Glossar und Quiz. Komplett offline, ohne Anmeldung, ohne Werbung.`
+`Alle wesentlichen Themen der Vergangenheit in einer App: Epochen-Artikel, Zeitleiste, Querschnittsthemen, Glossar und Quiz. Komplett offline, ohne Anmeldung, in 14 Sprachen.`
 
 ## Beschreibung (App Store und Google Play, max. 4000 Zeichen)
 
@@ -42,8 +42,11 @@ QUIZ
 SUCHE UND LESEZEICHEN
 Volltextsuche über alle Inhalte, Lesezeichen für Epochen, Ereignisse und Personen.
 
-OHNE HAKEN
-Komplett offline nutzbar. Keine Anmeldung, keine Werbung, kein Tracking, keine In-App-Käufe. Helles und dunkles Farbschema. Auf Deutsch und Englisch.
+OHNE ANMELDUNG
+Komplett offline nutzbar. Keine Anmeldung, keine In-App-Käufe, kostenlos durch Werbung. Helles und dunkles Farbschema.
+
+SPRACHEN
+Deutsch, Englisch, Französisch, Spanisch, Portugiesisch, Italienisch, Türkisch, Polnisch, Russisch, Ukrainisch, Arabisch, Hindi, Chinesisch und Japanisch.
 
 UMFANG
 14 Epochen · 8 Themen · 329 Ereignisse · 173 Personen · 112 Begriffe · 167 Quizfragen
@@ -52,6 +55,12 @@ UMFANG
 ## Schlüsselwörter (App Store, max. 100 Zeichen, durch Komma getrennt)
 
 `geschichte,weltgeschichte,lernen,quiz,epochen,zeitleiste,antike,mittelalter,schule,abitur,wissen`
+
+## Versionshinweise (Release Notes) für 1.1.0
+
+```
+Jetzt in 14 Sprachen, darunter Französisch, Spanisch, Arabisch, Chinesisch und Japanisch. Neu im Quiz: der 50:50-Joker. Die App bleibt kostenlos und wird durch Werbung finanziert.
+```
 
 ## Versionshinweise (Release Notes) für 1.0.0
 
@@ -93,7 +102,7 @@ Die App ist vollständig auf Englisch übersetzt. In App Store Connect oben rech
 
 ## Promotional text (App Store, max. 170 Zeichen)
 
-`All the key topics of the past in one app: epoch articles, timeline, cross-cutting themes, glossary and quiz. Fully offline, no sign-up, no ads.`
+`All the key topics of the past in one app: epoch articles, timeline, cross-cutting themes, glossary and quiz. Fully offline, no sign-up, in 14 languages.`
 
 ## Description (App Store and Google Play, max. 4000 Zeichen)
 
@@ -121,8 +130,11 @@ More than 160 questions with explanations: 10 questions per epoch or 20 mixed. B
 SEARCH AND BOOKMARKS
 Full-text search across all content, bookmarks for epochs, events and people.
 
-NO STRINGS ATTACHED
-Works completely offline. No sign-up, no ads, no tracking, no in-app purchases. Light and dark mode. In English and German.
+NO SIGN-UP
+Works completely offline. No sign-up, no in-app purchases, free thanks to ads. Light and dark mode.
+
+LANGUAGES
+English, German, French, Spanish, Portuguese, Italian, Turkish, Polish, Russian, Ukrainian, Arabic, Hindi, Chinese and Japanese.
 
 AT A GLANCE
 14 epochs · 8 themes · 329 events · 173 people · 112 terms · 167 quiz questions
@@ -131,6 +143,12 @@ AT A GLANCE
 ## Keywords (App Store, max. 100 Zeichen)
 
 `history,world history,learn,quiz,timeline,ancient,medieval,rome,school,study,education,knowledge`
+
+## Release notes 1.1.0
+
+```
+Now available in 14 languages, including French, Spanish, Arabic, Chinese and Japanese. New in the quiz: the 50:50 joker. The app stays free and is funded by ads.
+```
 
 ## Release notes 1.0.0
 

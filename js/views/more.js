@@ -5,6 +5,7 @@ import { cycleTheme, themeLabel, applyTheme } from '../theme.js';
 import { showToast } from '../ui.js';
 import { APP_VERSION } from '../version.js';
 import { t, plural, getLang } from '../i18n.js';
+import { hasPrivacyOptions, showPrivacyOptions } from '../ads.js';
 
 const WEB_BASE = 'https://geschichte-gilt.vercel.app/';
 
@@ -55,6 +56,10 @@ export function render(el) {
           <span><span class="title">${esc(t('more.progress.title'))}</span><span class="sub">${esc(t('more.progress.sub'))}</span></span>
           <button type="button" class="btn btn-small" id="more-reset">${esc(t('more.progress.action'))}</button>
         </div>
+        ${hasPrivacyOptions() ? `<div class="setting-row">
+          <span><span class="title">${esc(t('more.ads.title'))}</span><span class="sub">${esc(t('more.ads.sub'))}</span></span>
+          <button type="button" class="btn btn-small" id="more-ads">${esc(t('more.ads.action'))}</button>
+        </div>` : ''}
         <div class="setting-row">
           <span><span class="title">${esc(t('more.data.title'))}</span><span class="sub">${esc(t('more.data.sub'))}</span></span>
           <button type="button" class="btn btn-small" id="more-wipe">${esc(t('more.data.action'))}</button>
@@ -95,6 +100,7 @@ export function render(el) {
   el.querySelector('#more-reset').addEventListener('click', () => {
     if (confirm(t('quiz.reset.confirm'))) { resetQuizProgress(); showToast(t('more.progress.done')); render(el); }
   });
+  el.querySelector('#more-ads')?.addEventListener('click', () => showPrivacyOptions());
   el.querySelector('#more-wipe').addEventListener('click', () => {
     if (!confirm(t('more.data.confirm'))) return;
     resetAllData();

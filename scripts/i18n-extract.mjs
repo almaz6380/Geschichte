@@ -2,7 +2,7 @@
 // Es werden ausschließlich Textfelder ausgegeben; IDs, Jahreszahlen, Farben und
 // Verweise bleiben außen vor und können beim Übersetzen gar nicht verrutschen.
 //
-//   node scripts/i18n-extract.mjs [zielordner] [zeichen-pro-block]
+//   node scripts/i18n-extract.mjs [zielordner] [zeichen-pro-block] [quellsprache]
 //
 // Ergebnis: <zielordner>/<datei>.<nn>.json mit { "<pfad>": "deutscher Text", ... }
 import { readFileSync, writeFileSync, mkdirSync, rmSync } from 'node:fs';
@@ -63,12 +63,13 @@ function chunk(obj, maxChars) {
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const outDir = path.resolve(ROOT, process.argv[2] || 'translate/source');
   const maxChars = Number(process.argv[3] || 18000);
+  const srcLang = process.argv[4] || 'de';
   rmSync(outDir, { recursive: true, force: true });
   mkdirSync(outDir, { recursive: true });
   let total = 0;
   let files = 0;
   for (const name of FILES) {
-    const texts = extractFile(name);
+    const texts = extractFile(name, srcLang);
     const parts = chunk(texts, maxChars);
     parts.forEach((part, i) => {
       const file = path.join(outDir, `${name}.${String(i + 1).padStart(2, '0')}.json`);

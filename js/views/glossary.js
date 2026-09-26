@@ -2,12 +2,19 @@ import { DB } from '../data.js';
 import { esc, termItem, setTitle, emptyState, bindAnchorScroll } from '../ui.js';
 import { setQuery } from '../router.js';
 import { normalize } from '../search.js';
-import { t, plural } from '../i18n.js';
+import { t, plural, getLang } from '../i18n.js';
+
+// Sprachen mit lateinischer Schrift bekommen die Sprungleiste A–Z; Arabisch, Kyrillisch und
+// Devanagari die Anfangszeichen, die tatsächlich vorkommen; Chinesisch und Japanisch keine.
+const LATIN = new Set(['de', 'en', 'fr', 'es', 'pt', 'it', 'tr', 'pl']);
+const NO_LETTERS = new Set(['zh', 'ja']);
 
 // Anfangsbuchstabe ohne Diakritika, damit É, Ä oder Ç unter E, A und C einsortiert werden.
 function letterOf(term) {
-  const c = term.trim().charAt(0).toUpperCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  return /[A-Z]/.test(c) ? c : '#';
+  const c = [...term.trim()][0]?.toLocaleUpperCase() || '#';
+  if (!LATIN.has(getLang())) return c;
+  const base = c.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  return /[A-Z]/.test(base) ? base : '#';
 }
 
 export function render(el, { id } = {}, { query } = { query: new URLSearchParams() }) {
@@ -59,11 +66,14 @@ export function render(el, { id } = {}, { query } = { query: new URLSearchParams
       groups.get(L).push(g);
     }
     const present = [...groups.keys()];
-    const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('');
-    letters.innerHTML = alphabet.map((L) => present.includes(L) ? `<a data-anchor="gl-${L === '#' ? 'x' : L}" href="#">${L}</a>` : `<span>${L}</span>`).join('');
+    const latin = LATIN.has(getLang());
+    const alphabet = latin ? 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('') : present;
+    const anchor = (L) => `gl-${L === '#' ? 'x' : [...L].map((c) => c.codePointAt(0).toString(16)).join('')}`;
+    letters.hidden = NO_LETTERS.has(getLang());
+    letters.innerHTML = alphabet.map((L) => present.includes(L) ? `<a data-anchor="${anchor(L)}" href="#">${esc(L)}</a>` : `<span>${esc(L)}</span>`).join('');
     count.textContent = plural(items.length, 'unit.term');
     list.innerHTML = present.length
-      ? present.map((L) => `<section class="letter-group" id="gl-${L === '#' ? 'x' : L}"><h2 class="letter">${L}</h2><div class="term-list">${groups.get(L).map((g) => termItem(g)).join('')}</div></section>`).join('')
+      ? present.map((L) => `<section class="letter-group" id="${anchor(L)}">${NO_LETTERS.has(getLang()) ? '' : `<h2 class="letter">${esc(L)}</h2>`}<div class="term-list">${groups.get(L).map((g) => termItem(g)).join('')}</div></section>`).join('')
       : `<p class="muted">${esc(t('glossary.none'))}</p>`;
   }
 

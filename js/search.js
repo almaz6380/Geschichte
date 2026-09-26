@@ -6,8 +6,9 @@ export function normalize(s) {
     .toLowerCase()
     .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
     .replace(/æ/g, 'ae').replace(/œ/g, 'oe').replace(/ø/g, 'o').replace(/ð/g, 'd').replace(/þ/g, 'th')
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ')
+    .normalize('NFD').replace(/[\u0300-\u036f\u064b-\u065f\u0670]/g, '')
+    // Buchstaben und Ziffern aller Schriften behalten (Arabisch, Kyrillisch, Devanagari, CJK …).
+    .replace(/[^\p{L}\p{N}\p{M}]+/gu, ' ')
     .trim();
 }
 
