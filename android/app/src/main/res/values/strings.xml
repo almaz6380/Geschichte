@@ -5,5 +5,5 @@
     <string name="package_name">de.almaz.weltgeschichte</string>
     <string name="custom_url_scheme">de.almaz.weltgeschichte</string>
     <!-- AdMob-App-ID (derzeit Googles Test-ID, siehe js/ads-config.js) -->
-    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-8860791993288062~8295997761</string>
 </resources>

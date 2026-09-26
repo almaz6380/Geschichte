@@ -1,19 +1,19 @@
-// AdMob-Anzeigenblöcke je Plattform. Solange hier Googles Test-IDs stehen, laufen nur
-// Test-Anzeigen (isTesting). Echte IDs aus dem AdMob-Konto eintragen und TESTING auf false
-// setzen; die App-IDs stehen zusätzlich in ios/App/App/Info.plist (GADApplicationIdentifier)
-// und android/app/src/main/res/values/strings.xml (admob_app_id).
-export const TESTING = true;
+// AdMob-Anzeigenblöcke je Plattform (Konto „Weltgeschichte“). Die App-IDs stehen zusätzlich in
+// ios/App/App/Info.plist (GADApplicationIdentifier) und
+// android/app/src/main/res/values/strings.xml (admob_app_id).
+// TESTING = true zeigt nur Googles Test-Anzeigen (zum Ausprobieren, nie für den Store-Build).
+export const TESTING = false;
 
 export const AD_UNITS = {
   ios: {
-    banner: 'ca-app-pub-3940256099942544/2934735716',
-    interstitial: 'ca-app-pub-3940256099942544/4411468910',
-    rewarded: 'ca-app-pub-3940256099942544/1712485313',
+    banner: 'ca-app-pub-8860791993288062/5729544172',
+    interstitial: 'ca-app-pub-8860791993288062/9146968445',
+    rewarded: 'ca-app-pub-8860791993288062/7043549288',
   },
   android: {
-    banner: 'ca-app-pub-3940256099942544/6300978111',
-    interstitial: 'ca-app-pub-3940256099942544/1033173712',
-    rewarded: 'ca-app-pub-3940256099942544/5224354917',
+    banner: 'ca-app-pub-8860791993288062/7254378838',
+    interstitial: 'ca-app-pub-8860791993288062/6712376797',
+    rewarded: 'ca-app-pub-8860791993288062/5399295127',
   },
 };
 
