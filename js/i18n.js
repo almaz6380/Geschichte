@@ -11,7 +11,7 @@ export const LANGS = [
   { code: 'es', name: 'Español', locale: 'es-ES', ready: true },
   { code: 'pt', name: 'Português', locale: 'pt-BR', ready: false },
   { code: 'it', name: 'Italiano', locale: 'it-IT', ready: true },
-  { code: 'tr', name: 'Türkçe', locale: 'tr-TR', ready: false },
+  { code: 'tr', name: 'Türkçe', locale: 'tr-TR', ready: true },
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
   { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: false },
   { code: 'uk', name: 'Українська', locale: 'uk-UA', ready: false },

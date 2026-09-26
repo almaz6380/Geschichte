@@ -1,0 +1,2340 @@
+[
+  {
+    "id": "q-absolutismus-aufklaerung-01",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1648'de Otuz Yıl Savaşları'nı sona erdiren barış antlaşması hangisidir?",
+    "choices": [
+      "Augsburg Barışı",
+      "Utrecht Barışı",
+      "Vestfalya Barışı",
+      "Hubertusburg Barışı"
+    ],
+    "answer": 2,
+    "explanation": "Münster ve Osnabrück'te müzakere edilen Vestfalya Barışı, savaşı 1648'de sona erdirdi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-02",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Versay Sarayı'nı sarayının merkezi hâline getiren ve Güneş Kral olarak bilinen kral hangisiydi?",
+    "choices": [
+      "XIV. Louis",
+      "XVI. Louis",
+      "IV. Henri",
+      "I. François"
+    ],
+    "answer": 0,
+    "explanation": "XIV. Louis, sarayı 1682'de Versay'a taşıdı ve Güneş Kral olarak mutlakiyetçiliğin somutlaşmış hâli oldu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-03",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Isaac Newton, 1687 tarihli Principia adlı eserinde neyi tanımlamıştır?",
+    "choices": [
+      "Atomun yapısını",
+      "Türlerin evrimini",
+      "Kan dolaşımını",
+      "Hareket ve kütleçekim yasalarını"
+    ],
+    "answer": 3,
+    "explanation": "Newton, hareket yasaları ve kütleçekim yasasıyla, Dünya üzerinde ve uzaydaki cisimlerin hareketini açıkladı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-04",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Deli Petro, 1703'te Rusya'nın yeni başkenti olarak hangi şehri kurmuştur?",
+    "choices": [
+      "Moskova",
+      "St. Petersburg",
+      "Kiev",
+      "Novgorod"
+    ],
+    "answer": 1,
+    "explanation": "Neva Nehri üzerindeki St. Petersburg 1712'de başkent oldu ve Rusya'nın Avrupa'ya açılan penceresi olarak görüldü.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-05",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Yedi Yıl Savaşları'nda (1756-1763) hangi iki güç aynı safta yer almıştır?",
+    "choices": [
+      "Fransa ve Prusya",
+      "Avusturya ve Büyük Britanya",
+      "Prusya ve Büyük Britanya",
+      "Rusya ve Prusya"
+    ],
+    "answer": 2,
+    "explanation": "II. Friedrich yönetimindeki Prusya ve Büyük Britanya, Avusturya, Fransa ve Rusya'ya karşı birlikte savaştı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-06",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Immanuel Kant, Aydınlanma'nın programını hangi sözle özetlemiştir?",
+    "choices": [
+      "Düşünüyorum, öyleyse varım",
+      "Kendi aklını kullanma cesaretini göster",
+      "Devlet benim",
+      "Doğaya dönüş"
+    ],
+    "answer": 1,
+    "explanation": "Kant 1784'te aydınlanmayı, insanın kendi eliyle sebep olduğu ergin olmama hâlinden çıkışı olarak tanımladı ve 'Sapere aude'yi bunun sloganı olarak seçti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-07",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Galileo Galilei 1633'te Engizisyon tarafından neden mahkûm edilmiştir?",
+    "choices": [
+      "Teleskobu icat ettiği için",
+      "İncil'i İtalyancaya çevirdiği için",
+      "Evrenin güneş merkezli görüşünü savunduğu için",
+      "Kütleçekimi keşfettiği için"
+    ],
+    "answer": 2,
+    "explanation": "Galileo, 1632 tarihli Diyalog'unda Dünya'nın Güneş etrafında döndüğü yönündeki Kopernik öğretisini savunmuştu; bunu geri almaya zorlandı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-08",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "İngiliz kralı I. Charles'a 1649'da ne olmuştur?",
+    "choices": [
+      "Fransa'ya kaçtı",
+      "Parlamento tarafından mahkûm edildi ve idam edildi",
+      "Parlamentoyu kalıcı olarak feshetti",
+      "İmparator olarak taç giydirildi"
+    ],
+    "answer": 1,
+    "explanation": "İç savaştan sonra bir Parlamento mahkemesi kralı vatana ihanetten mahkûm etti; 30 Ocak 1649'da başı kesildi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-09",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Montesquieu'nün Kanunların Ruhu (1748) adlı eseriyle hangi talep ilişkilendirilir?",
+    "choices": [
+      "Kuvvetler ayrılığı",
+      "Monarşinin kaldırılması",
+      "Kadınlar için eşitlik",
+      "Özel mülkiyetin kaldırılması"
+    ],
+    "answer": 0,
+    "explanation": "Montesquieu, birbirini sınırlaması için yasama, yürütme ve yargı yetkilerinin ayrılmasını talep etti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-10",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1685 tarihli Fontainebleau Fermanı'nın sonucu ne olmuştur?",
+    "choices": [
+      "Royal Society'nin kurulması",
+      "Sarayın Versay'a taşınması",
+      "İspanya Veraset Savaşı'nın başlaması",
+      "Yaklaşık 200.000 Huguenot'nun Fransa'dan kaçışı"
+    ],
+    "answer": 3,
+    "explanation": "XIV. Louis, Nantes Fermanı'nı iptal edip Protestan ibadetini yasakladı; birçok Huguenot, diğer yerlerin yanı sıra Brandenburg'a kaçtı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-11",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1639'dan itibaren dış dünyaya neredeyse tamamen kapanan ve yalnızca Hollandalıların Dejima adasında ticaret yapmasına izin veren ülke hangisiydi?",
+    "choices": [
+      "Çin",
+      "Kore",
+      "Japonya",
+      "Siyam"
+    ],
+    "answer": 2,
+    "explanation": "Tokugawa şogunluğu Hristiyanlığı yasakladı ve dış ticareti Nagazaki ile sınırladı; bu politika sakoku olarak adlandırılır.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-12",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Fizikçi Émilie du Châtelet hangi başarısıyla bilinir?",
+    "choices": [
+      "Jüpiter'in aylarının keşfi",
+      "Newton'un Principia'sının Fransızca çevirisi ve açıklaması",
+      "Barometrenin icadı",
+      "Ansiklopedi'nin yayımlanması"
+    ],
+    "answer": 1,
+    "explanation": "Du Châtelet, Newton'un ana eserini Fransızcaya çevirdi ve yorumlar ekledi; onun versiyonu bugün hâlâ yetkin kabul edilmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-01",
+    "epochId": "antike-griechenland",
+    "question": "İlk demokrasi, MÖ 6. ve 5. yüzyıllarda hangi şehirde ortaya çıkmıştır?",
+    "choices": [
+      "Sparta",
+      "Atina",
+      "Korinth",
+      "Thebai"
+    ],
+    "answer": 1,
+    "explanation": "Atina'da Kleisthenes'in reformları, MÖ 508'de halk egemenliğinin temelini attı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-02",
+    "epochId": "antike-griechenland",
+    "question": "MÖ 776'da ilk kayıtlı Olimpiyat Oyunları nerede yapılmıştır?",
+    "choices": [
+      "Atina'da",
+      "Delfi'de",
+      "Olimpia'da",
+      "Sparta'da"
+    ],
+    "answer": 2,
+    "explanation": "Oyunlar, Peloponez'deki Olimpia'da Zeus onuruna dört yılda bir düzenleniyordu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-03",
+    "epochId": "antike-griechenland",
+    "question": "MÖ 480'de ikinci Pers Savaşı'nı denizde hangi savaş belirlemiştir?",
+    "choices": [
+      "Marathon",
+      "Termopylai",
+      "Plataia",
+      "Salamis"
+    ],
+    "answer": 3,
+    "explanation": "Themistokles, Pers filosunu Salamis'in dar körfezine çekti; burada Yunan trireme gemileri üstün geldi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-04",
+    "epochId": "antike-griechenland",
+    "question": "MÖ 404'te sona eren Peloponez Savaşı'nı kim kazanmıştır?",
+    "choices": [
+      "Sparta",
+      "Atina",
+      "Pers",
+      "Makedonya"
+    ],
+    "answer": 0,
+    "explanation": "Sparta, Pers parasıyla bir filo inşa etti ve Atina'yı MÖ 404'te teslim olmaya zorladı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-05",
+    "epochId": "antike-griechenland",
+    "question": "Büyük İskender'in öğretmeni hangi filozoftu?",
+    "choices": [
+      "Sokrates",
+      "Platon",
+      "Aristoteles",
+      "Pisagor"
+    ],
+    "answer": 2,
+    "explanation": "Aristoteles, Atina'da Lise'yi kurmadan önce Makedon sarayında genç İskender'e ders verdi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-06",
+    "epochId": "antike-griechenland",
+    "question": "Hangi olay Helenistik çağın sonu olarak kabul edilir?",
+    "choices": [
+      "MÖ 146'da Korinth'in yıkılması",
+      "MÖ 30'da Kleopatra'nın ölümü ve Mısır'ın ilhakı",
+      "MÖ 323'te İskender'in ölümü",
+      "MÖ 168'de Pydna Savaşı"
+    ],
+    "answer": 1,
+    "explanation": "VII. Kleopatra'nın intiharıyla, son Helenistik krallık olan Mısır, Roma'ya geçti.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-07",
+    "epochId": "antike-griechenland",
+    "question": "Solon, MÖ 594 civarında Atina'da hangi reformu gerçekleştirmiştir?",
+    "choices": [
+      "Ostrakismosu getirdi",
+      "Kadınlara oy hakkı verdi",
+      "Kendini tiran ilan etti",
+      "Borç köleliğini kaldırdı"
+    ],
+    "answer": 3,
+    "explanation": "Solon borçları sildi ve yurttaşların borç nedeniyle köleleştirilmesini yasakladı; yurttaşları servetlerine göre dört sınıfa ayırdı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-08",
+    "epochId": "antike-griechenland",
+    "question": "MÖ 480'de Termopylai'de 300 Spartalıya kim komuta etmiştir?",
+    "choices": [
+      "Leonidas",
+      "Themistokles",
+      "Miltiades",
+      "Perikles"
+    ],
+    "answer": 0,
+    "explanation": "Kral Leonidas, Spartalıları ve müttefikleriyle, her biri düşene kadar Kserkses'in ordusuna karşı geçidi korudu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-09",
+    "epochId": "antike-griechenland",
+    "question": "Platon'un onuncu Muse olarak adlandırdığı, Midilli adasından şair kimdir?",
+    "choices": [
+      "Aspasia",
+      "Sappho",
+      "Antigone",
+      "Pythia"
+    ],
+    "answer": 1,
+    "explanation": "MÖ 600 civarında Sappho aşk ve özlem üzerine şarkılar yazdı; dokuz kitabından yalnızca parçalar günümüze ulaşmıştır.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-10",
+    "epochId": "antike-griechenland",
+    "question": "Perikles döneminde MÖ 447 ile 432 arasında Akropol'de hangi tapınak inşa edilmiştir?",
+    "choices": [
+      "Zeus Tapınağı",
+      "Apollon Tapınağı",
+      "Parthenon",
+      "Erekhteion"
+    ],
+    "answer": 2,
+    "explanation": "Mimarlar İktinos ve Kallikrates tarafından inşa edilen Parthenon, tanrıça Athena'ya adanmıştı ve Pheidias'ın on iki metrelik heykelini barındırıyordu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-11",
+    "epochId": "antike-griechenland",
+    "question": "İskender'in ölümünden sonra imparatorluğu üzerine mücadele eden generallerine ne ad verilirdi?",
+    "choices": [
+      "Eforlar",
+      "Stratejoslar",
+      "Arkhonlar",
+      "Diadokhlar"
+    ],
+    "answer": 3,
+    "explanation": "Halefler anlamına gelen Diadokhlar, MÖ 322'den 281'e kadar savaştı; sonunda Ptolemaios, Selevkos ve Antigonos imparatorlukları ortaya çıktı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-12",
+    "epochId": "antike-griechenland",
+    "question": "MÖ 212'de Syracuse'un Romalılarca ele geçirilmesi sırasında hangi bilgin öldürülmüştür?",
+    "choices": [
+      "Öklid",
+      "Arşimet",
+      "Hipokrat",
+      "Herodot"
+    ],
+    "answer": 1,
+    "explanation": "Arşimet, memleketinin savunmasını savaş makineleriyle desteklemişti; bir Roma askeri onu Marcellus'un emirlerine aykırı olarak öldürdü.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-01",
+    "epochId": "asien-altertum",
+    "question": "MÖ 550 civarında Akamenid Pers İmparatorluğu'nu kim kurmuştur?",
+    "choices": [
+      "I. Darius",
+      "I. Kserkses",
+      "II. Kiros",
+      "II. Kambyses"
+    ],
+    "answer": 2,
+    "explanation": "II. Kiros, Medleri yendi ve ardından Lidya'yı ve Babil'i fethetti; Darius ve Kserkses daha sonraki Büyük Krallardı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-02",
+    "epochId": "asien-altertum",
+    "question": "Siddhartha Gautama, kuzey Hindistan'da hangi öğretiyi ilan etmiştir?",
+    "choices": [
+      "Budizm",
+      "Konfüçyüsçülük",
+      "Taoizm",
+      "Zerdüştlük"
+    ],
+    "answer": 0,
+    "explanation": "Uyanmış olan Buda olarak Siddhartha Gautama, Budizm'in kurucusu oldu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-03",
+    "epochId": "asien-altertum",
+    "question": "Qin Shi Huang, MÖ 221'de Çin'i birleştirdikten sonra diğer şeylerin yanı sıra neyi standartlaştırmıştır?",
+    "choices": [
+      "Dini",
+      "Tüm eyaletlerin dilini",
+      "Göçebelerin takvimini",
+      "Yazıyı, para birimini ve ölçüleri"
+    ],
+    "answer": 3,
+    "explanation": "İlk İmparator, imparatorluğu bir arada tutmak için tek tip yazı karakterleri, paralar, ölçüler, ağırlıklar ve aks genişlikleri getirdi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-04",
+    "epochId": "asien-altertum",
+    "question": "MS 105 yılında hangi icat, Çinli saray görevlisi Cai Lun'a atfedilmektedir?",
+    "choices": [
+      "Pusula",
+      "Kağıt",
+      "Barut",
+      "Matbaa"
+    ],
+    "answer": 1,
+    "explanation": "MS 105'te Cai Lun, kabuk, kenevir ve paçavralardan kağıt üretmek için geliştirilmiş bir yöntem tarif etti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-05",
+    "epochId": "asien-altertum",
+    "question": "Gupta İmparatorluğu döneminde Hindistan'da hangi matematiksel yenilik ortaya çıkmıştır?",
+    "choices": [
+      "Sıfırlı basamak değeri sistemi",
+      "Pisagor teoremi",
+      "Roma rakamları",
+      "Logaritma tablosu"
+    ],
+    "answer": 0,
+    "explanation": "Gupta dönemi Hint matematikçileri, sıfır rakamıyla ondalık sistemi geliştirdiler; bu sistem Arap dünyası üzerinden Avrupa'ya ulaştı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-06",
+    "epochId": "asien-altertum",
+    "question": "Angkor Wat, 12. yüzyılda hangi kral döneminde inşa edilmiştir?",
+    "choices": [
+      "Aşoka",
+      "Kanmu",
+      "II. Suryavarman",
+      "II. Chandragupta"
+    ],
+    "answer": 2,
+    "explanation": "Khmer kralı II. Suryavarman, Angkor Wat'ı Vişnu'ya bir tapınak ve kendi mezarı olarak inşa ettirmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-07",
+    "epochId": "asien-altertum",
+    "question": "Taoizm'in temel metni olan Tao Te Ching hangi bilgeye atfedilir?",
+    "choices": [
+      "Konfüçyüs",
+      "Laozi",
+      "Mengzi",
+      "Zhuangzi"
+    ],
+    "answer": 1,
+    "explanation": "Tao Te Ching, efsanevi Laozi'nin eseri olarak kabul edilir; Zhuangzi daha sonraki bir Taoist düşünürken Konfüçyüs ve Mengzi Konfüçyüsçülüğü temsil ediyordu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-08",
+    "epochId": "asien-altertum",
+    "question": "Savaşan Devletler döneminden stratejist Sun Tzu'nun eserinin adı nedir?",
+    "choices": [
+      "Değişimler Kitabı",
+      "Konuşmalar",
+      "Shiji",
+      "Savaş Sanatı"
+    ],
+    "answer": 3,
+    "explanation": "Sun Tzu'nun on üç bölümden oluşan Savaş Sanatı, en iyi zaferin bir savaş olmadan kazanıldığını öğretir.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-09",
+    "epochId": "asien-altertum",
+    "question": "Wu Zetian'ın 690'dan 705'e kadar süren hükümdarlığında dikkat çeken şey neydi?",
+    "choices": [
+      "Çin'de kendi adına imparatoriçe olarak hüküm süren tek kadındı",
+      "Tang hanedanını kurdu",
+      "Çin'de Budizm'i yasakladı",
+      "Terakotta Ordusu'nu yaptırdı"
+    ],
+    "answer": 0,
+    "explanation": "Wu Zetian 690'da kendi hanedanını ilan etti ve Çin tarihinde imparatorluk unvanını bizzat taşıyan tek kadındır.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-10",
+    "epochId": "asien-altertum",
+    "question": "868 tarihli Elmas Sutra, baskı tarihi açısından neden bu kadar önemlidir?",
+    "choices": [
+      "Hareketli metal harflerle basılmıştır",
+      "Kağıttan yapılan ilk kitaptır",
+      "Kesin bir tarih taşıyan, tarihi bilinen en eski basılı metindir",
+      "Gutenberg tarafından model olarak kullanılmıştır"
+    ],
+    "answer": 2,
+    "explanation": "Tahta kalıplardan basılan tomarın kolofonu, 11 Mayıs 868 tarihini verir; böylece dünyanın tarihli en eski basılı kitabıdır.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-11",
+    "epochId": "asien-altertum",
+    "question": "I. Erdeşir, MS 224 yılında Pers'te hangi imparatorluğun yerini almıştır?",
+    "choices": [
+      "Akamenid İmparatorluğu",
+      "Selevkos İmparatorluğu",
+      "Kuşan İmparatorluğu",
+      "Part İmparatorluğu"
+    ],
+    "answer": 3,
+    "explanation": "224'te I. Erdeşir son Part kralını yendi ve 651'e kadar süren Sasani İmparatorluğu'nu kurdu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-12",
+    "epochId": "asien-altertum",
+    "question": "Çin tarihyazımının ilk kapsamlı eseri olan Shiji'yi MÖ 100 civarında kim yazmıştır?",
+    "choices": [
+      "Cai Lun",
+      "Sima Qian",
+      "Zhang Qian",
+      "Xuanzang"
+    ],
+    "answer": 1,
+    "explanation": "Saray tarihçisi Sima Qian, 130 bölümden oluşan Shiji'yi yazdı; Cai Lun kağıdı geliştirdi, Zhang Qian bir elçiydi ve Xuanzang bir Budist hacıydı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1914 yazında Birinci Dünya Savaşı'nı tetikleyen olay nedir?",
+    "choices": [
+      "Lusitania'nın batırılması",
+      "Çarın devrilmesi",
+      "Saraybosna suikastı",
+      "Verdun Savaşı"
+    ],
+    "answer": 2,
+    "explanation": "Avusturya veliahtı Franz Ferdinand'ın 28 Haziran 1914'te Saraybosna'da öldürülmesi, Temmuz Krizi üzerinden savaşa yol açtı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-02",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1917 Ekim Devrimi'nde Bolşevikleri iktidara kim taşımıştır?",
+    "choices": [
+      "Lenin",
+      "Stalin",
+      "Troçki",
+      "Kerensky"
+    ],
+    "answer": 0,
+    "explanation": "Lenin, Nisan 1917'de sürgünden döndü ve Kasım'da Petrograd'daki devrilişe önderlik etti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-03",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Compiègne Ateşkesi hangi gün yürürlüğe girmiştir?",
+    "choices": [
+      "28 Haziran 1919",
+      "9 Kasım 1918",
+      "1 Ağustos 1914",
+      "11 Kasım 1918"
+    ],
+    "answer": 3,
+    "explanation": "Ateşkes, 11 Kasım 1918'de saat 11'de yürürlüğe girdi ve Batı Cephesi'ndeki savaşı sona erdirdi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-04",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Başkanı bunu önermiş olmasına rağmen, hiçbir zaman Milletler Cemiyeti'ne katılmayan büyük güç hangisidir?",
+    "choices": [
+      "Fransa",
+      "ABD",
+      "Büyük Britanya",
+      "Japonya"
+    ],
+    "answer": 1,
+    "explanation": "Amerikan Senatosu üyeliği reddetti, oysa Woodrow Wilson On Dört Nokta'sında Milletler Cemiyeti'nin taslağını çizmişti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-05",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Aşağıdakilerden hangisi Atatürk'ün Türkiye'yi dönüştürme sürecinin bir parçası DEĞİLDİR?",
+    "choices": [
+      "Latin alfabesinin getirilmesi",
+      "Din ile devletin ayrılması",
+      "Hilafetin yeniden kurulması",
+      "Kadınlara seçme ve seçilme hakkı"
+    ],
+    "answer": 2,
+    "explanation": "Atatürk hilafeti 1924'te kaldırdı; diğer reformları 1920'lerde ve 1930'larda gerçekleştirdi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-06",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Gandhi'nin 1930 Tuz Yürüyüşü neye karşı düzenlenmiştir?",
+    "choices": [
+      "Hindistan'ın bölünmesine karşı",
+      "Zorunlu askerliğe karşı",
+      "İngiliz kumaşının ithalatına karşı",
+      "İngiliz tuz tekeline ve tuz vergisine karşı"
+    ],
+    "answer": 3,
+    "explanation": "Gandhi, denize 385 kilometre yürüdü ve orada İngiliz hukukuna göre yasak olan tuzu göstere göstere çıkardı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-07",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Mustafa Kemal, 1915'te hangi başarısıyla tanınmıştır?",
+    "choices": [
+      "Gelibolu'yu Müttefiklere karşı savunması",
+      "Bağdat'ın ele geçirilmesi",
+      "Tannenberg'deki zafer",
+      "Kudüs'ün alınması"
+    ],
+    "answer": 0,
+    "explanation": "Yarbay Mustafa Kemal ve birlikleri Gelibolu Yarımadası'nın tepelerini elinde tuttu; Müttefikler Ocak 1916'da geri çekilmek zorunda kaldı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-08",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Kasım 1923'te Almanya'daki hiperenflasyonu hangi yeni para birimi sona erdirmiştir?",
+    "choices": [
+      "Reichsmark",
+      "Goldmark",
+      "Rentenmark",
+      "Deutsche Mark"
+    ],
+    "answer": 2,
+    "explanation": "15 Kasım 1923'te getirilen Rentenmark para birimini istikrara kavuşturdu; Reichsmark 1924'te onun yerini aldı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-09",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "19 Şubat 1919'da bir Alman parlamentosunda konuşma yapan ilk kadın kimdir?",
+    "choices": [
+      "Rosa Luxemburg",
+      "Marie Juchacz",
+      "Käthe Kollwitz",
+      "Clara Zetkin"
+    ],
+    "answer": 1,
+    "explanation": "Sosyal Demokrat Marie Juchacz, Weimar Ulusal Meclisi'nde konuştu ve aynı yıl Arbeiterwohlfahrt sosyal yardım kuruluşunu kurdu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-10",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Walter Gropius, 1919'da Weimar'da hangi sanat, zanaat ve tasarım okulunu kurmuştur?",
+    "choices": [
+      "Bauhaus",
+      "Werkbund Akademisi",
+      "Sezession",
+      "Mavi Atlı Okulu"
+    ],
+    "answer": 0,
+    "explanation": "Bauhaus 1925'te Dessau'ya taşındı ve 1933'te Nasyonal Sosyalistler tarafından kapatıldı; mimari ve tasarım üzerindeki etkisi günümüze kadar sürüyor.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-11",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Birinci Dünya Savaşı'ndan sonra sırtından hançerlenme efsanesi neyi iddia ediyordu?",
+    "choices": [
+      "Müttefiklerin ateşkesi bozduğunu",
+      "İmparatorun orduya ihanet ettiğini",
+      "Sahada yenilmemiş olan ordunun iç cephe ve politikacılar tarafından sırtından hançerlendiğini",
+      "Tazminatların Fransa tarafından uydurulduğunu"
+    ],
+    "answer": 2,
+    "explanation": "Hindenburg ve Ludendorff, yenilgideki kendi sorumluluklarını gizlemek için bu efsaneyi yaydı; cumhuriyetin karşıtlarına propaganda silahı olarak hizmet etti.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-01",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Sümerler tarafından geliştirilen, dünyanın bilinen en eski yazı sisteminin adı nedir?",
+    "choices": [
+      "Hiyeroglifler",
+      "Çivi yazısı",
+      "Alfabe",
+      "Runik yazı"
+    ],
+    "answer": 1,
+    "explanation": "MÖ 3200 civarında Sümerler, kama şeklindeki işaretleri kil tabletlere bastılar; bu yüzden Latince kama anlamına gelen sözcükten adını alır.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-02",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Antik Mısır'ın can damarı hangi nehirdi?",
+    "choices": [
+      "Fırat",
+      "İndus",
+      "Dicle",
+      "Nil"
+    ],
+    "answer": 3,
+    "explanation": "Nil'in yıllık taşkını verimli alüvyon getirdi ve Mısır'ı zengin bir tarım ülkesi hâline getirdi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-03",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Babil kralı Hammurabi en çok neyle bilinir?",
+    "choices": [
+      "Yasa derlemesiyle",
+      "Piramitleri inşa etmesiyle",
+      "Tekerleğin icadıyla",
+      "Mısır'ı fethetmesiyle"
+    ],
+    "answer": 0,
+    "explanation": "Hammurabi, MÖ 1750 civarında yaklaşık 280 hukuki hükmü bir stel üzerine, yani Hammurabi Kanunu'na kaydettirdi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-04",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Hangi firavun, yalnızca güneş diski Aton'a taptı ve Akhetaten şehrini kurdu?",
+    "choices": [
+      "II. Ramses",
+      "Khufu",
+      "Akhenaton",
+      "Tutankamon"
+    ],
+    "answer": 2,
+    "explanation": "Akhenaton eski tanrı kültlerini yasakladı ve başkenti günümüzdeki Amarna yakınlarındaki Akhetaten'e taşıdı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-05",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Kadeş Savaşı'ndan sonra günümüze ulaşan en eski barış antlaşması hangi güçler arasında yapılmıştır?",
+    "choices": [
+      "Babil ve Asur",
+      "Mısır ve Hititler",
+      "Sümer ve Akad",
+      "Mısır ve Nubya"
+    ],
+    "answer": 1,
+    "explanation": "II. Ramses ve Hitit kralı III. Hattuşili, savaştan yaklaşık 15 yıl sonra barış ve karşılıklı yardım konusunda anlaştılar.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-06",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Çin yazısının en eski kanıtlarını hangi kaynaklar sunar?",
+    "choices": [
+      "Boyalı ipek tomarlar",
+      "Çin Seddi'nin taş tabletleri",
+      "Zhou döneminin bambu kitapları",
+      "Shang hanedanının kâhin kemikleri"
+    ],
+    "answer": 3,
+    "explanation": "Shang kralları, atalara sorularını öküz kemiklerine ve kaplumbağa kabuklarına kazıdılar; bu yazıtlar en eski Çin yazılı kayıtlarıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-07",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Dünya tarihinde adıyla bilinen ilk yazar kabul edilen kişi kimdir?",
+    "choices": [
+      "Nefertiti",
+      "Hatşepsut",
+      "Enheduanna",
+      "Fu Hao"
+    ],
+    "answer": 2,
+    "explanation": "Akad'lı Sargon'un kızı ve Ur'da başrahibe olan Enheduanna, ilahilerinde kendini yazar olarak adlandırır.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-08",
+    "epochId": "fruehe-hochkulturen",
+    "question": "MÖ 1050 civarında, Yunanlıların daha sonra benimsediği 22 harfli bir alfabe hangi halk tarafından geliştirilmiştir?",
+    "choices": [
+      "Fenikeliler",
+      "Hititler",
+      "Asurlular",
+      "Sümerler"
+    ],
+    "answer": 0,
+    "explanation": "Sur, Sayda ve Biblos'un Fenikelileri yazıyı 22 ünsüz işaretine basitleştirdi; Yunanlılar buna sesli harfler ekledi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-09",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Gılgamış Destanı, diğer şeylerin yanı sıra ne hakkındadır?",
+    "choices": [
+      "Mısır'ın fethi",
+      "Piramitlerin inşası",
+      "Babil'in kuruluşu",
+      "Bir kralın ölümsüzlük arayışı"
+    ],
+    "answer": 3,
+    "explanation": "Arkadaşı Enkidu'nun ölümünden sonra Gılgamış, sonsuz yaşam elde etmek için tufan kahramanı Utnapiştim'i arar, ancak başarısız olur.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-10",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Girit'teki Knossos gibi sarayları hangi uygarlık inşa etmiştir?",
+    "choices": [
+      "Miken uygarlığı",
+      "Minos uygarlığı",
+      "Fenikeliler",
+      "Hititler"
+    ],
+    "answer": 1,
+    "explanation": "Efsanevi kral Minos'un adını taşıyan Minoslular, MÖ 2000 civarından itibaren Avrupa'daki ilk gelişmiş uygarlığı yarattı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-11",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Shang kralı Wu Ding'in eşi Fu Hao'nun dikkat çekici yanı neydi?",
+    "choices": [
+      "Bir kadın olarak orduları savaşa götürdü",
+      "Çin yazısını icat etti",
+      "Çin'in ilk imparatoriçesi olarak hüküm sürdü",
+      "İlk Çin Seddi'ni inşa ettirdi"
+    ],
+    "answer": 0,
+    "explanation": "Kâhin kemikleri, Fu Hao'nun binlerce askerle seferlere komuta ettiğini bildirir; yağmalanmamış mezarı 1976'da Anyang'da bulunmuştur.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-12",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Kralı Piye'nin MÖ 730 civarında Mısır'ı fethettiği Kuş Krallığı nerededir?",
+    "choices": [
+      "Anadolu'da",
+      "Mezopotamya'da",
+      "Günümüzdeki Sudan'da, Nubya'da",
+      "Kızıldeniz kıyısında Etiyopya'da"
+    ],
+    "answer": 2,
+    "explanation": "Başkentleri önce Napata sonra Meroe olan Kuş, Nil üzerinde Mısır'ın güneyinde yer alıyordu; kralları 25. Hanedanı oluşturdu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-01",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Sanayi Devrimi'nin en önemli itici gücü olarak hangi icat kabul edilir?",
+    "choices": [
+      "Buhar makinesi",
+      "Matbaa",
+      "Telefon",
+      "Ampul"
+    ],
+    "answer": 0,
+    "explanation": "James Watt tarafından geliştirilen buhar makinesi, fabrikaları, lokomotifleri ve gemileri çalıştırdı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-02",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1848'de Friedrich Engels ile birlikte Komünist Manifesto'yu kim yazmıştır?",
+    "choices": [
+      "Ferdinand Lassalle",
+      "Karl Marx",
+      "August Bebel",
+      "Vladimir Lenin"
+    ],
+    "answer": 1,
+    "explanation": "Karl Marx ve Friedrich Engels, Manifesto'yu Şubat 1848'de Londra'da yayımladılar.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-03",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Alman İmparatorluğu hangi yıl kurulmuştur?",
+    "choices": [
+      "1848",
+      "1866",
+      "1871",
+      "1888"
+    ],
+    "answer": 2,
+    "explanation": "18 Ocak 1871'de I. Wilhelm, Versay Sarayı'ndaki Aynalar Salonu'nda Alman İmparatoru ilan edildi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-04",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1868 Meiji Restorasyonu'nun sonucu ne olmuştur?",
+    "choices": [
+      "Çin limanlarını açtı",
+      "Kore bağımsız oldu",
+      "Hindistan İngiliz taç kolonisi oldu",
+      "Japonya Batı çizgisinde modernleşti"
+    ],
+    "answer": 3,
+    "explanation": "Şogunluğun düşüşünden sonra Japonya, İmparator Meiji döneminde tek bir kuşak içinde bir sanayi gücü hâline geldi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-05",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1884/85 Berlin Konferansı'nda hangi kıta Avrupa güçleri arasında paylaşılmıştır?",
+    "choices": [
+      "Güney Amerika",
+      "Asya",
+      "Afrika",
+      "Avustralya"
+    ],
+    "answer": 2,
+    "explanation": "Konferans, Afrika topraklarını ele geçirmenin kurallarını belirledi ve Afrika için Yarış'ı başlattı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-06",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1842'de Birinci Afyon Savaşı'ndan sonra hangi ülke Hong Kong'u Büyük Britanya'ya devretmek zorunda kalmıştır?",
+    "choices": [
+      "Japonya",
+      "Çin",
+      "Siyam",
+      "Vietnam"
+    ],
+    "answer": 1,
+    "explanation": "Nanjing Antlaşması'yla Çin, Hong Kong'u devretti ve beş limanını İngiliz ticaretine açtı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-07",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1893'te ulusal düzeyde kadınlara oy hakkı tanıyan dünyadaki ilk ülke hangisidir?",
+    "choices": [
+      "Büyük Britanya",
+      "Finlandiya",
+      "Yeni Zelanda",
+      "ABD"
+    ],
+    "answer": 2,
+    "explanation": "Yaklaşık 32.000 imzalı bir dilekçenin ardından, Yeni Zelanda valisi seçim yasasını 19 Eylül 1893'te imzaladı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-08",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Charles Darwin 1859'da hangi kitabı yayımlamıştır?",
+    "choices": [
+      "Türlerin Kökeni",
+      "Kapital",
+      "Silahları Bırakın!",
+      "Bir Solferino Anısı"
+    ],
+    "answer": 0,
+    "explanation": "Darwin'in ana eseri, canlıların çeşitliliğini evrim ve doğal seçilim yoluyla açıkladı ve ilk gün tükendi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-09",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Kongo Serbest Devleti'ne 1885'ten 1908'e kadar kim sahip olmuştur?",
+    "choices": [
+      "Fransız Cumhuriyeti",
+      "İngiliz Doğu Hindistan Şirketi",
+      "Alman İmparatorluğu",
+      "Belçika kralı II. Leopold, kişisel mülkü olarak"
+    ],
+    "answer": 3,
+    "explanation": "II. Leopold, Kongo'yu kendi kişisel mülkü olarak sömürdü; ancak uluslararası bir skandaldan sonra Belçika koloniyi 1908'de devraldı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-10",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Alman İmparatorluğu 1883'te ilk sosyal sigortası olarak hangisini getirmiştir?",
+    "choices": [
+      "İşsizlik sigortası",
+      "Sağlık sigortası",
+      "Emeklilik sigortası",
+      "Uzun süreli bakım sigortası"
+    ],
+    "answer": 1,
+    "explanation": "Sağlık sigortası 1883'te, kaza sigortası 1884'te, yaşlılık ve maluliyet sigortası 1889'da geldi; işsizlik sigortası ancak 1927'de takip etti.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-11",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Henry Dunant'ı Kızıl Haç'ı kurmaya hangi deneyim yönlendirmiştir?",
+    "choices": [
+      "1859 Solferino Savaşı'nın yaralıları",
+      "Hamburg'daki kolera salgını",
+      "Kırım Savaşı",
+      "Amerikan İç Savaşı"
+    ],
+    "answer": 0,
+    "explanation": "1859'da Dunant, Solferino Savaşı'ndan sonra yaralıların sefaletine tanık oldu ve kitabında gönüllü yardım dernekleri ile koruyucu bir sözleşme çağrısında bulundu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-12",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1857 Sipahi İsyanı'nın Hindistan için sonucu ne olmuştur?",
+    "choices": [
+      "Hindistan bağımsız oldu",
+      "Fransa Bengal'i devraldı",
+      "İngiliz Tacı, yönetimi Doğu Hindistan Şirketi'nden devraldı",
+      "Babür imparatoru tekrar tüm Hindistan'a hükmetti"
+    ],
+    "answer": 2,
+    "explanation": "İsyan bastırıldıktan sonra Doğu Hindistan Şirketi 1858'de feshedildi ve Hindistan doğrudan İngiliz Tacı'na bağlandı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-01",
+    "epochId": "islamische-welt",
+    "question": "İslam takviminin başlangıcını hangi olay işaret eder?",
+    "choices": [
+      "Muhammed'in doğumu",
+      "622'de Medine'ye Hicret",
+      "630'da Mekke'nin fethi",
+      "762'de Bağdat'ın kuruluşu"
+    ],
+    "answer": 1,
+    "explanation": "Muhammed'in 622 yılında Mekke'den Medine'ye göçü, Halife Ömer tarafından İslam takviminin başlangıcı olarak belirlenmiştir.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-02",
+    "epochId": "islamische-welt",
+    "question": "732'de Tours ve Poitiers'de bir Arap-Berberi ordusunu kim yenmiştir?",
+    "choices": [
+      "Şarlman",
+      "Clovis",
+      "Kısa Pepin",
+      "Charles Martel"
+    ],
+    "answer": 3,
+    "explanation": "732'de Frank saray nazırı Charles Martel, Müslüman birliklerin kuzeye ilerleyişini durdurdu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-03",
+    "epochId": "islamische-welt",
+    "question": "762'de Bağdat şehrini hangi hanedan kurmuştur?",
+    "choices": [
+      "Abbasiler",
+      "Emeviler",
+      "Fatımiler",
+      "Osmanlılar"
+    ],
+    "answer": 0,
+    "explanation": "762'de Abbasi halifesi el-Mansur, yeni başkenti olarak Dicle üzerinde yuvarlak şehir Bağdat'ı inşa ettirdi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-04",
+    "epochId": "islamische-welt",
+    "question": "Hangi eser İbn Sina'yı (Avicenna) 17. yüzyıla kadar Avrupa'da ünlü kılmıştır?",
+    "choices": [
+      "er-Rihle",
+      "Binbir Gece Masalları",
+      "Tıp Kanunu",
+      "Cebir Kitabı"
+    ],
+    "answer": 2,
+    "explanation": "Latince çeviriyle, İbn Sina'nın Tıp Kanunu, yüzyıllar boyunca Avrupa üniversitelerinde en önemli tıp ders kitabı oldu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-05",
+    "epochId": "islamische-welt",
+    "question": "Selahaddin, Kudüs'ü Haçlılardan hangi yılda geri almıştır?",
+    "choices": [
+      "1099",
+      "1187",
+      "1258",
+      "1291"
+    ],
+    "answer": 1,
+    "explanation": "Hattin'deki zaferinden sonra Selahaddin, Kudüs'ü 2 Ekim 1187'de aldı; Birinci Haçlı Seferi'yle fetih 1099'da gerçekleşmişti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-06",
+    "epochId": "islamische-welt",
+    "question": "1258'de Bağdat'ı yıkan ve Abbasi halifeliğini sona erdiren kimdir?",
+    "choices": [
+      "Haçlılar",
+      "Selçuklular",
+      "Memlükler",
+      "Hülagü önderliğindeki Moğollar"
+    ],
+    "answer": 3,
+    "explanation": "Cengiz Han'ın torunu Hülagü'nün Moğol ordusu, 1258'de Bağdat'ı ele geçirdi ve son Abbasi halifesini idam ettirdi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-07",
+    "epochId": "islamische-welt",
+    "question": "680'deki hangi olay bugün hâlâ Şiiler için merkezi bir önem taşımaktadır?",
+    "choices": [
+      "Bedir Savaşı",
+      "Hüseyin'in Kerbela'da ölümü",
+      "Kahire'nin kuruluşu",
+      "Malazgirt Savaşı"
+    ],
+    "answer": 1,
+    "explanation": "Peygamber'in torunu Hüseyin, 680'de Emevi halifesi Yezid'in birlikleri tarafından Kerbela'da öldürüldü; Şiiler her yıl Aşure Günü'nde onun ölümünü anar.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-08",
+    "epochId": "islamische-welt",
+    "question": "Cebir sözcüğü nereden gelmektedir?",
+    "choices": [
+      "Bağdat şehrinin adından",
+      "Yunancadan",
+      "Matematikçi el-Harezmi'nin adından",
+      "El-Harezmi'nin bir hesap kitabının başlığından"
+    ],
+    "answer": 3,
+    "explanation": "El-Harezmi'nin tamamlama ve denkleştirme yoluyla hesaplama kitabı, Arapçada el-cebr, cebir adını verdi; kendi adı ise algoritma sözcüğüne kaynaklık etti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-09",
+    "epochId": "islamische-welt",
+    "question": "969'da Kahire şehrini hangi hanedan kurmuştur?",
+    "choices": [
+      "Fatımiler",
+      "Abbasiler",
+      "Selçuklular",
+      "Eyyubiler"
+    ],
+    "answer": 0,
+    "explanation": "Şii Fatımiler, 969'da Mısır'ı fethetti ve Kahire'ye dönüşecek olan saray şehri el-Kahire'yi kurdu; el-Ezher Camii'nin inşaatı 970'te başladı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-10",
+    "epochId": "islamische-welt",
+    "question": "1071'deki Malazgirt Savaşı'nın sonucu ne olmuştur?",
+    "choices": [
+      "Moğollar Bağdat'ı fethetti",
+      "Haçlılar Kudüs'ü aldı",
+      "Türk boyları Anadolu'ya ilerledi",
+      "Emeviler İspanya'yı kaybetti"
+    ],
+    "answer": 2,
+    "explanation": "Selçukluların Bizans üzerindeki zaferinden sonra Türk boyları Anadolu'ya yerleşti; burada Rum Sultanlığı ve daha sonra Osmanlı İmparatorluğu ortaya çıktı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-11",
+    "epochId": "islamische-welt",
+    "question": "859'da Fas'taki el-Karaviyyin camiini kim vakfetmiştir; dünyanın en eski üniversitelerinden biri buradan gelişmiştir?",
+    "choices": [
+      "Aişe bint Ebu Bekir",
+      "Fatıma el-Fihri",
+      "Basralı Rabia",
+      "Şecerüddürr"
+    ],
+    "answer": 1,
+    "explanation": "Bir tüccarın kızı olan Fatıma el-Fihri, mirasından camiin inşasını finanse etti; el-Karaviyyin Üniversitesi bugün hâlâ mevcuttur.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-12",
+    "epochId": "islamische-welt",
+    "question": "2 Ocak 1492'de Granada'da ne olmuştur?",
+    "choices": [
+      "Elhamra Sarayı tamamlandı",
+      "Kolomb Amerika için yola çıktı",
+      "Timur şehri ele geçirdi",
+      "Son emir şehri Katolik Krallara devretti"
+    ],
+    "answer": 3,
+    "explanation": "Boabdil olarak bilinen XII. Muhammed'in Granada'yı İzabel ve Ferdinand'a teslim etmesiyle İspanya'daki Müslüman egemenliği, yaklaşık 800 yıl sonra sona erdi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-01",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Berlin Duvarı hangi yıl yıkılmıştır?",
+    "choices": [
+      "1989",
+      "1961",
+      "1990",
+      "1991"
+    ],
+    "answer": 0,
+    "explanation": "9 Kasım 1989'da Demokratik Almanya sınır geçişlerini açtı; yeniden birleşme 3 Ekim 1990'da gerçekleşti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-02",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1962'de dünyayı nükleer savaşın eşiğine getiren kriz hangisidir?",
+    "choices": [
+      "Süveyş Krizi",
+      "Küba Füze Krizi",
+      "Berlin Ablukası",
+      "Petrol krizi"
+    ],
+    "answer": 1,
+    "explanation": "Küba'daki Sovyet füzeleri, Ekim 1962'de Kennedy ile Kruşçev arasında on üç günlük bir çatışmaya yol açtı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-03",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1994'te Güney Afrika'nın ilk özgür seçimlerinde başkan olan kim olmuştur?",
+    "choices": [
+      "Desmond Tutu",
+      "Frederik de Klerk",
+      "Nelson Mandela",
+      "Thabo Mbeki"
+    ],
+    "answer": 2,
+    "explanation": "27 yıl hapis yatan Nelson Mandela, ANC'nin seçim zaferinin ardından Güney Afrika'nın ilk siyahi başkanı oldu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-04",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Mahatma Gandhi, Hindistan'ın bağımsızlığını hangi yöntemle kazanmıştır?",
+    "choices": [
+      "Silahlı gerilla savaşı",
+      "Japonya ile ittifak",
+      "Milletler Cemiyeti ile müzakereler",
+      "Şiddetsiz direniş ve sivil itaatsizlik"
+    ],
+    "answer": 3,
+    "explanation": "Gandhi, İngiliz yönetimine karşı boykotlara, Tuz Yürüyüşü gibi yürüyüşlere ve şiddetsiz itaatsizliğe dayandı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-05",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Mihail Gorbaçov ile hangi reform kavramları ilişkilendirilir?",
+    "choices": [
+      "Glasnost ve perestroyka",
+      "New Deal ve Fair Deal",
+      "Büyük İleri Atılım ve Kültür Devrimi",
+      "Marshall Planı ve Truman Doktrini"
+    ],
+    "answer": 0,
+    "explanation": "Gorbaçov, açıklık anlamına gelen glasnost ve yeniden yapılanma anlamına gelen perestroyka ile 1985'ten itibaren Sovyetler Birliği'ni reforme etmeye çalıştı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-06",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "2008'de küresel mali krizi hangi olay tetiklemiştir?",
+    "choices": [
+      "Çin'in Dünya Ticaret Örgütü'ne katılması",
+      "Avronun kullanıma girmesi",
+      "Lehman Brothers bankasının iflası",
+      "Brexit"
+    ],
+    "answer": 2,
+    "explanation": "Lehman Brothers'ın 15 Eylül 2008'deki iflası, dünya çapındaki mali sistemi sarstı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-07",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Batılı güçler, 1948'de Sovyetlerin Batı Berlin'e uyguladığı ablukaya nasıl karşılık vermiştir?",
+    "choices": [
+      "Birliklerini Berlin'den çektiler",
+      "Şehri bir hava köprüsüyle beslediler",
+      "Ablukayı tanklarla yardılar",
+      "Sovyetler Birliği'ne deniz ablukası uyguladılar"
+    ],
+    "answer": 1,
+    "explanation": "Neredeyse bir yıl boyunca Amerikan ve İngiliz uçakları, Stalin ablukayı Mayıs 1949'da kaldırana kadar Batı Berlin'e kömür, gıda ve ilaç taşıdı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-08",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1960'a neden Afrika Yılı denmektedir?",
+    "choices": [
+      "Güney Afrika'da apartheid sona erdiği için",
+      "Afrika Birliği kurulduğu için",
+      "Süveyş Kanalı millileştirildiği için",
+      "17 Afrika kolonisi bağımsızlığını kazandığı için"
+    ],
+    "answer": 3,
+    "explanation": "Tek bir yıl içinde, aralarında neredeyse tüm Fransız kolonilerinin yanı sıra Nijerya, Somali ve Kongo'nun da bulunduğu 17 devlet bağımsızlığını kazandı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-09",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1955 Bandung Konferansı'ndan hangi hareket doğmuştur?",
+    "choices": [
+      "Bağlantısızlar Hareketi",
+      "Varşova Paktı",
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Avrupa Ekonomik Topluluğu"
+    ],
+    "answer": 0,
+    "explanation": "Bandung'da 29 Asya ve Afrika devleti, bloklar arasında kendi yollarını izlemeyi talep etti; 1961'de Belgrad'da Bağlantısızlar Hareketi'ni kurdular.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-10",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Rosa Parks, 1955'te Montgomery otobüs boykotunu başlatmak için ne yapmıştır?",
+    "choices": [
+      "Kongre önünde konuşma yaptı",
+      "Hapiste açlık grevi yaptı",
+      "Yerini beyaz bir yolcuya vermeyi reddetti",
+      "Montgomery şehrine karşı dava açtı"
+    ],
+    "answer": 2,
+    "explanation": "Parks otobüste oturmaya devam etti ve tutuklandı; siyahi nüfus ardından şehrin otobüslerini 381 gün boykot etti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-11",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Deng Xiaoping'in 1978'den itibaren yürüttüğü politika neyi temsil eder?",
+    "choices": [
+      "Kültür Devrimi'ni",
+      "Büyük İleri Atılım'ı",
+      "Sovyetler Birliği ile kopuşu",
+      "Reform ve pazar ekonomisine açılımı"
+    ],
+    "answer": 3,
+    "explanation": "Deng, özel girişime izin verdi, özel ekonomik bölgeler oluşturdu ve Çin'i yabancı sermayeye açtı, ancak partinin tek egemenliğinden vazgeçmedi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-12",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Vietnam Savaşı, Kuzey'in Saygon'u ele geçirmesiyle hangi yılda sona ermiştir?",
+    "choices": [
+      "1968",
+      "1975",
+      "1973",
+      "1979"
+    ],
+    "answer": 1,
+    "explanation": "ABD 1973'te çekildi; 30 Nisan 1975'te Kuzey Vietnam birlikleri Saygon'u aldı ve ülkeyi komünist yönetim altında birleştirdi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-01",
+    "epochId": "mittelalter",
+    "question": "MS 800 yılında Noel'de Roma'da kim imparator olarak taç giymiştir?",
+    "choices": [
+      "Clovis",
+      "Büyük Otto",
+      "Kısa Pepin",
+      "Şarlman"
+    ],
+    "answer": 3,
+    "explanation": "Papa III. Leo, Şarlman'ı 25 Aralık 800'de Aziz Petrus Bazilikası'nda imparator olarak taçlandırdı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-02",
+    "epochId": "mittelalter",
+    "question": "Viking Çağı'nın başlangıcı olarak hangi olay kabul edilir?",
+    "choices": [
+      "793'te Lindisfarne manastırına düzenlenen baskın",
+      "Dublin'in kuruluşu",
+      "Grönland'ın keşfi",
+      "Hastings Savaşı"
+    ],
+    "answer": 0,
+    "explanation": "793 yılında Lindisfarne manastırına düzenlenen baskın, tüm Avrupa'da dehşete yol açtı ve Viking Çağı'nın başlangıcını işaret eder.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-03",
+    "epochId": "mittelalter",
+    "question": "1215 tarihli Magna Carta neyi belirlemiştir?",
+    "choices": [
+      "Frank İmparatorluğu'nun bölünmesini",
+      "Papa'nın kardinallerce seçilmesini",
+      "Kralın hukuka bağlı olduğunu ve rıza olmadan vergi koyamayacağını",
+      "Oxford Üniversitesi'nin kuruluşunu"
+    ],
+    "answer": 2,
+    "explanation": "Kral John, kimsenin yargı kararı olmadan hapsedilmeyeceğini ve meclisin onayı olmadan hiçbir verginin alınmayacağını baronlara güvence vermek zorunda kaldı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-04",
+    "epochId": "mittelalter",
+    "question": "1324'te Mekke'ye hac yolculuğu yapan Mansa Musa hangi imparatorluğu yönetmiştir?",
+    "choices": [
+      "Gana İmparatorluğu",
+      "Mali İmparatorluğu",
+      "Songhay İmparatorluğu",
+      "Aksum Krallığı"
+    ],
+    "answer": 1,
+    "explanation": "Mansa Musa, Sahra üzerinden altın ticaretini kontrol eden Batı Afrika'daki Mali İmparatorluğu'nun kralıydı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-05",
+    "epochId": "mittelalter",
+    "question": "Jeanne d'Arc, Yüzyıl Savaşları sırasında 1429'da hangi şehri kurtarmıştır?",
+    "choices": [
+      "Paris",
+      "Reims",
+      "Calais",
+      "Orléans"
+    ],
+    "answer": 3,
+    "explanation": "Mayıs 1429'da Jeanne d'Arc, İngilizlerin Orléans kuşatmasını sona erdirdi ve ardından veliahtı taç giymesi için Reims'e götürdü.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-06",
+    "epochId": "mittelalter",
+    "question": "1453'te İstanbul'u hangi sultan fethetmiştir?",
+    "choices": [
+      "II. Mehmed",
+      "I. Osman",
+      "Kanuni Sultan Süleyman",
+      "I. Bayezid"
+    ],
+    "answer": 0,
+    "explanation": "Fatih olarak anılan II. Mehmed, İstanbul'u 29 Mayıs 1453'te aldı ve Osmanlı İmparatorluğu'nun başkenti hâline getirdi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-07",
+    "epochId": "mittelalter",
+    "question": "Hangi kral, 1077'de Canossa Kalesi önünde tövbekâr olarak papanın affını beklemiştir?",
+    "choices": [
+      "I. Otto",
+      "IV. Henry",
+      "Kızıl Sakallı Friedrich",
+      "Kel Charles"
+    ],
+    "answer": 1,
+    "explanation": "Yatırım Çekişmesi sırasında IV. Henry, Papa VII. Gregorius'tan Canossa'da, papanın 1076'da kendisine uyguladığı aforozdan kurtulmasını istedi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-08",
+    "epochId": "mittelalter",
+    "question": "843'teki Verdun Antlaşması neyi belirlemiştir?",
+    "choices": [
+      "I. Otto'nun imparator taçlandırılmasını",
+      "Viking akınlarının sonunu",
+      "Frank İmparatorluğu'nun Şarlman'ın torunları arasında bölünmesini",
+      "Hansa Birliği'nin kuruluşunu"
+    ],
+    "answer": 2,
+    "explanation": "Verdun'da Kel Charles, Germen Louis ve I. Lothair, Frank İmparatorluğu'nu batı, doğu ve orta krallık olarak üçe böldü.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-09",
+    "epochId": "mittelalter",
+    "question": "MS 532 ile 537 arasında Ayasofya'yı İstanbul'da hangi imparator inşa ettirmiştir?",
+    "choices": [
+      "I. Justinianus",
+      "Büyük Konstantin",
+      "Şarlman",
+      "II. Basileios"
+    ],
+    "answer": 0,
+    "explanation": "I. Justinianus, Nika ayaklanmasından sonra Ayasofya'yı yeniden inşa ettirdi ve 537'de takdis etti; yaklaşık bin yıl boyunca dünyanın en büyük kilisesiydi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-10",
+    "epochId": "mittelalter",
+    "question": "I. Otto, 955 yılında Augsburg yakınlarındaki Lechfeld'de kimi yenmiştir?",
+    "choices": [
+      "Vikingleri",
+      "Saksonları",
+      "Arapları",
+      "Macarları"
+    ],
+    "answer": 3,
+    "explanation": "955'te I. Otto, on yıllardır Orta Avrupa'yı yağmalayan Macar atlı savaşçıları yendi ve 962'de imparator olarak taçlandırıldı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-11",
+    "epochId": "mittelalter",
+    "question": "Yaklaşık 1438'den itibaren Cusco şehir devletini İnka İmparatorluğu'na dönüştüren hükümdar kimdir?",
+    "choices": [
+      "Moctezuma",
+      "Pachacuti",
+      "Atahualpa",
+      "Mansa Musa"
+    ],
+    "answer": 1,
+    "explanation": "Pachacuti, Chankaları yendi, Cusco'yu bir başkente dönüştürdü ve Tawantinsuyu imparatorluğunu kurdu; Atahualpa, İspanyol fethinden önceki son İnka idi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-12",
+    "epochId": "mittelalter",
+    "question": "Güney Afrika'daki taş şehir Büyük Zimbabve, 13. ile 15. yüzyıllar arasında öncelikle neyle geçinmiştir?",
+    "choices": [
+      "Sahra üzerinden tuz ticaretiyle",
+      "Bizans ile ipek ticaretiyle",
+      "Svahili Kıyısı ile altın ve fildişi ticaretiyle",
+      "Novgorod ile kürk ticaretiyle"
+    ],
+    "answer": 2,
+    "explanation": "Büyük Zimbabve'nin hükümdarları altın yataklarını ve sığır sürülerini kontrol ediyor, Kilwa ve Sofala gibi limanlar üzerinden Hindistan'a ve Çin'e kadar ticaret yapıyordu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-01",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1450 civarında hangi icat Johannes Gutenberg'e atfedilir?",
+    "choices": [
+      "Teleskop",
+      "Hareketli harflerle baskı",
+      "Pusula",
+      "Mekanik saat"
+    ],
+    "answer": 1,
+    "explanation": "Mainz'de Gutenberg, tek tek dökülen harflerle ve bir baskı presiyle basımı geliştirdi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-02",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Kristof Kolomb, Amerika'ya hangi yılda ulaşmıştır?",
+    "choices": [
+      "1453",
+      "1498",
+      "1517",
+      "1492"
+    ],
+    "answer": 3,
+    "explanation": "Kolomb, 12 Ekim 1492'de Bahamalar'daki bir adaya ayak bastı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-03",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Luther'in 1517 tarihli 95 Tezi öncelikle neye karşıydı?",
+    "choices": [
+      "Endülüjans satışına karşı",
+      "Serflik uygulamasına karşı",
+      "Baskı sanatına karşı",
+      "İncil'in tercümesine karşı"
+    ],
+    "answer": 0,
+    "explanation": "Luther, endülüjans mektupları satın alarak günah cezasından kurtulma pratiğini eleştirdi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-04",
+    "epochId": "renaissance-entdeckungen",
+    "question": "İspanyollar, Tenochtitlan'ın düşmesiyle 1521'de hangi imparatorluğu fethetmiştir?",
+    "choices": [
+      "İnka İmparatorluğu",
+      "Maya krallığı",
+      "Aztek İmparatorluğu",
+      "Babür İmparatorluğu"
+    ],
+    "answer": 2,
+    "explanation": "Tenochtitlan Aztek başkentiydi; Hernán Cortés, aylarca süren bir kuşatmanın ardından şehri fethetti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-05",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Nicolaus Kopernik, 1543 tarihli eserinde hangi yeniliği ileri sürmüştür?",
+    "choices": [
+      "Dünya bir disktir",
+      "Dünya, Güneş etrafında döner",
+      "Gezegenler elips yörüngelerde hareket eder",
+      "Evren sonsuzdur"
+    ],
+    "answer": 1,
+    "explanation": "Kopernik, Güneş'i merkeze yerleştirdi; eliptik yörüngeler ancak Kepler tarafından keşfedildi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-06",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Trent Konsili'nin (1545-1563) amacı neydi?",
+    "choices": [
+      "Yeni bir papa seçimi",
+      "Ortodoks Kilisesi'yle uzlaşma",
+      "Kopernik'in mahkûm edilmesi",
+      "Reform'a yanıt olarak Katolik öğretisinin netleştirilmesi"
+    ],
+    "answer": 3,
+    "explanation": "Konsil, Katolik öğretiyi Protestanlara karşı yeniden teyit etti ve kilise içinde reformlar kararlaştırdı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-07",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1494 tarihli Tordesillas Antlaşması neyi belirlemiştir?",
+    "choices": [
+      "İngiltere ile İspanya arasında barışı",
+      "Reform'un tanınmasını",
+      "Fransa ile İmparatorluk arasındaki sınırı",
+      "Dünyanın İspanya ile Portekiz arasında bölüşülmesini"
+    ],
+    "answer": 3,
+    "explanation": "Atlantik'te çizilen bir hattın batısındaki yeni topraklar İspanya'ya, doğusundakiler ise Portekiz'e ait olacaktı; Brezilya'nın Portekiz'e düşmesinin nedeni budur.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-08",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1555 tarihli Augsburg Barışı hangi ilkeyi belirlemiştir?",
+    "choices": [
+      "Bölgenin hükümdarı, topraklarının mezhebini belirler",
+      "Her tebaa dinini özgürce seçer",
+      "İmparatorlukta yalnızca Katoliklik serbesttir",
+      "İmparator tüm prenslerin inancına karar verir"
+    ],
+    "answer": 0,
+    "explanation": "Her imparatorluk eyaleti, kendi topraklarında Katolik veya Lutherci mezhep arasında seçim yapabiliyordu; farklı inançtan olanların göç etmesine izin verilirdi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-09",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Askia Muhammed dönemindeki Songhay İmparatorluğu'nda hangi şehir bir öğrenim merkeziydi?",
+    "choices": [
+      "Kahire",
+      "Zanzibar",
+      "Timbuktu",
+      "Büyük Zimbabve"
+    ],
+    "answer": 2,
+    "explanation": "Nijer üzerindeki Timbuktu, Sankore Camii'yle birlikte İslami bilim ve Sahra ticaretinin bir merkeziydi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-10",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1540'ta Cizvit tarikatını kim kurmuştur?",
+    "choices": [
+      "Jean Calvin",
+      "Loyolalı Ignatius",
+      "Rotterdamlı Erasmus",
+      "Thomas More"
+    ],
+    "answer": 1,
+    "explanation": "Eski asker Loyolalı Ignatius, papa tarafından 1540'ta onaylanan İsa Cemiyeti'ni kurdu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-11",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1521'de Worms Meclisi'nde ne olmuştur?",
+    "choices": [
+      "Luther öğretilerinden vazgeçmeyi reddetti",
+      "V. Karl imparator seçildi",
+      "Augsburg Barışı imzalandı",
+      "Luther idam edildi"
+    ],
+    "answer": 0,
+    "explanation": "İmparator V. Karl'ın önünde Luther, ancak İncil'den çürütülürse geri adım atabileceğini açıkladı; bunun üzerine yasaklandı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-12",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1556'dan itibaren Hindistan'daki Babür İmparatorluğu'nu yöneten ve dinî hoşgörüsüyle tanınan hükümdar kimdir?",
+    "choices": [
+      "Kanuni Sultan Süleyman",
+      "Oda Nobunaga",
+      "Ekber",
+      "Babür"
+    ],
+    "answer": 2,
+    "explanation": "Ekber, gayrimüslimlere uygulanan özel vergiyi kaldırdı ve sarayında tüm dinlerin temsilcilerine tartışma imkânı sundu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-01",
+    "epochId": "revolutionen",
+    "question": "Fransız Devrimi'nin başlangıcı olarak hangi olay kabul edilir?",
+    "choices": [
+      "XVI. Louis'nin idamı",
+      "Bastille'nin fethi",
+      "Napolyon'un imparator taçlandırılması",
+      "Leipzig Uluslar Savaşı"
+    ],
+    "answer": 1,
+    "explanation": "14 Temmuz 1789'daki Bastille'nin fethi, Devrim'in açılışı olarak kabul edilir; 14 Temmuz bugün Fransa'nın ulusal bayramıdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-02",
+    "epochId": "revolutionen",
+    "question": "1776'da Büyük Britanya'dan bağımsızlığını ilan eden koloniler hangileridir?",
+    "choices": [
+      "Güney Amerika'daki İspanyol kolonileri",
+      "Saint-Domingue Fransız kolonisi",
+      "Brezilya Portekiz kolonisi",
+      "Kuzey Amerika'daki on üç İngiliz kolonisi"
+    ],
+    "answer": 3,
+    "explanation": "Kuzey Amerika'nın doğu kıyısındaki on üç koloni, Amerika Birleşik Devletleri'ni kurdu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-03",
+    "epochId": "revolutionen",
+    "question": "Haiti Devrimi'nde isyancılara kim önderlik etmiştir?",
+    "choices": [
+      "Toussaint Louverture",
+      "Simón Bolívar",
+      "Maximilien de Robespierre",
+      "José de San Martín"
+    ],
+    "answer": 0,
+    "explanation": "Eski köle Toussaint Louverture, Saint-Domingue'deki isyanın en önemli önderi oldu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-04",
+    "epochId": "revolutionen",
+    "question": "1804 tarihli Medeni Kanun (Code civil) neydi?",
+    "choices": [
+      "İmparatorluk için bir anayasa",
+      "Avusturya ile bir barış antlaşması",
+      "Fransa için tek tip bir medeni kanun",
+      "Zorunlu askerliği getiren bir yasa"
+    ],
+    "answer": 2,
+    "explanation": "Medeni Kanun, medeni hukuku birleştirdi ve yasa önünde eşitliği, mülkiyeti ve sözleşme özgürlüğünü kurdu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-05",
+    "epochId": "revolutionen",
+    "question": "1814 ile 1815 arasındaki Viyana Kongresi'ni hangi devlet adamı en belirleyici biçimde şekillendirmiştir?",
+    "choices": [
+      "Talleyrand",
+      "Metternich",
+      "Bismarck",
+      "Hardenberg"
+    ],
+    "answer": 1,
+    "explanation": "Avusturyalı dışişleri bakanı Metternich, kongreye başkanlık etti ve Restorasyon politikasını temsil etti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-06",
+    "epochId": "revolutionen",
+    "question": "Frankfurt Ulusal Meclisi 1849'da neden başarısız olmuştur?",
+    "choices": [
+      "Hiçbir temel hak konusunda anlaşamadı",
+      "III. Napolyon Frankfurt'a girdi",
+      "Avusturya yeni imparatorluğa katıldı",
+      "Prusya kralı imparatorluk tacını reddetti"
+    ],
+    "answer": 3,
+    "explanation": "1849'da IV. Friedrich Wilhelm, parlamento tarafından sunulan imparatorluk tacını reddetti; Ulusal Meclis bunun ardından dağıldı.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-07",
+    "epochId": "revolutionen",
+    "question": "Amerika Birleşik Devletleri Anayasası 1787'de hangi şehirde kabul edilmiştir?",
+    "choices": [
+      "Philadelphia",
+      "Washington",
+      "New York",
+      "Boston"
+    ],
+    "answer": 0,
+    "explanation": "Mayıs'tan Eylül 1787'ye kadar 55 delege, George Washington başkanlığında Philadelphia'da anayasa üzerine görüştü; başkent Washington ancak daha sonra inşa edildi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-08",
+    "epochId": "revolutionen",
+    "question": "Paris kadınları, Ekim 1789'daki Versay yürüyüşüyle neyi elde etmiştir?",
+    "choices": [
+      "Kadınlar için oy hakkını",
+      "Monarşinin kaldırılmasını",
+      "Kralın Paris'e taşınmasını",
+      "Siyasi tutukluların serbest bırakılmasını"
+    ],
+    "answer": 2,
+    "explanation": "Kadınlar, XVI. Louis'yi İnsan Hakları Bildirgesi'ni imzalamaya ve ailesiyle birlikte Versay'dan Paris'e taşınmaya zorladı; orada halkın gözleri önünde durdu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-09",
+    "epochId": "revolutionen",
+    "question": "Napolyon'un Mısır seferinden hangi buluntu hiyerogliflerin çözülmesini mümkün kılmıştır?",
+    "choices": [
+      "İskenderiye tomarları",
+      "Rosetta Taşı",
+      "Tutankamon'un mezarı",
+      "Amarna tabletleri"
+    ],
+    "answer": 1,
+    "explanation": "1799'da bulunan Rosetta Taşı, hiyeroglifler, demotik yazı ve Yunanca ile aynı metni taşır; Champollion bununla 1822'de çözümü başardı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-10",
+    "epochId": "revolutionen",
+    "question": "6 Ağustos 1806'da ne olmuştur?",
+    "choices": [
+      "Napolyon kendini imparator ilan etti",
+      "Prusya, Jena Savaşı'nı kaybetti",
+      "Ren Konfederasyonu kuruldu",
+      "II. Franz, Kutsal Roma İmparatorluğu tacını bıraktı"
+    ],
+    "answer": 3,
+    "explanation": "Ren Konfederasyonu'nun kuruluşundan ve Napolyon'un bir ültimatomundan sonra II. Franz, 800 yılı aşkın imparatorluğun feshedildiğini ilan etti.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-11",
+    "epochId": "revolutionen",
+    "question": "18 Haziran 1815 akşamı Waterloo Savaşı'nı kimin gelişi belirlemiştir?",
+    "choices": [
+      "Çar Aleksandr yönetimindeki Rus Muhafızları",
+      "Schwarzenberg yönetimindeki Avusturya ordusu",
+      "Blücher yönetimindeki Prusya birlikleri",
+      "İspanyol gerillaları"
+    ],
+    "answer": 2,
+    "explanation": "Wellington'un ordusu, Blücher'in Prusyalıları gelip Napolyon'un ordusunu bozguna uğratana kadar tüm gün dayandı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-12",
+    "epochId": "revolutionen",
+    "question": "Mary Wollstonecraft 1792'de hangi eseri yayımlamıştır?",
+    "choices": [
+      "Kadın Haklarının Savunusu",
+      "Kadın ve Kadın Yurttaş Hakları Bildirgesi",
+      "Toplum Sözleşmesi",
+      "Frankenstein"
+    ],
+    "answer": 0,
+    "explanation": "Wollstonecraft, Kadın Haklarının Savunusu'nda kadınlar için eşit eğitim ve yurttaşlık hakları talep etti; Kadın ve Kadın Yurttaş Hakları Bildirgesi ise Olympe de Gouges'in eseridir.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-01",
+    "epochId": "rom",
+    "question": "Efsaneye göre Roma hangi yılda kurulmuştur?",
+    "choices": [
+      "MÖ 1000",
+      "MÖ 753",
+      "MÖ 509",
+      "MÖ 264"
+    ],
+    "answer": 1,
+    "explanation": "Roma geleneği, Romulus tarafından kuruluş yılı olarak MÖ 753'ü verir.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-02",
+    "epochId": "rom",
+    "question": "Roma, üç Pön Savaşı'nı hangi şehre karşı yürütmüştür?",
+    "choices": [
+      "Atina",
+      "İskenderiye",
+      "Kartaca",
+      "Syracuse"
+    ],
+    "answer": 2,
+    "explanation": "Kuzey Afrika'daki Kartaca, Roma'nın büyük rakibiydi ve MÖ 146'da yıkıldı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-03",
+    "epochId": "rom",
+    "question": "MÖ 44'te Mart Idus'unda ne olmuştur?",
+    "choices": [
+      "Sezar öldürüldü",
+      "Roma, Galyalılar tarafından ele geçirildi",
+      "Augustus imparator oldu",
+      "Vezüv patladı"
+    ],
+    "answer": 0,
+    "explanation": "Brutus ve Cassius çevresindeki senatörler, Sezar'ı MÖ 44'te 15 Mart'ta bıçaklayarak öldürdü.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-04",
+    "epochId": "rom",
+    "question": "Augustus tarafından kurulan yönetim biçiminin adı nedir?",
+    "choices": [
+      "Tiranlık",
+      "Dominat",
+      "Tetrarşi",
+      "Prensip"
+    ],
+    "answer": 3,
+    "explanation": "Augustus, eşitler arasında birinci anlamına gelen princeps olarak hüküm sürdü; bu yüzden Prensip adı verilir.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-05",
+    "epochId": "rom",
+    "question": "313'te Hristiyanlara din özgürlüğü tanıyan imparator hangisidir?",
+    "choices": [
+      "Neron",
+      "Konstantin",
+      "Diocletianus",
+      "Trajan"
+    ],
+    "answer": 1,
+    "explanation": "313'te Konstantin ve Licinius, Milano'da dinin serbestçe uygulanması konusunda anlaştı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-06",
+    "epochId": "rom",
+    "question": "476'da son Batı Roma imparatorunu kim tahttan indirmiştir?",
+    "choices": [
+      "Attila",
+      "Alarik",
+      "Odoacer",
+      "Theodorik"
+    ],
+    "answer": 2,
+    "explanation": "Germen komutan Odoacer, Romulus Augustulus'u tahttan indirdi ve İtalya'nın kralı oldu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-07",
+    "epochId": "rom",
+    "question": "MÖ 450 civarındaki On İki Levha Kanunu neydi?",
+    "choices": [
+      "Kartaca ile bir barış antlaşması",
+      "Roma'nın ilk yazılı hukuk kanunu",
+      "Hristiyanlara karşı bir yasa",
+      "Augustus'un anayasası"
+    ],
+    "answer": 1,
+    "explanation": "Pleblerin baskısı altında kanun, on iki levhaya kaydedildi ve Forum'da halka açık şekilde sergilendi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-08",
+    "epochId": "rom",
+    "question": "Antik çağın en büyük köle isyanına MÖ 73'ten 71'e kadar kim önderlik etmiştir?",
+    "choices": [
+      "Arminius",
+      "Vercingetorix",
+      "Spartaküs",
+      "Crassus"
+    ],
+    "answer": 2,
+    "explanation": "Gladyatör Spartaküs, Capua'dan kaçtı ve Crassus onu MÖ 71'de yenene kadar on binlerce köleye önderlik etti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-09",
+    "epochId": "rom",
+    "question": "MS 117'de Roma İmparatorluğu, hangi imparator döneminde en geniş sınırlarına ulaşmıştır?",
+    "choices": [
+      "Trajan",
+      "Neron",
+      "Augustus",
+      "Diocletianus"
+    ],
+    "answer": 0,
+    "explanation": "Trajan, Dakya, Ermenistan ve Mezopotamya'yı fethetti; ardılı Hadrianus doğudaki fetihlerden yeniden vazgeçti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-10",
+    "epochId": "rom",
+    "question": "İmparator Caracalla'nın Constitutio Antoniniana'sı MS 212'de neyi belirlemiştir?",
+    "choices": [
+      "İmparatorluğun dört parçaya bölünmesini",
+      "Pagan kültlerin yasaklanmasını",
+      "Başkentin İstanbul'a taşınmasını",
+      "İmparatorluğun neredeyse tüm özgür sakinlerine Roma yurttaşlığını"
+    ],
+    "answer": 3,
+    "explanation": "Ferman, milyonlarca eyalet sakinini Roma yurttaşı yaptı; Roma hukuku artık tüm imparatorlukta geçerliydi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-11",
+    "epochId": "rom",
+    "question": "Diocletianus, 293'te hangi yönetim biçimini getirmiştir?",
+    "choices": [
+      "Prensip",
+      "Tetrarşi",
+      "Cumhuriyet",
+      "Triumvirlik"
+    ],
+    "answer": 1,
+    "explanation": "Tetrarşi'de iki imparator ve iki genç imparator, sınırları daha etkili savunmak için imparatorluğu birlikte yönetiyordu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-12",
+    "epochId": "rom",
+    "question": "415'te İskenderiye'de Hristiyan bir kalabalık tarafından öldürülen bilgin kimdir?",
+    "choices": [
+      "Livia",
+      "Kleopatra",
+      "Hypatia",
+      "Agrippina"
+    ],
+    "answer": 2,
+    "explanation": "Matematikçi ve filozof Hypatia, şehir valisi ile Piskopos Kyrillos arasındaki iktidar mücadelesine karıştı ve öldürüldü.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-01",
+    "epochId": "urgeschichte",
+    "question": "Modern insan, Homo sapiens hangi kıtada ortaya çıkmıştır?",
+    "choices": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Amerika"
+    ],
+    "answer": 2,
+    "explanation": "Homo sapiens'in en eski fosilleri Afrika'dan gelmektedir ve yaklaşık 300.000 yıllıktır.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-02",
+    "epochId": "urgeschichte",
+    "question": "Neolitik Devrim ile ne kastedilmektedir?",
+    "choices": [
+      "Tarıma, hayvancılığa ve yerleşik yaşama geçiş",
+      "Yazının icadı",
+      "İnsanların Afrika'dan göçü",
+      "Demirin ilk kez işlenmesi"
+    ],
+    "answer": 0,
+    "explanation": "Neolitik dönemde insanlar bitki yetiştirmeye ve hayvan beslemeye başladı ve köylerde kalıcı olarak yaşadı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-03",
+    "epochId": "urgeschichte",
+    "question": "Fransa'daki Lascaux mağarası neyle bilinir?",
+    "choices": [
+      "En eski taş aletlerle",
+      "Buzul Çağı hayvan resimleriyle",
+      "Bir Neandertal iskeletiyle",
+      "İlk tahıl buluntularıyla"
+    ],
+    "answer": 1,
+    "explanation": "Lascaux'da insanlar, yaklaşık 17.000 yıl önce mağara duvarlarına yüzlerce at, yaban öküzü ve geyik resmi yapmıştır.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-04",
+    "epochId": "urgeschichte",
+    "question": "İlk insanlar Amerika'ya nasıl ulaşmıştır?",
+    "choices": [
+      "Gemiyle Atlantik'i geçerek",
+      "Afrika'dan bir kara köprüsü üzerinden",
+      "Avustralya'dan tekneyle",
+      "Sibirya'dan Alaska'ya Bering kara köprüsü üzerinden"
+    ],
+    "answer": 3,
+    "explanation": "Buzul Çağı sırasında deniz seviyesi o kadar düşüktü ki Sibirya ile Alaska arasında sağlam bir kara vardı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-05",
+    "epochId": "urgeschichte",
+    "question": "Buz Adamı Ötzi nasıl ölmüştür?",
+    "choices": [
+      "Bir çatlağa düşerek",
+      "Bir ok atışıyla",
+      "Bir kar fırtınasında donarak",
+      "Bir hastalıktan"
+    ],
+    "answer": 1,
+    "explanation": "Sol omzundaki bir ok ucu, Ötzi'nin öldürüldüğünü göstermektedir.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-06",
+    "epochId": "urgeschichte",
+    "question": "Günümüz Türkiyesi'ndeki Göbekli Tepe'nin dikkat çekici yanı nedir?",
+    "choices": [
+      "Şehir surlu en eski şehirdir",
+      "Tekerlek orada icat edilmiştir",
+      "İnsanlar hâlâ avcı-toplayıcıyken orada anıtsal taş çemberler dikilmiştir",
+      "En eski çivi yazısı tabletleri orada bulunmuştur"
+    ],
+    "answer": 2,
+    "explanation": "Göbekli Tepe'nin T şeklindeki sütunları, bölgede tarım ve hayvancılık henüz yerleşmeden önce, MÖ 9500 civarında yapılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-07",
+    "epochId": "urgeschichte",
+    "question": "Afrika'dan çıkıp Java'ya ve Çin'e kadar yayılan ilk insan türü hangisidir?",
+    "choices": [
+      "Homo erectus",
+      "Homo sapiens",
+      "Neandertaller",
+      "Australopithecus"
+    ],
+    "answer": 0,
+    "explanation": "Homo erectus, yaklaşık 1,8 milyon yıl önce Kafkasya'ya ulaştı ve daha sonra Doğu ve Güneydoğu Asya'ya yayıldı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-08",
+    "epochId": "urgeschichte",
+    "question": "Dünyanın bilinen en eski kil kapları nerede yapılmıştır?",
+    "choices": [
+      "Mezopotamya'da",
+      "Güney Çin'de",
+      "Mısır'da",
+      "Orta Avrupa'da"
+    ],
+    "answer": 1,
+    "explanation": "Güney Çin'deki Xianrendong Mağarası'ndan çıkan çömlek parçaları yaklaşık 18.000 ila 20.000 yıllıktır ve hâlâ avcı-toplayıcılara aittir.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-09",
+    "epochId": "urgeschichte",
+    "question": "Güney Afrika'daki Blombos Mağarası neyle bilinir?",
+    "choices": [
+      "En eski el baltalarıyla",
+      "Lucy'nin iskeletiyle",
+      "En eski kazınmış desenler ve süs boncuklarıyla",
+      "İlk tahıl buluntularıyla"
+    ],
+    "answer": 2,
+    "explanation": "Blombos Mağarası'nda yaklaşık 75.000 yıllık, geometrik desenler taşıyan kırmızı ahşap boya parçaları ve delinmiş salyangoz kabukları bulunmuştur.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-10",
+    "epochId": "urgeschichte",
+    "question": "Denisovalılar nasıl keşfedilmiştir?",
+    "choices": [
+      "Sibirya'da tam bir iskelet aracılığıyla",
+      "Altay'daki mağara resimleri aracılığıyla",
+      "Çin'deki taş aletler aracılığıyla",
+      "Bir parmak kemiğinin DNA analizi aracılığıyla"
+    ],
+    "answer": 3,
+    "explanation": "2010'da Denisova Mağarası'ndan çıkan minik bir parmak kemiğinden, daha önce bilinmeyen bir insan türünün genomu elde edildi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-11",
+    "epochId": "urgeschichte",
+    "question": "Ürdün Vadisi'ndeki hangi yerleşim, MÖ 8000 civarında bir taş sur ve bir kule ile donatılmıştır?",
+    "choices": [
+      "Çatalhöyük",
+      "Eriha",
+      "Uruk",
+      "Göbekli Tepe"
+    ],
+    "answer": 1,
+    "explanation": "Eriha, dünyanın kalıcı olarak yerleşilmiş en eski yerleşimlerinden biri kabul edilir; kule neredeyse dokuz metre yüksekliğindedir.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-12",
+    "epochId": "urgeschichte",
+    "question": "Arkeologlar, MÖ 1500 civarından itibaren Pasifik adalarına yerleşen denizcileri neyden tanır?",
+    "choices": [
+      "Taş çemberlerinden",
+      "Tunç silahlarından",
+      "Damgalı Lapita çömleklerinden",
+      "Mağara resimlerinden"
+    ],
+    "answer": 2,
+    "explanation": "Lapita kültürü, Yeni Kaledonya'daki bir buluntu yerinden adını alır; karakteristik olarak süslenmiş çömlekleri, Tonga ve Samoa'ya kadar uzanan yerleşim yolunu işaret eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-01",
+    "epochId": "zweiter-weltkrieg",
+    "question": "İkinci Dünya Savaşı, Avrupa'da hangi olayla başlamıştır?",
+    "choices": [
+      "Pearl Harbor saldırısı",
+      "Sovyetler Birliği'ne saldırı",
+      "Avusturya'nın ilhakı",
+      "Polonya işgali"
+    ],
+    "answer": 3,
+    "explanation": "1 Eylül 1939'da Wehrmacht Polonya'ya saldırdı; iki gün sonra Büyük Britanya ve Fransa Almanya'ya savaş ilan etti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-02",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Holokost'ta kaç Yahudi öldürülmüştür?",
+    "choices": [
+      "Yaklaşık 600.000",
+      "Yaklaşık altı milyon",
+      "Yaklaşık 60.000",
+      "Yaklaşık 60 milyon"
+    ],
+    "answer": 1,
+    "explanation": "Nasyonal Sosyalistler, yaklaşık altı milyon Avrupalı Yahudinin yanı sıra yüz binlerce Sinti ve Roma'yı, engellileri ve diğer grupları öldürdü.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-03",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Doğu Cephesi'ndeki savaşın dönüm noktası olarak hangi savaş kabul edilir?",
+    "choices": [
+      "Stalingrad",
+      "Verdun",
+      "El Alameyn",
+      "Midway"
+    ],
+    "answer": 0,
+    "explanation": "Şubat 1943'te Altıncı Ordu'nun Stalingrad'da teslim olmasıyla, Wehrmacht Doğu'da kalıcı olarak savunmaya geçti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-04",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Ocak 1942'deki Wannsee Konferansı'nda ne görüşülmüştür?",
+    "choices": [
+      "Sovyetler Birliği'ne saldırı",
+      "Teslim olma koşulları",
+      "Avrupalı Yahudilerin sürgün ve öldürülmesinin örgütlenmesi",
+      "Otoyolların inşası"
+    ],
+    "answer": 2,
+    "explanation": "Reinhard Heydrich'in yönetiminde, SS ve devlet bakanlıkları, Yahudi Sorununun sözde Nihai Çözümü'nü koordine etti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-05",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Sophie ve Hans Scholl hangi direniş grubuna mensuptu?",
+    "choices": [
+      "Kızıl Orkestra",
+      "Beyaz Gül",
+      "Kreisau Çevresi",
+      "Edelweiss Korsanları"
+    ],
+    "answer": 1,
+    "explanation": "Beyaz Gül, Münih'te Nazi rejimine karşı bildiriler dağıttı; Scholl kardeşler 1943'te idam edildi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-06",
+    "epochId": "zweiter-weltkrieg",
+    "question": "İkinci Dünya Savaşı'nın Avrupa'daki sonu olarak hangi tarih kabul edilir?",
+    "choices": [
+      "30 Nisan 1945",
+      "6 Haziran 1944",
+      "2 Eylül 1945",
+      "8 Mayıs 1945"
+    ],
+    "answer": 3,
+    "explanation": "8 Mayıs 1945'te Wehrmacht'ın koşulsuz teslim oluşu yürürlüğe girdi; Japonya ancak 2 Eylül'de teslim oldu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-07",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Almanya ve Sovyetler Birliği, Ağustos 1939'daki Hitler-Stalin Paktı'nın gizli ek protokolünde ne konusunda anlaşmıştır?",
+    "choices": [
+      "Büyük Britanya'ya ortak bir saldırı",
+      "Polonya'nın ve Doğu Avrupa'nın etki alanlarına bölünmesi",
+      "Savaş esirlerinin değişimi",
+      "Tüm gümrük tarifelerinin kaldırılması"
+    ],
+    "answer": 1,
+    "explanation": "Protokol, Polonya'yı Narew, Visla ve San nehirleri boyunca böldü ve Finlandiya'yı, Baltık devletlerini ve Besarabya'yı Sovyet etki alanına atadı.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-08",
+    "epochId": "zweiter-weltkrieg",
+    "question": "20 Temmuz 1944'te Kurt İni Führer karargâhında bombayı kim patlatmıştır?",
+    "choices": [
+      "Erwin Rommel",
+      "Georg Elser",
+      "Dietrich Bonhoeffer",
+      "Claus Schenk Graf von Stauffenberg"
+    ],
+    "answer": 3,
+    "explanation": "Albay Stauffenberg, patlayıcı taşıyan evrak çantasını durum brifinginde yerleştirdi; Hitler hafif yaralı olarak kurtuldu ve Stauffenberg aynı gece kurşuna dizildi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-09",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Aralık 1937'de Nanjing'in ele geçirilmesinden sonra ne olmuştur?",
+    "choices": [
+      "Japon birlikleri, haftalarca süren bir dönemde on binlerce ila yüz binlerce sivil ve esiri öldürdü",
+      "Çin ve Japonya barış yaptı",
+      "Şehir Japonya'nın başkenti ilan edildi",
+      "Milletler Cemiyeti barış gücü gönderdi"
+    ],
+    "answer": 0,
+    "explanation": "Nanjing Katliamı yaklaşık altı hafta sürdü; Tokyo Mahkemesi 200.000'den fazla ölü olduğunu varsaydı ve toplu tecavüz de suçun bir parçasıydı.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-10",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1945/46 Nürnberg Duruşmaları'nda uluslararası bir mahkeme önünde ilk kez hangi suçlama görülmüştür?",
+    "choices": [
+      "Vatana ihanet",
+      "Casusluk",
+      "İnsanlığa karşı suçlar",
+      "Vergi kaçakçılığı"
+    ],
+    "answer": 2,
+    "explanation": "Savaş suçları ve barışa karşı suçların yanı sıra mahkeme, bugün hâlâ uluslararası ceza hukukunu şekillendiren yeni bir suç olan insanlığa karşı suçları getirdi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-11",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Çekoslovakya, 1938 Münih Antlaşması'ndan sonra hangi toprağı Almanya'ya devretmiştir?",
+    "choices": [
+      "Alsas",
+      "Slovakya",
+      "Memel Bölgesi",
+      "Südetler Bölgesi"
+    ],
+    "answer": 3,
+    "explanation": "Büyük Britanya, Fransa, İtalya ve Almanya, Çekoslovakya'nın katılımı olmadan, büyük ölçüde Almanca konuşan Südetler Bölgesi'nin devrine karar verdi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-12",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Nisan 1945'te Flossenbürg toplama kampında idam edilen İtiraf Kilisesi ilahiyatçısı kimdir?",
+    "choices": [
+      "Martin Niemöller",
+      "Dietrich Bonhoeffer",
+      "Clemens August von Galen",
+      "Bernhard Lichtenberg"
+    ],
+    "answer": 1,
+    "explanation": "Bonhoeffer, Abwehr üzerinden direnişe katılmıştı ve Hitler'in emriyle 9 Nisan 1945'te asıldı; Niemöller Dachau toplama kampından sağ kurtuldu.",
+    "difficulty": 3
+  }
+]

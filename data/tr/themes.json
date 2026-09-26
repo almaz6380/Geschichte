@@ -1,0 +1,503 @@
+[
+  {
+    "id": "religionen",
+    "title": "Dinler ve Dünya Görüşleri",
+    "subtitle": "Tepedeki Tapınaktan Din Devletine",
+    "summary": "İnançların topluluklar oluşturduğu, imparatorlukları meşrulaştırdığı ve savaşlara yol açtığı süreç: dinlerin ilk kutsal alanlardan günümüze uzanan yolu.",
+    "intro": [
+      "Şehirler ve yazı ortaya çıkmadan çok önce, avcı-toplayıcılar Göbekli Tepe'de muhtemelen ritüel amaçlarla kullanılan devasa taş çemberler dikmişlerdi. Mısır ve Mezopotamya'nın erken yüksek kültürlerinde din, egemenlikle ayrılmaz biçimde iç içe geçmişti: firavun tanrılar ile insanlar arasındaki aracı olarak görülüyordu ve Akhenaton'un yalnızca güneş tanrısı Aton'a tapınma girişimi ölümünden sonra başarısız oldu. MÖ birinci binyılda Hindistan, Çin ve Yunanistan'da neredeyse eş zamanlı olarak insanı ve eylemlerini merkeze koyan yeni öğretiler ortaya çıktı: Buda, Konfüçyüs ve Laozi taraftar buldu, Yunanlılar ise Delfi'de tanrılarına danıştı. Maurya hükümdarı Aşoka Budizm'i devlet politikası hâline getirdi ve misyonerlerini Sri Lanka'ya kadar gönderdi.",
+      "Roma İmparatorluğu'nda Hristiyanlık üç yüzyıl içinde zulüm gören bir mezhepten devlet dinine dönüştü. Konstantin 313'te din özgürlüğü tanıdı ve İznik Konsili'nde inancın temel esaslarının belirlenmesini sağladı. Batı Roma İmparatorluğu'nun sonundan sonra Montecassino gibi manastırlar ve Clovis gibi Hristiyanlığa geçen krallar inancı Germen halklarına taşıdı. 7. yüzyılda Arap Yarımadası'nda İslam doğdu; halifelerin fetihleriyle birkaç on yıl içinde İspanya'dan Pers topraklarına kadar yayıldı ve erken dönemde Sünnilik ile Şiilik olarak ikiye ayrıldı. Papa ile imparator arasındaki piskopos atama yetkisi üzerine ortaçağ çekişmesi ve Haçlı Seferleri, dinin iktidarla ne kadar sıkı bağlantılı kaldığını göstermektedir.",
+      "Luther'in 95 Tezi'yle 1517'de Batı Kilisesi'nin birliği parçalandı. Reform ve Karşı Reform, ancak Augsburg Barışı ve Vestfalya Barışı ile dizginlenebilen din savaşlarına yol açtı; Huguenotlar gibi din mültecileri anavatanlarını terk etti. Aydınlanma hoşgörü ve kilise ile devletin ayrılmasını talep etti, 19. ve 20. yüzyıllarda birçok Avrupa ülkesinde kiliseler etkisini yitirdi. Aynı zamanda din siyasi bir güç olmaya devam etti: 1979 İran Devrimi bir teokrasi kurdu ve dinî aidiyet bugün de dünya çapında çatışmaları ve kimlikleri şekillendirmektedir."
+    ],
+    "color": "#7c3aed",
+    "eventIds": [
+      "goebekli-tepe",
+      "echnatons-religionsreform",
+      "orakel-von-delphi",
+      "buddha-lehrt-in-nordindien",
+      "konfuzius-und-seine-lehre",
+      "ashoka-verbreitet-den-buddhismus",
+      "mailaender-vereinbarung",
+      "konzil-von-nicaea",
+      "taufe-chlodwigs",
+      "benedikt-gruendet-montecassino",
+      "erste-offenbarung-mohammeds",
+      "schlacht-von-kerbela",
+      "gang-nach-canossa",
+      "erster-kreuzzug",
+      "luthers-95-thesen",
+      "konzil-von-trient",
+      "augsburger-religionsfrieden",
+      "edikt-von-fontainebleau",
+      "iranische-revolution-1979"
+    ],
+    "personIds": [
+      "echnaton",
+      "siddhartha-gautama",
+      "konfuzius",
+      "konstantin-der-grosse",
+      "mohammed",
+      "hildegard-von-bingen",
+      "thomas-von-aquin",
+      "rumi",
+      "martin-luther",
+      "ignatius-von-loyola"
+    ],
+    "termIds": [
+      "dharma",
+      "daoismus",
+      "koran",
+      "sunniten-und-schiiten",
+      "moenchtum",
+      "kreuzzug",
+      "reformation",
+      "gegenreformation"
+    ],
+    "tags": [
+      "din",
+      "kilise",
+      "islam",
+      "budizm",
+      "reform",
+      "inanç"
+    ]
+  },
+  {
+    "id": "wissenschaft-technik",
+    "title": "Bilim ve Teknoloji",
+    "subtitle": "Yontma Taş Aletten World Wide Web'e",
+    "summary": "Araçlar, icatlar ve keşifler insan yaşamını defalarca temelden dönüştürdü. Ortak çizgi ilk taş aletten dijital çağa kadar uzanır.",
+    "intro": [
+      "Oldowan kültürünün en eski taş aletleri yaklaşık 2,6 milyon yıllıktır ve teknoloji tarihinin başlangıcını işaret eder. Ateş, çömlekçilik, tekerlek ve metal işleme uzun aralıklarla bunu izledi, ancak Neolitik dönemle birlikte gelişim hız kazandı. Mezopotamya'nın çivi yazısı bilgiyi kayıt altına almayı mümkün kıldı, demir işlemeciliği ise tarımı ve savaşı değiştirdi. Yunanistan'da Hipokrat ve Arşimet gibi düşünürler doğayı ve bedeni sistematik biçimde gözlemlemeye ve yalnızca tanrılarla açıklamak yerine matematiksel olarak tarif etmeye başladı.",
+      "Çin yüzyıllar boyunca dünyanın teknolojik açıdan en gelişmiş ülkesiydi: kağıt, tahta baskı, barut, pusula ve kağıt para, Avrupa'ya yayılmadan çok önce burada ortaya çıkmıştı. Bağdat'ta Hikmet Evi'nin bilginleri Yunanca, Farsça ve Hintçe eserleri tercüme etti, al-Harezmi ise cebiri kurdu. Bu bilgi Ortaçağ Avrupası'na Endülüs üzerinden ulaştı. 1450 civarında Gutenberg'in hareketli harflerle basımı kitapları uygun fiyatlı hâle getirdi ve yeni fikirlerin hızla yayılması için koşulları yarattı.",
+      "Kopernik, Galileo ve Newton ile 1543 ile 1687 arasında gözleme, deneye ve matematiğe dayanan ve kilisenin direnişine rağmen kabul gören yeni bir dünya görüşü doğdu. Buhar makinesi, demiryolu ve fabrika sistemi 18. ve 19. yüzyıllarda Sanayi Devrimi'ni tetikledi, Darwin türlerin kökenini açıkladı, otomobil ve uçak ise mesafeleri kısalttı. 20. yüzyılda insanlık Sputnik ve Ay'a inişle uzaya ulaştı, nükleer fizik ve bilgisayarlar ise dünyayı hem değiştirdi hem de tehdit etti. 1991'den bu yana World Wide Web milyarlarca insanı birbirine bağladı ve bilgiyi her zamankinden daha kolay erişilebilir kıldı."
+    ],
+    "color": "#0ea5e9",
+    "eventIds": [
+      "oldowan-steinwerkzeuge",
+      "erfindung-des-rades",
+      "sumerische-keilschrift",
+      "beginn-der-eisenzeit",
+      "hippokrates-und-die-medizin",
+      "archimedes-und-die-belagerung-von-syrakus",
+      "erfindung-des-papiers",
+      "al-chwarizmi-begruendet-die-algebra",
+      "song-dynastie-erfindungen",
+      "gutenbergs-buchdruck",
+      "kopernikus-heliozentrisches-weltbild",
+      "galileis-prozess",
+      "newtons-principia",
+      "watts-dampfmaschine",
+      "eisenbahn-stockton-darlington",
+      "darwin-entstehung-der-arten",
+      "erster-motorflug-wright",
+      "sputnik-1957",
+      "mondlandung-1969",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "archimedes",
+      "euklid",
+      "al-chwarizmi",
+      "ibn-sina",
+      "leonardo-da-vinci",
+      "galileo-galilei",
+      "isaac-newton",
+      "james-watt",
+      "marie-curie",
+      "albert-einstein"
+    ],
+    "termIds": [
+      "faustkeil",
+      "keilschrift",
+      "holztafeldruck",
+      "industrielle-revolution",
+      "fabriksystem",
+      "evolutionstheorie"
+    ],
+    "tags": [
+      "icatlar",
+      "doğa bilimleri",
+      "teknoloji",
+      "tıp",
+      "sanayileşme",
+      "uzay uçuşu"
+    ]
+  },
+  {
+    "id": "krieg-frieden",
+    "title": "Savaş ve Barış",
+    "subtitle": "Savaşlar, Barış Antlaşmaları ve Düzen Arayışı",
+    "summary": "Savaşlar imparatorluklar kurdu ve yıktı; onları antlaşmalar, kurallar ve ittifaklarla sınırlama girişimi de en az bunun kadar eskidir. Şiddetin ve onu sınırlamanın tarihi.",
+    "intro": [
+      "Dünyanın günümüze ulaşan en eski barış antlaşması, Kadeş Savaşı'nın ardından Mısırlılar ile Hititler arasında imzalanmıştı. Yunan şehir devletleri Marathon ve Salamis'te Perslere karşı direndi, ancak Peloponez Savaşı'nda birbirlerini yıprattılar. Çin'de Sun Tzu, Savaşan Devletler döneminde bugün hâlâ okunan savaş sanatı ilkelerini formüle etti. Roma, lejyonlarıyla Pön Savaşları'nda bir dünya imparatorluğu kurdu, ancak Teutoburg Ormanı Savaşı'nda sınırlarına dayandı ve bunları Limes ile Hadrianus Seddi ile güvence altına aldı.",
+      "Ortaçağ'da şövalye orduları, kaleler ve kuşatmalar savaşın biçimini belirledi. Haçlı Seferleri dinî coşkuyu fetihle birleştirdi, Yüzyıl Savaşları nesiller boyu sürdü. Otuz Yıl Savaşları Orta Avrupa'nın büyük bölümünü tahrip etti ve 1648'de devletlerin egemenliğini Avrupa düzeninin temeli hâline getiren Vestfalya Barışı ile son buldu. Napolyon Savaşları'nın ardından Viyana Kongresi, büyük güçler arasındaki denge yoluyla kalıcı bir barış sağlamaya çalıştı ve 19. yüzyılda Kızıl Haç ve Cenevre Sözleşmeleri ile insani bir uluslararası hukuk ortaya çıktı.",
+      "Siper savaşı, zehirli gaz ve milyonlarca ölüyle Birinci Dünya Savaşı, sanayinin yıkıcı gücünü ortaya koydu. Versay Antlaşması ve Milletler Cemiyeti yeni savaşları önlemeyi amaçladı, ancak başarısız oldu. İkinci Dünya Savaşı bir imha savaşına dönüştü ve Hiroşima ile Nagazaki'ye atılan atom bombalarıyla sona erdi. Birleşmiş Milletler ve kolektif güvenlik ilkesi bu deneyimden doğdu, ancak Soğuk Savaş vekalet savaşlarını beraberinde getirdi ve Küba Füze Krizi'nde dünyayı nükleer savaşın eşiğine getirdi. Rusya'nın 2022'de Ukrayna'ya saldırısı, devletler arası savaşların 21. yüzyılda bile geçmişte kalmadığını göstermektedir."
+    ],
+    "color": "#dc2626",
+    "eventIds": [
+      "schlacht-bei-kadesch",
+      "schlacht-von-marathon",
+      "zeit-der-streitenden-reiche",
+      "peloponnesischer-krieg",
+      "punische-kriege",
+      "varusschlacht",
+      "schlacht-bei-tours-und-poitiers",
+      "erster-kreuzzug",
+      "hundertjaehriger-krieg",
+      "dreissigjaehriger-krieg",
+      "westfaelischer-frieden",
+      "wiener-kongress",
+      "gruendung-rotes-kreuz",
+      "schlacht-um-verdun",
+      "versailler-vertrag",
+      "schlacht-von-stalingrad",
+      "atombomben-hiroshima-nagasaki",
+      "gruendung-vereinte-nationen",
+      "kubakrise",
+      "russischer-angriff-ukraine-2022"
+    ],
+    "personIds": [
+      "sunzi",
+      "hannibal",
+      "alexander-der-grosse",
+      "saladin",
+      "napoleon-bonaparte",
+      "henry-dunant",
+      "bertha-von-suttner",
+      "winston-churchill",
+      "erwin-rommel",
+      "john-f-kennedy"
+    ],
+    "termIds": [
+      "hoplit",
+      "legion",
+      "kreuzzug",
+      "stellungskrieg",
+      "totaler-krieg",
+      "vernichtungskrieg",
+      "stellvertreterkrieg",
+      "kalter-krieg"
+    ],
+    "tags": [
+      "savaş",
+      "barış",
+      "savaşlar",
+      "uluslararası hukuk",
+      "diplomasi",
+      "askeriye"
+    ]
+  },
+  {
+    "id": "handel-globalisierung",
+    "title": "Ticaret, Ekonomi ve Küreselleşme",
+    "subtitle": "Mal, Para ve Fikirler Dünyayı Nasıl Birbirine Bağladı",
+    "summary": "İlk çiftçilerden İpek Yolu'na ve Hansa Birliği'nden dünya piyasalarına ve mali krizlere kadar: ekonomi ve ticaret kültürleri birbirine bağladı, refah yarattı ve eşitsizlik de üretti.",
+    "intro": [
+      "Neolitik Devrim ile insanlar tahıl yetiştirmeye ve hayvan beslemeye başladı; Mezopotamya'daki sulama fazla ürün elde etmeyi mümkün kıldı, bundan da şehirler, iş bölümü ve ticaret doğdu. Fenikeliler tüm Akdeniz'i kapsayan bir ticaret ağı kurdu ve alfabelerini aktardılar; Yunanlılar İspanya'dan Karadeniz'e kadar koloniler kurdu. Han hanedanı döneminde İpek Yolu ortaya çıktı; bu yol boyunca Çin, Hindistan, Pers toprakları ve Roma arasında ipek, baharat, cam ve fikirler alışverişi yapıldı. Para basımı, yazı ve hukuk sistemleri uzun mesafeli ticareti daha güvenilir hâle getirdi.",
+      "Ortaçağ'da Bağdat, Kahire ve Kurtuba, Batı Afrika'dan Çin'e uzanan bir ticaret bölgesinin merkezleriydi; Timbuktu altın ve tuzla zenginleşti, Mansa Musa'nın hac yolculuğu bu zenginliği tüm İslam dünyasına duyurdu. Marco Polo ve İbn Battuta Asya'nın pazarları hakkında raporlar yazdı, kuzey Avrupa'da ise Hansa Birliği Baltık ile Kuzey Denizi arasındaki ticareti düzenledi. 1492'den sonra Kolomb ve Vasco da Gama kıtaları okyanuslar üzerinden birbirine bağladı. Kolomb Değişimi patates ve mısırı Avrupa'ya, atları ve hastalıkları ise Amerika kıtasına taşıdı; Atlantik köle ticareti ise milyonlarca Afrikalıyı Yeni Dünya'nın plantasyonlarına götürdü.",
+      "Sanayi Devrimi, Büyük Britanya'yı dünyanın atölyesi hâline getirdi; fabrikalar, demiryolları ve Süveyş Kanalı mal akışını hızlandırdı, Afyon Savaşları ise Çin'i dışa açılmaya zorladı. Japonya Batı baskısına Meiji Restorasyonu ile yanıt verdi ve kendini sanayileştirdi. 1929 Büyük Buhranı, ulusal ekonomilerin birbirine ne kadar sıkı bağlı olduğunu gösterdi. 1945'ten sonra dünya ticareti ve refahı hızla arttı; 1973 petrol krizi, avronun kullanıma girmesi ve 2008 mali krizi bağımlılıkları görünür kıldı. 21. yüzyılın küreselleşmesi tedarik zincirlerini, sermaye piyasalarını ve dijital ağları tüm sınırların ötesinde birbirine bağlamaktadır."
+    ],
+    "color": "#d97706",
+    "eventIds": [
+      "neolithische-revolution",
+      "bewaesserungslandwirtschaft-mesopotamien",
+      "phoenizier-und-alphabet",
+      "griechische-kolonisation",
+      "han-dynastie-und-seidenstrasse",
+      "gruendung-bagdads",
+      "marco-polos-reise-nach-china",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum",
+      "erster-hansetag",
+      "vasco-da-gama-erreicht-indien",
+      "beginn-transatlantischer-sklavenhandel",
+      "abschliessung-japans",
+      "mechanischer-webstuhl-fabriksystem",
+      "erster-opiumkrieg",
+      "eroeffnung-suezkanal",
+      "weltwirtschaftskrise-1929",
+      "oelkrise-1973",
+      "einfuehrung-euro-bargeld",
+      "weltfinanzkrise-2008"
+    ],
+    "personIds": [
+      "mansa-musa",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "james-watt",
+      "karl-marx",
+      "kaiser-meiji",
+      "cecil-rhodes",
+      "deng-xiaoping",
+      "tim-berners-lee"
+    ],
+    "termIds": [
+      "seidenstrasse",
+      "hanse",
+      "merkantilismus",
+      "kolumbianischer-austausch",
+      "industrielle-revolution",
+      "imperialismus",
+      "hyperinflation",
+      "globalisierung"
+    ],
+    "tags": [
+      "ticaret",
+      "ekonomi",
+      "küreselleşme",
+      "ipek yolu",
+      "sömürgecilik",
+      "para"
+    ]
+  },
+  {
+    "id": "herrschaft-demokratie",
+    "title": "Egemenlik, Hukuk ve Demokrasi",
+    "subtitle": "Kim Yönetir, Kimin Söz Hakkı Vardır?",
+    "summary": "Tanrı-krallardan ve yasa stellerinden Atina demokrasisine, oradan anayasalara ve insan haklarına: iktidarın nasıl meşrulaştırılıp sınırlandırılacağına dair uzun tartışma.",
+    "intro": [
+      "Erken yüksek kültürlerde egemenlik tanrıların isteği olarak görülüyordu, ancak Hammurabi Kanunları bile bir kralın yazılı yasalarla kendini bağlayabileceğini gösteriyordu. Atina'da Solon ve Kleisthenes, özgür yurttaşları ilk kez kararlara dahil eden reformlar gerçekleştirdi; ancak Attika demokrasisi yalnızca erkeklerle sınırlı kaldı ve kadınları, yabancıları ve köleleri dışladı. Roma krallarını kovdu, kendine On İki Levha Kanunu'nu verdi ve konsüllerden, senato ve halk meclislerinden oluşan bir cumhuriyet geliştirdi. Çin'de İlk İmparator Qin Shi Huang, ülkeyi sıkı örgütlenmiş bir yönetimle birleştirdi ve o günden sonra Gök'ün Buyruğu hanedanların egemenliğini meşrulaştırdı.",
+      "Augustus'un prensliğiyle Roma fiilen bir monarşiye dönüştü, Şarlman'ın imparator taçlandırılmasıyla Ortaçağ bu fikri yeniden ele aldı. Aynı zamanda krallar iktidarlarını soylularla, kiliseyle ve şehirlerle paylaşmak zorunda kaldı: 1215 tarihli Magna Carta İngiliz kralını hukuka bağladı ve meclisler vergileri onayladı. 17. yüzyıl mutlakiyetçiliğinde XIV. Louis gibi hükümdarlar tüm devlet otoritesini kendilerinde topladılar, İngiltere ise Şanlı Devrim ile parlamentonun üstünlüğünü kurdu. Locke ve Montesquieu toplum sözleşmesi ve kuvvetler ayrılığı fikirlerini formüle etti.",
+      "Amerikan ve Fransız Devrimleri bunları anayasalara ve insan hakları bildirgelerine dönüştürdü, Medeni Kanun ise yasa önünde eşitliği tüm Avrupa'ya yaydı. 19. yüzyılda liberaller ve demokratlar 1848 Devrimi'nde anayasalar ve ulus devletler için mücadele etti, 1893'te Yeni Zelanda kadınlara oy hakkı tanıyan ilk ülke oldu. Weimar Anayasası döneminin en modern anayasalarından biriydi, ancak Yetki Yasası bir demokrasinin hukuki yollarla nasıl yok edilebileceğini de gösterdi. 1945'ten sonra insan hakları ve demokrasi dünya çapında yayıldı, 1994'te apartheidin sona ermesi Güney Afrika'yı eşitliğe barışçıl geçişin sembolü hâline getirdi."
+    ],
+    "color": "#2563eb",
+    "eventIds": [
+      "codex-hammurapi",
+      "reformen-solons",
+      "beginn-der-roemischen-republik",
+      "reformen-des-kleisthenes",
+      "zwoelftafelgesetz",
+      "qin-shihuangdi-einigt-china",
+      "augustus-begruendet-den-prinzipat",
+      "kaiserkroenung-karls-des-grossen",
+      "magna-carta",
+      "hof-nach-versailles",
+      "glorious-revolution",
+      "montesquieu-geist-der-gesetze",
+      "verfassung-der-usa",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "code-civil",
+      "maerzrevolution-1848",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "ende-der-apartheid"
+    ],
+    "personIds": [
+      "hammurapi",
+      "perikles",
+      "cicero",
+      "augustus",
+      "karl-der-grosse",
+      "john-locke",
+      "thomas-jefferson",
+      "olympe-de-gouges",
+      "friedrich-ebert",
+      "nelson-mandela"
+    ],
+    "termIds": [
+      "polis",
+      "ostrakismos",
+      "senat",
+      "prinzipat",
+      "mandat-des-himmels",
+      "absolutismus",
+      "gewaltenteilung",
+      "volkssouveraenitaet"
+    ],
+    "tags": [
+      "demokrasi",
+      "anayasa",
+      "hukuk",
+      "monarşi",
+      "insan hakları",
+      "parlamento"
+    ]
+  },
+  {
+    "id": "frauen",
+    "title": "Tarihte Kadınlar",
+    "subtitle": "Hükümdarlar, Düşünürler ve Eşitlik Mücadelesi",
+    "summary": "Kadınlar yönetti, yazdı, araştırma yaptı ve direniş gösterdi, ancak uzun süre iktidardan ve eğitimden dışlanmış kaldılar. Erken yüksek kültürlerden oy hakkına ve sivil haklar hareketine uzanan yolları.",
+    "intro": [
+      "Büyük Çatalhöyük yerleşiminde arkeologlar, anlamı bugün hâlâ tartışılan çok sayıda kadın figürini buldu. Akad'lı Sargon'un imparatorluğundan, dünya tarihinde adıyla bilinen ilk yazar olan rahibe Enheduanna ve orduları savaşa götüren Shang soylusu Fu Hao gelmektedir. Mısır'da Hatşepsut firavun olarak hüküm sürdü, oysa Atina'da kadınlar demokrasiden dışlanmıştı ve eğitimli Aspasia bile Perikles üzerindeki etkisi nedeniyle saldırıya uğradı. VII. Kleopatra, ölümüyle Helenistik çağın sonunu getirmeden önce Mısır'ın son hükümdarı olarak Roma'nın güç sahipleri arasında kendini kabul ettirdi.",
+      "Ortaçağ'da bazı kadınlar büyük bir güce ulaştı: Theodora, Justinianus'un yanında hüküm sürdü, Wu Zetian Çin üzerinde imparatoriçe olarak tek başına hüküm süren tek kadındı ve Murasaki Shikibu, Genji'nin Hikâyesi ile dünyanın ilk romanlarından birini yazdı. Manastırlar Hildegard von Bingen gibi kadınlara eğitim ve etki imkânı sağladı, Jeanne d'Arc ise Yüzyıl Savaşları'nda bir kahraman olurken sapkın ilan edilerek yakıldı. Kastilya'lı İzabel ve I. Elizabeth, kraliçelerin başarıyla hüküm sürebileceğini gösterdi. Aynı zamanda 16. ve 17. yüzyıllarda büyük çoğunluğu kadın olan on binlerce insan, cadı avlarının kurbanı oldu.",
+      "Aydınlanma eşit haklar vaat etti, ancak bununla genellikle yalnızca erkekleri kastetti. 1789'daki Versay'a Kadınlar Yürüyüşü'nde Paris'in kadınları devrime doğrudan müdahil oldu ve Olympe de Gouges, Kadın Hakları Bildirgesi'nde tam eşitlik talep etti; 1793'te idam edildi. 19. yüzyılda eğitim, istihdam ve oy hakkı için mücadele eden örgütlü bir kadın hareketi doğdu; 1893'te Yeni Zelanda kadınlara oy hakkı tanıyan ilk ülke oldu, Almanya ise 1918'de bunu izledi. 1919'da Marie Juchacz bir Alman parlamentosunda konuşma yapan ilk kadın oldu ve Marie Curie iki Nobel Ödülü kazandı. 1955'te Rosa Parks, Montgomery otobüs boykotunu başlatarak sivil haklar mücadelesini aynı zamanda bir kadın direnişi tarihine dönüştürdü."
+    ],
+    "color": "#db2777",
+    "eventIds": [
+      "catalhoeyuek",
+      "sargon-gruendet-akkadisches-reich",
+      "shang-dynastie-orakelknochen",
+      "bau-des-parthenon",
+      "tod-kleopatras",
+      "justinian-und-hagia-sophia",
+      "wu-zetian-wird-kaiserin",
+      "genji-monogatari",
+      "hundertjaehriger-krieg",
+      "fall-granadas",
+      "spanische-armada",
+      "hoehepunkt-der-hexenverfolgung",
+      "oesterreichischer-erbfolgekrieg",
+      "frauenmarsch-nach-versailles",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "montgomery-busboykott"
+    ],
+    "personIds": [
+      "hatschepsut",
+      "enheduanna",
+      "kleopatra-vii",
+      "theodora",
+      "wu-zetian",
+      "hildegard-von-bingen",
+      "jeanne-darc",
+      "olympe-de-gouges",
+      "emmeline-pankhurst",
+      "rosa-parks"
+    ],
+    "termIds": [
+      "staendegesellschaft",
+      "moenchtum",
+      "aufklaerung",
+      "dritter-stand",
+      "weimarer-republik",
+      "buergerrechtsbewegung"
+    ],
+    "tags": [
+      "kadınlar",
+      "eşitlik",
+      "oy hakkı",
+      "kadın hükümdarlar",
+      "kadın hareketi"
+    ]
+  },
+  {
+    "id": "migration-begegnung",
+    "title": "Göç ve Kültürel Karşılaşma",
+    "subtitle": "Halklar Arasında Göçler, Fetihler ve Alışveriş",
+    "summary": "İnsanlar her zaman hareket hâlinde oldu: Afrika'dan tüm dünyaya, tüccar, fatih, mülteci ve yerleşimci olarak. Karşılaşmalar alışveriş ve zenginleşme getirdi, ama aynı zamanda şiddet ve yerinden edilme de.",
+    "intro": [
+      "İnsanlık tarihi bir göçle başlar: Homo erectus neredeyse iki milyon yıl önce Afrika'yı terk etti, modern insan ise yaklaşık 70.000 yıl önce onu izledi ve Avustralya'ya, Asya'ya, Avrupa'ya ve son olarak Amerika kıtasına yerleşti. Lapita kültürü, tekneleriyle Pasifik adalarına ulaştı. Tunç Çağı'nın sonunda Deniz Kavimleri doğu Akdeniz'i kargaşaya sürüklerken, sonraki dönemde Yunan kolonicileri Marsilya'dan Kırım'a kadar şehirler kurdu. İskender'in seferi Yunan dilini ve Yunan sanatını Hindistan'a kadar taşıdı ve Helenistik çağda Budizm ile Yunan heykel sanatının buluştuğu karma bir kültür yarattı.",
+      "Budizm İpek Yolu boyunca Çin'e ulaştı, Xuanzang gibi keşişler ise kutsal metinleri almak için Hindistan'a gitti. Kavimler Göçü, Gotlar, Vandallar ve Hunları Roma İmparatorluğu'na getirdi, Vikingler ise Kuzey Amerika'ya ve Hazar Denizi'ne kadar denize açıldı. Endülüs'te Müslümanlar, Yahudiler ve Hristiyanlar yüzyıllarca bir arada yaşadı, İbn Rüşd gibi bilginler Aristoteles'in felsefesini Latin Avrupa'sına aktardı. Cengiz Han önderliğindeki Moğollar, tarihin en büyük bitişik kara imparatorluğunu kurdu; bu imparatorluğun yolları üzerinde Marco Polo ve İbn Battuta gibi gezginler Doğu ile Batı'yı birbirine bağladı.",
+      "1492'de Kolomb'un varışı, Amerika kıtasının yerli halkları için fetih, salgın hastalıklar ve çöküşle sonuçlanan bir karşılaşmayı başlattı; milyonlarca Afrikalı ise köle olarak Atlantik'i geçti. Huguenotlar gibi din mültecileri, 1845'ten sonraki İrlandalılar gibi açlıktan kaçanlar ve milyonlarca göçmen Yeni Dünya'da daha iyi bir yaşam aradı. 1947'deki Hindistan'ın bölünmesi, 20. yüzyılın en büyük mülteci hareketlerinden birini başlattı ve savaşlar, sömürgeden kurtuluş ve işgücü göçü o zamandan beri göçleri şekillendirmektedir. Göç bugün de dünya siyasetinin büyük sorularından biri olmayı sürdürmekte, kültürlerin karşılaşması ise hem çatışmanın hem de yenilenmenin kaynağı olmaktadır."
+    ],
+    "color": "#059669",
+    "eventIds": [
+      "homo-erectus-verlaesst-afrika",
+      "auszug-aus-afrika",
+      "besiedlung-amerikas",
+      "lapita-besiedlung-pazifik",
+      "ende-der-bronzezeit-seevoelker",
+      "griechische-kolonisation",
+      "alexanders-feldzug-nach-asien",
+      "buddhismus-erreicht-china",
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ueberfall-auf-lindisfarne",
+      "kalifat-von-cordoba",
+      "ibn-ruschd-erklaert-aristoteles",
+      "dschingis-khan-einigt-die-mongolen",
+      "reisen-des-ibn-battuta",
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel",
+      "edikt-von-fontainebleau",
+      "irische-hungersnot",
+      "unabhaengigkeit-indien-pakistan"
+    ],
+    "personIds": [
+      "homo-erectus",
+      "alexander-der-grosse",
+      "xuanzang",
+      "ibn-ruschd",
+      "dschingis-khan",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "akbar"
+    ],
+    "termIds": [
+      "hominini",
+      "hellenismus",
+      "seidenstrasse",
+      "voelkerwanderung",
+      "al-andalus",
+      "kolumbianischer-austausch",
+      "hugenotten",
+      "dekolonisation"
+    ],
+    "tags": [
+      "göç",
+      "kavimler göçü",
+      "kültürel alışveriş",
+      "kaçış",
+      "sömürgeleştirme",
+      "karşılaşma"
+    ]
+  },
+  {
+    "id": "kunst-schrift-bildung",
+    "title": "Sanat, Yazı ve Eğitim",
+    "subtitle": "İnsanlar Bilgiyi Nasıl Koruyup Güzelliği Nasıl Yarattı",
+    "summary": "Buzul Çağı'nın mağara resimlerinden çivi yazısına, kütüphanelerden üniversitelere ve baskıdan internete: insanların kendilerini nasıl ifade ettiğinin ve bilgiyi nasıl aktardığının tarihi.",
+    "intro": [
+      "İnsanlar 75.000 yıl kadar önce Blombos Mağarası'nda kırmızı ahşap boya üzerine desenler kazımış ve süs eşyaları yapmıştı; Lascaux'nun mağara resimleri Buzul Çağı sanatçılarının ulaştığı ustalığı göstermektedir. Sümer'in çivi yazısı ve Mısır'ın hiyerogliflerle yazı tarihi yaklaşık 5.000 yıl önce, önce yönetim ve ticaret için, kısa süre sonra ise Gılgamış Destanı gibi edebiyat için başladı. Fenikelilerin alfabesi yazıyı o kadar basitleştirdi ki Yunanlılar ve Romalılar tarafından benimsendi ve bugün hâlâ harflerimizi şekillendirmektedir. Homeros'un destanları ve Atina'nın trajedileri Avrupa eğitiminin temel metinleri hâline geldi, İskenderiye Kütüphanesi ise dünyadaki tüm bilgiyi toplamaya çalıştı.",
+      "Çin kağıdı ve tahta baskıyı icat etti; 868 tarihli Elmas Sutra tarihi bilinen en eski basılı kitaptır. Bağdat'taki Hikmet Evi'nde ve Kahire'den Timbuktu'ya uzanan medreselerde bilginler antik çağın mirasını korudu ve genişletti. Avrupa'da ilk üniversiteler Bologna ve Paris'te kuruldu, skolastik inanç ile aklı birleştirdi, Gotik üslup ise ışıktan ve taştan katedraller yarattı. Rönesans antik çağı yeniden keşfetti: Brunelleschi, Leonardo ve Michelangelo sanat ile bilimi birleştiren eserler yarattı, Gutenberg'in baskısı ise kitapları kitlesel bir ürüne dönüştürdü.",
+      "Aydınlanmanın Ansiklopedisi, çağın bilgisini herkese erişilebilir kılmaya çalıştı, 19. yüzyılda birçok ülkede zorunlu eğitim getirildi. 1919'dan sonra Bauhaus, sanatı, zanaatı ve teknolojiyi dünya çapında etkili yeni bir görsel dile dönüştürdü. 1933 kitap yakma olayları, özgür sanat ve bilimin diktatörlüklere ne kadar tehlikeli göründüğünü ortaya koydu. World Wide Web ile bugün her zamankinden daha fazla bilgi mevcut, aynı zamanda dijital dünyada eğitimin, gerçeğin ve sanatın nasıl korunabileceği sorusu da yeniden gündeme gelmektedir."
+    ],
+    "color": "#b45309",
+    "eventIds": [
+      "blombos-hoehle-kunst-und-schmuck",
+      "hoehlenmalerei-lascaux",
+      "sumerische-keilschrift",
+      "gilgamesch-epos",
+      "phoenizier-und-alphabet",
+      "homer-und-die-epen",
+      "bibliothek-von-alexandria",
+      "erfindung-des-papiers",
+      "haus-der-weisheit",
+      "diamant-sutra-holztafeldruck",
+      "gruendung-der-universitaet-bologna",
+      "beginn-der-gotik",
+      "timbuktu-gelehrtenzentrum",
+      "brunelleschis-kuppel",
+      "gutenbergs-buchdruck",
+      "michelangelos-david",
+      "erste-baende-der-encyclopedie",
+      "gruendung-des-bauhauses",
+      "buecherverbrennung-1933",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "enheduanna",
+      "sappho",
+      "platon",
+      "sima-qian",
+      "murasaki-shikibu",
+      "johannes-gutenberg",
+      "leonardo-da-vinci",
+      "michelangelo",
+      "erasmus-von-rotterdam",
+      "kaethe-kollwitz"
+    ],
+    "termIds": [
+      "keilschrift",
+      "hieroglyphen",
+      "alphabet",
+      "tragoedie",
+      "holztafeldruck",
+      "scholastik",
+      "gotik",
+      "humanismus"
+    ],
+    "tags": [
+      "sanat",
+      "yazı",
+      "eğitim",
+      "edebiyat",
+      "baskı",
+      "üniversite"
+    ]
+  }
+]

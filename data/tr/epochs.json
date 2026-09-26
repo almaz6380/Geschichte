@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "urgeschichte",
+    "title": "Tarih Öncesi ve Taş Devri",
+    "order": 1,
+    "start": -2600000,
+    "end": -3500,
+    "color": "#78716c",
+    "regions": [
+      "afrika",
+      "europa",
+      "asien",
+      "naher-osten",
+      "amerika",
+      "ozeanien"
+    ],
+    "summary": "Ateşten modern insanın yayılmasına, ilk çiftçilere ve köylere kadar: Taş Devri, insanlık tarihinin en uzun dönemini kapsar.",
+    "overview": [
+      "Tarih öncesi, yazının icadından önceki dönemdir. Yazılı kaynak bulunmadığından bu döneme dair bilgilerimiz yalnızca kemik buluntularından, taş aletlerden, mağara resimlerinden, yerleşim kalıntılarından ve günümüzde ayrıca eski DNA analizlerinden gelir. Taş Devri, aletler için kullanılan en önemli malzemeye göre adlandırılmıştır ve Paleolitik, Mezolitik ve Neolitik olmak üzere üçe ayrılır.",
+      "İnsanın ataları Afrika'da evrimleşmiştir. Homo erectus gibi erken insan türleri ateşi kontrol etmeyi öğrenmiş ve Asya ile Avrupa'ya kadar yayılmıştır. Anatomik olarak modern insan, yani Homo sapiens, yaklaşık 300.000 yıl önce Afrika'da ortaya çıkmıştır. Yaklaşık 70.000 yıl önce küçük gruplar kıtayı terk etmiş ve sonraki on binlerce yıl içinde Asya'ya, Avustralya'ya, Avrupa'ya ve nihayet Amerika kıtasına yerleşmiştir.",
+      "Paleolitik dönem insanları, küçük ve hareketli gruplar halinde avcı-toplayıcı olarak yaşamıştır. Taş, kemik ve tahtadan aletler yapmış, giysi dikmiş, ölülerini gömmüş ve Lascaux mağara resimleri veya fildişinden oyulmuş küçük heykelcikler gibi sanat eserleri yaratmıştır. Bir süre Avrupa ve Asya'yı, yaklaşık 40.000 yıl önce yok olan Neandertaller gibi başka insan türleriyle paylaşmışlardır.",
+      "Son Buzul Çağı'nın sona ermesinden sonra, yaklaşık 11.500 yıl önce Bereketli Hilal'de Neolitik Devrim başladı: insanlar tahıl yetiştirmeye ve hayvan yetiştirmeye başladı, yerleşik hayata geçti. Bu yeni yaşam biçimi yavaş yavaş Avrupa, Afrika ve Asya'ya yayıldı; Çin, Amerika kıtası ve diğer bölgelerde de bağımsız olarak ortaya çıktı. Çatalhöyük gibi köyler, çömlekçilik ve dokumacılıkla birlikte daha büyük yapılar ortaya çıktı.",
+      "Yerleşik hayatla birlikte nüfus arttı, stoklar biriktirildi ve mülkiyet daha önemli hale geldi. Neolitik'in sonlarına doğru bakır işlemeciliği, saban ve tekerlek de eklendi. Bu yeniliklerden yola çıkarak MÖ 3500 civarında Mezopotamya ve Mısır'da ilk şehirler ve erken uygarlıklar gelişti; onlarla birlikte yazılı tarih başlar."
+    ],
+    "consequences": [
+      "Modern insan Afrika'dan yayılarak yaşanabilir her kıtaya yerleşmiş ve bugün hayatta kalan tek insan türüdür.",
+      "Neolitik Devrim, avcı-toplayıcıları yerleşik çiftçilere dönüştürerek köylerin, şehirlerin ve devletlerin temelini oluşturdu.",
+      "Tarım ve hayvancılık; depolamayı, nüfus artışını ve iş bölümünü mümkün kıldı, ama aynı zamanda eşitsizliği, mülkiyeti ve yeni hastalıkları da beraberinde getirdi.",
+      "Taş Devri'nden kalma aletler, ateş, dil, sanat ve din, günümüze kadar insan kültürünün temel özellikleri arasında yer almaya devam etmektedir.",
+      "Çömlekçilik, dokumacılık, tekerlek ve metal işleme gibi buluşlar, Tunç Çağı'nın erken uygarlıklarına giden yolu açtı."
+    ],
+    "tags": [
+      "taş devri",
+      "homo sapiens",
+      "avcı-toplayıcılar",
+      "neolitik devrim",
+      "mağara resmi",
+      "yerleşik hayat",
+      "evrim"
+    ],
+    "keyFacts": [
+      "Yaklaşık 2,6 milyon yıl önce Doğu Afrika'daki erken insanlar ilk taş aletleri (Oldowan) yapar.",
+      "Yaklaşık 1,8 milyon yıl önce Homo erectus, Afrika'yı terk edip Asya ve Avrupa'ya ulaşan ilk insan türü olur.",
+      "En geç 400.000 yıl önce insanlar ateşi düzenli olarak kullanır; yaklaşık 300.000 yıl önce Afrika'da Homo sapiens ortaya çıkar.",
+      "Yaklaşık 75.000 yıl önce Güney Afrika'daki Blombos Mağarası'nda bilinen en eski süs eşyaları ve boncuklar üretilir.",
+      "Yaklaşık 50.000 yıl önce insanlar Avustralya'ya, yaklaşık 15.000 yıl önce Amerika kıtasına ulaşır; MÖ 1500 civarında Pasifik adalarının yerleşimi başlar.",
+      "MÖ 9500'den itibaren Bereketli Hilal'de Neolitik Devrim başlar; tarım, hayvancılık ve Eriha gibi kalıcı köyler ortaya çıkar.",
+      "MÖ 5000 civarında bakır işlemeciliği başlar; MÖ 3500 civarında tekerlek, saban ve evcilleştirilmiş at da bunlara eklenir."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Yüzbinlerce yıl boyunca insanlar, genellikle 20 ila 50 kişiden oluşan ve sabit yöneticilerin bulunmadığı küçük gruplar halinde yaşadı. Kararlar muhtemelen ortaklaşa alınıyor, itibar ise deneyime, avcılıktaki başarıya veya bitki ve şifa bilgisine dayanıyordu. Avcı-toplayıcılar yanlarında neredeyse hiçbir eşya taşıyamadıkları için insanlar arasındaki farklar küçük kalıyordu. Bu nedenle arkeoloji, büyük ölçüde eşitlikçi toplumlardan söz eder.",
+          "Yerleşik hayatla birlikte bu durum değişti. Stoklar, tarlalar, sürüler ve evler miras kalabiliyordu; Eriha veya Çatalhöyük gibi yerleşimler su, toprak ve savunma için kurallara ihtiyaç duyuyordu. Neolitik'te ilk kez zengin donanımlı mezarlar ortaya çıkar; bu da bazı ailelerin diğerlerinden daha fazla nüfuz ve mülke sahip olduğunu gösterir. Taş çemberleri, höyükler veya şehir surları gibi ortak yapılar, birinin yüzlerce insanı örgütleyebilmesini gerektiriyordu.",
+          "Neolitik'in sonlarına doğru ve Bakır Çağı'nda bu gelişme yoğunlaştı. Bulgaristan'daki Varna mezarlığı gibi mezarlardan çıkan bakır baltalar, takılar ve silahlar rütbe ve gücü işaret ediyordu. Köy başkanları ve klan liderleri şeflere dönüştü; şeflikler zamanla Mezopotamya ve Mısır'ın ilk şehir ve devletlerine dönüştü."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Paleolitik'te gündelik yaşam hareketlilikle şekillenmişti: gruplar hayvan sürülerini, olgunlaşan meyveleri ve mevsimleri takip eder; mağaralarda, kaya sığınaklarında veya post ve mamut kemiklerinden yapılmış çadırlarda yaşarlardı. Kadınlar ve erkekler işleri paylaşır; bitki, fındık, yumurta ve küçük hayvan toplayıcılığı çoğu zaman büyük av avcılığından daha fazla besin sağlardı. Çocuklar taklit yoluyla öğrenir; yaşlılar aletler, yollar ve hikâyeler hakkındaki bilgiyi aktarırdı.",
+          "İyileşmiş kemik kırıkları ve bakıma muhtaç kişilerin bulunmasına dair buluntular, hasta ve yaralıların gözetildiğini gösterir. Ölüler gömülür, çoğu zaman aşı boyasıyla kaplanır ve takılar veya aletlerle donatılırdı; bu da bir ölümden sonraki yaşam fikrine işaret eder. Post giysiler kemik iğnelerle dikilirdi; dikiş iğneleri yaklaşık 40.000 yıl öncesinden itibaren kanıtlanmıştır.",
+          "Neolitik köylerinde insanlar her zamankinden daha yakın bir arada yaşadı. Tarım, ağır ve tekdüze bir iş anlamına geliyordu; iskeletler avcı-toplayıcılara kıyasla daha fazla aşınma, diş çürümesi ve eksiklik hastalığı gösterir. Aynı zamanda tahıl lapası emzirme süresini kısalttığı için çocuk sayısı arttı. Kızamık veya tüberküloz gibi hastalıklar evcil hayvanlardan insanlara geçti; stoklar komşuların kıskançlığını uyandırdığından köylerin etrafına çitler ve hendekler yapıldı."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Sembolik düşünce daha önce sanıldığından daha eskidir: Güney Afrika'daki Blombos Mağarası'nda insanlar 75.000 yıl önce aşı boyası parçalarına desenler kazımış ve salyangoz kabuklarından boncuklar yapmıştır. Avrupa'da yaklaşık 40.000 yıl önce, Aslan Adam ve Hohle Fels Venüsü de dahil olmak üzere Swabian Jura'nın fildişi figürleri ile bilinen en eski müzik aletleri olan kuş kemiğinden flütler ortaya çıkmıştır.",
+          "Chauvet, Lascaux veya Altamira gibi mağara resimleri ağırlıklı olarak hayvanları, nadiren de insanları gösterir. Bilim insanları bunları avlanma büyüsünün, inisiyasyon ritüellerinin veya şamanizmin bir parçası olarak yorumlar, ancak bu kesin değildir. Mezar hediyeleriyle yapılan gömüler, hayvan figürleri ve Göbeklitepe'nin kült yapıları, ilk tapınaklar inşa edilmeden çok önce ruhlar, atalar ve doğaüstü güçler fikrine işaret eder.",
+          "Taş Devri insanlarının bilgisi pratik ve kapsamlıydı: yüzlerce bitkinin özelliklerini biliyor, çakmaktaşını hassasiyetle yontabiliyor, huş ağacı katranından yapışkan kaynatabiliyor ve yıldızları yön bulmak için kullanabiliyorlardı. Stonehenge veya Newgrange gibi megalitik anıtlar gündönümlerine göre hizalanmıştır ve Neolitik insanlarının yılın gidişatını yakından izlediğini gösterir. Çömlekçiliğin icadı yiyeceklerin pişirilmesini ve depolanmasını mümkün kıldı; bugün süslemeleri arkeologlara grupların kökenini ve bağlantılarını ortaya koyar."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Paleolitik'in teknolojisi yavaş ama istikrarlı bir şekilde gelişti: Oldowan'ın basit yongalarından, Homo erectus'un iki yüzlü işlenmiş el baltasına, oradan da Homo sapiens'in ince bıçaklarına, mızrak fırlatıcılarına, zıpkınlarına ve yaylarına kadar. Her yenilik avcılığı ve yiyecek hazırlamayı daha verimli hale getirdi. Ticaret de zaten mevcuttu: deniz kabukları ve obsidyen yüzlerce kilometre öteye takas ediliyordu.",
+          "Tarım ve hayvancılıkla birlikte, stok biriktirebilen ve fazlalık üretebilen bir ekonomi ortaya çıktı. Tahıl, çakmaktaşı oraklarla hasat edilir, ambarlarda depolanır ve öğütme taşlarıyla öğütülürdü. Koyun ve keçiler süt, yün ve et sağlıyor, sığırlar ise daha sonra sabanı çekiyordu. MÖ 6000 civarında Mezopotamya'daki sulama kanalları kurak bölgeleri bile verimli hale getirdi ve daha büyük köylerin kurulmasını sağladı.",
+          "Bakır Çağı'nda insanlar cevherleri eritmeye ve metali kalıplarda dökmeye başladı. Bakır baltalar, iğneler ve takılar aranan takas malları olsa da hâlâ yumuşaktı; bu sorunu ancak tunç çözdü. Tekerlek ve araba, çömlekçi çarkı, dokuma tezgahı ve evcilleştirilmiş atlar ile eşekler ulaşımı ve zanaatı değiştirdi ve erken uygarlıklara geçişi başlattı."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fruehe-hochkulturen",
+    "title": "Erken Uygarlıklar",
+    "order": 2,
+    "start": -3500,
+    "end": -800,
+    "color": "#d97706",
+    "regions": [
+      "naher-osten",
+      "afrika",
+      "asien",
+      "amerika"
+    ],
+    "summary": "Fırat, Nil, İndus ve Sarı Nehir kıyılarında ilk şehirler, devletler ve yazılar ortaya çıkar: Mezopotamya, Mısır, İndus uygarlığı ve Çin, Tunç Çağı'na damgasını vurur.",
+    "overview": [
+      "MÖ 3500 civarında Fırat ile Dicle arasında, Mezopotamya'da dünyanın ilk şehirleri ortaya çıktı. Sulama tarımı, rahipleri, zanaatkârları, tüccarları ve memurları besleyen fazlalıklar üretti. Stokları, vergileri ve ticareti yönetmek için Sümerler çivi yazısını geliştirdi. Tapınaklar ve saraylar, krallar, yasalar ve daimi ordular bu erken devletleri karakterize eder.",
+      "MÖ 3100 civarında Nil kıyısında Yukarı Mısır'dan bir kral ülkeyi tek bir krallık halinde birleştirdi. Firavunlar yeryüzündeki tanrılar olarak görülüyor ve kendilerini devasa piramitlerde gömdürüyorlardı. Nil'in yıllık taşkını, Mısır'ı zengin bir tarım ülkesi haline getirdi; hiyeroglifleri, mumyalama geleneği ve tapınak inşaatıyla kültürü neredeyse üç bin yıl boyunca dikkat çekici bir istikrar gösterdi.",
+      "Erken uygarlıklar başka nehir vadilerinde de ortaya çıktı: İndus Vadisi'nde, MÖ 2500 civarında, kanalizasyonu ve standartlaştırılmış ölçüleriyle sistematik olarak planlanmış Mohenjo-Daro ve Harappa gibi şehirler gelişti. Çin'de MÖ 1600 civarından itibaren Shang hanedanı hüküm sürdü ve Çin yazısı falcılık kemiklerinden doğdu. Mezoamerika'da Olmekler, MÖ 1200'den itibaren Maya gibi sonraki kültürlerin temellerini attı.",
+      "Bakır ve kalayın bir alaşımı olan tunç, döneme adını verdi. Daha iyi silah ve aletler üretmeyi mümkün kıldı ve kalayın nadir bulunması nedeniyle uzun mesafeli ticareti teşvik etti. Akad kralı Sargon, Babil kralı Hammurabi veya Mısır'ın Ramses II gibi hükümdarlar büyük imparatorluklar kurdu, ittifaklar yaptı ve ticaret yolları ile haraç uğruna savaştılar. Mısırlılar ile Hititler arasında Kadeş Savaşı'ndan sonra imzalanan antlaşma, günümüze ulaşan en eski barış antlaşmasıdır.",
+      "MÖ 1200 civarında Doğu Akdeniz'deki birçok imparatorluk birkaç on yıl içinde çöktü. Kuraklıklar, depremler, isyanlar ve Deniz Halkları olarak adlandırılan saldırganların akınları bunda etkili oldu. Tunç Çağı'nın sona ermesiyle birlikte Demir Çağı başladı; bu dönemde Fenikeliler, İsrailliler, Asurlular ve Yunanlılar gibi yeni halklar tarihin akışını belirledi."
+    ],
+    "consequences": [
+      "Yazıyla birlikte gerçek anlamda tarih başlar: yönetim, yasalar, edebiyat ve bilgi artık kalıcı olarak kayda geçirilebiliyordu.",
+      "Şehirler, devletler, krallar, memurlar, vergiler ve ordular bu dönemde ortaya çıktı ve günümüze kadar siyasi düzene şekil veriyor.",
+      "Hammurabi Kanunları gibi yasa derlemeleri, hukukun yazıyla tespit edilmesi ve kamuya açık olarak bilinmesi gerektiği fikrini yerleştirdi.",
+      "Erken uygarlıkların astronomisi, matematiği, takvimleri, tıbbı ve mimarisi Yunanlılar, Romalılar ve sonraki kültürler tarafından devralındı.",
+      "Mısır, Mezopotamya ve Çin'in yazı sistemleri, bugün dünya çapında kullanılan alfabelerin ve yazı sistemlerinin öncüsü oldu."
+    ],
+    "tags": [
+      "mezopotamya",
+      "mısır",
+      "çivi yazısı",
+      "piramitler",
+      "tunç çağı",
+      "firavunlar",
+      "indus uygarlığı",
+      "shang hanedanı"
+    ],
+    "keyFacts": [
+      "MÖ 3200 civarında Uruk'ta çivi yazısı ortaya çıkar; MÖ 3100 civarında bir firavun Yukarı ve Aşağı Mısır'ı birleştirir.",
+      "MÖ 2600 civarında Sümer'de Ur, Uruk, Lagaş ve Kiş gibi şehir devletleri rekabet eder; kralları Ur Kraliyet Mezarlığı'nda zengin mezar hediyeleriyle yatmaktadır.",
+      "MÖ 2100 civarından itibaren kil tabletlere aktarılan Gılgamış Destanı, insanlığın en eski büyük edebiyat eseridir.",
+      "MÖ 2000 ile 1200 arasında Girit'teki Minoslulara ve Yunanistan'daki Miken uygarlığına ait saraylar, Avrupa'nın ilk erken uygarlıkları olarak gelişir.",
+      "MÖ 1650 civarından itibaren Hititler, Hattuşaş'tan Anadolu'ya hükmeder ve Mısır'ın büyük rakibi haline gelir.",
+      "MÖ 1200 civarında birçok imparatorluk çöker; ardından demir ve 22 harfli Fenike alfabesi yaygın olarak kullanılmaya başlar.",
+      "MÖ 900 civarından itibaren yeni güçler ortaya çıkar: Yeni Asur İmparatorluğu, Nubya'daki Kuş Krallığı ve Peru'daki Chavín kültürü."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Erken uygarlıkların kralları güçlerini tanrılardan alıyordu. Sümer'de hükümdar, tapınağın ve toprağın büyük bir kısmının sahibi olan şehir tanrısının vekili olarak görülüyordu; Mısır firavunu ise güneş tanrısı Ra'nın oğlu ve Horus'un bedenlenmiş hali olarak, kendisi de yeryüzündeki bir tanrı gibi tapılırdı. Bu dinsel meşrulaştırma yönetimi istikrarlı kılıyordu, ama aynı zamanda kralı düzeni, adaleti ve bereketi sağlamakla yükümlü kılıyordu.",
+          "Su ve sınır toprakları için birbirleriyle savaşan Sümer şehir devletlerinden, Akad kralı Sargon ve daha sonra Babil kralı Hammurabi döneminde, valiler, ulaklar ve vergi listeleriyle donatılmış bölgesel imparatorluklar doğdu. Yönetim yazıya dayanıyordu: kâtipler hasatları, vergileri, işçileri ve tayınları binlerce kil tablete kaydediyordu. Mısır'da bir vezir, firavun adına eyaletlerin memurlarını yönetiyordu; Orta Krallık döneminde geniş bir eğitimli yönetici memurlar sınıfı ortaya çıktı.",
+          "MÖ 2. binyılda Mısır, Hititler, Babil, Mitanni ve Asur gibi büyük güçlerden oluşan bir devletler sistemi şekillendi; bu güçler elçiler, Akadca yazılan mektuplar, hediyeler ve evlilik ittifakları yoluyla birbirleriyle ilişki kuruyordu. Amarna mektupları ile II. Ramses ve III. Hattuşili arasındaki antlaşma, bu erken diplomasiye tanıklık eder. MÖ 1200 civarındaki çöküşten sonra Asurlular, sürgünler, eyaletler ve daimi bir ordu kullanarak tüm Yakın Doğu'ya hükmeden ilk imparatorluğu kurdu."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Erken uygarlıkların toplumları sıkı bir şekilde düzenlenmişti. En üstte kral, rahipler ve yüksek memurlar, onların altında kâtipler, tüccarlar ve zanaatkârlar bulunuyordu; büyük çoğunluğu ise tapınakların, sarayların veya büyük toprak sahiplerinin topraklarını işleyen ve vergi ödeyen köylüler oluşturuyordu. Çoğunlukla savaş esirleri veya borçlular olan köleler en altta yer alıyordu, ancak ekonomide daha sonra Yunanistan ve Roma'da olduğundan daha küçük bir rol oynuyorlardı.",
+          "Mısır'daki kadınlar görece pek çok hakka sahipti: mülk sahibi olabilir, sözleşme yapabilir, mahkemede dava açabilir ve ticaretle uğraşabilirlerdi. Hatşepsut gibi bazı kadınlar hatta firavun olarak hükmetmiş, Nefertiti ve Fu Hao büyük bir nüfuz sahibi olmuş, Enheduanna ise önemli bir tapınağı başrahibe olarak yönetmiştir. Mezopotamya'da Hammurabi Kanunları evlilik, çeyiz, boşanma ve mirası ayrıntılı olarak düzenliyordu; üst sınıftan kadınlar rahibe veya iş kadını olarak çalışabiliyordu, ama babalarına veya kocalarına tabiydiler.",
+          "Çoğunluğun gündelik yaşamı, iç avlulu kerpiç evlerde geçiyordu. İnsanlar ekmek, soğan, mercimek, hurma ve balık yiyor, arpadan mayalanmış bira içiyor, şarap ise bir lüks sayılıyordu. Üst sınıf çocukları, yazı okullarında yıllarca çivi yazısı veya hiyeroglif öğrenirken, köylü çocukları tarlalarda yardım ediyordu. Babil'deki Yeni Yıl bayramı veya Teb'deki Opet bayramı gibi tanrılar onuruna düzenlenen şölenler, çalışma yılını kesintiye uğratıyor ve tüm şehri bir araya getiriyordu."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Erken uygarlıkların dinleri, doğa güçlerinden, şehirlerden ve yaşam alanlarından sorumlu birçok tanrı tanıyordu: Mezopotamya'da Enlil, İnanna ve Marduk, Mısır'da Ra, Osiris ve İsis, Hititlerde ise fırtına tanrısı. Ur'un ziggurati veya Karnak Tapınağı gibi tapınaklar aynı anda tanrıların meskeni, bir ekonomik işletme ve bir öğrenim merkeziydi. Mısırlılar, ölümden sonra devam eden bir yaşama inanıyordu; bu da mumyalama, mezar hediyeleri ve Osiris'in huzurunda ölülerin yargılanmasını gerektiriyordu.",
+          "Yazıyla birlikte edebiyat ortaya çıktı. Gılgamış Destanı, dostluğu, ölüm korkusunu ve büyük bir tufanı anlatır; Sinuhe'nin Hikâyesi gibi Mısır metinleri, aşk şiirleri ve bilgelik öğretileri yüzyıllar boyunca çoğaltılmıştır. Sargon'un kızı Enheduanna ilahiler yazmış ve dünyada ismiyle bilinen ilk yazardır. MÖ 1050 civarında Fenikeliler yazıyı 22 ünsüz harften oluşan bir alfabeye dönüştürerek sadeleştirdi; bu alfabeyi Yunanlılar, Romalılar ve daha sonra dünyanın neredeyse tamamı benimsedi.",
+          "Erken uygarlıkların bilimi pratik ihtiyaçlardan doğdu. Babilli rahipler yıldızları ve gezegenleri gözlemliyor, ay tutulmalarını önceden tahmin ediyor ve çemberin 360 dereceye, saatin ise 60 dakikaya bölünmesini oluşturuyordu. Mısırlı hekimler yaraları ve ilaçları papirüslerde tanımlıyor, arazi ölçücüler her Nil taşkınından sonra tarlaları yeniden hesaplıyor, 365 günlük Mısır takvimi ise bizim kendi takvimimizin modeli haline geliyordu."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Erken uygarlıkların temeli, sulama ve nehir çamuru sayesinde yüksek fazlalık üreten bir tarımdı. Mezopotamya'da tuzlanma tarlaları tehdit ettiği için kanalların sürekli bakımı gerekiyordu; Mısır'da ise Nil taşkını ekim ve hasadın ritmini belirliyordu. Saban, orak, eşek ve sığır ile Orta Krallık döneminde ayrıca su kaldırma araçları ve Fayyum'un toprak kazanım projesi verimi artırdı.",
+          "Bakır ve kalaydan yapılan tunç, silahlar, aletler ve kült kapları için belirleyici malzemeydi, ancak kalay nadirdi ve Anadolu, İran veya Afganistan'dan geliyordu. Bu nedenle ticaret yolları binlerce kilometre uzanıyordu: Afganistan'dan lapis lazuli, Lübnan'dan sedir ağacı, Nubya'dan altın ve fildişi, Kıbrıs'tan bakır. MÖ 1300 civarına tarihlenen ve Türkiye kıyılarında bulunan Uluburun batığı, en az yedi bölgeden gelen mallar taşıyordu.",
+          "Uzun mesafeli ticaret, Anadolu'da ticaret kolonileri işleten Asurlular veya tüm Akdeniz'i gemileriyle dolaşan ve Kartaca gibi koloniler kuran Fenikeliler gibi tüccarların elindeydi. Ödemeler tartılan gümüş, tahıl veya bakırla yapılıyordu; henüz sikke yoktu. MÖ 1200'den sonra demir yaygın olarak kullanılmaya başladı; eritmesi daha zahmetliydi, ama cevheri neredeyse her yerde bulunuyordu ve aletleri ile silahları birçok insan için ulaşılabilir kıldı."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "antike-griechenland",
+    "title": "Antik Yunanistan ve Helenistik Çağ",
+    "order": 3,
+    "start": -800,
+    "end": -30,
+    "color": "#0ea5e9",
+    "regions": [
+      "europa",
+      "naher-osten",
+      "afrika"
+    ],
+    "summary": "Demokrasi, felsefe, tiyatro ve Olimpiyat Oyunları Yunan şehir devletlerinde ortaya çıkar; Büyük İskender Yunan kültürünü Mısır'a ve Hindistan'a kadar taşır.",
+    "overview": [
+      "Miken saraylarının çöküşünü izleyen karanlık yüzyılların ardından, MÖ 800 civarından itibaren Yunanistan'da yüzlerce bağımsız şehir devleti, yani polis ortaya çıktı. Yunanlılar alfabeyi Fenikelilerden aldı, Akdeniz ve Karadeniz'in her yanında koloniler kurdu; dil, tanrılar, Homeros'un destanları ve Olimpiyat Oyunları aracılığıyla ortak bir bilinçle birbirlerine bağlıydılar.",
+      "Atina'da, Solon ve Kleisthenes'in reformları sayesinde, tüm erkek vatandaşların meclisinin en önemli kararları aldığı bir demokrasi gelişti. Sparta ise buna karşılık iki kralın yönettiği askeri bir devletti. Pers Savaşları'nda Yunanlılar, Pers İmparatorluğu'nun Marathon, Salamis ve Plataea'daki iki saldırısını püskürttü; bu da Atina'yı önde gelen bir deniz gücü haline getirdi.",
+      "Perikles döneminde Atina, MÖ 5. yüzyılda Akropolis'in inşası, Aiskhylos, Sofokles ve Euripides'in trajedileri, Herodot ve Thukydides'in tarih yazımı ve Sokrates'in felsefesiyle kültürel bir yükseliş yaşadı. Atina ile Sparta arasındaki rekabet, MÖ 404'te Atina'nın yenilgisiyle sonuçlanan ve Yunan şehir devletlerini kalıcı olarak zayıflatan Peloponnesos Savaşı'na yol açtı.",
+      "MÖ 4. yüzyılda Platon ve Aristoteles, Atina'da Avrupa felsefesini ve bilimini şekillendiren okullar kurdu. Siyasi olarak Makedonya, II. Philip döneminde üstünlüğe yükseldi. Oğlu Büyük İskender, MÖ 334 ile 323 arasında Pers İmparatorluğu'nu fethetti ve Mısır ile Hindistan'a kadar ilerledi. Erken ölümü, generallerinin aralarında böldüğü bir imparatorluk bıraktı.",
+      "Helenistik çağda Yunan ve Doğu kültürleri kaynaştı. Yunanca, Doğu Akdeniz'in ortak dili haline geldi ve kütüphanesiyle İskenderiye bilim merkezi oldu. Roma, Helenistik krallıkları teker teker boyunduruğu altına aldı; MÖ 146'da Yunanistan Roma'nın oldu ve MÖ 30'da Kleopatra'nın ölümüyle Mısır Roma'ya katılan son ülke oldu."
+    ],
+    "consequences": [
+      "Atina demokrasisi, halk yönetiminin bilinen ilk örneğidir ve tüm modern demokrasilerin referans noktasıdır.",
+      "Yunanlıların felsefesi, mantığı, matematiği, tıbbı ve tarih yazımı, Avrupa biliminin temelini oluşturur.",
+      "Yunan tiyatrosu, destanı, lirik şiiri ve heykelciliği, bugün hâlâ sanat ve edebiyatın izlediği standartları belirledi.",
+      "İskender'in fetihleri ve Helenistik çağ sayesinde Yunan dili ve kültürü Mısır'a, Persia'ya ve Hindistan'a kadar yayıldı; Yeni Ahit Yunanca yazılmıştır.",
+      "Romalılar, Yunan eğitimini, sanatını ve tanrılar dünyasını devraldı ve bunları Orta Çağ ile modern Avrupa'ya aktardı."
+    ],
+    "tags": [
+      "polis",
+      "demokrasi",
+      "felsefe",
+      "pers savaşları",
+      "atina",
+      "sparta",
+      "iskender",
+      "helenizm"
+    ],
+    "keyFacts": [
+      "MÖ 750 ile 550 arasında Yunan şehirleri, İspanya'dan Karadeniz'e kadar yüzlerce koloni kurar.",
+      "MÖ 594'te Solon Atina'yı reform eder ve borç köleliğini kaldırır; MÖ 508'de Kleisthenes demokrasinin temelini atar.",
+      "MÖ 480'de Leonidas ve 300 Spartalı Termopil'de düşer; aynı yıl Yunanlılar Salamis'te zafer kazanır.",
+      "MÖ 472'de Aiskhylos'un günümüze ulaşan en eski trajedisi olan Persler sahnelenir; MÖ 447'de Parthenon'un inşasına başlanır.",
+      "MÖ 400 civarında Hipokrates ve Kos'taki okulu, tıbbı doğal nedenlere dayanan bir bilim olarak kurar.",
+      "MÖ 331'de İskender İskenderiye'yi kurar; MÖ 323'teki ölümünden sonra Diadoklar, MÖ 281'e kadar süren savaşlarla imparatorluğunu paylaşır.",
+      "MÖ 212'de Arşimet, Romalıların Siraküza'yı ele geçirmesi sırasında ölür; Helenistik çağın bilimi İskenderiye'de yaşamaya devam eder."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Yunan polisi, siyaset teorisinin daha sonra tanımladığı hemen hemen tüm yönetim biçimlerini biliyordu: krallık, aristokrasi, tiranlık, oligarşi ve demokrasi. MÖ 7. ve 6. yüzyıllarda birçok şehirde tiranlar, çoğu zaman halkın soylulara karşı desteğiyle iktidarı ele geçirdi; Atina'da Peisistratos ve oğulları, Hippias MÖ 510'da kovulana kadar bayramları, yapıları ve çiftçileri destekledi. Tiran kelimesi olumsuz anlamını ancak daha sonra kazandı.",
+          "Atina demokrasisi, savaş, barış, yasalar ve maliye konusunda karar veren halk meclisine, kura ile doldurulan 500 kişilik Meclise ve yüzlerce yargıçtan oluşan jüri mahkemelerine dayanıyordu. Neredeyse tüm görevler kura ile belirlenir ve her yıl yeniden doldurulurdu; yalnızca on general seçimle belirlenirdi, bu yüzden Perikles onlarca yıl boyunca politikayı bu görev aracılığıyla yönetti. Kadınlar, köleler ve çok sayıda göçmen olan metikler dışlanmaya devam etti; vatandaşlar nüfusun yaklaşık onda birini oluşturuyordu.",
+          "Sparta ise buna karşılık iki kral, bir yaşlılar meclisi ve yıllık olarak seçilen beş efor tarafından yönetiliyordu; tam vatandaşlar, özgür olmayan heilotların işlediği topraktan geçinen profesyonel savaşçılar olarak yaşıyordu. Peloponnesos Savaşı'ndan sonra Sparta, Thebai ve Atina, II. Philip Yunanlıları MÖ 338'de Khaironeia'da boyunduruğu altına alana kadar sırayla önde gelen güç oldu. Helenistik çağda Ptolemaioslar ve Seleukoslar gibi krallar geniş imparatorluklara hükmederken, polisler yalnızca sınırlı bir öz yönetim koruyabildi."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Bir Atinalı ailenin yaşamı, iç avlulu basit bir evde geçiyordu; erkekler gününü agorada, gymnasionda veya halk meclisinde geçirirken, vatandaş sınıfından kadınlar evi idare eder, dokuma yapar ve evden çoğunlukla dini bayramlar için çıkardı. Kızlar yaklaşık 15 yaşında evlendirilir, erkek çocuklar ise okuma, yazma, müzik ve spor öğrenirdi. Sparta'da ise buna karşılık kızlar fiziksel olarak eğitiliyor ve kadınlar toprak sahibi olabiliyordu.",
+          "Köleler olmadan Yunan ekonomisi düşünülemezdi: evlerde, atölyelerde, tarlalarda ve Atina'nın filosunu finanse ettiği Laurion gümüş madenlerinde acımasız koşullar altında çalışıyorlardı. Sohbet, şarkı ve oyunlarla geçen erkek içki toplantısı olan symposion, toplumsal yaşamın merkeziydi; konukseverlik kutsal bir görev sayılıyordu. Midilli'deki Sappho veya Atina'daki eğitimli Aspasia gibi kadınlar, erkek egemen düzende de istisnalar olduğunu gösterir.",
+          "Spor ve yarışma Yunan kültürünün her yanına nüfuz etmişti. Olympia'nın yanı sıra Delfi, Korinth ve Nemea'da da oyunlar düzenleniyordu; galipler doğdukları şehirlerde kahramanlar gibi kutlanır ve Pindaros gibi şairlerce övülürdü. Tiyatro gösterileri, müzik ve hitabet de birer yarışmaydı. Agon, yani yarışma, bir insanın başarıyla kendini öne çıkarması gerektiği fikrini şekillendirdi."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Yunanlılar, Zeus, Athena, Apollon ve diğer Olympos tanrılarına kurbanlar, alaylar ve bayramlarla tapıyordu; her polisin bir koruyucu tanrısı vardı ve Akropolis'teki veya Delfi'deki tapınaklar görkemli mermer yapılardı. Şehirler ve krallar, savaşlardan ve koloni kuruluşlarından önce Delfi kâhinine danışırdı; onun belirsiz cevapları darbımesel haline gelmiştir. Eleusis'teki gibi gizem kültleri, kutsanmış kişilere ölümden sonra daha iyi bir yaşam vaat ediyordu.",
+          "Dionysos bayramlarından Atina'da tiyatro doğdu: Aiskhylos, Sofokles ve Euripides'in trajedileri binlerce seyirci önünde suç, kader ve adaleti işlerken, Aristofanes'in komedileri politikacılarla filozofları alaya alıyordu. Herodot, Pers Savaşları'nın nedenlerini araştırarak tarih yazımını kurdu; Thukydides ise onu güç üzerine eleştirel bir analize dönüştürdü. Heykeltıraşlar Phidias, Polykleitos ve Praksiteles, Roma ve Rönesans'ın devraldığı insan bedeni idealini yarattı.",
+          "MÖ 6. yüzyıldan itibaren İyonya'nın doğa filozofları, dünyayı ilahi değil doğal açıklamalarla anlamaya çalıştı. Pisagor ve Öklid, kanıta dayalı matematiği; Hipokrat tıbbı; Aristoteles ise biyoloji ve mantığı kurdu. İskenderiye'de Eratosthenes dünyanın çevresini hesapladı, Aristarkos dünyanın güneş çevresinde döndüğünü öne sürdü, Arşimet ise kaldıraç ve kaldırma kuvveti yasalarını keşfetti. Bu bilim, Bizans ve Arap dünyası aracılığıyla Orta Çağ'a aktarıldı."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Dağlık ve verimsiz Yunanistan, sakinlerini arpa, zeytin, şarap ve keçilerle ancak zorlukla besleyebiliyordu; toprak kıtlığı birçok şehri koloni kurmaya ve Sicilya, Mısır ve Karadeniz bölgesinden tahıl ithal etmeye itti. Buna karşılık Atina, zeytinyağı, şarap, gümüş ve bugün büyük müzelerde yer alan boyalı çömlek atölyesi vazolarını ihraç ediyordu.",
+          "MÖ 600 civarında Yunanlılar sikkeyi Lidya'dan aldı ve tüm Akdeniz'e yaydı; Atina'nın gümüş baykuş sikkesi en önemli ticaret para birimi haline geldi. Pire limanı, bankaları, depoları ve tersaneleriyle Ege'nin en büyük ticaret merkeziydi. Üç sıra kürekli ve 170 kürekçili savaş gemileri olan trireme'ler, deniz ticaretini ve Atina'nın gücünü güvence altına alıyordu.",
+          "Helenistik çağda İskenderiye, Antakya ve Bergama gibi şehirler, planlı sokak ağları, su boruları ve kütüphaneleriyle yüz binlerce nüfuslu metropollere dönüştü. Mühendisler mancınıklar, vinçler, su kaldırmak için Arşimet vidasını ve buhar makinesinin öncüllerini geliştirdi, ancak bunlar birer merak konusu olarak kaldı. Dünyanın Yedi Harikası'ndan biri olan Pharos Deniz Feneri, gemilere Nil deltasından gelen tahılın tüm Akdeniz dünyasına ulaştığı İskenderiye limanının yolunu gösteriyordu."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rom",
+    "title": "Roma İmparatorluğu",
+    "order": 4,
+    "start": -753,
+    "end": 476,
+    "color": "#dc2626",
+    "regions": [
+      "europa",
+      "naher-osten",
+      "afrika"
+    ],
+    "summary": "Tiber Nehri kıyısındaki küçük bir şehirden Akdeniz çevresinde bir dünya imparatorluğuna: Roma, Avrupa'nın hukukuna, diline, şehir planlamasına ve siyasetine yüzyıllarca damgasını vurdu.",
+    "overview": [
+      "Efsaneye göre Roma, MÖ 753'te Romulus tarafından kurulmuştur. Aslında şehir, Tiber kıyısındaki tepelerde bulunan birkaç köyden gelişmiş ve başlangıçta krallar tarafından yönetilmiştir. MÖ 509 civarında Romalılar son krallarını kovdu ve her yıl seçilen konsüllerin, Senato'nun ve halk meclislerinin gücü paylaştığı bir cumhuriyet kurdu.",
+      "Sonraki yüzyıllarda Roma önce İtalya'yı, ardından Kartaca'ya karşı yapılan Pön Savaşları'nda Batı Akdeniz'i boyunduruğu altına aldı. Yunanistan, Anadolu, Galya ve Mısır bunu takip etti. Fetihler muazzam bir zenginlik getirdi, ama aynı zamanda toplumsal gerilimlere de yol açtı: küçük çiftçiler yoksullaştı, köleler büyük çiftliklerde çalıştı ve Sulla, Pompeius ve Sezar gibi hırslı generaller lejyonlarını kendi çıkarları için kullandı.",
+      "İç savaşların ve Sezar'ın öldürülmesinin ardından, evlatlık oğlu Octavianus, MÖ 27'den itibaren Augustus adıyla prensliği kurdu: cumhuriyet biçimsel olarak varlığını sürdürse de, fiiliyatta bir imparator hüküm sürüyordu. MS ilk iki yüzyılın Pax Romana'sı, Britanya'dan Suriye'ye kadar barış, ticaret, yollar, su kemerleri ve gelişen şehirler getirdi.",
+      "3. yüzyıldan itibaren imparatorluk, iç savaşlar, enflasyon ve sınırlara yapılan saldırılarla dolu bir krize sürüklendi. Diocletianus ve Konstantin, yönetimi ve orduyu reforme etti; Konstantin Hıristiyanlığı destekledi ve bu din 380'de devlet dini haline geldi. 395'te imparatorluk nihayet batı ve doğu olmak üzere ikiye ayrıldı.",
+      "Batı Roma İmparatorluğu, kavimler göçünün baskısı altında dağıldı. 476'da Germen askeri lider Odoacer, son Batı Roma imparatoru Romulus Augustulus'u tahttan indirdi. Başkenti Konstantinopolis olan Doğu Roma İmparatorluğu ise Bizans olarak neredeyse bin yıl daha varlığını sürdürdü."
+    ],
+    "consequences": [
+      "Roma hukuku, günümüze kadar birçok Avrupa hukuk sisteminin temelini oluşturur.",
+      "Latinceden İtalyanca, Fransızca, İspanyolca, Portekizce ve Rumence gibi Roman dilleri doğdu; Latince terimler bilim ve kiliseye damgasını vurmaktadır.",
+      "Yollar, şehirler, su kemerleri ve kemer, kubbe ve beton gibi yapı biçimleri, Avrupa'nın mimarisini ve altyapısını kalıcı olarak etkiledi.",
+      "Hıristiyanlık tüm Roma İmparatorluğu'na yayıldı ve Avrupa'nın belirleyici dini haline geldi.",
+      "Roma imparatorluk makamı fikri, Kutsal Roma İmparatorluğu'nda ve imparator ile çar unvanlarında yaşamaya devam etti."
+    ],
+    "tags": [
+      "cumhuriyet",
+      "imparatorluk",
+      "lejyonlar",
+      "latince",
+      "akdeniz",
+      "sezar",
+      "augustus"
+    ],
+    "keyFacts": [
+      "MÖ 450 civarında Roma hukuku ilk kez On İki Levha Kanunları'nda yazıya geçirilir.",
+      "MÖ 73'ten 71'e kadar Spartaküs'ün köle isyanı İtalya'yı sarsar; MÖ 31'de Actium deniz savaşı iç savaşı Octavianus'un lehine sonuçlandırır.",
+      "MS 80'de Kolezyum açılır; Traianus döneminde 117 yılında imparatorluk, Britanya'dan Mezopotamya'ya kadar en geniş sınırlarına ulaşır.",
+      "212'de imparator Caracalla, Constitutio Antoniniana aracılığıyla imparatorluğun neredeyse tüm özgür sakinlerine Roma vatandaşlığı verir.",
+      "235'ten 284'e kadar imparatorluk, 20'den fazla imparator, iç savaşlar ve enflasyonla III. Yüzyıl Krizi'ni yaşar; Diocletianus 284'ten itibaren onu yeniden yapılandırır.",
+      "325'te Konstantin döneminde toplanan İznik Konsili, Hıristiyan inanç esaslarının temellerini atar.",
+      "410'da Alarik yönetimindeki Vizigotlar Roma'yı yağmalar, 451'de Attila'nın Hunları Katalaunum Ovaları'nda durdurulur ve 476'da Batı Roma İmparatorluğu sona erer."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Cumhuriyetin anayasası, her yıl değişen yüksek memurlar arasında güç dağılımına, eski memurların meclisi olan Senato'ya ve halk meclislerine dayanıyordu. Aristokrat patriciler ile plebler arasındaki Zümreler Mücadelesi, iki yüzyıl boyunca On İki Levha Kanunları'na, veto hakkına sahip halk tribünlerine ve nihayet tüm görevlerin herkese açılmasına yol açtı. Roma, dışarıda İtalya'nın yenilmiş şehirlerini kademeli ittifaklar ve vatandaşlık haklarıyla kendisine bağladı ve böylece muazzam asker rezervlerinden yararlanabildi.",
+          "Akdeniz dünyasının fethi, bir şehir cumhuriyetinin kurumlarını fazlasıyla zorladı. Valiler eyaletlerde kendilerini zenginleştiriyor, Marius, Sulla, Pompeius ve Sezar gibi generaller kendilerine kişisel olarak bağlı ordulara komuta ediyordu; siyaset şiddet, rüşvet ve iç savaşlarla belirleniyordu. Augustus'un prensliği, ordu ve eyaletler üzerindeki gücü tek bir elde toplayarak, aynı zamanda Senato'yu ve cumhuriyetçi biçimleri koruyarak bu sorunu çözdü.",
+          "İmparatorluk döneminde sabit bir veraset hukuku yoktu, bu yüzden evlatlık edinme, ordu ve Pretoryan Muhafızları kimin ardıl olacağına karar veriyordu. 2. yüzyılda Nerva'dan Marcus Aurelius'a kadar olan evlatlık imparatorlar istikrar getirdi; 3. yüzyılda ise lejyonlar onlarca asker kökenli imparator ilan etti. Diocletianus, dört yöneticiden oluşan tetrarşi ile iktidarı paylaştırdı, doğulu kralların saray törenlerini getirdi ve imparatorun bir efendi ve tanrı olarak göründüğü dominat sistemini kurdu. Konstantin ve halefleri bu yönetim biçimini Hıristiyanlıkla birleştirdi."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Roma toplumu sıkı bir şekilde katmanlaşmıştı: senatörler, süvariler, özgür vatandaşlar, azat edilmiş köleler ve köleler. Aile, ev babasının neredeyse sınırsız otoritesi altındaydı; ancak Romalı kadınlar mülk sahibi olabilir, boşanma alabilir ve Livia veya Agrippina gibi imparatorluk sarayında büyük bir nüfuz sahibi olabilirdi. Himaye sistemi, zengin patronlarla onların himayesindeki kişileri bir koruma ve sadakat ağı içinde birbirine bağlıyordu.",
+          "Geç cumhuriyet dönemi İtalyasında köleler nüfusun üçte birini oluşturuyordu; kırsal çiftliklerde, madenlerde ve evlerde çalışıyorlardı, ama aynı zamanda hekim, öğretmen ve yönetici de olabiliyorlardı. Spartaküs'ünki gibi isyanlar en büyük şiddetle bastırılıyordu, ancak köleler azat edilebilir ve çocukları vatandaşlık kazanabilirdi. 212'de Constitutio Antoniniana, imparatorluğun neredeyse tüm özgür sakinlerini Romalı yaptı.",
+          "Bir milyonluk şehir olan Roma'da yaşam, sıkışık kiralık apartmanlarda, pazarlarda, hamamlarda ve oyunlarda geçiyordu. Bedava tahıl ve eğlence, yani ekmek ve sirk, kitlelerin sessizliğini güvence altına alıyordu; Kolezyum'da 50.000 seyirci önünde gladyatörler ve hayvanlar ölüyor, Circus Maximus'ta ise yüz binlerce kişi araba yarışlarıyla heyecanlanıyordu. Britanya'dan Suriye'ye kadar taşra şehirleri, Pompeii'nin gösterdiği gibi bir forum, tapınaklar, bir tiyatro ve hamamlarla Roma modelini taklit ediyordu."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Romalılar, Yunan tanrılarını Latince adlarla benimsedi ve bunları Janus ile ev tanrıları gibi kendi tanrılarıyla tamamladı. Din bir devlet meselesiydi: rahip kolejleri, kurbanlar ve kehanetler her siyasi eylemi eşlik ediyor, imparatorluk kültü ise eyaletleri Roma'ya bağlıyordu. Bunun yanı sıra İsis ve Mithra kültü gibi doğudan gelen gizem kültleri yayıldı ve Yahudiye'den, Neron, Decius ve Diocletianus dönemindeki zulümlere rağmen hayatta kalan ve 4. yüzyılda devlet dini haline gelen Hıristiyanlık geldi.",
+          "Edebiyat ve felsefede Romalılar Yunan modellerini takip etti, ama yine de kendilerine özgü bir şeyler yarattı: ulusal destan olarak Vergilius'un Aeneis'i, Horatius'un odları, Livius ve Tacitus'un tarih eserleri, Juvenalis'in yergileri. Stoacılık, Romalıların görev ve soğukkanlılık anlayışını şekillendirdi; Seneca ve imparator Marcus Aurelius, günümüzde hâlâ okunan felsefi eserler bıraktı. 325'teki İznik Konsili, teolojinin nasıl bir imparatorluk meselesi haline geldiğini gösterdi.",
+          "Roma'nın gerçek başarısı hukuk ve örgütlenmede yatıyordu. Gaius ve Ulpianus gibi hukukçular, medeni hukuku, imparator Justinianus'un 6. yüzyılda kodlattığı ve etkisi günümüze kadar süren bir sisteme dönüştürdü. Eğitim, gramer ve retoriğe dayanıyordu; İskenderiye'de matematikçi Hypatia gibi bilginler geç antik çağda hâlâ etkindi, onun 415'teki öldürülmesi antik bilimin sonunu haber verdi."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Akdeniz, Mare Nostrum, yani 'bizim denizimiz'di; Mısır ve Kuzey Afrika'dan tahıl, İspanya'dan zeytinyağı, İtalya ve Galya'dan şarap, Yunanistan'dan mermer ve Hindistan ile Çin'den lüks mallar bu deniz üzerinden Roma'ya akıyordu. Ostia limanı ve devlet tarafından organize edilen tahıl arzı başkenti besliyordu. Tek tip bir para birimi, Pompeius'un korsanları yok etmesinden sonra güvenli deniz yolları ve sözleşmeler için bir hukuk sistemi, imparatorluğu muazzam bir ekonomik alana dönüştürdü.",
+          "Yaklaşık 80.000 kilometrelik döşeli yollar, eyaletleri Roma'ya bağlıyordu; bu yollar lejyonerler tarafından askerler, ulaklar ve tüccarlar için inşa edilmişti. Su kemerleri, suyu onlarca kilometre öteden şehirlere taşıyordu; volkanik küllerden yapılan beton, Pantheon'unki gibi kubbelerin ve su altında inşa edilen liman yapılarının önünü açtı. Su çarkları, vinçler, yerden ısıtma sistemleri ve cam pencereler dönemin en ileri teknolojisiydi; Hadrian Seddi ve limes, mühendisliğin sınırları nasıl güvence altına aldığını gösteriyordu.",
+          "3. yüzyılda bu sistem kısmen çöktü: imparatorlar askerlere ödeme yapabilmek için sikkelerin gümüş içeriğini azalttı, fiyatlar patladı ve ticaret ile şehirler iç savaşlardan ve istilalardan zarar gördü. 301'de Diocletianus, azami fiyatlar koymaya çalıştıysa da başarısız oldu; köylüleri ve zanaatkârları mesleklerine bağladı. Batı'da ekonomi, bağımlı colonus'larının daha sonra Orta Çağ'ın köylülerine dönüştüğü büyük çiftliklere kaydı."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "asien-altertum",
+    "title": "Asya İmparatorlukları: Persia, Hindistan, Çin, Japonya",
+    "order": 5,
+    "start": -550,
+    "end": 1200,
+    "color": "#e11d48",
+    "regions": [
+      "asien",
+      "naher-osten"
+    ],
+    "summary": "Yunanlılar ve Romalılar Avrupa'da hüküm sürerken, Asya'da büyük imparatorluklar, dünya dinleri ve kâğıt ile pusula gibi buluşlar ortaya çıktı ve günümüz dünyasını hâlâ şekillendirmeye devam ediyor.",
+    "overview": [
+      "MÖ 550 civarında II. Kiros, Persleri ve Medleri birleştirdi ve birkaç on yıl içinde o zamana kadarki tarihin en büyük imparatorluğunu kurdu. İmparatorluk, Ege'den İndus'a kadar uzanıyordu ve satraplıklar, kral yolları ve dini hoşgörü politikasıyla bir arada tutuluyordu. MÖ 330'da Büyük İskender Pers İmparatorluğu'nu fethetti, ancak Pers kültürü ve yönetimi Partlar ve Sasaniler gibi ardıl imparatorluklarda yaşamaya devam etti.",
+      "Aynı dönemde Hindistan ve Çin'de, günümüze kadar Asya düşüncesini belirleyen yeni öğretiler ortaya çıktı. Siddhartha Gautama, yani Buda, kuzey Hindistan'da acıyı aşmanın yolunu öğretirken, Çin'deki Konfüçyüs görev, eğitim ve düzene dayalı bir etik geliştirdi. Maurya kralı Aşoka, MÖ 3. yüzyılda Budizmi büyük bir imparatorluğun dini haline getirdi ve misyonerleri Sri Lanka'ya kadar gönderdi.",
+      "Çin'de Qin Shi Huangdi, MÖ 221'de Savaşan Devletler dönemine son verdi ve ortak bir yazı, para birimi ve ölçü sistemine sahip birleşik bir imparatorluk kurdu. Ardından gelen Han hanedanı dört yüzyıl boyunca hüküm sürdü, İpek Yolu'nu batıya açtı ve Konfüçyüsçülüğü devlet doktrini haline getirdi. Han döneminde kâğıt, pusula ve sınavla doldurulan bir memur yönetimi de ortaya çıktı.",
+      "Gupta hanedanı döneminde, 4. ve 5. yüzyıllarda Hindistan, matematik, astronomi, şiir ve sanatın altın çağını yaşadı; sıfırlı ondalık sayı sistemi burada ortaya çıktı. 618'den itibaren Tang hanedanı döneminde Çin yeni bir zirveye ulaştı: başkent Chang'an dünyanın en büyük şehriydi ve ticaret ile Budizm, Çin'i Orta Asya, Kore ve Japonya'ya bağlıyordu.",
+      "Japonya, yazıyı, Budizmi ve yönetim biçimini Çin'den aldı ve 794'ten itibaren Heian döneminde, hece yazısı ve romanlarıyla kendine özgü bir saray kültürü geliştirdi. Güneydoğu Asya'da Khmerler, 12. yüzyılda dünyanın en büyük tapınak kompleksi olan Angkor Vat'ı inşa etti. Bu dönemde Asya imparatorlukları genellikle Avrupa'dakilerden daha büyük, daha zengin ve teknik olarak daha ileriydi."
+    ],
+    "consequences": [
+      "Budizm, Konfüçyüsçülük ve Hinduizm, Asya'da milyarlarca insanın din, etik ve toplum anlayışını hâlâ şekillendirmektedir.",
+      "Çin'in Qin Shi Huangdi döneminde birleşmesi, birçok hanedan değişikliğine rağmen iki bin yıldan fazla süren bir devletin temelini oluşturdu.",
+      "Kâğıt, pusula, barut ve matbaacılık, İpek Yolu boyunca Çin'den batıya yayıldı ve dünya çapında bilimi, savaşı ve eğitimi değiştirdi.",
+      "Hindistan'ın sıfırlı ondalık sayı sistemi, Arap dünyası aracılığıyla Avrupa'ya aktarıldı ve günümüz matematiğimizin temelini oluşturur.",
+      "Eyaletler, yollar ve dini hoşgörüye dayanan çok etnikli imparatorluk modeli, İskender'i, Roma'yı ve daha sonraki İslam imparatorluklarını etkiledi."
+    ],
+    "tags": [
+      "pers imparatorluğu",
+      "budizm",
+      "konfüçyüs",
+      "imparatorluk çin",
+      "ipek yolu",
+      "gupta",
+      "tang",
+      "japonya"
+    ],
+    "keyFacts": [
+      "MÖ 500 civarında, günümüze kadar Asya düşüncesini şekillendiren üç öğreti olan Budizm, Konfüçyüsçülük ve Taoculuk ortaya çıkar.",
+      "MÖ 221'de Qin Shi Huangdi Çin'i birleştirir; 1974'te keşfedilen Terakota Ordusu yaklaşık 8.000 kil askerden oluşur.",
+      "MÖ 100 civarında Sima Qian, Çin tarih yazımının ilk kapsamlı eseri olan Shiji'yi tamamlar.",
+      "224'te I. Ardeşir, Persia'yı 651'deki Arap fethine kadar yöneten Sasani İmparatorluğu'nu kurar.",
+      "690'dan 705'e kadar Wu Zetian, Çin tarihinde kendi adına hükümdarlık yapan tek kadın imparatoriçe olarak hüküm sürer.",
+      "868'de, günümüze ulaşan tarihli en eski basılı kitap olan Elmas Sutra üretilir.",
+      "1008 civarında saray hanımı Murasaki Shikibu, Japonya'da dünya edebiyatının ilk romanı olan Genji'nin Hikâyesi'ni tamamlar."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Çin imparatorları hükümdarlıklarını Göğün Buyruğu ile meşrulaştırdı: adil bir hükümdar ilahi onayla yönetir, adaletsiz olan ise bu onayı kaybeder ve devrilebilir. Bu nedenle doğal afetler, kıtlıklar ve isyanlar Gökten gelen uyarı işaretleri olarak görülüyordu. Bu düşünce biçimi, Qin, Han veya Tang gibi hanedanların neden yükselip tekrar çöktüğünü açıklıyor ve her başarılı isyancının kendisini buyruğun yeni taşıyıcısı olarak sunmasına olanak tanıyordu. Kendi adına hüküm süren tek imparatoriçe olan Wu Zetian bile hükümdarlığını Budist metinler ve alametlerle onaylattı.",
+          "Avrupa'nın aristokrat devletlerinin aksine Çin, Han döneminden itibaren Konfüçyüsçü klasikler üzerine sınavlarla seçilen bir memur kadrosuna dayanıyordu. Tang döneminde ve özellikle Wu Zetian döneminde bu sistem genişletildi; böylece daha mütevazı ailelerden gelen erkekler de yüksek görevlere yükselebiliyordu. Memurlar, eyaletlerde vergileri, ambarları, kanalları ve mahkemeleri yönetiyor ve kendi güç tabanlarını oluşturamamaları için düzenli olarak nakledilyordu. Bu model Kore, Japonya ve Vietnam tarafından benimsendi.",
+          "Persia'da Sasani kralları, soyluların, Zerdüşt rahiplerinin ve savaşçıların zümrelere ayrıldığı çok etnikli bir imparatorluğa Kralların Kralı olarak hükmediyordu. Ermenistan ve Mezopotamya üzerine Roma ve Bizans ile yaşanan sürekli çatışma, 7. yüzyılda her iki tarafı da öylesine tüketti ki Arap orduları için işi kolaylaştırdı. Buna karşılık Hindistan'da Maurya, Gupta ve Chola gibi büyük imparatorluklar istisna olarak kaldı; çoğunlukla çok sayıda bölgesel kral gücü paylaşıyordu, ancak güneydeki Chola bir filoyla denizler ötesinde de hükmediyordu."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "İnsanların büyük çoğunluğu kırsalda pirinç ve darı yetiştirerek yaşıyordu. Çin'de babanın başında olduğu aile merkezdeydi ve ataların anılması yaşayanları ölülerle bağlıyordu. Devlet köylülerden tahıl ve kumaş olarak vergi ile birlikte angarya hizmeti talep ediyordu; bununla surlar, kanallar ve saraylar inşa ediliyordu. Bu yükümlülükleri artık yerine getiremeyenler kaçıyor veya isyanlara katılıyordu; bu isyanlar birkaç kez tüm hanedanları devirdi.",
+          "Hindistan'da kast sistemi toplumu doğuma göre rahipler, savaşçılar, köylüler ve tüccarlar ile hizmetçiler olarak düzenliyordu; onların altında ise sözde dokunulmazlar bulunuyordu. Budistler ve Jainistler bu rütbe düzenini reddediyor, manastırlarda her kökenden insan bir arada yaşıyordu. Asya'nın erken uygarlıklarında kadınların hakları çoğunlukla sınırlıydı, ama istisnalar da vardı: Budist rahibeler, Japonya'daki eğitimli saray hanımları ve Wu Zetian gibi hükümdarlar, eğitimin ve gücün yalnızca erkeklere ayrılmadığını gösteriyor.",
+          "Asya'nın şehirleri büyüklük bakımından Avrupa'dakileri fazlasıyla geride bırakıyordu. Tang'ın başkenti Chang'an, ızgara düzeninde inşa edilmiş, surlarla çevrilmiş ve gece sokağa çıkma yasağıyla mahallelere bölünmüştü; iki büyük pazarında Persler, Sogdlar, Hintliler ve Araplar ticaret yapıyordu. Çay evleri, tiyatrolar ve tapınak bayramları şehir yaşamını şekillendiriyor ve Tang döneminde popüler bir içecek haline gelen çayla birlikte kendine özgü bir zevk kültürü ortaya çıkıyordu."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Konfüçyüsçülüğün yanı sıra Çin'de Taoculuk ortaya çıktı; bu, doğayla uyum içinde eylemsizlik yolu olarak Laozi'ye atfedilir. Bu iki öğreti birbirini tamamlıyordu: bir memur görevdeyken Konfüçyüsçü, emekliliğinde ise Taocuydu. Budizm, İpek Yolu üzerinden eklenerek manastırlar, Longmen ve Dunhuang gibi mağara tapınakları ve Hint metinlerini Çin'e getiren Xuanzang gibi hacılar sayesinde üçüncü büyük öğreti haline geldi. Çin'den Kore'ye ve 6. yüzyılda Japonya'ya yayıldı.",
+          "Persia, Hıristiyanlığı, Yahudiliği ve İslam'ı etkileyen iyi ile kötü arasındaki mücadeleyle Zerdüştçülüğün yurduydu. Sasaniler döneminde Zerdüşt'ün öğretisi devlet dini haline geldi; aynı zamanda imparatorlukta Yahudiler, Hıristiyanlar ve Maniheistler yaşıyordu; Gundeşapur akademisi Yunan ve Hint bilgisini bir araya topladı. Hindistan'da Sanskrit şiiri, astronomi ve matematik gelişti; Kalidasa'nın dramaları ve Aryabhata'nın hesaplamaları Gupta döneminin doruk noktalarındandır.",
+          "Çin'de tarih yazımı, Sima Qian döneminde antik çağda başka hiçbir yerde görülmeyen bir statüye ulaştı: her hanedan, kendinden öncekinin tarihini yazdırdı ve sarayın arşivleri Han dönemine kadar uzanır. 7. veya 8. yüzyılda tahta baskı tekniğinin icadı, Budist sutraları, takvimleri ve daha sonra Konfüçyüsçü klasikleri büyük sayılarda erişilebilir kıldı. Japonya'da Murasaki Shikibu ve Sei Shonagon gibi saray hanımları, Japon hece yazısıyla roman ve günlük gibi yeni edebi biçimler yarattı."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "İpek Yolu tek bir güzergâh değil, Çin'i, Hindistan'ı, Persia'yı ve Akdeniz'i birbirine bağlayan bir kervan yolları ve deniz rotaları ağıydı. İpek, cila, porselen ve kâğıt batıya, cam, atlar, baharatlar, değerli taşlar ve gümüş ise doğuya taşınıyordu; Semerkant'taki Sogdlar ve Orta Asya'daki Kuşan İmparatorluğu gibi aracılar zenginleşiyordu. Dinler, hastalıklar ve icatlar mallarla birlikte seyahat ediyor, güney Hindistan ve Güneydoğu Asya'nın limanları ise bu ağı Hint Okyanusu üzerinden yapılan deniz ticaretiyle birleştiriyordu.",
+          "Yüzyıllar boyunca Çin, dünyanın teknik açıdan öncü bölgesiydi. Dökme demir, el arabası, üzengi, sismograf, kâğıt, pusula ve tahta baskı burada Avrupa'dan çok önce ortaya çıktı. Song hanedanı döneminde barutlu silahlar, kâğıt para, hareketli harfli baskı ve devasa yüksek fırınlar eklendi; Kaifeng, ticaret şirketleri ve döviz büroları olan bir milyonluk şehir haline geldi. Çinliler, kuzey ve güney Çin'i birbirine bağlayan ve başkentlerin pirinç arzını güvence altına alan Büyük Kanal gibi kanallar inşa etti.",
+          "Hindistan pamuklu kumaşlar, biber ve değerli taşlar ihraç ediyor ve karşılığında Roma altını alıyordu; güneyde bulunan binlerce sikke buna tanıklık eder. Güney Hindistan'daki çelik üretimi, daha sonra Şam kılıçlarının dövüldüğü ünlü wootz çeliğini sağlıyordu. Persia, Doğu ile Batı arasındaki ticareti kontrol ediyor, Çin'e ve İskandinavya'ya kadar ulaşan gümüş sikkeler basıyor ve günümüzde hâlâ kullanılan yeraltı kanallarıyla, yani kanatlarla, bir sulama tekniği geliştiriyordu."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mittelalter",
+    "title": "Avrupa Orta Çağı",
+    "order": 6,
+    "start": 500,
+    "end": 1500,
+    "color": "#7c3aed",
+    "regions": [
+      "europa",
+      "afrika",
+      "amerika",
+      "asien"
+    ],
+    "summary": "Roma'nın sonu ile Amerika'nın keşfi arasında Hıristiyanlık, feodalizm, şövalyeler, manastırlar ve gelişen şehirler yeni bir Avrupa'yı şekillendirirken, Moğollar, Mali ve Aztekler kendi büyük imparatorluklarını kurdu.",
+    "overview": [
+      "Batı Roma İmparatorluğu'nun çöküşünden sonra topraklarında Germen krallıkları ortaya çıktı. En başarılıları Franklardı: kralları Clovis, yaklaşık 498'de Katolik olarak vaftiz edildi ve böylece kilisenin ve Roman nüfusun desteğini kazandı. Şarlman, Frank krallığını Saksonya, İtalya ve İspanya'ya kadar genişletti ve 800'de Roma'da imparator olarak taçlandırıldı; onun saltanatı Orta Çağ Avrupası'nın doğuşu olarak kabul edilir.",
+      "11. yüzyıldan 13. yüzyıla kadar süren Yüksek Orta Çağ bir büyüme dönemiydi. Nüfus arttı, ormanlar temizlendi, şehirler kuruldu ve katedraller inşa edildi. Toplum zümrelere ayrılmıştı: soylular savaşır, ruhban dua eder, köylüler çalışırdı. Feodalizm sayesinde kral, dükleri ve kontları kendisine bağlıyor, onlar karşılığında ona sadakat ve askeri hizmet borçlu oluyordu. Manastırlar antik çağın bilgisini korudu ve 1088'den itibaren Bologna, Paris ve Oxford'da ilk üniversiteler ortaya çıktı.",
+      "1096'dan itibaren Haçlı Seferleri, Avrupa'yı İslam dünyasıyla yakın ve çoğu zaman şiddetli bir temasa soktu, ama aynı zamanda ticareti ve bilgi alışverişini de teşvik etti. 793'ten itibaren İskandinavya'dan gelen Vikingler manastırları ve kıyıları yağmaladı, Dublin ve Kiev gibi şehirler kurdu ve Grönland'a ve Kuzey Amerika'ya ulaştı. Torunları olan Normanlar, 1066'da İngiltere'yi fethetti. 1215'teki Magna Carta ile krallar ilk kez tebaalarının haklarını yazılı olarak kabul etmek zorunda kaldı.",
+      "Avrupa dışında da güçlü imparatorluklar ortaya çıktı: 1206'dan itibaren Cengiz Han, tarihin en büyük bitişik kara imparatorluğunu kurdu; bu da Marco Polo gibi tüccarların Çin'e kadar seyahat etmesine olanak tanıdı. Batı Afrika'daki Mali'de altın zengini kral Mansa Musa, 1324'teki hac yolculuğuyla tüm İslam dünyasını etkiledi; Meksika'da ise Aztekler yaklaşık 1325'te başkentleri Tenochtitlan'ı kurdu.",
+      "Geç Orta Çağ krizlerle doluydu. 1347'den itibaren Kara Ölüm, Avrupa nüfusunun yaklaşık üçte birini öldürdü, Yüz Yıl Savaşları Fransa'yı harap etti, kıtlıklar ve isyanlar mevcut düzeni sarstı. 1453'te Osmanlılar Konstantinopolis'i fethetti. Aynı zamanda matbaacılık, uzun mesafeli ticaret ve antik çağa duyulan yeni bir ilgi, modern çağı çoktan haber veriyordu."
+    ],
+    "consequences": [
+      "Hıristiyanlık ve kilise, Avrupa'nın hukukuna, eğitimine, takvimine ve gündelik yaşamına modern çağa kadar damgasını vurdu; manastırlar ve üniversiteler bilgi merkezleri haline geldi.",
+      "Frank krallığından Fransa ve Kutsal Roma İmparatorluğu doğdu; günümüz Avrupa devletlerinin, şehirlerinin ve sınırlarının çoğunun kökleri Orta Çağ'a dayanır.",
+      "Magna Carta ve şehir tüzükleri, hükümdarların da yasalarla bağlı olduğu fikrini yerleştirdi; bundan parlamentolar ve sivil haklar doğdu.",
+      "Haçlı Seferleri, Moğol İmparatorluğu ve uzun mesafeli ticaret, Avrupa'yı Asya ve Afrika ile birbirine bağladı; bilgi, mal ve veba gibi hastalıkları kıtalar arasında taşıdı.",
+      "14. yüzyılın krizleri, soyluları ve serfliği zayıflattı, şehirleri ve ücretli emeği güçlendirdi; Rönesans ve Reformasyon için zemin hazırladı."
+    ],
+    "tags": [
+      "şövalyeler",
+      "haçlı seferleri",
+      "feodalizm",
+      "vikingler",
+      "veba",
+      "şarlman",
+      "moğollar",
+      "katedraller"
+    ],
+    "keyFacts": [
+      "529'da Nursialı Benedictus, Monte Cassino manastırını kurar; onun kuralı Batı manastırcılığını şekillendirir.",
+      "537'de imparator Justinianus, Konstantinopolis'teki Ayasofya'yı takdis eder; bu, neredeyse bin yıl boyunca Hıristiyanlığın en büyük kilisesi olur.",
+      "843'te Verdun Antlaşması Frank krallığını böler; Batı ve Doğu Francia'dan Fransa ve Almanya doğar.",
+      "1077'de Kral IV. Heinrich, Canossa'da papadan af diler: imparator ile papa arasındaki Yatırım Anlaşmazlığı'nın doruk noktası.",
+      "1088'de Avrupa'nın ilk üniversitesi Bologna'da kurulur, 1140 civarında ise Saint-Denis ilk Gotik kilise olur.",
+      "Yaklaşık 1200'den 1450'ye kadar Büyük Zimbabve, güney Afrika'da gelişir; 1438'den itibaren Pachacuti, Ant Dağları'nda İnka İmparatorluğu'nu kurar.",
+      "1356'da Hansa şehirleri, ilk Hansa Meclisi için Lübeck'te bir araya gelir; 1381'de İngiltere'de büyük Köylü İsyanı patlak verir."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Orta Çağ kralları bir başkentten yönetmek yerine, ülkedeki varlıklarını göstermek için saraylarıyla birlikte bir saraydan diğerine ve bir manastırdan ötekine seyahat ederdi. Güçleri feodalizme dayanıyordu: kral, dükelere, kontlara ve piskoposlara toprak ve görevler bahşediyor, onlar karşılığında ona sadakat, danışmanlık ve askeri hizmet borçlu oluyor, onlar da toprakları şövalyelere devrediyordu. Frank krallığının doğu kısmında 911'den itibaren dükler kralı seçti; I. Otto ile birlikte Roma'nın ve Şarlman'ın halefi olarak görülen ve piskoposları yönetiminin desteği olarak kullanan bir imparatorluk makamı ortaya çıktı.",
+          "Piskoposları atama yetkisinin kime ait olduğu tartışması, 11. yüzyılda imparator ile papa arasındaki Yatırım Anlaşmazlığı'na yol açtı; bu anlaşmazlık ancak IV. Heinrich'in 1077'de Canossa'ya yaptığı tövbe yolculuğu ve 1122'deki Worms Konkordatosu ile kısmen çözüldü. O tarihten itibaren papalar tüm hükümdarlar üzerinde üstünlük iddia etti, Haçlı Seferleri çağrısında bulundu ve II. Friedrich gibi Hohenstaufenlerle onlarca yıl süren bir İtalya mücadelesi yürüttü. Bu sayede Kutsal Roma İmparatorluğu'nda prensler bağımsızlık kazanırken, Fransa ve İngiltere'de krallar güçlerini merkezileştirdi.",
+          "Avrupa dışında imparatorluklar farklı yollar izledi: Justinianus döneminde Bizans imparatorluk makamı, Roma hukukunu, Yunan dilini ve Ortodoks inancını birleştirdi; 988'de Vladimir'in vaftiziyle Kiev Rusyası, Bizans'tan Hıristiyanlığı ve yazıyı benimsedi. Ant Dağları'nda Pachacuti yönetimindeki İnkalar, yazı veya tekerlek olmadan yollar, ambarlar ve düğümlü iplerle milyonlarca insanı yöneten bir devlet kurdu. Afrika'da Büyük Zimbabve ve Mali gibi hükümdarlar altın ve fildişi ticaretini kontrol etti ve güçlerini bunun üzerine inşa etti."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "On kişiden dokuzu köylü olarak yaşıyordu; bunların çoğu, malikâne sahibine vergi ödeyen ve zorunlu çalışma yapan serflerdi. Köy yaşamı kilise takvimini ve mevsimleri izliyordu; 11. yüzyıldan itibaren üç tarla sistemi, ağır tekerlekli saban ve çeki atları için boyunduruk verimi artırdı. Buna rağmen mahsul kayıpları defalarca kıtlıklara yol açtı ve yaşam beklentisi günümüzdekinin çok altındaydı. Kara Ölüm'den sonra işgücü azaldı ve köylüler, 1381'de İngiltere'de olduğu gibi özgürlük ve daha iyi koşullar talep etti.",
+          "Şehirlerde, 'şehir havası özgür kılar' ilkesine göre bir yıl sonra serflikten kurtulan tüccarlar, zanaatkârlar ve gündelikçilerden oluşan yeni bir toplum ortaya çıktı. Loncalar zanaatların eğitimini, fiyatlarını ve kalitesini düzenliyor, genellikle zengin tüccar ailelerinin hakim olduğu şehir meclisi ise krallarla ve prenslerle müzakere ediyordu. Kadınlar atölyeler ve dükkânlar işletiyor, tekstil ve bira üretiminde çalışıyor, Köln gibi şehirlerde ise kendilerine ait loncalar olarak bile ortaya çıkıyordu. Yahudiler ayrı mahallelerde yaşıyor, zanaatlardan dışlanıyor ve defalarca zulme maruz kalıyordu.",
+          "Soylular kalelerde yaşıyor ve kendilerini silahlar, avcılık ve turnuvalarla tanımlıyordu; şövalye idealinde cesaret dindarlık ve saray görgü kurallarıyla birleşiyordu. Akitanyalı Eleanor'un sarayı gibi saraylarda trubadurlar ve minnesingerler aşkı şarkılarla dile getiriyor ve halk dillerinde bir şiir yaratıyordu. Manastırlar soyluların oğullarını ve kızlarını kabul ediyor, hasta ve fakirlere bakıyor ve Bingenli Hildegard gibi kadınlara eğitim ve etki için bir alan sunuyordu."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Kilise, yaşamın her alanına nüfuz ediyordu: vaftiz, evlilik ve gömme, bayramlar, oruç ve öşür yılı belirliyor, cehennem ve araf korkusu insanların düşüncesini şekillendiriyordu. Benedictus'un kuralı, manastırları antik çağın metinlerini kopyalayan yazı odalarıyla dua, çalışma ve öğrenme mekânları haline getirdi. 13. yüzyılda Fransiskenler ve Dominikenler şehirlere girdi ve yoksulluğu vaaz etti; hacılar Santiago'ya, Roma'ya ve Kudüs'e seyahat etti ve kutsal emanetlere tapınıldı. Bizans ve Kiev, 1054'te Roma'dan kesin olarak ayrılan Ortodoks inancını izliyordu.",
+          "Bologna, Paris ve Oxford üniversiteleriyle, 11. yüzyıldan itibaren hukuk, teoloji, tıp ve yedi özgür sanatın öğretildiği yeni bir öğrenim yeri türü ortaya çıktı. Skolastik, inancı akılla temellendirmeye çalışıyordu; bu amaçla Thomas Aquinas, Arapça çevirilerle yeniden keşfedilen Aristoteles felsefesini Hıristiyan doktriniyle birleştirdi. Aynı zamanda halk dillerinde şiir gelişti; Nibelungen Şarkısı'ndan, Wolfram von Eschenbach'ın Parzival'ine ve Dante'nin İlahi Komedya'sına kadar.",
+          "Mimari bu yeni gelişmeyi yansıtıyordu: kalın duvarlı devasa Romanesk kiliselerin ardından 1140'tan itibaren, sivri kemerleri, payandaları ve renkli cam pencereleriyle ışığı iç mekâna Tanrı'nın bir görüntüsü olarak sokan Gotik katedraller geldi. Müzik ilk kez notasyonla yazıya geçirildi ve çok seslilik Paris'te gelişti. Avrupa dışında Büyük Zimbabve'nin inşacıları harç kullanmadan metrelerce yüksekliğinde duvarlar yükseltti; Cusco ve Machu Picchu'da İnkalar taşları öylesine hassas bir şekilde birleştirdi ki aralarına bir bıçak ucu bile sığmıyordu."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "11. yüzyıldan 13. yüzyıla kadar Avrupa'nın nüfusu ikiye katlandı; ormanlar temizlendi, bataklıklar kurutuldu ve Doğu Avrupa'ya kadar yerleşimciler toplandı. Su değirmenleri ve yel değirmenleri, öğütme, dövme ve testerecilikte elle çalışmanın yerini aldı; Harz ve Erzgebirge madenlerinde gümüş çıkarıldı, bu da sikke basımını yeniden canlandırdı. Şampanya'daki ve daha sonra Frankfurt ile Cenevre'deki panayırlar, İtalya'nın tüccarlarını Flandre ve Almanya'nınkilerle birleştirdi.",
+          "Uzun mesafeli ticaret birlikler halinde örgütlendi: yaklaşık 1356'da Hansa Birliği, Londra'dan Novgorod'a kadar yaklaşık 200 şehri birbirine bağladı ve yuvarlak kog gemileriyle kumaş, kürk, balmumu, ringa balığı ve tuz ticareti yaptı. Venedik ve Cenova gibi İtalyan şehirleri, doğudan gelen baharat ve ipek ticaretinde Akdeniz'e hakim oldu ve poliçe, çift taraflı muhasebe ve bankalar geliştirdi; kilise faizi yasaklamıştı, ama tüccarlar bu yasağı aşmanın yollarını buldu. Afrika'da Sahra'yı geçen kervanlar ve Swahili kıyısındaki limanlar, altın yataklarını ve fildişi kaynaklarını Kahire, Hindistan ve Çin ile birbirine bağlıyordu.",
+          "Teknik yenilikler gündelik yaşamı ve savaşı değiştirdi: yaklaşık 1300'de icat edilen mekanik saat, günü ilk kez eşit uzunlukta saatlere böldü ve şehirlerin kulelerinden vuruldu. Araplar aracılığıyla Çin'den gelen kâğıt üretimi ile gözlük, üzengi ve arbalet yayıldı; 1320 civarında Avrupa'da ilk top ortaya çıktı. Ant Dağları'nda İnkalar, demir veya tekerlek olmadan teraslı tarlalar, asma köprüler ve 30.000 kilometreden uzun bir yol ağı inşa etti; bu yollarda koşucular mesaj ve erzak taşıyordu."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "islamische-welt",
+    "title": "İslam Dünyası",
+    "order": 7,
+    "start": 610,
+    "end": 1500,
+    "color": "#059669",
+    "regions": [
+      "naher-osten",
+      "afrika",
+      "europa",
+      "asien"
+    ],
+    "summary": "Muhammed'in mesajından bir yüzyıl içinde İspanya'dan Hindistan'a uzanan bir imparatorluk doğdu; Bağdat, Kurtuba ve Kahire'deki bilginler bilimi, tıbbı ve felsefeyi yeni bir doruğa taşıdı.",
+    "overview": [
+      "610 civarında Mekkeli bir tüccar olan Muhammed, İslam inancına göre Allah'tan aldığı vahiyleri hemşehrilerine bildirmeye başladı. Tek Allah, sosyal adalet ve Kıyamet Günü mesajı Mekke'de dirençle karşılaştı, bu yüzden 622'de Medine'ye göç etti. Orada ilk Müslüman topluluğu ortaya çıktı; bu göç, yani Hicret ile İslam takvimi başlar. 632'deki ölümüne kadar Arabistan'daki kabilelerin çoğu İslam'a katılmıştı.",
+      "İlk halifeler döneminde Arap orduları, şaşırtıcı derecede kısa bir sürede Suriye'yi, Filistin'i, Mısır'ı, Persia'yı ve Kuzey Afrika'yı fethetti. 661'den itibaren Emeviler, Şam'dan 711'e kadar İspanya'yı ve Orta Asya'nın bazı kısımlarını da içine alan bir imparatorluğu yönetti; batıya doğru genişlemeleri 732'de Tours ve Poitiers'de durduruldu. Hıristiyanlar ve Yahudiler, İslam yönetimi altında korunan tebaa olarak yaşadı; özel bir vergi ödemelerine karşılık dinlerini korumalarına izin verildi.",
+      "750'de Abbasiler, Emevilerin yerini aldı ve 762'de kısa sürede dünyanın en büyük şehri haline gelen Bağdat'ı kurdu. Harun Reşid ve Memun gibi halifeler döneminde, Hikmet Evi'nde bilim gelişti: Yunanca, Farsça ve Hintçe eserler Arapçaya çevrildi; el-Harezmi, er-Razi ve İbn Sina gibi bilginler cebir, astronomi ve tıbbın temellerini attı. Müslümanlar sıfırlı rakamları Hindistan'dan, kâğıt üretimini ise Çin'den aldı.",
+      "Siyasi olarak hilafet parçalandı: İspanya'da Emeviler 929'da Kurtuba'da kendi hilafetlerini ilan etti, Mısır'da Fatımiler hüküm sürdü ve doğuda Türk sultanları iktidara geldi. 1096'dan itibaren Haçlı Seferleri Avrupalılarla savaşı beraberinde getirdi; Selahaddin Eyyubi 1187'de Kudüs'ü geri aldı. 1258'de Moğollar Bağdat'ı yıktı ve Abbasi hilafetine son verdi.",
+      "Bu felakete rağmen İslam dünyası, İbn Battuta gibi gezginlerin Fas'tan Çin'e kadar her yerde din kardeşleriyle, camilerle ve Arapça konuşan bilginlerle karşılaştığı bağlantılı bir kültür alanı olarak kaldı. Sahra, Hint Okyanusu ve İpek Yolu üzerinden yapılan ticaret, İslam'ı Batı Afrika'ya, Hindistan'a ve Endonezya'ya kadar yaydı. 1300 civarında Anadolu'da Osmanlı İmparatorluğu ortaya çıktı; 1453'te Konstantinopolis'i fethederek yeni büyük güç haline geldi."
+    ],
+    "consequences": [
+      "İslam, bugün yaklaşık iki milyar inananı olan bir dünya dini haline geldi ve Fas'tan Endonezya'ya kadar kültürü, hukuku ve gündelik yaşamı şekillendiriyor.",
+      "Arap bilginler antik çağın bilgisini korudu ve genişletti; Toledo ve Sicilya'dan yapılan çeviriler aracılığıyla cebir, tıp, astronomi ve Aristoteles felsefesi Avrupa'ya ulaştı.",
+      "Hindistan'dan alınan Arap rakamları, kâğıt ve cebir, şeker, kahve veya şifre gibi sayısız kelime, Avrupa mirasının bir parçasıdır.",
+      "Müslüman ticaret ağları üç kıtayı birbirine bağladı ve mal, şeker kamışı ile portakal gibi bitkiler, sulama ve yel değirmeni gibi teknikleri geniş alanlara taşıdı.",
+      "Haçlı Seferleri'nin çatışmaları ve Konstantinopolis'in fethi, Avrupa ile İslam dünyası arasındaki ilişkiyi günümüze kadar şekillendirdi."
+    ],
+    "tags": [
+      "islam",
+      "hilafet",
+      "bağdat",
+      "bilim",
+      "endülüs",
+      "haçlı seferleri",
+      "osmanlılar",
+      "ticaret"
+    ],
+    "keyFacts": [
+      "624'te genç Müslüman topluluğu Bedir'de ilk zaferini kazanır; 680'de Hüseyin'in Kerbela'da ölümü, Sünnilerle Şiiler arasındaki ayrılığı derinleştirir.",
+      "717'den 718'e kadar Konstantinopolis'in büyük Arap kuşatması başarısız olur; 750'de Abbasi devrimi Emevileri devirir.",
+      "820 civarında el-Harezmi, Bağdat'ta hesap üzerine yazdığı kitabıyla cebiri kurar; 859'da Fatıma el-Fihri, dünyanın en eski yüksek öğrenim kurumlarından biri olan Fes'teki el-Karaviyyin camisini bağışlar.",
+      "969'da Fatımiler Kahire'yi ve 970'te günümüzde hâlâ bir öğrenim yeri olarak varlığını sürdüren el-Ezher camisini kurar.",
+      "1071'de Selçuklular, Malazgirt'te Bizans'ı yener ve Anadolu'yu Türk yerleşimcilere açar.",
+      "12. yüzyılda İbn Rüşd, Kurtuba'da Aristoteles'in eserlerini açıklar ve böylece Avrupa üniversitelerinin düşüncesini şekillendirir; 14. yüzyılda Timbuktu ve Elhamra, İslam bilim ve sanatının simgeleri haline gelir.",
+      "1370'ten 1405'e kadar Timur, Delhi'den Ankara'ya uzanan bir imparatorluk fetheder; 1492'de Granada'nın düşüşü, İspanya'da neredeyse 800 yıl süren Müslüman hakimiyetine son verir."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "632'de Muhammed'in ölümünden sonra, en yakın çevresinden dört halife topluluğun liderliğini üstlendi; Müslümanlar onları 'dört halife' olarak adlandırır. Bu dönemde bile meşru halefiyet üzerine tartışma patlak verdi: Peygamber'in kuzeni ve damadı olan Ali'nin taraftarları liderliği ailesinin bir meselesi olarak görürken, çoğunluk en uygun kişinin seçilmesinin doğru olduğunu düşünüyordu. Bu çatışmadan Şiiler ve Sünniler ortaya çıktı; 656'dan 661'e kadar süren mücadeleler ve 680'de Hüseyin'in Kerbela'daki ölümü, her iki kolun da kuruluş anlatıları haline geldi.",
+          "Emevi ve Abbasi halifeleri kendilerini dini ve dünyevi otoriteye sahip Peygamber'in halefleri olarak görüyordu, ancak aslında vezirler, vergi kayıtları ve posta yollarıyla Fars uygulamasının şekillendirdiği yönetimlerle idare ediyorlardı. 9. yüzyıldan itibaren eyaletler kendi hanedanları altında ayrıldı: Kuzey Afrika'da Ağlebiler ve Fatımiler, Persia'da Samaniler ve Büveyhoğulları, İspanya'da Emeviler. Bağdat'taki halife, adı Cuma namazında anılan manevi bir lider olarak kaldı; asıl güç ise Türk asker köleler ve daha sonra Selçuklular tarafından kullanıldı.",
+          "11. yüzyıldan itibaren, halife adına gücü elinde tutan sultan, İslam dünyasının tipik hükümdar figürü haline geldi. Selçuklular, Selahaddin'in Eyyubileri, Mısır'daki Memlükler ve nihayet Osmanlılar, süvari orduları, asker köleler ve subaylarına bahşettikleri topraklardan gelen gelirlere dayanıyordu. Moğollar ve Timur gibi fatihler şehirleri ve sulama sistemlerini yıktı, ama kısa sürede kendileri de İslam'ı benimsedi ve saraylarında bilginleri ve usta mimarları destekledi."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Şehirler İslam dünyasının kalbiydi: Cuma camisinin etrafında ticaret koluna göre düzenlenmiş sokaklarıyla çarşı, tüccarlar için kervansaraylar, hamamlar, çeşmeler ve iç avlulu konut mahalleleri bulunuyordu. Kahire, Bağdat, Şam ve Kurtuba, dönemlerinin en büyük şehirleri arasındaydı; sulanan tarlalar, ambarlar ve uzun mesafeli yollar ağı tarafından besleniyordu. Kırsalda köylüler toprak sahiplerinin yönetimindeki köylerde yaşıyor, deve, koyun ve at yetiştiren ve kervanları koruyan veya onlara saldıran göçebelerle bir arada bulunuyordu.",
+          "Din, beş vakit namaz, oruç ayı Ramazan, şarap ve domuz eti yasağı ve yoksullar için zekatla günün akışını şekillendiriyordu. Hıristiyanlar, Yahudiler ve Zerdüştiler, kendi topluluklarına, mahkemelerine ve ibadet yerlerine sahip korunan tebaa olarak yaşıyor, ama cizye ödemek zorundaydılar ve çoğunlukla yüksek görevlerden dışlanıyorlardı; buna rağmen Endülüs'te ve Bağdat'ta Yahudi hekimler, vezirler ve bilginler öne çıktı. Kölelik yaygındı; Afrika'dan, Kafkasya'dan ve steplerden gelen köleler evlerde, ordularda ve saraylarda hizmet ediyor, Memlükler gibi asker köleler hükümdarlığa kadar yükselebiliyordu.",
+          "Kadınlar hukuken dezavantajlıydı, ama miras payı alabiliyor, mülk sahibi olabiliyor ve vakıf kurabiliyordu. Peygamber'in eşi Aişe, Muhammed'in yüzlerce sözünü aktardı ve Medine'de ders verdi; Fatıma el-Fihri, Fes'te bir medreseyle birlikte bir cami bağışladı; Mısır'da Şecerüddür veya Delhi'de Raziye gibi hükümdarlar bir süre kendi adlarına yönetti. Şiirlerde, seyahatnamelerde ve hukuki belgelerde kadınlar tüccar, şair, mistik ve bilgin olarak karşımıza çıkar."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "8. ve 9. yüzyıllarda İslam din bilimlerinin temelleri atıldı: bilginler hadisleri, yani Peygamber'in aktarılan sözlerini topladı ve inceledi, bunlardan dört Sünni hukuk mezhebi geliştirdi. Hukuk biliminin yanı sıra, Allah'ı doğrudan deneyimlemeye çalışan tasavvuf mistisizmi gelişti; Basralı Rabia, el-Gazali ve Mevlana bunu şiir ve felsefeyle birleştirdi; tasavvuf tarikatları İslam'ı Hindistan'a, Anadolu'ya ve Afrika'ya taşıdı.",
+          "Bağdat'ın çeviri hareketi, yüzyıllar süren özgün araştırmanın zeminini hazırladı. El-Harezmi cebiri kurdu, el-Biruni dünyanın yarıçapını hesapladı, İbn el-Heysem optiği deneylere dayandırdı, er-Razi ve İbn Sina tıp ders kitapları yazdı; Meraga ve Semerkant'ta rasathaneler inşa edildi. El-Farabi ve İbn Rüşd gibi filozoflar Aristoteles'i yeniden yorumladı; 13. yüzyıldan itibaren Toledo'dan yapılan Latince çevirileri, Paris'ten Padova'ya kadar üniversitelerin müfredatını belirledi. 14. yüzyılda İbn Haldun, imparatorlukların yükseliş ve çöküşü üzerine sosyal bilimlerin başlangıcı sayılan bir teori geliştirdi.",
+          "Camilerde resimli tasvirlerden kaçınıldığı için sanatçılar hat sanatını, geometrik süslemeleri ve arabeski en yüksek mükemmelliğe taşıdı. Kubbeli, minareli ve mihraplı camiler, Elhamra gibi saray şehirleri, Kur'an yazmaları, Persia'dan gelen minyatür resim ve Anadolu'dan gelen halılar, sanatın çeşitliliğini gösterir. Şiir en saygın sanattı; Firdevsi'nin Farsça destanları, Ömer Hayyam'ın dörtlükleri ve Hafız'ın aşk şiirleri günümüzde hâlâ okunmaktadır."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "İslam dünyası üç kıtanın ticaret yollarının kesişim noktasında bulunuyordu. Kervanlar Batı Afrika'dan altın ve köleleri Sahra üzerinden Kuzey Afrika'ya taşıyor, gemiler Basra'dan ve Aden'den muson rüzgarlarıyla Hindistan'a, Doğu Afrika'ya ve Çin'e yelken açıyor, İpek Yolu ise Bağdat'ı Semerkant üzerinden Uzak Doğu'ya bağlıyordu. Ortak bir dil, İslam hukuku ve altın dinar, binlerce kilometrelik ticareti kolaylaştırıyordu; tüccarlar İtalya'da yaygınlaşmadan çok önce poliçe, kredi ve ticaret şirketleri kullanıyordu.",
+          "Tarım ve teknoloji, Yakın Doğu'nun çiftçileri ve mühendisleri tarafından geliştirildi: su çarkları, yeraltı kanalları ve sarnıçlar, Persia'dan İspanya'ya kadar tarlaları sulayarak pirinç, şeker kamışı, pamuk, portakal ve limon yetiştirilmesini sağladı. 8. yüzyıldan itibaren Semerkant'ta ve Bağdat'ta kâğıt fabrikaları kuruldu ve bu, kütüphaneleri, yönetimi ve kitap ticaretini mümkün kıldı. El-Cezeri gibi bilginler pompaları, su saatlerini ve otomatları tarif etti; Şam'dan ve Toledo'dan ünlü kılıçlar, cam eşyalar ve seramikler geldi.",
+          "Şehirlerin zenginliği, güvenli ticaret yollarına ve sağlam sulama sistemlerine bağlıydı. 13. yüzyılda Moğolların ve 14. yüzyılda Timur'un yol açtığı yıkım, 1347'den itibaren veba ve 1500'den itibaren ticaretin Avrupalıların deniz yollarına kayması, eski merkezleri ağır bir şekilde vurdu. Aynı zamanda yeni bölgeler gelişti: Nijer üzerindeki Timbuktu ve Gao, Doğu Afrika kıyısındaki Kilwa ve Zanzibar, Güneydoğu Asya'daki Malaka ve Bursa ile daha sonra İstanbul'la yükselen Osmanlı İmparatorluğu."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "renaissance-entdeckungen",
+    "title": "Rönesans, Keşifler ve Reformasyon",
+    "order": 8,
+    "start": 1400,
+    "end": 1600,
+    "color": "#f59e0b",
+    "regions": [
+      "europa",
+      "amerika",
+      "afrika",
+      "asien"
+    ],
+    "summary": "1400 ile 1600 arasında matbaacılık, hümanizm, Amerika'ya ve Hindistan'a yapılan seyahatler ve kilisenin bölünmesi Avrupa'nın dünya görüşünü değiştiriyor ve kıtaları ilk kez kalıcı olarak birbirine bağlıyor.",
+    "overview": [
+      "15. yüzyılda Floransa, Venedik ve Roma gibi İtalyan şehir devletlerindeki bilginler ve sanatçılar bir kez daha antik çağa yöneldi. Bu yeniden doğuş, yani Rönesans, insanı ve onun yeteneklerini merkeze koydu. Medici gibi zengin bankacı aileler ressamları, heykeltıraşları ve mimarları destekledi; hümanizm, Yunanca ve Latince kaynaklara dayanan yeni bir eğitim biçimini yaydı. Leonardo da Vinci, Michelangelo ve Rafael, günümüzde hâlâ Avrupa sanatının doruk noktaları olarak kabul edilen eserler yarattı.",
+      "1450 civarında Mainzli Johannes Gutenberg, hareketli metal harflerle matbaacılığı geliştirdi. Böylece kitaplar daha ucuz ve daha hızlı üretilir hale geldi; bilgi, daha önce görülmemiş bir hızla yayıldı. Broşürler, halk dilindeki İnciller ve bilimsel eserler artık geniş bir kitleye ulaşıyordu. Matbaacılık olmasaydı, ne Reformasyon ne de yeni doğa bilimi bu kadar hızlı ilerleyebilirdi.",
+      "Aynı zamanda Portekizli ve İspanyol denizciler, Asya'nın baharatlarına ve altınına giden yeni yollar arıyordu. Kristof Kolomb 1492'de Karayipler'e, Vasco da Gama 1498'de Hindistan'a ulaştı; 1519 ile 1522 arasında Macellan'ın filosu dünyayı ilk kez dolaştı. Cortés ve Pizarro yönetimindeki İspanyol fatihler, Aztek ve İnka imparatorluklarını yıktı. Amerika halkları için Avrupalıların gelişi hastalık, şiddet ve zorla çalıştırma anlamına geliyordu; milyonlarca insan öldü ve 16. yüzyıldan itibaren Afrikalılar köle olarak Atlantik'in ötesine taşındı.",
+      "1517'de rahip Martin Luther, endüljans ticaretine karşı 95 Tezini yayımladı. Kilisenin reformu için bir çağrı olarak başlayan bu hareket, Batı Hıristiyanlığının Katolikler ve Protestanlar olarak bölünmesine yol açtı. Prensler, şehirler ve köylüler yeni öğretiyi kendi çıkarları için kullandı ve Avrupa din savaşlarına sürüklendi. Katolik Kilisesi bu meydan okumaya Trento Konsili ve Cizvit tarikatıyla karşılık verdi.",
+      "Evrenin tasviri de harekete geçti. 1543'te Nikolaus Kopernik, evrenin merkezine dünya yerine güneşi yerleştirdi; gözlem ve matematik, giderek eski otoritelerin yerini aldı. 16. yüzyılın sonunda Avrupa daha zengin, daha eğitimliydi ve aynı zamanda her zamankinden daha derinden bölünmüştü; gemileri, yaşanabilir tüm kıtaları ilk kez birbirine bağladı."
+    ],
+    "consequences": [
+      "Matbaacılık, bilgiyi kitlesel ölçekte erişilebilir kıldı ve kamusal alan, bilim ve modern eğitim için zemin oluşturdu.",
+      "Keşif seyahatleri, Avrupa'yı, Afrika'yı, Asya'yı ve Amerika'yı dünya çapında bir ticaret ağına bağladı; bitkiler, hayvanlar, hastalıklar ve insanlar kıtalar arasında alışverişe girdi.",
+      "Amerika'nın fethi, yerli imparatorlukları yıktı ve yüzyıllarca sürecek sömürge yönetimini ile transatlantik köle ticaretini başlattı.",
+      "Reformasyon, Hıristiyanlığı kalıcı olarak böldü, bölgesel prensleri güçlendirdi ve 1648'deki Vestfalya Barışı'na kadar süren din savaşlarını tetikledi.",
+      "Rönesans ve güneş merkezli dünya görüşü, insanı, aklı ve gözlemi merkeze koydu ve bilimsel devrim ile Aydınlanma'nın yolunu hazırladı."
+    ],
+    "tags": [
+      "rönesans",
+      "hümanizm",
+      "matbaacılık",
+      "keşifler",
+      "reformasyon",
+      "sömürgecilik",
+      "luther",
+      "kolomb"
+    ],
+    "keyFacts": [
+      "1450 civarında Johannes Gutenberg, Mainz'da hareketli harflerle matbaacılığı icat eder; 1500 yılına kadar Avrupa'da yaklaşık 30.000 başlık basılmıştır.",
+      "1492'de Kolomb Karayipler'e ulaşır; 1494'te İspanya ve Portekiz, Tordesillas Antlaşması ile Avrupa dışındaki dünyayı aralarında paylaşır.",
+      "1517'de Luther, 95 Tez ile Reformasyonu başlatır; 1521'de Worms'ta geri adım atmayı reddeder ve 1555'te Augsburg Barışı, imparatorlukta iki mezhebi tanır.",
+      "1543'te Kopernik'in güneş merkezli dünya görüşü ve Vesalius'un anatomisi aynı yılda yayımlanır; modern doğa biliminin iki temel taşı.",
+      "Süleyman yönetimindeki Osmanlı İmparatorluğu, Ekber yönetimindeki Babür İmparatorluğu ve Batı Afrika'daki Songay İmparatorluğu, dönemin en güçlü devletleri arasındadır.",
+      "1588'de İspanyol Armadası İngiltere açıklarında başarısız olur; 1582'de Papa XIII. Gregorius, günümüzde hâlâ kullanılan takvimi getirir.",
+      "1500 ile 1600 arasında Avrupalı tüccarlar, çoktan yüz binlerce Afrikalıyı köle olarak Amerika kıtasına taşımıştır."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "İtalyan şehir devletleri, Rönesans'ın siyasi laboratuvarıydı. Floransa'da Medici bankacı ailesi, 1434'ten itibaren taç veya unvan olmadan, görevleri, seçimleri ve himayeyi ustalıkla yöneterek hüküm sürdü. Venedik, seçilmiş bir doj ile aristokratik bir cumhuriyet olarak kaldı, Milano düklerce yönetiliyordu ve papa aynı zamanda Papalık Devletleri'nin hükümdarıydı. 1513'te Niccolò Machiavelli, Prens adlı eserinde gücün nasıl kazanılıp korunacağını soğukkanlılıkla anlattı ve böylece modern siyasi düşüncenin temelini attı.",
+          "Alp Dağları'nın kuzeyinde büyük krallıklar birleşti. Kastilyalı İsabel ve Aragonlu Ferdinand, İspanya'yı birleştirdi ve 1492'de Granada'nın fethiyle Reconquista'yı tamamladı. 1519'dan itibaren torunları V. Karl, İspanya'yı, Hollanda'yı, Napoli'yi, Avusturya'yı ve imparatorluk tacını birleştirdi ve üzerinde güneşin batmadığı bir imparatorluğu yönetti. Fransa ve İngiltere kraliyet güçlerini pekiştirdi; 1534'te VIII. Henry, İngiliz kilisesini Roma'dan ayırdı ve kendisini onun başı yaptı.",
+          "Reformasyon bir güç meselesi haline geldi. Elektörlük Saksonya ve Hesse gibi bölgesel prensler, yeni öğretiyi kilise mülkünü ve kilise üzerindeki otoriteyi ele geçirmek için kullandı ve 1531'de Schmalkalden Birliği'nde bir araya geldi. Savaş ve müzakereden sonra 1555 Augsburg Barışı, her bölgesel hükümdarın kendi topraklarının mezhebini belirleyeceğini karara bağladı. Fransa'da ise buna karşılık çatışma, doruk noktası 1572 Aziz Bartelmi Katliamı olan sekiz din savaşına yol açtı."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "1500 civarında Avrupa bir köylüler toplumuydu. On kişiden dokuzu kırsalda yaşıyor, toprak sahiplerine ve kiliseye vergi ödüyor ve birçok yerde serf durumundaydı. Veba yıllarından sonra nüfus yeniden arttı, tahıl fiyatları yükseldi ve 1525'teki köylülerin On İki Maddesi, kırsal nüfusun yeni yükler karşısında kendini ne kadar tehdit altında hissettiğini gösteriyor. Aynı zamanda Amerika kıtasından gelen patates, mısır, domates ve hindi, uzun vadede Avrupa'ya yeni gıda maddeleri getirdi.",
+          "Şehirlerde loncalar, meclisler ve patrisyen aileler yaşamı belirliyordu. Zanaatkârlar, tüccarlar ve bilginler, kitap satın alan, okullar bağışlayan ve kendi portrelerini yaptıran özgüvenli bir burjuvazi oluşturdu. Kadınlar evleri ve atölyeleri işletmeye yardım ediyor, ama üniversitelerden ve çoğu loncadan dışlanıyordu; ressam Sofonisba Anguissola veya Reformasyon yazarı Argula von Grumbach gibi istisnalar nadir kaldı. 16. yüzyılın sonuna doğru artan cadı avları, ağırlıklı olarak kadınları etkiledi.",
+          "Amerika ve Afrika halkları için keşifler çağı bir felaket anlamına geliyordu. Yerli nüfusun karşı hiçbir savunması olmadığı çiçek hastalığı, kızamık ve grip, bir yüzyıl içinde Orta ve Güney Amerika sakinlerinin büyük bir kısmını öldürdü. İspanyol encomienda sistemi, hayatta kalanları madenlerde ve plantasyonlarda çalışmaya zorladı. Dominiken rahibi Bartolomé de Las Casas bu vahşetleri kınadı ve 1542'de koruyucu yasalar elde etti, ancak bunlar neredeyse hiç uygulanmadı."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Hümanizm, çağın eğitim hareketiydi. Rotterdamlı Erasmus gibi bilginler, Yunanca ve Latince yazmalarda antik çağın ve İncil'in bozulmamış metnini aradı, skolastik kılı kırk yarmayı alaya aldı ve eğitimli, barışçıl bir Hıristiyanlık çağrısında bulundu. Üniversitelerde Yunanca ve İbranice öğretiliyordu; Erasmus'un 1516'daki Yunanca Yeni Ahit'i, Luther'in çevirisinin temeli oldu. Matbaacılık bu bilgin kültürünü broşürler, hicivli baskılar ve şarkılarla kamusal bir tartışmaya dönüştürdü.",
+          "Sanatta ressamlar ve heykeltıraşlar doğanın yasalarını aradı. Brunelleschi merkezi perspektifi keşfetti, Leonardo cesetler üzerinde kasları ve tendonları inceledi, 1508 ile 1512 arasında Michelangelo Sistine Şapeli'nin tavanını resmetti. Alp Dağları'nın kuzeyinde Albrecht Dürer, Hans Holbein ve Pieter Bruegel, peyzajı, gündelik yaşamı ve portreyi yeni biçimlerde yakalayan eserler yarattı. Yüzyılın sonuna doğru Londra'da tiyatro gelişti ve William Shakespeare, günümüzde hâlâ dünya çapında sahnelenen oyunlar yazdı.",
+          "Doğa araştırmaları, otoritelerin yerini gözleme bırakmaya başladı. 1543'te Andreas Vesalius, kendi diseksiyonlarıyla Galen'den beri aktarılan anatomiyi düzeltti, aynı yıl Kopernik dünyayı harekete geçirdi ve Tycho Brahe gökyüzünü o zamana kadar eşi görülmemiş bir hassasiyetle ölçtü. 1582'deki takvim reformu, astronomi ve kilisenin nasıl birlikte çalışabileceğini gösterdi. Aynı zamanda kilise, Endeks, Engizisyon ve tüm Avrupa'da ve misyon bölgelerinde okullar kuran yeni Cizvit tarikatıyla doktrinini savundu."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Ticaret evleri ve bankalar ekonomiyi şekillendirdi. Floransa'daki Mediciler ve Augsburg'daki Fuggerler, papaları ve imparatorları finanse etti; 1519'da Jakob Fugger, V. Karl'ın seçilmesi için ödeme yaptı ve Tirol ile Macaristan'daki bakır ve gümüş madenciliğini kontrol etti. Poliçeler, çift taraflı muhasebe ve şube ağları, büyük mesafeler üzerinden mali işlemleri mümkün kıldı. Anvers, kuzeybatı Avrupa'nın en önemli ticaret merkezi olarak Bruges ve Venedik'in yerini aldı.",
+          "Keşif seyahatleri yeni teknolojiye dayanıyordu. Üçgen yelkenli karavela, rüzgara karşı seyredebiliyordu; pusula, usturlap ve çapraz asa açık denizde konum belirlemeyi mümkün kılıyor, Portekiz denizcilik okulları haritalar ve deneyim topluyordu. Ağır gemi topları Avrupa filolarına Hint Okyanusu'nda üstünlük sağladı. Asya'dan gelen baharatlar, ipek ve porselen ile Atlantik adalarının ve Brezilya'nın yeni plantasyonlarından gelen şeker, dünya ticaretinin malları haline geldi.",
+          "Gümüş, Amerika kıtasından Avrupa'ya aktı. 1545'te Potosí ve 1546'da Zacatecas madenlerinin keşfinden sonra, her yıl yüzlerce ton gümüş Sevilla'ya ulaştı ve oradan Cenova'ya, Anvers'e ve Manila üzerinden Çin'e kadar taşındı. 16. yüzyılda Avrupa'da fiyatlar sert bir şekilde yükseldi; tarihçiler buna fiyat devrimi der. Gümüş, yerli zorla çalıştırılan işçiler ve Afrikalı köleler tarafından çıkarılıyordu; onların çektiği acı, Avrupa zenginliğinin diğer yüzüydü."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "absolutismus-aufklaerung",
+    "title": "Mutlakiyetçilik ve Aydınlanma",
+    "order": 9,
+    "start": 1600,
+    "end": 1789,
+    "color": "#6366f1",
+    "regions": [
+      "europa",
+      "asien",
+      "amerika"
+    ],
+    "summary": "Otuz Yıl Savaşları ile Fransız Devrimi arasında krallar mutlak güç iddiasıyla hüküm sürerken, doğa bilimi ve Aydınlanma akıl, özgürlük ve kilise ile taca yönelik eleştiriyi yayıyor.",
+    "overview": [
+      "17. yüzyıl bir felaketle başladı: 1618 ile 1648 arasında Otuz Yıl Savaşları, Orta Avrupa'nın büyük bölümlerini harap etti. Kutsal Roma İmparatorluğu'nda Katolik ve Protestan zümreler arasındaki bir çatışma olarak başlayan bu savaş, Danimarka, İsveç, İspanya ve Fransa'nın müdahale ettiği Avrupa çapında bir güç mücadelesine dönüştü. 1648'deki Vestfalya Barışı savaşı sona erdirdi, mezheplerin eşit statüsünü teyit etti ve bölgesel hükümdarları imparatora karşı güçlendirdi.",
+      "Savaş ve kaos deneyiminden mutlakiyetçilik doğdu: kral, daimi bir ordu, memurlar ve yönlendirilen bir ekonomi tarafından desteklenerek tek başına ve sınırsız bir şekilde hüküm sürecekti. Fransa'nın Güneş Kral'ı XIV. Louis, Versay'ı Avrupa saraylarının modeli haline getirdi. Büyük Petro, Rusya'yı modernleşmeye zorladı ve Batı'ya açılan bir pencere olarak Saint Petersburg'u kurdu. İngiltere'de ise buna karşılık Parlamento, 1688'deki Şanlı Devrim'de kraliyet gücüne sınırlar getirdi.",
+      "Aynı zamanda yeni doğa bilimi insanların düşünce biçimini değiştirdi. Galileo, Kepler ve Isaac Newton, doğayı matematiksel yasalarla tanımladı; Newton'un 1687 tarihli Principia'sı, gezegenlerin hareketini ve bir elmanın düşüşünü aynı ilkelerle açıkladı. Akademiler, uzmanlık dergileri ve deneyler, eski otoritelerin yerini aldı. Bu başarılar, insanları devleti, hukuku ve dini de akılla incelemeye teşvik etti.",
+      "18. yüzyılın Aydınlanması her şeyi sınadı. Voltaire fanatizme ve sansüre karşı savaştı, Montesquieu güçler ayrılığını talep etti, Rousseau halk egemenliğine dayanan bir devlet tasarladı ve Diderot ile d'Alembert'in Ansiklopedisi çağın bilgisini topladı. Kant, programı, aydınlanmanın insanın kendi kendine dayattığı ergin olmama durumundan çıkışı olduğu ifadesiyle özetledi. Prusyalı II. Friedrich gibi hükümdarlar kendilerini aydınlanmış olarak adlandırdı, ama mutlak güçlerine sıkı sıkıya bağlı kaldı.",
+      "Avrupa dışında, Qing hanedanı yönetimindeki Çin en geniş sınırlarına ulaşırken, Kuzey Amerika'da İngiliz, Fransız ve İspanyol kolonileri büyüdü. 1756'dan 1763'e kadar süren Yedi Yıl Savaşları üç kıtada yürütüldü ve Büyük Britanya'yı önde gelen sömürge gücü haline getirdi. Fransız Devrimi'nin arifesinde Aydınlanma, eski düzenin meşruiyetini çoktan zayıflatmıştı ve buhar makinesiyle birlikte yeni bir çağ çoktan kendini haber veriyordu."
+    ],
+    "consequences": [
+      "Vestfalya Barışı, günümüze kadar uluslararası ilişkilerin temelini oluşturan egemen devletlerden oluşan bir Avrupa sistemi kurdu.",
+      "Mutlakiyetçi devlet, modern devletlerin doğduğu daimi ordular, memur kadroları ve merkezi yönetimler yarattı.",
+      "Bilimsel devrim, deneyi, gözlemi ve matematiği bilginin temeli olarak yerleştirdi ve sanayileşmenin teknolojisini mümkün kıldı.",
+      "İnsan hakları, güçler ayrılığı, halk egemenliği ve hoşgörü gibi Aydınlanma fikirleri, Amerikan ve Fransız Devrimlerinin programı haline geldi.",
+      "1688'den sonra İngiliz parlamenter yönetimi, dünya çapında anayasal monarşilerin ve parlamenter sistemlerin modeli haline geldi."
+    ],
+    "tags": [
+      "mutlakiyetçilik",
+      "aydınlanma",
+      "versay",
+      "doğa bilimi",
+      "otuz yıl savaşları",
+      "akıl",
+      "güneş kral"
+    ],
+    "keyFacts": [
+      "1618'den 1648'e kadar Otuz Yıl Savaşları Orta Avrupa'yı harap eder; Vestfalya Barışı egemen devletler sistemini kurar.",
+      "1633'te Galileo, Engizisyon önünde güneş merkezli dünya görüşünden vazgeçmek zorunda kalır; 1687'de Newton yer çekimini matematiksel olarak tanımlar.",
+      "1649'da İngiliz Parlamentosu Kral I. Charles'ı idam ettirir; 1689'da Haklar Bildirgesi Parlamento'nun haklarını kalıcı olarak güvence altına alır.",
+      "1683'te Viyana'nın ikinci Osmanlı kuşatması başarısız olur; Avusturya güneydoğu Avrupa'da büyük bir güç haline gelir.",
+      "XIV. Louis, Fransa'yı 72 yıl boyunca yönetir, Versay'ı Avrupa'nın modeli haline getirir ve 1685'te Hugenotları kovar.",
+      "1748'de Montesquieu güçler ayrılığını talep eder, 1762'de Rousseau toplumsal sözleşmeyi tasarlar ve 1784'te Kant aydınlanmayı tanımlar.",
+      "1639'dan itibaren Japonya kendisini dış dünyaya neredeyse tamamen kapatırken, James Cook 1768'den 1779'a kadar Pasifik'i haritalar."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Mutlakiyetçi devlet üç sütuna dayanıyordu: kralın barış zamanında bile sürdürdüğü daimi bir ordu, soyluları yönetimden dışlayan maaşlı bir memur kadrosu ve her ikisi için de parayı sağlayan yönlendirilen bir ekonomi. Fransa'da Richelieu ve Mazarin, bu düzeni soyluların direnişine karşı empoze etti; XIV. Louis, Fronde isyanından sonra nihayet soyluları saraya bağladı. Kralın Tanrı tarafından atandığı kabul ediliyor, Piskopos Bossuet ondan hesap sorulamayacağını öğretiyordu. Pratikte bölgesel meclisler, parlementolar ve ayrıcalıklar varlığını sürdürmeye devam etti; kraliyet gücü hiçbir zaman teorinin iddia ettiği kadar sınırsız olmadı.",
+          "İngiltere farklı bir yol izledi. Kral ile Parlamento arasındaki vergiler ve din konusundaki çatışma, 1642'de I. Charles'ın idamıyla ve Oliver Cromwell yönetimindeki cumhuriyetle sonuçlanan iç savaşa yol açtı. 1660'ta monarşinin geri dönüşünden ve 1688'deki Şanlı Devrim'den sonra, kralın ancak Parlamento ile yönetebileceği açıktı. John Locke bunun gerekçesini sundu: hükümetler yaşamı, özgürlüğü ve mülkiyeti korumak için var olur ve bu görevi ihlal ederlerse devrilebilirler.",
+          "18. yüzyılda Avrupa güç sistemi beş büyük güç tarafından belirlendi: Fransa, Büyük Britanya, Avusturya, Prusya ve Rusya. İspanya Veraset Savaşı, Avusturya Veraset Savaşı ve Yedi Yıl Savaşları gibi savaşlar, güç dengesi, miras iddiaları ve kolonileri konu alıyordu. II. Friedrich, Maria Theresia, II. Joseph ve II. Katharina gibi hükümdarlar kendilerini aydınlanmış olarak adlandırdı ve okulları, adaleti ve yönetimi reforme etti, ama 1772'de birlikte Polonya'yı paylaştı ve sınırsız güçlerine sıkı sıkıya bağlı kaldı."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Toplum zümrelere bölünmüştü: ruhban sınıfı ve soylular vergi muafiyetinden ve onur ayrıcalıklarından yararlanırken, yani köylüler, zanaatkârlar, tüccarlar ve bilginlerden oluşan Üçüncü Zümre yükleri taşıyordu. Otuz Yıl Savaşları, Almanya'yı ıssızlaştırmıştı ve 1618'deki nüfus seviyesine ancak 1700 civarında yeniden ulaşılabildi. Kıtlıklar, bebek ölümleri ve salgınlar gündelik yaşamı belirledi; veba 1665'te Londra'da ve 1720'de Marsilya'da kol gezdi. 1560 ile 1630 arasında zirveye ulaşan cadı avları, Avrupa'da ağırlıklı olarak kadınlardan oluşan on binlerce kurban aldı.",
+          "Aynı zamanda yeni bir kamusal alan ortaya çıktı. Kahvehanelerde, okuma derneklerinde, salonlarda ve mason localarında şehirliler ve soylular siyaset, bilim ve edebiyat üzerine tartışıyordu. İngiliz Spectator gibi gazeteler ve dergiler, giderek büyüyen bir okuyucu kitlesine ulaşıyor, okuma yazma bilenlerin sayısı artıyordu. Markiz du Deffand veya Madame Geoffrin gibi kadınlar, Paris'te Aydınlanma düşünürlerinin buluştuğu salonlar işletiyor; Émilie du Châtelet veya astronom Maria Winkelmann gibi bilginler tüm engellere rağmen araştırma yapıyordu.",
+          "Sarayda tören her adımı belirliyordu. Kralın kalkması ve giyinmesi, Versay'da kamusal bir eylemdi ve hazır bulunanların sırası rütbelerini gösteriyordu. Peruklar, çember etekler, çikolata ve kahve saraydan şehirlere yayıldı. Kırsaldaki çoğunluk için ise çok az şey değişti; Doğu Avrupa'da serflik daha da katılaştı ve Rusya'da toprak sahipleri köylülerini sığır gibi satabiliyordu."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Bilimsel devrim, insanların dünyayla ilişkisini değiştirdi. 1609'da Galileo teleskobu gökyüzüne çevirdi, Kepler gezegen yörüngelerinin yasalarını buldu, William Harvey kan dolaşımını keşfetti ve Newton gökyüzünü ve yeryüzünü tek bir yasa altında birleştirdi. Londra'daki Kraliyet Cemiyeti ve Paris'teki Bilimler Akademisi gibi akademiler, gözlemlerin, deneylerin ve eleştirinin alışverişini düzenledi. Mikroskop, teleskop, hava pompası ve sarkaçlı saat, duyuları genişletti ve ölçümü bilginin temeli haline getirdi.",
+          "Aydınlanma, akla duyulan bu güveni topluma, hukuka ve dine aktardı. Pierre Bayle ve Voltaire hoşgörü talep etti, Montesquieu halkların yasalarını ve anayasalarını inceledi, Rousseau adil bir düzen aradı, Beccaria ise işkencenin ve idam cezasının kaldırılmasını talep etti. Deizm, Tanrı'da dünyayı yaratmış ve artık ona müdahale etmeyen bir saatçi görüyordu; diğerleri dindar kalmaya devam etti, ama batıl inançtan arınmış makul bir din talep etti. Almanya'da Lessing, Mendelssohn ve Kant, Aydınlanmayı dini hoşgörü ve etikle birleştirdi.",
+          "Sanat ve müzik, Barok ve Rokoko ile gelişti. Versay, Würzburg ve Schönbrunn'daki gibi görkemli saraylar, kiliseler ve bahçeler, prenslerin ve kilisenin gücünü sergilemeyi amaçlıyordu. Johann Sebastian Bach, George Frideric Handel ve daha sonra Haydn ile Mozart, Avrupa müziğinin özüne ait eserler yarattı. 1755'teki Lizbon depremi, mümkün olan dünyaların en iyisi inancını sarstı ve Voltaire'in Candide'inde ele aldığı Tanrı, doğa ve kötülük üzerine bir tartışmayı başlattı."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Merkantilizm, mutlakiyetçiliğin ekonomik doktrinuydu. Colbert'in fikirlerine göre, bir devlet altını ve gümüşü ülkede tutmak için ithalatından daha fazla ihracat yapmalıydı. Duvar halıları, aynalar ve porselen gibi lüks mallar için manüfaktürler kuruldu, gümrük tarifeleri yerli üretimi korudu, koloniler hammadde sağladı ve bitmiş ürünleri satın aldı. Prusya ve Avusturya'da bu doktrine kameralizm deniyordu ve öncelikle prensin hazinesini ordu ve yönetim için doldurmaya hizmet ediyordu.",
+          "Hollanda ve İngiltere farklı bir ekonomik faaliyet biçimi geliştirdi. Hollanda ve İngiliz Doğu Hindistan Şirketleri gibi ticaret şirketleri, kendi filoları, kaleleri ve askerleri olan anonim şirketlerdi; Amsterdam borsası ve 1694'te kurulan İngiltere Bankası, sermaye merkezleri haline geldi. Avrupa, Afrika ve Amerika arasındaki mal, köle ve şeker, tütün ve kahve gibi plantasyon ürünlerinden oluşan üçgen ticaret muazzam kârlar getirdi. 1776'da Adam Smith merkantilizmi eleştirdi ve refahın kaynağı olarak serbest ticareti talep etti.",
+          "Tarımda, tarım devrimi İngiltere'de yeni ekin nöbeti sistemleri, yonca yetiştiriciliği, hayvan yetiştiriciliği ve ortak arazilerin çitle çevrilmesiyle başladı. Patates, Prusya'da ve diğer ülkelerde dirençle karşılaşsa da kabul edildi ve kıtlıkları azalttı. 1712'den itibaren Newcomen tasarımı buhar makineleri madenlerden suyu pompalıyor, James Watt'ın 1769'dan itibaren yaptığı geliştirme ve mekanik iplik makineleri ise sanayileşmeyi haber veriyordu. Kanallar, kaplı yollar ve posta arabaları, Avrupa içindeki trafiği hızlandırdı."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "revolutionen",
+    "title": "Devrimler Çağı",
+    "order": 10,
+    "start": 1776,
+    "end": 1848,
+    "color": "#ef4444",
+    "regions": [
+      "amerika",
+      "europa"
+    ],
+    "summary": "Amerikan bağımsızlığından Fransız Devrimi ve Napolyon'a, oradan 1848 Devrimi'ne kadar: insan hakları, ulus ve halk egemenliği eski düzeni devirir.",
+    "overview": [
+      "1776'da Kuzey Amerika'daki on üç İngiliz kolonisi, Aydınlanma'ya atıfta bulunarak bağımsızlığını ilan etti: tüm insanlar eşit yaratılmıştır ve yaşam, özgürlük ve mutluluğu arama hakkına sahiptir. George Washington önderliğinde ve Fransız yardımıyla ana ülkeye karşı savaşı kazandılar. 1787 Anayasası, güçler ayrılığına ve seçilmiş bir başkana sahip ilk modern cumhuriyeti yarattı.",
+      "Fransa, Amerikalıları destekleyerek kendisini mali açıdan fazlasıyla zorlamıştı. Kral XVI. Louis, 1789'da Genel Meclisi topladığında, Üçüncü Zümre kendisini Ulusal Meclis ilan etti ve 14 Temmuz'da Paris halkı Bastille'e hücum etti. İnsan ve Yurttaş Hakları Bildirgesi, soylu ayrıcalıklarının kaldırılması ve bir anayasa bunu takip etti. Monarşiyi korumaya yönelik girişim başarısız oldu; 1792'de cumhuriyet ilan edildi ve 1793'te kral idam edildi.",
+      "Dışarıdan düşmanlar ve içeride ayaklanmalarla tehdit edilen Robespierre yönetimindeki Jakobenler, binlerce kişinin giyotinde kurban gittiği bir terör rejimi kurdu. Saint-Domingue kolonisinde de köleler 1791'de ayaklandı; Toussaint Louverture yönetiminde köleliğin kaldırılmasını sağladılar ve 1804'te Haiti, eski köleler tarafından kurulan ilk devlet olarak ortaya çıktı. Olympe de Gouges kadınlar için eşit haklar talep etti ve bu yüzden idam edildi.",
+      "Devrim savaşlarından, 1799'da bir darbeyle iktidara gelen ve 1804'te kendisini imparator ilan eden general Napolyon Bonaparte yükseldi. Fransa'yı Medeni Kanun ile yeniden düzenledi, Avusturya'yı, Prusya'yı ve Rusya'yı yendi ve neredeyse tüm Avrupa'ya hükmetti. 1812'deki Rusya seferi bir felaketle sonuçlandı; 1813'te Leipzig Uluslar Savaşı ve 1815'te Waterloo, hükümdarlığını sona erdirdi. Viyana Kongresi monarşileri yeniden kurdu ve devrimci fikirleri bastırmaya çalıştı.",
+      "Ancak özgürlük, ulus ve anayasa fikirleri artık geri döndürülemezdi. Latin Amerika'da Simón Bolívar ve José de San Martín, İspanyol kolonilerini bağımsızlığa götürdü, Yunanistan Osmanlı İmparatorluğu'ndan koptu ve 1830'da Paris bir kez daha kralını devirdi. 1848'de bir devrim dalgası neredeyse tüm Avrupa'yı sardı; Frankfurt'ta ilk tüm Alman ulusal meclisi toplandı. Devrim başarısız oldu, ama temel haklara ve ulusal birliğe yönelik talepleri gündemde kaldı."
+    ],
+    "consequences": [
+      "1776 ve 1789'un insan ve yurttaş hakları, dünya çapında anayasaların ve temel hakların ölçütü haline geldi.",
+      "Halk egemenliği fikri, siyasi iktidarın temeli olarak kralların ilahi hakkının yerini aldı ve anayasal devletlere ve demokrasilere geçişi başlattı.",
+      "Medeni Kanun, yasa önünde eşitliği, mülkiyet özgürlüğünü ve devlet ile kilisenin ayrılığını Avrupa'ya yaydı ve sayısız hukuk sistemini şekillendirdi.",
+      "Haiti ve Latin Amerika'daki devrimler, Amerika kıtasında Avrupa sömürge yönetimine büyük ölçüde son verdi ve köleliğe karşı bir örnek oluşturdu.",
+      "Milliyetçilik ve liberalizm, 19. yüzyılın belirleyici siyasi güçleri haline geldi ve İtalya ile Almanya gibi yeni ulus devletlere yol açtı."
+    ],
+    "tags": [
+      "devrim",
+      "insan hakları",
+      "napolyon",
+      "cumhuriyet",
+      "ulus",
+      "anayasa",
+      "bağımsızlık"
+    ],
+    "keyFacts": [
+      "1787'de Amerika Birleşik Devletleri, Philadelphia'da güçler ayrılığına sahip ilk modern yazılı anayasayı kendine verir; 1791'de Haklar Bildirgesi'nin temel hakları bunu takip eder.",
+      "Ekim 1789'da binlerce Parisli kadının Versay'a yürüyüşü, kralı Paris'e taşınmaya zorlar; 1794'te Ulusal Konvansiyon, Fransız kolonilerinde köleliği kaldırır.",
+      "1798'den 1801'e kadar Napolyon'un Mısır seferi askeri olarak başarısız olur, ama modern Mısırbilimin temelini atar; 1804'te Haiti, eski köleler tarafından kurulan ilk devlet olarak bağımsızlığını kazanır.",
+      "1806'da II. Franz, Kutsal Roma İmparatorluğu tacını bırakır; 1807'den itibaren Prusya Reformları devleti, orduyu ve eğitimi modernleştirir.",
+      "1812'de Napolyon ordusunun büyük bölümünü Rusya'da kaybeder; 1815'te hükümdarlığı Waterloo'da kesin olarak sona erer.",
+      "1810'dan 1821'e kadar Meksika, İspanya'dan bağımsızlığını kazanır; 1830'da Paris'teki Temmuz Devrimi Bourbonları devirir.",
+      "1832'de Hambach Festivali'nde yaklaşık 30.000 kişi özgürlük ve Alman birliği talep eder; siyah, kırmızı ve altın renkleri hareketin simgesi haline gelir."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Amerika'daki ve Fransa'daki devrimler, aynı soruya yeni bir cevap verdi: devletin gücü nereden gelir? Tanrı'nın lütfuyla gelen kralın yerini, seçilmiş temsilciler aracılığıyla kendine bir anayasa veren egemenliğin taşıyıcısı olarak halk aldı. 1787 Amerikan Anayasası, Kongre, başkan ve Yüksek Mahkeme ile Montesquieu'nun güçler ayrılığını uygulamaya koydu; on yıl içinde Fransa, Napolyon iktidara gelmeden önce anayasal bir monarşi, radikal bir cumhuriyet, Kamu Güvenliği Komitesi'nin diktatörlüğü ve Direktuvar'ı denedi.",
+          "Napolyon, plebisitler, uysal bir parlamento ve sıkı bir şekilde örgütlenmiş bir yönetimle imparator olarak hüküm sürdü, ama fetihleriyle kanun kodunu, yasa önünde eşitliği ve eski imparatorluk yapılarının çözülmesini Avrupa'nın yarısına ihraç etti. Prusya'da, Bavyera'da ve Avusturya'daki reformlar, kısmen bu meydan okumaya bir yanıttı: hayatta kalmak isteyen devletler, tebaalarını, anavatan için savaşmaya ve vergi ödemeye istekli vatandaşlara dönüştürmek zorundaydı.",
+          "1815'ten sonra Metternich önderliğindeki monarklar saati geri çevirmeye çalıştı. Sansür, polis muhbirleri, 1819 Karlsbad Kararları ve Kutsal İttifak'ın İspanya ve İtalya'daki müdahaleleri, anayasaları ve ulusal hareketleri bastırmayı amaçlıyordu. Ama Büyük Britanya sistemden çekildi, Yunanistan, Belçika ve Latin Amerika devletleri bağımsızlıklarını kazandı; 1830 Temmuz Devrimi, anayasayı çiğneyen kralların devrilebileceğini gösterdi. Vormärz, yani 1815 ile 1848 arasındaki dönem, baskı ile artan özgürlük arzusu arasında bir yarıştı."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Devrim, zümre toplumuna son verdi. Soylu unvanları, öşür, zorunlu çalışma hizmetleri ve lonca kısıtlamaları, Fransa'da 1789 ile 1791 arasında kaldırıldı, kilise mülkleri açık artırmayla satıldı ve köylüler topraklarının sahibi oldu. Yeni efendiler mülk sahibi orta sınıf, avukatlar, tüccarlar ve memurlardı; şehirlerin zanaatkârları ve küçük tüccarları, yani sanculotlar, devrimi sokaklarda ileriye taşımıştı, ama çoğunlukla oy hakkından dışlanmaya devam etti. Prusya'da 1807 Ekim Fermanı, köylülerin kalıtsal boyunduruğunu kaldırdı, ama birçoğu yükümlülüklerini karşılarken topraklarını malikâne sahiplerine kaptırdı.",
+          "Kadınlar, Versay'a yürüyüşten siyasi kulüplere ve Napolyon'un ordusunu erzakçı olarak takip eden kadınlara kadar devrimi taşımaya yardım etti. Fransa'da Olympe de Gouges ve İngiltere'de Mary Wollstonecraft eşit haklar talep etti, ama 1793'te devrim kadınları siyasetten dışladı ve Medeni Kanun onları erkeklerin vesayeti altına koydu. Kölelik, 1794'te Fransız kolonilerinde kaldırıldı, 1802'de Napolyon tarafından yeniden getirildi ve Haiti'de kölelerin kendileri tarafından ortadan kaldırıldı; Amerika Birleşik Devletleri'nde anayasa köleliği pekiştirdi ve 1807'de Britanya başlangıçta yalnızca köle ticaretini yasakladı.",
+          "Savaş, bütün bir neslin gündelik yaşamını şekillendirdi. 1793'te Fransa'da getirilen genel askerlik hizmeti, milyonlarca genç erkeği ordulara gönderdi; asker yerleştirmeleri, el koymalar, salgınlar ve İngiliz deniz ablukası sivil halkı vurdu. Aynı zamanda gazeteler, broşürler, şarkılar ve Hambach Festivali gibi bayramlarla siyasi bir kamusal alan ortaya çıktı; renkler, kokartlar ve Marseillaise gibi marşlar siyaseti bir duygu meselesi haline getirdi."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Devrim, dine derinlemesine müdahale etti. 1789'da Fransa kilise mülklerini kamulaştırdı, rahiplerin anayasaya bağlılık yemini etmesini sağladı ve 1793'te Hıristiyanlığın yerine bir akıl kültü ve yeni bir takvim koymaya çalıştı; 1801 Konkordatosu'nda Napolyon papayla uzlaştı, ama kiliseyi devlet denetimi altında tuttu. Almanya'da 1803 İmparatorluk Kararı, kilise prensliklerini ve manastırları dağıttı; Yahudiler ilk kez 1791'de Fransa'da ve 1812'de Prusya'da vatandaşlık hakları elde etti.",
+          "Sanat politikleşti. Jacques-Louis David, Tenis Kortu Yemini'ni ve öldürülen Marat'yı resmetti, Goya 1808'de Madrid isyancılarının idamını kaydetti ve 1830'da Delacroix Halka Yol Gösteren Özgürlük'ü yarattı. Beethoven, Napolyon kendisini imparator ilan ettiğinde Üçüncü Senfoni'sinin ithafını sildi; Byron ve Hölderlin gibi şairler Yunanistan'ın özgürlüğüne hayranlık duydu. Romantizm halk şarkılarını, masalları ve Orta Çağ geçmişini keşfetti ve böylece ulusal kimliklerin ortaya çıkmasına katkıda bulundu.",
+          "Bilim ve eğitim devletin görevleri haline geldi. Fransa, metrik sistemi, Politeknik Okulu'nu ve merkezi olarak yönetilen bir okul sistemini getirdi; Napolyon'a Mısır'a eşlik eden bilginler, Description de l'Égypte ve Rosetta Taşı ile Mısırbilimin temelini attı. 1810'da Wilhelm von Humboldt, araştırma ve öğretimin birliği ilkesi üzerine Berlin Üniversitesi'ni kurdu; Grimm Kardeşler, dilbilimciler ve tarihçiler, üniversiteleri ulusal fikrin taşıyıcıları haline getirdi."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Devrim, piyasa ekonomisinin hukuki temellerini yarattı: ticaret özgürlüğü, loncaların kaldırılması, mülkiyetin korunması, tek tip ağırlık ve ölçüler ve 1800'de Fransa'da Fransa Bankası. Medeni Kanun ve Prusya Reformları, toprağı serbestçe alıp satmayı ve herhangi bir zanaatı icra etmeyi mümkün kıldı. Yüzlerce küçük Alman devleti arasındaki gümrük engelleri ancak kademeli olarak kalktı; 1834 Alman Gümrük Birliği bu gelişmenin geç bir meyvesiydi.",
+          "Napolyon'un 1806'dan itibaren İngiliz mallarına karşı uyguladığı Kıta Ablukası, Büyük Britanya'yı ekonomik olarak diz çöktürmeyi amaçlıyordu, ama her şeyden önce kaçakçılığı teşvik etti ve şeker ile kahve fiyatlarını yükseltti; aynı zamanda kıtada şeker pancarı yetiştiriciliğini ve tekstil sanayisini canlandırdı. Filosuyla korunan Büyük Britanya, kendi başlayan sanayileşmesinin kârlarıyla Fransa'ya karşı koalisyonları finanse etti ve savaşlardan önde gelen ekonomik güç olarak çıktı.",
+          "Savaşın ve devletin teknolojisi değişti. Kitle orduları standartlaştırılmış tüfeklere, Napolyon'un hükümetinin bir ödüllü yarışmayla ortaya çıkardığı teneke kutulara ve mesajları Paris'ten cephelere saatler içinde taşıyan optik telgrafa ihtiyaç duyuyordu. 1815'ten sonra buhar makinesi ve demiryolu kıtaya ulaştı; ilk Alman demiryolu 1835'te Nürnberg'den Fürth'e işledi ve 1848'de gündeme gelen işçi sorunu, tekstil kasabalarında çoktan hissediliyordu."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "industrialisierung-imperialismus",
+    "title": "Sanayileşme, Ulus Devletler ve Emperyalizm",
+    "order": 11,
+    "start": 1780,
+    "end": 1914,
+    "color": "#475569",
+    "regions": [
+      "europa",
+      "amerika",
+      "asien",
+      "afrika"
+    ],
+    "summary": "Buhar makinesi, fabrika ve demiryolu çalışmayı ve gündelik yaşamı değiştiriyor, yeni ulus devletler ortaya çıkıyor ve Avrupa güçleri dünyayı kolonilere bölüyor.",
+    "overview": [
+      "18. yüzyılın sonlarından itibaren, İngiltere'de Sanayi Devrimi olarak bilinen bir dönüşüm başladı. James Watt'ın geliştirdiği buhar makinesi, iplik makinelerini, dokuma tezgahlarını, pompaları ve kısa süre sonra lokomotifleri çalıştırdı. Çalışma, atölyelerden ve çiftliklerden fabrikalara kaydı; kömür ve demir yeni çağın hammaddeleri haline geldi. Manchester, Birmingham ve daha sonra Ruhr bölgesi gibi şehirler, birkaç on yıl içinde kat kat büyüdü.",
+      "Sanayileşme muazzam bir zenginlik yarattı, ama aynı zamanda yeni toplumsal sorunları da beraberinde getirdi. Aralarında birçok kadın ve çocuğun bulunduğu fabrika işçileri, günde on iki saat ve daha fazla çalışıyor, sıkışık kiralık evlerde yaşıyor ve neredeyse hiçbir hakka sahip değildi. Bu deneyimden sendikalar, kooperatifler ve siyasi partiler ortaya çıktı. 1848'deki Komünist Manifesto'da Karl Marx ve Friedrich Engels, tarihi sınıflar arasındaki bir mücadele olarak yorumladı ve üretim araçlarının özel mülkiyetinin olmadığı bir toplum çağrısında bulundu.",
+      "Aynı zamanda ulus devlet siyasetin yol gösterici modeli haline geldi. Avrupa'da 1861'de İtalya ve 1871'de Alman İmparatorluğu ile yeni büyük devletler ortaya çıktı; Amerika Birleşik Devletleri'nde 1861'den 1865'e kadar süren İç Savaş, Birliğin bütünlüğünü güvence altına aldı ve köleliğe son verdi. 1868 Meiji Restorasyonu'ndan sonra Japonya, Batı teknolojisine ve yönetimine bilinçli olarak açıldı ve tek bir nesil içinde bir sanayi ve askeri güç haline yükseldi.",
+      "Ekonomik ve askeri üstünlükle birlikte sanayileşmiş devletlerin koloniler, hammaddeler ve pazarlar üzerindeki iddiası da büyüdü. Büyük Britanya, Afyon Savaşı'nda Çin'i açılmaya zorladı, Süveyş Kanalı Hindistan'a giden yolu kısalttı ve 1884'ten 1885'e kadar süren Berlin Konferansı'nda Avrupa güçleri Afrika'nın paylaşımı için kurallar belirledi. Sömürgeleştirilenlerin direnişi genellikle acımasızca kırıldı; örneğin Alman Güneybatı Afrikası'ndaki Herero ve Nama soykırımında olduğu gibi.",
+      "1900 civarında teknik ilerleme sınırsız görünüyordu: elektrik, telefon, otomobil, uçak ve Marie Curie'nin fizikteki keşifleri yaşam anlayışını şekillendirdi. Aynı zamanda büyük güçler silahlanıyor, ittifaklar kuruyor ve filolar ile koloniler için rekabet ediyordu. Bu gerilimler 1914'te Birinci Dünya Savaşı'nda patlak verdi."
+    ],
+    "consequences": [
+      "Fabrika, makine ve fosil enerji o zamandan beri ekonomiyi ve gündelik yaşamı şekillendirdi; günümüzün ekonomik büyümesi ve iklim değişikliği kökenlerini buradan alır.",
+      "Toplumsal sorundan işçi hareketi, sosyal mevzuat ile 20. yüzyılı belirleyen sosyalizm ve komünizm siyasi fikirleri doğdu.",
+      "Almanya, İtalya, Amerika Birleşik Devletleri ve Japonya gibi ulus devletler, dünya siyasetinin belirleyici aktörleri haline geldi.",
+      "Afrika ve Asya'nın sömürge paylaşımı, günümüzde hâlâ hissedilen keyfi sınırlar, ekonomik bağımlılıklar ve çatışmalar bıraktı.",
+      "Emperyalist büyük güçler arasındaki rekabet, doğrudan Birinci Dünya Savaşı'na yol açtı."
+    ],
+    "tags": [
+      "buhar makinesi",
+      "demiryolu",
+      "fabrika",
+      "işçi hareketi",
+      "ulus devlet",
+      "sömürgecilik",
+      "emperyalizm"
+    ],
+    "keyFacts": [
+      "1780 civarından itibaren İngiltere'de buhar makinesi, mekanik dokuma tezgahı ve fabrikayla tamamen yeni bir ekonomik faaliyet biçimi ortaya çıkar.",
+      "1833'te İngiliz İmparatorluğu köleliği kaldırır, 1861'de Rusya serfliği kaldırır ve 1865'te Amerika Birleşik Devletleri'nde kölelik sona erer.",
+      "1859'da Charles Darwin'in Türlerin Kökeni adlı eseri birçok insanın dünya görüşünü sarsar.",
+      "1863'te Cenevre'de Kızılhaç kurulur, 1864'te ise ilk Cenevre Sözleşmesi bunu takip eder.",
+      "1883'ten 1889'a kadar Bismarck, dünyanın ilk devlet sosyal sigorta sistemlerini getirir.",
+      "1893'te Yeni Zelanda, kadınların ulusal düzeyde oy hakkı aldığı dünyanın ilk ülkesi olur.",
+      "1900 civarında Avrupa güçleri, Amerika Birleşik Devletleri ve Japonya, neredeyse tüm dünyayı koloni veya nüfuz alanı olarak kontrol eder."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "19. yüzyıl anayasaların ve parlamentoların çağıydı, ama günümüz anlamında bir demokrasi değildi. Büyük Britanya'da 1832, 1867 ve 1884 seçim reformları oy verenler çemberini kademeli olarak genişletirken, Prusya'da vergi ödemelerine dayanan üç sınıflı seçim sistemi 1918'e kadar bir oyun ağırlığını belirledi. Kadınlar neredeyse her yerde dışlanmaya devam etti; yalnızca Yeni Zelanda 1893'te onlara oy hakkı verdi, 1902'de Avustralya ve 1906'da Finlandiya izledi. I. Wilhelm, Franz Joseph ve Çar II. Aleksandr gibi monarklar, giderek köken yerine liyakate göre seçilen bakanlar ve memurlarla hüküm sürdü.",
+          "Ulus devlet, baskın siyasi fikir haline geldi. İtalya, 1859 ile 1870 arasında Cavour ve Garibaldi önderliğinde, Almanya ise 1871'de Prusya liderliğinde birleşti. Habsburgların, Osmanlıların ve Romanovların çok etnikli imparatorluklarında Çekler, Macarlar, Polonyalılar, Sırplar ve diğer halklar kendi haklarını veya kendi devletlerini talep etti. Milliyetçilik, zorunlu eğitim, askerlik hizmeti, anıtlar ve ulusal bayramlarla birleşerek, devlete sadakati diğer tüm bağların üzerine koyan bir kitle hareketi oluşturdu.",
+          "Dışarıda büyük güçler emperyalizmi izledi. Büyük Britanya dünyanın dörtte birine hükmediyordu, Fransa Kuzey Afrika'da ve Hindiçin'de bir imparatorluk inşa etti, Rusya Orta Asya'ya yayıldı ve 1898'de Amerika Birleşik Devletleri, Filipinler'i ve Porto Riko'yu İspanya'dan aldı. Japonya'nın 1905'te Rusya'ya karşı kazandığı zafer, bir Asya gücünün bir Avrupa büyük gücünü yenebileceğini ilk kez gösterdi. 1879 İkili İttifak ve 1904 Samimi Anlaşma gibi ittifaklar, Avrupa'yı 1914'te çarpışan iki kampa böldü."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Avrupa'nın nüfusu 19. yüzyılda ikiye katlandı ve milyonlarca insan kırsaldan şehirlere taşındı. Berlin, 1800'de 170.000 sakinden 1910'da iki milyonun üzerine büyüdü. İşçi sınıfı mahallelerinde aileler bir veya iki odayı kiracılarla ve gece uyuyanlarla paylaşıyor, su avludan geliyor ve atık sular açık lağımlarda akıyordu. 1831'de Hindistan'dan Avrupa'ya ulaşan kolera, kanalizasyon sistemleri, su tesisleri ve Robert Koch ile Louis Pasteur'ün keşifleri salgınları geriletene kadar bu tür mahallelerde on binlerce kişiyi öldürdü.",
+          "Çalışma dünyası yaşamı belirliyordu. 1850 civarında bir fabrika işçisi haftada altı gün on iki ila on dört saat çalışıyor, sekiz veya dokuz yaşındaki çocuklar iplik makinelerinin altına sürünerek girebilecek kadar küçük oldukları için makinelerin başında duruyordu. 1839 Prusya düzenlemesi veya 1833 İngiliz Fabrika Yasası gibi ilk yasalar çocuk işçiliğini kısıtladı, ama neredeyse hiç uygulanmadı. 1845'teki İrlanda kıtlığı gibi kıtlıklardan ve 1844'teki Silezya dokumacıları ayaklanmasından, o dönemin insanları sıkıntının siyasallaşabileceğini öğrendi.",
+          "Yüzyılın sonuna doğru yaşam koşulları belirgin şekilde iyileşti. Ücretler arttı, çalışma saatleri ona indi ve sendikalar ile sosyal sigorta hastalık ve yaşlılıkta koruma sağladı. Büyük mağazalar, spor kulüpleri, bisikletler, sinemalar ve deniz kenarında yaz tatilleri yeni bir boş zaman kültürünün parçasıydı. Milyonlarca Avrupalı, özellikle İrlanda, İtalya, Almanya ve Doğu Avrupa'dan, Amerika'ya göç etti; yalnızca 1880 ile 1914 arasında 20 milyondan fazla kişi kıtayı terk etti."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Doğa bilimleri en büyük gelişimini yaşadı. 1859'daki Darwin'in evrim teorisi, Koch ve Pasteur'ün bakteriyolojisi, Faraday ve Maxwell'in elektrodinamiği, 1895'te X-ışınlarının ve Becquerel ile Curie'lerin radyoaktivitenin keşfi, doğa ve insanlık anlayışını değiştirdi. Üniversiteler ve araştırma laboratuvarları, özellikle Alman olanları, ilerlemenin motorları haline geldi; kimya sanayisi sentetik boyalar, gübreler ve 1899'da aspirin gibi ilaçlar geliştirdi.",
+          "Din ve kiliseler baskı altına girdi, ama güçlü kalmaya devam etti. Almanya'da Bismarck, 1870'lerin Kültür Mücadelesi'nde Katolik Kilisesi'nin etkisiyle savaştı; Fransa'da ise kilise ve devlet 1905'te ayrıldı. Aynı zamanda sömürge güçleriyle birlikte Afrika'ya ve Asya'ya giden misyoner cemiyetleri ve sanayi şehirlerinde yoksulların davasını üstlenen Kurtuluş Ordusu gibi dini reform hareketleri ortaya çıktı. Kızılhaç ve Bertha von Suttner'in barış hareketiyle birlikte yeni, mezhep dışı insani bağlılık biçimleri ortaya çıktı.",
+          "Sanat ve edebiyat dönüşümleri yansıttı. Dickens'ın, Zola'nın ve Fontane'nin gerçekçiliği fabrikalardaki ve kiralık evlerdeki yaşamı betimledi; Monet çevresindeki İzlenimciler tren istasyonlarını, bulvarları ve büyük şehrin ışığını resmetti. Kitle basını, ödünç kitaplıklar ve zorunlu eğitim, okuyucu sayısının patlamasına neden oldu. 1851'de Londra'dan 1900'de Eyfel Kulesi'nin bulunduğu Paris'e kadar dünya fuarları, teknolojiyi ve kolonileri milyonlarca ziyaretçi için bir gösteri olarak sundu."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "İlk sanayileşme kömüre, demire ve tekstile dayanıyordu. James Hargreaves'in 1760'lardaki iplik eğirme makinesi ve Edmund Cartwright'ın 1785'teki mekanik dokuma tezgahı, iplik ve kumaş üretimini kat kat artırdı; kavurma işlemi ve daha sonra 1856'daki Bessemer işlemi çeliği ucuzlattı. Almanya'daki demiryolu ağı, 1835'te altı kilometreden 1910'da 60.000 kilometrenin üzerine büyüdü. Kanallar, buharlı gemiler ve 1869'dan itibaren Süveyş Kanalı, dünyanın pazarlarını birbirine bağladı.",
+          "1870 civarından itibaren elektrik, kimya ve içten yanmalı motorla ikinci Sanayi Devrimi başladı. Werner von Siemens 1866'da dinamoyu, Thomas Edison 1879'da kullanılabilir bir ampulü ve 1882'de ilk elektrik santralini, Carl Benz ise 1886'da otomobili geliştirdi. Krupp, Siemens, Bayer, Standard Oil ve US Steel gibi yeni büyük şirketler on binlerce işçi istihdam etti ve karteller ile tröstler oluşturdu. 1866'dan itibaren telgraf Avrupa ile Amerika'yı kalıcı olarak birbirine bağladı; 1876'da Alexander Graham Bell'in telefonu bunu takip etti.",
+          "Dünya ekonomisi tek bir pazar haline geldi. Kuzey Amerika ve Rusya'dan tahıl, Avustralya'dan yün, Kongo'dan kauçuk ve Hindistan ile Mısır'dan pamuk, karşılığında makine, tekstil ve sermaye ihraç eden sanayileşmiş ülkelere akıyordu. Altın standardı sabit döviz kurlarını güvence altına aldı ve Londra dünyanın mali merkeziydi. Bu birbirine bağlılık refah getirdi, ama aynı zamanda 1873 çöküşü gibi krizleri de beraberinde getirdi ve çoğunlukla kolonilerin ve plantasyon işçilerinin sömürülmesine dayanıyordu."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "erster-weltkrieg-zwischenkriegszeit",
+    "title": "Birinci Dünya Savaşı ve Savaşlar Arası Dönem",
+    "order": 12,
+    "start": 1914,
+    "end": 1939,
+    "color": "#b45309",
+    "regions": [
+      "europa",
+      "welt",
+      "naher-osten",
+      "asien",
+      "amerika"
+    ],
+    "summary": "Birinci Dünya Savaşı, Avrupa'nın eski düzenini yıkar; devrimler, kırılgan barış antlaşmaları ve Büyük Buhran, 1939'a kadar süren çalkantılı yılları şekillendirir.",
+    "overview": [
+      "1914 yazında, Avusturya veliahdının Saraybosna'da suikaste kurban gitmesi, bir dizi ittifak yükümlülüğünü ve seferberliği tetikledi. Birkaç hafta içinde Almanya, Avusturya-Macaristan ve Osmanlı İmparatorluğu'ndan oluşan Merkezi Güçler, Fransa, Rusya ve Büyük Britanya'dan oluşan İtilaf Devletleri'yle karşı karşıya geldi. Kısa süreceği beklenen savaş, batıda, makineli tüfeklerin, topçunun ve zehirli gazın cephe pek fazla hareket etmeden yüz binlerce kişiyi öldürdüğü bir siper savaşına dönüştü.",
+      "Savaş, tarihteki ilk topyekûn savaş haline geldi: tüm ulusal ekonomiler silahlanmaya dönüştürüldü, kadınlar fabrikalarda erkeklerin işini devraldı ve sivil halk abluka ve açlıktan mustarip oldu. 1917'de denge değişti: Rusya devrime sürüklendi ve savaştan çekildi, Amerika Birleşik Devletleri ise İtilaf Devletleri tarafında savaşa girdi. Kasım 1918'de Merkezi Güçler çöktü, İmparator II. Wilhelm tahttan çekildi ve Compiègne Mütarekesi çatışmaları sona erdirdi.",
+      "1919 ve 1920 Paris banliyö antlaşmaları, Avrupa'yı ve Orta Doğu'yu yeniden düzenledi. Habsburgların, Romanovların, Hohenzollernlerin ve Osmanlıların imparatorlukları ortadan kalkmıştı; yerlerine Polonya, Çekoslovakya, Yugoslavya ve Türkiye gibi yeni ulus devletler geldi. Versay Antlaşması, Almanya'ya savaş suçluluğu, toprak devirleri ve yüksek savaş tazminatları dayattı; birçok Alman bunu bir aşağılanma olarak hissetti. Milletler Cemiyeti gelecekteki savaşları önlemek amacıyla kurulmuştu, ama Amerika Birleşik Devletleri olmadan ve kendi güç araçları olmadan zayıf kaldı.",
+      "Rusya'da Lenin yönetimindeki Bolşevikler, iç savaş ve terörün ardından ilk komünist devlet olan Sovyetler Birliği'ni kurdu. İtalya'da Mussolini 1922'de Faşistlerle iktidara geldi; Almanya'da ise Weimar Cumhuriyeti, Hitler'in 1933'te iktidara gelmesine kadar enflasyon, siyasi şiddet ve Büyük Buhran'a takıldı. 1929 krizi, dünya çapında işsizliğin patlamasına neden oldu ve her yerde radikal güçleri güçlendirdi.",
+      "1930'lu yıllar silahlanma ve saldırganlıkla damgalandı. Japonya Mançurya'yı işgal etti, İtalya Etiyopya'ya saldırdı ve 1936'dan 1939'a kadar süren İspanya İç Savaşı'nda Almanya ve İtalya, Franco'nun yanında silahlarını denerken demokrasiler seyirci kaldı. Almanya 1939'un Eylül'ünde Polonya'ya saldırdığında, bir sonraki dünya savaşı artık önlenemez hale geldi."
+    ],
+    "consequences": [
+      "Yaklaşık 17 milyon ölü, harap olmuş topraklar ve travma geçirmiş bir nesil Avrupa'yı şekillendirdi; savaş, 20. yüzyılın ilk büyük felaketi olarak kabul edilir.",
+      "Dört imparatorluk ortadan kalktı ve Avrupa ile Orta Doğu haritası yeniden çizildi; günümüze kadar süren birçok sınır çatışması bundan kaynaklanır.",
+      "Sovyetler Birliği ile ilk komünist devlet ortaya çıktı ve 1991'e kadar dünya siyasetini belirledi.",
+      "Savaşta yenilgi, Versay Antlaşması ve Büyük Buhran, faşizmin ve Nasyonal Sosyalizmin yükselişi için koşulları yarattı.",
+      "Milletler Cemiyeti başarısız oldu, ama 1945'ten sonra Birleşmiş Milletler için model oluşturdu."
+    ],
+    "tags": [
+      "dünya savaşı",
+      "siper savaşı",
+      "devrim",
+      "versay",
+      "milletler cemiyeti",
+      "büyük buhran",
+      "faşizm"
+    ],
+    "keyFacts": [
+      "Eylül 1914'te Marne Muharebesi, Alman ilerleyişini durdurur; yıl sonuna kadar Kuzey Denizi'nden İsviçre sınırına kadar uzanan batı cephesi bir siper savaşına dönüşür.",
+      "1915'te Osmanlı İmparatorluğu'nda Ermeni soykırımı başlar ve 1916'ya kadar tahminen bir milyon kurban alır; aynı yıl Müttefiklerin Gelibolu çıkarması başarısız olur.",
+      "9 Kasım 1918'de Berlin'de cumhuriyet ilan edilir; 12 Kasım'da Almanya'da kadınlar oy hakkı alır ve ilk kez 19 Ocak 1919'da sandığa gider.",
+      "1918 ile 1920 arasında İspanyol gribi, dünya çapında en az 20 ila 50 milyon kişiyi öldürür; bu, savaşın kendisinden daha fazladır.",
+      "11 Ağustos 1919'da Weimar Anayasası yürürlüğe girer; aynı yıl Walter Gropius, Weimar'da Bauhaus'u kurar.",
+      "1923'te Almanya, Ruhr bölgesinin işgalini, hiperenflasyonu ve Hitler'in darbe girişimini yaşar; Rantenmark ve 1925 Locarno Antlaşmaları kısa bir istikrar dönemini başlatır.",
+      "1930'da Gandhi, Hindistan'da İngiliz yönetimine karşı Tuz Yürüyüşü'ne önderlik eder, 1934/35'te Mao'nun Kızıl Ordusu kendini Uzun Yürüyüş'te kurtarır ve 1936'dan 1938'e kadar Stalin, Büyük Temizlik'te yüz binlerce kişiyi öldürtür."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Savaş sırasında güç, tüm devletlerde orduya ve hükümetlere kaydı. Almanya'da 1916'dan itibaren Hindenburg ve Ludendorff yönetimindeki Yüksek Ordu Komutanlığı fiilen yönetimi ele geçirdi, imparatoru güçten yoksun bıraktı, sınırsız denizaltı savaşını dayattı ve 1918 sonbaharında mütareke sorumluluğunu Reichstag partilerine yıktı. Savaşın başında ilan edilen partiler arasındaki siyasi ateşkes, 1917'de savaş hedefleri sorunu üzerinde, Reichstag ilhaklar olmadan bir barış kararı kabul ettiğinde parçalandı. Fransa'da ve Büyük Britanya'da da Clemenceau ve Lloyd George gibi kararlı savaş dönemi başbakanları dümeni ele aldı, basın sansürlendi ve savaş karşıtları takip edildi.",
+          "Nispi temsil, referandumlar ve doğrudan seçilen bir Reich başkanıyla Weimar Cumhuriyeti, döneminin en modern anayasalarından birini yarattı, ama 48. Madde başkanın parlamentonun önünden geçerek olağanüstü kararnamelerle yönetmesine izin veriyordu. Cumhuriyet, sağdan ve soldan saldırıya uğradı: 1920 Kapp Darbesi ancak işçilerin genel grevi sayesinde başarısız oldu; 1921'de Matthias Erzberger'in ve 1922'de Walther Rathenau'nun siyasi cinayetleri, sağcı gizli cemiyetlerin şiddete hazır olduğunu gösterdi. 1930'dan itibaren başkanlık kabineleri olağanüstü kararnamelerle yönetti ve merkez partiler Nasyonal Sosyalistlere ve Komünistlere karşı zemin kaybetti.",
+          "Almanya dışında yeni hareketler siyaseti şekillendirdi. İtalya'da Mussolini, 1922'de Roma Yürüyüşü ile hükümet başkanlığına atanmasını zorla kabul ettirdi ve 1926'ya kadar ilk faşist devleti kurdu. Sovyetler Birliği'nde Stalin, Lenin'in ölümünden sonra, 1929'da ülkeden sürdüğü Troçki'ye karşı üstün geldi ve gizli polis ve kamplarla tek adam yönetimi kurdu. İngiliz İmparatorluğu baskı altına girdi: İrlanda'da 1916 Paskalya Ayaklanması, bir bağımsızlık savaşı üzerinden 1922'de İrlanda Serbest Devleti'ne yol açtı; Hindistan'da ise 1919'daki Amritsar katliamı, Gandhi'nin şiddetsizlik hareketini bir kitle hareketine dönüştürdü."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Savaş, sivil halkın yaşamını derinden değiştirdi. Milyonlarca kadın mühimmat fabrikalarında, tramvay kondüktörü olarak, ofislerde ve askeri hastanelerde çalıştı ve tarımı yürütmeye devam etti; Almanya'da silah sanayisinde çalışan kadın işçi sayısı iki milyonun üzerine çıktı. 1916/17 şalgam kışında İngiliz deniz ablukası, Alman şehirlerinde açlığa yol açtı; bunun etkileriyle yüz binlerce kişi öldü. Cephede ise, tam tersine, 1914 Noel Ateşkesi, Alman ve İngiliz askerlerinin Flandre'da birlikte şarkı söylediği, hediye alışverişinde bulunduğu ve futbol oynadığı zaman, propagandanın nefretinin sıradan askerlere ne kadar yabancı gelebileceğini gösterdi; sonraki yıllarda ordu komutanlıkları bu tür kardeşleşmeleri sıkı bir şekilde yasakladı.",
+          "Savaştan sonra yalnızca Almanya'da yaklaşık 2,7 milyon savaş malulü ile birlikte, bakımı devlet bütçelerine yük olan yüz binlerce dul ve yetim yaşıyordu. Kadınların oy hakkı, savaş zamanındaki katkılarının tanınması olarak birçok ülkede getirildi: 1918'de Almanya'da, Avusturya'da ve kısıtlamalarla Büyük Britanya'da, 1920'de Amerika Birleşik Devletleri'nde ve 1934'te Türkiye'de; Fransa ancak 1944'te izledi. Şehirlerde kısa saçlı, kısa etekli, kendi geliri ve sigarasıyla Yeni Kadın imajı ortaya çıktı; resimli dergiler bunu kutlarken muhafazakârlar bunu öfkeyle karşıladı. Çoğu kadın için gündelik yaşam, ev işleri, düşük ücretli istihdam ve konut kıtlığı tarafından belirlenmeye devam etti.",
+          "Savaşlar arası dönem aynı zamanda bir mülteciler dönemiydi: Yunanlar ve Türkler 1923'te zorunlu olarak mübadele edildi, Ruslar Bolşeviklerden kaçtı, Ermeniler ise zulümden kaçtı. Vatansızlar için Milletler Cemiyeti 1922'de Nansen pasaportunu oluşturdu. Amerika Birleşik Devletleri'nde İçki Yasağı, 1920'den 1933'e kadar alkolü yasakladı ve kaçakçılığın ile örgütlü suçun gelişmesine izin verdi; bu arada yüz binlerce Afrikalı Amerikalı, Büyük Göç sırasında güneyden kuzeyin sanayi şehirlerine taşındı. 1930'dan itibaren Büyük Buhran, Berlin'den Şikago'ya kadar kitlesel işsizlik, aşevleri ve gecekondu mahalleleri getirdi."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Sanat, savaşa kopuş ve provokasyonla yanıt verdi. 1916'da Zürih'teki göçmenler, milyonları ölüme gönderen bir dünyanın aklını ses şiirleri ve kolajlarla alaya alan Dadaizmi kurdu. Otto Dix ve George Grosz gibi Dışavurumcular sakat kalmış askerleri ve savaş vurguncularını tasvir etti, Käthe Kollwitz annelerin acısına biçim verdi ve Erich Maria Remarque'ın Batı Cephesinde Değişen Yok adlı romanı 1929'da dünya çapında bir başarı haline geldi. Bauhaus, sanatı ve zanaatı, günümüze kadar mimariyi ve tasarımı şekillendiren işlevsel bir tasarımda birleştirdi.",
+          "Altın Yirmiler, Berlin, Paris ve New York'u yeni bir kitle kültürünün merkezleri haline getirdi. Amerika Birleşik Devletleri'nden gelen caz, dans salonlarını fethetti; Almanya'da radyo yayınları 1923'te başladı ve 1927'de sinema sessiz filmden sesli filme geçti. Fritz Lang'ın Metropolis'i gibi filmler, varyete gösterileri ve revüler, boks maçları ve altı günlük bisiklet yarışları milyonları çekti. Aynı zamanda muhafazakârlar ve kiliseler, ahlaksız gördükleri büyük şehir kültürüne direndi; Nasyonal Sosyalistler ise modern sanatı yozlaşmış olarak küçümsedi.",
+          "Bilimde dünya görüşü yeniden ölçüldü. 1919'da bir İngiliz güneş tutulması seferi, Einstein'ın genel görelilik teorisini doğruladı ve onu bir gecede dünya çapında ünlü yaptı; birkaç yıl sonra Heisenberg, Schrödinger ve Bohr kuantum mekaniğini kurdu. 1928'de Alexander Fleming penisilini keşfetti ve 1922'de Howard Carter Tutankamon'un mezarını açtı. Dinler baskı altına girdi: Sovyetler Birliği Ortodoks Kilisesi'ni zulümle takip etti, Türkiye hilafeti kaldırdı ve Meksika'da kiliseyle olan çatışma Cristero İsyanı'na yol açtı."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Birinci Dünya Savaşı, fabrikanın sonucu belirlemeye yardımcı olduğu ilk sanayi savaşıydı. 1916 Hindenburg Programı, Alman sanayisini silahlanma ihtiyaçlarına bağımlı hale getirdi ve Yardımcı Hizmet Yasası, 17 ile 60 yaş arasındaki tüm erkekleri çalışmaya zorunlu kıldı. Abluka hammaddeleri kestiği için kağıt giysiden savaş ekmeğine kadar ikame malzemeler ortaya çıktı; Haber-Bosch süreci patlayıcılar ve gübre için azot sağladı. Yeni silahlar savaş alanlarını şekillendirdi: Alman ordusunun Nisan 1915'te İpr'de ilk kez büyük ölçekte kullandığı zehirli gaz, uçaklar, denizaltılar ve İngilizlerin Eylül 1916'da Somme'de ilk kez savaşa soktuğu tank.",
+          "Savaşın maliyeti tüm devletlere ve Almanya'ya ayrıca savaş tazminatı olarak borç yığmıştı. 1923'te enflasyon, Alman orta sınıfının tasarruflarını ve emekli maaşlarını yok etti; ancak Amerikan kredileriyle 1924 Dawes Planı ve 1929 Young Planı, uygulanabilir bir ödeme sistemi yarattı. Bant hattı, zaman etütleri ve IG Farben gibi büyük şirketlerle Amerikan modeli rasyonalizasyon üretimi artırdı; radyo, buzdolabı ve otomobil gibi kitle ürünleri, daha varlıklı olanların gündelik yaşamını değiştirdi. 1927'de Charles Lindbergh'in Atlantik üzerinden tek başına yaptığı uçuş ve Zeppelin fabrikalarının hava gemileri, hava yolculuğu çağını haber verdi.",
+          "1928'deki ilk Beş Yıllık Plan ile Sovyetler Birliği farklı bir yol izledi: birkaç yıl içinde devlet ağır sanayi ve elektrik santralleri kurdu, köylüleri kolektif çiftliklere zorladı ve 1932/33'te Ukrayna'da ve Kazakistan'da milyonlarca ölümle sonuçlanan kıtlıklara neden oldu. Büyük Buhran, Batı'nın kısa süreli yükselişini sona erdirdi: 1931'de Avusturya'da ve Almanya'da da bankalar çöktü, ülkeler kendilerini gümrük tarifeleriyle kapattı ve dünya ticareti dramatik bir şekilde küçüldü. 1933'ten itibaren Amerika Birleşik Devletleri Yeni Anlaşma ile, Hitler yönetimindeki Almanya ise iş yaratma ve silahlanmayla yanıt verdi."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zweiter-weltkrieg",
+    "title": "İkinci Dünya Savaşı ve Holokost",
+    "order": 13,
+    "start": 1933,
+    "end": 1945,
+    "color": "#7f1d1d",
+    "regions": [
+      "europa",
+      "welt",
+      "asien",
+      "afrika",
+      "amerika"
+    ],
+    "summary": "Nasyonal Sosyalist diktatörlük, Almanya'yı tarihin en büyük savaşına sürükler ve Holokost'ta altı milyon Yahudiyi katleder; 1945'te savaş ve terör koşulsuz teslimiyetle sona erer.",
+    "overview": [
+      "30 Ocak 1933'te Reich Başkanı Hindenburg, Adolf Hitler'i şansölye olarak atadı. Birkaç ay içinde Nasyonal Sosyalistler, olağanüstü kararnameler, Yetki Yasası ve terörle demokrasiyi ortadan kaldırdı: partiler ve sendikalar yasaklandı, muhalifler toplama kamplarına kapatıldı, basın ve kültür hizalandı. Devlet, lider ilkesine, ırkçı bir ideolojiye ve doğuda yaşam alanı fethetme hedefine dayanıyordu.",
+      "Yahudi nüfusun zulmü, boykotlarla ve mesleki yasaklarla hemen başladı; 1935'te Nürnberg Yasaları ile devlet doktrini haline geldi ve 1938 Kasım pogromlarında tırmandı. Dış politikada Hitler, Versay Antlaşması'nı adım adım ihlal etti: silahlanma, Ren bölgesinin işgali, Avusturya'nın ilhakı ve Çekoslovakya'nın yıkımı. Batılı güçler bir savaştan kaçınmak için geri adım attı. Stalin'le yapılan paktın ardından, Wehrmacht 1 Eylül 1939'da Polonya'ya saldırdı; Büyük Britanya ve Fransa Almanya'ya savaş ilan etti.",
+      "1941'e kadar Almanya, neredeyse tüm Avrupa'ya hakimdi. Haziran 1941'deki Sovyetler Birliği'ne saldırı, milyonlarca savaş esirinin ve sivilin öldüğü bir yok etme savaşı olarak yürütüldü. Japonya'nın Pearl Harbor'a saldırısıyla Amerika Birleşik Devletleri savaşa girdi; savaş artık Avrupa'da, Kuzey Afrika'da, Atlantik'te ve Pasifik'te sürüyordu. 1942/43 kışındaki Stalingrad ve 1944'teki Normandiya çıkarması dönüm noktasını getirdi.",
+      "Savaşın gölgesinde Nasyonal Sosyalistler Holokost'u gerçekleştirdi: yaklaşık altı milyon Avrupalı Yahudi'nin sistematik, devlet tarafından örgütlenen soykırımı. Doğu cephesinin arkasında görev güçlerinin toplu vurmalarından sonra, 1942 Wannsee Konferansı, Yahudilerin Avrupa'nın her yerinden Auschwitz-Birkenau, Treblinka ve Sobibor gibi imha kamplarına sürülmesini koordine etti; burada gaz odalarında öldürüldüler. Aynı şekilde yüz binlerce Sinti ve Roman, yaklaşık 300.000 engelli ve ruh hastası, siyasi muhalifler, eşcinseller, Yehova Şahitleri ve milyonlarca Sovyet savaş esiri ile Polonyalı sivil de öldürüldü. Beyaz Gül'ünki veya Varşova Gettosu ayaklanması gibi direnişler istisna olarak kaldı ve acımasızca bastırıldı.",
+      "1945 baharında Müttefikler Almanya'ya her yönden ilerledi ve kampları özgürleştirdi. Hitler, 30 Nisan'da Berlin'de kendi canına kıydı; 8 Mayıs'ta Wehrmacht koşulsuz teslim oldu. Pasifik'te, Hiroşima ve Nagazaki'ye atılan atom bombaları, Ağustos 1945'te Japonya'yı teslim olmaya zorladı. Savaş, çoğu sivil olmak üzere yaklaşık 60 ila 70 milyon insana hayatına mal olmuştu."
+    ],
+    "consequences": [
+      "Holokost, soykırım suçunun ölçütü haline geldi; Nürnberg Duruşmaları, insanlığa karşı işlenen suçların cezalandırılabilirliğini ve uluslararası ceza yargısı fikrini kurdu.",
+      "Birleşmiş Milletler ve 1948 İnsan Hakları Evrensel Bildirgesi, savaşa ve soykırıma doğrudan bir yanıt olarak ortaya çıktı.",
+      "Almanya ve Avrupa bölündü, Sovyetler Birliği ve Amerika Birleşik Devletleri süper güçler haline yükseldi ve Soğuk Savaş başladı.",
+      "Milyonlarca insan sürüldü veya kaçtı; Orta ve Doğu Avrupa'daki sınırlar yeniden çizildi ve Avrupalı sömürge güçleri üstünlüklerini kaybetti.",
+      "Nazi suçlarının hafızası, demokrasiyi ve insan onurunu savunma yükümlülüğüyle birlikte günümüze kadar Almanya'nın siyasi kültürünü şekillendirmektedir."
+    ],
+    "tags": [
+      "nasyonal sosyalizm",
+      "diktatörlük",
+      "holokost",
+      "dünya savaşı",
+      "yok etme savaşı",
+      "direniş",
+      "teslimiyet"
+    ],
+    "keyFacts": [
+      "27 Şubat 1933 Reichstag yangınından sonra, olağanüstü bir kararname temel hakları askıya alır; 23 Mart 1933'te Yetki Yasası, Reichstag'ı güçten yoksun bırakır ve 10 Mayıs'ta yasaklı yazarların kitapları Alman meydanlarında yakılır.",
+      "Aralık 1937'de Japon birlikleri Nanjing'de birkaç hafta içinde on binlerce ila yüz binlerce sivili ve savaş esirini öldürür.",
+      "30 Eylül 1938 Münih Anlaşması, Südet bölgesini Hitler'e teslim eder; 23 Ağustos 1939 Hitler-Stalin Paktı, gizli bir ek protokolle Doğu Avrupa'yı böler.",
+      "Mayıs ve Haziran 1940'ta Wehrmacht, Fransa'yı altı haftada yener ve 18 Haziran'da de Gaulle Londra'dan direniş çağrısında bulunur; yaz ve sonbaharda Luftwaffe Britanya Muharebesi'nde başarısız olur.",
+      "1942'de Pasifik'teki Midway ve Kuzey Afrika'daki El Alamein, Stalingrad düşmeden önce bile savaşın kaderini Japonya ve Almanya aleyhine çevirir.",
+      "19 Nisan 1943'te Varşova Gettosu'nun son sakinleri SS'e karşı ayaklanır; 20 Temmuz 1944'te Stauffenberg'in Hitler'e suikast girişimi başarısız olur.",
+      "Şubat 1945'te Churchill, Roosevelt ve Stalin, Yalta'da savaş sonrası düzeni belirler; 20 Kasım 1945'ten 1 Ekim 1946'ya kadar başlıca savaş suçluları Nürnberg'de uluslararası bir mahkeme önüne çıkar."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Nasyonal Sosyalist devlet düzenli bir sistem değil, hepsi Hitler'in gözüne girmeye çalışan rekabet halindeki güç aygıtlarından oluşan bir ağdı: parti, bakanlıklar, Gestapo ve toplama kamplarıyla Heinrich Himmler yönetimindeki SS, Göring'in Dört Yıllık Plan makamı ve Goebbels'in propaganda bakanlığı. Führer genellikle geç ve belirsiz kararlar veriyordu ve tüm kademelerin onun varsayılan iradesine tabi olması radikalleşmeyi ileriye taşıyordu. Yargı, rejimin bir aracı haline geldi: özel mahkemeler ve 1934'ten itibaren Halk Mahkemesi, yalnızca Roland Freisler yönetiminde 2.600'den fazla olmak üzere on binlerce idam cezası verdi. Yüzde 90'ın üzerinde onay oranına sahip plebisitler, kitlesel geçit törenleri ve Führer kültü, demokrasinin yerini sahnelenen bir rızaya bıraktı.",
+          "İşgal edilen ülkelerde Almanya farklı şekillerde yönetti: Polonya'da ve Sovyetler Birliği'nde bir genel vali ve Reich komiserleri terör ve yağmayla yönetirken, Batı Avrupa'da Mareşal Pétain yönetimindeki Vichy rejimi gibi yerli hükümetlerle işbirliği arandı; bu rejim Yahudileri teslim etti ve işçileri Almanya'ya gönderdi. Norveçli Vidkun Quisling gibi işbirlikçiler, ihanete kendi adlarını verdi. Japonya da Doğu Asya'da Büyük Doğu Asya Ortak Refah Alanı olarak reklamı yapılan, ama aslında sömürüye, zorla çalıştırmaya ve katliamlara dayanan bir yönetim kurdu.",
+          "Müttefikler, derin farklılıklara rağmen ittifaklarını bir arada tuttu. 1941 Atlantik Bildirgesi'nde Roosevelt ve Churchill, kendi kaderini tayin ve korku ile yoksulluktan özgürlük gibi savaş hedeflerini formüle etti; 1943'te Kazablanka'da koşulsuz teslimiyeti talep ettiler; 1943'te Tahran'da ve 1945'te Yalta'da Stalin ile ikinci cephe, Polonya'nın sınırları ve Almanya'nın işgal bölgelerine bölünmesi konusunda anlaştılar. Hitler'e direniş birçok yönden geldi: bombası Kasım 1939'da Hitler'i birkaç dakika farkla ıskalayan marangoz Georg Elser'den, komünist hücrelerden, Kızıl Orkestra'dan, Helmuth James von Moltke çevresindeki Kreisau Çevresi'nden, 20 Temmuz subaylarından ve Yugoslavya'daki, Polonya'daki, İtalya'daki ve Sovyetler Birliği'ndeki partizanlardan."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Nasyonal Sosyalistler, sınıf engelleri olmayan bir ulusal topluluk vaat etti ve aynı zamanda yabancı veya aşağı ilan ettikleri herkesi dışladı: Yahudiler, Sinti ve Romanlar, engelliler, eşcinseller, siyasi muhalifler, Yehova Şahitleri ve sözde asosyaller. Hitler Gençliği ve Alman Kızları Birliği neredeyse tüm gençleri, çalışma hizmeti ve Wehrmacht ise genç erkekleri kaydediyordu; Neşe ile Güç gibi kuruluşlar, uyum sağlamanın ödülü olarak seyahat ve eğlence sunuyordu. Kadınlar, Anne Haçı ve evlilik kredileriyle anne rolüne sabitlendi, ama savaş sırasında silah fabrikalarında ve hava savunma ile sinyal yardımcısı olarak kitlesel ölçekte istihdam edildiler.",
+          "Savaş sivil halka tüm gücüyle ulaştı. Alman Luftwaffesinin Varşova'ya, Rotterdam'a ve Coventry'ye saldırılarla başlattığı bombalama savaşı, 1942'den itibaren Alman şehirlerini vurdu: 1943'te Hamburg ve 1945'te Dresden ateş fırtınalarında yok oldu; toplamda Almanya'da yaklaşık yarım milyon kişi hava saldırılarından öldü ve milyonlarca çocuk kırsala gönderildi. Yaklaşık 13 milyon yabancı zorla çalıştırılan işçi ve savaş esiri Alman ekonomisini çalışır durumda tuttu; kamplarda yaşıyor, haklardan yoksun kalıyor ve çoğu zaman açlığa ve kötü muameleye maruz kalıyordu. Savaşın sonunda on iki ila on dört milyon Alman, doğu topraklarından kaçtı veya sürüldü; bu süreçte yüz binlerce kişi öldü.",
+          "Müttefik ülkelerde de savaş gündelik yaşamı değiştirdi. Büyük Britanya'da ve Amerika Birleşik Devletleri'nde kadınlar fabrikalarda erkeklerin yerini aldı, gıda karneye bağlandı ve çocuklar Londra'dan tahliye edildi. 1942'de Amerika Birleşik Devletleri, Japon kökenli yaklaşık 120.000 Amerikalıyı kamplara kapattı; Kongre bu adaletsizlik için ancak 1988'de özür diledi. Sovyetler Birliği'nde tüm fabrikalar Urallar'ın ötesine taşındı ve Leningrad kuşatması bir milyon kişinin açlıktan ölmesine neden oldu. Avrupa'nın işgal altındaki ülkelerinde gündelik yaşam açlık, baskınlar, zorla çalıştırma ve sürekli tutuklanma korkusu anlamına geliyordu; komşular, papazlar ve Fransa'daki Le Chambon-sur-Lignon gibi bütün köyler zulüm görenleri saklıyordu."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Nasyonal Sosyalistler, Reich Kültür Odası aracılığıyla sanatı ve medyayı devlet kontrolü altına aldı; üye olmayan hiç kimse çalışamıyordu. Modern sanat, 1937'deki Yozlaşmış Sanat sergisinde alaya alındı ve binlerce eser müzelerden kaldırılarak satıldı veya yakıldı. Halk radyosu, Hitler'in konuşmalarını her eve taşıdı; Leni Riefenstahl'ın parti kongresi filmleri ve Ufa'nın eğlence filmleri dikkat dağıtıyor ve büyülüyordu; 1936 Berlin Olimpiyat Oyunları dünyaya barışçıl, kozmopolit bir Almanya gösterirken, Afrikalı Amerikalı sprinter Jesse Owens dört altın madalyayla ırk doktrinini çürüttü. Aralarında Thomas Mann, Bertolt Brecht, Albert Einstein ve çoğu Yahudi bilgin ve sanatçının bulunduğu yüz binlerce kişi sürgüne gitti.",
+          "Kiliseler tutarsız davrandı. Alman Hıristiyanları, Protestanlığı Nasyonal Sosyalizmle birleştirmek istedi; buna karşı İtiraf Kilisesi 1934'te Barmen Deklarasyonu ile tavır aldı; Martin Niemöller ve Dietrich Bonhoeffer gibi papazlar bu yüzden toplama kamplarında son buldu. 1933'te Katolik Kilisesi Hitler'le bir konkordato imzaladı, ama Münster piskoposu Clemens August von Galen'in hasta ve engellilerin öldürülmesine karşı vaazları, rejimi 1941'de T4 Operasyonu cinayetlerini gizlemeye ve taşımaya zorladı. Kiliselerin Holokost'a karşı birleşik bir direnişi gerçekleşmedi; Berlin katedral papazı Bernhard Lichtenberg gibi bireyler, Yahudiler için yaptıkları kamusal duanın bedelini hayatlarıyla ödedi.",
+          "Savaş, bilimi eşi görülmemiş bir şekilde hızlandırdı. Otto Hahn ve Lise Meitner 1938'de nükleer fisyonu keşfetmişti; Amerika Birleşik Devletleri'nde Robert Oppenheimer yönetimindeki Manhattan Projesi, bundan 1945'e kadar atom bombasını inşa etti. Radar, İngiliz hesaplama sistemi Colossus ve Konrad Zuse'nin 1941 tarihli Z3'ü, bilgisayar çağının temellerini attı; penisilinin kitlesel üretimi sayısız yaralıyı kurtardı; Alman V2 roketi ise Mittelbau-Dora tünellerinde toplama kampı mahkumları tarafından inşa edildi; burada silahın kendisinden daha fazla insan öldü. Rejimin doktorları, toplama kamplarında insan deneyleri yaptı; bu deneyler savaştan sonra Nürnberg Doktorlar Duruşması'nda yargılandı ve deneklerin rızası üzerine Nürnberg Kodu'na yol açtı."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "Nasyonal Sosyalistler, otoyol inşaatı, iş yaratma ve her şeyden önce gizli kredilerle finanse edilen ve devleti 1939'da iflasın eşiğine getiren devasa bir silahlanmayla işsizliği aştı. Göring yönetimindeki 1936 Dört Yıllık Planı, Almanya'yı dört yıl içinde savaşa hazır hale getirmeyi amaçlıyor ve sentetik benzin ile kauçuk üretimini ileriye taşıyordu. Yahudilerin mülksüzleştirilmesi, örtmece bir dille Aryanlaştırma olarak adlandırılan bu süreç, devlete ve Alman iş adamlarına milyarlarca değerinde varlık getirdi. Savaş sırasında Reich, işgal edilen ülkeleri yağmaladı: Fransa işgal masraflarını ödedi ve Açlık Planı kapsamında Ukrayna, milyonlarca insan açlıktan ölürken tahıl sağlamak zorunda kaldı.",
+          "1942'den itibaren silahlanma bakanı Albert Speer, bombalamalara rağmen 1944'e kadar Alman silah üretimini üç katına çıkardı; bunu, IG Farben, Krupp ve Siemens gibi şirketlerin talep ettiği zorla çalıştırılan işçilere ve toplama kampı mahkumlarına dayandırarak yaptı. Ama Müttefiklerin birleşik ekonomik gücüne karşı Almanya'nın hiç şansı yoktu: savaşa girmeden önce bile Amerika Birleşik Devletleri, 1941 Ödünç Verme ve Kiralama Yasası kapsamında Büyük Britanya'ya ve Sovyetler Birliği'ne silah ve kamyon sağladı, Liberty gemilerini aylar yerine günler içinde inşa etti ve 1945'e kadar neredeyse 300.000 uçak üretti. Urallar'daki Sovyet sanayisi, T-34 tankını tüm Alman tank fabrikalarının toplamından daha fazla sayıda üretti.",
+          "Teknoloji savaşları belirledi. Alman denizaltılarının Büyük Britanya'nın erzakını kesmeye çalıştığı Atlantik Muharebesi, Müttefikler tarafından konvoylar, radar, yön bulucular ve Bletchley Park'ta Enigma radyo trafiğinin şifresinin çözülmesiyle karşılandı. Pasifik'te uçak gemileri, ana silah olarak savaş gemilerinin yerini aldı; Alman Me 262, 1944'te hizmete giren ilk jet avcı uçağıydı ve V2, uzayın kenarına ulaşan ilk roketti. Savaş sonrası dönem için Müttefikler, 1944'te Bretton Woods'ta sabit döviz kurları, dolar rezerv para birimi, Dünya Bankası ve Uluslararası Para Fonu ile yeni bir dünya ekonomik düzeni planladı."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalter-krieg-gegenwart",
+    "title": "Soğuk Savaş, Sömürgesizleşme ve Günümüz",
+    "order": 14,
+    "start": 1945,
+    "end": 2026,
+    "color": "#2563eb",
+    "regions": [
+      "welt",
+      "europa",
+      "asien",
+      "afrika",
+      "amerika",
+      "naher-osten"
+    ],
+    "summary": "İki süper güç dünyayı bloklara ayırır, koloniler bağımsızlığını kazanır, Duvar 1989'da yıkılır ve küreselleşme, terör, mali krizler ve bir pandemi günümüzü şekillendirir.",
+    "overview": [
+      "1945'ten sonra galip güçler Amerika Birleşik Devletleri ve Sovyetler Birliği, kısa süre içinde birbirlerine rakip olarak karşı karşıya geldi. Avrupa, Demir Perde ile bölündü, Almanya iki devlete ayrıldı ve 1961'de Berlin Duvarı bu ayrımı pekiştirdi. Her iki taraf da nükleer silahlarla silahlandı ve Kore, Vietnam ve Afganistan'da vekalet savaşları yürüttü. 1962 Küba Füze Krizi'nde dünya nükleer savaşın eşiğine geldi. Aynı zamanda sistemler arasındaki rekabet, bilimi ve teknolojiyi 1969'daki Ay'a inişe kadar ileriye taşıdı.",
+      "Paralel olarak Avrupa sömürge imparatorlukları dağıldı. Hindistan ve Pakistan 1947'de bağımsız oldu; 1950'lerde ve 1960'larda Afrika ve Asya'nın neredeyse tüm devletleri, kısmen barışçıl bir şekilde, kısmen de Cezayir'de veya Vietnam'da olduğu gibi kanlı savaşlardan sonra bunu izledi. Çin'de Mao Zedong, 1949'da Halk Cumhuriyeti'ni kurdu; Orta Doğu'da ise 1948'de İsrail Devleti ortaya çıktı ve bu, günümüze kadar Filistinliler ve Arap komşularla çatışmaları beraberinde getirmeye devam ediyor. Sözde Üçüncü Dünya'nın yeni devletleri, bloklar arasında kendi yollarını aradı.",
+      "Batı Avrupa'da Marshall Planı ve Avrupa entegrasyonu refaha ve demokrasiye yol açtı; Kömür ve Çelik Topluluğu Avrupa Birliği haline geldi. 1973 petrol krizi, uzun ekonomik mucizeyi sona erdirdi ve Batı'nın diğer bölgelerin hammaddelerine bağımlılığını ortaya çıkardı. Doğu'da planlı ekonomi durgunlaştı; 1968 Prag Baharı gibi reform girişimleri bastırıldı. Ancak Mihail Gorbaçov, 1985'ten itibaren glasnost ve perestroyka ile değişime giden yolu açtı.",
+      "1989'da barışçıl bir devrim, Doğu Avrupa'daki komünist rejimleri süpürüp attı; 9 Kasım'da Berlin Duvarı yıkıldı, 1990'da Almanya yeniden birleşti ve 1991'de Sovyetler Birliği dağıldı. Güney Afrika'da apartheid, 1994'te Nelson Mandela'nın başkan seçilmesiyle sona erdi. Birçok kişi barışçıl bir dünya düzeni umut etti, ama eski Yugoslavya'daki savaşlar, Ruanda'daki soykırım ve 11 Eylül 2001 saldırıları yeni tehlikeleri ortaya çıkardı.",
+      "21. yüzyıl küreselleşme ve dijitalleşmeyle şekilleniyor: internet ve akıllı telefon milyarlarca insanı birbirine bağlıyor, Çin ikinci en büyük ekonomik güç haline geldi ve 2008 küresel mali krizi ile 2020'den itibaren COVID-19 pandemisi, dünyanın ne kadar iç içe geçtiğini gösterdi. Arap Baharı, birçok yerde hayal kırıklığına dönüşen demokrasi umutlarını uyandırdı. İklim değişikliği, göç, 2022'den beri Rusya'nın Ukrayna'ya karşı saldırı savaşı ve Amerika Birleşik Devletleri ile Çin arasındaki rekabet, günümüzün büyük sorunları arasındadır."
+    ],
+    "consequences": [
+      "Soğuk Savaş'ın sona ermesi, Avrupa'nın ve Almanya'nın bölünmüşlüğünü sona erdirdi; Avrupa Birliği doğuya doğru büyüdü ve ortak bir para birimine sahip sınırsız bir alan haline geldi.",
+      "Sömürgesizleşme, bağımsız devletlerin sayısını çoğalttı; Birleşmiş Milletler 51 üyeden 193 üyeye büyüdü.",
+      "Sistemler arası rekabetten doğan nükleer silahlar, uzay uçuşu, bilgisayarlar ve internet, günümüze kadar güvenliği, ekonomiyi ve gündelik yaşamı şekillendiriyor.",
+      "Apartheid'e ve sömürgeciliğe karşı mücadele, dünya çapında insan hakları ve sivil haklar hareketlerini güçlendirdi.",
+      "Mali kriz, pandemi ve iklim değişikliği gibi küresel krizler, günümüzün sorunlarının ancak uluslararası işbirliğiyle çözülebileceğini gösteriyor."
+    ],
+    "tags": [
+      "soğuk savaş",
+      "sömürgesizleşme",
+      "nükleer silahlar",
+      "berlin duvarı",
+      "yeniden birleşme",
+      "küreselleşme",
+      "terörizm",
+      "pandemi"
+    ],
+    "keyFacts": [
+      "1948/49'da Batılı güçler, Sovyetler Birliği tarafından abluka altına alınan Batı Berlin'i hava köprüsüyle besler; 1949'da NATO ve iki Alman devleti ortaya çıkar.",
+      "1950'den 1953'e kadar Kore Savaşı, Soğuk Savaş'ın ilk sıcak savaşı haline gelir; 1955'te Sovyetler Birliği, NATO'ya karşılık olarak Varşova Paktı'nı kurar.",
+      "1960'ta, sözde Afrika Yılı'nda 17 Afrika devleti bağımsız olur; 1961'de Belgrad'da Bağlantısızlar Hareketi kurulur.",
+      "1965'ten 1975'e kadar Amerika Birleşik Devletleri, Vietnam'da komünist Kuzey'e karşı boş yere savaşır; 1968'de Varşova Paktı Prag Baharı'nı bastırır.",
+      "1986'da Çernobil'de bir reaktör patlar; 1989'da Çin liderliği Tiananmen Meydanı'ndaki protestoları bastırtır ve 3 Ekim 1990'da Almanya yeniden birleşir.",
+      "1991'de CERN, World Wide Web'i kamuya açar; 1994'te Ruanda'daki soykırımda 100 gün içinde yaklaşık 800.000 kişi ölür.",
+      "2015'te neredeyse tüm devletler Paris İklim Anlaşması üzerinde anlaşır; 24 Şubat 2022'de Rusya, Ukrayna'ya karşı bir saldırı savaşı başlatır."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Yönetim ve Siyaset",
+        "paragraphs": [
+          "Soğuk Savaş'ın düzeni iki ittifak sistemine dayanıyordu. Amerika Birleşik Devletleri, 1947 Truman Doktrini ile komünist bir ele geçirme tehdidi altındaki her hükümeti desteklemeyi taahhüt etti; bu çevreleme politikası askeri biçimini 1949'da NATO'da buldu. Sovyetler Birliği, 1955'te Varşova Paktı ile yanıt verdi ve Doğu Avrupa devletlerini komünist tek partileri, gizli servisleri ve ekonomik antlaşmalarıyla kendisine bağladı. 1956'da Macaristan veya 1968'de Çekoslovakya gibi bu bloktan kopmaya çalışan her ülke tanklarla geri getirildi; 1968'de Leonid Brejnev, sosyalist devletlerin sınırlı egemenliğini bir doktrin haline getirdi.",
+          "Bloklar arasında Asya'nın ve Afrika'nın yeni devletleri üçüncü bir yol aradı. 1955 Bandung Konferansı'nda ve 1961'den itibaren Bağlantısızlar Hareketi'nde Nehru, Nasır, Sukarno ve Tito gibi politikacılar kendi kaderini tayin, silahsızlanma ve ekonomik adalet talep etti. Aynı zamanda bu ülkelerin çoğu, Washington ve Moskova'nın hükümetleri desteklediği veya devirdiği vekalet savaşlarının sahnesi haline geldi; örneğin Kongo'da, Angola'da, Şili'de veya Afganistan'da. 1970'lerde yumuşama politikası çatışmaları yumuşattı: stratejik silahların sınırlandırılmasına ilişkin antlaşmalar ve 1975 Helsinki Nihai Senedi, Doğu'daki sivil hak savunucularının daha sonra başvurabileceği kurallar yarattı.",
+          "1990'dan sonra liberal demokrasi zafer kazanmış gibi görünüyordu; 2004'te Avrupa Birliği çoğunlukla Doğu Avrupalı on devleti kabul etti ve NATO doğuya doğru genişledi. Ama Çin'in ikinci süper güç haline yükselişi, Vladimir Putin yönetiminde Rusya'nın yeniden canlanması, Suriye'deki ve Afrika'daki iç savaşlar ve Avrupa ile Amerika Birleşik Devletleri'ndeki popülist hareketler tabloyu değiştirdi. Büyük Britanya'nın 2020'de AB'den çekilmesi ve Rusya'nın 2022'de Ukrayna'ya saldırısı, Avrupa'da barış ve işbirliğinin kesin olarak garanti edilemeyeceğini gösterdi."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Toplum ve Gündelik Yaşam",
+        "paragraphs": [
+          "Batı Avrupa'da 1950'lerin ve 1960'ların ekonomik mucizesi tam istihdam getirdi ve milyonlarca eve otomobil, buzdolabı ve televizyon soktu. 1955'ten itibaren Federal Almanya Cumhuriyeti, İtalya'dan, Yunanistan'dan, İspanya'dan ve Türkiye'den misafir işçiler devşirdi; bundan bir göç toplumu gelişti. Doğu Almanya'da ve Doğu Bloku devletlerinde devlet iş, konut ve çocuk bakımı garanti ediyordu, ama Stasi gibi gizli servisler aracılığıyla vatandaşlarının yaşamlarını izliyor, seyahat ve görüş özgürlüğünü kısıtlıyordu. Batı Alman televizyonunda görülebilen Batı'nın tüketim dünyası, sisteme karşı sessiz bir argüman haline geldi.",
+          "1960'lar eski otoriteleri sorguladı. Amerika Birleşik Devletleri'nde Rosa Parks ve Martin Luther King çevresindeki sivil haklar hareketi, yasal ırk ayrımcılığının sona ermesini sağladı; 1968'de Berkeley'de, Paris'te, Berlin'de ve Meksika City'de öğrenciler Vietnam Savaşı'na, katılaşmış üniversitelere ve ebeveynlerinin neslerine karşı protesto düzenledi. Doğum kontrol hapı, kadın hareketi ve yeni boşanma ile eşitlik yasaları aile yaşamını değiştirdi; İsviçre'de kadınlar oy hakkını ancak 1971'de aldı. 1970'lerin ve 1980'lerin, Çernobil'le güçlenen çevre ve barış hareketleri, yeşil partileri parlamentolara taşıdı.",
+          "Dünya nüfusu, 1950'de 2,5 milyardan 2022'de 8 milyarın üzerine çıktı ve ilk kez insanların çoğunluğu şehirlerde yaşadı. Eğitim yaygınlaştı, ama birçok yerde kız çocukları dezavantajlı olmaya devam etti; 2012'de kızların eğitimi için gösterdiği kararlılık nedeniyle Taliban tarafından vurulan Pakistanlı Malala Yusufzay, 2014'te Nobel Barış Ödülü'nün en genç sahibi oldu. Göç, savaşlardan kaçış ve iş bulma arzusu, milyonlarca insanı sınırların ötesine taşıdı ve göçü günümüzün en tartışmalı konularından biri haline getirdi."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kültür, Din ve Bilgi",
+        "paragraphs": [
+          "Pop kültürü Batı'nın ihracat hiti haline geldi: rock'n roll, Hollywood filmleri, kot pantolonlar ve Coca-Cola, Demir Perde'nin ardındaki gençlerin de takip ettiği bir yaşam tarzını yaydı; Doğu Bloku devletleri ise buna sosyalist gerçekçilik ve devlet destekli sanatla karşılık verdi. 1950'lerden itibaren televizyon önde gelen medya haline geldi ve Ay'a inişi, Vietnam Savaşı'nı ve Duvar'ın yıkılışını oturma odalarına taşıdı. Edebiyat ve sinema, dünya savaşını ve Holokost'u, diktatörlüğü ve sürgünü ele aldı; Anne Frank'in günlüğünden Aleksandr Soljenitsin'in Gulag Takımadaları'na ve Gabriel García Márquez ile Latin Amerika romanına kadar.",
+          "Bilim, çoğu zaman sistemler arasındaki rekabet tarafından finanse edilen benzeri görülmemiş bir yükseliş yaşadı. 1953'te Watson, Crick ve Franklin DNA'nın yapısını çözdü; çocuk felcine karşı aşılar ve 1980'de çiçek hastalığının yok edilmesi yaşam süresini uzattı; yüksek verimli tahıl çeşitleriyle Yeşil Devrim, Asya'da kıtlıkları önledi. 1947'nin transistörü ve mikroçip, bilgisayarları küçük ve ucuz hale getirdi; bir ABD askeri ağından internet doğdu ve bu, 1991'den itibaren World Wide Web ile dünyayı birbirine bağladı. 21. yüzyılda akıllı telefonlar, sosyal medya ve yapay zeka, bilgiyi, kamusal alanı ve çalışmayı şekillendiriyor.",
+          "Din, şekillendirici bir güç olmaya devam etti. 1962'den 1965'e kadar süren İkinci Vatikan Konsili, Katolik Kilisesi'ni modern dünyaya açtı; Latin Amerika'da kurtuluş teolojisi yoksulların yanında yer aldı ve Polonyalı papa II. Yuhanna Pavlus, komünizme karşı direnişi güçlendirdi. 1979 İran Devrimi, siyasi İslam'ı bir dünya gücü haline getirdi; el-Kaide'den sözde İslam Devleti'ne kadar İslamcı terör, 2001'den sonra güvenlik politikasını şekillendirdi. Avrupa'da ise buna karşılık kiliseler birçok üye kaybetti ve toplum giderek daha laik ve dini açıdan daha çeşitli hale geldi."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Ekonomi ve Teknoloji",
+        "paragraphs": [
+          "1945'ten sonra Batı'daki dünya ekonomisi Bretton Woods kurallarını izledi: dolara karşı sabit bir döviz kuru, Uluslararası Para Fonu ve Dünya Bankası, ve gümrük tarifelerinin azaltılması. Marshall Planı, yeniden yapılanma ve Ludwig Erhard'ın sosyal piyasa ekonomisi, Batı Avrupa'ya üç on yıllık bir büyüme getirdi; Japonya ise ikinci en büyük sanayi ulusu haline yükseldi. Doğu'da planlı ekonomiler ağır sanayiye ve beş yıllık planlara dayanıyordu; başlangıçta yaşam standardını yükselttiler, ama daha sonra Batı'nın tüketim malları ve bilgisayar teknolojisiyle rekabet edemediler ve 1989 çöküşüne katkıda bulundular.",
+          "1973 ve 1979 petrol krizleri patlamayı sona erdirdi ve enflasyon ile işsizlik arttı. 1979'dan itibaren Büyük Britanya'da Margaret Thatcher ve Amerika Birleşik Devletleri'nde Ronald Reagan, özelleştirme, vergi indirimleri ve deregülasyonla yanıt verdi; sendikaların gücü azaldı, mali piyasaların gücü ise büyüdü. Aynı zamanda 1978'den itibaren Deng Xiaoping, Çin'i piyasa ekonomisine ve yabancı sermayeye açtı; 2001'de Dünya Ticaret Örgütü'ne katılımıyla Çin dünyanın fabrikası haline geldi ve yüz milyonlarca insanı yoksulluktan kurtardı. Konteyner gemileri, ucuz uçak seferleri ve dijital ağlar, ticareti ve üretim zincirlerini küresel hale getirdi.",
+          "Teknoloji, gündelik yaşamı giderek kısalan aralıklarla değiştirdi: 1950'lerde jet uçağı ve nükleer santral, 1970'lerde cep hesap makinesi ve renkli televizyon, 1980'lerde kişisel bilgisayar, 1990'larda cep telefonu ve internet, 2007'de iPhone ve o zamandan beri bulut, platformlar ve yapay zeka. Bu ilerlemenin bedeli görünür hale geldi: sera gazı emisyonları 1960'tan beri üç katına çıktı ve 2015 Paris İklim Anlaşması, devletleri küresel ısınmayı iki derecenin oldukça altında tutmakla yükümlü kılıyor. Rüzgar ve güneş enerjisi, elektrikli araçlar ve piller, 21. yüzyılın ekonomisini kömürden, petrolden ve gazdan kurtarmayı amaçlıyor."
+        ]
+      }
+    ]
+  }
+]
