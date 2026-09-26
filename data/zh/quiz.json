@@ -1,0 +1,2340 @@
+[
+  {
+    "id": "q-absolutismus-aufklaerung-01",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1648年哪项和约结束了三十年战争?",
+    "choices": [
+      "《奥格斯堡和约》",
+      "《乌得勒支和约》",
+      "《威斯特伐利亚和约》",
+      "《胡贝图斯堡和约》"
+    ],
+    "answer": 2,
+    "explanation": "在明斯特和奥斯纳布吕克谈判达成的《威斯特伐利亚和约》于1648年结束了这场战争。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-02",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "哪位国王将凡尔赛宫作为其宫廷所在地,并被称为\"太阳王\"?",
+    "choices": [
+      "路易十四",
+      "路易十六",
+      "亨利四世",
+      "弗朗索瓦一世"
+    ],
+    "answer": 0,
+    "explanation": "路易十四于1682年将宫廷迁至凡尔赛,并作为\"太阳王\"成为绝对主义的化身。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-03",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "艾萨克·牛顿在1687年的《原理》一书中阐述了什么?",
+    "choices": [
+      "原子的结构",
+      "物种的演化",
+      "血液的循环",
+      "运动定律与万有引力定律"
+    ],
+    "answer": 3,
+    "explanation": "牛顿以其运动定律和万有引力定律解释了地球上及太空中物体的运动。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-04",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "彼得大帝于1703年建立了哪座城市作为俄国的新首都?",
+    "choices": [
+      "莫斯科",
+      "圣彼得堡",
+      "基辅",
+      "诺夫哥罗德"
+    ],
+    "answer": 1,
+    "explanation": "涅瓦河畔的圣彼得堡于1712年成为首都,被视为俄国面向欧洲的窗口。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-05",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "在七年战争(1756年至1763年)中,哪两个强国站在同一阵营?",
+    "choices": [
+      "法国与普鲁士",
+      "奥地利与英国",
+      "普鲁士与英国",
+      "俄国与普鲁士"
+    ],
+    "answer": 2,
+    "explanation": "腓特烈二世治下的普鲁士与英国并肩作战,共同对抗奥地利、法国和俄国。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-06",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "伊曼努尔·康德以哪句箴言概括了启蒙运动的纲领?",
+    "choices": [
+      "我思故我在",
+      "要有勇气运用你自己的理智",
+      "朕即国家",
+      "回归自然"
+    ],
+    "answer": 1,
+    "explanation": "1784年,康德将启蒙定义为脱离自我招致的不成熟状态,并选定\"敢于求知\"(Sapere aude)作为其箴言。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-07",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "伽利略·伽利莱为何于1633年遭到宗教裁判所的定罪?",
+    "choices": [
+      "因为他发明了望远镜",
+      "因为他将圣经翻译成了意大利语",
+      "因为他捍卫了日心说",
+      "因为他发现了万有引力"
+    ],
+    "answer": 2,
+    "explanation": "在1632年的《对话》一书中,伽利略支持哥白尼关于地球绕太阳运转的学说,他因此被迫公开撤回自己的观点。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-08",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1649年英国国王查理一世遭遇了什么?",
+    "choices": [
+      "他逃往法国",
+      "他被议会定罪并处决",
+      "他永久解散了议会",
+      "他被加冕为皇帝"
+    ],
+    "answer": 1,
+    "explanation": "内战结束后,一个议会法庭以叛国罪判处国王有罪;他于1649年1月30日被斩首。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-09",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "孟德斯鸠在其1748年的著作《论法的精神》中提出了哪项主张?",
+    "choices": [
+      "三权分立",
+      "废除君主制",
+      "男女平等",
+      "废除私有财产"
+    ],
+    "answer": 0,
+    "explanation": "孟德斯鸠主张将立法权、行政权和司法权分开,使它们相互制约。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-10",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1685年《枫丹白露敕令》带来了什么后果?",
+    "choices": [
+      "皇家学会的成立",
+      "宫廷迁往凡尔赛",
+      "西班牙王位继承战争的开始",
+      "约20万胡格诺派信徒逃离法国"
+    ],
+    "answer": 3,
+    "explanation": "路易十四废除了《南特敕令》并禁止新教礼拜;许多胡格诺派信徒因此逃亡,其中一部分前往勃兰登堡。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-11",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "哪个国家自1639年起几乎完全封闭国门,只允许荷兰人在出岛进行贸易?",
+    "choices": [
+      "中国",
+      "朝鲜",
+      "日本",
+      "暹罗"
+    ],
+    "answer": 2,
+    "explanation": "德川幕府禁止基督教,并将外贸限制在长崎;这一政策被称为\"锁国\"。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-12",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "物理学家埃米莉·迪·夏特莱与哪项成就相关联?",
+    "choices": [
+      "发现了木星的卫星",
+      "将牛顿的《原理》译成法文并加以阐释",
+      "发明了气压计",
+      "出版了《百科全书》"
+    ],
+    "answer": 1,
+    "explanation": "迪·夏特莱将牛顿的主要著作译成法文并附加评注;她的译本至今仍被视为权威版本。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-01",
+    "epochId": "antike-griechenland",
+    "question": "公元前6、5世纪,最早的民主制诞生于哪座城市?",
+    "choices": [
+      "斯巴达",
+      "雅典",
+      "科林斯",
+      "底比斯"
+    ],
+    "answer": 1,
+    "explanation": "在雅典,克里斯提尼的改革于公元前508年奠定了民众统治的基础。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-02",
+    "epochId": "antike-griechenland",
+    "question": "公元前776年,有记载的最早奥运会在何处举行?",
+    "choices": [
+      "在雅典",
+      "在德尔斐",
+      "在奥林匹亚",
+      "在斯巴达"
+    ],
+    "answer": 2,
+    "explanation": "这些比赛为纪念宙斯,每四年在伯罗奔尼撒半岛的奥林匹亚举行一次。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-03",
+    "epochId": "antike-griechenland",
+    "question": "公元前480年,哪场海战决定了第二次波斯战争的胜负?",
+    "choices": [
+      "马拉松",
+      "温泉关",
+      "普拉提亚",
+      "萨拉米斯"
+    ],
+    "answer": 3,
+    "explanation": "地米斯托克利将波斯舰队引入狭窄的萨拉米斯海湾,希腊三列桨战船在此取得了胜利。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-04",
+    "epochId": "antike-griechenland",
+    "question": "公元前404年结束的伯罗奔尼撒战争由谁获胜?",
+    "choices": [
+      "斯巴达",
+      "雅典",
+      "波斯",
+      "马其顿"
+    ],
+    "answer": 0,
+    "explanation": "斯巴达借助波斯的资金建立了舰队,并于公元前404年迫使雅典投降。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-05",
+    "epochId": "antike-griechenland",
+    "question": "哪位哲学家是亚历山大大帝的老师?",
+    "choices": [
+      "苏格拉底",
+      "柏拉图",
+      "亚里士多德",
+      "毕达哥拉斯"
+    ],
+    "answer": 2,
+    "explanation": "亚里士多德在马其顿宫廷教导年轻的亚历山大,后来又在雅典创立了吕克昂学园。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-06",
+    "epochId": "antike-griechenland",
+    "question": "哪个事件被视为希腊化时代的终结?",
+    "choices": [
+      "公元前146年科林斯的毁灭",
+      "公元前30年克利奥帕特拉之死及埃及被吞并",
+      "公元前323年亚历山大之死",
+      "公元前168年皮德纳战役"
+    ],
+    "answer": 1,
+    "explanation": "随着克利奥帕特拉七世的自杀,最后一个希腊化王国埃及归入罗马版图。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-07",
+    "epochId": "antike-griechenland",
+    "question": "公元前594年前后,梭伦在雅典进行了哪项改革?",
+    "choices": [
+      "他引入了陶片放逐法",
+      "他赋予了妇女投票权",
+      "他自立为僭主",
+      "他废除了债务奴役"
+    ],
+    "answer": 3,
+    "explanation": "梭伦免除了债务,禁止因债务而奴役公民;他还依据财产将公民划分为四个等级。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-08",
+    "epochId": "antike-griechenland",
+    "question": "公元前480年,谁率领三百名斯巴达人在温泉关作战?",
+    "choices": [
+      "列奥尼达",
+      "地米斯托克利",
+      "米太亚德",
+      "伯里克利"
+    ],
+    "answer": 0,
+    "explanation": "国王列奥尼达率领他的斯巴达人及盟军坚守隘口,抵抗薛西斯的大军,直至全军覆没。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-09",
+    "epochId": "antike-griechenland",
+    "question": "柏拉图称莱斯博斯岛上的哪位诗人为\"第十位缪斯\"?",
+    "choices": [
+      "阿斯帕西娅",
+      "萨福",
+      "安提戈涅",
+      "皮提亚"
+    ],
+    "answer": 1,
+    "explanation": "萨福在公元前600年前后创作了关于爱情与思念的诗歌;她九卷诗集中如今只留存下一些残篇。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-10",
+    "epochId": "antike-griechenland",
+    "question": "伯里克利时期,公元前447年至前432年间,卫城上修建了哪座神庙?",
+    "choices": [
+      "宙斯神庙",
+      "阿波罗神庙",
+      "帕特农神庙",
+      "伊瑞克提翁神庙"
+    ],
+    "answer": 2,
+    "explanation": "由建筑师伊克提诺斯和卡利克拉特斯建造的帕特农神庙供奉女神雅典娜,内有菲迪亚斯所塑高达12米的雕像。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-11",
+    "epochId": "antike-griechenland",
+    "question": "亚历山大死后,争夺其帝国的将领们被称为什么?",
+    "choices": [
+      "监察官",
+      "将军",
+      "执政官",
+      "继业者"
+    ],
+    "answer": 3,
+    "explanation": "继业者们从公元前322年到前281年相互交战;最终形成了托勒密、塞琉古和安提柯诸王朝。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-12",
+    "epochId": "antike-griechenland",
+    "question": "公元前212年罗马攻占叙拉古时,哪位学者被杀?",
+    "choices": [
+      "欧几里得",
+      "阿基米德",
+      "希波克拉底",
+      "希罗多德"
+    ],
+    "answer": 1,
+    "explanation": "阿基米德曾以战争器械支援其家乡的防御;一名罗马士兵违背马塞卢斯的命令将他杀害。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-01",
+    "epochId": "asien-altertum",
+    "question": "公元前550年前后,谁建立了阿契美尼德波斯帝国?",
+    "choices": [
+      "大流士一世",
+      "薛西斯一世",
+      "居鲁士二世",
+      "冈比西斯二世"
+    ],
+    "answer": 2,
+    "explanation": "居鲁士二世击败米底人,进而征服吕底亚和巴比伦;大流士和薛西斯是后来的大王。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-02",
+    "epochId": "asien-altertum",
+    "question": "悉达多·乔达摩在北印度宣扬了哪种教义?",
+    "choices": [
+      "佛教",
+      "儒家学说",
+      "道教",
+      "琐罗亚斯德教"
+    ],
+    "answer": 0,
+    "explanation": "悉达多·乔达摩作为\"佛陀\",即觉悟者,成为佛教的创立者。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-03",
+    "epochId": "asien-altertum",
+    "question": "公元前221年统一中国后,秦始皇统一了哪些方面?",
+    "choices": [
+      "宗教",
+      "各省的语言",
+      "游牧民族的历法",
+      "文字、货币和度量衡"
+    ],
+    "answer": 3,
+    "explanation": "始皇帝推行统一的文字、货币、度量衡和车轨宽度,以维系帝国的统一。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-04",
+    "epochId": "asien-altertum",
+    "question": "公元105年,中国宫廷官员蔡伦被认为发明了什么?",
+    "choices": [
+      "指南针",
+      "纸",
+      "火药",
+      "印刷术"
+    ],
+    "answer": 1,
+    "explanation": "公元105年,蔡伦记述了一种以树皮、麻和破布造纸的改良工艺。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-05",
+    "epochId": "asien-altertum",
+    "question": "笈多王朝时期,印度出现了哪项数学创新?",
+    "choices": [
+      "含零的位值制",
+      "毕达哥拉斯定理",
+      "罗马数字",
+      "对数表"
+    ],
+    "answer": 0,
+    "explanation": "笈多王朝时期的印度数学家发展出带有数字\"零\"的十进制系统,该系统经由阿拉伯世界传入欧洲。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-06",
+    "epochId": "asien-altertum",
+    "question": "吴哥窟是在哪位国王治下于12世纪建成的?",
+    "choices": [
+      "阿育王",
+      "桓武天皇",
+      "苏利耶跋摩二世",
+      "旃陀罗笈多二世"
+    ],
+    "answer": 2,
+    "explanation": "高棉国王苏利耶跋摩二世下令建造吴哥窟,作为献给毗湿奴的神庙,同时也是他自己的陵墓。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-07",
+    "epochId": "asien-altertum",
+    "question": "道家的经典之作《道德经》被归于哪位圣人名下?",
+    "choices": [
+      "孔子",
+      "老子",
+      "孟子",
+      "庄子"
+    ],
+    "answer": 1,
+    "explanation": "《道德经》被视为传说中老子的著作;庄子是后来的道家思想家,而孔子和孟子则代表儒家。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-08",
+    "epochId": "asien-altertum",
+    "question": "战国时期兵法家孙子的著作叫什么?",
+    "choices": [
+      "《易经》",
+      "《论语》",
+      "《史记》",
+      "《孙子兵法》"
+    ],
+    "answer": 3,
+    "explanation": "孙子的《孙子兵法》共十三篇,主张不战而胜才是最高明的胜利。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-09",
+    "epochId": "asien-altertum",
+    "question": "武则天从690年到705年的统治有何值得注意之处?",
+    "choices": [
+      "她是中国历史上唯一一位以皇帝身份统治的女性",
+      "她建立了唐朝",
+      "她在中国禁止了佛教",
+      "她命人制作了兵马俑"
+    ],
+    "answer": 0,
+    "explanation": "690年,武则天自立新朝,是中国历史上唯一一位亲自称帝的女性。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-10",
+    "epochId": "asien-altertum",
+    "question": "868年的《金刚经》对印刷史为何如此重要?",
+    "choices": [
+      "它是用活字金属印刷的",
+      "它是第一部纸质书籍",
+      "它是现存最早标有确切日期的印刷文本",
+      "它被古腾堡用作范本"
+    ],
+    "answer": 2,
+    "explanation": "这卷以雕版印刷的经卷的题记标明了868年5月11日的日期,因此它是世界上现存最早标有确切日期的印刷书籍。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-11",
+    "epochId": "asien-altertum",
+    "question": "公元224年,阿尔达希尔一世在波斯取代了哪个帝国?",
+    "choices": [
+      "阿契美尼德帝国",
+      "塞琉古帝国",
+      "贵霜帝国",
+      "帕提亚帝国"
+    ],
+    "answer": 3,
+    "explanation": "224年,阿尔达希尔一世击败最后一位帕提亚国王,建立了萨珊王朝,该王朝一直延续到651年。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-12",
+    "epochId": "asien-altertum",
+    "question": "谁在公元前100年前后撰写了《史记》,即中国第一部综合性史学著作?",
+    "choices": [
+      "蔡伦",
+      "司马迁",
+      "张骞",
+      "玄奘"
+    ],
+    "answer": 1,
+    "explanation": "宫廷史官司马迁撰写了共130篇的《史记》;蔡伦改进了造纸术,张骞是一位使者,玄奘则是一位佛教朝圣者。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1914年夏,哪一事件引发了第一次世界大战?",
+    "choices": [
+      "\"卢西塔尼亚\"号的沉没",
+      "沙皇的垮台",
+      "萨拉热窝刺杀事件",
+      "凡尔登战役"
+    ],
+    "answer": 2,
+    "explanation": "1914年6月28日在萨拉热窝发生的对奥地利皇位继承人弗朗茨·斐迪南的谋杀,经过七月危机最终引发了战争。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-02",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "谁在1917年十月革命中带领布尔什维克夺取了政权?",
+    "choices": [
+      "列宁",
+      "斯大林",
+      "托洛茨基",
+      "克伦斯基"
+    ],
+    "answer": 0,
+    "explanation": "列宁于1917年4月从流亡地返回,并于11月在彼得格勒领导了政变。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-03",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "《贡比涅停战协定》于哪一天生效?",
+    "choices": [
+      "1919年6月28日",
+      "1918年11月9日",
+      "1914年8月1日",
+      "1918年11月11日"
+    ],
+    "answer": 3,
+    "explanation": "停战协定于1918年11月11日11时生效,结束了西线的战斗。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-04",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "尽管其总统曾提议成立国际联盟,哪个大国却始终未加入?",
+    "choices": [
+      "法国",
+      "美国",
+      "英国",
+      "日本"
+    ],
+    "answer": 1,
+    "explanation": "尽管伍德罗·威尔逊曾在其\"十四点计划\"中勾勒出国际联盟的构想,美国参议院还是拒绝了加入。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-05",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "以下哪项改革不属于阿塔图尔克对土耳其的改造?",
+    "choices": [
+      "引入拉丁字母",
+      "政教分离",
+      "恢复哈里发制度",
+      "女性选举权"
+    ],
+    "answer": 2,
+    "explanation": "阿塔图尔克于1924年废除了哈里发制度;其余改革则是在20年代和30年代推行的。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-06",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1930年甘地的\"食盐进军\"针对的是什么?",
+    "choices": [
+      "反对印度的分治",
+      "反对征兵制",
+      "反对英国布料的进口",
+      "反对英国的食盐专卖和盐税"
+    ],
+    "answer": 3,
+    "explanation": "甘地徒步385公里前往海边,在那里公开取盐,而这在英国法律下是被禁止的。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-07",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1915年,穆斯塔法·凯末尔凭借哪项成就而声名鹊起?",
+    "choices": [
+      "抵御协约国对加里波利的进攻",
+      "攻占巴格达",
+      "坦能堡战役的胜利",
+      "攻占耶路撒冷"
+    ],
+    "answer": 0,
+    "explanation": "身为上校的穆斯塔法·凯末尔与其部队坚守加里波利半岛的高地;协约国被迫于1916年1月撤退。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-08",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1923年11月,哪种新货币终结了德国的恶性通货膨胀?",
+    "choices": [
+      "帝国马克",
+      "金马克",
+      "地租马克",
+      "德国马克"
+    ],
+    "answer": 2,
+    "explanation": "1923年11月15日引入的地租马克稳定了货币;1924年帝国马克取而代之。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-09",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1919年2月19日,谁是首位在德国议会发表演讲的女性?",
+    "choices": [
+      "罗莎·卢森堡",
+      "玛丽·尤哈奇",
+      "凯特·柯勒惠支",
+      "克拉拉·蔡特金"
+    ],
+    "answer": 1,
+    "explanation": "社会民主党人玛丽·尤哈奇在魏玛国民议会上发表演讲,并于同年创立了工人福利协会。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-10",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "瓦尔特·格罗皮乌斯于1919年在魏玛创立了哪所艺术、手工艺与设计学校?",
+    "choices": [
+      "包豪斯学校",
+      "德意志制造联盟学院",
+      "分离派",
+      "青骑士画派"
+    ],
+    "answer": 0,
+    "explanation": "包豪斯于1925年迁往德绍,1933年被国家社会主义者关闭;它对建筑和设计的影响延续至今。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-11",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "第一次世界大战后,\"刀刺在背\"传说宣称了什么?",
+    "choices": [
+      "协约国破坏了停战协议",
+      "皇帝背叛了军队",
+      "在战场上未被击败的军队被国内的政客和后方从背后出卖",
+      "赔款是法国捏造出来的"
+    ],
+    "answer": 2,
+    "explanation": "兴登堡和鲁登道夫散布这一传说,以掩盖他们自身对战败应负的责任;这一说法也成为共和国反对者的宣传武器。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-01",
+    "epochId": "fruehe-hochkulturen",
+    "question": "苏美尔人发展出的世界上已知最古老的文字系统叫什么?",
+    "choices": [
+      "象形文字",
+      "楔形文字",
+      "字母文字",
+      "如尼文字"
+    ],
+    "answer": 1,
+    "explanation": "约公元前3200年,苏美尔人将楔形符号压印在泥板上;因此得名\"楔形文字\",源自拉丁语中\"楔子\"一词。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-02",
+    "epochId": "fruehe-hochkulturen",
+    "question": "哪条河流是古埃及的生命线?",
+    "choices": [
+      "幼发拉底河",
+      "印度河",
+      "底格里斯河",
+      "尼罗河"
+    ],
+    "answer": 3,
+    "explanation": "尼罗河每年的泛滥带来肥沃的淤泥,使埃及成为富庶的农业国。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-03",
+    "epochId": "fruehe-hochkulturen",
+    "question": "巴比伦国王汉谟拉比最著名的成就是什么?",
+    "choices": [
+      "他所编纂的法律汇编",
+      "建造金字塔",
+      "发明车轮",
+      "征服埃及"
+    ],
+    "answer": 0,
+    "explanation": "约公元前1750年,汉谟拉比命人将约280条法律条文刻于一块石碑之上,即《汉谟拉比法典》。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-04",
+    "epochId": "fruehe-hochkulturen",
+    "question": "哪位法老独尊太阳圆盘神阿吞,并建立了阿肯那顿城?",
+    "choices": [
+      "拉美西斯二世",
+      "胡夫",
+      "阿肯那顿",
+      "图坦卡蒙"
+    ],
+    "answer": 2,
+    "explanation": "阿肯那顿禁止旧有的诸神崇拜,并将首都迁往靠近今日阿马尔纳的阿肯那顿城。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-05",
+    "epochId": "fruehe-hochkulturen",
+    "question": "卡迭石战役后,现存最古老的和平条约是在哪两个强国之间缔结的?",
+    "choices": [
+      "巴比伦与亚述",
+      "埃及与赫梯",
+      "苏美尔与阿卡德",
+      "埃及与努比亚"
+    ],
+    "answer": 1,
+    "explanation": "拉美西斯二世与赫梯国王哈图西里三世在战役结束约15年后达成了和平与互助协议。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-06",
+    "epochId": "fruehe-hochkulturen",
+    "question": "哪些史料提供了中国文字最古老的证据?",
+    "choices": [
+      "彩绘丝绸卷轴",
+      "长城的石碑",
+      "周代的竹简",
+      "商代的甲骨"
+    ],
+    "answer": 3,
+    "explanation": "商代君王将其向祖先请示的问题刻在牛骨和龟甲上;这些刻辞是中国最古老的文字记录。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-07",
+    "epochId": "fruehe-hochkulturen",
+    "question": "谁被视为世界历史上第一位留名的作者?",
+    "choices": [
+      "涅斐尔提蒂",
+      "哈特谢普苏特",
+      "恩海杜安娜",
+      "妇好"
+    ],
+    "answer": 2,
+    "explanation": "恩海杜安娜是阿卡德萨尔贡之女、乌尔城的女大祭司,她在自己的赞美诗中署名为作者。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-08",
+    "epochId": "fruehe-hochkulturen",
+    "question": "哪个民族约在公元前1050年发展出一套由22个字母组成、后被希腊人采用的字母表?",
+    "choices": [
+      "腓尼基人",
+      "赫梯人",
+      "亚述人",
+      "苏美尔人"
+    ],
+    "answer": 0,
+    "explanation": "推罗、西顿和比布鲁斯的腓尼基人将文字简化为22个辅音符号;希腊人则在此基础上加入了元音。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-09",
+    "epochId": "fruehe-hochkulturen",
+    "question": "《吉尔伽美什史诗》讲述的内容之一是什么?",
+    "choices": [
+      "征服埃及",
+      "金字塔的建造",
+      "巴比伦的建立",
+      "一位国王对永生的追寻"
+    ],
+    "answer": 3,
+    "explanation": "好友恩基杜死后,吉尔伽美什寻访大洪水中的英雄乌特那庇什提姆,以求获得永生,但最终未能如愿。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-10",
+    "epochId": "fruehe-hochkulturen",
+    "question": "哪个文明建造了克里特岛上的克诺索斯等宫殿?",
+    "choices": [
+      "迈锡尼人",
+      "米诺斯人",
+      "腓尼基人",
+      "赫梯人"
+    ],
+    "answer": 1,
+    "explanation": "以传说中的米诺斯王命名的米诺斯人,自约公元前2000年起创造了欧洲最早的高度文明。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-11",
+    "epochId": "fruehe-hochkulturen",
+    "question": "商王武丁的配偶妇好有何值得注意之处?",
+    "choices": [
+      "她作为女性率军出征",
+      "她发明了中国文字",
+      "她是中国第一位女皇帝",
+      "她建造了最早的长城"
+    ],
+    "answer": 0,
+    "explanation": "甲骨文记载,妇好曾统率数千士兵作战;她未被盗掘的墓葬于1976年在安阳被发现。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-12",
+    "epochId": "fruehe-hochkulturen",
+    "question": "库施王国位于何处?其国王皮耶约在公元前730年征服了埃及。",
+    "choices": [
+      "在安纳托利亚",
+      "在美索不达米亚",
+      "在努比亚,即今日的苏丹境内",
+      "在红海沿岸的埃塞俄比亚"
+    ],
+    "answer": 2,
+    "explanation": "库施王国先后以纳帕塔和后来的麦罗埃为都城,位于埃及以南、尼罗河沿岸;其诸王构成了埃及第二十五王朝。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-01",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "哪项发明被认为是工业革命最重要的推动力?",
+    "choices": [
+      "蒸汽机",
+      "印刷机",
+      "电话",
+      "电灯泡"
+    ],
+    "answer": 0,
+    "explanation": "经詹姆斯·瓦特改良的蒸汽机为工厂、机车和轮船提供了动力。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-02",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1848年,谁与弗里德里希·恩格斯共同撰写了《共产党宣言》?",
+    "choices": [
+      "斐迪南·拉萨尔",
+      "卡尔·马克思",
+      "奥古斯特·倍倍尔",
+      "弗拉基米尔·列宁"
+    ],
+    "answer": 1,
+    "explanation": "卡尔·马克思与弗里德里希·恩格斯于1848年2月在伦敦发表了《共产党宣言》。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-03",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "德意志帝国是哪一年建立的?",
+    "choices": [
+      "1848年",
+      "1866年",
+      "1871年",
+      "1888年"
+    ],
+    "answer": 2,
+    "explanation": "1871年1月18日,威廉一世在凡尔赛宫镜厅被宣布为德意志皇帝。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-04",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1868年明治维新带来了什么结果?",
+    "choices": [
+      "中国开放了港口",
+      "朝鲜获得独立",
+      "印度成为英国的直属殖民地",
+      "日本按照西方模式实现了现代化"
+    ],
+    "answer": 3,
+    "explanation": "幕府垮台后,日本在明治天皇治下于短短一代人时间内成为工业强国。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-05",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1884/85年的柏林会议将哪个大陆瓜分给了欧洲列强?",
+    "choices": [
+      "南美洲",
+      "亚洲",
+      "非洲",
+      "澳大利亚"
+    ],
+    "answer": 2,
+    "explanation": "这次会议为占领非洲领土制定了规则,并引发了瓜分非洲的浪潮。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-06",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1842年第一次鸦片战争后,哪个国家不得不将香港割让给英国?",
+    "choices": [
+      "日本",
+      "中国",
+      "暹罗",
+      "越南"
+    ],
+    "answer": 1,
+    "explanation": "根据《南京条约》,中国割让香港,并向英国贸易开放五个港口。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-07",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1893年,哪个国家成为世界上第一个在全国范围内引入女性选举权的国家?",
+    "choices": [
+      "英国",
+      "芬兰",
+      "新西兰",
+      "美国"
+    ],
+    "answer": 2,
+    "explanation": "在一份近3.2万人签名的请愿书之后,新西兰总督于1893年9月19日签署了这项选举法案。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-08",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "查尔斯·达尔文于1859年出版了哪本书?",
+    "choices": [
+      "《物种起源》",
+      "《资本论》",
+      "《放下武器!》",
+      "《索尔费里诺回忆录》"
+    ],
+    "answer": 0,
+    "explanation": "达尔文的主要著作以进化和自然选择解释了生物的多样性,出版当天即告售罄。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-09",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1885年至1908年间,刚果自由邦归谁所有?",
+    "choices": [
+      "法兰西共和国",
+      "英国东印度公司",
+      "德意志帝国",
+      "比利时国王利奥波德二世,作为其私人财产"
+    ],
+    "answer": 3,
+    "explanation": "利奥波德二世将刚果作为自己的私人财产加以剥削;直到引发国际丑闻后,比利时才于1908年接管了这一殖民地。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-10",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1883年,德意志帝国引入了哪种保险,作为其第一项社会保险?",
+    "choices": [
+      "失业保险",
+      "医疗保险",
+      "养老保险",
+      "长期护理保险"
+    ],
+    "answer": 1,
+    "explanation": "医疗保险于1883年引入,事故保险于1884年引入,养老与残疾保险于1889年引入;失业保险直到1927年才出现。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-11",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "哪段经历促使亨利·杜南创立了红十字会?",
+    "choices": [
+      "1859年索尔费里诺战役中的伤员",
+      "汉堡的霍乱疫情",
+      "克里米亚战争",
+      "美国内战"
+    ],
+    "answer": 0,
+    "explanation": "1859年,杜南目睹了索尔费里诺战役后伤员的悲惨境况,并在书中呼吁建立志愿救援组织及一项保护性公约。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-12",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1857年印度兵变对印度产生了什么后果?",
+    "choices": [
+      "印度获得了独立",
+      "法国接管了孟加拉",
+      "英国王室从东印度公司手中接管了统治权",
+      "莫卧儿皇帝重新统治了整个印度"
+    ],
+    "answer": 2,
+    "explanation": "起义被镇压后,东印度公司于1858年被解散,印度直接归英国王室统治。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-01",
+    "epochId": "islamische-welt",
+    "question": "哪个事件标志着伊斯兰历的开端?",
+    "choices": [
+      "穆罕默德的诞生",
+      "622年迁往麦地那的\"希吉拉\"",
+      "630年攻占麦加",
+      "762年巴格达的建立"
+    ],
+    "answer": 1,
+    "explanation": "穆罕默德于622年从麦加迁往麦地那,哈里发欧麦尔将此定为伊斯兰历的元年。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-02",
+    "epochId": "islamische-welt",
+    "question": "732年,谁在图尔和普瓦捷击败了一支阿拉伯-柏柏尔联军?",
+    "choices": [
+      "查理曼",
+      "克洛维",
+      "矮子丕平",
+      "查理·马特"
+    ],
+    "answer": 3,
+    "explanation": "732年,法兰克宫相查理·马特阻止了穆斯林军队向北方的推进。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-03",
+    "epochId": "islamische-welt",
+    "question": "哪个王朝于762年建立了巴格达城?",
+    "choices": [
+      "阿拔斯王朝",
+      "倭马亚王朝",
+      "法蒂玛王朝",
+      "奥斯曼帝国"
+    ],
+    "answer": 0,
+    "explanation": "762年,阿拔斯哈里发曼苏尔下令在底格里斯河畔建造圆形城市巴格达,作为其新首都。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-04",
+    "epochId": "islamische-welt",
+    "question": "哪部著作使伊本·西那(阿维森纳)在欧洲一直到17世纪都享有盛名?",
+    "choices": [
+      "《游记》",
+      "《一千零一夜》",
+      "《医典》",
+      "《代数学之书》"
+    ],
+    "answer": 2,
+    "explanation": "伊本·西那的《医典》经拉丁文译本,数百年间一直是欧洲各大学最重要的医学教科书。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-05",
+    "epochId": "islamische-welt",
+    "question": "萨拉丁哪一年从十字军手中收复了耶路撒冷?",
+    "choices": [
+      "1099年",
+      "1187年",
+      "1258年",
+      "1291年"
+    ],
+    "answer": 1,
+    "explanation": "在哈丁之战获胜后,萨拉丁于1187年10月2日攻占耶路撒冷;而第一次十字军东征攻占该城则发生在1099年。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-06",
+    "epochId": "islamische-welt",
+    "question": "谁在1258年摧毁了巴格达,终结了阿拔斯王朝的哈里发国?",
+    "choices": [
+      "十字军",
+      "塞尔柱人",
+      "马穆鲁克",
+      "旭烈兀率领的蒙古人"
+    ],
+    "answer": 3,
+    "explanation": "成吉思汗之孙旭烈兀率领的蒙古大军于1258年攻陷巴格达,并处决了最后一位阿拔斯哈里发。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-07",
+    "epochId": "islamische-welt",
+    "question": "680年的哪一事件至今仍对什叶派具有核心意义?",
+    "choices": [
+      "白德尔之战",
+      "侯赛因在卡尔巴拉的殉难",
+      "开罗的建立",
+      "曼齐刻尔特之战"
+    ],
+    "answer": 1,
+    "explanation": "先知的外孙侯赛因于680年在卡尔巴拉被倭马亚哈里发叶齐德的军队所杀;什叶派每年在阿舒拉节纪念他的殉难。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-08",
+    "epochId": "islamische-welt",
+    "question": "\"代数\"(algebra)一词源自何处?",
+    "choices": [
+      "源自巴格达城的名字",
+      "源自希腊语",
+      "源自数学家花拉子米的名字",
+      "源自花拉子米一部算术著作的书名"
+    ],
+    "answer": 3,
+    "explanation": "花拉子米那部关于通过\"还原与对消\"进行计算的著作,阿拉伯语称为\"al-jabr\",由此产生了\"代数\"一词;而他本人的名字则演变成了\"算法\"(algorithm)一词。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-09",
+    "epochId": "islamische-welt",
+    "question": "哪个王朝于969年建立了开罗城?",
+    "choices": [
+      "法蒂玛王朝",
+      "阿拔斯王朝",
+      "塞尔柱人",
+      "阿尤布王朝"
+    ],
+    "answer": 0,
+    "explanation": "什叶派的法蒂玛王朝于969年征服埃及,并建立了宫殿城市\"卡希拉\",即后来的开罗;爱资哈尔清真寺于970年开始动工。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-10",
+    "epochId": "islamische-welt",
+    "question": "1071年曼齐刻尔特之战带来了什么后果?",
+    "choices": [
+      "蒙古人征服了巴格达",
+      "十字军攻占了耶路撒冷",
+      "突厥部落进入了安纳托利亚",
+      "倭马亚王朝失去了西班牙"
+    ],
+    "answer": 2,
+    "explanation": "塞尔柱人战胜拜占庭后,突厥部落定居于小亚细亚,罗姆苏丹国以及后来的奥斯曼帝国正是在此崛起。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-11",
+    "epochId": "islamische-welt",
+    "question": "859年,谁捐建了非斯的卡拉维因清真寺,世界上最古老的大学之一由此发展而来?",
+    "choices": [
+      "阿伊莎·宾特·艾比·伯克尔",
+      "法蒂玛·菲赫里",
+      "巴士拉的拉比阿",
+      "沙贾尔·杜尔"
+    ],
+    "answer": 1,
+    "explanation": "商人之女法蒂玛·菲赫里用她的遗产资助修建了这座清真寺;卡拉维因大学至今仍然存在。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-12",
+    "epochId": "islamische-welt",
+    "question": "1492年1月2日,格拉纳达发生了什么事?",
+    "choices": [
+      "阿尔罕布拉宫竣工",
+      "哥伦布启程前往美洲",
+      "帖木儿攻占了这座城市",
+      "末代埃米尔将城市移交给天主教双王"
+    ],
+    "answer": 3,
+    "explanation": "随着穆罕默德十二世(即博阿卜迪尔)将格拉纳达移交给伊莎贝拉和费迪南,穆斯林在西班牙近800年的统治宣告终结。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-01",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "柏林墙是哪一年倒塌的?",
+    "choices": [
+      "1989年",
+      "1961年",
+      "1990年",
+      "1991年"
+    ],
+    "answer": 0,
+    "explanation": "1989年11月9日,民主德国开放了边境过境点;两德统一随后于1990年10月3日实现。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-02",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1962年,哪场危机使世界濒临核战争的边缘?",
+    "choices": [
+      "苏伊士运河危机",
+      "古巴导弹危机",
+      "柏林封锁",
+      "石油危机"
+    ],
+    "answer": 1,
+    "explanation": "苏联在古巴部署导弹,导致1962年10月肯尼迪与赫鲁晓夫之间长达十三天的对峙。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-03",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1994年南非首次自由选举中,谁当选总统?",
+    "choices": [
+      "德斯蒙德·图图",
+      "弗雷德里克·德克勒克",
+      "纳尔逊·曼德拉",
+      "塔博·姆贝基"
+    ],
+    "answer": 2,
+    "explanation": "曾入狱27年的纳尔逊·曼德拉,在非国大赢得选举胜利后,成为南非首位黑人总统。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-04",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "圣雄甘地是以何种方式为印度赢得独立的?",
+    "choices": [
+      "武装游击战",
+      "与日本结盟",
+      "与国际联盟谈判",
+      "非暴力抵抗与公民不服从"
+    ],
+    "answer": 3,
+    "explanation": "甘地依靠抵制运动、诸如\"食盐进军\"之类的游行以及对英国统治的非暴力不服从。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-05",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "哪些改革理念与米哈伊尔·戈尔巴乔夫相关联?",
+    "choices": [
+      "公开性与改革",
+      "\"新政\"与\"公平施政\"",
+      "\"大跃进\"与\"文化大革命\"",
+      "马歇尔计划与杜鲁门主义"
+    ],
+    "answer": 0,
+    "explanation": "戈尔巴乔夫自1985年起以\"公开性\"(意为开放透明)和\"改革\"(意为结构重组)为口号,试图对苏联进行改革。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-06",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "2008年全球金融危机是由哪一事件引发的?",
+    "choices": [
+      "中国加入世界贸易组织",
+      "欧元的引入",
+      "雷曼兄弟银行的破产",
+      "英国脱欧"
+    ],
+    "answer": 2,
+    "explanation": "2008年9月15日雷曼兄弟银行的破产震撼了全球金融体系。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-07",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1948年苏联对西柏林实施封锁后,西方国家做出了怎样的应对?",
+    "choices": [
+      "他们从柏林撤出了军队",
+      "他们通过空运向该市供给物资",
+      "他们出动坦克突破了封锁",
+      "他们对苏联实施了海上封锁"
+    ],
+    "answer": 1,
+    "explanation": "近一年间,美国和英国飞机源源不断地向西柏林空运煤炭、食品和药品,直到斯大林于1949年5月解除封锁。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-08",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "为什么1960年被称为\"非洲年\"?",
+    "choices": [
+      "因为南非的种族隔离制度结束了",
+      "因为非洲联盟成立了",
+      "因为苏伊士运河被收归国有",
+      "因为有17个非洲殖民地获得了独立"
+    ],
+    "answer": 3,
+    "explanation": "在短短一年内,17个国家获得独立,其中包括几乎所有的法属殖民地,以及尼日利亚、索马里和刚果。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-09",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1955年的万隆会议催生了哪一运动?",
+    "choices": [
+      "不结盟运动",
+      "华沙条约组织",
+      "石油输出国组织",
+      "欧洲经济共同体"
+    ],
+    "answer": 0,
+    "explanation": "在万隆会议上,29个亚非国家呼吁在两大阵营之外走出一条自己的道路;1961年他们在贝尔格莱德成立了不结盟运动。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-10",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1955年,罗莎·帕克斯做了什么,从而引发了蒙哥马利公交车抵制运动?",
+    "choices": [
+      "她在国会发表了演讲",
+      "她在狱中进行了绝食抗议",
+      "她拒绝将自己的座位让给一名白人乘客",
+      "她对蒙哥马利市提起了诉讼"
+    ],
+    "answer": 2,
+    "explanation": "帕克斯坐在公交车上拒绝让座并因此被捕;此后黑人群体对该市的公交系统进行了长达381天的抵制。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-11",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1978年起邓小平的政策代表着什么?",
+    "choices": [
+      "代表文化大革命",
+      "代表大跃进",
+      "代表与苏联的决裂",
+      "代表面向市场经济的改革与开放"
+    ],
+    "answer": 3,
+    "explanation": "邓小平允许私营企业发展,设立经济特区,并向外资开放中国,但同时坚持党的一党领导。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-12",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "越南战争随着北方攻占西贡而结束,是在哪一年?",
+    "choices": [
+      "1968年",
+      "1975年",
+      "1973年",
+      "1979年"
+    ],
+    "answer": 1,
+    "explanation": "美国于1973年撤军;1975年4月30日,北越军队攻占西贡,在共产主义统治下实现了国家统一。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-01",
+    "epochId": "mittelalter",
+    "question": "公元800年圣诞节,谁在罗马被加冕为皇帝?",
+    "choices": [
+      "克洛维",
+      "奥托大帝",
+      "矮子丕平",
+      "查理曼"
+    ],
+    "answer": 3,
+    "explanation": "教皇利奥三世于800年12月25日在圣彼得大教堂为查理曼加冕称帝。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-02",
+    "epochId": "mittelalter",
+    "question": "哪一事件被视为维京时代的开端?",
+    "choices": [
+      "793年对林迪斯法恩修道院的袭击",
+      "都柏林的建立",
+      "格陵兰的发现",
+      "黑斯廷斯战役"
+    ],
+    "answer": 0,
+    "explanation": "793年对林迪斯法恩修道院的袭击在整个欧洲引起了恐慌,并标志着维京时代的开始。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-03",
+    "epochId": "mittelalter",
+    "question": "1215年的《大宪章》规定了什么?",
+    "choices": [
+      "法兰克帝国的分裂",
+      "由枢机主教选举教皇",
+      "国王受法律约束,未经同意不得征税",
+      "牛津大学的建立"
+    ],
+    "answer": 2,
+    "explanation": "约翰王不得不向男爵们保证,任何人未经审判不得被监禁,任何税收未经议事会同意不得征收。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-04",
+    "epochId": "mittelalter",
+    "question": "1324年前往麦加朝觐的曼萨·穆萨统治的是哪个帝国?",
+    "choices": [
+      "加纳帝国",
+      "马里帝国",
+      "桑海帝国",
+      "阿克苏姆王国"
+    ],
+    "answer": 1,
+    "explanation": "曼萨·穆萨是西非马里帝国的国王,该帝国控制着穿越撒哈拉的黄金贸易。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-05",
+    "epochId": "mittelalter",
+    "question": "在百年战争期间,圣女贞德于1429年解放了哪座城市?",
+    "choices": [
+      "巴黎",
+      "兰斯",
+      "加来",
+      "奥尔良"
+    ],
+    "answer": 3,
+    "explanation": "1429年5月,圣女贞德解除了英军对奥尔良的围困,随后又护送太子前往兰斯举行加冕礼。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-06",
+    "epochId": "mittelalter",
+    "question": "哪位苏丹于1453年攻占了君士坦丁堡?",
+    "choices": [
+      "穆罕默德二世",
+      "奥斯曼一世",
+      "苏莱曼大帝",
+      "巴耶济德一世"
+    ],
+    "answer": 0,
+    "explanation": "被称为\"征服者\"的穆罕默德二世于1453年5月29日攻占君士坦丁堡,并将其定为奥斯曼帝国的首都。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-07",
+    "epochId": "mittelalter",
+    "question": "1077年,哪位国王作为忏悔者在卡诺莎城堡前等候教皇的宽恕?",
+    "choices": [
+      "奥托一世",
+      "亨利四世",
+      "腓特烈·巴巴罗萨",
+      "秃头查理"
+    ],
+    "answer": 1,
+    "explanation": "在叙任权之争期间,亨利四世前往卡诺莎,请求教皇格里高利七世解除他此前在1076年被处以的绝罚。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-08",
+    "epochId": "mittelalter",
+    "question": "843年的《凡尔登条约》规定了什么?",
+    "choices": [
+      "奥托一世的皇帝加冕",
+      "维京人袭击的终结",
+      "法兰克帝国在查理曼的孙辈之间的分割",
+      "汉萨同盟的成立"
+    ],
+    "answer": 2,
+    "explanation": "在凡尔登,秃头查理、日耳曼人路易和洛泰尔一世将法兰克帝国分为西、东和中部三个王国。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-09",
+    "epochId": "mittelalter",
+    "question": "哪位皇帝在532年至537年间在君士坦丁堡建造了圣索菲亚大教堂?",
+    "choices": [
+      "查士丁尼一世",
+      "君士坦丁大帝",
+      "查理曼",
+      "巴西尔二世"
+    ],
+    "answer": 0,
+    "explanation": "查士丁尼一世在尼卡暴动后下令重建圣索菲亚大教堂,并于537年为其举行落成典礼;近千年间它一直是世界上最大的教堂。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-10",
+    "epochId": "mittelalter",
+    "question": "955年,奥托一世在奥格斯堡附近的莱希费尔德击败了谁?",
+    "choices": [
+      "维京人",
+      "萨克森人",
+      "阿拉伯人",
+      "匈牙利人"
+    ],
+    "answer": 3,
+    "explanation": "955年,奥托一世击败了数十年来一直在中欧劫掠的匈牙利骑兵,并于962年加冕称帝。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-11",
+    "epochId": "mittelalter",
+    "question": "约自1438年起,哪位统治者将库斯科这一城邦转变为印加帝国?",
+    "choices": [
+      "蒙特祖马",
+      "帕查库特克",
+      "阿塔瓦尔帕",
+      "曼萨·穆萨"
+    ],
+    "answer": 1,
+    "explanation": "帕查库特克击败了昌卡人,将库斯科扩建为首都,并建立了塔万廷苏尤帝国;阿塔瓦尔帕则是西班牙征服前最后一位印加统治者。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-12",
+    "epochId": "mittelalter",
+    "question": "13至15世纪,南部非洲的石头城市大津巴布韦主要依靠什么维持生计?",
+    "choices": [
+      "依靠穿越撒哈拉的食盐贸易",
+      "依靠与拜占庭的丝绸贸易",
+      "依靠与斯瓦希里海岸之间的黄金和象牙贸易",
+      "依靠与诺夫哥罗德的毛皮贸易"
+    ],
+    "answer": 2,
+    "explanation": "大津巴布韦的统治者掌控着金矿和牛群,并通过基尔瓦和索法拉等港口与远至印度和中国的地区进行贸易。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-01",
+    "epochId": "renaissance-entdeckungen",
+    "question": "约1450年,约翰内斯·古腾堡被认为发明了什么?",
+    "choices": [
+      "望远镜",
+      "活字印刷术",
+      "指南针",
+      "机械钟"
+    ],
+    "answer": 1,
+    "explanation": "在美因茨,古腾堡发展出以单独铸造的活字和印刷机进行印刷的技术。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-02",
+    "epochId": "renaissance-entdeckungen",
+    "question": "克里斯托弗·哥伦布是哪一年抵达美洲的?",
+    "choices": [
+      "1453年",
+      "1498年",
+      "1517年",
+      "1492年"
+    ],
+    "answer": 3,
+    "explanation": "哥伦布于1492年10月12日登陆巴哈马群岛中的一座岛屿。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-03",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1517年路德的《九十五条论纲》首先针对的是什么?",
+    "choices": [
+      "针对赎罪券的买卖",
+      "针对农奴制",
+      "针对印刷术",
+      "针对圣经的翻译"
+    ],
+    "answer": 0,
+    "explanation": "路德批判了通过购买赎罪券来赎买罪罚的做法。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-04",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1521年随着特诺奇提特兰的陷落,西班牙人征服了哪个帝国?",
+    "choices": [
+      "印加帝国",
+      "玛雅王国",
+      "阿兹特克帝国",
+      "莫卧儿帝国"
+    ],
+    "answer": 2,
+    "explanation": "特诺奇提特兰是阿兹特克人的首都;埃尔南·科尔特斯经过数月围攻将其攻陷。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-05",
+    "epochId": "renaissance-entdeckungen",
+    "question": "尼古拉·哥白尼在其1543年的著作中提出了什么创新观点?",
+    "choices": [
+      "地球是一个圆盘",
+      "地球绕太阳运转",
+      "行星以椭圆轨道运行",
+      "宇宙是无限的"
+    ],
+    "answer": 1,
+    "explanation": "哥白尼将太阳置于中心;椭圆轨道则直到开普勒才被发现。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-06",
+    "epochId": "renaissance-entdeckungen",
+    "question": "特伦托公会议(1545年至1563年)的目的是什么?",
+    "choices": [
+      "选举一位新教皇",
+      "与东正教会和解",
+      "谴责哥白尼",
+      "为回应宗教改革而澄清天主教教义"
+    ],
+    "answer": 3,
+    "explanation": "公会议重新确认了天主教教义,以对抗新教徒,并决议在教会内部进行改革。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-07",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1494年《托尔德西利亚斯条约》规定了什么?",
+    "choices": [
+      "英格兰与西班牙之间的和平",
+      "对宗教改革的承认",
+      "法国与帝国之间的边界",
+      "西班牙与葡萄牙之间对世界的划分"
+    ],
+    "answer": 3,
+    "explanation": "沿着大西洋上的一条分界线,以西的新发现土地归属西班牙,以东则归属葡萄牙;这就是巴西归属葡萄牙的原因。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-08",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1555年《奥格斯堡和约》确立了什么原则?",
+    "choices": [
+      "由领地的统治者决定其领地的宗教信仰",
+      "每个臣民可自由选择自己的宗教",
+      "帝国境内只允许信奉天主教",
+      "由皇帝决定所有诸侯的信仰"
+    ],
+    "answer": 0,
+    "explanation": "每个帝国邦国都可以为其领地在天主教和路德宗信仰之间做出选择;信奉其他宗教者则被允许移居他处。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-09",
+    "epochId": "renaissance-entdeckungen",
+    "question": "在阿斯基亚·穆罕默德治下的桑海帝国,哪座城市是学术中心?",
+    "choices": [
+      "开罗",
+      "桑给巴尔",
+      "廷巴克图",
+      "大津巴布韦"
+    ],
+    "answer": 2,
+    "explanation": "尼日尔河畔的廷巴克图,连同其桑科雷清真寺,是伊斯兰学术和跨撒哈拉贸易的中心。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-10",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1540年,谁创立了耶稣会?",
+    "choices": [
+      "约翰·加尔文",
+      "依纳爵·罗耀拉",
+      "伊拉斯谟",
+      "托马斯·莫尔"
+    ],
+    "answer": 1,
+    "explanation": "曾为军人的依纳爵·罗耀拉创立了耶稣会,该会于1540年获得教皇的批准。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-11",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1521年沃尔姆斯帝国议会上发生了什么?",
+    "choices": [
+      "路德拒绝撤回他的学说",
+      "查理五世被选为皇帝",
+      "《奥格斯堡和约》被缔结",
+      "路德被处决"
+    ],
+    "answer": 0,
+    "explanation": "在皇帝查理五世面前,路德声明只有以圣经证明他有错,他才会撤回自己的观点;他随即被宣布为不受法律保护之人。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-12",
+    "epochId": "renaissance-entdeckungen",
+    "question": "哪位统治者自1556年起统治印度的莫卧儿帝国,并以其宗教宽容著称?",
+    "choices": [
+      "苏莱曼大帝",
+      "织田信长",
+      "阿克巴",
+      "巴布尔"
+    ],
+    "answer": 2,
+    "explanation": "阿克巴废除了对非穆斯林征收的特别税,并让各宗教的代表在他的宫廷中进行辩论。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-01",
+    "epochId": "revolutionen",
+    "question": "哪一事件被视为法国大革命的开端?",
+    "choices": [
+      "路易十六的处决",
+      "攻占巴士底狱",
+      "拿破仑的加冕称帝",
+      "莱比锡民族大会战"
+    ],
+    "answer": 1,
+    "explanation": "1789年7月14日攻占巴士底狱被视为大革命的开端;7月14日至今仍是法国的国庆日。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-02",
+    "epochId": "revolutionen",
+    "question": "1776年,哪些殖民地宣布脱离英国独立?",
+    "choices": [
+      "南美洲的西班牙殖民地",
+      "法属圣多明各殖民地",
+      "葡属巴西殖民地",
+      "北美洲的十三个英属殖民地"
+    ],
+    "answer": 3,
+    "explanation": "北美东海岸的十三个殖民地建立了美利坚合众国。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-03",
+    "epochId": "revolutionen",
+    "question": "谁领导了海地革命中的起义者?",
+    "choices": [
+      "杜桑·卢维杜尔",
+      "西蒙·玻利瓦尔",
+      "马克西米连·罗伯斯庇尔",
+      "何塞·德·圣马丁"
+    ],
+    "answer": 0,
+    "explanation": "曾为奴隶的杜桑·卢维杜尔成为圣多明各起义中最重要的领导人。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-04",
+    "epochId": "revolutionen",
+    "question": "1804年的《民法典》是什么?",
+    "choices": [
+      "帝国的一部宪法",
+      "与奥地利的和平条约",
+      "法国统一的民法法典",
+      "引入征兵制的法律"
+    ],
+    "answer": 2,
+    "explanation": "《民法典》统一了民法,确立了法律面前平等、财产权和契约自由。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-05",
+    "epochId": "revolutionen",
+    "question": "哪位政治家对1814年至1815年的维也纳会议影响最为深远?",
+    "choices": [
+      "塔列朗",
+      "梅特涅",
+      "俾斯麦",
+      "哈登贝格"
+    ],
+    "answer": 1,
+    "explanation": "奥地利外交大臣梅特涅主持了会议,是复辟政策的代表人物。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-06",
+    "epochId": "revolutionen",
+    "question": "法兰克福国民议会为何于1849年失败?",
+    "choices": [
+      "议会未能就任何基本权利达成一致",
+      "拿破仑三世进军法兰克福",
+      "奥地利加入了新帝国",
+      "普鲁士国王拒绝了皇帝冠冕"
+    ],
+    "answer": 3,
+    "explanation": "1849年,腓特烈·威廉四世拒绝接受议会授予的皇帝冠冕;国民议会随后瓦解。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-07",
+    "epochId": "revolutionen",
+    "question": "1787年美国宪法是在哪座城市通过的?",
+    "choices": [
+      "费城",
+      "华盛顿",
+      "纽约",
+      "波士顿"
+    ],
+    "answer": 0,
+    "explanation": "从1787年5月到9月,55名代表在乔治·华盛顿的主持下于费城审议宪法;首都华盛顿则是后来才建成的。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-08",
+    "epochId": "revolutionen",
+    "question": "1789年10月,巴黎的妇女通过向凡尔赛进军实现了什么?",
+    "choices": [
+      "女性选举权",
+      "废除君主制",
+      "国王迁往巴黎",
+      "释放政治犯"
+    ],
+    "answer": 2,
+    "explanation": "妇女们迫使路易十六签署了《人权宣言》,并携全家从凡尔赛迁往巴黎,置身于民众的注视之下。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-09",
+    "epochId": "revolutionen",
+    "question": "拿破仑埃及远征中的哪项发现使象形文字的破译成为可能?",
+    "choices": [
+      "亚历山大图书馆的卷轴",
+      "罗塞塔石碑",
+      "图坦卡蒙的墓穴",
+      "阿马尔纳泥板"
+    ],
+    "answer": 1,
+    "explanation": "1799年发现的罗塞塔石碑,以象形文字、世俗体文字和希腊文刻有相同的文本;商博良借此于1822年实现了破译。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-10",
+    "epochId": "revolutionen",
+    "question": "1806年8月6日发生了什么?",
+    "choices": [
+      "拿破仑为自己加冕称帝",
+      "普鲁士在耶拿战役中失利",
+      "莱茵邦联成立",
+      "弗朗茨二世放弃了神圣罗马帝国的皇冠"
+    ],
+    "answer": 3,
+    "explanation": "在莱茵邦联成立及拿破仑发出最后通牒之后,弗朗茨二世宣布这个存续了800多年的帝国解体。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-11",
+    "epochId": "revolutionen",
+    "question": "1815年6月18日晚,谁的到来决定了滑铁卢战役的胜负?",
+    "choices": [
+      "沙皇亚历山大统率的俄国近卫军",
+      "施瓦岑贝格统率的奥地利军队",
+      "布吕歇尔统率的普鲁士军队",
+      "西班牙游击队"
+    ],
+    "answer": 2,
+    "explanation": "威灵顿的军队坚守了一整天,直到布吕歇尔率领的普鲁士军队赶到,击溃了拿破仑的部队。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-12",
+    "epochId": "revolutionen",
+    "question": "玛丽·沃斯通克拉夫特于1792年出版了哪部著作?",
+    "choices": [
+      "《为女权辩护》",
+      "《女权和女公民权宣言》",
+      "《社会契约论》",
+      "《弗兰肯斯坦》"
+    ],
+    "answer": 0,
+    "explanation": "沃斯通克拉夫特在《为女权辩护》中要求给予女性平等的教育和公民权利;《女权和女公民权宣言》则是奥兰普·德古热的著作。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-01",
+    "epochId": "rom",
+    "question": "根据传说,罗马是哪一年建立的?",
+    "choices": [
+      "公元前1000年",
+      "公元前753年",
+      "公元前509年",
+      "公元前264年"
+    ],
+    "answer": 1,
+    "explanation": "罗马传统认为公元前753年是罗慕路斯建城之年。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-02",
+    "epochId": "rom",
+    "question": "罗马与哪座城市进行了三次布匿战争?",
+    "choices": [
+      "雅典",
+      "亚历山大里亚",
+      "迦太基",
+      "叙拉古"
+    ],
+    "answer": 2,
+    "explanation": "位于北非的迦太基是罗马的强劲对手,于公元前146年被摧毁。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-03",
+    "epochId": "rom",
+    "question": "公元前44年的三月十五日发生了什么?",
+    "choices": [
+      "恺撒被刺杀",
+      "罗马被高卢人攻陷",
+      "奥古斯都成为皇帝",
+      "维苏威火山爆发"
+    ],
+    "answer": 0,
+    "explanation": "以布鲁图和卡西乌斯为首的元老们于公元前44年3月15日将恺撒刺杀身亡。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-04",
+    "epochId": "rom",
+    "question": "奥古斯都所建立的统治形式叫什么?",
+    "choices": [
+      "僭主政治",
+      "君主专制制",
+      "四帝共治制",
+      "元首制"
+    ],
+    "answer": 3,
+    "explanation": "奥古斯都以\"元首\"即平等者中的第一人身份进行统治;由此得名元首制。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-05",
+    "epochId": "rom",
+    "question": "313年,哪位皇帝给予了基督徒信仰自由?",
+    "choices": [
+      "尼禄",
+      "君士坦丁",
+      "戴克里先",
+      "图拉真"
+    ],
+    "answer": 1,
+    "explanation": "313年,君士坦丁与李锡尼在米兰就宗教信仰自由达成一致。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-06",
+    "epochId": "rom",
+    "question": "476年,谁废黜了末代西罗马皇帝?",
+    "choices": [
+      "阿提拉",
+      "阿拉里克",
+      "奥多亚克",
+      "狄奥多里克"
+    ],
+    "answer": 2,
+    "explanation": "日耳曼将领奥多亚克废黜了罗慕路斯·奥古斯图路斯,并自立为意大利国王。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-07",
+    "epochId": "rom",
+    "question": "公元前450年前后的《十二铜表法》是什么?",
+    "choices": [
+      "与迦太基的和平条约",
+      "罗马第一部成文法典",
+      "一部针对基督徒的法律",
+      "奥古斯都的宪法"
+    ],
+    "answer": 1,
+    "explanation": "在平民的压力下,这部法律被刻在十二块铜表上,并公开陈列于广场之上。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-08",
+    "epochId": "rom",
+    "question": "公元前73年至前71年,谁领导了古代最大规模的奴隶起义?",
+    "choices": [
+      "阿米尼乌斯",
+      "维钦托利",
+      "斯巴达克斯",
+      "克拉苏"
+    ],
+    "answer": 2,
+    "explanation": "角斗士斯巴达克斯从卡普阿逃出,率领数万名奴隶反抗,直到公元前71年被克拉苏击败。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-09",
+    "epochId": "rom",
+    "question": "在哪位皇帝治下,罗马帝国于117年达到疆域的最大范围?",
+    "choices": [
+      "图拉真",
+      "尼禄",
+      "奥古斯都",
+      "戴克里先"
+    ],
+    "answer": 0,
+    "explanation": "图拉真征服了达契亚、亚美尼亚和美索不达米亚;他的继任者哈德良后来又放弃了这些东部征服地。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-10",
+    "epochId": "rom",
+    "question": "212年,皇帝卡拉卡拉的《安东尼努斯敕令》规定了什么?",
+    "choices": [
+      "将帝国分为四部分",
+      "禁止异教崇拜",
+      "将首都迁往君士坦丁堡",
+      "赋予帝国内几乎所有自由居民罗马公民权"
+    ],
+    "answer": 3,
+    "explanation": "这项敕令使数百万行省居民成为罗马公民;罗马法律从此适用于整个帝国。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-11",
+    "epochId": "rom",
+    "question": "戴克里先在293年引入了哪种统治形式?",
+    "choices": [
+      "元首制",
+      "四帝共治制",
+      "共和制",
+      "三头政治"
+    ],
+    "answer": 1,
+    "explanation": "在四帝共治制下,两位正皇帝与两位副皇帝共同统治帝国,以便更有效地防守边疆。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-12",
+    "epochId": "rom",
+    "question": "415年,哪位学者在亚历山大里亚被基督徒暴民杀害?",
+    "choices": [
+      "莉薇娅",
+      "克利奥帕特拉",
+      "希帕提娅",
+      "阿格里皮娜"
+    ],
+    "answer": 2,
+    "explanation": "数学家兼哲学家希帕提娅卷入了城市长官与主教西里尔之间的权力斗争,并因此被杀害。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-01",
+    "epochId": "urgeschichte",
+    "question": "现代人,即智人,是在哪个大陆出现的?",
+    "choices": [
+      "亚洲",
+      "欧洲",
+      "非洲",
+      "美洲"
+    ],
+    "answer": 2,
+    "explanation": "智人最古老的化石来自非洲,距今约30万年。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-02",
+    "epochId": "urgeschichte",
+    "question": "\"新石器革命\"指的是什么?",
+    "choices": [
+      "向农耕、畜牧和定居生活的转变",
+      "文字的发明",
+      "人类走出非洲的迁徙",
+      "铁器的最初使用"
+    ],
+    "answer": 0,
+    "explanation": "在新石器时代,人们开始种植植物、饲养动物,并永久定居于村落中。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-03",
+    "epochId": "urgeschichte",
+    "question": "法国的拉斯科洞穴以什么闻名?",
+    "choices": [
+      "以最古老的石器闻名",
+      "以冰河时代的动物壁画闻名",
+      "以一具尼安德特人骨骸闻名",
+      "以最早的谷物发现闻名"
+    ],
+    "answer": 1,
+    "explanation": "在拉斯科,人们约在1.7万年前在洞穴岩壁上绘制了数百匹马、野牛和鹿。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-04",
+    "epochId": "urgeschichte",
+    "question": "最早的人类是如何到达美洲的?",
+    "choices": [
+      "乘船横渡大西洋",
+      "经由陆桥从非洲而来",
+      "从澳大利亚乘船而来",
+      "经由白令陆桥,从西伯利亚到阿拉斯加"
+    ],
+    "answer": 3,
+    "explanation": "在冰河时期,海平面极低,以致西伯利亚与阿拉斯加之间存在着连成一片的陆地。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-05",
+    "epochId": "urgeschichte",
+    "question": "冰人奥兹是怎么死的?",
+    "choices": [
+      "坠入冰隙而死",
+      "被箭射死",
+      "在暴风雪中被冻死",
+      "死于疾病"
+    ],
+    "answer": 1,
+    "explanation": "他左肩中的一枚箭镞表明,奥兹是被人杀害的。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-06",
+    "epochId": "urgeschichte",
+    "question": "位于今日土耳其境内的哥贝克力石阵有何值得注意之处?",
+    "choices": [
+      "它是拥有城墙的最古老城市",
+      "轮子是在那里被发明的",
+      "在人们还是狩猎采集者的时候,那里就已建起了巨大的石圈",
+      "最古老的楔形文字泥板是在那里发现的"
+    ],
+    "answer": 2,
+    "explanation": "哥贝克力石阵的T形石柱约建于公元前9500年,当时该地区尚未出现农耕和畜牧。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-07",
+    "epochId": "urgeschichte",
+    "question": "哪个人类物种最早走出非洲,并扩散到爪哇和中国?",
+    "choices": [
+      "直立人",
+      "智人",
+      "尼安德特人",
+      "南方古猿"
+    ],
+    "answer": 0,
+    "explanation": "直立人约在180万年前抵达高加索地区,后来又到达东亚和东南亚。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-08",
+    "epochId": "urgeschichte",
+    "question": "世界上已知最古老的陶器是在哪里制作的?",
+    "choices": [
+      "在美索不达米亚",
+      "在中国南方",
+      "在埃及",
+      "在中欧"
+    ],
+    "answer": 1,
+    "explanation": "中国南方仙人洞遗址出土的陶片距今约1.8万至2万年,当时的制作者仍是狩猎采集者。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-09",
+    "epochId": "urgeschichte",
+    "question": "南非的布隆伯斯洞穴以什么闻名?",
+    "choices": [
+      "以最古老的手斧闻名",
+      "以露西的骨骸闻名",
+      "以最古老的刻纹图案和装饰用珠子闻名",
+      "以最早的谷物发现闻名"
+    ],
+    "answer": 2,
+    "explanation": "在布隆伯斯洞穴中,发现了约7.5万年前带有几何图案的赭石块以及带孔的蜗牛壳。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-10",
+    "epochId": "urgeschichte",
+    "question": "丹尼索瓦人是如何被发现的?",
+    "choices": [
+      "通过在西伯利亚发现的一具完整骨骼",
+      "通过阿尔泰地区的洞穴壁画",
+      "通过在中国发现的石器",
+      "通过对一块指骨的DNA分析"
+    ],
+    "answer": 3,
+    "explanation": "2010年,人们从丹尼索瓦洞穴中一块微小的指骨中获取了一个此前未知的人类物种的基因组。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-11",
+    "epochId": "urgeschichte",
+    "question": "约公元前8000年,约旦河谷的哪个聚落被建起了石墙和一座塔楼?",
+    "choices": [
+      "恰塔霍裕克",
+      "杰里科",
+      "乌鲁克",
+      "哥贝克力石阵"
+    ],
+    "answer": 1,
+    "explanation": "杰里科被视为世界上最古老的持续有人居住的聚落之一;那座塔楼高约九米。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-12",
+    "epochId": "urgeschichte",
+    "question": "考古学家凭什么识别出约自公元前1500年起在太平洋各岛屿定居的航海者?",
+    "choices": [
+      "凭他们的石圈",
+      "凭他们的青铜武器",
+      "凭他们带印纹的拉皮塔陶器",
+      "凭他们的洞穴壁画"
+    ],
+    "answer": 2,
+    "explanation": "拉皮塔文化得名于新喀里多尼亚的一处遗址;其带有特色纹饰的陶器标志着这一定居之路一直延伸到汤加和萨摩亚。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-01",
+    "epochId": "zweiter-weltkrieg",
+    "question": "第二次世界大战在欧洲是以哪一事件开始的?",
+    "choices": [
+      "偷袭珍珠港",
+      "对苏联的进攻",
+      "吞并奥地利",
+      "入侵波兰"
+    ],
+    "answer": 3,
+    "explanation": "1939年9月1日,德国国防军进攻波兰;两天后,英国和法国对德国宣战。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-02",
+    "epochId": "zweiter-weltkrieg",
+    "question": "在大屠杀中,有多少犹太人被杀害?",
+    "choices": [
+      "约60万人",
+      "约600万人",
+      "约6万人",
+      "约6000万人"
+    ],
+    "answer": 1,
+    "explanation": "国家社会主义者杀害了约六百万欧洲犹太人,以及数十万辛提人和罗姆人、残障人士及其他群体。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-03",
+    "epochId": "zweiter-weltkrieg",
+    "question": "哪场战役被视为东线战争的转折点?",
+    "choices": [
+      "斯大林格勒",
+      "凡尔登",
+      "阿拉曼",
+      "中途岛"
+    ],
+    "answer": 0,
+    "explanation": "随着1943年2月德军第六集团军在斯大林格勒投降,国防军在东线永久转入防御态势。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-04",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1942年1月的万湖会议讨论了什么?",
+    "choices": [
+      "对苏联的进攻",
+      "投降条件",
+      "对欧洲犹太人进行驱逐和屠杀的组织安排",
+      "高速公路的修建"
+    ],
+    "answer": 2,
+    "explanation": "在莱因哈德·海德里希的主持下,党卫队与各政府部门协调了所谓\"犹太人问题最终解决方案\"。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-05",
+    "epochId": "zweiter-weltkrieg",
+    "question": "索菲·朔尔和汉斯·朔尔兄妹属于哪个抵抗组织?",
+    "choices": [
+      "\"红色乐队\"",
+      "\"白玫瑰\"",
+      "\"克莱骚集团\"",
+      "\"雪绒花海盗\""
+    ],
+    "answer": 1,
+    "explanation": "\"白玫瑰\"在慕尼黑散发反纳粹政权的传单;朔尔兄妹于1943年被处决。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-06",
+    "epochId": "zweiter-weltkrieg",
+    "question": "哪一天被视为第二次世界大战在欧洲结束的日子?",
+    "choices": [
+      "1945年4月30日",
+      "1944年6月6日",
+      "1945年9月2日",
+      "1945年5月8日"
+    ],
+    "answer": 3,
+    "explanation": "1945年5月8日,德国国防军无条件投降正式生效;日本直到9月2日才投降。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-07",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1939年8月《苏德互不侵犯条约》的秘密附加协议中,德国和苏联达成了什么协议?",
+    "choices": [
+      "共同进攻英国",
+      "将波兰和东欧划分为各自的势力范围",
+      "交换战俘",
+      "废除一切关税"
+    ],
+    "answer": 1,
+    "explanation": "该协议沿纳雷夫河、维斯瓦河和桑河划分波兰,并将芬兰、波罗的海国家和比萨拉比亚划归苏联势力范围。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-08",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1944年7月20日,谁在\"狼穴\"元首大本营引爆了炸弹?",
+    "choices": [
+      "埃尔温·隆美尔",
+      "格奥尔格·埃尔泽",
+      "迪特里希·朋霍费尔",
+      "克劳斯·申克·冯·施陶芬贝格伯爵"
+    ],
+    "answer": 3,
+    "explanation": "施陶芬贝格上校在军事会议上放置了装有炸药的公文包;希特勒只受轻伤幸存,施陶芬贝格当晚即被枪决。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-09",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1937年12月南京陷落后发生了什么?",
+    "choices": [
+      "日本军队在数周内屠杀了数万至数十万平民和战俘",
+      "中国与日本缔结了和平",
+      "这座城市被宣布为日本的首都",
+      "国际联盟派遣了维和部队"
+    ],
+    "answer": 0,
+    "explanation": "南京大屠杀持续了约六周;东京审判估计死亡人数超过20万,大规模强奸也是这一罪行的一部分。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-10",
+    "epochId": "zweiter-weltkrieg",
+    "question": "在1945/46年的纽伦堡审判中,哪项罪名首次在国际法庭上受到审判?",
+    "choices": [
+      "叛国罪",
+      "间谍罪",
+      "危害人类罪",
+      "逃税罪"
+    ],
+    "answer": 2,
+    "explanation": "除战争罪和危害和平罪外,法庭还引入了\"危害人类罪\"这一新罪名,它至今仍影响着国际刑法。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-11",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1938年《慕尼黑协定》后,捷克斯洛伐克将哪块领土割让给了德国?",
+    "choices": [
+      "阿尔萨斯",
+      "斯洛伐克",
+      "梅梅尔地区",
+      "苏台德地区"
+    ],
+    "answer": 3,
+    "explanation": "英国、法国、意大利和德国在没有捷克斯洛伐克参与的情况下,就割让以德语居民为主的苏台德地区达成一致。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-12",
+    "epochId": "zweiter-weltkrieg",
+    "question": "认信教会的哪位神学家于1945年4月在弗洛森比格集中营被处决?",
+    "choices": [
+      "马丁·尼默勒",
+      "迪特里希·朋霍费尔",
+      "克莱门斯·奥古斯特·冯·加伦",
+      "伯恩哈德·利希滕贝格"
+    ],
+    "answer": 1,
+    "explanation": "朋霍费尔通过军事情报局加入了抵抗运动,于1945年4月9日按希特勒的命令被绞死;尼默勒则在达豪集中营中幸存下来。",
+    "difficulty": 3
+  }
+]

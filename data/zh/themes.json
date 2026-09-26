@@ -1,0 +1,503 @@
+[
+  {
+    "id": "religionen",
+    "title": "宗教与世界观",
+    "subtitle": "从山巅神庙到宗教国家",
+    "summary": "信仰如何缔造共同体、为帝国统治提供合法性并引发战争:宗教从最早的圣所到今天走过的历程。",
+    "intro": [
+      "早在城市和文字出现之前,狩猎采集者就在哥贝克力石阵建造了很可能用于祭祀的巨石圈。在埃及和美索不达米亚等早期文明中,宗教与统治密不可分:法老被视为神与人之间的中介,阿肯那顿试图单独崇拜太阳神阿吞的尝试在他死后即告失败。公元前一千纪,印度、中国和希腊几乎同时涌现出将人及其行为置于中心的新学说:佛陀、孔子和老子都拥有追随者,而希腊人则在德尔斐向神明求问。孔雀王朝的阿育王将佛教定为国教,并派遣传教士远至斯里兰卡。",
+      "在罗马帝国,基督教在三个世纪内从一个受迫害的教派转变为国教。君士坦丁于公元313年颁布宗教自由令,并在尼西亚公会议上确立了信仰的基本教义。西罗马帝国灭亡后,蒙特卡西诺等修道院以及克洛维等皈依的国王将信仰传播到日耳曼各族。公元7世纪,伊斯兰教在阿拉伯半岛兴起;随着哈里发的征服,它在数十年间从西班牙扩展到波斯,并早早分裂为逊尼派和什叶派。中世纪教皇与皇帝围绕主教任命权展开的冲突以及十字军东征,都表明宗教与权力始终紧密交织。",
+      "随着路德《九十五条论纲》的发表,西方教会的统一于1517年破裂。宗教改革与反宗教改革引发了宗教战争,直到《奥格斯堡和约》和《威斯特伐利亚和约》才使其得到遏制;胡格诺派等宗教难民被迫离开家园。启蒙运动呼吁宽容以及政教分离,19、20世纪教会在许多欧洲国家的影响力逐渐衰退。与此同时,宗教依然是一股政治力量:1979年的伊朗革命建立了一个神权国家,宗教归属至今仍在塑造着世界各地的冲突与身份认同。"
+    ],
+    "color": "#7c3aed",
+    "eventIds": [
+      "goebekli-tepe",
+      "echnatons-religionsreform",
+      "orakel-von-delphi",
+      "buddha-lehrt-in-nordindien",
+      "konfuzius-und-seine-lehre",
+      "ashoka-verbreitet-den-buddhismus",
+      "mailaender-vereinbarung",
+      "konzil-von-nicaea",
+      "taufe-chlodwigs",
+      "benedikt-gruendet-montecassino",
+      "erste-offenbarung-mohammeds",
+      "schlacht-von-kerbela",
+      "gang-nach-canossa",
+      "erster-kreuzzug",
+      "luthers-95-thesen",
+      "konzil-von-trient",
+      "augsburger-religionsfrieden",
+      "edikt-von-fontainebleau",
+      "iranische-revolution-1979"
+    ],
+    "personIds": [
+      "echnaton",
+      "siddhartha-gautama",
+      "konfuzius",
+      "konstantin-der-grosse",
+      "mohammed",
+      "hildegard-von-bingen",
+      "thomas-von-aquin",
+      "rumi",
+      "martin-luther",
+      "ignatius-von-loyola"
+    ],
+    "termIds": [
+      "dharma",
+      "daoismus",
+      "koran",
+      "sunniten-und-schiiten",
+      "moenchtum",
+      "kreuzzug",
+      "reformation",
+      "gegenreformation"
+    ],
+    "tags": [
+      "宗教",
+      "教会",
+      "伊斯兰教",
+      "佛教",
+      "宗教改革",
+      "信仰"
+    ]
+  },
+  {
+    "id": "wissenschaft-technik",
+    "title": "科学与技术",
+    "subtitle": "从手斧到万维网",
+    "summary": "工具、发明与发现一次又一次从根本上改变了人类的生活。这条主线从最早的石器一直延续到数字时代。",
+    "intro": [
+      "奥杜威文化最早的石器约有260万年历史,标志着技术史的开端。此后火、陶器、轮子和冶金相继出现,但间隔时间很长,而到新石器时代,发展的步伐开始加快。美索不达米亚的楔形文字使知识得以留存,冶铁技术改变了农业和战争方式。在希腊,希波克拉底和阿基米德等思想家开始系统地观察自然和人体,并用数学加以描述,而不再仅仅诉诸神明来解释。",
+      "数百年间,中国是世界上技术最先进的国家:纸、雕版印刷、火药、指南针和纸币都在传入欧洲之前很久便已在这里出现。在巴格达,智慧宫的学者翻译了希腊、波斯和印度的典籍,花拉子米创立了代数学。这些知识经由安达卢斯传入中世纪的欧洲。约1450年,古腾堡的活字印刷术使书籍变得价格低廉,为新思想的迅速传播创造了条件。",
+      "随着哥白尼、伽利略和牛顿的出现,1543年至1687年间形成了一种建立在观察、实验和数学基础之上、并在克服教会阻力后取得胜利的新世界观。18、19世纪,蒸汽机、铁路和工厂制度引发了工业革命,达尔文解释了物种起源,汽车和飞机则缩短了距离。20世纪,人类借助\"斯普特尼克\"号和登月飞行进入了太空,核物理和计算机在改变世界的同时也带来了威胁。自1991年起,万维网将数十亿人连接在一起,使知识比以往任何时候都更易获取。"
+    ],
+    "color": "#0ea5e9",
+    "eventIds": [
+      "oldowan-steinwerkzeuge",
+      "erfindung-des-rades",
+      "sumerische-keilschrift",
+      "beginn-der-eisenzeit",
+      "hippokrates-und-die-medizin",
+      "archimedes-und-die-belagerung-von-syrakus",
+      "erfindung-des-papiers",
+      "al-chwarizmi-begruendet-die-algebra",
+      "song-dynastie-erfindungen",
+      "gutenbergs-buchdruck",
+      "kopernikus-heliozentrisches-weltbild",
+      "galileis-prozess",
+      "newtons-principia",
+      "watts-dampfmaschine",
+      "eisenbahn-stockton-darlington",
+      "darwin-entstehung-der-arten",
+      "erster-motorflug-wright",
+      "sputnik-1957",
+      "mondlandung-1969",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "archimedes",
+      "euklid",
+      "al-chwarizmi",
+      "ibn-sina",
+      "leonardo-da-vinci",
+      "galileo-galilei",
+      "isaac-newton",
+      "james-watt",
+      "marie-curie",
+      "albert-einstein"
+    ],
+    "termIds": [
+      "faustkeil",
+      "keilschrift",
+      "holztafeldruck",
+      "industrielle-revolution",
+      "fabriksystem",
+      "evolutionstheorie"
+    ],
+    "tags": [
+      "发明",
+      "自然科学",
+      "技术",
+      "医学",
+      "工业化",
+      "航天"
+    ]
+  },
+  {
+    "id": "krieg-frieden",
+    "title": "战争与和平",
+    "subtitle": "战役、和平协定与对秩序的追求",
+    "summary": "战争缔造并摧毁了帝国;通过条约、规则和联盟来遏制战争的努力同样古老。一部暴力及其限制的历史。",
+    "intro": [
+      "世界上现存最古老的和平条约,是埃及人与赫梯人在卡迭石战役后缔结的。希腊城邦在马拉松和萨拉米斯击退了波斯人,却在伯罗奔尼撒战争中彼此消耗殆尽。在中国,孙武在战国时期制定的兵法原则至今仍被人研读。罗马凭借其军团在布匿战争中建立了世界帝国,却在条顿堡森林战役中遭遇了极限,并以边墙和哈德良长城巩固其边界。",
+      "中世纪,骑士军队、城堡和围城战塑造了战争形态。十字军东征将宗教热忱与征服结合在一起,百年战争则持续了数代人之久。三十年战争摧残了中欧大片地区,并于1648年以《威斯特伐利亚和约》告终,该和约使国家主权成为欧洲秩序的基础。拿破仑战争结束后,维也纳会议试图通过大国间的均势来确保持久和平,19世纪随着红十字会和《日内瓦公约》的出现,人道主义国际法应运而生。",
+      "随着堑壕战、毒气和数百万人的死亡,第一次世界大战暴露了工业的破坏力。《凡尔赛条约》和国际联盟本欲防止新的战争,却最终失败。第二次世界大战演变为一场灭绝战争,并以广岛和长崎的原子弹爆炸而告终。联合国及集体安全原则正是从这一经历中诞生的,然而冷战带来了代理人战争,古巴导弹危机更曾使世界濒临核战争的边缘。2022年俄罗斯对乌克兰的进攻表明,即便在21世纪,国家间的战争也并未成为历史。"
+    ],
+    "color": "#dc2626",
+    "eventIds": [
+      "schlacht-bei-kadesch",
+      "schlacht-von-marathon",
+      "zeit-der-streitenden-reiche",
+      "peloponnesischer-krieg",
+      "punische-kriege",
+      "varusschlacht",
+      "schlacht-bei-tours-und-poitiers",
+      "erster-kreuzzug",
+      "hundertjaehriger-krieg",
+      "dreissigjaehriger-krieg",
+      "westfaelischer-frieden",
+      "wiener-kongress",
+      "gruendung-rotes-kreuz",
+      "schlacht-um-verdun",
+      "versailler-vertrag",
+      "schlacht-von-stalingrad",
+      "atombomben-hiroshima-nagasaki",
+      "gruendung-vereinte-nationen",
+      "kubakrise",
+      "russischer-angriff-ukraine-2022"
+    ],
+    "personIds": [
+      "sunzi",
+      "hannibal",
+      "alexander-der-grosse",
+      "saladin",
+      "napoleon-bonaparte",
+      "henry-dunant",
+      "bertha-von-suttner",
+      "winston-churchill",
+      "erwin-rommel",
+      "john-f-kennedy"
+    ],
+    "termIds": [
+      "hoplit",
+      "legion",
+      "kreuzzug",
+      "stellungskrieg",
+      "totaler-krieg",
+      "vernichtungskrieg",
+      "stellvertreterkrieg",
+      "kalter-krieg"
+    ],
+    "tags": [
+      "战争",
+      "和平",
+      "战役",
+      "国际法",
+      "外交",
+      "军事"
+    ]
+  },
+  {
+    "id": "handel-globalisierung",
+    "title": "贸易、经济与全球化",
+    "subtitle": "商品、货币与思想如何连接世界",
+    "summary": "从最早的农民经丝绸之路和汉萨同盟到世界市场与金融危机:经济与贸易连接了各种文化,创造了财富,也造成了不平等。",
+    "intro": [
+      "随着新石器革命,人们开始种植谷物、饲养家畜;美索不达米亚的灌溉技术带来了剩余产品,由此产生了城市、分工和贸易。腓尼基人在整个地中海建立起贸易网络,并传播了他们的字母表;希腊人则从西班牙到黑海沿岸建立了殖民城市。汉代兴起的丝绸之路将丝绸、香料、玻璃和思想在中国、印度、波斯和罗马之间传递流通。货币、文字和法律制度使长途贸易更加可靠。",
+      "中世纪,巴格达、开罗和科尔多瓦是一片从西非延伸到中国的贸易区的枢纽;廷巴克图凭借黄金和食盐致富,曼萨·穆萨的朝圣之旅更使这份财富闻名于整个伊斯兰世界。马可·波罗和伊本·白图泰记述了亚洲的市场,而在北欧,汉萨同盟组织了波罗的海与北海之间的贸易。1492年后,哥伦布和达伽马跨越大洋连接了各大洲。哥伦布大交换将马铃薯和玉米带到欧洲,将马匹和疾病带到美洲,跨大西洋奴隶贸易则将数百万非洲人掳往新大陆的种植园。",
+      "工业革命使英国成为世界工厂;工厂、铁路和苏伊士运河加快了商品流通,鸦片战争则迫使中国开放门户。日本以明治维新回应西方的压力,实现了工业化。1929年的大萧条表明,各国经济当时已经紧密交织在一起。1945年以后,世界贸易和繁荣迅速增长;1973年的石油危机、欧元的引入以及2008年的金融危机则使这种相互依存显现出来。21世纪的全球化将供应链、资本市场和数字网络跨越一切国界连接在一起。"
+    ],
+    "color": "#d97706",
+    "eventIds": [
+      "neolithische-revolution",
+      "bewaesserungslandwirtschaft-mesopotamien",
+      "phoenizier-und-alphabet",
+      "griechische-kolonisation",
+      "han-dynastie-und-seidenstrasse",
+      "gruendung-bagdads",
+      "marco-polos-reise-nach-china",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum",
+      "erster-hansetag",
+      "vasco-da-gama-erreicht-indien",
+      "beginn-transatlantischer-sklavenhandel",
+      "abschliessung-japans",
+      "mechanischer-webstuhl-fabriksystem",
+      "erster-opiumkrieg",
+      "eroeffnung-suezkanal",
+      "weltwirtschaftskrise-1929",
+      "oelkrise-1973",
+      "einfuehrung-euro-bargeld",
+      "weltfinanzkrise-2008"
+    ],
+    "personIds": [
+      "mansa-musa",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "james-watt",
+      "karl-marx",
+      "kaiser-meiji",
+      "cecil-rhodes",
+      "deng-xiaoping",
+      "tim-berners-lee"
+    ],
+    "termIds": [
+      "seidenstrasse",
+      "hanse",
+      "merkantilismus",
+      "kolumbianischer-austausch",
+      "industrielle-revolution",
+      "imperialismus",
+      "hyperinflation",
+      "globalisierung"
+    ],
+    "tags": [
+      "贸易",
+      "经济",
+      "全球化",
+      "丝绸之路",
+      "殖民主义",
+      "货币"
+    ]
+  },
+  {
+    "id": "herrschaft-demokratie",
+    "title": "统治、法律与民主",
+    "subtitle": "谁来治理,谁有发言权?",
+    "summary": "从神王与法律石碑经雅典民主到宪法与人权:关于权力如何获得正当性并受到限制的长久争论。",
+    "intro": [
+      "在早期文明中,统治被视为出自神意,然而《汉谟拉比法典》已经表明,国王也可以受成文法律的约束。在雅典,梭伦和克里斯提尼所进行的改革首次使自由公民参与决策;然而阿提卡民主始终局限于男性,将妇女、外邦人和奴隶排除在外。罗马驱逐了国王,为自己制定了《十二铜表法》,并发展出一个由执政官、元老院和人民大会组成的共和国。在中国,秦始皇以高度集权的行政体系统一了国家,自此\"天命\"论成为各王朝统治的正当性依据。",
+      "随着奥古斯都元首制的确立,罗马实际上已成为君主国,查理曼加冕称帝的举动使中世纪重新采纳了这一理念。与此同时,国王也不得不与贵族、教会和城市分享权力:1215年的《大宪章》使英格兰国王受法律约束,等级会议和议会掌握着征税的批准权。在17世纪的绝对主义时代,路易十四等统治者宣称独揽一切国家权力,而英国则通过光荣革命确立了议会至上的原则。洛克和孟德斯鸠先后提出了社会契约与三权分立的思想。",
+      "美国革命和法国大革命将这些思想化为宪法和人权宣言,《民法典》则将法律面前人人平等的原则推广到全欧洲。19世纪,自由派和民主派人士在1848年革命中为宪法和民族国家而奋斗,1893年新西兰成为世界上第一个引入女性选举权的国家。《魏玛宪法》曾是当时最先进的宪法之一,然而《授权法》也表明,一个民主政体如何能够以合法手段被摧毁。1945年以后,人权与民主在全世界传播开来,1994年种族隔离制度的终结使南非成为和平实现平等转型的象征。"
+    ],
+    "color": "#2563eb",
+    "eventIds": [
+      "codex-hammurapi",
+      "reformen-solons",
+      "beginn-der-roemischen-republik",
+      "reformen-des-kleisthenes",
+      "zwoelftafelgesetz",
+      "qin-shihuangdi-einigt-china",
+      "augustus-begruendet-den-prinzipat",
+      "kaiserkroenung-karls-des-grossen",
+      "magna-carta",
+      "hof-nach-versailles",
+      "glorious-revolution",
+      "montesquieu-geist-der-gesetze",
+      "verfassung-der-usa",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "code-civil",
+      "maerzrevolution-1848",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "ende-der-apartheid"
+    ],
+    "personIds": [
+      "hammurapi",
+      "perikles",
+      "cicero",
+      "augustus",
+      "karl-der-grosse",
+      "john-locke",
+      "thomas-jefferson",
+      "olympe-de-gouges",
+      "friedrich-ebert",
+      "nelson-mandela"
+    ],
+    "termIds": [
+      "polis",
+      "ostrakismos",
+      "senat",
+      "prinzipat",
+      "mandat-des-himmels",
+      "absolutismus",
+      "gewaltenteilung",
+      "volkssouveraenitaet"
+    ],
+    "tags": [
+      "民主",
+      "宪法",
+      "法律",
+      "君主制",
+      "人权",
+      "议会"
+    ]
+  },
+  {
+    "id": "frauen",
+    "title": "历史上的女性",
+    "subtitle": "女统治者、女思想家与争取平等的斗争",
+    "summary": "女性曾统治国家、著书立说、从事研究并进行反抗,然而长期以来她们始终被排斥在权力和教育之外。从早期文明到女性选举权与民权运动的历程。",
+    "intro": [
+      "在恰塔霍裕克这一大型聚落遗址,考古学家发现了大量女性小雕像,其含义至今仍存在争议。来自阿卡德的萨尔贡帝国的女祭司恩海杜安娜,是世界历史上第一位留名的作者,商代贵妇妇好则曾率军出征。在埃及,哈特谢普苏特以法老身份进行统治,而在雅典,女性被排除在民主政治之外,即便才学出众的阿斯帕西娅也因其对伯里克利的影响而受到攻击。克利奥帕特拉七世作为埃及最后一位统治者,在罗马权贵之间维护了自身地位,直至她的死亡最终宣告了希腊化时代的终结。",
+      "中世纪,个别女性获得了巨大的权力:狄奥多拉在查士丁尼身边共同执政,武则天是中国历史上唯一一位以皇帝身份统治的女性,紫式部则以《源氏物语》创作了世界上最早的小说之一。修道院使宾根的希尔德加德等女性得以接受教育、施展影响,而圣女贞德在百年战争中成为一位女英雄,却被作为异端处以火刑。卡斯蒂利亚的伊莎贝拉和伊丽莎白一世证明了女性君主同样可以成功统治。与此同时,16、17世纪也有数万人——其中大多数是女性——沦为猎巫运动的牺牲品。",
+      "启蒙运动承诺了平等权利,但通常仅指男性而言。1789年巴黎妇女进军凡尔赛之际,她们积极介入了革命进程,奥兰普·德古热在其《女权和女公民权宣言》中要求完全的平等;她于1793年被处决。19世纪,一场有组织的妇女运动兴起,为教育、就业和选举权而斗争;1893年新西兰成为第一个引入女性选举权的国家,德国于1918年紧随其后。1919年,玛丽·尤哈奇成为首位在德国议会发言的女性,玛丽·居里两次获得诺贝尔奖。1955年,罗莎·帕克斯引发了蒙哥马利公交车抵制运动,使民权斗争同时也成为一部女性反抗的历史。"
+    ],
+    "color": "#db2777",
+    "eventIds": [
+      "catalhoeyuek",
+      "sargon-gruendet-akkadisches-reich",
+      "shang-dynastie-orakelknochen",
+      "bau-des-parthenon",
+      "tod-kleopatras",
+      "justinian-und-hagia-sophia",
+      "wu-zetian-wird-kaiserin",
+      "genji-monogatari",
+      "hundertjaehriger-krieg",
+      "fall-granadas",
+      "spanische-armada",
+      "hoehepunkt-der-hexenverfolgung",
+      "oesterreichischer-erbfolgekrieg",
+      "frauenmarsch-nach-versailles",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "montgomery-busboykott"
+    ],
+    "personIds": [
+      "hatschepsut",
+      "enheduanna",
+      "kleopatra-vii",
+      "theodora",
+      "wu-zetian",
+      "hildegard-von-bingen",
+      "jeanne-darc",
+      "olympe-de-gouges",
+      "emmeline-pankhurst",
+      "rosa-parks"
+    ],
+    "termIds": [
+      "staendegesellschaft",
+      "moenchtum",
+      "aufklaerung",
+      "dritter-stand",
+      "weimarer-republik",
+      "buergerrechtsbewegung"
+    ],
+    "tags": [
+      "女性",
+      "平等",
+      "选举权",
+      "女统治者",
+      "妇女运动"
+    ]
+  },
+  {
+    "id": "migration-begegnung",
+    "title": "迁徙与文化相遇",
+    "subtitle": "民族之间的迁徙、征服与交流",
+    "summary": "人类始终在迁徙:走出非洲、遍及世界各地,或作为商人、征服者、难民和定居者。相遇带来了交流与丰富,也带来了暴力与流离失所。",
+    "intro": [
+      "人类的历史始于一场迁徙:直立人在近两百万年前离开非洲,现代智人约在7万年前紧随其后,先后定居澳大利亚、亚洲、欧洲,最终抵达美洲。凭借他们的独木舟,拉皮塔文化的人们抵达了太平洋诸岛。青铜时代末期,\"海上民族\"使东地中海陷入动荡,而后来希腊殖民者则从马赛到克里米亚建立了众多城市。亚历山大的远征将希腊语言和艺术带到印度,并在希腊化时代创造出一种混合文化,佛教与希腊雕塑在此相遇。",
+      "佛教沿丝绸之路传入中国,玄奘等僧人远赴印度取回佛经。民族大迁徙将哥特人、汪达尔人和匈人带入罗马帝国,维京人则远航至北美和里海。在安达卢斯,穆斯林、犹太人和基督徒共同生活了数个世纪,阿威罗伊等学者将亚里士多德的哲学传入拉丁欧洲。成吉思汗治下的蒙古人建立了历史上最大的连片陆地帝国,马可·波罗和伊本·白图泰等旅行者沿其交通路线将东方与西方连接起来。",
+      "1492年哥伦布的到来开启了一场相遇,对美洲原住民而言,这场相遇最终演变为征服、瘟疫和文明的崩溃,而数百万非洲人则被作为奴隶运过大西洋。胡格诺派等宗教难民、1845年后遭受饥荒的爱尔兰人,以及数百万移民都在新大陆寻求更美好的生活。1947年印度的分治引发了20世纪最大规模的难民潮之一,此后战争、去殖民化和劳工移民一直塑造着人口迁徙。移民至今仍是世界政治的重大课题之一,文化的相遇既是冲突的根源,也是革新的源泉。"
+    ],
+    "color": "#059669",
+    "eventIds": [
+      "homo-erectus-verlaesst-afrika",
+      "auszug-aus-afrika",
+      "besiedlung-amerikas",
+      "lapita-besiedlung-pazifik",
+      "ende-der-bronzezeit-seevoelker",
+      "griechische-kolonisation",
+      "alexanders-feldzug-nach-asien",
+      "buddhismus-erreicht-china",
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ueberfall-auf-lindisfarne",
+      "kalifat-von-cordoba",
+      "ibn-ruschd-erklaert-aristoteles",
+      "dschingis-khan-einigt-die-mongolen",
+      "reisen-des-ibn-battuta",
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel",
+      "edikt-von-fontainebleau",
+      "irische-hungersnot",
+      "unabhaengigkeit-indien-pakistan"
+    ],
+    "personIds": [
+      "homo-erectus",
+      "alexander-der-grosse",
+      "xuanzang",
+      "ibn-ruschd",
+      "dschingis-khan",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "akbar"
+    ],
+    "termIds": [
+      "hominini",
+      "hellenismus",
+      "seidenstrasse",
+      "voelkerwanderung",
+      "al-andalus",
+      "kolumbianischer-austausch",
+      "hugenotten",
+      "dekolonisation"
+    ],
+    "tags": [
+      "迁徙",
+      "民族迁徙",
+      "文化交流",
+      "逃亡",
+      "殖民化",
+      "相遇"
+    ]
+  },
+  {
+    "id": "kunst-schrift-bildung",
+    "title": "艺术、文字与教育",
+    "subtitle": "人们如何保存知识与创造美",
+    "summary": "从冰河时代的洞穴壁画,经楔形文字、图书馆和大学,到印刷术与互联网:一部关于人类如何表达自我并传承知识的历史。",
+    "intro": [
+      "早在7.5万年前,布隆伯斯洞穴中的人们就已在赭石上刻画图案并制作饰品;拉斯科的洞穴壁画则展现了冰河时代艺术家所达到的精湛技艺。随着苏美尔的楔形文字和埃及的象形文字,文字的历史约在5000年前开始,最初用于行政管理和贸易,但很快也用于诸如《吉尔伽美什史诗》这样的文学作品。腓尼基人的字母表极大地简化了书写,以致被希腊人和罗马人采用,并一直塑造着我们今天的字母。荷马史诗和雅典悲剧成为欧洲教育的奠基性文本,亚历山大图书馆则试图汇集世界上的全部知识。",
+      "中国发明了造纸术和雕版印刷术;868年的《金刚经》是现存最早标有确切日期的印刷书籍。在巴格达的智慧宫以及从开罗到廷巴克图的各座经学院里,学者们保存并扩展了古代的遗产。在欧洲,最早的大学出现在博洛尼亚和巴黎,经院哲学将信仰与理性结合起来,哥特式风格则造就了充满光影的石造教堂。文艺复兴重新发现了古典时代:布鲁内莱斯基、达·芬奇和米开朗琪罗创作出将艺术与科学融为一体的作品,古腾堡的印刷术使书籍成为大众商品。",
+      "启蒙运动的《百科全书》力图使那个时代的知识为所有人所用,19世纪许多国家引入了义务教育。1919年以后,包豪斯将艺术、手工艺与技术结合成一种影响遍及全球的新视觉语言。1933年的焚书事件表明,自由的艺术与学术在独裁政权眼中是何等危险。借助万维网,今天可获取的知识比以往任何时候都更多,与此同时,如何在数字世界中保存教育、真理与艺术的问题也再度浮现。"
+    ],
+    "color": "#b45309",
+    "eventIds": [
+      "blombos-hoehle-kunst-und-schmuck",
+      "hoehlenmalerei-lascaux",
+      "sumerische-keilschrift",
+      "gilgamesch-epos",
+      "phoenizier-und-alphabet",
+      "homer-und-die-epen",
+      "bibliothek-von-alexandria",
+      "erfindung-des-papiers",
+      "haus-der-weisheit",
+      "diamant-sutra-holztafeldruck",
+      "gruendung-der-universitaet-bologna",
+      "beginn-der-gotik",
+      "timbuktu-gelehrtenzentrum",
+      "brunelleschis-kuppel",
+      "gutenbergs-buchdruck",
+      "michelangelos-david",
+      "erste-baende-der-encyclopedie",
+      "gruendung-des-bauhauses",
+      "buecherverbrennung-1933",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "enheduanna",
+      "sappho",
+      "platon",
+      "sima-qian",
+      "murasaki-shikibu",
+      "johannes-gutenberg",
+      "leonardo-da-vinci",
+      "michelangelo",
+      "erasmus-von-rotterdam",
+      "kaethe-kollwitz"
+    ],
+    "termIds": [
+      "keilschrift",
+      "hieroglyphen",
+      "alphabet",
+      "tragoedie",
+      "holztafeldruck",
+      "scholastik",
+      "gotik",
+      "humanismus"
+    ],
+    "tags": [
+      "艺术",
+      "文字",
+      "教育",
+      "文学",
+      "印刷术",
+      "大学"
+    ]
+  }
+]
