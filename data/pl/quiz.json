@@ -1,0 +1,2340 @@
+[
+  {
+    "id": "q-absolutismus-aufklaerung-01",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Który traktat pokojowy zakończył wojnę trzydziestoletnią w 1648 roku?",
+    "choices": [
+      "Pokój augsburski",
+      "Pokój utrechcki",
+      "Pokój westfalski",
+      "Pokój hubertusburski"
+    ],
+    "answer": 2,
+    "explanation": "Pokój westfalski, wynegocjowany w Münster i Osnabrück, zakończył wojnę w 1648 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-02",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Który król uczynił Wersal siedzibą swojego dworu i był znany jako Król Słońce?",
+    "choices": [
+      "Ludwik XIV",
+      "Ludwik XVI",
+      "Henryk IV",
+      "Franciszek I"
+    ],
+    "answer": 0,
+    "explanation": "Ludwik XIV przeniósł dwór do Wersalu w 1682 roku i jako Król Słońce stał się uosobieniem absolutyzmu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-03",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Co opisał Izaak Newton w swoich Principiach z 1687 roku?",
+    "choices": [
+      "Budowę atomu",
+      "Ewolucję gatunków",
+      "Krążenie krwi",
+      "Prawa ruchu i grawitacji"
+    ],
+    "answer": 3,
+    "explanation": "Za pomocą swoich praw ruchu i prawa powszechnego ciążenia Newton wyjaśnił ruch ciał na Ziemi i w przestrzeni kosmicznej.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-04",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Które miasto założył Piotr Wielki w 1703 roku jako nową stolicę Rosji?",
+    "choices": [
+      "Moskwę",
+      "Sankt Petersburg",
+      "Kijów",
+      "Nowogród"
+    ],
+    "answer": 1,
+    "explanation": "Sankt Petersburg nad Newą stał się stolicą w 1712 roku i uchodził za rosyjskie okno na Europę.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-05",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Które dwa mocarstwa stały po tej samej stronie w wojnie siedmioletniej (1756–1763)?",
+    "choices": [
+      "Francja i Prusy",
+      "Austria i Wielka Brytania",
+      "Prusy i Wielka Brytania",
+      "Rosja i Prusy"
+    ],
+    "answer": 2,
+    "explanation": "Prusy pod wodzą Fryderyka II i Wielka Brytania walczyły wspólnie przeciwko Austrii, Francji i Rosji.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-06",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Jakim hasłem Immanuel Kant podsumował program oświecenia?",
+    "choices": [
+      "Myślę, więc jestem",
+      "Miej odwagę posługiwać się własnym rozumem",
+      "Państwo to ja",
+      "Powrót do natury"
+    ],
+    "answer": 1,
+    "explanation": "W 1784 roku Kant określił oświecenie jako wyjście z zawinionej niedojrzałości i wybrał jako jego motto Sapere aude.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-07",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Dlaczego Galileusz został potępiony przez inkwizycję w 1633 roku?",
+    "choices": [
+      "Ponieważ wynalazł teleskop",
+      "Ponieważ przetłumaczył Biblię na włoski",
+      "Ponieważ bronił heliocentrycznej wizji wszechświata",
+      "Ponieważ odkrył grawitację"
+    ],
+    "answer": 2,
+    "explanation": "W swoim Dialogu z 1632 roku Galileusz popierał naukę Kopernika, że Ziemia krąży wokół Słońca; został zmuszony do odwołania swoich poglądów.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-08",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Co spotkało angielskiego króla Karola I w 1649 roku?",
+    "choices": [
+      "Uciekł do Francji",
+      "Został skazany przez parlament i stracony",
+      "Rozwiązał parlament na stałe",
+      "Został koronowany na cesarza"
+    ],
+    "answer": 1,
+    "explanation": "Po wojnie domowej sąd parlamentu skazał króla za zdradę stanu; został ścięty 30 stycznia 1649 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-09",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Jakie żądanie wiąże się z dziełem Monteskiusza O duchu praw (1748)?",
+    "choices": [
+      "Podział władzy",
+      "Zniesienie monarchii",
+      "Równouprawnienie kobiet",
+      "Zniesienie własności prywatnej"
+    ],
+    "answer": 0,
+    "explanation": "Monteskiusz domagał się rozdzielenia władzy ustawodawczej, wykonawczej i sądowniczej, tak aby wzajemnie się ograniczały.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-10",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Jaki był skutek edyktu z Fontainebleau z 1685 roku?",
+    "choices": [
+      "Założenie Royal Society",
+      "Przeniesienie dworu do Wersalu",
+      "Początek wojny o sukcesję hiszpańską",
+      "Ucieczka około 200 000 hugenotów z Francji"
+    ],
+    "answer": 3,
+    "explanation": "Ludwik XIV odwołał edykt nantejski i zakazał praktykowania religii protestanckiej; wielu hugenotów uciekło, między innymi do Brandenburgii.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-11",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Który kraj od 1639 roku niemal całkowicie odgrodził się od świata zewnętrznego i pozwalał handlować jedynie Holendrom na wyspie Deshima?",
+    "choices": [
+      "Chiny",
+      "Korea",
+      "Japonia",
+      "Syjam"
+    ],
+    "answer": 2,
+    "explanation": "Siogunat Tokugawa zakazał chrześcijaństwa i ograniczył handel zagraniczny do Nagasaki; polityka ta nosi nazwę sakoku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-12",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Jakie osiągnięcie wiąże się z fizyczką Émilie du Châtelet?",
+    "choices": [
+      "Odkrycie księżyców Jowisza",
+      "Francuski przekład i objaśnienie Principiów Newtona",
+      "Wynalezienie barometru",
+      "Wydanie Encyklopedii"
+    ],
+    "answer": 1,
+    "explanation": "Du Châtelet przetłumaczyła główne dzieło Newtona na francuski i dodała do niego komentarze; jej wersja jest do dziś uważana za autorytatywną.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-01",
+    "epochId": "antike-griechenland",
+    "question": "W którym mieście powstała pierwsza demokracja w VI i V wieku p.n.e.?",
+    "choices": [
+      "W Sparcie",
+      "W Atenach",
+      "W Koryncie",
+      "W Tebach"
+    ],
+    "answer": 1,
+    "explanation": "W Atenach reformy Klejstenesa położyły w 508 roku p.n.e. podwaliny pod rządy ludu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-02",
+    "epochId": "antike-griechenland",
+    "question": "Gdzie odbyły się pierwsze udokumentowane igrzyska olimpijskie w 776 roku p.n.e.?",
+    "choices": [
+      "W Atenach",
+      "W Delfach",
+      "W Olimpii",
+      "W Sparcie"
+    ],
+    "answer": 2,
+    "explanation": "Igrzyska odbywały się co cztery lata w Olimpii na Peloponezie ku czci Zeusa.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-03",
+    "epochId": "antike-griechenland",
+    "question": "Która bitwa zadecydowała o wyniku drugiej wojny perskiej na morzu w 480 roku p.n.e.?",
+    "choices": [
+      "Maraton",
+      "Termopile",
+      "Platejie",
+      "Salamina"
+    ],
+    "answer": 3,
+    "explanation": "Temistokles zwabił flotę perską do wąskiej zatoki pod Salaminą, gdzie zwyciężyły greckie triery.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-04",
+    "epochId": "antike-griechenland",
+    "question": "Kto wygrał wojnę peloponeską, która zakończyła się w 404 roku p.n.e.?",
+    "choices": [
+      "Sparta",
+      "Ateny",
+      "Persja",
+      "Macedonia"
+    ],
+    "answer": 0,
+    "explanation": "Dzięki perskim pieniądzom Sparta zbudowała flotę i zmusiła Ateny do kapitulacji w 404 roku p.n.e.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-05",
+    "epochId": "antike-griechenland",
+    "question": "Który filozof był nauczycielem Aleksandra Wielkiego?",
+    "choices": [
+      "Sokrates",
+      "Platon",
+      "Arystoteles",
+      "Pitagoras"
+    ],
+    "answer": 2,
+    "explanation": "Arystoteles nauczał młodego Aleksandra na dworze macedońskim, zanim założył Liceum w Atenach.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-06",
+    "epochId": "antike-griechenland",
+    "question": "Które wydarzenie uważa się za koniec epoki hellenistycznej?",
+    "choices": [
+      "Zniszczenie Koryntu w 146 roku p.n.e.",
+      "Śmierć Kleopatry i aneksję Egiptu w 30 roku p.n.e.",
+      "Śmierć Aleksandra w 323 roku p.n.e.",
+      "Bitwę pod Pydną w 168 roku p.n.e."
+    ],
+    "answer": 1,
+    "explanation": "Wraz z samobójstwem Kleopatry VII Egipt, ostatnie królestwo hellenistyczne, przeszedł pod panowanie Rzymu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-07",
+    "epochId": "antike-griechenland",
+    "question": "Jaką reformę przeprowadził Solon w Atenach około 594 roku p.n.e.?",
+    "choices": [
+      "Wprowadził ostracyzm",
+      "Nadał kobietom prawo głosu",
+      "Ogłosił się tyranem",
+      "Zniósł niewolę za długi"
+    ],
+    "answer": 3,
+    "explanation": "Solon umorzył długi i zakazał zniewalania obywateli za długi; podzielił obywateli na cztery klasy według majątku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-08",
+    "epochId": "antike-griechenland",
+    "question": "Kto dowodził 300 Spartanami pod Termopilami w 480 roku p.n.e.?",
+    "choices": [
+      "Leonidas",
+      "Temistokles",
+      "Miltiades",
+      "Perykles"
+    ],
+    "answer": 0,
+    "explanation": "Król Leonidas bronił przełęczy przed armią Kserksesa wraz ze swoimi Spartanami i sojusznikami, aż zginął każdy z nich.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-09",
+    "epochId": "antike-griechenland",
+    "question": "Którą poetkę z wyspy Lesbos Platon nazwał dziesiątą Muzą?",
+    "choices": [
+      "Aspazja",
+      "Safona",
+      "Antygona",
+      "Pytia"
+    ],
+    "answer": 1,
+    "explanation": "Około 600 roku p.n.e. Safona pisała pieśni o miłości i tęsknocie; z jej dziewięciu ksiąg zachowały się jedynie fragmenty.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-10",
+    "epochId": "antike-griechenland",
+    "question": "Którą świątynię zbudowano na Akropolu za czasów Peryklesa między 447 a 432 rokiem p.n.e.?",
+    "choices": [
+      "Świątynię Zeusa",
+      "Świątynię Apollina",
+      "Partenon",
+      "Erechtejon"
+    ],
+    "answer": 2,
+    "explanation": "Partenon, zbudowany przez architektów Iktinosa i Kallikratesa, poświęcono bogini Atenie; mieścił dwunastometrowy posąg dłuta Fidiasza.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-11",
+    "epochId": "antike-griechenland",
+    "question": "Jak nazywano wodzów Aleksandra, którzy po jego śmierci walczyli o jego imperium?",
+    "choices": [
+      "Eforowie",
+      "Strategowie",
+      "Archonci",
+      "Diadochowie"
+    ],
+    "answer": 3,
+    "explanation": "Diadochowie, czyli następcy, prowadzili wojny od 322 do 281 roku p.n.e.; na koniec powstały imperia Ptolemeuszy, Seleukidów i Antygonidów.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-12",
+    "epochId": "antike-griechenland",
+    "question": "Który uczony zginął w 212 roku p.n.e. podczas zdobycia Syrakuz przez Rzymian?",
+    "choices": [
+      "Euklides",
+      "Archimedes",
+      "Hipokrates",
+      "Herodot"
+    ],
+    "answer": 1,
+    "explanation": "Archimedes wspierał obronę swojego rodzinnego miasta machinami wojennymi; rzymski żołnierz zabił go wbrew rozkazom Marcellusa.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-01",
+    "epochId": "asien-altertum",
+    "question": "Kto założył perskie imperium Achemenidów około 550 roku p.n.e.?",
+    "choices": [
+      "Dariusz I",
+      "Kserkses I",
+      "Cyrus II",
+      "Kambyzes II"
+    ],
+    "answer": 2,
+    "explanation": "Cyrus II pokonał Medów, a następnie podbił Lidię i Babilon; Dariusz i Kserkses byli późniejszymi Wielkimi Królami.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-02",
+    "epochId": "asien-altertum",
+    "question": "Jaką naukę głosił Siddhartha Gautama w północnych Indiach?",
+    "choices": [
+      "Buddyzm",
+      "Konfucjanizm",
+      "Taoizm",
+      "Zoroastryzm"
+    ],
+    "answer": 0,
+    "explanation": "Jako Budda, czyli Przebudzony, Siddhartha Gautama stał się twórcą buddyzmu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-03",
+    "epochId": "asien-altertum",
+    "question": "Co między innymi ujednolicił Qin Shi Huang po zjednoczeniu Chin w 221 roku p.n.e.?",
+    "choices": [
+      "Religię",
+      "Język wszystkich prowincji",
+      "Kalendarz koczowników",
+      "Pismo, monety i miary"
+    ],
+    "answer": 3,
+    "explanation": "Pierwszy Cesarz wprowadził jednolite znaki pisma, monety, miary, wagi i szerokości osi, aby utrzymać razem imperium.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-04",
+    "epochId": "asien-altertum",
+    "question": "Jaki wynalazek przypisuje się chińskiemu urzędnikowi dworskiemu Cai Lunowi w 105 roku?",
+    "choices": [
+      "Kompas",
+      "Papier",
+      "Proch strzelniczy",
+      "Druk"
+    ],
+    "answer": 1,
+    "explanation": "W 105 roku Cai Lun opisał udoskonaloną metodę wytwarzania papieru z kory, konopi i szmat.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-05",
+    "epochId": "asien-altertum",
+    "question": "Jaka innowacja matematyczna powstała w Indiach za czasów imperium Guptów?",
+    "choices": [
+      "System pozycyjny z zerem",
+      "Twierdzenie Pitagorasa",
+      "Cyfry rzymskie",
+      "Tablica logarytmów"
+    ],
+    "answer": 0,
+    "explanation": "Indyjscy matematycy okresu Guptów opracowali system dziesiętny z cyfrą zero, który dotarł do Europy za pośrednictwem świata arabskiego.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-06",
+    "epochId": "asien-altertum",
+    "question": "Za panowania którego króla zbudowano Angkor Wat w XII wieku?",
+    "choices": [
+      "Aśoki",
+      "Kammu",
+      "Surjawarmana II",
+      "Czandragupty II"
+    ],
+    "answer": 2,
+    "explanation": "Khmerski król Surjawarman II kazał zbudować Angkor Wat jako świątynię ku czci Wisznu i jako swój własny grobowiec.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-07",
+    "epochId": "asien-altertum",
+    "question": "Któremu mędrcowi przypisuje się Tao Te King, podstawowy tekst taoizmu?",
+    "choices": [
+      "Konfucjuszowi",
+      "Laozi",
+      "Mengzi",
+      "Zhuangzi"
+    ],
+    "answer": 1,
+    "explanation": "Tao Te King uważane jest za dzieło legendarnego Laozi; Zhuangzi był późniejszym myślicielem taoistycznym, natomiast Konfucjusz i Mengzi reprezentowali konfucjanizm.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-08",
+    "epochId": "asien-altertum",
+    "question": "Jak nazywa się dzieło stratega Sun Tzu z okresu Walczących Królestw?",
+    "choices": [
+      "Księga Przemian",
+      "Dialogi konfucjańskie",
+      "Shiji",
+      "Sztuka wojny"
+    ],
+    "answer": 3,
+    "explanation": "Sztuka wojny Sun Tzu, w trzynastu rozdziałach, głosi, że najlepsze zwycięstwo odnosi się bez walki.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-09",
+    "epochId": "asien-altertum",
+    "question": "Co było niezwykłe w rządach Wu Zetian w latach 690–705?",
+    "choices": [
+      "Była jedyną kobietą w Chinach, która panowała samodzielnie jako cesarzowa",
+      "Założyła dynastię Tang",
+      "Zakazała buddyzmu w Chinach",
+      "Kazała stworzyć Terakotową Armię"
+    ],
+    "answer": 0,
+    "explanation": "W 690 roku Wu Zetian ogłosiła własną dynastię i jest jedyną kobietą w historii Chin, która sama nosiła tytuł cesarski.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-10",
+    "epochId": "asien-altertum",
+    "question": "Dlaczego Sutra Diamentowa z 868 roku jest tak ważna dla historii druku?",
+    "choices": [
+      "Została wydrukowana ruchomą czcionką metalową",
+      "Jest pierwszą księgą wykonaną z papieru",
+      "Jest najstarszym zachowanym drukowanym tekstem opatrzonym dokładną datą",
+      "Posłużyła Gutenbergowi za wzór"
+    ],
+    "answer": 2,
+    "explanation": "Kolofon zwoju, wydrukowanego z drewnianych klocków, podaje datę 11 maja 868 roku; jest to zatem najstarsza datowana drukowana księga na świecie.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-11",
+    "epochId": "asien-altertum",
+    "question": "Które imperium zastąpił Ardaszir I w Persji w 224 roku?",
+    "choices": [
+      "Imperium Achemenidów",
+      "Imperium Seleukidów",
+      "Imperium Kuszanów",
+      "Imperium Partów"
+    ],
+    "answer": 3,
+    "explanation": "W 224 roku Ardaszir I pokonał ostatniego króla Partów i założył imperium sasanidzkie, które przetrwało do 651 roku.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-12",
+    "epochId": "asien-altertum",
+    "question": "Kto napisał Shiji, pierwsze obszerne dzieło chińskiej historiografii, około 100 roku p.n.e.?",
+    "choices": [
+      "Cai Lun",
+      "Sima Qian",
+      "Zhang Qian",
+      "Xuanzang"
+    ],
+    "answer": 1,
+    "explanation": "Historyk dworski Sima Qian napisał Shiji w 130 rozdziałach; Cai Lun udoskonalił papier, Zhang Qian był posłem, a Xuanzang buddyjskim pielgrzymem.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Które wydarzenie wywołało pierwszą wojnę światową latem 1914 roku?",
+    "choices": [
+      "Zatopienie Lusitanii",
+      "Upadek cara",
+      "Zamach w Sarajewie",
+      "Bitwa pod Verdun"
+    ],
+    "answer": 2,
+    "explanation": "Zabójstwo austriackiego następcy tronu Franciszka Ferdynanda 28 czerwca 1914 roku w Sarajewie doprowadziło poprzez kryzys lipcowy do wojny.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-02",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Kto doprowadził bolszewików do władzy w rewolucji październikowej 1917 roku?",
+    "choices": [
+      "Lenin",
+      "Stalin",
+      "Trocki",
+      "Kiereński"
+    ],
+    "answer": 0,
+    "explanation": "Lenin powrócił z zesłania w kwietniu 1917 roku i w listopadzie poprowadził przewrót w Piotrogrodzie.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-03",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Którego dnia weszło w życie zawieszenie broni w Compiègne?",
+    "choices": [
+      "28 czerwca 1919 roku",
+      "9 listopada 1918 roku",
+      "1 sierpnia 1914 roku",
+      "11 listopada 1918 roku"
+    ],
+    "answer": 3,
+    "explanation": "Zawieszenie broni weszło w życie o godzinie 11 dnia 11 listopada 1918 roku i zakończyło walki na froncie zachodnim.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-04",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Które mocarstwo nigdy nie przystąpiło do Ligi Narodów, chociaż to jego prezydent ją zaproponował?",
+    "choices": [
+      "Francja",
+      "USA",
+      "Wielka Brytania",
+      "Japonia"
+    ],
+    "answer": 1,
+    "explanation": "Senat amerykański odrzucił członkostwo, chociaż Woodrow Wilson przedstawił zarys Ligi Narodów w swoich Czternastu punktach.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-05",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Która reforma NIE była częścią przekształcenia Turcji przez Atatürka?",
+    "choices": [
+      "Wprowadzenie alfabetu łacińskiego",
+      "Rozdział religii od państwa",
+      "Przywrócenie kalifatu",
+      "Prawo wyborcze dla kobiet"
+    ],
+    "answer": 2,
+    "explanation": "Atatürk zniósł kalifat w 1924 roku; pozostałe reformy przeprowadził w latach 20. i 30. XX wieku.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-06",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Przeciwko czemu był skierowany marsz solny Gandhiego z 1930 roku?",
+    "choices": [
+      "Przeciwko podziałowi Indii",
+      "Przeciwko poborowi do wojska",
+      "Przeciwko importowi brytyjskich tkanin",
+      "Przeciwko brytyjskiemu monopolowi na sól i podatkowi solnemu"
+    ],
+    "answer": 3,
+    "explanation": "Gandhi przemaszerował 385 kilometrów do morza i tam demonstracyjnie wydobył sól, co było zakazane przez prawo brytyjskie.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-07",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Dzięki jakiemu osiągnięciu Mustafa Kemal stał się znany w 1915 roku?",
+    "choices": [
+      "Obronie Gallipoli przed aliantami",
+      "Zdobyciu Bagdadu",
+      "Zwycięstwu pod Tannenbergiem",
+      "Zdobyciu Jerozolimy"
+    ],
+    "answer": 0,
+    "explanation": "Jako pułkownik Mustafa Kemal wraz ze swoimi wojskami utrzymał wzgórza półwyspu Gallipoli; alianci musieli się wycofać w styczniu 1916 roku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-08",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Jaka nowa waluta zakończyła hiperinflację w Niemczech w listopadzie 1923 roku?",
+    "choices": [
+      "Marka Rzeszy",
+      "Marka złota",
+      "Marka rentowa",
+      "Marka niemiecka"
+    ],
+    "answer": 2,
+    "explanation": "Marka rentowa, wprowadzona 15 listopada 1923 roku, ustabilizowała walutę; w 1924 roku zastąpiła ją marka Rzeszy.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-09",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Kto jako pierwsza kobieta wygłosił przemówienie w niemieckim parlamencie, 19 lutego 1919 roku?",
+    "choices": [
+      "Róża Luksemburg",
+      "Marie Juchacz",
+      "Käthe Kollwitz",
+      "Clara Zetkin"
+    ],
+    "answer": 1,
+    "explanation": "Socjaldemokratka Marie Juchacz przemawiała w Zgromadzeniu Narodowym w Weimarze i w tym samym roku założyła organizację dobroczynną Arbeiterwohlfahrt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-10",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Jaką szkołę sztuki, rzemiosła i wzornictwa założył Walter Gropius w Weimarze w 1919 roku?",
+    "choices": [
+      "Bauhaus",
+      "Akademię Werkbundu",
+      "Secesję",
+      "Szkołę Błękitnego Jeźdźca"
+    ],
+    "answer": 0,
+    "explanation": "Bauhaus przeniósł się do Dessau w 1925 roku i został zamknięty przez narodowych socjalistów w 1933 roku; jego wpływ na architekturę i wzornictwo trwa do dziś.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-11",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Co głosiła legenda ciosu w plecy po pierwszej wojnie światowej?",
+    "choices": [
+      "Że alianci złamali zawieszenie broni",
+      "Że cesarz zdradził armię",
+      "Że niepokonana na polu bitwy armia została zdradzona przez zaplecze i polityków",
+      "Że reparacje wymyśliła Francja"
+    ],
+    "answer": 2,
+    "explanation": "Hindenburg i Ludendorff rozpowszechniali tę legendę, aby ukryć własną odpowiedzialność za klęskę; służyła ona przeciwnikom republiki jako oręż propagandowy.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-01",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Jak nazywa się najstarszy znany system pisma na świecie, opracowany przez Sumerów?",
+    "choices": [
+      "Hieroglify",
+      "Pismo klinowe",
+      "Alfabet",
+      "Runy"
+    ],
+    "answer": 1,
+    "explanation": "Około 3200 roku p.n.e. Sumerowie wciskali klinowate znaki w gliniane tabliczki; stąd nazwa pismo klinowe, od łacińskiego słowa oznaczającego klin.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-02",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Jaka rzeka była linią życiową starożytnego Egiptu?",
+    "choices": [
+      "Eufrat",
+      "Indus",
+      "Tygrys",
+      "Nil"
+    ],
+    "answer": 3,
+    "explanation": "Coroczny wylew Nilu przynosił żyzny muł i czynił Egipt bogatym krajem rolniczym.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-03",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Z czego przede wszystkim znany jest babiloński król Hammurabi?",
+    "choices": [
+      "Ze swojego zbioru praw",
+      "Z budowy piramid",
+      "Z wynalezienia koła",
+      "Z podboju Egiptu"
+    ],
+    "answer": 0,
+    "explanation": "Około 1750 roku p.n.e. Hammurabi kazał spisać na steli około 280 przepisów prawnych, znanych jako Kodeks Hammurabiego.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-04",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Który faraon czcił wyłącznie tarczę słoneczną Aton i założył miasto Achetaton?",
+    "choices": [
+      "Ramzes II",
+      "Cheops",
+      "Echnaton",
+      "Tutanchamon"
+    ],
+    "answer": 2,
+    "explanation": "Echnaton zakazał dawnych kultów bogów i przeniósł stolicę do Achetaton, w pobliżu dzisiejszej Amarny.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-05",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Między którymi mocarstwami zawarto najstarszy zachowany traktat pokojowy po bitwie pod Kadesz?",
+    "choices": [
+      "Babilonem a Asyrią",
+      "Egiptem a Hetytami",
+      "Sumerem a Akadem",
+      "Egiptem a Nubią"
+    ],
+    "answer": 1,
+    "explanation": "Ramzes II i król hetycki Hattusili III uzgodnili pokój i wzajemną pomoc mniej więcej 15 lat po bitwie.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-06",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Które źródła dostarczają najstarszych dowodów chińskiego pisma?",
+    "choices": [
+      "Malowane zwoje jedwabne",
+      "Kamienne tablice Wielkiego Muru",
+      "Bambusowe księgi okresu Zhou",
+      "Kości wyroczne dynastii Shang"
+    ],
+    "answer": 3,
+    "explanation": "Królowie Shang wydrapywali swoje pytania do przodków na wołowych kościach i skorupach żółwi; te inskrypcje są najstarszymi chińskimi zapisami pisanymi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-07",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Kogo uważa się za pierwszą znaną z imienia autorkę w historii świata?",
+    "choices": [
+      "Nefertiti",
+      "Hatszepsut",
+      "Enheduannę",
+      "Fu Hao"
+    ],
+    "answer": 2,
+    "explanation": "Enheduanna, córka Sargona z Akadu i arcykapłanka w Ur, sama nazywa siebie autorką w swoich hymnach.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-08",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Który lud opracował około 1050 roku p.n.e. alfabet złożony z 22 liter, który Grecy później przejęli?",
+    "choices": [
+      "Fenicjanie",
+      "Hetyci",
+      "Asyryjczycy",
+      "Sumerowie"
+    ],
+    "answer": 0,
+    "explanation": "Fenicjanie z Tyru, Sydonu i Byblos uprościli pismo do 22 znaków spółgłoskowych; Grecy dodali samogłoski.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-09",
+    "epochId": "fruehe-hochkulturen",
+    "question": "O czym między innymi opowiada Epos o Gilgameszu?",
+    "choices": [
+      "O podboju Egiptu",
+      "O budowie piramid",
+      "O założeniu Babilonu",
+      "O poszukiwaniu nieśmiertelności przez króla"
+    ],
+    "answer": 3,
+    "explanation": "Po śmierci swojego przyjaciela Enkidu Gilgamesz odnajduje Utnapisztima, bohatera potopu, aby zdobyć wieczne życie, lecz mu się to nie udaje.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-10",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Która cywilizacja zbudowała pałace takie jak Knossos na Krecie?",
+    "choices": [
+      "Mykeńczycy",
+      "Minojczycy",
+      "Fenicjanie",
+      "Hetyci"
+    ],
+    "answer": 1,
+    "explanation": "Minojczycy, nazwani od legendarnego króla Minosa, stworzyli od około 2000 roku p.n.e. pierwszą wysoko rozwiniętą cywilizację w Europie.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-11",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Co było niezwykłe w postaci Fu Hao, małżonki króla Shang Wu Dinga?",
+    "choices": [
+      "Jako kobieta prowadziła armie do bitwy",
+      "Wynalazła chińskie pismo",
+      "Rządziła jako pierwsza cesarzowa Chin",
+      "Zbudowała pierwszy Wielki Mur"
+    ],
+    "answer": 0,
+    "explanation": "Kości wyroczne donoszą, że Fu Hao dowodziła wyprawami liczącymi tysiące żołnierzy; jej nienaruszony grobowiec odkryto w Anyang w 1976 roku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-12",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Gdzie leżało królestwo Kusz, którego król Piye podbił Egipt około 730 roku p.n.e.?",
+    "choices": [
+      "W Anatolii",
+      "W Mezopotamii",
+      "W Nubii, na terenie dzisiejszego Sudanu",
+      "W Etiopii nad Morzem Czerwonym"
+    ],
+    "answer": 2,
+    "explanation": "Kusz, ze stolicami w Napata, a później w Meroe, leżało na południe od Egiptu nad Nilem; jego królowie utworzyli XXV dynastię.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-01",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Jaki wynalazek uważa się za najważniejszą siłę napędową rewolucji przemysłowej?",
+    "choices": [
+      "Maszynę parową",
+      "Prasę drukarską",
+      "Telefon",
+      "Żarówkę"
+    ],
+    "answer": 0,
+    "explanation": "Maszyna parowa, udoskonalona przez Jamesa Watta, napędzała fabryki, lokomotywy i statki.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-02",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Kto napisał Manifest komunistyczny w 1848 roku wspólnie z Fryderykiem Engelsem?",
+    "choices": [
+      "Ferdynand Lassalle",
+      "Karol Marks",
+      "August Bebel",
+      "Włodzimierz Lenin"
+    ],
+    "answer": 1,
+    "explanation": "Karol Marks i Fryderyk Engels opublikowali Manifest w Londynie w lutym 1848 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-03",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "W którym roku powstało Cesarstwo Niemieckie?",
+    "choices": [
+      "1848",
+      "1866",
+      "1871",
+      "1888"
+    ],
+    "answer": 2,
+    "explanation": "18 stycznia 1871 roku Wilhelm I został ogłoszony cesarzem niemieckim w Sali Lustrzanej w Wersalu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-04",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Jaki był skutek restauracji Meiji z 1868 roku?",
+    "choices": [
+      "Chiny otworzyły swoje porty",
+      "Korea uzyskała niepodległość",
+      "Indie stały się brytyjską kolonią koronną",
+      "Japonia zmodernizowała się na wzór zachodni"
+    ],
+    "answer": 3,
+    "explanation": "Po upadku szogunatu Japonia stała się w ciągu jednego pokolenia potęgą przemysłową za panowania cesarza Meiji.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-05",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Który kontynent podzielono między mocarstwa europejskie na konferencji berlińskiej 1884/85?",
+    "choices": [
+      "Amerykę Południową",
+      "Azję",
+      "Afrykę",
+      "Australię"
+    ],
+    "answer": 2,
+    "explanation": "Konferencja ustaliła reguły przejmowania w posiadanie terytorium afrykańskiego i zapoczątkowała wyścig o Afrykę.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-06",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Który kraj musiał odstąpić Hongkong Wielkiej Brytanii po pierwszej wojnie opiumowej w 1842 roku?",
+    "choices": [
+      "Japonia",
+      "Chiny",
+      "Syjam",
+      "Wietnam"
+    ],
+    "answer": 1,
+    "explanation": "W traktacie nankińskim Chiny odstąpiły Hongkong i otworzyły pięć portów dla handlu brytyjskiego.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-07",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Który kraj jako pierwszy na świecie wprowadził prawo wyborcze dla kobiet na szczeblu ogólnokrajowym, w 1893 roku?",
+    "choices": [
+      "Wielka Brytania",
+      "Finlandia",
+      "Nowa Zelandia",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation": "Po petycji zebranej przez niemal 32 000 osób gubernator Nowej Zelandii podpisał ustawę wyborczą 19 września 1893 roku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-08",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Jaką książkę wydał Karol Darwin w 1859 roku?",
+    "choices": [
+      "O powstawaniu gatunków",
+      "Kapitał",
+      "Precz z bronią!",
+      "Wspomnienie Solferino"
+    ],
+    "answer": 0,
+    "explanation": "Główne dzieło Darwina wyjaśniało różnorodność życia poprzez ewolucję i dobór naturalny i wyprzedało się już pierwszego dnia.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-09",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Kto był właścicielem Wolnego Państwa Konga w latach 1885–1908?",
+    "choices": [
+      "Republika Francuska",
+      "Brytyjska Kompania Wschodnioindyjska",
+      "Cesarstwo Niemieckie",
+      "Król Leopold II Belgijski jako własność prywatną"
+    ],
+    "answer": 3,
+    "explanation": "Leopold II wyzyskiwał Kongo jako swoją prywatną własność; dopiero po międzynarodowym skandalu Belgia przejęła kolonię w 1908 roku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-10",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Jakie ubezpieczenie wprowadziło Cesarstwo Niemieckie w 1883 roku jako swoje pierwsze ubezpieczenie społeczne?",
+    "choices": [
+      "Ubezpieczenie na wypadek bezrobocia",
+      "Ubezpieczenie zdrowotne",
+      "Ubezpieczenie emerytalne",
+      "Ubezpieczenie pielęgnacyjne"
+    ],
+    "answer": 1,
+    "explanation": "Ubezpieczenie zdrowotne wprowadzono w 1883 roku, ubezpieczenie wypadkowe w 1884 roku, a ubezpieczenie starości i inwalidzkie w 1889 roku; ubezpieczenie na wypadek bezrobocia nastąpiło dopiero w 1927 roku.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-11",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Jakie doświadczenie skłoniło Henry'ego Dunanta do założenia Czerwonego Krzyża?",
+    "choices": [
+      "Widok rannych po bitwie pod Solferino w 1859 roku",
+      "Epidemia cholery w Hamburgu",
+      "Wojna krymska",
+      "Amerykańska wojna secesyjna"
+    ],
+    "answer": 0,
+    "explanation": "W 1859 roku Dunant był świadkiem cierpień rannych po bitwie pod Solferino i w swojej książce wezwał do tworzenia dobrowolnych towarzystw pomocy oraz konwencji ochronnej.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-12",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Jaki był skutek powstania sipajów z 1857 roku dla Indii?",
+    "choices": [
+      "Indie uzyskały niepodległość",
+      "Francja przejęła Bengal",
+      "Korona brytyjska przejęła władzę od Kompanii Wschodnioindyjskiej",
+      "Cesarz Mogołów ponownie rządził całymi Indiami"
+    ],
+    "answer": 2,
+    "explanation": "Po stłumieniu powstania Kompanię Wschodnioindyjską rozwiązano w 1858 roku, a Indie podporządkowano bezpośrednio Koronie brytyjskiej.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-01",
+    "epochId": "islamische-welt",
+    "question": "Które wydarzenie wyznacza początek kalendarza islamskiego?",
+    "choices": [
+      "Narodziny Mahometa",
+      "Hidżra do Medyny w 622 roku",
+      "Podbój Mekki w 630 roku",
+      "Założenie Bagdadu w 762 roku"
+    ],
+    "answer": 1,
+    "explanation": "Emigracja Mahometa z Mekki do Medyny w 622 roku została ustalona przez kalifa Umara jako początek kalendarza islamskiego.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-02",
+    "epochId": "islamische-welt",
+    "question": "Kto pokonał armię arabsko-berberyjską pod Tours i Poitiers w 732 roku?",
+    "choices": [
+      "Karol Wielki",
+      "Chlodwig",
+      "Pepin Mały",
+      "Karol Młot"
+    ],
+    "answer": 3,
+    "explanation": "W 732 roku frankijski majordom Karol Młot powstrzymał posuwanie się wojsk muzułmańskich na północ.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-03",
+    "epochId": "islamische-welt",
+    "question": "Która dynastia założyła miasto Bagdad w 762 roku?",
+    "choices": [
+      "Abbasydzi",
+      "Umajjadzi",
+      "Fatymidzi",
+      "Osmanowie"
+    ],
+    "answer": 0,
+    "explanation": "W 762 roku kalif abbasydzki al-Mansur kazał zbudować okrągłe miasto Bagdad nad Tygrysem jako swoją nową stolicę.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-04",
+    "epochId": "islamische-welt",
+    "question": "Które dzieło rozsławiło Ibn Sinę (Awicennę) w Europie aż do XVII wieku?",
+    "choices": [
+      "Rihla",
+      "Księga tysiąca i jednej nocy",
+      "Kanon medycyny",
+      "Księga algebry"
+    ],
+    "answer": 2,
+    "explanation": "W przekładzie łacińskim Kanon medycyny Ibn Siny był przez wieki najważniejszym podręcznikiem medycyny na europejskich uniwersytetach.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-05",
+    "epochId": "islamische-welt",
+    "question": "W którym roku Saladyn odbił Jerozolimę z rąk krzyżowców?",
+    "choices": [
+      "1099",
+      "1187",
+      "1258",
+      "1291"
+    ],
+    "answer": 1,
+    "explanation": "Po zwycięstwie pod Hattin Saladyn zdobył Jerozolimę 2 października 1187 roku; podbój przez pierwszą krucjatę miał miejsce w 1099 roku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-06",
+    "epochId": "islamische-welt",
+    "question": "Kto zniszczył Bagdad w 1258 roku i zakończył kalifat Abbasydów?",
+    "choices": [
+      "Krzyżowcy",
+      "Seldżukowie",
+      "Mamelucy",
+      "Mongołowie pod wodzą Hulagu"
+    ],
+    "answer": 3,
+    "explanation": "Mongolska armia Hulagu, wnuka Czyngis-chana, zdobyła Bagdad w 1258 roku i kazała stracić ostatniego kalifa abbasydzkiego.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-07",
+    "epochId": "islamische-welt",
+    "question": "Które wydarzenie z 680 roku pozostaje do dziś centralne dla szyitów?",
+    "choices": [
+      "Bitwa pod Badr",
+      "Śmierć Husajna pod Karbalą",
+      "Założenie Kairu",
+      "Bitwa pod Manzikertem"
+    ],
+    "answer": 1,
+    "explanation": "Husajn, wnuk Proroka, zginął pod Karbalą w 680 roku z rąk wojsk kalifa umajjadzkiego Jazida; szyici co roku upamiętniają jego śmierć w dniu Aszury.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-08",
+    "epochId": "islamische-welt",
+    "question": "Skąd pochodzi słowo algebra?",
+    "choices": [
+      "Od nazwy miasta Bagdad",
+      "Z greki",
+      "Od nazwiska matematyka al-Chwarizmiego",
+      "Od tytułu dzieła rachunkowego al-Chwarizmiego"
+    ],
+    "answer": 3,
+    "explanation": "Dzieło al-Chwarizmiego o rachowaniu przez uzupełnianie i równoważenie, po arabsku al-dżabr, dało nazwę algebrze; z kolei jego własne nazwisko dało początek słowu algorytm.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-09",
+    "epochId": "islamische-welt",
+    "question": "Która dynastia założyła miasto Kair w 969 roku?",
+    "choices": [
+      "Fatymidzi",
+      "Abbasydzi",
+      "Seldżukowie",
+      "Ajjubidzi"
+    ],
+    "answer": 0,
+    "explanation": "Szyiccy Fatymidzi podbili Egipt w 969 roku i założyli pałacowe miasto al-Kahira, które stało się Kairem; budowę meczetu al-Azhar rozpoczęto w 970 roku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-10",
+    "epochId": "islamische-welt",
+    "question": "Jaki był skutek bitwy pod Manzikertem w 1071 roku?",
+    "choices": [
+      "Mongołowie podbili Bagdad",
+      "Krzyżowcy zajęli Jerozolimę",
+      "Plemiona tureckie wtargnęły do Anatolii",
+      "Umajjadzi utracili Hiszpanię"
+    ],
+    "answer": 2,
+    "explanation": "Po zwycięstwie Seldżuków nad Bizancjum plemiona tureckie osiedliły się w Azji Mniejszej, gdzie powstał sułtanat Rum, a później Imperium Osmańskie.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-11",
+    "epochId": "islamische-welt",
+    "question": "Kto ufundował w 859 roku meczet al-Karawijjin w Fezie, z którego rozwinął się jeden z najstarszych uniwersytetów na świecie?",
+    "choices": [
+      "Aisza bint Abi Bakr",
+      "Fatima al-Fihri",
+      "Rabija z Basry",
+      "Szadżar ad-Durr"
+    ],
+    "answer": 1,
+    "explanation": "Fatima al-Fihri, córka kupca, sfinansowała budowę meczetu z odziedziczonego majątku; Uniwersytet al-Karawijjin istnieje do dziś.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-12",
+    "epochId": "islamische-welt",
+    "question": "Co wydarzyło się w Grenadzie 2 stycznia 1492 roku?",
+    "choices": [
+      "Ukończono budowę Alhambry",
+      "Kolumb wyruszył do Ameryki",
+      "Timur zdobył miasto",
+      "Ostatni emir przekazał miasto Królom Katolickim"
+    ],
+    "answer": 3,
+    "explanation": "Wraz z kapitulacją Grenady przez Muhammada XII, zwanego Boabdilem, przed Izabelą i Ferdynandem, po niemal 800 latach zakończyły się rządy muzułmańskie w Hiszpanii.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-01",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "W którym roku upadł mur berliński?",
+    "choices": [
+      "1989",
+      "1961",
+      "1990",
+      "1991"
+    ],
+    "answer": 0,
+    "explanation": "9 listopada 1989 roku NRD otworzyła przejścia graniczne; zjednoczenie nastąpiło 3 października 1990 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-02",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Który kryzys postawił świat na krawędzi wojny nuklearnej w 1962 roku?",
+    "choices": [
+      "Kryzys sueski",
+      "Kryzys kubański",
+      "Blokada Berlina",
+      "Kryzys naftowy"
+    ],
+    "answer": 1,
+    "explanation": "Radzieckie rakiety na Kubie doprowadziły w październiku 1962 roku do trwającej trzynaście dni konfrontacji między Kennedym a Chruszczowem.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-03",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Kto został prezydentem w pierwszych wolnych wyborach w Republice Południowej Afryki w 1994 roku?",
+    "choices": [
+      "Desmond Tutu",
+      "Frederik de Klerk",
+      "Nelson Mandela",
+      "Thabo Mbeki"
+    ],
+    "answer": 2,
+    "explanation": "Nelson Mandela, który spędził 27 lat w więzieniu, został pierwszym czarnoskórym prezydentem Republiki Południowej Afryki po zwycięstwie wyborczym ANC.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-04",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Jaką metodą Mahatma Gandhi zdobył niepodległość dla Indii?",
+    "choices": [
+      "Zbrojną wojną partyzancką",
+      "Sojuszem z Japonią",
+      "Negocjacjami z Ligą Narodów",
+      "Niestosowaniem przemocy i obywatelskim nieposłuszeństwem"
+    ],
+    "answer": 3,
+    "explanation": "Gandhi polegał na bojkotach, marszach takich jak marsz solny oraz niestosowaniu przemocy wobec władzy brytyjskiej.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-05",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Jakie koncepcje reform wiążą się z Michaiłem Gorbaczowem?",
+    "choices": [
+      "Głasnost i pierestrojka",
+      "New Deal i Fair Deal",
+      "Wielki Skok Naprzód i rewolucja kulturalna",
+      "Plan Marshalla i doktryna Trumana"
+    ],
+    "answer": 0,
+    "explanation": "Za pomocą głasnosti, czyli jawności, i pierestrojki, czyli przebudowy, Gorbaczow próbował od 1985 roku zreformować Związek Radziecki.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-06",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Które wydarzenie wywołało globalny kryzys finansowy w 2008 roku?",
+    "choices": [
+      "Przystąpienie Chin do Światowej Organizacji Handlu",
+      "Wprowadzenie euro",
+      "Upadek banku Lehman Brothers",
+      "Brexit"
+    ],
+    "answer": 2,
+    "explanation": "Bankructwo banku Lehman Brothers 15 września 2008 roku wstrząsnęło światowym systemem finansowym.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-07",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Jak mocarstwa zachodnie odpowiedziały na radziecką blokadę zachodniego Berlina w 1948 roku?",
+    "choices": [
+      "Wycofały swoje wojska z Berlina",
+      "Zaopatrywały miasto za pomocą mostu powietrznego",
+      "Przełamały blokadę czołgami",
+      "Nałożyły blokadę morską na Związek Radziecki"
+    ],
+    "answer": 1,
+    "explanation": "Przez niemal rok amerykańskie i brytyjskie samoloty dostarczały do zachodniego Berlina węgiel, żywność i lekarstwa, aż Stalin zniósł blokadę w maju 1949 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-08",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Dlaczego rok 1960 nazywany jest Rokiem Afryki?",
+    "choices": [
+      "Ponieważ zakończył się apartheid w RPA",
+      "Ponieważ założono Unię Afrykańską",
+      "Ponieważ znacjonalizowano Kanał Sueski",
+      "Ponieważ 17 kolonii afrykańskich uzyskało niepodległość"
+    ],
+    "answer": 3,
+    "explanation": "W ciągu jednego roku niepodległość uzyskało 17 państw, w tym niemal wszystkie kolonie francuskie oraz Nigeria, Somalia i Kongo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-09",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Jaki ruch wyłonił się z konferencji w Bandungu z 1955 roku?",
+    "choices": [
+      "Ruch Państw Niezaangażowanych",
+      "Układ Warszawski",
+      "Organizacja Krajów Eksportujących Ropę Naftową",
+      "Europejska Wspólnota Gospodarcza"
+    ],
+    "answer": 0,
+    "explanation": "W Bandungu 29 państw azjatyckich i afrykańskich wezwało do wyboru własnej drogi między blokami; w 1961 roku założyły w Belgradzie Ruch Państw Niezaangażowanych.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-10",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Co zrobiła Rosa Parks w 1955 roku, by wywołać bojkot autobusów w Montgomery?",
+    "choices": [
+      "Wygłosiła przemówienie przed Kongresem",
+      "Rozpoczęła strajk głodowy w więzieniu",
+      "Odmówiła ustąpienia miejsca białemu pasażerowi",
+      "Wniosła pozew przeciwko miastu Montgomery"
+    ],
+    "answer": 2,
+    "explanation": "Parks pozostała na miejscu w autobusie i została aresztowana; czarnoskóra ludność bojkotowała następnie miejskie autobusy przez 381 dni.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-11",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Za czym opowiada się polityka Deng Xiaopinga od 1978 roku?",
+    "choices": [
+      "Za rewolucją kulturalną",
+      "Za Wielkim Skokiem Naprzód",
+      "Za zerwaniem ze Związkiem Radzieckim",
+      "Za reformą i otwarciem na gospodarkę rynkową"
+    ],
+    "answer": 3,
+    "explanation": "Deng zezwolił na przedsiębiorczość prywatną, utworzył specjalne strefy ekonomiczne i otworzył Chiny na kapitał zagraniczny, lecz zachował niepodzielne rządy partii.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-12",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "W którym roku zakończyła się wojna wietnamska wraz ze zdobyciem Sajgonu przez Północ?",
+    "choices": [
+      "1968",
+      "1975",
+      "1973",
+      "1979"
+    ],
+    "answer": 1,
+    "explanation": "USA wycofały się w 1973 roku; 30 kwietnia 1975 roku wojska północnowietnamskie zajęły Sajgon i zjednoczyły kraj pod rządami komunistycznymi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-01",
+    "epochId": "mittelalter",
+    "question": "Kto został koronowany na cesarza w Rzymie w Boże Narodzenie roku 800?",
+    "choices": [
+      "Chlodwig",
+      "Otton Wielki",
+      "Pepin Mały",
+      "Karol Wielki"
+    ],
+    "answer": 3,
+    "explanation": "Papież Leon III koronował Karola Wielkiego na cesarza w Bazylice Świętego Piotra 25 grudnia 800 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-02",
+    "epochId": "mittelalter",
+    "question": "Które wydarzenie uważa się za początek epoki wikingów?",
+    "choices": [
+      "Napad na klasztor Lindisfarne w 793 roku",
+      "Założenie Dublina",
+      "Odkrycie Grenlandii",
+      "Bitwa pod Hastings"
+    ],
+    "answer": 0,
+    "explanation": "Napad na klasztor Lindisfarne w 793 roku wywołał grozę w całej Europie i wyznacza początek epoki wikingów.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-03",
+    "epochId": "mittelalter",
+    "question": "Co ustanawiała Wielka Karta Swobód z 1215 roku?",
+    "choices": [
+      "Podział imperium frankijskiego",
+      "Wybór papieża przez kardynałów",
+      "Że król podlega prawu i nie może nakładać podatków bez zgody",
+      "Założenie Uniwersytetu Oksfordzkiego"
+    ],
+    "answer": 2,
+    "explanation": "Król Jan musiał zapewnić baronów, że nikogo nie uwięzi się bez wyroku i że żaden podatek nie zostanie nałożony bez zgody rady.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-04",
+    "epochId": "mittelalter",
+    "question": "Jakim imperium rządził Mansa Musa, który odbył pielgrzymkę do Mekki w 1324 roku?",
+    "choices": [
+      "Imperium Ghany",
+      "Imperium Mali",
+      "Imperium Songhaj",
+      "Królestwem Aksum"
+    ],
+    "answer": 1,
+    "explanation": "Mansa Musa był królem zachodnioafrykańskiego imperium Mali, które kontrolowało handel złotem przez Saharę.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-05",
+    "epochId": "mittelalter",
+    "question": "Które miasto wyzwoliła Joanna d'Arc w 1429 roku podczas wojny stuletniej?",
+    "choices": [
+      "Paryż",
+      "Reims",
+      "Calais",
+      "Orlean"
+    ],
+    "answer": 3,
+    "explanation": "W maju 1429 roku Joanna d'Arc zakończyła angielskie oblężenie Orleanu, po czym poprowadziła delfina do Reims na koronację.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-06",
+    "epochId": "mittelalter",
+    "question": "Który sułtan podbił Konstantynopol w 1453 roku?",
+    "choices": [
+      "Mehmed II",
+      "Osman I",
+      "Sulejman Wspaniały",
+      "Bajazyd I"
+    ],
+    "answer": 0,
+    "explanation": "Mehmed II, zwany Zdobywcą, zajął Konstantynopol 29 maja 1453 roku i uczynił z niego stolicę Imperium Osmańskiego.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-07",
+    "epochId": "mittelalter",
+    "question": "Który król czekał jako pokutnik przed zamkiem Canossa w 1077 roku na przebaczenie papieża?",
+    "choices": [
+      "Otton I",
+      "Henryk IV",
+      "Fryderyk Barbarossa",
+      "Karol Łysy"
+    ],
+    "answer": 1,
+    "explanation": "Podczas sporu o inwestyturę Henryk IV prosił papieża Grzegorza VII w Canossie o zdjęcie ekskomuniki, którą papież nałożył na niego w 1076 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-08",
+    "epochId": "mittelalter",
+    "question": "Co ustanawiał traktat w Verdun w 843 roku?",
+    "choices": [
+      "Koronację cesarską Ottona I",
+      "Koniec najazdów wikingów",
+      "Podział imperium frankijskiego między wnuków Karola Wielkiego",
+      "Założenie Hanzy"
+    ],
+    "answer": 2,
+    "explanation": "W Verdun Karol Łysy, Ludwik Niemiecki i Lotar I podzielili imperium frankijskie na królestwo zachodnie, wschodnie i środkowe.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-09",
+    "epochId": "mittelalter",
+    "question": "Który cesarz kazał zbudować Hagię Sofię w Konstantynopolu w latach 532–537?",
+    "choices": [
+      "Justynian I",
+      "Konstantyn Wielki",
+      "Karol Wielki",
+      "Bazyli II"
+    ],
+    "answer": 0,
+    "explanation": "Justynian I kazał odbudować Hagię Sofię po powstaniu Nika i poświęcił ją w 537 roku; przez niemal tysiąc lat była największym kościołem świata.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-10",
+    "epochId": "mittelalter",
+    "question": "Kogo pokonał Otton I na Lechowym Polu koło Augsburga w 955 roku?",
+    "choices": [
+      "Wikingów",
+      "Sasów",
+      "Arabów",
+      "Węgrów"
+    ],
+    "answer": 3,
+    "explanation": "W 955 roku Otton I pokonał węgierskich wojowników konnych, którzy od dziesięcioleci pustoszyli Europę Środkową, a w 962 roku został koronowany na cesarza.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-11",
+    "epochId": "mittelalter",
+    "question": "Który władca przekształcił miasto-państwo Cusco w imperium Inków od około 1438 roku?",
+    "choices": [
+      "Montezuma",
+      "Pachacuti",
+      "Atahualpa",
+      "Mansa Musa"
+    ],
+    "answer": 1,
+    "explanation": "Pachacuti pokonał lud Chanka, rozbudował Cusco na stolicę i założył imperium Tawantinsuyu; Atahualpa był ostatnim Inką przed podbojem hiszpańskim.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-12",
+    "epochId": "mittelalter",
+    "question": "Z czego przede wszystkim żyło kamienne miasto Wielkie Zimbabwe w południowej Afryce między XIII a XV wiekiem?",
+    "choices": [
+      "Z handlu solą przez Saharę",
+      "Z handlu jedwabiem z Bizancjum",
+      "Z handlu złotem i kością słoniową z Wybrzeżem Suahili",
+      "Z handlu futrami z Nowogrodem"
+    ],
+    "answer": 2,
+    "explanation": "Władcy Wielkiego Zimbabwe kontrolowali złoża złota i stada bydła oraz handlowali przez porty takie jak Kilwa i Sofala aż po Indie i Chiny.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-01",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Jaki wynalazek przypisuje się Janowi Gutenbergowi około 1450 roku?",
+    "choices": [
+      "Teleskop",
+      "Druk ruchomą czcionką",
+      "Kompas",
+      "Zegar mechaniczny"
+    ],
+    "answer": 1,
+    "explanation": "W Moguncji Gutenberg opracował druk za pomocą pojedynczo odlewanych liter oraz prasę drukarską.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-02",
+    "epochId": "renaissance-entdeckungen",
+    "question": "W którym roku Krzysztof Kolumb dotarł do Ameryki?",
+    "choices": [
+      "1453",
+      "1498",
+      "1517",
+      "1492"
+    ],
+    "answer": 3,
+    "explanation": "Kolumb wylądował na wyspie na Bahamach 12 października 1492 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-03",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Przeciwko czemu przede wszystkim skierowane były 95 tez Lutra z 1517 roku?",
+    "choices": [
+      "Przeciwko sprzedaży odpustów",
+      "Przeciwko poddaństwu",
+      "Przeciwko drukowi",
+      "Przeciwko przekładowi Biblii"
+    ],
+    "answer": 0,
+    "explanation": "Luter krytykował praktykę wykupywania się od kary za grzech poprzez zakup listów odpustowych.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-04",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Jakie imperium podbili Hiszpanie w 1521 roku wraz z upadkiem Tenochtitlan?",
+    "choices": [
+      "Imperium Inków",
+      "Państwo Majów",
+      "Imperium Azteków",
+      "Imperium Wielkich Mogołów"
+    ],
+    "answer": 2,
+    "explanation": "Tenochtitlan było stolicą Azteków; Hernán Cortés podbił je po kilkumiesięcznym oblężeniu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-05",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Jaką innowację przedstawił Mikołaj Kopernik w swoim dziele z 1543 roku?",
+    "choices": [
+      "Ziemia jest płaska jak tarcza",
+      "Ziemia krąży wokół Słońca",
+      "Planety poruszają się po elipsach",
+      "Wszechświat jest nieskończony"
+    ],
+    "answer": 1,
+    "explanation": "Kopernik umieścił Słońce w centrum; eliptyczne orbity odkrył dopiero Kepler.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-06",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Jaki był cel soboru trydenckiego (1545–1563)?",
+    "choices": [
+      "Wybór nowego papieża",
+      "Pojednanie z Kościołem prawosławnym",
+      "Potępienie Kopernika",
+      "Wyjaśnienie doktryny katolickiej w odpowiedzi na reformację"
+    ],
+    "answer": 3,
+    "explanation": "Sobór potwierdził doktrynę katolicką przeciwko protestantom i podjął decyzje o wewnętrznych reformach kościoła.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-07",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Co ustanawiał traktat z Tordesillas w 1494 roku?",
+    "choices": [
+      "Pokój między Anglią a Hiszpanią",
+      "Uznanie reformacji",
+      "Granicę między Francją a Rzeszą",
+      "Podział świata między Hiszpanię a Portugalię"
+    ],
+    "answer": 3,
+    "explanation": "Wzdłuż linii na Atlantyku nowe ziemie na zachód miały należeć do Hiszpanii, a na wschód do Portugalii; dlatego Brazylia przypadła Portugalii.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-08",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Jaką zasadę ustanawiał pokój augsburski z 1555 roku?",
+    "choices": [
+      "Władca terytorialny określa wyznanie swojego terytorium",
+      "Każdy poddany swobodnie wybiera swoją religię",
+      "W Rzeszy dozwolony jest tylko katolicyzm",
+      "Cesarz decyduje o wyznaniu wszystkich książąt"
+    ],
+    "answer": 0,
+    "explanation": "Każdemu stanowi Rzeszy pozwolono wybrać wyznanie katolickie lub luterańskie dla swojego terytorium; wyznawcom innej wiary pozwolono emigrować.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-09",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Które miasto było ośrodkiem nauki w imperium Songhaj za panowania Askii Muhammada?",
+    "choices": [
+      "Kair",
+      "Zanzibar",
+      "Timbuktu",
+      "Wielkie Zimbabwe"
+    ],
+    "answer": 2,
+    "explanation": "Timbuktu nad Nigrem, z meczetem Sankore, było ośrodkiem nauki islamskiej i handlu przez Saharę.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-10",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Kto założył zakon jezuitów w 1540 roku?",
+    "choices": [
+      "Jan Kalwin",
+      "Ignacy Loyola",
+      "Erazm z Rotterdamu",
+      "Tomasz More"
+    ],
+    "answer": 1,
+    "explanation": "Były żołnierz Ignacy Loyola założył Towarzystwo Jezusowe, które zostało zatwierdzone przez papieża w 1540 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-11",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Co wydarzyło się na sejmie w Wormacji w 1521 roku?",
+    "choices": [
+      "Luter odmówił odwołania swoich nauk",
+      "Karol V został wybrany cesarzem",
+      "Zawarto pokój augsburski",
+      "Luter został stracony"
+    ],
+    "answer": 0,
+    "explanation": "Przed cesarzem Karolem V Luter oświadczył, że może odwołać swoje nauki jedynie, jeśli zostaną obalone na podstawie Biblii; został wówczas obłożony banicją.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-12",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Który władca rządził imperium Wielkich Mogołów w Indiach od 1556 roku i był znany z tolerancji religijnej?",
+    "choices": [
+      "Sulejman Wspaniały",
+      "Oda Nobunaga",
+      "Akbar",
+      "Babur"
+    ],
+    "answer": 2,
+    "explanation": "Akbar zniósł specjalny podatek dla niemuzułmanów i pozwalał przedstawicielom wszystkich religii dyskutować na swoim dworze.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-01",
+    "epochId": "revolutionen",
+    "question": "Które wydarzenie uważa się za początek rewolucji francuskiej?",
+    "choices": [
+      "Egzekucja Ludwika XVI",
+      "Zdobycie Bastylii",
+      "Koronacja cesarska Napoleona",
+      "Bitwa narodów pod Lipskiem"
+    ],
+    "answer": 1,
+    "explanation": "Zdobycie Bastylii 14 lipca 1789 roku uważa się za początek rewolucji; 14 lipca jest dziś francuskim świętem narodowym.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-02",
+    "epochId": "revolutionen",
+    "question": "Które kolonie ogłosiły niepodległość od Wielkiej Brytanii w 1776 roku?",
+    "choices": [
+      "Kolonie hiszpańskie w Ameryce Południowej",
+      "Francuska kolonia Saint-Domingue",
+      "Portugalska kolonia Brazylia",
+      "Trzynaście kolonii brytyjskich w Ameryce Północnej"
+    ],
+    "answer": 3,
+    "explanation": "Trzynaście kolonii na wschodnim wybrzeżu Ameryki Północnej założyło Stany Zjednoczone Ameryki.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-03",
+    "epochId": "revolutionen",
+    "question": "Kto przewodził powstańcom w rewolucji haitańskiej?",
+    "choices": [
+      "Toussaint Louverture",
+      "Simón Bolívar",
+      "Maksymilian Robespierre",
+      "José de San Martín"
+    ],
+    "answer": 0,
+    "explanation": "Były niewolnik Toussaint Louverture stał się najważniejszym przywódcą powstania w Saint-Domingue.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-04",
+    "epochId": "revolutionen",
+    "question": "Czym był Kodeks cywilny z 1804 roku?",
+    "choices": [
+      "Konstytucją imperium",
+      "Traktatem pokojowym z Austrią",
+      "Jednolitym kodeksem cywilnym dla Francji",
+      "Ustawą wprowadzającą pobór do wojska"
+    ],
+    "answer": 2,
+    "explanation": "Kodeks cywilny ujednolicił prawo cywilne i ustanowił równość wobec prawa, własność i swobodę zawierania umów.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-05",
+    "epochId": "revolutionen",
+    "question": "Który mąż stanu ukształtował kongres wiedeński 1814–1815 najbardziej decydująco?",
+    "choices": [
+      "Talleyrand",
+      "Metternich",
+      "Bismarck",
+      "Hardenberg"
+    ],
+    "answer": 1,
+    "explanation": "Austriacki minister spraw zagranicznych Metternich przewodniczył kongresowi i uosabiał politykę restauracji.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-06",
+    "epochId": "revolutionen",
+    "question": "Dlaczego Zgromadzenie Narodowe we Frankfurcie poniosło porażkę w 1849 roku?",
+    "choices": [
+      "Nie zdołało uzgodnić żadnych praw podstawowych",
+      "Napoleon III wkroczył do Frankfurtu",
+      "Austria przyłączyła się do nowego cesarstwa",
+      "Król pruski odmówił przyjęcia korony cesarskiej"
+    ],
+    "answer": 3,
+    "explanation": "W 1849 roku Fryderyk Wilhelm IV odmówił przyjęcia korony cesarskiej oferowanej mu przez parlament; Zgromadzenie Narodowe wkrótce potem się rozpadło.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-07",
+    "epochId": "revolutionen",
+    "question": "W którym mieście uchwalono konstytucję Stanów Zjednoczonych w 1787 roku?",
+    "choices": [
+      "W Filadelfii",
+      "W Waszyngtonie",
+      "W Nowym Jorku",
+      "W Bostonie"
+    ],
+    "answer": 0,
+    "explanation": "Od maja do września 1787 roku 55 delegatów obradowało nad konstytucją w Filadelfii pod przewodnictwem George'a Washingtona; stolica Waszyngton powstała dopiero później.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-08",
+    "epochId": "revolutionen",
+    "question": "Co osiągnęły paryżanki dzięki swojemu marszowi na Wersal w październiku 1789 roku?",
+    "choices": [
+      "Prawo wyborcze dla kobiet",
+      "Zniesienie monarchii",
+      "Przeniesienie króla do Paryża",
+      "Uwolnienie więźniów politycznych"
+    ],
+    "answer": 2,
+    "explanation": "Kobiety zmusiły Ludwika XVI do podpisania Deklaracji Praw Człowieka i Obywatela oraz do przeniesienia się z rodziną z Wersalu do Paryża, gdzie stanął na widoku ludu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-09",
+    "epochId": "revolutionen",
+    "question": "Które znalezisko z egipskiej wyprawy Napoleona umożliwiło rozszyfrowanie hieroglifów?",
+    "choices": [
+      "Zwoje z Aleksandrii",
+      "Kamień z Rosetty",
+      "Grobowiec Tutanchamona",
+      "Tabliczki z Amarny"
+    ],
+    "answer": 1,
+    "explanation": "Kamień z Rosetty, odnaleziony w 1799 roku, zawiera ten sam tekst w hieroglifach, piśmie demotycznym i grece; dzięki niemu Champollion dokonał rozszyfrowania w 1822 roku.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-10",
+    "epochId": "revolutionen",
+    "question": "Co wydarzyło się 6 sierpnia 1806 roku?",
+    "choices": [
+      "Napoleon koronował się na cesarza",
+      "Prusy przegrały bitwę pod Jeną",
+      "Założono Związek Reński",
+      "Franciszek II zrzekł się korony Świętego Cesarstwa Rzymskiego"
+    ],
+    "answer": 3,
+    "explanation": "Po założeniu Związku Reńskiego i ultimatum Napoleona Franciszek II ogłosił rozwiązanie liczącego ponad 800 lat cesarstwa.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-11",
+    "epochId": "revolutionen",
+    "question": "Czyje przybycie zadecydowało o wyniku bitwy pod Waterloo wieczorem 18 czerwca 1815 roku?",
+    "choices": [
+      "Rosyjskiej gwardii pod carem Aleksandrem",
+      "Armii austriackiej pod Schwarzenbergiem",
+      "Wojsk pruskich pod Blücherem",
+      "Hiszpańskich partyzantów"
+    ],
+    "answer": 2,
+    "explanation": "Armia Wellingtona wytrzymała cały dzień, aż przybyli Prusacy Blüchera i zmusili armię Napoleona do ucieczki.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-12",
+    "epochId": "revolutionen",
+    "question": "Jakie dzieło opublikowała Mary Wollstonecraft w 1792 roku?",
+    "choices": [
+      "Obronę praw kobiety",
+      "Deklarację Praw Kobiety i Obywatelki",
+      "Umowę społeczną",
+      "Frankensteina"
+    ],
+    "answer": 0,
+    "explanation": "W Obronie praw kobiety Wollstonecraft domagała się równego wykształcenia i praw obywatelskich dla kobiet; Deklaracja Praw Kobiety i Obywatelki jest dziełem Olympe de Gouges.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-01",
+    "epochId": "rom",
+    "question": "W którym roku Rzym miał zostać założony według legendy?",
+    "choices": [
+      "1000 rok p.n.e.",
+      "753 rok p.n.e.",
+      "509 rok p.n.e.",
+      "264 rok p.n.e."
+    ],
+    "answer": 1,
+    "explanation": "Rzymska tradycja podaje 753 rok p.n.e. jako rok założenia miasta przez Romulusa.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-02",
+    "epochId": "rom",
+    "question": "Przeciwko któremu miastu Rzym prowadził trzy wojny punickie?",
+    "choices": [
+      "Atenom",
+      "Aleksandrii",
+      "Kartaginie",
+      "Syrakuzom"
+    ],
+    "answer": 2,
+    "explanation": "Kartagina w Afryce Północnej była wielkim rywalem Rzymu i została zniszczona w 146 roku p.n.e.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-03",
+    "epochId": "rom",
+    "question": "Co wydarzyło się w Idy Marcowe 44 roku p.n.e.?",
+    "choices": [
+      "Zamordowano Cezara",
+      "Rzym zdobyli Galowie",
+      "August został cesarzem",
+      "Wybuchł Wezuwiusz"
+    ],
+    "answer": 0,
+    "explanation": "Senatorowie skupieni wokół Brutusa i Kasjusza zasztyletowali Cezara 15 marca 44 roku p.n.e.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-04",
+    "epochId": "rom",
+    "question": "Jak nazywa się forma rządów ustanowiona przez Augusta?",
+    "choices": [
+      "Tyrania",
+      "Dominat",
+      "Tetrarchia",
+      "Pryncypat"
+    ],
+    "answer": 3,
+    "explanation": "August rządził jako princeps, pierwszy wśród równych; stąd nazwa pryncypat.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-05",
+    "epochId": "rom",
+    "question": "Który cesarz przyznał chrześcijanom wolność wyznania w 313 roku?",
+    "choices": [
+      "Neron",
+      "Konstantyn",
+      "Dioklecjan",
+      "Trajan"
+    ],
+    "answer": 1,
+    "explanation": "W 313 roku Konstantyn i Licyniusz uzgodnili w Mediolanie swobodę praktykowania religii.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-06",
+    "epochId": "rom",
+    "question": "Kto obalił ostatniego cesarza zachodniorzymskiego w 476 roku?",
+    "choices": [
+      "Attyla",
+      "Alaryk",
+      "Odoaker",
+      "Teodoryk"
+    ],
+    "answer": 2,
+    "explanation": "Germański dowódca Odoaker obalił Romulusa Augustulusa i został królem Italii.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-07",
+    "epochId": "rom",
+    "question": "Czym było prawo XII tablic z około 450 roku p.n.e.?",
+    "choices": [
+      "Traktatem pokojowym z Kartaginą",
+      "Pierwszym pisanym kodeksem prawnym Rzymu",
+      "Ustawą przeciwko chrześcijanom",
+      "Konstytucją Augusta"
+    ],
+    "answer": 1,
+    "explanation": "Pod naciskiem plebejuszy prawo to spisano na dwunastu tablicach i wystawiono publicznie na Forum.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-08",
+    "epochId": "rom",
+    "question": "Kto przewodził największemu powstaniu niewolników starożytności w latach 73–71 p.n.e.?",
+    "choices": [
+      "Arminiusz",
+      "Wercyngetoryks",
+      "Spartakus",
+      "Krassus"
+    ],
+    "answer": 2,
+    "explanation": "Gladiator Spartakus zbiegł z Kapui i przewodził dziesiątkom tysięcy niewolników, aż Krassus pokonał go w 71 roku p.n.e.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-09",
+    "epochId": "rom",
+    "question": "Za którego cesarza Cesarstwo Rzymskie osiągnęło największy zasięg terytorialny w 117 roku?",
+    "choices": [
+      "Trajana",
+      "Nerona",
+      "Augusta",
+      "Dioklecjana"
+    ],
+    "answer": 0,
+    "explanation": "Trajan podbił Dację, Armenię i Mezopotamię; jego następca Hadrian ponownie zrezygnował z podbojów na wschodzie.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-10",
+    "epochId": "rom",
+    "question": "Co ustanawiała Constitutio Antoniniana cesarza Karakalli w 212 roku?",
+    "choices": [
+      "Podział imperium na cztery części",
+      "Zakaz kultów pogańskich",
+      "Przeniesienie stolicy do Konstantynopola",
+      "Obywatelstwo rzymskie dla niemal wszystkich wolnych mieszkańców imperium"
+    ],
+    "answer": 3,
+    "explanation": "Edykt uczynił milionami mieszkańców prowincji obywatelami rzymskimi; prawo rzymskie obowiązywało odtąd na terenie całego imperium.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-11",
+    "epochId": "rom",
+    "question": "Jaką formę rządów wprowadził Dioklecjan w 293 roku?",
+    "choices": [
+      "Pryncypat",
+      "Tetrarchię",
+      "Republikę",
+      "Triumwirat"
+    ],
+    "answer": 1,
+    "explanation": "W tetrarchii dwóch cesarzy i dwóch cesarzy młodszych wspólnie rządziło imperium, aby skuteczniej bronić jego granic.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-12",
+    "epochId": "rom",
+    "question": "Którą uczoną zamordował chrześcijański tłum w Aleksandrii w 415 roku?",
+    "choices": [
+      "Liwię",
+      "Kleopatrę",
+      "Hypatię",
+      "Agrypinę"
+    ],
+    "answer": 2,
+    "explanation": "Matematyczka i filozofka Hypatia znalazła się w centrum walki o władzę między prefektem miasta a biskupem Cyrylem i została zabita.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-01",
+    "epochId": "urgeschichte",
+    "question": "Na którym kontynencie pojawił się człowiek współczesny, Homo sapiens?",
+    "choices": [
+      "W Azji",
+      "W Europie",
+      "W Afryce",
+      "W Ameryce"
+    ],
+    "answer": 2,
+    "explanation": "Najstarsze skamieniałości Homo sapiens pochodzą z Afryki i mają około 300 000 lat.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-02",
+    "epochId": "urgeschichte",
+    "question": "Co rozumie się pod pojęciem rewolucji neolitycznej?",
+    "choices": [
+      "Przejście do rolnictwa, hodowli zwierząt i osiadłego trybu życia",
+      "Wynalezienie pisma",
+      "Migrację ludzi z Afryki",
+      "Pierwszą obróbkę żelaza"
+    ],
+    "answer": 0,
+    "explanation": "W neolicie ludzie zaczęli uprawiać rośliny i hodować zwierzęta oraz zamieszkiwać na stałe we wsiach.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-03",
+    "epochId": "urgeschichte",
+    "question": "Z czego znana jest jaskinia Lascaux we Francji?",
+    "choices": [
+      "Z najstarszych narzędzi kamiennych",
+      "Z malowideł zwierząt z epoki lodowcowej",
+      "Ze szkieletu neandertalczyka",
+      "Z pierwszych znalezisk zboża"
+    ],
+    "answer": 1,
+    "explanation": "W Lascaux ludzie namalowali na ścianach jaskini setki koni, tury i jelenie około 17 000 lat temu.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-04",
+    "epochId": "urgeschichte",
+    "question": "Jak pierwsi ludzie dotarli do Ameryki?",
+    "choices": [
+      "Statkiem przez Atlantyk",
+      "Przez most lądowy z Afryki",
+      "Łodzią z Australii",
+      "Przez Cieśninę Beringa z Syberii na Alaskę"
+    ],
+    "answer": 3,
+    "explanation": "W epoce lodowcowej poziom mórz był tak niski, że między Syberią a Alaską istniała ciągła ziemia.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-05",
+    "epochId": "urgeschichte",
+    "question": "Jak zginął Ötzi, człowiek lodu?",
+    "choices": [
+      "Wskutek upadku w szczelinę lodową",
+      "Wskutek postrzału strzałą",
+      "Zamarzł podczas burzy śnieżnej",
+      "Wskutek choroby"
+    ],
+    "answer": 1,
+    "explanation": "Grot strzały w lewym barku dowodzi, że Ötzi został zabity.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-06",
+    "epochId": "urgeschichte",
+    "question": "Co jest niezwykłe w Göbekli Tepe na terenie dzisiejszej Turcji?",
+    "choices": [
+      "Jest najstarszym miastem otoczonym murem",
+      "Wynaleziono tam koło",
+      "Wzniesiono tam monumentalne kręgi kamienne, gdy ludzie byli jeszcze łowcami i zbieraczami",
+      "Znaleziono tam najstarsze tabliczki z pismem klinowym"
+    ],
+    "answer": 2,
+    "explanation": "T-kształtne filary Göbekli Tepe powstały około 9500 roku p.n.e., zanim w tym regionie zadomowiły się rolnictwo i hodowla zwierząt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-07",
+    "epochId": "urgeschichte",
+    "question": "Który gatunek człowieka jako pierwszy opuścił Afrykę i rozprzestrzenił się aż po Jawę i Chiny?",
+    "choices": [
+      "Homo erectus",
+      "Homo sapiens",
+      "Neandertalczycy",
+      "Australopiteki"
+    ],
+    "answer": 0,
+    "explanation": "Homo erectus dotarł na Kaukaz około 1,8 miliona lat temu, a później do Azji Wschodniej i Południowo-Wschodniej.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-08",
+    "epochId": "urgeschichte",
+    "question": "Gdzie wytworzono najstarsze znane na świecie naczynia gliniane?",
+    "choices": [
+      "W Mezopotamii",
+      "W południowych Chinach",
+      "W Egipcie",
+      "W Europie Środkowej"
+    ],
+    "answer": 1,
+    "explanation": "Skorupy z jaskini Xianrendong w południowych Chinach mają około 18 000 do 20 000 lat i pochodzą jeszcze od łowców i zbieraczy.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-09",
+    "epochId": "urgeschichte",
+    "question": "Z czego znana jest jaskinia Blombos w Republice Południowej Afryki?",
+    "choices": [
+      "Z najstarszych pięściaków",
+      "Ze szkieletu Lucy",
+      "Z najstarszych rytych wzorów i ozdobnych paciorków",
+      "Z pierwszych znalezisk zboża"
+    ],
+    "answer": 2,
+    "explanation": "W jaskini Blombos znaleziono kawałki ochry sprzed około 75 000 lat, pokryte geometrycznymi wzorami, oraz przewiercone muszle ślimaków.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-10",
+    "epochId": "urgeschichte",
+    "question": "Jak odkryto denisowian?",
+    "choices": [
+      "Dzięki kompletnemu szkieletowi na Syberii",
+      "Dzięki malowidłom naskalnym na Ałtaju",
+      "Dzięki narzędziom kamiennym w Chinach",
+      "Dzięki analizie DNA kości palca"
+    ],
+    "answer": 3,
+    "explanation": "W 2010 roku genom dotąd nieznanego gatunku człowieka uzyskano z maleńkiej kości palca z jaskini Denisowa.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-11",
+    "epochId": "urgeschichte",
+    "question": "Które osiedle w Dolinie Jordanu otrzymało kamienny mur i wieżę około 8000 roku p.n.e.?",
+    "choices": [
+      "Çatalhöyük",
+      "Jerycho",
+      "Uruk",
+      "Göbekli Tepe"
+    ],
+    "answer": 1,
+    "explanation": "Jerycho uważane jest za jedną z najstarszych stale zamieszkanych osad na świecie; wieża ma niemal dziewięć metrów wysokości.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-12",
+    "epochId": "urgeschichte",
+    "question": "Po czym archeolodzy rozpoznają żeglarzy, którzy zasiedlili wyspy Pacyfiku od około 1500 roku p.n.e.?",
+    "choices": [
+      "Po ich kręgach kamiennych",
+      "Po ich broni z brązu",
+      "Po ich charakterystycznie zdobionej ceramice Lapita",
+      "Po ich malowidłach naskalnych"
+    ],
+    "answer": 2,
+    "explanation": "Kultura Lapita nazwana jest od stanowiska w Nowej Kaledonii; jej charakterystycznie zdobiona ceramika wyznacza drogę osadnictwa aż po Tongę i Samoa.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-01",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Jakim wydarzeniem rozpoczęła się druga wojna światowa w Europie?",
+    "choices": [
+      "Atakiem na Pearl Harbor",
+      "Atakiem na Związek Radziecki",
+      "Aneksją Austrii",
+      "Inwazją na Polskę"
+    ],
+    "answer": 3,
+    "explanation": "1 września 1939 roku Wehrmacht zaatakował Polskę; dwa dni później Wielka Brytania i Francja wypowiedziały wojnę Niemcom.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-02",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Ilu żydów zamordowano w Holokauście?",
+    "choices": [
+      "Około 600 000",
+      "Około sześciu milionów",
+      "Około 60 000",
+      "Około 60 milionów"
+    ],
+    "answer": 1,
+    "explanation": "Narodowi socjaliści zamordowali około sześciu milionów europejskich żydów, a także setki tysięcy Sinti i Romów, osób z niepełnosprawnościami i innych grup.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-03",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Którą bitwę uważa się za punkt zwrotny wojny na froncie wschodnim?",
+    "choices": [
+      "Stalingrad",
+      "Verdun",
+      "El-Alamejn",
+      "Midway"
+    ],
+    "answer": 0,
+    "explanation": "Wraz z kapitulacją 6. Armii pod Stalingradem w lutym 1943 roku Wehrmacht przeszedł na froncie wschodnim trwale do defensywy.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-04",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Co omawiano na konferencji w Wannsee w styczniu 1942 roku?",
+    "choices": [
+      "Atak na Związek Radziecki",
+      "Warunki kapitulacji",
+      "Organizację deportacji i mordowania europejskich żydów",
+      "Budowę autostrad"
+    ],
+    "answer": 2,
+    "explanation": "Pod kierownictwem Reinharda Heydricha SS i ministerstwa rządowe koordynowały tak zwane ostateczne rozwiązanie kwestii żydowskiej.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-05",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Do którego ruchu oporu należeli Sophie i Hans Scholl?",
+    "choices": [
+      "Czerwona Orkiestra",
+      "Biała Róża",
+      "Krąg z Krzyżowej",
+      "Piraci Edelweissu"
+    ],
+    "answer": 1,
+    "explanation": "Biała Róża rozpowszechniała ulotki przeciwko reżimowi nazistowskiemu w Monachium; rodzeństwo Scholl zostało stracone w 1943 roku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-06",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Którą datę uważa się za koniec drugiej wojny światowej w Europie?",
+    "choices": [
+      "30 kwietnia 1945 roku",
+      "6 czerwca 1944 roku",
+      "2 września 1945 roku",
+      "8 maja 1945 roku"
+    ],
+    "answer": 3,
+    "explanation": "8 maja 1945 roku weszła w życie bezwarunkowa kapitulacja Wehrmachtu; Japonia skapitulowała dopiero 2 września.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-07",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Co uzgodniły Niemcy i Związek Radziecki w tajnym protokole dodatkowym paktu Hitler-Stalin z sierpnia 1939 roku?",
+    "choices": [
+      "Wspólny atak na Wielką Brytanię",
+      "Podział Polski i Europy Wschodniej na strefy wpływów",
+      "Wymianę jeńców wojennych",
+      "Zniesienie wszystkich ceł"
+    ],
+    "answer": 1,
+    "explanation": "Protokół dzielił Polskę wzdłuż rzek Narwi, Wisły i Sanu oraz przypisywał Finlandię, państwa bałtyckie i Besarabię do strefy radzieckiej.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-08",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Kto zdetonował bombę w kwaterze głównej Wilczy Szaniec 20 lipca 1944 roku?",
+    "choices": [
+      "Erwin Rommel",
+      "Georg Elser",
+      "Dietrich Bonhoeffer",
+      "Claus Schenk hrabia von Stauffenberg"
+    ],
+    "answer": 3,
+    "explanation": "Pułkownik Stauffenberg umieścił teczkę z materiałem wybuchowym podczas odprawy sytuacyjnej; Hitler przeżył z lekkimi obrażeniami, a Stauffenberga rozstrzelano tej samej nocy.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-09",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Co wydarzyło się po zdobyciu Nankinu w grudniu 1937 roku?",
+    "choices": [
+      "Wojska japońskie przez kilka tygodni mordowały dziesiątki, a nawet setki tysięcy cywilów i jeńców",
+      "Chiny i Japonia zawarły pokój",
+      "Miasto ogłoszono stolicą Japonii",
+      "Liga Narodów wysłała wojska pokojowe"
+    ],
+    "answer": 0,
+    "explanation": "Masakra nankińska trwała około sześciu tygodni; trybunał tokijski przyjął liczbę ponad 200 000 ofiar, a masowe gwałty były częścią tej zbrodni.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-10",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Jaki zarzut po raz pierwszy osądzono przed trybunałem międzynarodowym podczas procesów norymberskich 1945/46?",
+    "choices": [
+      "Zdradę stanu",
+      "Szpiegostwo",
+      "Zbrodnie przeciwko ludzkości",
+      "Uchylanie się od podatków"
+    ],
+    "answer": 2,
+    "explanation": "Obok zbrodni wojennych i zbrodni przeciwko pokojowi trybunał wprowadził nowe przestępstwo zbrodni przeciwko ludzkości, które do dziś kształtuje międzynarodowe prawo karne.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-11",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Jakie terytorium Czechosłowacja odstąpiła Niemcom po układzie monachijskim z 1938 roku?",
+    "choices": [
+      "Alzację",
+      "Słowację",
+      "Kraj Kłajpedy",
+      "Kraj Sudecki"
+    ],
+    "answer": 3,
+    "explanation": "Wielka Brytania, Francja, Włochy i Niemcy uzgodniły, bez udziału Czechosłowacji, odstąpienie w większości niemieckojęzycznego Kraju Sudeckiego.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-12",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Który teolog Kościoła Wyznającego został stracony w obozie koncentracyjnym Flossenbürg w kwietniu 1945 roku?",
+    "choices": [
+      "Martin Niemöller",
+      "Dietrich Bonhoeffer",
+      "Clemens August von Galen",
+      "Bernhard Lichtenberg"
+    ],
+    "answer": 1,
+    "explanation": "Bonhoeffer przyłączył się do ruchu oporu poprzez Abwehrę i został powieszony 9 kwietnia 1945 roku na rozkaz Hitlera; Niemöller przeżył obóz koncentracyjny w Dachau.",
+    "difficulty": 3
+  }
+]
