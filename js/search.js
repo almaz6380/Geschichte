@@ -96,6 +96,13 @@ function scoreDoc(doc, tokens) {
     else if (doc.tagsN.some((tag) => tag.includes(t))) s = Math.max(s, 3);
     if (doc.yearsN?.includes(t)) s = Math.max(s, 8);
     if (s === 0 && doc.textN.includes(t)) s = 2;
+    // Gebeugte Formen (революция/революции, Revolution/Revolutionen): Wortstamm ohne Endung.
+    if (s === 0 && [...t].length >= 6) {
+      const stem = [...t].slice(0, -2).join('');
+      if (doc.titleN.includes(stem)) s = 4;
+      else if (doc.tagsN.some((tag) => tag.includes(stem))) s = 3;
+      else if (doc.textN.includes(stem)) s = 1;
+    }
     if (s > 0) hits++;
     score += s;
   }

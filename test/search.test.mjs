@@ -47,7 +47,8 @@ test('Mehrwort-Suche: Treffer für alle Wörter verdrängen Teiltreffer', () => 
   const res = search(index, 'Karl der Große');
   assert.ok(res.length > 0);
   assert.match(res[0].doc.title, /Karl der Große/);
-  assert.ok(res.every((r) => r.tokens.every((tk) => r.doc.titleN.includes(tk) || r.doc.textN.includes(tk) || r.doc.tagsN.some((x) => x.includes(tk)))));
+  const stem = (tk) => ([...tk].length >= 6 ? [...tk].slice(0, -2).join('') : tk);
+  assert.ok(res.every((r) => r.tokens.every((tk) => [tk, stem(tk)].some((x) => r.doc.titleN.includes(x) || r.doc.textN.includes(x) || r.doc.tagsN.some((tag) => tag.includes(x))))));
 });
 
 test('Jahreszahlen finden die Ereignisse dieses Jahres', () => {
