@@ -14,11 +14,11 @@ export const LANGS = [
   { code: 'tr', name: 'Türkçe', locale: 'tr-TR', ready: true },
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
   { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: true },
-  { code: 'uk', name: 'Українська', locale: 'uk-UA', ready: false },
+  { code: 'uk', name: 'Українська', locale: 'uk-UA', ready: true },
   { code: 'ar', name: 'العربية', locale: 'ar-u-nu-latn', dir: 'rtl', ready: true },
   { code: 'hi', name: 'हिन्दी', locale: 'hi-IN-u-nu-latn', ready: false },
   { code: 'zh', name: '中文', locale: 'zh-CN', ready: false },
-  { code: 'ja', name: '日本語', locale: 'ja-JP', ready: false },
+  { code: 'ja', name: '日本語', locale: 'ja-JP', ready: true },
 ];
 
 export const DEFAULT_LANG = 'de';

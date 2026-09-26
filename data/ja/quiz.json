@@ -1,0 +1,2340 @@
+[
+  {
+    "id": "q-absolutismus-aufklaerung-01",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1648年に三十年戦争を終結させた講和条約はどれか。",
+    "choices": [
+      "アウクスブルクの和議",
+      "ユトレヒト条約",
+      "ヴェストファーレン条約",
+      "フーベルトゥスブルク条約"
+    ],
+    "answer": 2,
+    "explanation": "ミュンスターとオスナブリュックで交渉されたヴェストファーレン条約は、1648年に戦争を終結させた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-02",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "ヴェルサイユを宮廷の所在地とし、太陽王として知られた王は誰か。",
+    "choices": [
+      "ルイ14世",
+      "ルイ16世",
+      "アンリ4世",
+      "フランソワ1世"
+    ],
+    "answer": 0,
+    "explanation": "ルイ14世は1682年に宮廷をヴェルサイユに移し、太陽王として絶対主義の体現者となった。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-03",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "アイザック・ニュートンは1687年の『プリンキピア』で何を説明したか。",
+    "choices": [
+      "原子の構造",
+      "種の進化",
+      "血液循環",
+      "運動法則と万有引力の法則"
+    ],
+    "answer": 3,
+    "explanation": "ニュートンは運動の法則と万有引力の法則によって、地上および宇宙における物体の運動を説明した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-04",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "ピョートル大帝が1703年にロシアの新しい首都として建設した都市はどこか。",
+    "choices": [
+      "モスクワ",
+      "サンクトペテルブルク",
+      "キエフ",
+      "ノヴゴロド"
+    ],
+    "answer": 1,
+    "explanation": "ネヴァ川河畔のサンクトペテルブルクは1712年に首都となり、ロシアの「ヨーロッパへの窓」とみなされた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-05",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "七年戦争(1756年から1763年)において同じ側にあった二つの勢力はどれか。",
+    "choices": [
+      "フランスとプロイセン",
+      "オーストリアとイギリス",
+      "プロイセンとイギリス",
+      "ロシアとプロイセン"
+    ],
+    "answer": 2,
+    "explanation": "フリードリヒ2世率いるプロイセンとイギリスは、オーストリア、フランス、ロシアに対して共に戦った。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-06",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "イマヌエル・カントは啓蒙のプログラムをどのような標語で要約したか。",
+    "choices": [
+      "我思う、ゆえに我あり",
+      "自ら考える勇気を持て",
+      "朕は国家なり",
+      "自然に還れ"
+    ],
+    "answer": 1,
+    "explanation": "1784年にカントは啓蒙を「自ら招いた未成年状態からの脱却」と定義し、「あえて賢明であれ(サペレ・アウデ)」をその標語とした。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-07",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "ガリレオ・ガリレイが1633年に異端審問によって断罪されたのはなぜか。",
+    "choices": [
+      "望遠鏡を発明したから",
+      "聖書をイタリア語に翻訳したから",
+      "地動説を擁護したから",
+      "万有引力を発見したから"
+    ],
+    "answer": 2,
+    "explanation": "1632年の『対話』において、ガリレオは地球が太陽の周りを回るというコペルニクスの説を支持していたため、撤回を強いられた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-08",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1649年にイングランド王チャールズ1世に何が起きたか。",
+    "choices": [
+      "フランスに亡命した",
+      "議会によって断罪され、処刑された",
+      "議会を永久に解散した",
+      "皇帝として戴冠した"
+    ],
+    "answer": 1,
+    "explanation": "内戦の後、議会の法廷が国王を反逆罪で有罪とし、1649年1月30日に斬首された。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-09",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "モンテスキューの著作『法の精神』(1748年)に関連する要求はどれか。",
+    "choices": [
+      "権力分立",
+      "君主制の廃止",
+      "女性の平等",
+      "私有財産の廃止"
+    ],
+    "answer": 0,
+    "explanation": "モンテスキューは立法、行政、司法の権力を分離し、互いに制限し合うべきだと訴えた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-10",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1685年のフォンテーヌブロー勅令の結果はどれか。",
+    "choices": [
+      "王立協会の設立",
+      "宮廷のヴェルサイユへの移転",
+      "スペイン継承戦争の勃発",
+      "およそ20万人のユグノーのフランスからの逃亡"
+    ],
+    "answer": 3,
+    "explanation": "ルイ14世はナントの勅令を廃止し、プロテスタントの礼拝を禁じた。多くのユグノーはブランデンブルクなどへ逃れた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-11",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "1639年以降、外部世界からほぼ完全に自国を閉ざし、出島でのみオランダとの交易を許した国はどこか。",
+    "choices": [
+      "中国",
+      "朝鮮",
+      "日本",
+      "シャム"
+    ],
+    "answer": 2,
+    "explanation": "徳川幕府はキリスト教を禁じ、外国貿易を長崎に制限した。この政策は鎖国と呼ばれる。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-12",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "物理学者エミリー・デュ・シャトレに関連する業績はどれか。",
+    "choices": [
+      "木星の衛星の発見",
+      "ニュートンの『プリンキピア』のフランス語訳と注釈",
+      "気圧計の発明",
+      "『百科全書』の出版"
+    ],
+    "answer": 1,
+    "explanation": "デュ・シャトレはニュートンの主著をフランス語に翻訳し、注釈を加えた。彼女の訳は今日でも権威あるものとされている。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-01",
+    "epochId": "antike-griechenland",
+    "question": "紀元前6世紀から前5世紀にかけて、最初の民主政が生まれた都市はどこか。",
+    "choices": [
+      "スパルタ",
+      "アテナイ",
+      "コリントス",
+      "テーバイ"
+    ],
+    "answer": 1,
+    "explanation": "アテナイでは、クレイステネスの改革が紀元前508年に民衆による統治の基礎を築いた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-02",
+    "epochId": "antike-griechenland",
+    "question": "紀元前776年、最初の記録が残るオリンピック競技が行われたのはどこか。",
+    "choices": [
+      "アテナイで",
+      "デルフォイで",
+      "オリンピアで",
+      "スパルタで"
+    ],
+    "answer": 2,
+    "explanation": "競技会は4年に一度、ペロポネソス半島のオリンピアでゼウスを讃えて開催された。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-03",
+    "epochId": "antike-griechenland",
+    "question": "紀元前480年、第二次ペルシア戦争の海戦の帰趨を決した戦いはどれか。",
+    "choices": [
+      "マラトンの戦い",
+      "テルモピュライの戦い",
+      "プラタイアイの戦い",
+      "サラミスの海戦"
+    ],
+    "answer": 3,
+    "explanation": "テミストクレスはペルシア艦隊を狭いサラミス湾に誘い込み、そこでギリシアの三段櫂船が勝利を収めた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-04",
+    "epochId": "antike-griechenland",
+    "question": "紀元前404年に終結したペロポネソス戦争に勝利したのはどこか。",
+    "choices": [
+      "スパルタ",
+      "アテナイ",
+      "ペルシア",
+      "マケドニア"
+    ],
+    "answer": 0,
+    "explanation": "ペルシアの資金を得たスパルタは艦隊を建造し、紀元前404年にアテナイを降伏させた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-05",
+    "epochId": "antike-griechenland",
+    "question": "アレクサンドロス大王の師であった哲学者は誰か。",
+    "choices": [
+      "ソクラテス",
+      "プラトン",
+      "アリストテレス",
+      "ピタゴラス"
+    ],
+    "answer": 2,
+    "explanation": "アリストテレスはマケドニア宮廷で若きアレクサンドロスを教えた後、アテナイにリュケイオンを創設した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-06",
+    "epochId": "antike-griechenland",
+    "question": "ヘレニズム時代の終わりとみなされる出来事はどれか。",
+    "choices": [
+      "紀元前146年のコリントス破壊",
+      "紀元前30年のクレオパトラの死とエジプト併合",
+      "紀元前323年のアレクサンドロスの死",
+      "紀元前168年のピュドナの戦い"
+    ],
+    "answer": 1,
+    "explanation": "クレオパトラ7世の自殺により、最後のヘレニズム王国であったエジプトはローマの手に渡った。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-07",
+    "epochId": "antike-griechenland",
+    "question": "ソロンが紀元前594年頃にアテナイで行った改革はどれか。",
+    "choices": [
+      "陶片追放を導入した",
+      "女性に投票権を与えた",
+      "自ら僭主となった",
+      "債務による奴隷化を廃止した"
+    ],
+    "answer": 3,
+    "explanation": "ソロンは債務を帳消しにし、債務による市民の奴隷化を禁じた。また彼は市民を財産に応じて4階級に分けた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-08",
+    "epochId": "antike-griechenland",
+    "question": "紀元前480年、テルモピュライで300人のスパルタ兵を率いたのは誰か。",
+    "choices": [
+      "レオニダス",
+      "テミストクレス",
+      "ミルティアデス",
+      "ペリクレス"
+    ],
+    "answer": 0,
+    "explanation": "レオニダス王は自らのスパルタ兵と同盟軍とともに、全員が倒れるまでクセルクセスの軍勢に対して隘路を守り抜いた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-09",
+    "epochId": "antike-griechenland",
+    "question": "レスボス島出身で、プラトンが「第十のムーサ」と呼んだ詩人は誰か。",
+    "choices": [
+      "アスパシア",
+      "サッポー",
+      "アンティゴネー",
+      "ピュティア"
+    ],
+    "answer": 1,
+    "explanation": "紀元前600年頃、サッポーは愛と憧れをうたう歌を書いた。彼女の9巻の詩集は断片しか残っていない。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-10",
+    "epochId": "antike-griechenland",
+    "question": "ペリクレスのもとで紀元前447年から前432年にかけてアクロポリスに建てられた神殿はどれか。",
+    "choices": [
+      "ゼウス神殿",
+      "アポロン神殿",
+      "パルテノン神殿",
+      "エレクテイオン"
+    ],
+    "answer": 2,
+    "explanation": "建築家イクティノスとカリクラテスによって建てられたパルテノン神殿は女神アテナに捧げられ、フェイディアス作の高さ12メートルの神像を収めていた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-11",
+    "epochId": "antike-griechenland",
+    "question": "アレクサンドロスの死後、その帝国をめぐって争った将軍たちは何と呼ばれたか。",
+    "choices": [
+      "エフォロス",
+      "ストラテゴス",
+      "アルコン",
+      "ディアドコイ(後継者)"
+    ],
+    "answer": 3,
+    "explanation": "後継者を意味するディアドコイは紀元前322年から前281年まで戦い続け、最終的にプトレマイオス朝、セレウコス朝、アンティゴノス朝の各帝国が成立した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-12",
+    "epochId": "antike-griechenland",
+    "question": "紀元前212年、ローマ軍によるシラクサ陥落の際に殺された学者は誰か。",
+    "choices": [
+      "エウクレイデス",
+      "アルキメデス",
+      "ヒポクラテス",
+      "ヘロドトス"
+    ],
+    "answer": 1,
+    "explanation": "アルキメデスは戦争兵器によって故郷の防衛を支援していた。あるローマ兵はマルケルスの命令に反して彼を殺した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-01",
+    "epochId": "asien-altertum",
+    "question": "紀元前550年頃、アケメネス朝ペルシア帝国を建てたのは誰か。",
+    "choices": [
+      "ダレイオス1世",
+      "クセルクセス1世",
+      "キュロス2世",
+      "カンビュセス2世"
+    ],
+    "answer": 2,
+    "explanation": "キュロス2世はメディア人を破り、さらにリュディアとバビロンを征服した。ダレイオスとクセルクセスは後の大王である。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-02",
+    "epochId": "asien-altertum",
+    "question": "シッダールタ・ガウタマが北インドで説いた教えはどれか。",
+    "choices": [
+      "仏教",
+      "儒教",
+      "道教",
+      "ゾロアスター教"
+    ],
+    "answer": 0,
+    "explanation": "仏陀、すなわち「目覚めた者」として、シッダールタ・ガウタマは仏教の開祖となった。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-03",
+    "epochId": "asien-altertum",
+    "question": "紀元前221年の中国統一後、始皇帝が標準化したものはとりわけ何か。",
+    "choices": [
+      "宗教",
+      "すべての州の言語",
+      "遊牧民の暦",
+      "文字、貨幣、度量衡"
+    ],
+    "answer": 3,
+    "explanation": "始皇帝は帝国をまとめるため、統一された文字、貨幣、度量衡、車軸の幅を導入した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-04",
+    "epochId": "asien-altertum",
+    "question": "105年に中国の宮廷官吏、蔡倫の功績とされる発明はどれか。",
+    "choices": [
+      "羅針盤",
+      "紙",
+      "火薬",
+      "印刷術"
+    ],
+    "answer": 1,
+    "explanation": "105年、蔡倫は樹皮、麻、ぼろ布から紙を作る改良された製法を記した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-05",
+    "epochId": "asien-altertum",
+    "question": "グプタ朝時代のインドで生まれた数学上の革新はどれか。",
+    "choices": [
+      "ゼロを含む位取り記数法",
+      "ピタゴラスの定理",
+      "ローマ数字",
+      "対数表"
+    ],
+    "answer": 0,
+    "explanation": "グプタ朝時代のインドの数学者たちは、数字のゼロを含む十進法を発展させ、それはアラブ世界を経由してヨーロッパに伝わった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-06",
+    "epochId": "asien-altertum",
+    "question": "12世紀、どの王のもとでアンコールワットが建てられたか。",
+    "choices": [
+      "アショーカ",
+      "桓武",
+      "スーリヤヴァルマン2世",
+      "チャンドラグプタ2世"
+    ],
+    "answer": 2,
+    "explanation": "クメール王スーリヤヴァルマン2世は、ヴィシュヌ神への神殿として、また自身の墓としてアンコールワットを建立させた。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-07",
+    "epochId": "asien-altertum",
+    "question": "道教の根本経典である『道徳経』は、どの賢人の作とされているか。",
+    "choices": [
+      "孔子",
+      "老子",
+      "孟子",
+      "荘子"
+    ],
+    "answer": 1,
+    "explanation": "『道徳経』は伝説的な人物である老子の作とされる。荘子は後の道家思想家であり、孔子と孟子は儒教を代表する。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-08",
+    "epochId": "asien-altertum",
+    "question": "戦国時代の兵法家、孫子の著作の名は何か。",
+    "choices": [
+      "『易経』",
+      "『論語』",
+      "『史記』",
+      "『孫子』(兵法書)"
+    ],
+    "answer": 3,
+    "explanation": "13篇からなる孫子の兵法書は、最善の勝利とは戦わずして勝つことであると説く。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-09",
+    "epochId": "asien-altertum",
+    "question": "690年から705年までの則天武后の治世について、何が注目に値するか。",
+    "choices": [
+      "中国史上唯一、自ら皇帝の位に就いた女性であった",
+      "唐王朝を創始した",
+      "中国で仏教を禁じた",
+      "兵馬俑を作らせた"
+    ],
+    "answer": 0,
+    "explanation": "690年、則天武后は自らの王朝を宣言し、中国史上唯一自ら皇帝の称号を帯びた女性である。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-10",
+    "epochId": "asien-altertum",
+    "question": "868年の『金剛経』は、印刷の歴史においてなぜそれほど重要なのか。",
+    "choices": [
+      "可動式の金属活字で印刷されたから",
+      "紙で作られた最初の書物であるから",
+      "正確な年紀を持つ現存最古の印刷物であるから",
+      "グーテンベルクの手本として用いられたから"
+    ],
+    "answer": 2,
+    "explanation": "木版で印刷されたこの巻物の奥書には868年5月11日の日付が記されており、世界最古の年紀入り印刷書物である。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-11",
+    "epochId": "asien-altertum",
+    "question": "224年、アルダシール1世がペルシアで取って代わった帝国はどれか。",
+    "choices": [
+      "アケメネス朝",
+      "セレウコス朝",
+      "クシャーナ朝",
+      "パルティア王国"
+    ],
+    "answer": 3,
+    "explanation": "224年、アルダシール1世は最後のパルティア王を破り、651年まで続くサーサーン朝を建てた。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-12",
+    "epochId": "asien-altertum",
+    "question": "紀元前100年頃、中国史学の最初の総合的著作である『史記』を書いたのは誰か。",
+    "choices": [
+      "蔡倫",
+      "司馬遷",
+      "張騫",
+      "玄奘"
+    ],
+    "answer": 1,
+    "explanation": "宮廷史官の司馬遷は130篇からなる『史記』を著した。蔡倫は製紙法を改良し、張騫は使節、玄奘は仏教の巡礼僧であった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1914年夏に第一次世界大戦の引き金となった出来事はどれか。",
+    "choices": [
+      "ルシタニア号の撃沈",
+      "ツァーリの退位",
+      "サラエヴォでの暗殺事件",
+      "ヴェルダンの戦い"
+    ],
+    "answer": 2,
+    "explanation": "1914年6月28日、サラエヴォでオーストリア皇位継承者フランツ・フェルディナントが暗殺され、七月危機を経て戦争へと至った。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-02",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1917年の十月革命でボリシェヴィキを権力の座に導いたのは誰か。",
+    "choices": [
+      "レーニン",
+      "スターリン",
+      "トロツキー",
+      "ケレンスキー"
+    ],
+    "answer": 0,
+    "explanation": "レーニンは1917年4月に亡命先から帰国し、11月にペトログラードでの政権転覆を主導した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-03",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "コンピエーニュ休戦協定が発効したのはいつか。",
+    "choices": [
+      "1919年6月28日",
+      "1918年11月9日",
+      "1914年8月1日",
+      "1918年11月11日"
+    ],
+    "answer": 3,
+    "explanation": "休戦協定は1918年11月11日午前11時に発効し、西部戦線での戦闘を終わらせた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-04",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "その大統領自身が提案していたにもかかわらず、国際連盟に加盟しなかった大国はどこか。",
+    "choices": [
+      "フランス",
+      "アメリカ合衆国",
+      "イギリス",
+      "日本"
+    ],
+    "answer": 1,
+    "explanation": "ウッドロー・ウィルソンが十四か条の中で国際連盟の構想を示していたにもかかわらず、アメリカ上院は加盟を拒否した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-05",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "アタテュルクによるトルコの改革に含まれなかったものはどれか。",
+    "choices": [
+      "ラテン文字の導入",
+      "政教分離",
+      "カリフ制の復活",
+      "女性参政権"
+    ],
+    "answer": 2,
+    "explanation": "アタテュルクは1924年にカリフ制を廃止した。他の改革は1920年代から1930年代にかけて実施された。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-06",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1930年のガンディーの「塩の行進」は何に対して行われたか。",
+    "choices": [
+      "インド分割に対して",
+      "徴兵制に対して",
+      "イギリス製布地の輸入に対して",
+      "イギリスによる塩の専売と塩税に対して"
+    ],
+    "answer": 3,
+    "explanation": "ガンディーは海まで385キロメートルを歩き、イギリス法の下では禁じられていた塩をそこで示威的に採取した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-07",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1915年、ムスタファ・ケマルはどのような功績によって名を知られるようになったか。",
+    "choices": [
+      "連合軍に対するガリポリの防衛",
+      "バグダードの攻略",
+      "タンネンベルクでの勝利",
+      "エルサレムの占領"
+    ],
+    "answer": 0,
+    "explanation": "大佐であったムスタファ・ケマルはその部隊とともにガリポリ半島の高地を守り抜き、連合軍は1916年1月に撤退を余儀なくされた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-08",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1923年11月、ドイツにおけるハイパーインフレーションを終わらせた新しい通貨はどれか。",
+    "choices": [
+      "ライヒスマルク",
+      "ゴールドマルク",
+      "レンテンマルク",
+      "ドイツマルク"
+    ],
+    "answer": 2,
+    "explanation": "1923年11月15日に導入されたレンテンマルクが通貨を安定させ、1924年にはライヒスマルクがそれに取って代わった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-09",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1919年2月19日、ドイツの議会で初めて演説を行った女性は誰か。",
+    "choices": [
+      "ローザ・ルクセンブルク",
+      "マリー・ユーハッツ",
+      "ケーテ・コルヴィッツ",
+      "クララ・ツェトキン"
+    ],
+    "answer": 1,
+    "explanation": "社会民主党のマリー・ユーハッツはヴァイマル国民議会で演説を行い、同じ年に労働者福祉団体を設立した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-10",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "1919年、ヴァルター・グロピウスがヴァイマルに創設した芸術・工芸・デザインの学校はどれか。",
+    "choices": [
+      "バウハウス",
+      "工作連盟アカデミー",
+      "分離派",
+      "青騎士派の学校"
+    ],
+    "answer": 0,
+    "explanation": "バウハウスは1925年にデッサウへ移り、1933年に国家社会主義者によって閉鎖されたが、建築とデザインへの影響は今日まで続いている。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-11",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "第一次世界大戦後に広まった「背後の一突き」伝説は何を主張したか。",
+    "choices": [
+      "連合国が休戦協定を破ったということ",
+      "皇帝が軍を裏切ったということ",
+      "戦場では敗れていなかった軍が、銃後と政治家たちによって裏切られたということ",
+      "賠償金はフランスがでっち上げたものだということ"
+    ],
+    "answer": 2,
+    "explanation": "ヒンデンブルクとルーデンドルフは、自らの敗戦責任を隠すためにこの伝説を広めた。それは共和国の反対者たちにとって宣伝の武器となった。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-01",
+    "epochId": "fruehe-hochkulturen",
+    "question": "シュメール人が発展させた、世界で最も古いことが知られている文字体系は何か。",
+    "choices": [
+      "ヒエログリフ",
+      "楔形文字",
+      "アルファベット",
+      "ルーン文字"
+    ],
+    "answer": 1,
+    "explanation": "紀元前3200年頃、シュメール人は楔形の記号を粘土板に押し付けた。ここから「楔形」という名がラテン語の「楔」に由来してつけられた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-02",
+    "epochId": "fruehe-hochkulturen",
+    "question": "古代エジプトの生命線であった川はどれか。",
+    "choices": [
+      "ユーフラテス川",
+      "インダス川",
+      "ティグリス川",
+      "ナイル川"
+    ],
+    "answer": 3,
+    "explanation": "毎年のナイル川の氾濫は肥沃な沈泥をもたらし、エジプトを豊かな農業国にした。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-03",
+    "epochId": "fruehe-hochkulturen",
+    "question": "バビロニアの王ハンムラビは何によって最もよく知られているか。",
+    "choices": [
+      "彼の法典による",
+      "ピラミッドの建設による",
+      "車輪の発明による",
+      "エジプトの征服による"
+    ],
+    "answer": 0,
+    "explanation": "紀元前1750年頃、ハンムラビはおよそ280の法規定を石碑に刻ませた。これがハンムラビ法典である。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-04",
+    "epochId": "fruehe-hochkulturen",
+    "question": "太陽円盤アテンのみを崇拝し、アケトアテンの都を建設したファラオは誰か。",
+    "choices": [
+      "ラメセス2世",
+      "クフ",
+      "アクエンアテン",
+      "ツタンカーメン"
+    ],
+    "answer": 2,
+    "explanation": "アクエンアテンは古い神々への崇拝を禁じ、首都を現在のアマルナ近郊のアケトアテンに移した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-05",
+    "epochId": "fruehe-hochkulturen",
+    "question": "カデシュの戦いの後に結ばれた、現存する最古の講和条約はどの勢力間のものか。",
+    "choices": [
+      "バビロンとアッシリア",
+      "エジプトとヒッタイト",
+      "シュメールとアッカド",
+      "エジプトとヌビア"
+    ],
+    "answer": 1,
+    "explanation": "ラメセス2世とヒッタイト王ハットゥシリ3世は、戦いのおよそ15年後に和平と相互援助について合意した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-06",
+    "epochId": "fruehe-hochkulturen",
+    "question": "中国最古の文字の証拠を提供する史料はどれか。",
+    "choices": [
+      "絵の描かれた絹の巻物",
+      "万里の長城の石碑",
+      "周代の竹簡",
+      "商王朝の甲骨文字"
+    ],
+    "answer": 3,
+    "explanation": "商の王たちは祖先への問いを牛骨や亀甲に刻みつけた。これらの銘文は中国最古の文字記録である。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-07",
+    "epochId": "fruehe-hochkulturen",
+    "question": "世界史上、名の知られる最初の著者とみなされているのは誰か。",
+    "choices": [
+      "ネフェルティティ",
+      "ハトシェプスト",
+      "エンヘドゥアンナ",
+      "婦好"
+    ],
+    "answer": 2,
+    "explanation": "アッカドのサルゴンの娘であり、ウルの女神官であったエンヘドゥアンナは、自らの讃歌の中で自身を著者として名乗っている。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-08",
+    "epochId": "fruehe-hochkulturen",
+    "question": "紀元前1050年頃、22文字からなるアルファベットを発展させ、後にギリシア人に採用された民族はどれか。",
+    "choices": [
+      "フェニキア人",
+      "ヒッタイト人",
+      "アッシリア人",
+      "シュメール人"
+    ],
+    "answer": 0,
+    "explanation": "ティルス、シドン、ビブロスのフェニキア人は文字を22の子音記号にまで簡略化し、ギリシア人がそれに母音を加えた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-09",
+    "epochId": "fruehe-hochkulturen",
+    "question": "『ギルガメシュ叙事詩』は、とりわけ何について語っているか。",
+    "choices": [
+      "エジプトの征服",
+      "ピラミッドの建設",
+      "バビロンの建設",
+      "ある王による不死の探求"
+    ],
+    "answer": 3,
+    "explanation": "友エンキドゥの死後、ギルガメシュは永遠の命を得るために洪水伝説の英雄ウトナピシュティムを訪ねるが、それは果たされない。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-10",
+    "epochId": "fruehe-hochkulturen",
+    "question": "クレタ島のクノッソスのような宮殿を建てた文明はどれか。",
+    "choices": [
+      "ミケーネ人",
+      "ミノア人",
+      "フェニキア人",
+      "ヒッタイト人"
+    ],
+    "answer": 1,
+    "explanation": "伝説の王ミノスにちなんで名付けられたミノア人は、紀元前2000年頃からヨーロッパ最初の高度文明を築いた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-11",
+    "epochId": "fruehe-hochkulturen",
+    "question": "商王武丁の妃であった婦好について、何が注目に値するか。",
+    "choices": [
+      "女性でありながら軍を率いて戦った",
+      "中国の文字を発明した",
+      "中国初の女帝として君臨した",
+      "最初の万里の長城を築いた"
+    ],
+    "answer": 0,
+    "explanation": "甲骨文には、婦好が数千人規模の軍を率いて遠征を指揮したことが記されている。彼女の未盗掘の墓は1976年に安陽で発見された。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-12",
+    "epochId": "fruehe-hochkulturen",
+    "question": "紀元前730年頃、王ピイエがエジプトを征服したクシュ王国はどこにあったか。",
+    "choices": [
+      "アナトリアに",
+      "メソポタミアに",
+      "現在のスーダンにあたるヌビアに",
+      "紅海沿岸のエチオピアに"
+    ],
+    "answer": 2,
+    "explanation": "首都をナパタ、後にはメロエに置いたクシュはエジプトの南、ナイル川沿いにあり、その王たちは第25王朝を形成した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-01",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "産業革命の最も重要な推進力とみなされている発明はどれか。",
+    "choices": [
+      "蒸気機関",
+      "活版印刷",
+      "電話",
+      "電球"
+    ],
+    "answer": 0,
+    "explanation": "ジェームズ・ワットによって改良された蒸気機関は、工場、機関車、船舶を動かした。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-02",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1848年にフリードリヒ・エンゲルスとともに『共産党宣言』を書いたのは誰か。",
+    "choices": [
+      "フェルディナント・ラサール",
+      "カール・マルクス",
+      "アウグスト・ベーベル",
+      "ウラジーミル・レーニン"
+    ],
+    "answer": 1,
+    "explanation": "カール・マルクスとフリードリヒ・エンゲルスは1848年2月、ロンドンで『共産党宣言』を発表した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-03",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "ドイツ帝国が成立したのは何年か。",
+    "choices": [
+      "1848年",
+      "1866年",
+      "1871年",
+      "1888年"
+    ],
+    "answer": 2,
+    "explanation": "1871年1月18日、ヴィルヘルム1世はヴェルサイユ宮殿の鏡の間でドイツ皇帝に即位した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-04",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1868年の明治維新の結果は何であったか。",
+    "choices": [
+      "中国が港を開いた",
+      "朝鮮が独立した",
+      "インドがイギリスの直轄植民地となった",
+      "日本が西洋式の近代化を進めた"
+    ],
+    "answer": 3,
+    "explanation": "幕府の崩壊後、日本は明治天皇のもとでわずか一世代のうちに工業国へと変貌した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-05",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1884年から1885年のベルリン会議で、ヨーロッパ列強によって分割された大陸はどこか。",
+    "choices": [
+      "南アメリカ",
+      "アジア",
+      "アフリカ",
+      "オーストラリア"
+    ],
+    "answer": 2,
+    "explanation": "この会議はアフリカの領有に関する規則を定め、アフリカ分割を引き起こした。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-06",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1842年の第一次アヘン戦争の後、香港をイギリスに割譲しなければならなかった国はどこか。",
+    "choices": [
+      "日本",
+      "中国",
+      "シャム",
+      "ベトナム"
+    ],
+    "answer": 1,
+    "explanation": "南京条約で中国は香港を割譲し、5つの港をイギリスとの貿易のために開いた。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-07",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1893年に世界で初めて国レベルで女性参政権を導入した国はどこか。",
+    "choices": [
+      "イギリス",
+      "フィンランド",
+      "ニュージーランド",
+      "アメリカ合衆国"
+    ],
+    "answer": 2,
+    "explanation": "およそ3万2000人の署名を集めた請願の後、ニュージーランドの総督は1893年9月19日に選挙法に署名した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-08",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "チャールズ・ダーウィンが1859年に出版した書物はどれか。",
+    "choices": [
+      "『種の起源』",
+      "『資本論』",
+      "『武器を捨てよ!』",
+      "『ソルフェリーノの思い出』"
+    ],
+    "answer": 0,
+    "explanation": "ダーウィンの主著は進化と自然選択によって生物の多様性を説明し、発売初日で売り切れた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-09",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1885年から1908年まで、コンゴ自由国を所有していたのは誰か。",
+    "choices": [
+      "フランス共和国",
+      "イギリス東インド会社",
+      "ドイツ帝国",
+      "ベルギー王レオポルド2世が個人資産として"
+    ],
+    "answer": 3,
+    "explanation": "レオポルド2世はコンゴを自らの個人資産として搾取させた。国際的なスキャンダルの後、1908年になってようやくベルギーがこの植民地を引き継いだ。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-10",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1883年、ドイツ帝国が最初の社会保険として導入した保険はどれか。",
+    "choices": [
+      "失業保険",
+      "医療保険",
+      "年金保険",
+      "介護保険"
+    ],
+    "answer": 1,
+    "explanation": "医療保険は1883年、労災保険は1884年、老齢・障害保険は1889年に導入された。失業保険が導入されたのは1927年になってからである。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-11",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "アンリ・デュナンが赤十字を創設するきっかけとなった体験はどれか。",
+    "choices": [
+      "1859年のソルフェリーノの戦いの負傷者",
+      "ハンブルクのコレラの大流行",
+      "クリミア戦争",
+      "アメリカ南北戦争"
+    ],
+    "answer": 0,
+    "explanation": "1859年、デュナンはソルフェリーノの戦いの後の負傷者たちの惨状を目撃し、その著書の中で自発的な救護団体と保護条約の必要性を訴えた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-12",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "1857年のセポイの反乱がインドにもたらした結果は何か。",
+    "choices": [
+      "インドが独立した",
+      "フランスがベンガルを引き継いだ",
+      "イギリス王室が東インド会社から統治権を引き継いだ",
+      "ムガル皇帝が再びインド全域を統治した"
+    ],
+    "answer": 2,
+    "explanation": "反乱鎮圧後、東インド会社は1858年に解散され、インドはイギリス王室の直接統治下に置かれた。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-01",
+    "epochId": "islamische-welt",
+    "question": "イスラーム暦の起点となる出来事はどれか。",
+    "choices": [
+      "ムハンマドの誕生",
+      "622年のメディナへのヒジュラ(聖遷)",
+      "630年のメッカ征服",
+      "762年のバグダード建設"
+    ],
+    "answer": 1,
+    "explanation": "622年のムハンマドのメッカからメディナへの移住は、カリフ・ウマルによってイスラーム暦の起点と定められた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-02",
+    "epochId": "islamische-welt",
+    "question": "732年、トゥール・ポワティエの戦いでアラブ・ベルベル軍を破ったのは誰か。",
+    "choices": [
+      "カール大帝",
+      "クローヴィス",
+      "ピピン3世(小ピピン)",
+      "カール・マルテル"
+    ],
+    "answer": 3,
+    "explanation": "732年、フランク王国の宮宰カール・マルテルはムスリム軍の北方への進撃を食い止めた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-03",
+    "epochId": "islamische-welt",
+    "question": "762年にバグダードの都市を建設した王朝はどれか。",
+    "choices": [
+      "アッバース朝",
+      "ウマイヤ朝",
+      "ファーティマ朝",
+      "オスマン朝"
+    ],
+    "answer": 0,
+    "explanation": "762年、アッバース朝のカリフ、マンスールはティグリス川沿いに円形都市バグダードを新首都として建設させた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-04",
+    "epochId": "islamische-welt",
+    "question": "イブン・シーナー(アヴィケンナ)を17世紀に至るまでヨーロッパで有名にした著作はどれか。",
+    "choices": [
+      "『リフラ(旅行記)』",
+      "『千夜一夜物語』",
+      "『医学典範』",
+      "『代数学の書』"
+    ],
+    "answer": 2,
+    "explanation": "ラテン語訳されたイブン・シーナーの『医学典範』は、何世紀にもわたってヨーロッパの大学で最も重要な医学書であった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-05",
+    "epochId": "islamische-welt",
+    "question": "サラディンが十字軍からエルサレムを奪還したのは何年か。",
+    "choices": [
+      "1099年",
+      "1187年",
+      "1258年",
+      "1291年"
+    ],
+    "answer": 1,
+    "explanation": "ハッティーンでの勝利の後、サラディンは1187年10月2日にエルサレムを陥落させた。第一回十字軍による占領は1099年に起きていた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-06",
+    "epochId": "islamische-welt",
+    "question": "1258年にバグダードを破壊し、アッバース朝のカリフ制を終わらせたのは誰か。",
+    "choices": [
+      "十字軍",
+      "セルジューク朝",
+      "マムルーク朝",
+      "フレグ率いるモンゴル軍"
+    ],
+    "answer": 3,
+    "explanation": "チンギス・ハンの孫であるフレグ率いるモンゴル軍は1258年にバグダードを攻略し、最後のアッバース朝カリフを処刑させた。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-07",
+    "epochId": "islamische-welt",
+    "question": "680年に起きた出来事で、今日に至るまでシーア派にとって中心的な重要性を持つものはどれか。",
+    "choices": [
+      "バドルの戦い",
+      "カルバラーにおけるフサインの死",
+      "カイロの建設",
+      "マンジケルトの戦い"
+    ],
+    "answer": 1,
+    "explanation": "預言者の孫であるフサインは、680年にウマイヤ朝カリフ、ヤズィードの軍によってカルバラーで殺された。シーア派は毎年アーシューラーの日に彼の死を追悼する。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-08",
+    "epochId": "islamische-welt",
+    "question": "「代数学(アルジェブラ)」という語の由来はどこか。",
+    "choices": [
+      "バグダードという都市の名から",
+      "ギリシア語から",
+      "数学者フワーリズミーの名から",
+      "フワーリズミーの計算書のタイトルから"
+    ],
+    "answer": 3,
+    "explanation": "フワーリズミーの著書『還元と均衡による計算の書』のアラビア語名「アル=ジャブル」が代数学(アルジェブラ)の名の由来である。一方、彼自身の名は「アルゴリズム」という語の由来となった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-09",
+    "epochId": "islamische-welt",
+    "question": "969年にカイロの都市を建設した王朝はどれか。",
+    "choices": [
+      "ファーティマ朝",
+      "アッバース朝",
+      "セルジューク朝",
+      "アイユーブ朝"
+    ],
+    "answer": 0,
+    "explanation": "シーア派のファーティマ朝は969年にエジプトを征服し、宮殿都市アル=カーヒラを築いた。これが後にカイロとなる。アズハル・モスクの建設は970年に始まった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-10",
+    "epochId": "islamische-welt",
+    "question": "1071年のマンジケルトの戦いの結果は何であったか。",
+    "choices": [
+      "モンゴル人がバグダードを征服した",
+      "十字軍がエルサレムを奪取した",
+      "トルコ系諸部族がアナトリアへ進出した",
+      "ウマイヤ朝がスペインを失った"
+    ],
+    "answer": 2,
+    "explanation": "セルジューク朝のビザンツに対する勝利の後、トルコ系諸部族が小アジアに定住し、そこにルーム・セルジューク朝、後にはオスマン帝国が興った。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-11",
+    "epochId": "islamische-welt",
+    "question": "859年にフェズのアル=カラウィーイーン・モスクを寄進し、世界最古の大学の一つがそこから発展したのは誰か。",
+    "choices": [
+      "アーイシャ・ビント・アビー・バクル",
+      "ファーティマ・アル=フィフリー",
+      "バスラのラービア",
+      "シャジャル・アッ=ドゥッル"
+    ],
+    "answer": 1,
+    "explanation": "商人の娘であったファーティマ・アル=フィフリーは、自らの遺産をもってモスクの建設資金を賄った。アル=カラウィーイーン大学は今日でも存続している。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-12",
+    "epochId": "islamische-welt",
+    "question": "1492年1月2日、グラナダで何が起きたか。",
+    "choices": [
+      "アルハンブラ宮殿が完成した",
+      "コロンブスがアメリカへ向けて出発した",
+      "ティムールがこの都市を占領した",
+      "最後の首長がこの都市をカトリック両王に明け渡した"
+    ],
+    "answer": 3,
+    "explanation": "ボアブディルとして知られるムハンマド12世がグラナダをイサベルとフェルナンドに明け渡したことで、およそ800年に及んだスペインにおけるムスリム支配は終わりを迎えた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-01",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "ベルリンの壁が崩壊したのは何年か。",
+    "choices": [
+      "1989年",
+      "1961年",
+      "1990年",
+      "1991年"
+    ],
+    "answer": 0,
+    "explanation": "1989年11月9日、東ドイツは国境検問所を開放し、1990年10月3日に統一が実現した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-02",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1962年、世界を核戦争の瀬戸際に追いやった危機はどれか。",
+    "choices": [
+      "スエズ危機",
+      "キューバ危機",
+      "ベルリン封鎖",
+      "石油危機"
+    ],
+    "answer": 1,
+    "explanation": "キューバに配備されたソヴィエトのミサイルは、1962年10月にケネディとフルシチョフの間で13日間に及ぶ対立を引き起こした。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-03",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1994年の南アフリカ初の自由選挙で大統領となったのは誰か。",
+    "choices": [
+      "デズモンド・ツツ",
+      "フレデリック・デクラーク",
+      "ネルソン・マンデラ",
+      "タボ・ムベキ"
+    ],
+    "answer": 2,
+    "explanation": "27年間投獄されていたネルソン・マンデラは、ANCの選挙勝利の後、南アフリカ初の黒人大統領となった。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-04",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "マハトマ・ガンディーはどのような方法でインドの独立を勝ち取ったか。",
+    "choices": [
+      "武装ゲリラ戦",
+      "日本との同盟",
+      "国際連盟との交渉",
+      "非暴力抵抗と市民的不服従"
+    ],
+    "answer": 3,
+    "explanation": "ガンディーはボイコット、塩の行進のような行進、そしてイギリス支配に対する非暴力の不服従に依拠した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-05",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "ミハイル・ゴルバチョフに関連する改革の理念はどれか。",
+    "choices": [
+      "グラスノスチとペレストロイカ",
+      "ニューディールとフェアディール",
+      "大躍進政策と文化大革命",
+      "マーシャル・プランとトルーマン・ドクトリン"
+    ],
+    "answer": 0,
+    "explanation": "「公開性」を意味するグラスノスチと「再構築」を意味するペレストロイカによって、ゴルバチョフは1985年からソヴィエト連邦の改革を試みた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-06",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "2008年の世界金融危機の引き金となった出来事はどれか。",
+    "choices": [
+      "中国の世界貿易機関加盟",
+      "ユーロの導入",
+      "リーマン・ブラザーズの破綻",
+      "ブレグジット"
+    ],
+    "answer": 2,
+    "explanation": "2008年9月15日のリーマン・ブラザーズの破綻は、世界の金融システムを揺るがした。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-07",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1948年のソヴィエトによる西ベルリン封鎖に対し、西側諸国はどう対応したか。",
+    "choices": [
+      "ベルリンから軍を撤退させた",
+      "空輸によってこの都市に物資を供給した",
+      "戦車で封鎖を突破した",
+      "ソヴィエト連邦に対して海上封鎖を行った"
+    ],
+    "answer": 1,
+    "explanation": "1年近くにわたり、アメリカとイギリスの航空機が石炭、食料、医薬品を西ベルリンに空輸し、1949年5月にスターリンが封鎖を解除した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-08",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1960年が「アフリカの年」と呼ばれるのはなぜか。",
+    "choices": [
+      "南アフリカのアパルトヘイトが終結したから",
+      "アフリカ統一機構が設立されたから",
+      "スエズ運河が国有化されたから",
+      "アフリカの17の植民地が独立したから"
+    ],
+    "answer": 3,
+    "explanation": "この一年のうちに、フランス植民地のほぼすべてに加え、ナイジェリア、ソマリア、コンゴを含む17か国が独立を果たした。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-09",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1955年のバンドン会議から生まれた運動はどれか。",
+    "choices": [
+      "非同盟運動",
+      "ワルシャワ条約機構",
+      "石油輸出国機構",
+      "欧州経済共同体"
+    ],
+    "answer": 0,
+    "explanation": "バンドンでは29のアジア・アフリカ諸国が両陣営の間で独自の道を求め、1961年にベオグラードで非同盟運動を結成した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-10",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1955年、モンゴメリー・バス・ボイコットのきっかけとなったローザ・パークスの行動は何か。",
+    "choices": [
+      "議会の前で演説を行った",
+      "獄中でハンガーストライキを行った",
+      "白人乗客に席を譲ることを拒んだ",
+      "モンゴメリー市を相手取って訴訟を起こした"
+    ],
+    "answer": 2,
+    "explanation": "パークスはバスの座席に座り続けたために逮捕され、その後黒人住民は381日間にわたって市のバスをボイコットした。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-11",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "1978年以降のトウ小平の政策は何を意味するか。",
+    "choices": [
+      "文化大革命",
+      "大躍進政策のためか",
+      "ソヴィエト連邦との断絶のためか",
+      "改革開放と市場経済化のためか"
+    ],
+    "answer": 3,
+    "explanation": "鄧小平は民間企業を認め、経済特区を創設し、中国を外国資本に開放したが、党の一党支配は堅持した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-12",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "ベトナム戦争は北によるサイゴン陥落をもって何年に終わったか。",
+    "choices": [
+      "1968年",
+      "1975年",
+      "1973年",
+      "1979年"
+    ],
+    "answer": 1,
+    "explanation": "アメリカ合衆国は1973年に撤退し、1975年4月30日に北ベトナム軍がサイゴンを占領して国を共産主義のもとに統一した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-01",
+    "epochId": "mittelalter",
+    "question": "800年のクリスマスにローマで皇帝として戴冠したのは誰か。",
+    "choices": [
+      "クローヴィス",
+      "オットー大帝",
+      "ピピン3世(小王)",
+      "カール大帝"
+    ],
+    "answer": 3,
+    "explanation": "教皇レオ3世は800年12月25日、サン・ピエトロ大聖堂でカール大帝を皇帝として戴冠させた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-02",
+    "epochId": "mittelalter",
+    "question": "ヴァイキング時代の始まりとみなされる出来事はどれか。",
+    "choices": [
+      "793年のリンディスファーン修道院への襲撃",
+      "ダブリンの建設",
+      "グリーンランドの発見",
+      "ヘイスティングズの戦い"
+    ],
+    "answer": 0,
+    "explanation": "793年のリンディスファーン修道院への襲撃はヨーロッパ中に恐怖を巻き起こし、ヴァイキング時代の始まりを画するものとされる。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-03",
+    "epochId": "mittelalter",
+    "question": "1215年のマグナ・カルタは何を定めたか。",
+    "choices": [
+      "フランク王国の分割",
+      "枢機卿による教皇選挙",
+      "国王が法に拘束され、同意なしにはいかなる税も課せないこと",
+      "オックスフォード大学の設立"
+    ],
+    "answer": 2,
+    "explanation": "国王ジョンは、いかなる者も裁判なしに投獄されないこと、評議会の同意なしにはいかなる税も課されないことを諸侯に保証しなければならなかった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-04",
+    "epochId": "mittelalter",
+    "question": "1324年にメッカへ巡礼したマンサ・ムーサーが統治していたのはどの帝国か。",
+    "choices": [
+      "ガーナ帝国",
+      "マリ帝国",
+      "ソンガイ帝国",
+      "アクスム王国"
+    ],
+    "answer": 1,
+    "explanation": "マンサ・ムーサーは西アフリカのマリ帝国の王であり、この国はサハラを越える金交易を支配していた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-05",
+    "epochId": "mittelalter",
+    "question": "百年戦争において、ジャンヌ・ダルクが1429年に解放した都市はどこか。",
+    "choices": [
+      "パリ",
+      "ランス",
+      "カレー",
+      "オルレアン"
+    ],
+    "answer": 3,
+    "explanation": "1429年5月、ジャンヌ・ダルクはイングランド軍によるオルレアン包囲を解き、その後王太子をランスへ導いて戴冠させた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-06",
+    "epochId": "mittelalter",
+    "question": "1453年にコンスタンティノープルを征服したスルタンは誰か。",
+    "choices": [
+      "メフメト2世",
+      "オスマン1世",
+      "壮麗王スレイマン",
+      "バヤズィト1世"
+    ],
+    "answer": 0,
+    "explanation": "「征服者」と呼ばれたメフメト2世は1453年5月29日にコンスタンティノープルを攻略し、これをオスマン帝国の首都とした。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-07",
+    "epochId": "mittelalter",
+    "question": "1077年、教皇の許しを求めて悔悛者としてカノッサ城の前で待った国王は誰か。",
+    "choices": [
+      "オットー1世",
+      "ハインリヒ4世",
+      "フリードリヒ1世(バルバロッサ)",
+      "禿頭王シャルル"
+    ],
+    "answer": 1,
+    "explanation": "叙任権闘争の最中、ハインリヒ4世は1076年に教皇グレゴリウス7世が科した破門の解除を求めて、カノッサで教皇に懇願した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-08",
+    "epochId": "mittelalter",
+    "question": "843年のヴェルダン条約は何を定めたか。",
+    "choices": [
+      "オットー1世の皇帝戴冠",
+      "ヴァイキングの襲撃の終結",
+      "カール大帝の孫たちの間でのフランク王国の分割",
+      "ハンザ同盟の設立"
+    ],
+    "answer": 2,
+    "explanation": "ヴェルダンにおいて、禿頭王シャルル、ドイツ人ルートヴィヒ、ロタール1世はフランク王国を西・東・中の三王国に分割した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-09",
+    "epochId": "mittelalter",
+    "question": "532年から537年にかけて、コンスタンティノープルにハギア・ソフィアを建てさせた皇帝は誰か。",
+    "choices": [
+      "ユスティニアヌス1世",
+      "コンスタンティヌス大帝",
+      "カール大帝",
+      "バシレイオス2世"
+    ],
+    "answer": 0,
+    "explanation": "ユスティニアヌス1世は、ニカの反乱の後にハギア・ソフィアを再建させ、537年に献堂した。それは千年近くにわたって世界最大の教会であり続けた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-10",
+    "epochId": "mittelalter",
+    "question": "955年、アウクスブルク近郊のレヒフェルトでオットー1世が打ち破ったのは誰か。",
+    "choices": [
+      "ヴァイキング",
+      "ザクセン人",
+      "アラブ人",
+      "マジャル人"
+    ],
+    "answer": 3,
+    "explanation": "955年、オットー1世は何十年もの間中央ヨーロッパを略奪していたマジャルの騎馬戦士たちを打ち破り、962年に皇帝として戴冠した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-11",
+    "epochId": "mittelalter",
+    "question": "1438年頃から都市国家クスコをインカ帝国へと変えた支配者は誰か。",
+    "choices": [
+      "モクテスマ",
+      "パチャクティ",
+      "アタワルパ",
+      "マンサ・ムーサー"
+    ],
+    "answer": 1,
+    "explanation": "パチャクティはチャンカ族を打ち破り、クスコを首都へと拡張してタワンティンスーユ帝国を築いた。アタワルパはスペイン征服前の最後のインカ王であった。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-12",
+    "epochId": "mittelalter",
+    "question": "13世紀から15世紀にかけて、南部アフリカの石造都市グレート・ジンバブエは何によって主に成り立っていたか。",
+    "choices": [
+      "サハラを越える塩交易",
+      "ビザンツとの絹交易",
+      "スワヒリ海岸との金と象牙の交易",
+      "ノヴゴロドとの毛皮交易"
+    ],
+    "answer": 2,
+    "explanation": "グレート・ジンバブエの支配者たちは金鉱床と牛の群れを統制し、キルワやソファラといった港を通じてインドや中国にまで交易を行った。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-01",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1450年頃、ヨハネス・グーテンベルクの功績とされる発明は何か。",
+    "choices": [
+      "望遠鏡",
+      "可動式活字による印刷術",
+      "羅針盤",
+      "機械式時計"
+    ],
+    "answer": 1,
+    "explanation": "マインツで、グーテンベルクは個々に鋳造された活字と印刷機を用いた印刷術を開発した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-02",
+    "epochId": "renaissance-entdeckungen",
+    "question": "クリストファー・コロンブスがアメリカに到達したのは何年か。",
+    "choices": [
+      "1453年",
+      "1498年",
+      "1517年",
+      "1492年"
+    ],
+    "answer": 3,
+    "explanation": "コロンブスは1492年10月12日、バハマの島に上陸した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-03",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1517年のルターの九十五か条の論題は、何よりもまず何に対して向けられたものか。",
+    "choices": [
+      "贖宥状の販売に対して",
+      "農奴制に対して",
+      "印刷術に対して",
+      "聖書の翻訳に対して"
+    ],
+    "answer": 0,
+    "explanation": "ルターは、贖宥状の購入によって罪の罰から逃れられるという慣行を批判した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-04",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1521年、テノチティトランの陥落によってスペイン人が征服した帝国はどれか。",
+    "choices": [
+      "インカ帝国",
+      "マヤの諸王国",
+      "アステカ帝国",
+      "ムガル帝国"
+    ],
+    "answer": 2,
+    "explanation": "テノチティトランはアステカの首都であり、エルナン・コルテスは数か月に及ぶ包囲戦の末にこれを征服した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-05",
+    "epochId": "renaissance-entdeckungen",
+    "question": "ニコラウス・コペルニクスが1543年の著作で唱えた革新的な説は何か。",
+    "choices": [
+      "地球は円盤である",
+      "地球は太陽の周りを回る",
+      "惑星は楕円軌道を描いて動く",
+      "宇宙は無限である"
+    ],
+    "answer": 1,
+    "explanation": "コペルニクスは太陽を中心に据えたが、楕円軌道が発見されるのはケプラーを待たねばならなかった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-06",
+    "epochId": "renaissance-entdeckungen",
+    "question": "トリエント公会議(1545年から1563年)の目的は何であったか。",
+    "choices": [
+      "新たな教皇の選出",
+      "正教会との和解",
+      "コペルニクスの断罪",
+      "宗教改革への対応としてのカトリック教義の明確化"
+    ],
+    "answer": 3,
+    "explanation": "この公会議はプロテスタントに対抗してカトリック教義を再確認し、教会内部の改革を決議した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-07",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1494年のトルデシリャス条約は何を定めたか。",
+    "choices": [
+      "イングランドとスペインの間の和平",
+      "宗教改革の承認",
+      "フランスと帝国の国境",
+      "スペインとポルトガルの間での世界の分割"
+    ],
+    "answer": 3,
+    "explanation": "大西洋上の境界線に沿って、西の新たな土地はスペインに、東の土地はポルトガルに属するとされた。これによりブラジルはポルトガル領となった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-08",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1555年のアウクスブルクの宗教和議はどのような原則を定めたか。",
+    "choices": [
+      "領邦君主がその領邦の宗派を決定する",
+      "すべての臣民が自らの宗教を自由に選ぶ",
+      "帝国内ではカトリックのみが許される",
+      "皇帝がすべての諸侯の信仰を決定する"
+    ],
+    "answer": 0,
+    "explanation": "各帝国等族は自らの領邦についてカトリックとルター派のいずれかを選ぶことが許され、異なる信仰を持つ者には移住が認められた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-09",
+    "epochId": "renaissance-entdeckungen",
+    "question": "アスキア・ムハンマドのもとでのソンガイ帝国において、学問の中心地であった都市はどこか。",
+    "choices": [
+      "カイロ",
+      "ザンジバル",
+      "トンブクトゥ",
+      "グレート・ジンバブエ"
+    ],
+    "answer": 2,
+    "explanation": "ニジェール川沿いのトンブクトゥは、サンコレ・モスクを擁し、イスラーム学問とサハラを越える交易の中心地であった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-10",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1540年にイエズス会を創設したのは誰か。",
+    "choices": [
+      "ジャン・カルヴァン",
+      "イグナティウス・デ・ロヨラ",
+      "ロッテルダムのエラスムス",
+      "トマス・モア"
+    ],
+    "answer": 1,
+    "explanation": "元軍人であったイグナティウス・デ・ロヨラはイエズス会を創設し、これは1540年に教皇によって承認された。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-11",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1521年のヴォルムス帝国議会では何が起きたか。",
+    "choices": [
+      "ルターが自らの教説の撤回を拒否した",
+      "カール5世が皇帝に選出された",
+      "アウクスブルクの宗教和議が締結された",
+      "ルターが処刑された"
+    ],
+    "answer": 0,
+    "explanation": "皇帝カール5世の前で、ルターは聖書によって論駁されない限り撤回はできないと宣言し、その結果法の保護を奪われた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-12",
+    "epochId": "renaissance-entdeckungen",
+    "question": "1556年からインドのムガル帝国を統治し、その宗教的寛容で知られた支配者は誰か。",
+    "choices": [
+      "壮麗王スレイマン",
+      "織田信長",
+      "アクバル",
+      "バーブル"
+    ],
+    "answer": 2,
+    "explanation": "アクバルは非イスラム教徒に対する特別税を廃止し、宮廷であらゆる宗教の代表者たちに議論させた。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-01",
+    "epochId": "revolutionen",
+    "question": "フランス革命の始まりとみなされる出来事はどれか。",
+    "choices": [
+      "ルイ16世の処刑",
+      "バスティーユ襲撃",
+      "ナポレオンの皇帝戴冠",
+      "ライプツィヒの諸国民の戦い"
+    ],
+    "answer": 1,
+    "explanation": "1789年7月14日のバスティーユ襲撃は革命の幕開けとみなされ、7月14日は今日フランスの国民の祝日となっている。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-02",
+    "epochId": "revolutionen",
+    "question": "1776年にイギリスからの独立を宣言した植民地はどれか。",
+    "choices": [
+      "南アメリカのスペイン植民地",
+      "フランス植民地サン=ドマング",
+      "ポルトガル植民地ブラジル",
+      "北アメリカの13の英領植民地"
+    ],
+    "answer": 3,
+    "explanation": "北アメリカ東海岸の13の植民地がアメリカ合衆国を建国した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-03",
+    "epochId": "revolutionen",
+    "question": "ハイチ革命で蜂起した人々を率いたのは誰か。",
+    "choices": [
+      "トゥーサン・ルーヴェルチュール",
+      "シモン・ボリバル",
+      "マクシミリアン・ド・ロベスピエール",
+      "ホセ・デ・サン・マルティン"
+    ],
+    "answer": 0,
+    "explanation": "元奴隷であったトゥーサン・ルーヴェルチュールは、サン=ドマングにおける蜂起の最も重要な指導者となった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-04",
+    "epochId": "revolutionen",
+    "question": "1804年のナポレオン法典とは何であったか。",
+    "choices": [
+      "帝国のための憲法",
+      "オーストリアとの講和条約",
+      "フランスのための統一的な民法典",
+      "徴兵制を導入する法律"
+    ],
+    "answer": 2,
+    "explanation": "ナポレオン法典は民法を統一し、法の下の平等、財産権、契約の自由を確立した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-05",
+    "epochId": "revolutionen",
+    "question": "1814年から1815年のウィーン会議を最も決定的に主導した政治家は誰か。",
+    "choices": [
+      "タレーラン",
+      "メッテルニヒ",
+      "ビスマルク",
+      "ハルデンベルク"
+    ],
+    "answer": 1,
+    "explanation": "オーストリアの外相メッテルニヒが会議を主宰し、復古政策を体現した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-06",
+    "epochId": "revolutionen",
+    "question": "1849年、フランクフルト国民議会が失敗に終わった理由は何か。",
+    "choices": [
+      "基本権について合意できなかったから",
+      "ナポレオン3世がフランクフルトに進軍したから",
+      "オーストリアが新たな帝国に加わったから",
+      "プロイセン王が皇帝の冠を拒んだから"
+    ],
+    "answer": 3,
+    "explanation": "1849年、フリードリヒ・ヴィルヘルム4世は議会から差し出された皇帝の冠を拒み、その後国民議会は崩壊した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-07",
+    "epochId": "revolutionen",
+    "question": "1787年、アメリカ合衆国憲法が採択された都市はどこか。",
+    "choices": [
+      "フィラデルフィア",
+      "ワシントン",
+      "ニューヨーク",
+      "ボストン"
+    ],
+    "answer": 0,
+    "explanation": "1787年5月から9月にかけて、55人の代議員がジョージ・ワシントンを議長としてフィラデルフィアで憲法を審議した。首都ワシントンが建設されたのはそれより後のことである。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-08",
+    "epochId": "revolutionen",
+    "question": "1789年10月、パリの女性たちはヴェルサイユへの行進によって何を達成したか。",
+    "choices": [
+      "女性の参政権",
+      "君主制の廃止",
+      "国王のパリへの移動",
+      "政治犯の釈放"
+    ],
+    "answer": 2,
+    "explanation": "女性たちはルイ16世に人間と市民の権利の宣言への署名を強い、彼とその家族をヴェルサイユからパリへ移らせ、国王は民衆の目の前に置かれることとなった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-09",
+    "epochId": "revolutionen",
+    "question": "ナポレオンのエジプト遠征でのどの発見が、ヒエログリフの解読を可能にしたか。",
+    "choices": [
+      "アレクサンドリアの巻物",
+      "ロゼッタ・ストーン",
+      "ツタンカーメンの墓",
+      "アマルナ文書"
+    ],
+    "answer": 1,
+    "explanation": "1799年に発見されたロゼッタ・ストーンには、ヒエログリフ、デモティック、ギリシア語で同一の文章が刻まれており、これによってシャンポリオンは1822年に解読を成し遂げた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-10",
+    "epochId": "revolutionen",
+    "question": "1806年8月6日に何が起きたか。",
+    "choices": [
+      "ナポレオンが自ら皇帝の冠を戴いた",
+      "プロイセンがイェナの戦いに敗れた",
+      "ライン同盟が結成された",
+      "フランツ2世が神聖ローマ帝国の帝冠を放棄した"
+    ],
+    "answer": 3,
+    "explanation": "ライン同盟の結成とナポレオンによる最後通牒の後、フランツ2世は800年以上続いた帝国の解体を宣言した。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-11",
+    "epochId": "revolutionen",
+    "question": "1815年6月18日夕方のワーテルローの戦いの帰趨を決定したのは誰の到着であったか。",
+    "choices": [
+      "皇帝アレクサンドル率いるロシア親衛隊",
+      "シュヴァルツェンベルク率いるオーストリア軍",
+      "ブリュッヒャー率いるプロイセン軍",
+      "スペインのゲリラ部隊"
+    ],
+    "answer": 2,
+    "explanation": "ウェリントンの軍は一日中持ちこたえ、ブリュッヒャーのプロイセン軍が到着してナポレオンの軍を敗走させた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-12",
+    "epochId": "revolutionen",
+    "question": "メアリー・ウルストンクラフトが1792年に発表した著作はどれか。",
+    "choices": [
+      "『女性の権利の擁護』",
+      "『女性および女性市民の権利宣言』",
+      "『社会契約論』",
+      "『フランケンシュタイン』"
+    ],
+    "answer": 0,
+    "explanation": "『女性の権利の擁護』の中で、ウルストンクラフトは女性への平等な教育と市民権を要求した。『女性および女性市民の権利宣言』はオランプ・ド・グージュの著作である。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-01",
+    "epochId": "rom",
+    "question": "伝承によれば、ローマが建国されたのは何年か。",
+    "choices": [
+      "紀元前1000年",
+      "紀元前753年",
+      "紀元前509年",
+      "紀元前264年"
+    ],
+    "answer": 1,
+    "explanation": "ローマの伝承は、ロムルスによる建国の年を紀元前753年としている。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-02",
+    "epochId": "rom",
+    "question": "ローマが三度のポエニ戦争を戦った相手はどの都市か。",
+    "choices": [
+      "アテナイ",
+      "アレクサンドリア",
+      "カルタゴ",
+      "シラクサ"
+    ],
+    "answer": 2,
+    "explanation": "北アフリカのカルタゴはローマの大いなる好敵手であり、紀元前146年に破壊された。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-03",
+    "epochId": "rom",
+    "question": "紀元前44年の「3月15日」に何が起きたか。",
+    "choices": [
+      "カエサルが暗殺された",
+      "ローマがガリア人に占領された",
+      "アウグストゥスが皇帝となった",
+      "ヴェスヴィオ火山が噴火した"
+    ],
+    "answer": 0,
+    "explanation": "ブルートゥスとカッシウスを中心とする元老院議員たちが、紀元前44年3月15日にカエサルを刺殺した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-04",
+    "epochId": "rom",
+    "question": "アウグストゥスが打ち立てた統治形態は何と呼ばれるか。",
+    "choices": [
+      "僭主政",
+      "専制君主政(ドミナートゥス)",
+      "四帝分治制(テトラルキア)",
+      "元首政(プリンキパトゥス)"
+    ],
+    "answer": 3,
+    "explanation": "アウグストゥスは「プリンケプス(市民の第一人者)」として統治した。そこから元首政という名がついた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-05",
+    "epochId": "rom",
+    "question": "313年にキリスト教徒に信教の自由を認めた皇帝は誰か。",
+    "choices": [
+      "ネロ",
+      "コンスタンティヌス",
+      "ディオクレティアヌス",
+      "トラヤヌス"
+    ],
+    "answer": 1,
+    "explanation": "313年、コンスタンティヌスとリキニウスはミラノで信教の自由について合意した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-06",
+    "epochId": "rom",
+    "question": "476年に最後の西ローマ皇帝を廃位したのは誰か。",
+    "choices": [
+      "アッティラ",
+      "アラリック",
+      "オドアケル",
+      "テオドリック"
+    ],
+    "answer": 2,
+    "explanation": "ゲルマン人の武将オドアケルはロムルス・アウグストゥルスを廃位し、イタリア王となった。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-07",
+    "epochId": "rom",
+    "question": "紀元前450年頃の十二表法とは何であったか。",
+    "choices": [
+      "カルタゴとの講和条約",
+      "ローマ最初の成文法",
+      "キリスト教徒に対する法律",
+      "アウグストゥスの憲法"
+    ],
+    "answer": 1,
+    "explanation": "平民の圧力のもと、この法は十二枚の板に記され、フォルムに公示された。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-08",
+    "epochId": "rom",
+    "question": "紀元前73年から71年にかけて、古代最大の奴隷反乱を率いたのは誰か。",
+    "choices": [
+      "アルミニウス",
+      "ウェルキンゲトリクス",
+      "スパルタクス",
+      "クラッスス"
+    ],
+    "answer": 2,
+    "explanation": "剣闘士スパルタクスはカプアから脱出し、クラッススに紀元前71年に打ち破られるまで何万人もの奴隷を率いた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-09",
+    "epochId": "rom",
+    "question": "117年、ローマ帝国が最大版図に達したのはどの皇帝のもとでか。",
+    "choices": [
+      "トラヤヌス",
+      "ネロ",
+      "アウグストゥス",
+      "ディオクレティアヌス"
+    ],
+    "answer": 0,
+    "explanation": "トラヤヌスはダキア、アルメニア、メソポタミアを征服したが、後継者ハドリアヌスは東方の征服地を再び放棄した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-10",
+    "epochId": "rom",
+    "question": "212年、皇帝カラカラの「アントニヌス勅法」は何を定めたか。",
+    "choices": [
+      "帝国の四分割",
+      "異教崇拝の禁止",
+      "首都のコンスタンティノープルへの移転",
+      "帝国内のほぼすべての自由民へのローマ市民権付与"
+    ],
+    "answer": 3,
+    "explanation": "この勅令によって何百万もの属州住民がローマ市民となり、ローマ法が帝国全域に適用されることとなった。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-11",
+    "epochId": "rom",
+    "question": "293年にディオクレティアヌスが導入した統治形態はどれか。",
+    "choices": [
+      "元首政",
+      "四帝分治制",
+      "共和政",
+      "三頭政治"
+    ],
+    "answer": 1,
+    "explanation": "四帝分治制では、二人の正帝と二人の副帝が帝国を共同で統治し、国境をより効果的に防衛しようとした。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-12",
+    "epochId": "rom",
+    "question": "415年、アレクサンドリアでキリスト教徒の暴徒に殺害された学者は誰か。",
+    "choices": [
+      "リウィア",
+      "クレオパトラ",
+      "ヒュパティア",
+      "アグリッピナ"
+    ],
+    "answer": 2,
+    "explanation": "数学者・哲学者ヒュパティアは、市長と司教キュリロスの間の権力闘争に巻き込まれ、殺害された。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-01",
+    "epochId": "urgeschichte",
+    "question": "現生人類、ホモ・サピエンスはどの大陸で出現したか。",
+    "choices": [
+      "アジア",
+      "ヨーロッパ",
+      "アフリカ",
+      "アメリカ大陸"
+    ],
+    "answer": 2,
+    "explanation": "ホモ・サピエンスの最古の化石はアフリカで発見されており、約30万年前のものである。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-02",
+    "epochId": "urgeschichte",
+    "question": "新石器革命とは何を意味するか。",
+    "choices": [
+      "農耕、牧畜、定住生活への移行",
+      "文字の発明",
+      "人類のアフリカからの移住",
+      "最初の鉄の加工"
+    ],
+    "answer": 0,
+    "explanation": "新石器時代に人々は植物を栽培し動物を飼育し始め、村に定住して暮らすようになった。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-03",
+    "epochId": "urgeschichte",
+    "question": "フランスのラスコー洞窟は何で知られているか。",
+    "choices": [
+      "最古の石器で",
+      "氷河期の動物壁画で",
+      "ネアンデルタール人の骨格で",
+      "最古の穀物の出土品で"
+    ],
+    "answer": 1,
+    "explanation": "ラスコーでは、約1万7000年前に人々が数百頭の馬、オーロックス、鹿を洞窟の壁に描いた。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-04",
+    "epochId": "urgeschichte",
+    "question": "最初の人類はどのようにしてアメリカ大陸に到達したか。",
+    "choices": [
+      "船で大西洋を渡って",
+      "アフリカからの陸橋を通って",
+      "オーストラリアから舟で",
+      "シベリアからアラスカへ、ベーリング陸橋を通って"
+    ],
+    "answer": 3,
+    "explanation": "氷河期には海面が非常に低く、シベリアとアラスカの間に陸続きの地があった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-05",
+    "epochId": "urgeschichte",
+    "question": "アイスマン「エッツィ」はどのようにして死んだか。",
+    "choices": [
+      "クレバスに転落して",
+      "矢を射られて",
+      "吹雪の中で凍死して",
+      "病気によって"
+    ],
+    "answer": 1,
+    "explanation": "左肩に残った矢じりが、エッツィが殺害されたことを示している。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-06",
+    "epochId": "urgeschichte",
+    "question": "現在のトルコにあるギョベクリ・テペの何が注目すべき点か。",
+    "choices": [
+      "城壁を持つ最古の都市であること",
+      "そこで車輪が発明されたこと",
+      "人々がまだ狩猟採集民であった時代に巨大な石柱の環が築かれたこと",
+      "そこで最古の楔形文字の粘土板が発見されたこと"
+    ],
+    "answer": 2,
+    "explanation": "ギョベクリ・テペのT字形の石柱は紀元前9500年頃に作られたもので、その地域で農耕や牧畜が広まる以前のことであった。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-07",
+    "epochId": "urgeschichte",
+    "question": "最初にアフリカを出て、ジャワや中国にまで広がった人類種はどれか。",
+    "choices": [
+      "ホモ・エレクトゥス",
+      "ホモ・サピエンス",
+      "ネアンデルタール人",
+      "アウストラロピテクス"
+    ],
+    "answer": 0,
+    "explanation": "ホモ・エレクトゥスは約180万年前にコーカサス地方に到達し、後には東アジアと東南アジアにまで広がった。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-08",
+    "epochId": "urgeschichte",
+    "question": "世界最古の既知の土器はどこで作られたか。",
+    "choices": [
+      "メソポタミアで",
+      "中国南部で",
+      "エジプトで",
+      "中央ヨーロッパで"
+    ],
+    "answer": 1,
+    "explanation": "中国南部の仙人洞遺跡から出土した土器片は約1万8000年から2万年前のもので、当時はまだ狩猟採集民の時代であった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-09",
+    "epochId": "urgeschichte",
+    "question": "南アフリカのブロンボス洞窟は何で知られているか。",
+    "choices": [
+      "最古のハンドアックスで",
+      "ルーシーの骨格で",
+      "最古の刻線模様と装飾用ビーズで",
+      "最古の穀物の出土品で"
+    ],
+    "answer": 2,
+    "explanation": "ブロンボス洞窟では、幾何学模様が刻まれた約7万5000年前のオーカーの破片と、穴をあけた巻貝の殻が発見された。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-10",
+    "epochId": "urgeschichte",
+    "question": "デニソワ人はどのようにして発見されたか。",
+    "choices": [
+      "シベリアで発見された完全な骨格を通じて",
+      "アルタイの洞窟壁画を通じて",
+      "中国の石器を通じて",
+      "指の骨のDNA解析を通じて"
+    ],
+    "answer": 3,
+    "explanation": "2010年、デニソワ洞窟で見つかった小さな指の骨から、それまで知られていなかった人類種のゲノムが得られた。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-11",
+    "epochId": "urgeschichte",
+    "question": "紀元前8000年頃、ヨルダン渓谷で石壁と塔を築いた集落はどこか。",
+    "choices": [
+      "チャタル・ヒュユク",
+      "エリコ",
+      "ウルク",
+      "ギョベクリ・テペ"
+    ],
+    "answer": 1,
+    "explanation": "エリコは世界最古級の常住集落の一つとみなされており、その塔は高さ9メートル近くに及ぶ。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-12",
+    "epochId": "urgeschichte",
+    "question": "考古学者は紀元前1500年頃から太平洋の島々に定住した航海者たちを何によって見分けるか。",
+    "choices": [
+      "彼らの環状列石によって",
+      "彼らの青銅製の武器によって",
+      "彼らのスタンプ文様のラピタ土器によって",
+      "彼らの洞窟壁画によって"
+    ],
+    "answer": 2,
+    "explanation": "ラピタ文化はニューカレドニアの遺跡にちなんで名付けられており、その特徴的な装飾を持つ土器はトンガやサモアに至るまでの定住の道筋を示している。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-01",
+    "epochId": "zweiter-weltkrieg",
+    "question": "ヨーロッパにおける第二次世界大戦はどの出来事によって始まったか。",
+    "choices": [
+      "真珠湾攻撃",
+      "ソヴィエト連邦への攻撃",
+      "オーストリア併合",
+      "ポーランド侵攻"
+    ],
+    "answer": 3,
+    "explanation": "1939年9月1日、ドイツ国防軍はポーランドを攻撃し、二日後にイギリスとフランスがドイツに宣戦布告した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-02",
+    "epochId": "zweiter-weltkrieg",
+    "question": "ホロコーストで殺害されたユダヤ人はおよそ何人か。",
+    "choices": [
+      "約60万人",
+      "約600万人",
+      "約6万人",
+      "約6000万人"
+    ],
+    "answer": 1,
+    "explanation": "国家社会主義者たちはおよそ600万人のヨーロッパのユダヤ人、さらには何十万人ものシンティとロマ、障害者などその他の集団を殺害した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-03",
+    "epochId": "zweiter-weltkrieg",
+    "question": "東部戦線における戦局の転換点とみなされる戦いはどれか。",
+    "choices": [
+      "スターリングラード",
+      "ヴェルダン",
+      "エル・アラメイン",
+      "ミッドウェー"
+    ],
+    "answer": 0,
+    "explanation": "1943年2月のスターリングラードにおける第六軍の降伏によって、ドイツ国防軍は東部戦線で恒久的に守勢に立たされることとなった。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-04",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1942年1月のヴァンゼー会議では何が話し合われたか。",
+    "choices": [
+      "ソヴィエト連邦への攻撃",
+      "降伏の条件",
+      "ヨーロッパのユダヤ人の移送と殺害の組織化",
+      "アウトバーンの建設"
+    ],
+    "answer": 2,
+    "explanation": "ラインハルト・ハイドリヒの指揮のもと、親衛隊と各省庁は、いわゆる「ユダヤ人問題の最終解決」を調整した。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-05",
+    "epochId": "zweiter-weltkrieg",
+    "question": "ゾフィーとハンス・ショル兄妹が属していた抵抗組織はどれか。",
+    "choices": [
+      "赤いオーケストラ",
+      "白バラ",
+      "クライザウ・サークル",
+      "エーデルヴァイス海賊団"
+    ],
+    "answer": 1,
+    "explanation": "白バラはミュンヘンでナチ体制に反対するビラを配布し、ショル兄妹は1943年に処刑された。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-06",
+    "epochId": "zweiter-weltkrieg",
+    "question": "ヨーロッパにおける第二次世界大戦の終結とみなされる日はいつか。",
+    "choices": [
+      "1945年4月30日",
+      "1944年6月6日",
+      "1945年9月2日",
+      "1945年5月8日"
+    ],
+    "answer": 3,
+    "explanation": "1945年5月8日、ドイツ国防軍の無条件降伏が発効した。日本が降伏したのは9月2日になってからであった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-07",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1939年8月の独ソ不可侵条約の秘密議定書で、ドイツとソヴィエト連邦は何に合意したか。",
+    "choices": [
+      "イギリスへの共同攻撃",
+      "ポーランドと東欧を勢力圏に分割すること",
+      "捕虜の交換",
+      "あらゆる関税の撤廃"
+    ],
+    "answer": 1,
+    "explanation": "この議定書はポーランドをナレフ川、ヴィスワ川、サン川に沿って分割し、フィンランド、バルト三国、ベッサラビアをソヴィエトの勢力圏とした。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-08",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1944年7月20日、狼の巣(ヴォルフスシャンツェ)総統大本営で爆弾を仕掛けたのは誰か。",
+    "choices": [
+      "エルヴィン・ロンメル",
+      "ゲオルク・エルザー",
+      "ディートリヒ・ボンヘッファー",
+      "クラウス・シェンク・フォン・シュタウフェンベルク伯爵"
+    ],
+    "answer": 3,
+    "explanation": "シュタウフェンベルク大佐は状況説明会に爆発物入りの鞄を置いた。ヒトラーは軽傷を負っただけで生き延び、シュタウフェンベルクはその夜のうちに銃殺された。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-09",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1937年12月の南京占領の後、何が起きたか。",
+    "choices": [
+      "日本軍が数週間にわたり数万から数十万の民間人と捕虜を殺害した",
+      "中国と日本が講和した",
+      "この都市が日本の首都と宣言された",
+      "国際連盟が平和維持部隊を派遣した"
+    ],
+    "answer": 0,
+    "explanation": "南京大虐殺は約六週間続き、東京裁判では20万人を超える死者があったと推定され、集団的な強姦もこの犯罪の一部であった。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-10",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1945年から1946年のニュルンベルク裁判で、国際法廷において初めて裁かれた罪はどれか。",
+    "choices": [
+      "国家反逆罪",
+      "スパイ行為",
+      "人道に対する罪",
+      "脱税"
+    ],
+    "answer": 2,
+    "explanation": "戦争犯罪と平和に対する罪に加えて、この裁判は新たに人道に対する罪という罪状を導入し、それは今日に至るまで国際刑事法を形づくっている。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-11",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1938年のミュンヘン協定の後、チェコスロヴァキアがドイツに割譲した領土はどこか。",
+    "choices": [
+      "アルザス",
+      "スロヴァキア",
+      "メーメル地方",
+      "ズデーテン地方"
+    ],
+    "answer": 3,
+    "explanation": "イギリス、フランス、イタリア、ドイツは、チェコスロヴァキアの参加なしに、主にドイツ語話者からなるズデーテン地方の割譲について合意した。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-12",
+    "epochId": "zweiter-weltkrieg",
+    "question": "1945年4月、フロッセンビュルク強制収容所で処刑された告白教会の神学者は誰か。",
+    "choices": [
+      "マルティン・ニーメラー",
+      "ディートリヒ・ボンヘッファー",
+      "クレメンス・アウグスト・フォン・ガーレン",
+      "ベルンハルト・リヒテンベルク"
+    ],
+    "answer": 1,
+    "explanation": "ボンヘッファーは国防軍情報部を通じて抵抗運動に加わっており、1945年4月9日にヒトラーの命令によって絞首刑に処された。ニーメラーはダッハウ強制収容所を生き延びた。",
+    "difficulty": 3
+  }
+]

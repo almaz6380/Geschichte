@@ -1,0 +1,37 @@
+[
+  {
+    "id": "europa",
+    "name": "Європа",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "naher-osten",
+    "name": "Близький Схід",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "afrika",
+    "name": "Африка",
+    "color": "#10b981"
+  },
+  {
+    "id": "asien",
+    "name": "Азія",
+    "color": "#ef4444"
+  },
+  {
+    "id": "amerika",
+    "name": "Америка",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "ozeanien",
+    "name": "Океанія",
+    "color": "#14b8a6"
+  },
+  {
+    "id": "welt",
+    "name": "Увесь світ",
+    "color": "#64748b"
+  }
+]

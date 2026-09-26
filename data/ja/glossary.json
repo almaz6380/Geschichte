@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "ablasshandel",
+    "term": "免罪符販売",
+    "definition": "中世末期の教会が、金銭の支払いと引き換えに死後における罪の罰の免除を約束した慣行。免罪符(贖宥状)の販売は、とりわけサン・ピエトロ大聖堂の建設資金にも充てられ、ルターの95カ条の論題の直接のきっかけとなった。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "luthers-95-thesen",
+      "martin-luther"
+    ]
+  },
+  {
+    "id": "absolutismus",
+    "term": "絶対主義",
+    "definition": "17世紀から18世紀にかけての統治形態で、君主が身分制議会や法律から自由に、単独で統治すると主張したもの。常備軍、官僚機構、統制経済、豪華な宮廷がその支柱であり、フランスのルイ14世がその模範とされる。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "ludwig-xiv",
+      "hof-nach-versailles",
+      "edikt-von-fontainebleau"
+    ]
+  },
+  {
+    "id": "agora",
+    "term": "アゴラ",
+    "definition": "ギリシアの都市の中心広場で、市場、集会場、政治の中心として機能した。アテナイでは評議会場、法廷、列柱廊、祭壇がアゴラに面して建ち並び、ソクラテスはここで対話を行い、法律もここに公示された。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "sokrates",
+      "reformen-solons"
+    ]
+  },
+  {
+    "id": "akropolis",
+    "term": "アクロポリス",
+    "definition": "多くのギリシア都市にあった要塞化された丘の上部市街で、城塞かつ聖域として機能した。紀元前5世紀以降、アテナイのアクロポリスにはパルテノン神殿、エレクテイオン、プロピュライアが建てられ、今日でも古代を代表する最も有名な建造物群となっている。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "bau-des-parthenon",
+      "perikles"
+    ]
+  },
+  {
+    "id": "al-andalus",
+    "term": "アル=アンダルス",
+    "definition": "711年から1492年にかけてムスリムが支配したイベリア半島の地域を指すアラビア語名。コルドバの首長国およびカリフ国のもとで、アル=アンダルスは農業、交易、学問、建築において繁栄を遂げ、ムスリム、ユダヤ教徒、キリスト教徒がともに関わった。1031年のカリフ国崩壊後、その領土は少しずつキリスト教諸王国に奪われ、最後にグラナダが陥落した。",
+    "epochId": "islamische-welt",
+    "related": [
+      "kalifat-von-cordoba",
+      "ibn-ruschd",
+      "bau-der-alhambra",
+      "fall-granadas"
+    ]
+  },
+  {
+    "id": "alphabet",
+    "term": "アルファベット",
+    "definition": "一つの文字が一つの音を表す文字体系で、少数の文字であらゆる語を表記できる。紀元前1050年頃に成立したフェニキア文字は22の子音字からなり、ギリシア文字、ラテン文字、ヘブライ文字、アラビア文字の祖先である。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "phoenizier-und-alphabet",
+      "sumerische-keilschrift"
+    ]
+  },
+  {
+    "id": "altsteinzeit",
+    "term": "旧石器時代",
+    "definition": "人類史のうち最も長い区分で、約260万年前の最初の石器の登場から、約1万2000年前の最終氷期の終わりまでを指す。人々は移動する狩猟採集民として暮らし、石、骨、木で道具を作った。",
+    "epochId": "urgeschichte",
+    "related": [
+      "oldowan-steinwerkzeuge",
+      "hoehlenmalerei-lascaux",
+      "homo-erectus"
+    ]
+  },
+  {
+    "id": "appeasement",
+    "term": "宥和政策",
+    "definition": "1930年代にイギリスとフランスが、譲歩によってヒトラーの要求を満たし、新たな戦争を回避しようとした政策。1938年のミュンヘン協定でその頂点に達したが、1939年3月にドイツがチェコスロヴァキア残部を占領したことで破綻した。以後この語は、侵略者への譲歩を意味する言葉として用いられている。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "muenchner-abkommen",
+      "winston-churchill",
+      "ueberfall-auf-polen"
+    ]
+  },
+  {
+    "id": "aufgeklaerter-absolutismus",
+    "term": "啓蒙専制主義",
+    "definition": "18世紀の統治のあり方で、君主が宗教的寛容、法制改革、教育の普及といった啓蒙思想の理念を取り入れる一方、自らの権力そのものは分け与えなかったもの。プロイセンのフリードリヒ2世、マリア・テレジア、ヨーゼフ2世、エカチェリーナ2世は、自らを国家の第一の下僕とみなした。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "friedrich-ii-von-preussen",
+      "maria-theresia",
+      "katharina-die-grosse"
+    ]
+  },
+  {
+    "id": "aufklaerung",
+    "term": "啓蒙思想",
+    "definition": "理性、批判、経験を知識、法、政治の基礎とすることを目指した18世紀の思想運動。その担い手たちは寛容、人権、権力分立、万人のための教育を求め、アメリカとフランスにおける革命への道を切り開いた。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "immanuel-kant",
+      "voltaire",
+      "erste-baende-der-encyclopedie",
+      "montesquieu-geist-der-gesetze"
+    ]
+  },
+  {
+    "id": "beamtenpruefung",
+    "term": "科挙",
+    "definition": "中国における国家試験制度で、漢代に始まり唐代以降に本格化し、儒教古典の知識に基づいて官吏を選抜するもの。出自ではなく能力によって官職を与えることを目指しており、1905年まで東アジアの教育のあり方を規定した。",
+    "epochId": "asien-altertum",
+    "related": [
+      "konfuzius",
+      "wu-zetian",
+      "han-dynastie-und-seidenstrasse"
+    ]
+  },
+  {
+    "id": "blockfreie-bewegung",
+    "term": "非同盟運動",
+    "definition": "1961年にベオグラードで結成された国家連合で、冷戦において西側にも東側にも与しないことを目指した。ネルー、ナセル、チトー、スカルノがその中心人物であり、1955年のバンドン会議がその先駆けとなった。この運動は軍縮、植民地主義の終結、より公正な世界経済を求め、今日ではおよそ120か国が加盟している。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "bandung-konferenz",
+      "afrikanisches-jahr-1960"
+    ]
+  },
+  {
+    "id": "blitzkrieg",
+    "term": "電撃戦",
+    "definition": "1939年から1941年にかけてのドイツの急速な軍事作戦を指す言葉で、装甲部隊と航空機が一体となって敵の後方深くまで突き進み、数週間のうちに戦線を崩壊させたもの。ポーランド、フランス、バルカン諸国はこうして制圧された。ソヴィエト連邦に対してはこの構想は破綻し、戦争は連合国の経済力が決定的な意味を持つ長期の消耗戦となった。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "westfeldzug-1940",
+      "ueberfall-auf-polen",
+      "erwin-rommel"
+    ]
+  },
+  {
+    "id": "bronzezeit",
+    "term": "青銅器時代",
+    "definition": "銅と錫の合金である青銅が武器や道具の最も重要な素材であった時代。近東ではおよそ紀元前3300年から前1200年、中央ヨーロッパでは前2200年から前800年にあたる。錫が希少であったため、青銅は遠距離交易と帝国の形成を促した。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "ende-der-bronzezeit-seevoelker",
+      "beginn-der-eisenzeit",
+      "mykenische-kultur"
+    ]
+  },
+  {
+    "id": "buergerrechtsbewegung",
+    "term": "公民権運動",
+    "definition": "1950年代から1960年代にかけて、アフリカ系アメリカ人とその支援者たちが、アメリカ南部諸州における人種隔離と選挙権からの排除に対し、非暴力の抗議、ボイコット、裁判闘争によって闘った運動。モンゴメリー・バス・ボイコット、1963年のワシントン大行進、1964年および1965年の公民権法がその頂点であった。この運動は世界中の自由運動の模範となった。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "montgomery-busboykott",
+      "martin-luther-king",
+      "rosa-parks"
+    ]
+  },
+  {
+    "id": "calvinismus",
+    "term": "カルヴァン主義",
+    "definition": "ジュネーヴの改革者ジャン・カルヴァンに由来するプロテスタンティズムの一派。神による人間の予定説、厳格な生活態度、各教会共同体が担う教会制度を重視する。ユグノー、ピューリタン、オランダやスコットランドの改革派教会がこれに属する。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "johannes-calvin",
+      "bartholomaeusnacht"
+    ]
+  },
+  {
+    "id": "daoismus",
+    "term": "道教",
+    "definition": "『道徳経』に基づく中国の教えで、人は道すなわち自然の摂理と調和して生きるべきだと説く。野心や硬直した規則の代わりに、平静さ、素朴さ、無為を勧める。後に寺院、道士、不老不死の教義を備えた宗教として発展した。",
+    "epochId": "asien-altertum",
+    "related": [
+      "laozi",
+      "daoismus-und-laozi",
+      "konfuzius"
+    ]
+  },
+  {
+    "id": "dekolonisation",
+    "term": "脱植民地化",
+    "definition": "第二次世界大戦後にヨーロッパの植民地帝国が解体されたことを指し、これにより1945年から1975年の間にアジア、アフリカ、カリブ海、太平洋の80以上の国家が独立した。その過程は交渉による平和的なものもあれば、インドシナやアルジェリアのような長期の戦争を経たものもあった。多くの新興国では経済的従属と植民地時代の国境が今なお影響を及ぼし続けた。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "unabhaengigkeit-indien-pakistan",
+      "afrikanisches-jahr-1960",
+      "mahatma-gandhi",
+      "ho-chi-minh"
+    ]
+  },
+  {
+    "id": "dharma",
+    "term": "ダルマ",
+    "definition": "インドの諸宗教における中心概念で、文脈に応じて宇宙の秩序、宗教的義務、あるいは仏の教えを意味する。ヒンドゥー教徒にとってダルマとは各人の身分と人生の段階に応じた義務であり、仏教徒にとっては仏陀が説いた真理である。アショーカ王はこれを非暴力と福祉の政策と理解した。",
+    "epochId": "asien-altertum",
+    "related": [
+      "buddha-lehrt-in-nordindien",
+      "ashoka-verbreitet-den-buddhismus",
+      "siddhartha-gautama"
+    ]
+  },
+  {
+    "id": "dhimmi",
+    "term": "ズィンミー",
+    "definition": "イスラーム支配下で自らの宗教を保持し、自分たちの共同体を運営することを許された、キリスト教徒、ユダヤ教徒、ゾロアスター教徒などの被保護非ムスリムを指す。その代わりに特別な人頭税を支払い、新しい礼拝所の建設、武器の携帯、高位官職への就任などに制限を課された。この制度は当時のヨーロッパにおける宗教的少数派への扱いより寛容であったが、権利の平等を意味するものではなかった。",
+    "epochId": "islamische-welt",
+    "related": [
+      "arabische-eroberung-jerusalems",
+      "kalifat-von-cordoba"
+    ]
+  },
+  {
+    "id": "dolchstosslegende",
+    "term": "背後の一突き説",
+    "definition": "第一次世界大戦においてドイツ軍は戦場では敗北しておらず、国内のストライキ、革命、政治家たちによって背後から刺されただけだとする虚偽の主張。実際には最高司令部自身が1918年秋に休戦を要求していた。国家主義者や国家社会主義者はこの伝説を利用して、ヴァイマル共和国とその創設者たちを裏切り者として中傷した。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "paul-von-hindenburg",
+      "waffenstillstand-compiegne",
+      "novemberrevolution-1918"
+    ]
+  },
+  {
+    "id": "domestikation",
+    "term": "家畜化・栽培化",
+    "definition": "野生の植物や動物が、何世代にもわたる意図的な選択と育種によって、栽培植物や家畜へと変えられていく過程。犬はすでに旧石器時代に家畜化され、穀物、羊、山羊、牛は新石器時代に、馬は銅器時代になってようやく家畜化された。",
+    "epochId": "urgeschichte",
+    "related": [
+      "neolithische-revolution",
+      "domestizierung-des-pferdes"
+    ]
+  },
+  {
+    "id": "dominat",
+    "term": "ドミナートゥス",
+    "definition": "ディオクレティアヌス帝以降の古代末期の統治形態で、皇帝は公然と主人(ドミヌス)として現れ、王冠、紫衣、宮廷儀礼、神格崇拝によって臣下から隔絶された存在とされた。行政と軍は厳格に中央集権化され、キリスト教皇帝のもとでは神の恩寵による統治が神格化に取って代わった。",
+    "epochId": "rom",
+    "related": [
+      "tetrarchie-diokletians",
+      "konstantin-der-grosse",
+      "reichskrise-des-3-jahrhunderts"
+    ]
+  },
+  {
+    "id": "dritter-stand",
+    "term": "第三身分",
+    "definition": "革命前のフランスにおいて、聖職者にも貴族にも属さないすべての人々、すなわち人口のおよそ98パーセントを占める、裕福な商人から日雇い労働者までを含む階層。第三身分は税負担のほぼ全体を担いながら、三部会では三票のうちの一票しか持たなかった。1789年、その代表者たちは自らを国民議会と宣言し、革命の引き金となった。",
+    "epochId": "revolutionen",
+    "related": [
+      "sturm-auf-die-bastille",
+      "erklaerung-der-menschen-und-buergerrechte"
+    ]
+  },
+  {
+    "id": "eiserner-vorhang",
+    "term": "鉄のカーテン",
+    "definition": "西側民主主義諸国とソヴィエト支配下の東側陣営とを隔てた封鎖された国境を指す言葉で、バルト海からアドリア海に至るヨーロッパを分断した。ウィンストン・チャーチルは1946年の演説でこの言葉を広めた。鉄条網、地雷、射殺命令が西側への逃亡を阻んだが、1989年にこのカーテンは開かれた。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "bau-der-berliner-mauer",
+      "fall-der-berliner-mauer",
+      "prager-fruehling-1968"
+    ]
+  },
+  {
+    "id": "eiszeit",
+    "term": "氷期",
+    "definition": "北ヨーロッパ、北アメリカ、山岳地帯の広範囲を氷河が覆い、海水面が100メートル以上低下した長い寒冷期。最終氷期はおよそ2万年前に最盛期を迎え、約1万2000年前に終わった。干上がった陸橋を通じて、人々は例えばアメリカ大陸にまで到達した。",
+    "epochId": "urgeschichte",
+    "related": [
+      "besiedlung-amerikas",
+      "hoehlenmalerei-lascaux",
+      "neandertaler"
+    ]
+  },
+  {
+    "id": "entspannungspolitik",
+    "term": "デタント(緊張緩和政策)",
+    "definition": "1970年代の政策で、根本的な対立を放棄することなく、交渉、条約、貿易によって東西間の緊張を緩和しようとしたもの。ヴィリー・ブラントの東方条約、戦略兵器制限に関する諸協定、1975年のヘルシンキ最終議定書がこれに含まれる。分断されたドイツの日常生活を緩和し、冷戦の平和的終結への道を準備した。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "willy-brandt",
+      "michail-gorbatschow",
+      "fall-der-berliner-mauer"
+    ]
+  },
+  {
+    "id": "ermaechtigungsgesetz",
+    "term": "全権委任法",
+    "definition": "1933年3月23日に国会で可決された「民族および国家の困難を除去するための法律」で、ヒトラー政府に議会を経ずに、また憲法に反してさえも法律を制定する権限を与えたもの。反対票を投じたのはSPDのみであり、KPDの議員はすでに逮捕されていた。この法律は独裁体制の法的根拠となり、1945年まで繰り返し延長された。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "machtuebernahme-nationalsozialisten",
+      "adolf-hitler"
+    ]
+  },
+  {
+    "id": "evolutionstheorie",
+    "term": "進化論",
+    "definition": "チャールズ・ダーウィンが1859年に確立した学説で、生物の種は長い時間をかけて共通の祖先から発展してきたとするもの。その原動力は自然選択であり、有利な形質を持つ個体がより多く生存し、繁殖する。この理論は近代生物学の基礎である。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "darwin-entstehung-der-arten",
+      "charles-darwin"
+    ]
+  },
+  {
+    "id": "fabriksystem",
+    "term": "工場制度",
+    "definition": "多数の労働者が監督下で決められた時間に、共通の動力源によって動く機械を操作する、大規模な建物における生産組織のあり方。これは家内工業と手工業に取って代わり、賃金労働者という階層を生み出した。工場規則、タイムカード、出来高賃金は以後の労働生活を規定した。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "mechanischer-webstuhl-fabriksystem",
+      "fliessband-ford"
+    ]
+  },
+  {
+    "id": "faschismus",
+    "term": "ファシズム",
+    "definition": "1919年にベニート・ムッソリーニによってイタリアで創設された政治運動および統治形態で、極端な国家主義、暴力と指導者崇拝の賛美、民主主義とマルクス主義の拒絶、国家と社会の画一化を結びつけたもの。1922年のローマ進軍の後、ムッソリーニは最初のファシスト独裁体制を樹立し、これはヨーロッパの類似運動の模範となった。より広い意味では、国家社会主義やスペインのフランコ体制もこの語で表される。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "spanischer-buergerkrieg",
+      "weltwirtschaftskrise-1929",
+      "krisenjahr-1923"
+    ]
+  },
+  {
+    "id": "faustkeil",
+    "term": "握斧",
+    "definition": "両面を加工したアーモンド形の石器で、鋭い刃と先端を持ち、およそ170万年前から主にホモ・エレクトゥスによって作られた。握斧は切断、削り、切り分け、掘削に用いられ、100万年以上にわたって使用され続けた。",
+    "epochId": "urgeschichte",
+    "related": [
+      "homo-erectus",
+      "homo-erectus-verlaesst-afrika"
+    ]
+  },
+  {
+    "id": "gegenreformation",
+    "term": "対抗宗教改革",
+    "definition": "16世紀半ば以降、カトリック教会が失った領域を取り戻し、自らの教義を刷新しようとした取り組み。トリエント公会議、イエズス会、異端審問、禁書の指定、そしてカトリック諸侯の支援がその最も重要な手段であった。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "konzil-von-trient",
+      "ignatius-von-loyola"
+    ]
+  },
+  {
+    "id": "gesellschaftsvertrag",
+    "term": "社会契約",
+    "definition": "国家は神による制度ではなく、自由な人々の間の合意に基づくとする政治哲学のモデル。ホッブズはここから強力な統治者の必要性を導き出し、ロックは抵抗権を、ルソーは人民主権を導き出した。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "jean-jacques-rousseau",
+      "john-locke",
+      "lockes-two-treatises"
+    ]
+  },
+  {
+    "id": "gewaltenteilung",
+    "term": "権力分立",
+    "definition": "国家権力を立法、行政、司法に分けて配分し、いかなる機関も過度な力を持たないようにする原則。ジョン・ロック、とりわけモンテスキューがイギリスの国制からこの原則を発展させた。今日ではほぼすべての民主的な憲法の一部となっている。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "montesquieu-geist-der-gesetze",
+      "lockes-two-treatises",
+      "john-locke"
+    ]
+  },
+  {
+    "id": "gladiator",
+    "term": "剣闘士",
+    "definition": "多くは奴隷、捕虜、囚人であった戦士で、観客の前で円形闘技場において他の剣闘士や猛獣と戦った。剣闘士は養成所で訓練を受け、定められた武器の種類に基づいて戦い、勝利を重ねれば名声、金銭、自由を得ることもできた。剣闘士競技は政治家や皇帝にとって民衆の支持を得る手段でもあった。",
+    "epochId": "rom",
+    "related": [
+      "eroeffnung-des-kolosseums",
+      "spartacus",
+      "spartacus-aufstand"
+    ]
+  },
+  {
+    "id": "gleichschaltung",
+    "term": "強制的画一化(グライヒシャルトゥング)",
+    "definition": "1933年から1934年にかけて、国家と社会のあらゆる領域を党に従属させたことを指す国家社会主義者の用語。州議会、労働組合、諸団体、報道機関、放送、文化、学問は解散、禁止、あるいは国家社会主義の指導者たちで占められた。従わなかった者は職を失うか、強制収容所に送られた。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "machtuebernahme-nationalsozialisten",
+      "buecherverbrennung-1933",
+      "reichstagsbrand-und-ermaechtigungsgesetz"
+    ]
+  },
+  {
+    "id": "globalisierung",
+    "term": "グローバル化",
+    "definition": "経済、政治、文化、通信が世界規模で結びつくことで、自由貿易、コンテナ輸送、インターネット、中国の台頭により1990年代以降急速に進んだ。多くの国で物価と貧困を引き下げたが、同時に西側諸国では工業雇用の喪失をもたらし、2008年の金融危機や新型コロナウイルスの感染拡大のような危機を世界的な出来事へと変えた。批判者たちは、より公正な貿易のルールと気候保護の強化を求めている。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "world-wide-web-1991",
+      "weltfinanzkrise-2008",
+      "covid-19-pandemie",
+      "deng-xiaoping"
+    ]
+  },
+  {
+    "id": "gotik",
+    "term": "ゴシック様式",
+    "definition": "高中世から後期中世にかけての建築様式で、1140年頃フランスで生まれ、尖頭アーチ、リブ・ヴォールト、フライング・バットレスを組み合わせて、光にあふれた高い教会堂を作り出した。シャルトル大聖堂、ランス大聖堂、ケルン大聖堂などがその代表作であり、この名称自体はルネサンス期に、しかも蔑称として初めて用いられた。",
+    "epochId": "mittelalter",
+    "related": [
+      "beginn-der-gotik",
+      "justinian-und-hagia-sophia"
+    ]
+  },
+  {
+    "id": "hanse",
+    "term": "ハンザ同盟",
+    "definition": "12世紀から17世紀にかけて北海・バルト海の交易を支配した、低地ドイツ商人、後には都市の連合体。ロンドン、ブリュージュ、ベルゲン、ノヴゴロドに商館を置き、共同の会議を開き、必要とあれば戦争によって自らの交易特権を維持した。",
+    "epochId": "mittelalter",
+    "related": [
+      "erster-hansetag",
+      "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "hellenismus",
+    "term": "ヘレニズム",
+    "definition": "紀元前323年のアレクサンドロスの死から紀元前30年のローマによるエジプト征服までの時代で、ギリシア語とギリシア文化がオリエント全域に広がり、東方の伝統と融合した。アレクサンドリア、アンティオキア、ペルガモンがその中心地であり、学問、芸術、交易が栄えた。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "diadochenkriege",
+      "gruendung-alexandrias",
+      "bibliothek-von-alexandria",
+      "tod-kleopatras"
+    ]
+  },
+  {
+    "id": "hieroglyphen",
+    "term": "ヒエログリフ(神聖文字)",
+    "definition": "古代エジプトの絵文字で、紀元前3200年頃から神殿の壁面、墓、パピルスに用いられた。文字は音、音節、あるいは単語全体を表す。1822年、ジャン=フランソワ・シャンポリオンがロゼッタ・ストーンの助けを借りてその解読に成功した。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "reichseinigung-aegyptens",
+      "tutanchamun"
+    ]
+  },
+  {
+    "id": "holocaust",
+    "term": "ホロコースト",
+    "definition": "1941年から1945年にかけて、国家社会主義ドイツとその協力者によって組織的かつ国家的に行われた、およそ600万人の欧州系ユダヤ人の大量虐殺。東部戦線後方での大量銃殺に始まり、アウシュヴィッツ=ビルケナウ、トレブリンカ、ソビボルなどの絶滅収容所においてガス室を用いた工業的規模の殺戮へと続いた。ヘブライ語ではこの犯罪はショア(大破局)と呼ばれる。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "wannseekonferenz",
+      "befreiung-von-auschwitz",
+      "aufstand-im-warschauer-ghetto",
+      "anne-frank"
+    ]
+  },
+  {
+    "id": "holztafeldruck",
+    "term": "木版印刷",
+    "definition": "ページ全体を鏡文字で木の板に彫り、インクを塗って紙に押し当てる印刷技法。唐代の中国で生まれ、経典、暦、古典の大量流布を可能にした。868年の『金剛経』は現存最古の年紀入りの例である。",
+    "epochId": "asien-altertum",
+    "related": [
+      "diamant-sutra-holztafeldruck",
+      "erfindung-des-papiers",
+      "song-dynastie-erfindungen"
+    ]
+  },
+  {
+    "id": "hominini",
+    "term": "ヒト族",
+    "definition": "約600万年から700万年前にチンパンジーと分岐した後、人類へとつながった大型類人猿の系統。ルーシーのようなアウストラロピテクス属と、現存するのはホモ・サピエンスのみであるホモ属のすべての種を含む。",
+    "epochId": "urgeschichte",
+    "related": [
+      "lucy",
+      "homo-habilis",
+      "neandertaler",
+      "denisova-mensch"
+    ]
+  },
+  {
+    "id": "hoplit",
+    "term": "重装歩兵(ホプリタイ)",
+    "definition": "円形の盾、槍、兜、胸当てで武装し、自ら装備の費用を負担したギリシアの重装歩兵。重装歩兵はファランクスと呼ばれる密集隊形で肩を並べて戦った。市民が重装歩兵として都市を防衛したことから、彼らは政治的発言権をも要求するようになった。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "schlacht-von-marathon",
+      "schlacht-an-den-thermopylen"
+    ]
+  },
+  {
+    "id": "hugenotten",
+    "term": "ユグノー",
+    "definition": "カルヴァンの教えに従ったフランスのプロテスタントを指す呼称。宗教戦争の後、1598年のナントの勅令によって信仰の自由を得たが、この勅令は1685年にルイ14世によって廃止された。その結果、数十万人がプロテスタント諸国へ逃れ、そこで手工業と経済を豊かにした。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "edikt-von-fontainebleau",
+      "ludwig-xiv"
+    ]
+  },
+  {
+    "id": "humanismus",
+    "term": "人文主義",
+    "definition": "14世紀から16世紀にかけての教育運動で、古代ギリシア・ローマの文献を規範とし、理性と尊厳を備えた人間を中心に据えた。エラスムスのような人文主義者たちは原典を探し求め、教会を批判し、言語、歴史、修辞学を教育の基礎として推進した。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "erasmus-von-rotterdam",
+      "erasmus-novum-instrumentum",
+      "leonardo-da-vinci"
+    ]
+  },
+  {
+    "id": "hyperinflation",
+    "term": "ハイパーインフレーション",
+    "definition": "数日あるいは数時間のうちに物価が何倍にも跳ね上がり、貨幣がその機能を失う極端な貨幣価値の下落。ドイツでは、戦時債務、賠償金、そして紙幣増刷によるルール闘争の資金調達が、1923年には1ドルが4兆2000億マルクに達する事態を招いた。中産階級の貯蓄の破壊は、その後長く共和国への信頼を揺るがし続けた。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "krisenjahr-1923",
+      "gustav-stresemann",
+      "versailler-vertrag"
+    ]
+  },
+  {
+    "id": "imperialismus",
+    "term": "帝国主義",
+    "definition": "列強が植民地、経済的従属、あるいは軍事的圧力によって、他の国や民族に対する支配を拡大しようとする志向。1880年頃から1914年までの帝国主義の時代には、アフリカのほぼ全域とアジアの広大な地域がヨーロッパの支配下に置かれ、列強間の対立が激化した。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "berliner-konferenz-afrika",
+      "boxeraufstand",
+      "cecil-rhodes"
+    ]
+  },
+  {
+    "id": "industrielle-revolution",
+    "term": "産業革命",
+    "definition": "農業社会から工業社会への広範な変化で、1780年頃イギリスで始まった。蒸気機関、機械、工場が手工業や工房に取って代わり、石炭と鉄が最も重要な原料となった。1870年頃からは、電力、化学、内燃機関による第二次産業革命と呼ばれる時代が続いた。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "mechanischer-webstuhl-fabriksystem",
+      "james-watt",
+      "eisenbahn-stockton-darlington"
+    ]
+  },
+  {
+    "id": "investiturstreit",
+    "term": "叙任権闘争",
+    "definition": "11世紀から12世紀にかけての教皇と皇帝との間の対立で、司教や修道院長を職に任命する権限が誰にあるかをめぐって争われた。その最もよく知られた出来事が1077年のハインリヒ4世のカノッサ行きであり、1122年のヴォルムス協約が聖界の叙任と俗界の叙任を分離した。",
+    "epochId": "mittelalter",
+    "related": [
+      "gang-nach-canossa",
+      "otto-i"
+    ]
+  },
+  {
+    "id": "jakobiner",
+    "term": "ジャコバン派",
+    "definition": "フランス革命において最も影響力の大きかった政治クラブの構成員で、パリの旧ドミニコ会修道院にあった集会場に由来する名を持つ。ロベスピエールのもとで彼らは急進派となり、1793年から1794年にかけて恐怖政治によって内外の敵から共和国を守った。ヨーロッパでは長らく、この語は急進的な民主主義思想の支持者を指す侮蔑語としても用いられた。",
+    "epochId": "revolutionen",
+    "related": [
+      "maximilien-de-robespierre",
+      "hinrichtung-ludwigs-xvi-und-schreckensherrschaft"
+    ]
+  },
+  {
+    "id": "jungsteinzeit",
+    "term": "新石器時代",
+    "definition": "紀元前9500年頃から始まる時代で、人々は農耕と牧畜を営み、定住した村落で暮らした。磨製石器、土器、機織り、そして環状列石のような大規模な建造物によって特徴づけられる。金属加工の始まりとともに、地域ごとに異なる時期に終わりを迎えた。",
+    "epochId": "urgeschichte",
+    "related": [
+      "neolithische-revolution",
+      "catalhoeyuek",
+      "jericho-frueheste-stadtsiedlung"
+    ]
+  },
+  {
+    "id": "kalifat",
+    "term": "カリフ制",
+    "definition": "預言者ムハンマドの後継者であるカリフによるムスリム共同体の統治。最初の4人のカリフは選挙によって選ばれたが、その後ウマイヤ朝とアッバース朝がこの地位を世襲制にした。10世紀以降は複数のカリフ制が並存するようになり、実際の権力はスルタンの手に移った。アッバース朝のカリフ制は1258年、バグダードの破壊によって終わりを迎えた。",
+    "epochId": "islamische-welt",
+    "related": [
+      "umayyaden-kalifat-in-damaskus",
+      "abbasiden-revolution",
+      "kalifat-von-cordoba",
+      "harun-ar-raschid"
+    ]
+  },
+  {
+    "id": "kalter-krieg",
+    "term": "冷戦",
+    "definition": "1947年頃から1991年にかけての、アメリカ合衆国とソヴィエト連邦、およびそれぞれの同盟諸国の間の対立。両陣営は軍拡競争、プロパガンダ、諜報活動、代理戦争によって互いに戦ったが、核兵器の存在ゆえに直接の戦争には至らなかった。冷戦は東側陣営の崩壊とソヴィエト連邦の解体をもって終結した。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "berliner-luftbruecke",
+      "kubakrise",
+      "aufloesung-der-sowjetunion",
+      "nikita-chruschtschow"
+    ]
+  },
+  {
+    "id": "keilschrift",
+    "term": "楔形文字",
+    "definition": "紀元前3200年頃にシュメール人が発明した、知られている限り最古の文字。葦の筆記具を用いて湿った粘土に楔形の記号を刻み込むもので、当初は事物を、後には音節をも表した。楔形文字は3000年以上にわたって、近東の多くの言語のために用いられた。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "sumerische-keilschrift",
+      "codex-hammurapi",
+      "gilgamesch-epos"
+    ]
+  },
+  {
+    "id": "koalitionskriege",
+    "term": "対仏大同盟戦争",
+    "definition": "1792年から1815年にかけての戦争で、変転するヨーロッパ列強、とりわけイギリス、オーストリア、プロイセン、ロシアの同盟が、革命期およびナポレオン期のフランスと戦った。この戦争は徴兵による国民軍を導入し、ヨーロッパの地図を塗り替え、数百万人の命を奪った。ドイツではその最終段階は解放戦争と呼ばれている。",
+    "epochId": "revolutionen",
+    "related": [
+      "russlandfeldzug-1812",
+      "voelkerschlacht-bei-leipzig",
+      "schlacht-bei-waterloo",
+      "napoleon-bonaparte"
+    ]
+  },
+  {
+    "id": "kolumbianischer-austausch",
+    "term": "コロンブス交換",
+    "definition": "1492年以降、旧世界と新世界の間で植物、動物、病気、人間が交換されたことを指す言葉。ジャガイモ、トウモロコシ、トマトはヨーロッパにもたらされ、馬、牛、小麦はアメリカ大陸にもたらされた。天然痘や麻疹は先住民の大多数の命を奪った。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel"
+    ]
+  },
+  {
+    "id": "konquistadoren",
+    "term": "コンキスタドール",
+    "definition": "16世紀に少数の兵力でアメリカ大陸の広大な地域を征服したスペインの征服者たち。エルナン・コルテスやフランシスコ・ピサロのような人物は、火器、馬、先住民との同盟、そして持ち込まれた疫病を利用して、アステカ帝国とインカ帝国を滅ぼし、それらをスペイン王室のために手中に収めた。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "fall-tenochtitlans",
+      "eroberung-des-inkareiches"
+    ]
+  },
+  {
+    "id": "konzentrationslager",
+    "term": "強制収容所",
+    "definition": "1933年以降、国家社会主義者が政治的反対者を、後にはユダヤ人、シンティおよびロマ、同性愛者、エホバの証人、占領地域の人々を、裁判なしに収監し、酷使し、殺害した収容所。親衛隊(SS)はダッハウ、ブーヘンヴァルト、ザクセンハウゼンなどの本収容所と1000か所を超える支所からなるネットワークを運営した。歴史家たちは、囚人が労働、飢餓、病気、暴力によって死んでいった強制収容所と、大量殺戮のみを目的としたトレブリンカのような純粋な絶滅収容所とを区別している。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "befreiung-von-auschwitz",
+      "dietrich-bonhoeffer",
+      "machtuebernahme-nationalsozialisten"
+    ]
+  },
+  {
+    "id": "koran",
+    "term": "クルアーン(コーラン)",
+    "definition": "イスラームの聖典で、ムスリムの信仰によれば、ムハンマドが610年から632年の間に神から受けた啓示を収めたものとされる。テキストは第3代カリフ、ウスマーンのもとで650年頃に権威ある形にまとめられ、114章、すなわちスーラからなる。クルアーンはムスリムの信仰、法、日常生活の基礎であり、アラビア語と書道のあり方を形作った。",
+    "epochId": "islamische-welt",
+    "related": [
+      "erste-offenbarung-mohammeds",
+      "mohammed",
+      "aischa-bint-abi-bakr"
+    ]
+  },
+  {
+    "id": "kreuzzug",
+    "term": "十字軍",
+    "definition": "教皇によって布告され、参加者に罪の赦しを約束した軍事遠征で、とりわけ聖地のムスリム支配者に対して行われた。1096年から1291年の間に7回の大規模な十字軍が東方へ進軍した。後にはヨーロッパ内の異端者や異教徒に対する遠征にもこの名が用いられた。",
+    "epochId": "mittelalter",
+    "related": [
+      "erster-kreuzzug",
+      "friedrich-ii-staufer",
+      "eleonore-von-aquitanien"
+    ]
+  },
+  {
+    "id": "kupferzeit",
+    "term": "銅器時代",
+    "definition": "新石器時代と青銅器時代の間の過渡期で、人々は銅鉱石を精錬して斧、針、装身具に加工したが、それでも石が最も重要な素材であり続けた。ヨーロッパではおよそ紀元前4500年から前2200年にあたり、アイスマンことエッツィはこの時代に生きていた。",
+    "epochId": "urgeschichte",
+    "related": [
+      "beginn-der-kupferzeit",
+      "oetzi",
+      "oetzi-stirbt-in-den-alpen"
+    ]
+  },
+  {
+    "id": "legalismus",
+    "term": "法家思想",
+    "definition": "戦国時代に成立した中国の国家学説で、儒家のような道徳や模範ではなく、厳格な法律、厳しい刑罰と報奨に依拠した。秦はこれを統治の基礎とし、それによって中国を統一したが、その厳しさは秦王朝の急速な滅亡の一因ともなった。",
+    "epochId": "asien-altertum",
+    "related": [
+      "qin-shihuangdi",
+      "zeit-der-streitenden-reiche"
+    ]
+  },
+  {
+    "id": "legion",
+    "term": "軍団",
+    "definition": "ローマ軍最大の部隊単位で、およそ4000から6000人の重装歩兵からなり、コホルスとケントゥリアに分かれ、騎兵と補助部隊によって補完された。マリウス以降、軍団兵は16年から25年にわたる職業軍人として従軍し、その後は土地や金銭を受け取ったため、指揮官に対する忠誠が強まった。帝政期にはおよそ30個軍団が国境に配置されていた。",
+    "epochId": "rom",
+    "related": [
+      "caesar-erobert-gallien",
+      "varusschlacht",
+      "reichskrise-des-3-jahrhunderts"
+    ]
+  },
+  {
+    "id": "lehnswesen",
+    "term": "封建制",
+    "definition": "中世ヨーロッパの秩序で、主君が家臣に土地や官職を封として与え、家臣はその見返りに忠誠、助言、軍役を負った。国王から公爵、伯爵を経て一介の騎士に至るまで、こうして依存関係の連鎖が生まれ、それが国家の代わりを果たした。",
+    "epochId": "mittelalter",
+    "related": [
+      "kaiserkroenung-karls-des-grossen",
+      "schlacht-bei-hastings",
+      "wilhelm-der-eroberer"
+    ]
+  },
+  {
+    "id": "liberalismus",
+    "term": "自由主義",
+    "definition": "国家に対する個人の自由を中心に据え、憲法、権力分立、基本的人権、報道の自由、自由な経済を求める政治潮流。自由主義は啓蒙思想とアメリカ・フランスの両革命から生まれ、市民階級によって担われた。19世紀には、自由主義者たちは復古勢力とは憲法をめぐって、民主主義者とは選挙権の拡大をめぐって争った。",
+    "epochId": "revolutionen",
+    "related": [
+      "verfassung-der-usa",
+      "julirevolution-1830",
+      "lafayette"
+    ]
+  },
+  {
+    "id": "limes",
+    "term": "リメス(ローマ防壁線)",
+    "definition": "土塁、柵、堀、監視塔、砦からなるローマ帝国の防備を固めた国境線。ライン川とドナウ川の間の上ゲルマニア・ラエティア・リメスは約550キロメートルに及び、ブリタニアのハドリアヌスの長城は118キロメートルであった。リメスは越えられない壁というよりも、交易、関税、国境の往来を管理する境界線として機能した。",
+    "epochId": "rom",
+    "related": [
+      "bau-des-hadrianswalls",
+      "varusschlacht"
+    ]
+  },
+  {
+    "id": "madrasa",
+    "term": "マドラサ",
+    "definition": "イスラームの高等教育機関で、とりわけ法学、クルアーン解釈、ハディース学、アラビア語文法が教えられ、しばしば数学、天文学、医学も含まれた。マドラサは多くの場合、統治者や富裕な個人が敬虔な寄進として資金を提供し、学生に宿舎と食事を提供した。カイロのアズハル、フェズのアル=カラウィーイーン、ティンブクトゥの学校群がその著名な例である。",
+    "epochId": "islamische-welt",
+    "related": [
+      "fatimiden-gruenden-kairo",
+      "fatima-al-fihri",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "mandat-des-himmels",
+    "term": "天命",
+    "definition": "中国の観念で、統治者は正しく統治する限りにおいて天からその権力を授かるとするもの。凶作、天災、反乱は天命が取り消された兆しとみなされ、王朝の打倒を正当化した。この思想は中国の諸王朝の興亡の周期を説明するものである。",
+    "epochId": "asien-altertum",
+    "related": [
+      "qin-shihuangdi-einigt-china",
+      "wu-zetian-wird-kaiserin",
+      "tang-dynastie"
+    ]
+  },
+  {
+    "id": "megalith",
+    "term": "巨石記念物",
+    "definition": "新石器時代と青銅器時代に、墓、列石、環状列石のために用いられた大型の、多くは未加工の石塊。ストーンヘンジ、カルナック、ニューグレンジのような巨石建造物は、とりわけヨーロッパの大西洋沿岸に見られ、初期農耕社会の組織力の高さを示している。",
+    "epochId": "urgeschichte",
+    "related": [
+      "megalithbauten-stonehenge",
+      "goebekli-tepe"
+    ]
+  },
+  {
+    "id": "merkantilismus",
+    "term": "重商主義",
+    "definition": "絶対主義時代の経済政策で、国家の富を金銀の保有量によって測った。国家は工場制手工業と輸出を奨励し、輸入品には保護関税を課し、植民地を原材料の供給源および市場として利用した。ルイ14世のもとでのコルベールがその最もよく知られた代表者である。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "ludwig-xiv",
+      "hof-nach-versailles"
+    ]
+  },
+  {
+    "id": "mogulreich",
+    "term": "ムガル帝国",
+    "definition": "1526年にバーブルによって建てられたインドの大ムスリム帝国で、アクバルのもとで亜大陸の大部分を支配した。ペルシア、中央アジア、インドの文化を融合させ、タージ・マハルのような建築を生み出したが、18世紀に分裂し、その後イギリスが支配権を握った。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "akbar",
+      "akbar-mogulreich"
+    ]
+  },
+  {
+    "id": "moenchtum",
+    "term": "修道制",
+    "definition": "男女が修道院において規則のもとに祈り、労働し、所有・結婚・自らの意志を放棄することを誓う生活様式。ヌルシアのベネディクトゥスの戒律は、西方の修道院を学問、農業、病人の看護の中心地とした。",
+    "epochId": "mittelalter",
+    "related": [
+      "benedikt-gruendet-montecassino",
+      "hildegard-von-bingen",
+      "ueberfall-auf-lindisfarne"
+    ]
+  },
+  {
+    "id": "mumifizierung",
+    "term": "ミイラ化",
+    "definition": "遺体を保存する方法で、エジプトでは内臓を取り除き、ナトロン塩で70日間乾燥させ、亜麻布で包んだ。エジプト人は来世での生存のために肉体を保存する必要があると信じていた。ラメセス2世やツタンカーメンのミイラは今日まで残っている。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "tutanchamun",
+      "ramses-ii",
+      "bau-der-cheops-pyramide"
+    ]
+  },
+  {
+    "id": "nationalismus",
+    "term": "国民主義(ナショナリズム)",
+    "definition": "共通の言語、文化、歴史を持つ人々は一つの国民を形成し、独自の国家を持つべきだとする考え方。フランス革命は国民を主権の担い手とし、ナポレオンに対する抵抗はドイツ、スペイン、イタリアで国民感情を呼び覚ました。19世紀のナショナリズムは通常、自由への要求と結びついていたが、後には他民族への傲慢さや敵意へと発展することもあった。",
+    "epochId": "revolutionen",
+    "related": [
+      "hambacher-fest",
+      "ende-des-heiligen-roemischen-reiches",
+      "mexikanische-unabhaengigkeit",
+      "maerzrevolution-1848"
+    ]
+  },
+  {
+    "id": "nationalstaat",
+    "term": "国民国家",
+    "definition": "その住民が共通の言語、歴史、文化を持つ一つの国民であると自らを理解し、国家の国境がその国民の範囲と一致することを目指す国家。19世紀には政治的な理想像となり、イタリアとドイツの統一をもたらしたが、同時に多民族帝国の解体にもつながった。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "gruendung-deutsches-kaiserreich",
+      "otto-von-bismarck"
+    ]
+  },
+  {
+    "id": "ostrakismos",
+    "term": "陶片追放(オストラキスモス)",
+    "definition": "アテナイの民主政における手続きで、年に一度、市民が危険とみなす政治家の名前を陶片に刻むことができた。最多得票者は、少なくとも6000枚の陶片が投じられていれば、財産と市民権を保持したまま10年間アテナイを離れなければならなかった。目的は新たな僭主政の出現を防ぐことであった。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "reformen-des-kleisthenes",
+      "perikles"
+    ]
+  },
+  {
+    "id": "pharao",
+    "term": "ファラオ",
+    "definition": "古代エジプトの王の称号で、エジプト語で「大いなる家」すなわち宮殿を意味する語に由来する。ファラオは太陽神の息子であり、世界の秩序であるマアトの保証者とみなされ、同時に最高神官、裁判官、軍の統率者でもあった。30を超える王朝のファラオたちが、およそ3000年にわたってエジプトを統治した。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "hatschepsut",
+      "ramses-ii",
+      "ahmose-i",
+      "tutanchamun"
+    ]
+  },
+  {
+    "id": "polis",
+    "term": "ポリス",
+    "definition": "都市とその周辺の土地、そして自治を行う市民共同体からなるギリシアの都市国家。アテナイやスパルタから小さな島の町まで、数百のポリスが存在し、その独立性と競争関係がギリシア史を形作った。政治(politics)という語はポリスに由来する。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "reformen-des-kleisthenes",
+      "griechische-kolonisation",
+      "peloponnesischer-krieg"
+    ]
+  },
+  {
+    "id": "prinzipat",
+    "term": "元首政(プリンキパトゥス)",
+    "definition": "紀元前27年にアウグストゥスが確立した統治形態で、皇帝は同輩中の第一人者であるプリンケプスとして現れ、元老院や執政官といった共和政の制度を形式上は存続させた。実際には軍、属州、財政に対する権力は皇帝の手にあった。元首政は3世紀の危機まで続いた。",
+    "epochId": "rom",
+    "related": [
+      "augustus",
+      "augustus-begruendet-den-prinzipat",
+      "schlacht-bei-actium"
+    ]
+  },
+  {
+    "id": "reconquista",
+    "term": "レコンキスタ(国土回復運動)",
+    "definition": "アストゥリアス、レオン、カスティーリャ、アラゴン、ポルトガルといったキリスト教諸王国によるイベリア半島の再征服で、8世紀から1492年のグラナダ陥落まで続いた。それは絶え間ない戦争としてではなく、国境を越えた同盟、交易、文化交流の長い時期を挟みながら進行した。1492年以降、ユダヤ教徒とムスリムは追放されるか、改宗を強いられ、これによりスペインの宗教的多様性は終わりを迎えた。",
+    "epochId": "islamische-welt",
+    "related": [
+      "fall-granadas",
+      "kalifat-von-cordoba",
+      "schlacht-bei-tours-und-poitiers"
+    ]
+  },
+  {
+    "id": "reformation",
+    "term": "宗教改革",
+    "definition": "1517年のルターの95カ条の論題に始まり、西方キリスト教世界をカトリックとプロテスタントに分裂させた宗教的刷新運動。その信奉者たちは聖書と信仰のみを拠り所とし、免罪符と教皇権を否定し、ドイツ、スイス、北欧、イングランド、オランダに独自の教会を築いた。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "martin-luther",
+      "luthers-95-thesen",
+      "reichstag-zu-worms",
+      "augsburger-religionsfrieden"
+    ]
+  },
+  {
+    "id": "reparationen",
+    "term": "賠償金",
+    "definition": "戦争に敗れた国が、戦争被害の補償として戦勝国に支払う金銭や物資。ヴェルサイユ条約はドイツに賠償金を課し、1921年にはそれが1320億金マルクと定められ、石炭、機関車、船舶も含まれた。この支払いをめぐる対立はルール占領を引き起こし、1924年のドーズ案と1929年のヤング案によって一時的に緩和されたが、支払いは1932年に事実上終了した。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "versailler-vertrag",
+      "krisenjahr-1923",
+      "gustav-stresemann"
+    ]
+  },
+  {
+    "id": "restauration",
+    "term": "復古体制",
+    "definition": "1815年以降の政策で、ウィーン会議を起点として、旧王朝の支配を回復し、革命の理念を押し戻そうとしたもの。検閲、警察による監視、政治団体の禁止、そしてスペイン、イタリア、ドイツにおける蜂起への介入がその手段であった。オーストリアの宰相メッテルニヒがその最も重要な代表者であった。",
+    "epochId": "revolutionen",
+    "related": [
+      "wiener-kongress",
+      "klemens-von-metternich",
+      "hambacher-fest"
+    ]
+  },
+  {
+    "id": "romanisierung",
+    "term": "ローマ化",
+    "definition": "征服された属州の住民が、ローマの言語、生活様式、法秩序、都市建築の様式を取り入れていったこと。これは強制によってではなく、退役兵の入植、交易、現地エリートへの市民権付与、そして浴場、劇場、道路といった魅力によって進んだ。属州のラテン語からロマンス諸語が生まれた。",
+    "epochId": "rom",
+    "related": [
+      "caesar-erobert-gallien",
+      "constitutio-antoniniana",
+      "bau-des-hadrianswalls"
+    ]
+  },
+  {
+    "id": "sakoku",
+    "term": "鎖国",
+    "definition": "1639年から1854年にかけての徳川幕府による国を閉ざす政策を指す日本語の用語。外国人の入国は許されず、日本人の出国も禁じられ、対外貿易は長崎における中国人とオランダ人の商人にのみ制限された。この国はヨーロッパの影響を受けない2世紀にわたる平和を経験した。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "abschliessung-japans",
+      "tokugawa-ieyasu"
+    ]
+  },
+  {
+    "id": "satrapie",
+    "term": "サトラップ州",
+    "definition": "ペルシア帝国の属州で、大王の名のもとに総督であるサトラップによって統治された。サトラップは租税を徴収し、軍を提供し、裁判を行ったが、王の監察官によって監視された。この制度によってアケメネス朝は多くの民族と言語からなる帝国をまとめ上げることができた。",
+    "epochId": "asien-altertum",
+    "related": [
+      "kyros-gruendet-das-perserreich",
+      "kyros-ii"
+    ]
+  },
+  {
+    "id": "scholastik",
+    "term": "スコラ学",
+    "definition": "中世の大学における学問的方法で、論理学とアリストテレス哲学の手段を用いて信仰上の問題を検討した。命題は規則にのっとった討論で検証され、反論が論駁された。トマス・アクィナスは13世紀にスコラ学をその頂点に導いた。",
+    "epochId": "mittelalter",
+    "related": [
+      "thomas-von-aquin",
+      "gruendung-der-universitaet-bologna"
+    ]
+  },
+  {
+    "id": "seidenstrasse",
+    "term": "シルクロード",
+    "definition": "漢代以降、中央アジアとペルシアを経て中国をインドと地中海世界とに結びつけた隊商路と海路のネットワーク。絹、香辛料、ガラス、馬とともに、仏教のような宗教、製紙のような技術、そして病気もまたこの道を通って伝わった。この名称は19世紀になってから付けられたものである。",
+    "epochId": "asien-altertum",
+    "related": [
+      "han-dynastie-und-seidenstrasse",
+      "kushan-reich-und-seidenstrasse",
+      "buddhismus-erreicht-china"
+    ]
+  },
+  {
+    "id": "senat",
+    "term": "元老院",
+    "definition": "ローマの元公職者の会議で、もとは長老たちの会議に由来し、終身の議員はおよそ300人から600人であった。共和政期には元老院が外交政策、財政、属州行政を決定し、貴族層の権力の中心であった。帝政期には影響力を失ったが、名誉的な機関として古代末期まで存続した。",
+    "epochId": "rom",
+    "related": [
+      "beginn-der-roemischen-republik",
+      "cicero",
+      "ermordung-caesars"
+    ]
+  },
+  {
+    "id": "soziale-frage",
+    "term": "社会問題",
+    "definition": "19世紀における労働者階級の窮状、すなわち低賃金、長時間労働、児童労働、劣悪な住宅事情、病気や老後への備えの欠如を指す言葉。教会、企業家、社会主義者、国家はそれぞれ異なる解決策を追求し、社宅の提供から労働組合、社会保険に至るまでさまざまな取り組みがなされた。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "weberaufstand-schlesien",
+      "bismarcks-sozialgesetze",
+      "kommunistisches-manifest"
+    ]
+  },
+  {
+    "id": "sozialversicherung",
+    "term": "社会保険",
+    "definition": "国家が組織する強制保険で、被用者を病気、事故、老齢、障害から保護し、雇用主と被用者の拠出によって賄われる。1883年から1889年にかけてビスマルクによってドイツ帝国に導入され、世界中の福祉国家の模範となった。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "bismarcks-sozialgesetze",
+      "otto-von-bismarck"
+    ]
+  },
+  {
+    "id": "stadtstaat",
+    "term": "都市国家",
+    "definition": "一つの都市とその周辺地域からなる独立した国家。シュメールでは、それぞれの都市国家が固有の神に捧げられ、王あるいは神官君主によって統治され、アッカドのサルゴンが一つの帝国へと統一するまで、諸都市は水と土地をめぐって互いに争い続けた。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "stadtstaaten-sumers-und-ur-standarte",
+      "sargon-gruendet-akkadisches-reich",
+      "gilgamesch"
+    ]
+  },
+  {
+    "id": "staendegesellschaft",
+    "term": "身分制社会",
+    "definition": "中世社会が出生によって身分に区分されていたことで、それぞれ異なる権利と義務を伴った。聖職者、貴族、そして大多数を占める農民と都市住民である。当時の教えによれば、第一身分は祈り、第二身分は戦い、第三身分は働くとされたが、1381年のイングランドにおける蜂起のような反乱はこの秩序に疑問を投げかけた。",
+    "epochId": "mittelalter",
+    "related": [
+      "bauernaufstand-in-england",
+      "magna-carta",
+      "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "stellungskrieg",
+    "term": "塹壕戦",
+    "definition": "対峙する軍が固定した塹壕に立てこもり、戦線が何か月、何年にもわたってほとんど動かない戦争の様式。第一次世界大戦の西部戦線では、機関銃、砲兵、鉄条網によってあらゆる攻撃が甚大な犠牲を伴うものとなり、両陣営は1918年まで塹壕にとどまり続けた。ヴェルダンとソンムがその最もよく知られた例である。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "marneschlacht-und-stellungskrieg",
+      "schlacht-um-verdun",
+      "schlacht-um-gallipoli"
+    ]
+  },
+  {
+    "id": "stellvertreterkrieg",
+    "term": "代理戦争",
+    "definition": "大国同士が直接戦うのではなく、第三国において敵対する勢力を武器、資金、顧問、あるいは自国の部隊によって支援する戦争。冷戦においてアメリカ合衆国とソヴィエト連邦は、朝鮮、ベトナム、アフガニスタン、アフリカにおいてこのような形で対立を繰り広げた。その被害を最も大きく受けたのは、これらの国々の住民であった。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "koreakrieg",
+      "vietnamkrieg",
+      "ho-chi-minh"
+    ]
+  },
+  {
+    "id": "sufismus",
+    "term": "スーフィズム(イスラーム神秘主義)",
+    "definition": "イスラームの神秘主義的潮流で、神との直接的で愛に満ちた体験を追求し、そのために祈り、瞑想、歌、舞踏、苦行を用いる。バスラのラービアやガザーリー、ルーミーのようなスーフィーたちは重要な詩や哲学を生み出した。12世紀以降、彼らは師と弟子からなる教団を組織するようになった。スーフィー教団はイスラームをアナトリア、インド、東南アジア、アフリカへと伝えた。",
+    "epochId": "islamische-welt",
+    "related": [
+      "rumi",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "sunniten-und-schiiten",
+    "term": "スンナ派とシーア派",
+    "definition": "ムハンマドの後継者をめぐる争いから生まれたイスラームの二大潮流。シーア派は預言者のいとこであり娘婿であるアリーとその子孫のみを正統な指導者とみなし、スンナ派は選出されたカリフを認め、預言者の範例であるスンナに依拠する。今日、ムスリムのおよそ85から90パーセントがスンナ派であり、シーア派は主にイラン、イラク、レバノン、バーレーンに住んでいる。",
+    "epochId": "islamische-welt",
+    "related": [
+      "schlacht-von-kerbela",
+      "umayyaden-kalifat-in-damaskus",
+      "fatimiden-gruenden-kairo"
+    ]
+  },
+  {
+    "id": "totaler-krieg",
+    "term": "総力戦",
+    "definition": "国家がその全人民、経済力、資源を戦争のために動員し、兵士と民間人との境界が曖昧になる戦争。第一次世界大戦は最初の総力戦とみなされている。工場は前線のためだけに生産を行い、女性が労働で男性に代わり、封鎖は民間人を飢餓に陥れた。プロパガンダと検閲は、抗戦の意志を維持するためのものであった。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "schlacht-um-verdun",
+      "novemberrevolution-1918",
+      "kaethe-kollwitz"
+    ]
+  },
+  {
+    "id": "tragoedie",
+    "term": "悲劇",
+    "definition": "紀元前5世紀のアテナイで、ディオニュソスを讃える合唱歌から生まれた重厚な演劇。アイスキュロス、ソフォクレス、エウリピデスの悲劇は、神話や歴史上の英雄たちが神々、法、運命と対立する姿を描き、何千人もの市民の前で行われる競演において上演された。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "aischylos-und-die-tragoedie",
+      "tyrannis-der-peisistratiden"
+    ]
+  },
+  {
+    "id": "tyrannis",
+    "term": "僭主政",
+    "definition": "何の法的根拠もなく、通常は武力によって、あるいは貴族に対抗する民衆の支持を得て権力を奪取した者による単独支配。紀元前7世紀から前6世紀にかけて、多くのギリシア都市で僭主が支配し、しばしば経済と芸術を奨励した。この語が暴力的な専制を意味する表現となったのは、後になってからのことである。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "tyrannis-der-peisistratiden",
+      "reformen-des-kleisthenes"
+    ]
+  },
+  {
+    "id": "vernichtungskrieg",
+    "term": "絶滅戦争",
+    "definition": "1941年以降のドイツによる対ソヴィエト戦争を指す言葉で、当初から単なる軍事的勝利だけでなく、国家の破壊、ユダヤ人および共産党員の殺害、そして数百万の民間人と捕虜を飢餓によって死に至らしめることを目的としていた。コミッサール指令のような命令は戦争法を停止させた。国防軍もこれに直接関与していた。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "angriff-auf-die-sowjetunion",
+      "schlacht-von-stalingrad",
+      "hitler-stalin-pakt"
+    ]
+  },
+  {
+    "id": "voelkerbundsmandat",
+    "term": "国際連盟委任統治",
+    "definition": "第一次世界大戦後、ドイツまたはオスマン帝国の領土から切り離され、国際連盟に代わって戦勝国が、いずれ独立にふさわしいとされるまでという名目で統治した地域。イギリスはパレスチナ、イラク、トランスヨルダンを、フランスはシリアとレバノンを得た。ドイツの植民地はイギリス、フランス、ベルギー、日本などに配分された。実際には委任統治領は植民地とほとんど違いがなかった。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "balfour-erklaerung",
+      "gruendung-voelkerbund",
+      "gruendung-tuerkische-republik"
+    ]
+  },
+  {
+    "id": "voelkerwanderung",
+    "term": "民族大移動",
+    "definition": "375年頃のフン人の侵入から568年頃までの時代で、ゴート人、ヴァンダル人、フランク人、ランゴバルド人といったゲルマン諸族がローマ帝国内に進出し、そこに独自の王国を築いた。これは476年の西ローマ帝国滅亡と、ヨーロッパの中世諸国家の成立につながった。その原因は土地の探求、人口圧力、そしてフン人による圧迫であった。",
+    "epochId": "rom",
+    "related": [
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ende-westroms"
+    ]
+  },
+  {
+    "id": "volkssouveraenitaet",
+    "term": "国民主権",
+    "definition": "すべての国家権力は国民に由来し、統治者は国民の代理人としてのみその権力を行使するとする原則。ルソーによって定式化され、1776年のアメリカ独立宣言、1789年の人間および市民の権利宣言に明記され、王権神授説に取って代わった。国民主権は今日に至るまで民主的な憲法の基礎である。",
+    "epochId": "revolutionen",
+    "related": [
+      "amerikanische-unabhaengigkeitserklaerung",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "verfassung-der-usa"
+    ]
+  },
+  {
+    "id": "vormaerz",
+    "term": "三月前期(フォアメルツ)",
+    "definition": "1815年のウィーン会議から1848年の三月革命までのドイツにおける時代で、検閲と弾圧にもかかわらず自由主義的・国民主義的な運動が成長した。学生団体、ハンバッハ祭、ハイネやビューヒナーのような作家たち、そしてシュレージエンの織工の蜂起のような出来事がこの時代を特徴づけた。この語は1848年革命から、それ以前の時代を振り返って用いられる。",
+    "epochId": "revolutionen",
+    "related": [
+      "hambacher-fest",
+      "maerzrevolution-1848",
+      "wiener-kongress"
+    ]
+  },
+  {
+    "id": "weimarer-republik",
+    "term": "ヴァイマル共和国",
+    "definition": "1918年から1933年にかけてのドイツ国家の呼称で、国民議会が1919年に憲法を採択した都市ヴァイマルに由来する。最初のドイツの民主主義国家は、当初からヴェルサイユ条約、インフレーション、クーデター未遂、政治的暴力の圧力のもとにあった。黄金の20年代の短い安定期の後、世界恐慌によって崩壊し、ヒトラーの首相任命をもって終わりを迎えた。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "weimarer-verfassung",
+      "friedrich-ebert",
+      "gustav-stresemann",
+      "krisenjahr-1923"
+    ]
+  },
+  {
+    "id": "wettlauf-um-afrika",
+    "term": "アフリカ分割",
+    "definition": "1880年頃から1914年にかけて、アフリカ大陸のほぼ全域がヨーロッパの植民地列強の間で急速に分割されたこと。1884年から1885年のベルリン会議がその規則を定めたが、アフリカ人自身の参加はなかった。国境は机上で引かれ、多くの場合それが今日でも残っている。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "berliner-konferenz-afrika",
+      "kongo-freistaat",
+      "voelkermord-herero-nama"
+    ]
+  },
+  {
+    "id": "widerstand",
+    "term": "抵抗運動",
+    "definition": "ヒトラー式敬礼の拒否から、ビラ配布、被迫害者の匿護、暗殺計画やクーデター計画に至るまで、ナチス体制に対するあらゆる形の反対を指す総称。共産主義者や社会民主主義者、キリスト教徒、学生、将校、そしてゲオルク・エルザーのような単独行動者によって担われたが、常にごく少数にとどまった。占領された国々では、パルチザンやレジスタンスのような地下運動がドイツの支配に抵抗した。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "attentat-vom-20-juli-1944",
+      "sophie-scholl",
+      "claus-von-stauffenberg",
+      "aufstand-im-warschauer-ghetto"
+    ]
+  },
+  {
+    "id": "zikkurat",
+    "term": "ジッグラト",
+    "definition": "メソポタミアの日干しレンガによる階段状の神殿塔で、その頂上には都市神を祀る聖所があった。紀元前2100年頃に建てられたウルのジッグラトが最も保存状態が良く、聖書のバベルの塔の物語はバビロンのジッグラトに由来する。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "stadtstaaten-sumers-und-ur-standarte",
+      "sumerische-keilschrift"
+    ]
+  }
+]
