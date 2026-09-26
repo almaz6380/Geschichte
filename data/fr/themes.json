@@ -1,0 +1,503 @@
+[
+  {
+    "id": "religionen",
+    "title": "Religions et visions du monde",
+    "subtitle": "Du temple sur la colline à l'État religieux",
+    "summary": "Comment les croyances ont fondé des communautés, légitimé des empires et déclenché des guerres : le chemin des religions, des premiers sanctuaires jusqu'à aujourd'hui.",
+    "intro": [
+      "Bien avant qu'il n'existe des villes et l'écriture, des chasseurs-cueilleurs érigèrent à Göbekli Tepe des cercles de pierre monumentaux qui servaient probablement à des fins cultuelles. Dans les premières hautes civilisations d'Égypte et de Mésopotamie, la religion était indissociable du pouvoir : le pharaon passait pour l'intermédiaire entre les dieux et les hommes, et la tentative d'Akhenaton de n'adorer que le dieu solaire Aton échoua après sa mort. Au premier millénaire av. J.-C. apparurent presque simultanément en Inde, en Chine et en Grèce de nouvelles doctrines qui plaçaient l'homme et son action au centre : Bouddha, Confucius et Laozi trouvèrent des disciples, tandis que les Grecs consultaient leurs dieux à Delphes. Le souverain maurya Ashoka fit du bouddhisme une affaire d'État et envoya des missionnaires jusqu'au Sri Lanka.",
+      "Dans l'Empire romain, le christianisme passa en trois siècles du statut de secte persécutée à celui de religion d'État. Constantin accorda la liberté religieuse en 313 et fit fixer les fondements de la foi au concile de Nicée. Après la fin de Rome occidentale, des monastères comme le Mont-Cassin et des rois convertis comme Clovis portèrent la foi aux peuples germaniques. Au VIIe siècle naquit dans la péninsule Arabique l'islam, qui se répandit avec les conquêtes des califes en quelques décennies de l'Espagne à la Perse et se divisa très tôt entre sunnites et chiites. La querelle médiévale entre le pape et l'empereur au sujet de l'investiture des évêques et les croisades montrent à quel point la religion et le pouvoir restèrent étroitement mêlés.",
+      "Avec les 95 thèses de Luther, l'unité de l'Église occidentale se brisa en 1517. La Réforme et la Contre-Réforme menèrent à des guerres de religion que seuls la paix d'Augsbourg et les traités de Westphalie parvinrent à contenir ; des réfugiés religieux comme les huguenots quittèrent leur patrie. Les Lumières réclamèrent la tolérance et la séparation de l'Église et de l'État, et aux XIXe et XXe siècles les Églises perdirent de leur influence dans de nombreux pays d'Europe. En même temps, la religion resta une force politique : la révolution iranienne de 1979 institua un État théocratique, et l'appartenance religieuse marque aujourd'hui encore des conflits et des identités dans le monde entier."
+    ],
+    "color": "#7c3aed",
+    "eventIds": [
+      "goebekli-tepe",
+      "echnatons-religionsreform",
+      "orakel-von-delphi",
+      "buddha-lehrt-in-nordindien",
+      "konfuzius-und-seine-lehre",
+      "ashoka-verbreitet-den-buddhismus",
+      "mailaender-vereinbarung",
+      "konzil-von-nicaea",
+      "taufe-chlodwigs",
+      "benedikt-gruendet-montecassino",
+      "erste-offenbarung-mohammeds",
+      "schlacht-von-kerbela",
+      "gang-nach-canossa",
+      "erster-kreuzzug",
+      "luthers-95-thesen",
+      "konzil-von-trient",
+      "augsburger-religionsfrieden",
+      "edikt-von-fontainebleau",
+      "iranische-revolution-1979"
+    ],
+    "personIds": [
+      "echnaton",
+      "siddhartha-gautama",
+      "konfuzius",
+      "konstantin-der-grosse",
+      "mohammed",
+      "hildegard-von-bingen",
+      "thomas-von-aquin",
+      "rumi",
+      "martin-luther",
+      "ignatius-von-loyola"
+    ],
+    "termIds": [
+      "dharma",
+      "daoismus",
+      "koran",
+      "sunniten-und-schiiten",
+      "moenchtum",
+      "kreuzzug",
+      "reformation",
+      "gegenreformation"
+    ],
+    "tags": [
+      "religion",
+      "église",
+      "islam",
+      "bouddhisme",
+      "réforme",
+      "foi"
+    ]
+  },
+  {
+    "id": "wissenschaft-technik",
+    "title": "Science et technique",
+    "subtitle": "Du biface au World Wide Web",
+    "summary": "Les outils, les inventions et les découvertes ont sans cesse transformé de fond en comble la vie des hommes. Le fil conducteur mène du premier outil de pierre jusqu'à l'ère numérique.",
+    "intro": [
+      "Les plus anciens outils de pierre de l'Oldowayen ont environ 2,6 millions d'années et marquent le début de l'histoire des techniques. Le feu, la poterie, la roue et le travail des métaux suivirent à de longs intervalles, mais avec le Néolithique le développement s'accéléra. L'écriture cunéiforme de Mésopotamie permit de conserver le savoir, et le travail du fer transforma l'agriculture et la conduite de la guerre. En Grèce, des penseurs comme Hippocrate et Archimède commencèrent à observer systématiquement la nature et le corps et à les décrire mathématiquement, au lieu de les expliquer par les seuls dieux.",
+      "La Chine fut pendant des siècles le pays techniquement le plus avancé du monde : le papier, l'impression sur planches de bois, la poudre à canon, la boussole et le papier-monnaie y virent le jour bien avant leur diffusion en Europe. À Bagdad, les savants de la Maison de la sagesse traduisirent des écrits grecs, persans et indiens, et al-Khwarizmi fonda l'algèbre. C'est par al-Andalus que ce savoir parvint à l'Europe médiévale. L'imprimerie à caractères mobiles de Gutenberg rendit vers 1450 les livres abordables et créa les conditions d'une diffusion rapide des idées nouvelles.",
+      "Avec Copernic, Galilée et Newton naquit entre 1543 et 1687 une vision du monde nouvelle, fondée sur l'observation, l'expérience et les mathématiques, qui s'imposa malgré la résistance de l'Église. La machine à vapeur, le chemin de fer et le système de la fabrique déclenchèrent aux XVIIIe et XIXe siècles la révolution industrielle, Darwin expliqua l'origine des espèces, et l'automobile et l'avion réduisirent les distances. Au XXe siècle, l'homme conquit l'espace avec Spoutnik et l'alunissage, tandis que la physique nucléaire et l'ordinateur transformaient le monde autant qu'ils le menaçaient. Depuis 1991, le World Wide Web relie des milliards de personnes et rend le savoir plus accessible que jamais."
+    ],
+    "color": "#0ea5e9",
+    "eventIds": [
+      "oldowan-steinwerkzeuge",
+      "erfindung-des-rades",
+      "sumerische-keilschrift",
+      "beginn-der-eisenzeit",
+      "hippokrates-und-die-medizin",
+      "archimedes-und-die-belagerung-von-syrakus",
+      "erfindung-des-papiers",
+      "al-chwarizmi-begruendet-die-algebra",
+      "song-dynastie-erfindungen",
+      "gutenbergs-buchdruck",
+      "kopernikus-heliozentrisches-weltbild",
+      "galileis-prozess",
+      "newtons-principia",
+      "watts-dampfmaschine",
+      "eisenbahn-stockton-darlington",
+      "darwin-entstehung-der-arten",
+      "erster-motorflug-wright",
+      "sputnik-1957",
+      "mondlandung-1969",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "archimedes",
+      "euklid",
+      "al-chwarizmi",
+      "ibn-sina",
+      "leonardo-da-vinci",
+      "galileo-galilei",
+      "isaac-newton",
+      "james-watt",
+      "marie-curie",
+      "albert-einstein"
+    ],
+    "termIds": [
+      "faustkeil",
+      "keilschrift",
+      "holztafeldruck",
+      "industrielle-revolution",
+      "fabriksystem",
+      "evolutionstheorie"
+    ],
+    "tags": [
+      "inventions",
+      "sciences",
+      "technique",
+      "médecine",
+      "industrialisation",
+      "astronautique"
+    ]
+  },
+  {
+    "id": "krieg-frieden",
+    "title": "Guerre et paix",
+    "subtitle": "Batailles, traités de paix et recherche d'un ordre",
+    "summary": "Les guerres ont créé et détruit des empires ; aussi ancienne est la tentative de les maîtriser par des traités, des règles et des alliances. Une histoire de la violence et de sa limitation.",
+    "intro": [
+      "Le plus ancien traité de paix conservé au monde fut conclu après la bataille de Qadesh entre Égyptiens et Hittites. Les cités-États grecques repoussèrent les Perses à Marathon et à Salamine, mais s'épuisèrent mutuellement dans la guerre du Péloponnèse. En Chine, Sun Tzu formula à l'époque des Royaumes combattants des principes de l'art de la guerre que l'on lit encore aujourd'hui. Rome bâtit avec ses légions, au cours des guerres puniques, un empire universel, mais atteignit ses limites à la bataille de Teutobourg et les protégea par le limes et le mur d'Hadrien.",
+      "Au Moyen Âge, les armées de chevaliers, les châteaux forts et les sièges marquèrent la conduite de la guerre. Les croisades associèrent la ferveur religieuse à la conquête, la guerre de Cent Ans s'étira sur des générations. La guerre de Trente Ans dévasta de vastes parties de l'Europe centrale et s'acheva en 1648 par les traités de Westphalie, qui firent de la souveraineté des États le fondement de l'ordre européen. Après les guerres napoléoniennes, le congrès de Vienne tenta d'assurer une paix durable par un équilibre entre les grandes puissances, et au XIXe siècle naquit, avec la Croix-Rouge et les conventions de Genève, un droit international humanitaire.",
+      "La Première Guerre mondiale montra, avec la guerre de positions, les gaz de combat et des millions de morts, la puissance destructrice de l'industrie. Le traité de Versailles et la Société des Nations devaient empêcher de nouvelles guerres, mais ils échouèrent. La Seconde Guerre mondiale devint une guerre d'anéantissement et se termina par les bombes atomiques sur Hiroshima et Nagasaki. Les Nations unies et le principe de sécurité collective naquirent de cette expérience, mais la guerre froide apporta des guerres par procuration et amena le monde, lors de la crise de Cuba, au bord d'une guerre nucléaire. L'attaque russe contre l'Ukraine en 2022 montre que les guerres entre États n'appartiennent pas au passé, même au XXIe siècle."
+    ],
+    "color": "#dc2626",
+    "eventIds": [
+      "schlacht-bei-kadesch",
+      "schlacht-von-marathon",
+      "zeit-der-streitenden-reiche",
+      "peloponnesischer-krieg",
+      "punische-kriege",
+      "varusschlacht",
+      "schlacht-bei-tours-und-poitiers",
+      "erster-kreuzzug",
+      "hundertjaehriger-krieg",
+      "dreissigjaehriger-krieg",
+      "westfaelischer-frieden",
+      "wiener-kongress",
+      "gruendung-rotes-kreuz",
+      "schlacht-um-verdun",
+      "versailler-vertrag",
+      "schlacht-von-stalingrad",
+      "atombomben-hiroshima-nagasaki",
+      "gruendung-vereinte-nationen",
+      "kubakrise",
+      "russischer-angriff-ukraine-2022"
+    ],
+    "personIds": [
+      "sunzi",
+      "hannibal",
+      "alexander-der-grosse",
+      "saladin",
+      "napoleon-bonaparte",
+      "henry-dunant",
+      "bertha-von-suttner",
+      "winston-churchill",
+      "erwin-rommel",
+      "john-f-kennedy"
+    ],
+    "termIds": [
+      "hoplit",
+      "legion",
+      "kreuzzug",
+      "stellungskrieg",
+      "totaler-krieg",
+      "vernichtungskrieg",
+      "stellvertreterkrieg",
+      "kalter-krieg"
+    ],
+    "tags": [
+      "guerre",
+      "paix",
+      "batailles",
+      "droit international",
+      "diplomatie",
+      "armée"
+    ]
+  },
+  {
+    "id": "handel-globalisierung",
+    "title": "Commerce, économie et mondialisation",
+    "subtitle": "Comment les marchandises, l'argent et les idées ont relié le monde",
+    "summary": "Des premiers paysans à la route de la soie et à la Hanse, jusqu'aux marchés mondiaux et aux crises financières : l'économie et le commerce ont relié les cultures, créé de la richesse et engendré de l'inégalité.",
+    "intro": [
+      "Avec la révolution néolithique, les hommes commencèrent à cultiver des céréales et à élever des animaux ; l'irrigation en Mésopotamie permit des excédents, d'où naquirent les villes, la division du travail et le commerce. Les Phéniciens construisirent un réseau commercial sur l'ensemble de la Méditerranée et transmirent leur alphabet, les Grecs fondèrent des colonies de l'Espagne à la mer Noire. Sous la dynastie Han naquit la route de la soie, sur laquelle la soie, les épices, le verre et les idées s'échangeaient entre la Chine, l'Inde, la Perse et Rome. La monnaie frappée, l'écriture et les ordres juridiques rendirent le commerce lointain plus fiable.",
+      "Au Moyen Âge, Bagdad, Le Caire et Cordoue furent les plaques tournantes d'un espace commercial qui allait de l'Afrique de l'Ouest à la Chine ; Tombouctou s'enrichit grâce à l'or et au sel, et le pèlerinage de Mansa Moussa fit connaître cette richesse dans tout le monde islamique. Marco Polo et Ibn Battuta rapportèrent ce qu'ils avaient vu des marchés d'Asie ; en Europe du Nord, la Hanse organisa le commerce entre la mer Baltique et la mer du Nord. Après 1492, Colomb et Vasco de Gama relièrent les continents par les océans. L'échange colombien apporta la pomme de terre et le maïs en Europe, les chevaux et les maladies en Amérique, et la traite atlantique déporta des millions d'Africains vers les plantations du Nouveau Monde.",
+      "La révolution industrielle fit de la Grande-Bretagne l'atelier du monde ; les usines, les chemins de fer et le canal de Suez accélérèrent la circulation des marchandises, et les guerres de l'opium contraignirent la Chine à s'ouvrir. Le Japon répondit à la pression de l'Occident par la restauration de Meiji et s'industrialisa lui-même. La crise économique mondiale de 1929 montra à quel point les économies nationales étaient déjà imbriquées. Après 1945, le commerce mondial et la prospérité progressèrent rapidement ; le choc pétrolier de 1973, l'introduction de l'euro et la crise financière de 2008 rendirent les dépendances visibles. La mondialisation du XXIe siècle relie les chaînes d'approvisionnement, les marchés de capitaux et les réseaux numériques par-delà toutes les frontières."
+    ],
+    "color": "#d97706",
+    "eventIds": [
+      "neolithische-revolution",
+      "bewaesserungslandwirtschaft-mesopotamien",
+      "phoenizier-und-alphabet",
+      "griechische-kolonisation",
+      "han-dynastie-und-seidenstrasse",
+      "gruendung-bagdads",
+      "marco-polos-reise-nach-china",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum",
+      "erster-hansetag",
+      "vasco-da-gama-erreicht-indien",
+      "beginn-transatlantischer-sklavenhandel",
+      "abschliessung-japans",
+      "mechanischer-webstuhl-fabriksystem",
+      "erster-opiumkrieg",
+      "eroeffnung-suezkanal",
+      "weltwirtschaftskrise-1929",
+      "oelkrise-1973",
+      "einfuehrung-euro-bargeld",
+      "weltfinanzkrise-2008"
+    ],
+    "personIds": [
+      "mansa-musa",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "james-watt",
+      "karl-marx",
+      "kaiser-meiji",
+      "cecil-rhodes",
+      "deng-xiaoping",
+      "tim-berners-lee"
+    ],
+    "termIds": [
+      "seidenstrasse",
+      "hanse",
+      "merkantilismus",
+      "kolumbianischer-austausch",
+      "industrielle-revolution",
+      "imperialismus",
+      "hyperinflation",
+      "globalisierung"
+    ],
+    "tags": [
+      "commerce",
+      "économie",
+      "mondialisation",
+      "route de la soie",
+      "colonialisme",
+      "monnaie"
+    ]
+  },
+  {
+    "id": "herrschaft-demokratie",
+    "title": "Pouvoir, droit et démocratie",
+    "subtitle": "Qui gouverne, et qui a voix au chapitre ?",
+    "summary": "Des rois-dieux et des stèles de lois à la démocratie d'Athènes, puis aux constitutions et aux droits de l'homme : le long débat sur la manière dont le pouvoir se fonde et se limite.",
+    "intro": [
+      "Dans les premières hautes civilisations, le pouvoir passait pour voulu par les dieux, mais le Code de Hammurabi montrait déjà qu'un roi pouvait se lier à des lois écrites. À Athènes, Solon et Clisthène menèrent des réformes qui associèrent pour la première fois des citoyens libres aux décisions ; la démocratie athénienne resta cependant réservée aux hommes et exclut les femmes, les étrangers et les esclaves. Rome chassa ses rois, se donna la loi des Douze Tables et développa une république faite de consuls, d'un sénat et d'assemblées du peuple. En Chine, le premier empereur Qin Shi Huangdi unifia le pays avec une administration rigoureuse, et le mandat du Ciel justifia désormais le pouvoir des dynasties.",
+      "Avec le principat d'Auguste, Rome devint de fait une monarchie, et par le couronnement impérial de Charlemagne le Moyen Âge renoua avec cette idée. En même temps, les rois durent partager leur pouvoir avec la noblesse, l'Église et les villes : la Magna Carta de 1215 soumit le roi d'Angleterre au droit, les états provinciaux et les parlements consentaient les impôts. Dans l'absolutisme du XVIIe siècle, des souverains comme Louis XIV revendiquèrent pour eux seuls toute la puissance publique, tandis que l'Angleterre imposait la primauté du Parlement lors de la Glorieuse Révolution. Locke et Montesquieu fondèrent les idées du contrat social et de la séparation des pouvoirs.",
+      "La révolution américaine et la Révolution française en firent des constitutions et des déclarations des droits de l'homme, et le Code civil porta l'égalité devant la loi à travers l'Europe. Au XIXe siècle, libéraux et démocrates luttèrent lors de la révolution de 1848 pour des constitutions et des États-nations ; la Nouvelle-Zélande fut en 1893 le premier pays à instaurer le droit de vote des femmes. La Constitution de Weimar fut l'une des plus modernes de son temps, mais elle montra aussi, avec la loi des pleins pouvoirs, comment une démocratie peut être détruite légalement. Après 1945, les droits de l'homme et la démocratie se répandirent dans le monde entier, et la fin de l'apartheid en 1994 fit de l'Afrique du Sud le symbole d'un passage pacifique à l'égalité des droits."
+    ],
+    "color": "#2563eb",
+    "eventIds": [
+      "codex-hammurapi",
+      "reformen-solons",
+      "beginn-der-roemischen-republik",
+      "reformen-des-kleisthenes",
+      "zwoelftafelgesetz",
+      "qin-shihuangdi-einigt-china",
+      "augustus-begruendet-den-prinzipat",
+      "kaiserkroenung-karls-des-grossen",
+      "magna-carta",
+      "hof-nach-versailles",
+      "glorious-revolution",
+      "montesquieu-geist-der-gesetze",
+      "verfassung-der-usa",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "code-civil",
+      "maerzrevolution-1848",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "ende-der-apartheid"
+    ],
+    "personIds": [
+      "hammurapi",
+      "perikles",
+      "cicero",
+      "augustus",
+      "karl-der-grosse",
+      "john-locke",
+      "thomas-jefferson",
+      "olympe-de-gouges",
+      "friedrich-ebert",
+      "nelson-mandela"
+    ],
+    "termIds": [
+      "polis",
+      "ostrakismos",
+      "senat",
+      "prinzipat",
+      "mandat-des-himmels",
+      "absolutismus",
+      "gewaltenteilung",
+      "volkssouveraenitaet"
+    ],
+    "tags": [
+      "démocratie",
+      "constitution",
+      "droit",
+      "monarchie",
+      "droits humains",
+      "parlement"
+    ]
+  },
+  {
+    "id": "frauen",
+    "title": "Les femmes dans l'histoire",
+    "subtitle": "Souveraines, penseuses et lutte pour l'égalité",
+    "summary": "Les femmes ont gouverné, écrit, cherché et résisté, mais elles sont longtemps restées exclues du pouvoir et de l'éducation. Leur chemin, des premières hautes civilisations au droit de vote et au mouvement des droits civiques.",
+    "intro": [
+      "Dans la grande agglomération de Çatalhöyük, les archéologues ont trouvé de nombreuses figurines féminines dont la signification est discutée jusqu'à aujourd'hui. De l'empire de Sargon d'Akkad vient, avec la prêtresse Enheduanna, la première autrice connue par son nom de l'histoire mondiale, et la princesse Shang Fu Hao conduisit des armées au combat. En Égypte, Hatchepsout régna comme pharaon ; à Athènes, au contraire, les femmes étaient exclues de la démocratie, et même la cultivée Aspasie fut attaquée pour son influence sur Périclès. Cléopâtre VII s'affirma comme dernière souveraine d'Égypte entre les maîtres romains, avant que sa mort ne scelle la fin de l'hellénisme.",
+      "Au Moyen Âge, certaines femmes accédèrent à un grand pouvoir : Théodora gouverna aux côtés de Justinien, Wu Zetian fut la seule femme à régner sur la Chine comme impératrice, et Murasaki Shikibu écrivit avec le Dit du Genji l'un des premiers romans du monde. Les monastères offrirent à des femmes comme Hildegarde de Bingen un accès à l'instruction et à l'influence, tandis que Jeanne d'Arc devint une héroïne de la guerre de Cent Ans avant d'être brûlée comme hérétique. Isabelle de Castille et Élisabeth Ire montrèrent que des reines pouvaient gouverner avec succès. En même temps, aux XVIe et XVIIe siècles, des dizaines de milliers de personnes, en majorité des femmes, furent victimes des chasses aux sorcières.",
+      "Les Lumières promirent l'égalité des droits, mais n'entendaient le plus souvent par là que les hommes. Lors de la marche des femmes sur Versailles en 1789, des Parisiennes intervinrent activement dans la Révolution, et Olympe de Gouges réclama dans sa Déclaration des droits de la femme l'égalité pleine et entière ; elle fut exécutée en 1793. Au XIXe siècle naquit un mouvement des femmes organisé, qui lutta pour l'instruction, l'activité professionnelle et le droit de vote ; la Nouvelle-Zélande fut en 1893 le premier pays à instaurer le droit de vote des femmes, l'Allemagne suivit en 1918. Marie Juchacz prit la parole en 1919 comme première femme dans un parlement allemand, Marie Curie reçut deux prix Nobel. Rosa Parks déclencha en 1955 le boycott des bus de Montgomery et fit de la lutte pour les droits civiques aussi une histoire de résistance féminine."
+    ],
+    "color": "#db2777",
+    "eventIds": [
+      "catalhoeyuek",
+      "sargon-gruendet-akkadisches-reich",
+      "shang-dynastie-orakelknochen",
+      "bau-des-parthenon",
+      "tod-kleopatras",
+      "justinian-und-hagia-sophia",
+      "wu-zetian-wird-kaiserin",
+      "genji-monogatari",
+      "hundertjaehriger-krieg",
+      "fall-granadas",
+      "spanische-armada",
+      "hoehepunkt-der-hexenverfolgung",
+      "oesterreichischer-erbfolgekrieg",
+      "frauenmarsch-nach-versailles",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "montgomery-busboykott"
+    ],
+    "personIds": [
+      "hatschepsut",
+      "enheduanna",
+      "kleopatra-vii",
+      "theodora",
+      "wu-zetian",
+      "hildegard-von-bingen",
+      "jeanne-darc",
+      "olympe-de-gouges",
+      "emmeline-pankhurst",
+      "rosa-parks"
+    ],
+    "termIds": [
+      "staendegesellschaft",
+      "moenchtum",
+      "aufklaerung",
+      "dritter-stand",
+      "weimarer-republik",
+      "buergerrechtsbewegung"
+    ],
+    "tags": [
+      "femmes",
+      "égalité",
+      "droit de vote",
+      "souveraines",
+      "mouvement féministe"
+    ]
+  },
+  {
+    "id": "migration-begegnung",
+    "title": "Migration et rencontre des cultures",
+    "subtitle": "Migrations, conquêtes et échanges entre les peuples",
+    "summary": "Les hommes ont toujours été en mouvement : de l'Afrique vers le monde entier, comme marchands, conquérants, réfugiés et colons. Les rencontres apportèrent l'échange et l'enrichissement, mais aussi la violence et l'éviction.",
+    "intro": [
+      "L'histoire de l'humanité commence par une migration : Homo erectus quitta l'Afrique il y a près de deux millions d'années, et l'homme moderne suivit il y a environ 70 000 ans et peupla l'Australie, l'Asie, l'Europe et enfin l'Amérique. La culture lapita atteignit avec ses embarcations les îles du Pacifique. À la fin de l'âge du bronze, les peuples de la mer mirent en ébullition la Méditerranée orientale, tandis que des colons grecs fondèrent plus tard des villes de Marseille à la Crimée. La campagne d'Alexandre porta la langue et l'art grecs jusqu'en Inde et créa, à l'époque hellénistique, une culture mixte où le bouddhisme et la sculpture grecque se rencontrèrent.",
+      "C'est par la route de la soie que le bouddhisme parvint en Chine, et des moines comme Xuanzang voyagèrent en Inde pour en rapporter des écrits sacrés. Les grandes migrations amenèrent les Goths, les Vandales et les Huns dans l'Empire romain ; les Vikings naviguèrent jusqu'en Amérique du Nord et jusqu'à la mer Caspienne. En al-Andalus, musulmans, juifs et chrétiens vécurent ensemble pendant des siècles, et des savants comme Averroès transmirent la philosophie d'Aristote à l'Europe latine. Les Mongols, sous Gengis Khan, créèrent le plus vaste empire terrestre d'un seul tenant de l'histoire, sur les routes duquel des voyageurs comme Marco Polo et Ibn Battuta relièrent l'Orient et l'Occident.",
+      "L'arrivée de Colomb en 1492 ouvrit une rencontre qui déboucha, pour les peuples autochtones d'Amérique, sur la conquête, les épidémies et l'effondrement, tandis que des millions d'Africains étaient déportés comme esclaves à travers l'Atlantique. Des réfugiés religieux comme les huguenots, des affamés comme les Irlandais après 1845 et des millions d'émigrants cherchèrent une vie meilleure dans le Nouveau Monde. La partition de l'Inde en 1947 déclencha l'un des plus grands mouvements de fuite du XXe siècle, et les guerres, la décolonisation et la migration de travail ont marqué les déplacements depuis lors. La migration demeure aujourd'hui encore l'une des grandes questions de la politique mondiale, et la rencontre des cultures est à la fois source de conflits et de renouveau."
+    ],
+    "color": "#059669",
+    "eventIds": [
+      "homo-erectus-verlaesst-afrika",
+      "auszug-aus-afrika",
+      "besiedlung-amerikas",
+      "lapita-besiedlung-pazifik",
+      "ende-der-bronzezeit-seevoelker",
+      "griechische-kolonisation",
+      "alexanders-feldzug-nach-asien",
+      "buddhismus-erreicht-china",
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ueberfall-auf-lindisfarne",
+      "kalifat-von-cordoba",
+      "ibn-ruschd-erklaert-aristoteles",
+      "dschingis-khan-einigt-die-mongolen",
+      "reisen-des-ibn-battuta",
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel",
+      "edikt-von-fontainebleau",
+      "irische-hungersnot",
+      "unabhaengigkeit-indien-pakistan"
+    ],
+    "personIds": [
+      "homo-erectus",
+      "alexander-der-grosse",
+      "xuanzang",
+      "ibn-ruschd",
+      "dschingis-khan",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "akbar"
+    ],
+    "termIds": [
+      "hominini",
+      "hellenismus",
+      "seidenstrasse",
+      "voelkerwanderung",
+      "al-andalus",
+      "kolumbianischer-austausch",
+      "hugenotten",
+      "dekolonisation"
+    ],
+    "tags": [
+      "migration",
+      "déplacements",
+      "échange culturel",
+      "fuite",
+      "colonisation",
+      "rencontre"
+    ]
+  },
+  {
+    "id": "kunst-schrift-bildung",
+    "title": "Art, écriture et éducation",
+    "subtitle": "Comment les hommes ont préservé le savoir et créé la beauté",
+    "summary": "Des peintures rupestres de l'ère glaciaire à l'écriture cunéiforme, aux bibliothèques et aux universités, jusqu'à l'imprimerie et à Internet : l'histoire de la façon dont les hommes se sont exprimés et ont transmis le savoir.",
+    "intro": [
+      "Il y a 75 000 ans déjà, des hommes gravaient des motifs dans l'ocre de la grotte de Blombos et fabriquaient des parures ; les peintures de la grotte de Lascaux montrent quelle maîtrise atteignirent les artistes de l'ère glaciaire. Avec l'écriture cunéiforme de Sumer et les hiéroglyphes d'Égypte, l'histoire de l'écriture commença il y a environ 5 000 ans, d'abord pour l'administration et le commerce, bientôt aussi pour la littérature, comme l'Épopée de Gilgamesh. L'alphabet des Phéniciens simplifia tant l'écriture qu'il fut repris par les Grecs et les Romains et marque encore nos lettres aujourd'hui. Les épopées d'Homère et les tragédies d'Athènes devinrent des textes fondateurs de la culture européenne, et la bibliothèque d'Alexandrie tenta de rassembler tout le savoir du monde.",
+      "La Chine inventa le papier et l'impression sur planches de bois ; le Soûtra du Diamant de 868 est le plus ancien livre imprimé daté. À la Maison de la sagesse de Bagdad et dans les madrasas du Caire à Tombouctou, les savants conservèrent et enrichirent l'héritage de l'Antiquité. En Europe naquirent avec Bologne et Paris les premières universités, la scolastique unit la foi et la raison, et le gothique fit surgir des cathédrales de lumière et de pierre. La Renaissance redécouvrit l'Antiquité : Brunelleschi, Léonard de Vinci et Michel-Ange créèrent des œuvres qui alliaient l'art et la science, et l'imprimerie de Gutenberg fit du livre un produit de masse.",
+      "L'Encyclopédie des Lumières voulait rendre le savoir de son temps accessible à tous, et au XIXe siècle l'école obligatoire fut imposée dans de nombreux pays. Après 1919, le Bauhaus unit l'art, l'artisanat et la technique en un langage formel nouveau qui rayonna dans le monde entier. Les autodafés de 1933 montrèrent à quel point l'art et la science libres paraissaient dangereux aux dictatures. Avec le World Wide Web, plus de savoir est disponible aujourd'hui que jamais auparavant ; en même temps se pose à nouveau la question de savoir comment préserver l'éducation, la vérité et l'art dans le monde numérique."
+    ],
+    "color": "#b45309",
+    "eventIds": [
+      "blombos-hoehle-kunst-und-schmuck",
+      "hoehlenmalerei-lascaux",
+      "sumerische-keilschrift",
+      "gilgamesch-epos",
+      "phoenizier-und-alphabet",
+      "homer-und-die-epen",
+      "bibliothek-von-alexandria",
+      "erfindung-des-papiers",
+      "haus-der-weisheit",
+      "diamant-sutra-holztafeldruck",
+      "gruendung-der-universitaet-bologna",
+      "beginn-der-gotik",
+      "timbuktu-gelehrtenzentrum",
+      "brunelleschis-kuppel",
+      "gutenbergs-buchdruck",
+      "michelangelos-david",
+      "erste-baende-der-encyclopedie",
+      "gruendung-des-bauhauses",
+      "buecherverbrennung-1933",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "enheduanna",
+      "sappho",
+      "platon",
+      "sima-qian",
+      "murasaki-shikibu",
+      "johannes-gutenberg",
+      "leonardo-da-vinci",
+      "michelangelo",
+      "erasmus-von-rotterdam",
+      "kaethe-kollwitz"
+    ],
+    "termIds": [
+      "keilschrift",
+      "hieroglyphen",
+      "alphabet",
+      "tragoedie",
+      "holztafeldruck",
+      "scholastik",
+      "gotik",
+      "humanismus"
+    ],
+    "tags": [
+      "art",
+      "écriture",
+      "éducation",
+      "littérature",
+      "imprimerie",
+      "université"
+    ]
+  }
+]

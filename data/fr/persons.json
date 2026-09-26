@@ -1,0 +1,3073 @@
+[
+  {
+    "id": "ludwig-xiv",
+    "name": "Louis XIV",
+    "born": 1638,
+    "died": 1715,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "roi de France",
+    "summary": "Le Roi-Soleil, dont les 72 ans de règne sont devenus l'incarnation même de l'absolutisme.",
+    "text": "Louis devint roi à quatre ans et prit lui-même le gouvernement en main en 1661, après la mort de son ministre Mazarin. Avec Versailles, une armée permanente et une économie dirigée par Colbert, il étendit la puissance de la Couronne et mena de nombreuses guerres contre ses voisins. En 1685, il révoqua l'édit de Nantes et contraignit des centaines de milliers de huguenots à fuir. La phrase qu'on lui attribue, selon laquelle il serait l'État, résume sa conception du pouvoir.",
+    "tags": [
+      "roi-soleil",
+      "absolutisme",
+      "france"
+    ]
+  },
+  {
+    "id": "isaac-newton",
+    "name": "Isaac Newton",
+    "born": 1643,
+    "died": 1727,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "physicien et mathématicien",
+    "summary": "Le fondateur de la mécanique classique et le découvreur de la loi de la gravitation.",
+    "text": "Newton enseigna à Cambridge et développa, outre les lois du mouvement et la théorie de la gravitation, le calcul infinitésimal ; il décomposa la lumière blanche en couleurs à l'aide d'un prisme et construisit un télescope à miroir. Plus tard, il dirigea la Monnaie royale et la Royal Society. Selon le calendrier julien, alors en vigueur en Angleterre, il naquit en 1642 ; selon le calendrier grégorien en usage aujourd'hui, en 1643.",
+    "tags": [
+      "physique",
+      "mathématiques",
+      "royal society"
+    ]
+  },
+  {
+    "id": "peter-der-grosse",
+    "name": "Pierre le Grand",
+    "born": 1672,
+    "died": 1725,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "tsar et premier empereur de Russie",
+    "summary": "Le tsar réformateur qui modernisa la Russie par la force, sur le modèle occidental.",
+    "text": "En 1697, Pierre parcourut l'Europe occidentale incognito, travailla dans les chantiers navals hollandais et fit venir des spécialistes en Russie. Il constitua une flotte et une armée moderne, réforma l'administration et l'Église, fit couper la barbe aux nobles et introduisit l'habit occidental. Lors de la grande guerre du Nord, il battit la Suède à Poltava en 1709 et fit de la Russie une puissance de la Baltique ; en 1721, il prit le titre d'empereur.",
+    "tags": [
+      "russie",
+      "tsar",
+      "réformes"
+    ]
+  },
+  {
+    "id": "voltaire",
+    "name": "Voltaire",
+    "born": 1694,
+    "died": 1778,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "écrivain et philosophe des Lumières",
+    "summary": "Le critique acéré de l'intolérance, de la superstition et de l'arbitraire, et l'auteur le plus célèbre des Lumières françaises.",
+    "text": "François-Marie Arouet, qui se fit appeler Voltaire, fut emprisonné à la Bastille pour ses vers satiriques et apprit à admirer, lors de son exil en Angleterre, la liberté du Parlement et la science de Newton. Dans des romans comme Candide, dans des pièces de théâtre, des ouvrages historiques et des milliers de lettres, il combattit pour la tolérance et l'État de droit et prit la défense des victimes de la justice religieuse, tel le protestant Jean Calas. Il vécut quelques années à Potsdam comme hôte de Frédéric II, mais se brouilla avec le roi.",
+    "tags": [
+      "lumières",
+      "tolérance",
+      "littérature"
+    ]
+  },
+  {
+    "id": "friedrich-ii-von-preussen",
+    "name": "Frédéric II de Prusse",
+    "born": 1712,
+    "died": 1786,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "roi de Prusse",
+    "summary": "Frédéric le Grand, le despote éclairé qui fit de la Prusse une grande puissance.",
+    "text": "Prince héritier occupé de flûte, de philosophie et de littérature française, Frédéric conquit la Silésie sur l'Autriche dès son avènement en 1740 et la défendit pendant la guerre de Sept Ans. Il se disait le premier serviteur de son État, abolit la torture, accorda la tolérance religieuse et encouragea la justice et l'agriculture, tout en maintenant les privilèges de la noblesse et un pouvoir royal sans limites. Son château de Sans-Souci, à Potsdam, était un lieu de rencontre des philosophes des Lumières.",
+    "tags": [
+      "prusse",
+      "despotisme éclairé",
+      "silésie"
+    ]
+  },
+  {
+    "id": "immanuel-kant",
+    "name": "Emmanuel Kant",
+    "born": 1724,
+    "died": 1804,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "philosophe",
+    "summary": "Le philosophe de Königsberg qui définit les Lumières comme le courage de penser par soi-même.",
+    "text": "Kant ne quitta presque jamais Königsberg, sa ville natale, où il enseigna comme professeur de logique et de métaphysique. Dans la Critique de la raison pure, parue en 1781, il examina les limites de la connaissance humaine ; dans son éthique, il formula l'impératif catégorique comme loi morale universelle. Son écrit Vers la paix perpétuelle esquissa en 1795 un ordre de républiques unies pacifiquement. La devise Sapere aude, aie le courage de te servir de ton propre entendement, devint le mot d'ordre des Lumières.",
+    "tags": [
+      "philosophie",
+      "lumières",
+      "königsberg"
+    ]
+  },
+  {
+    "id": "perikles",
+    "name": "Périclès",
+    "born": -495,
+    "died": -429,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "homme d'État athénien",
+    "summary": "Le principal homme politique d'Athènes, sous lequel la démocratie fut développée et l'Acropole édifiée.",
+    "text": "Périclès fut réélu stratège pendant des décennies et détermina la politique d'Athènes. Il institua des indemnités journalières afin que les citoyens les plus pauvres puissent eux aussi exercer des magistratures et siéger dans les tribunaux, et fit édifier le Parthénon ainsi que d'autres bâtiments de l'Acropole avec les fonds de la ligue de Délos. Le sculpteur Phidias et le philosophe Anaxagore appartenaient à son entourage. Il mourut en 429 av. J.-C. de l'épidémie qui frappa Athènes au début de la guerre du Péloponnèse.",
+    "tags": [
+      "démocratie",
+      "athènes",
+      "acropole",
+      "stratège"
+    ]
+  },
+  {
+    "id": "sokrates",
+    "name": "Socrate",
+    "born": -469,
+    "died": -399,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "philosophe",
+    "summary": "L'Athénien qui, par un questionnement obstiné, orienta la philosophie vers l'homme et vers l'action juste.",
+    "text": "Socrate ne laissa aucun écrit ; on le connaît par les dialogues de son disciple Platon et par les récits de Xénophon. Sur la place du marché d'Athènes, il engageait ses concitoyens dans des conversations sur la justice, la vertu et le savoir et démasquait leur savoir apparent ; sa phrase Je sais que je ne sais rien est devenue proverbiale. Sa mort par la coupe de ciguë, en 399 av. J.-C., fit de lui la figure même du penseur fidèle à ses convictions.",
+    "tags": [
+      "philosophie",
+      "athènes",
+      "éthique"
+    ]
+  },
+  {
+    "id": "platon",
+    "name": "Platon",
+    "born": -428,
+    "died": -348,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "philosophe et fondateur de l'Académie",
+    "summary": "Disciple de Socrate, dont les dialogues et la théorie des Idées fondèrent la philosophie européenne.",
+    "text": "Platon était issu d'une famille athénienne de haut rang et fut profondément marqué par la condamnation de son maître Socrate. Vers 387 av. J.-C., il fonda l'Académie, première école philosophique, qui subsista près de 900 ans. Dans des dialogues comme la République, le Banquet et le Phédon, il développa la doctrine des Idées éternelles, l'allégorie de la caverne et le projet d'un État gouverné par des philosophes.",
+    "tags": [
+      "philosophie",
+      "académie",
+      "théorie des idées"
+    ]
+  },
+  {
+    "id": "aristoteles",
+    "name": "Aristote",
+    "born": -384,
+    "died": -322,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "philosophe et savant universel",
+    "summary": "Disciple de Platon et maître d'Alexandre, il ordonna systématiquement presque tous les domaines du savoir de son temps.",
+    "text": "Aristote était originaire de Stagire, en Grèce du Nord ; il étudia vingt ans à l'Académie de Platon et enseigna au jeune Alexandre à la cour de Macédoine. À Athènes, il fonda le Lycée. Ses écrits sur la logique, la physique, la biologie, l'éthique, la politique, la rhétorique et la poétique reposaient sur l'observation et sur la mise en ordre du savoir ; ils marquèrent la science du monde islamique et de l'Occident chrétien pendant un millénaire et demi.",
+    "tags": [
+      "philosophie",
+      "lycée",
+      "logique",
+      "science"
+    ]
+  },
+  {
+    "id": "alexander-der-grosse",
+    "name": "Alexandre le Grand",
+    "born": -356,
+    "died": -323,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "naher-osten",
+    "role": "roi de Macédoine et conquérant",
+    "summary": "Le roi macédonien qui, à 32 ans, régnait sur un empire allant de la Grèce à l'Inde.",
+    "text": "Alexandre devint roi à 20 ans, après l'assassinat de son père Philippe II, et entreprit en 334 av. J.-C. la campagne contre la Perse. Lors des batailles d'Issos et de Gaugamèles, il vainquit le Grand Roi Darius III, conquit l'Égypte, Babylone et Persépolis et poussa jusqu'à l'Indus. Il favorisa le rapprochement entre Grecs et Perses et fonda de nombreuses villes. Sa mort à 32 ans à Babylone laissa un empire sans héritier, dont naquirent les royaumes hellénistiques.",
+    "tags": [
+      "macédoine",
+      "conquérant",
+      "perse",
+      "hellénisme"
+    ]
+  },
+  {
+    "id": "kyros-ii",
+    "name": "Cyrus II le Grand",
+    "born": -600,
+    "died": -530,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "naher-osten",
+    "role": "fondateur de l'Empire perse",
+    "summary": "Le roi achéménide qui unit Perses et Mèdes et gouverna un empire mondial avec tolérance envers les peuples soumis.",
+    "text": "De souverain d'une petite principauté, Cyrus s'éleva au rang de roi des Mèdes, des Lydiens et des Babyloniens. À la différence des conquérants antérieurs, il laissa aux peuples soumis leur religion, leur langue et leurs coutumes ; le cylindre de Cyrus, retrouvé à Babylone, atteste cette politique. Il mourut vers 530 av. J.-C. lors d'une campagne contre des nomades de l'Est et fut inhumé à Pasargades, où son tombeau se dresse encore aujourd'hui. Des auteurs grecs comme Xénophon, ainsi que la Bible hébraïque, le dépeignent également en souverain juste.",
+    "tags": [
+      "perses",
+      "achéménides",
+      "grand roi",
+      "tolérance"
+    ]
+  },
+  {
+    "id": "siddhartha-gautama",
+    "name": "Siddhartha Gautama (Bouddha)",
+    "born": -563,
+    "died": -483,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "fondateur du bouddhisme",
+    "summary": "Un fils de prince des contreforts de l'Himalaya qui, sous le nom de Bouddha, l'Éveillé, enseigna une voie de libération de la souffrance.",
+    "text": "Selon la tradition, Siddhartha grandit à l'abri de tout dans la maison princière des Shakya, près de Kapilavastu, jusqu'à ce que la rencontre de la vieillesse, de la maladie et de la mort le bouleverse. Il quitta sa famille et le palais, s'essaya à une ascèse rigoureuse et trouva finalement dans la méditation la Voie du Milieu entre la jouissance et la mortification. Devenu Bouddha, il enseigna que l'avidité, la haine et l'ignorance causent la souffrance et peuvent être surmontées par une pensée et une action justes. Les dates exactes de sa vie sont incertaines ; la recherche situe sa mort entre 480 et 400 av. J.-C.",
+    "tags": [
+      "bouddhisme",
+      "religion",
+      "éveil",
+      "inde"
+    ]
+  },
+  {
+    "id": "konfuzius",
+    "name": "Confucius",
+    "born": -551,
+    "died": -479,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "philosophe et maître chinois",
+    "summary": "Le penseur le plus influent de Chine, dont la doctrine du devoir, de l'humanité et de l'éducation marqua l'État pendant plus de deux millénaires.",
+    "text": "Kong Qiu, latinisé en Confucius, était originaire de l'État de Lu, dans l'actuel Shandong, et servit un temps comme fonctionnaire avant de parcourir les cours en maître itinérant. Il exigeait des souverains qu'ils gouvernent par l'exemple plutôt que par les châtiments, et de chacun qu'il remplisse consciencieusement son rôle dans la famille et la société. Ses disciples conservèrent ses paroles dans les Entretiens, et des empereurs postérieurs lui élevèrent des temples. Jusqu'en 1905, les fonctionnaires chinois durent passer des examens portant sur les classiques confucéens.",
+    "tags": [
+      "philosophie",
+      "confucianisme",
+      "chine",
+      "éthique"
+    ]
+  },
+  {
+    "id": "qin-shihuangdi",
+    "name": "Qin Shi Huangdi",
+    "born": -259,
+    "died": -210,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "premier empereur de Chine",
+    "summary": "Le roi de Qin qui unifia la Chine, uniformisa l'écriture et les mesures et se fit inhumer avec une armée de terre cuite.",
+    "text": "Ying Zheng monta sur le trône de Qin à treize ans et soumit tous les États rivaux jusqu'en 221 av. J.-C. Devenu Premier Empereur, il fit construire routes, canaux et murailles frontalières, interdit les écritures divergentes et fit, selon la tradition, brûler des livres et exécuter des lettrés. Par peur de la mort, il rechercha des élixirs d'immortalité et se fit édifier un tombeau immense contenant des milliers de soldats d'argile grandeur nature, découvert en 1974 près de Xi'an. Sa dynastie ne lui survécut que de quelques années, mais son État unifié dura des millénaires.",
+    "tags": [
+      "empereur",
+      "qin",
+      "armée de terre cuite",
+      "unification"
+    ]
+  },
+  {
+    "id": "ashoka",
+    "name": "Ashoka",
+    "born": -304,
+    "died": -232,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "roi de l'Empire maurya",
+    "summary": "Le grand roi indien qui, après une guerre cruelle, devint le protecteur du bouddhisme et l'artisan d'une politique de non-violence.",
+    "text": "Ashoka, petit-fils du fondateur de l'empire Chandragupta Maurya, régna d'environ 268 à 232 av. J.-C. sur presque toute l'Inde depuis Pataliputra. Après la conquête du Kalinga, il regretta l'effusion de sang et proclama dans des édits le dharma : respect de tous les êtres vivants, tolérance religieuse et sollicitude envers ses sujets. Il fit aménager des hôpitaux, des puits et des routes et encouragea les monastères et les missions bouddhiques, notamment par l'intermédiaire de son fils Mahinda à Sri Lanka. Ses colonnes et ses inscriptions comptent parmi les plus anciens témoignages écrits lisibles de l'Inde.",
+    "tags": [
+      "maurya",
+      "bouddhisme",
+      "inde",
+      "édits"
+    ]
+  },
+  {
+    "id": "wilhelm-ii",
+    "name": "Guillaume II",
+    "born": 1859,
+    "died": 1941,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "dernier empereur allemand et roi de Prusse",
+    "summary": "Il mena l'Allemagne à l'isolement par ses ambitions de puissance mondiale et son armement naval, et perdit le trône en 1918.",
+    "text": "Guillaume II renvoya Bismarck en 1890 et mena une politique mondiale fondée sur les colonies et sur une grande flotte de guerre, qui fit de la Grande-Bretagne son adversaire. Ses discours et ses apparitions inconsidérés aggravèrent les crises et, lors de la crise de juillet 1914, il assura l'Autriche-Hongrie d'un soutien sans réserve. Pendant la guerre, il perdit de plus en plus la direction au profit du commandement suprême de l'armée. Après la révolution de Novembre 1918, il s'enfuit en exil aux Pays-Bas, où il mourut en 1941.",
+    "tags": [
+      "empereur",
+      "allemagne",
+      "politique mondiale"
+    ]
+  },
+  {
+    "id": "lenin",
+    "name": "Vladimir Ilitch Lénine",
+    "born": 1870,
+    "died": 1924,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "révolutionnaire et fondateur de l'Union soviétique",
+    "summary": "Il mena les bolcheviks au pouvoir en 1917 et établit le premier État communiste.",
+    "text": "Vladimir Ilitch Oulianov, qui se fit appeler Lénine, transforma la social-démocratie russe en un parti de révolutionnaires professionnels solidement organisé. Après la révolution d'Octobre, il conclut la paix avec l'Allemagne, distribua la terre aux paysans et imposa la domination des bolcheviks pendant la guerre civile, avec l'Armée rouge et la police secrète. Il mourut en 1924 après plusieurs attaques cérébrales ; son corps embaumé repose aujourd'hui encore dans le mausolée de la place Rouge.",
+    "tags": [
+      "révolution",
+      "bolcheviks",
+      "communisme"
+    ]
+  },
+  {
+    "id": "woodrow-wilson",
+    "name": "Woodrow Wilson",
+    "born": 1856,
+    "died": 1924,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "amerika",
+    "role": "28e président des États-Unis",
+    "summary": "Il engagea les États-Unis dans la guerre et conçut un nouvel ordre mondial avec les Quatorze Points et la Société des Nations.",
+    "text": "Ancien professeur d'université, Wilson devint président en 1912 et fut réélu en 1916 sur la promesse de tenir les États-Unis à l'écart de la guerre. Après l'entrée en guerre de 1917, il proclama les Quatorze Points, avec le droit des peuples à disposer d'eux-mêmes et l'idée d'une Société des Nations. À Paris, il ne parvint que partiellement à s'imposer face aux exigences de la France et de la Grande-Bretagne, et le Sénat américain refusa l'adhésion à la Société des Nations. En 1919, il reçut le prix Nobel de la paix.",
+    "tags": [
+      "états-unis",
+      "président",
+      "société des nations",
+      "quatorze points"
+    ]
+  },
+  {
+    "id": "rosa-luxemburg",
+    "name": "Rosa Luxemburg",
+    "born": 1871,
+    "died": 1919,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "théoricienne et femme politique socialiste",
+    "summary": "Opposée à la guerre, cofondatrice du KPD et assassinée en 1919 par des soldats des corps francs.",
+    "text": "Originaire de Pologne, Rosa Luxemburg soutint sa thèse à Zurich et devint la principale théoricienne de l'aile gauche de la social-démocratie allemande. Parce qu'elle faisait campagne contre la guerre, elle passa en prison la presque totalité des années de conflit. Elle critiqua la dictature des bolcheviks par cette phrase : la liberté est toujours la liberté de celui qui pense autrement. Après l'insurrection de janvier à Berlin, elle fut assassinée le 15 janvier 1919, avec Karl Liebknecht, par des soldats des corps francs.",
+    "tags": [
+      "socialisme",
+      "kpd",
+      "opposante à la guerre",
+      "révolution de novembre"
+    ]
+  },
+  {
+    "id": "mustafa-kemal-atatuerk",
+    "name": "Mustafa Kemal Atatürk",
+    "born": 1881,
+    "died": 1938,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "naher-osten",
+    "role": "fondateur et premier président de la République de Turquie",
+    "summary": "Défenseur de Gallipoli, vainqueur de la guerre d'indépendance et réformateur qui tourna la Turquie vers l'Occident.",
+    "text": "Officier, Mustafa Kemal se fit connaître en 1915 par la défense victorieuse des Dardanelles contre les Alliés. Après la défaite de l'Empire ottoman, il dirigea la résistance au partage de l'Anatolie et fonda la République en 1923. Président, il mena en quelques années des réformes radicales : droit civil sur le modèle européen, alphabet latin, droit de vote des femmes et séparation de la religion et de l'État. En 1934, le Parlement lui conféra le nom d'Atatürk, père des Turcs.",
+    "tags": [
+      "turquie",
+      "réformateur",
+      "république",
+      "laïcité"
+    ]
+  },
+  {
+    "id": "sargon-von-akkad",
+    "name": "Sargon d'Akkad",
+    "born": null,
+    "died": -2279,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "role": "fondateur de l'Empire akkadien",
+    "summary": "Le premier souverain à avoir réuni la Mésopotamie en un grand empire.",
+    "text": "Sargon aurait commencé comme échanson du roi de Kish avant de fonder la ville d'Akkad et de soumettre Sumer vers 2334 av. J.-C. Ses campagnes le menèrent jusqu'à la Méditerranée et jusqu'aux monts Zagros. Il régna plus de 50 ans et fut encore vénéré en Mésopotamie, des millénaires plus tard, comme le modèle du grand roi. Sa fille Enheduanna est la première poétesse connue par son nom de l'histoire mondiale.",
+    "tags": [
+      "akkad",
+      "grand empire",
+      "mésopotamie"
+    ]
+  },
+  {
+    "id": "hammurapi",
+    "name": "Hammurabi",
+    "born": -1810,
+    "died": -1750,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "role": "roi de Babylone et législateur",
+    "summary": "Il fit de Babylone la puissance dominante de la Mésopotamie et laissa le recueil de lois le plus célèbre de l'Antiquité.",
+    "text": "Hammurabi régna d'environ 1792 à 1750 av. J.-C. et réunit, par des guerres et des alliances, toute la Mésopotamie sous la domination de Babylone. Il fit construire des canaux, des temples et des remparts et se considérait comme le juste pasteur de son peuple. Son code réglait la vie commune dans la famille, l'économie et le droit et fut encore recopié dans les écoles de scribes des siècles plus tard.",
+    "tags": [
+      "babylone",
+      "droit",
+      "roi"
+    ]
+  },
+  {
+    "id": "hatschepsut",
+    "name": "Hatchepsout",
+    "born": -1507,
+    "died": -1458,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "role": "pharaonne du Nouvel Empire",
+    "summary": "L'une des rares femmes à monter sur le trône d'Égypte, qui régna en pharaon avec tous les titres royaux.",
+    "text": "Hatchepsout assura d'abord la régence pour son jeune beau-fils Thoutmôsis III, puis se fit elle-même couronner pharaon ; sur les représentations, elle porte la barbe royale de cérémonie. Son règne d'une vingtaine d'années fut pacifique et prospère ; l'expédition commerciale au pays de Pount, sur la mer Rouge, est restée célèbre. Son temple à terrasses de Deir el-Bahari, près de Thèbes, compte parmi les plus beaux édifices d'Égypte. Après sa mort, beaucoup de ses images et de ses noms furent effacés.",
+    "tags": [
+      "pharaonne",
+      "nouvel empire",
+      "pount",
+      "deir el-bahari"
+    ]
+  },
+  {
+    "id": "echnaton",
+    "name": "Akhenaton",
+    "born": -1370,
+    "died": -1336,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "role": "pharaon et réformateur religieux",
+    "summary": "Le roi hérétique qui éleva le disque solaire Aton au rang de dieu unique de l'Égypte.",
+    "text": "Akhenaton monta sur le trône sous le nom d'Aménophis IV et régna environ 17 ans. Il transféra la capitale à Akhetaton et voua un culte au seul disque solaire Aton, privant ainsi de son pouvoir le puissant clergé d'Amon. Sa réforme est souvent interprétée comme une tentative précoce de monothéisme. De son épouse Néfertiti, il eut six filles ; son successeur Toutânkhamon rétablit l'ancienne religion.",
+    "tags": [
+      "aton",
+      "amarna",
+      "pharaon",
+      "religion"
+    ]
+  },
+  {
+    "id": "ramses-ii",
+    "name": "Ramsès II",
+    "born": -1303,
+    "died": -1213,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "role": "pharaon du Nouvel Empire",
+    "summary": "Ramsès le Grand régna 66 ans, combattit à Qadesh et fit édifier les temples d'Abou Simbel.",
+    "text": "Ramsès II monta sur le trône en 1279 av. J.-C. et régna plus longtemps que presque tout autre pharaon. Après la bataille de Qadesh, il conclut la paix avec les Hittites et épousa une princesse hittite. Il fit édifier plus de monuments que tout autre roi d'Égypte, parmi lesquels les temples rupestres d'Abou Simbel, le Ramesséum et la nouvelle capitale Pi-Ramsès, dans le delta du Nil. Sa momie est conservée et se trouve aujourd'hui au Caire.",
+    "tags": [
+      "pharaon",
+      "qadesh",
+      "abou simbel",
+      "nouvel empire"
+    ]
+  },
+  {
+    "id": "james-watt",
+    "name": "James Watt",
+    "born": 1736,
+    "died": 1819,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "ingénieur et inventeur écossais",
+    "summary": "Il perfectionna de façon décisive la machine à vapeur et en fit le moteur de l'industrialisation.",
+    "text": "Watt comprit que la machine à vapeur de Thomas Newcomen gaspillait beaucoup d'énergie et mit au point, à partir de 1765, un condenseur séparé qui réduisit la consommation de plus de moitié. Avec l'entrepreneur Matthew Boulton, il construisit des machines qui actionnaient des pompes, des filatures et des laminoirs. L'unité de puissance, le watt, porte son nom.",
+    "tags": [
+      "machine à vapeur",
+      "inventeur",
+      "technique"
+    ]
+  },
+  {
+    "id": "karl-marx",
+    "name": "Karl Marx",
+    "born": 1818,
+    "died": 1883,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "philosophe, économiste et théoricien de la société",
+    "summary": "Fondateur du marxisme et auteur du Manifeste du parti communiste.",
+    "text": "Né à Trèves, Marx fut expulsé d'Allemagne, de France et de Belgique comme journaliste et révolutionnaire, et vécut à Londres à partir de 1849. Il y rédigea, avec le soutien de Friedrich Engels, son œuvre principale, Le Capital, dans laquelle il analysait l'économie capitaliste et prédisait sa chute. Ses idées marquèrent le mouvement ouvrier et, au XXe siècle, de nombreux États qui se réclamèrent de lui.",
+    "tags": [
+      "marxisme",
+      "communisme",
+      "philosophie"
+    ]
+  },
+  {
+    "id": "abraham-lincoln",
+    "name": "Abraham Lincoln",
+    "born": 1809,
+    "died": 1865,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "amerika",
+    "role": "16e président des États-Unis",
+    "summary": "Il conduisit les États-Unis à travers la guerre de Sécession, préserva l'Union et abolit l'esclavage.",
+    "text": "Lincoln grandit dans la pauvreté, se forma seul au métier d'avocat et devint président en 1860 comme candidat des républicains. Il empêcha la scission du pays, proclama en 1863 l'affranchissement des esclaves des États du Sud et résuma, dans le discours de Gettysburg, l'idée de la démocratie comme gouvernement du peuple, par le peuple, pour le peuple. Quelques jours après la victoire, il fut abattu le 14 avril 1865 par un sympathisant du Sud.",
+    "tags": [
+      "états-unis",
+      "président",
+      "esclavage",
+      "guerre de sécession"
+    ]
+  },
+  {
+    "id": "otto-von-bismarck",
+    "name": "Otto von Bismarck",
+    "born": 1815,
+    "died": 1898,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "ministre-président de Prusse et premier chancelier de l'Empire allemand",
+    "summary": "Il unifia l'Allemagne par le fer et le sang et dirigea la politique de l'Empire pendant près de deux décennies.",
+    "text": "Ministre-président de Prusse à partir de 1862, Bismarck imposa l'unification allemande par des guerres contre le Danemark, l'Autriche et la France. Comme chancelier, il assura la paix grâce à un système d'alliances, combattit les catholiques et les sociaux-démocrates et introduisit en même temps les premières assurances publiques maladie, accident et vieillesse au monde. En 1890, le jeune empereur Guillaume II le renvoya.",
+    "tags": [
+      "chancelier",
+      "unification allemande",
+      "assurances sociales"
+    ]
+  },
+  {
+    "id": "kaiser-meiji",
+    "name": "Empereur Meiji",
+    "born": 1852,
+    "died": 1912,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "asien",
+    "role": "empereur du Japon",
+    "summary": "Figure symbolique de la modernisation du Japon, passé d'un État féodal fermé à une puissance industrielle.",
+    "text": "Mutsuhito monta sur le trône en 1867, à 14 ans, et donna à son règne le nom de Meiji, gouvernement éclairé. En son nom, les réformateurs transférèrent la capitale à Tokyo, introduisirent une constitution en 1889 et adoptèrent la technique, l'enseignement et l'organisation militaire de l'Occident. Les victoires sur la Chine en 1895 et sur la Russie en 1905 firent du Japon une grande puissance.",
+    "tags": [
+      "japon",
+      "empereur",
+      "modernisation"
+    ]
+  },
+  {
+    "id": "marie-curie",
+    "name": "Marie Curie",
+    "born": 1867,
+    "died": 1934,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "physicienne et chimiste",
+    "summary": "Découvreuse des éléments polonium et radium et première femme à recevoir un prix Nobel.",
+    "text": "Née à Varsovie, Maria Skłodowska étudia à Paris, où les femmes étaient admises à l'université, contrairement à la Pologne. Avec son mari Pierre, elle étudia la radioactivité et découvrit deux nouveaux éléments en 1898. Elle reçut le prix Nobel de physique en 1903 et celui de chimie en 1911, et reste à ce jour la seule personne à avoir obtenu des prix Nobel dans deux sciences de la nature. Elle mourut des suites du rayonnement auquel elle fut exposée pendant des décennies.",
+    "tags": [
+      "science",
+      "radioactivité",
+      "prix nobel"
+    ]
+  },
+  {
+    "id": "mohammed",
+    "name": "Mahomet",
+    "born": 570,
+    "died": 632,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "role": "prophète et fondateur de l'islam",
+    "summary": "Le marchand de La Mecque qui, en annonçant le Coran, unit les Arabes sous l'islam.",
+    "text": "Mahomet grandit orphelin à La Mecque et travailla comme marchand caravanier avant de commencer, vers 610, à annoncer les paroles de Dieu qui lui furent révélées selon la foi islamique. À Médine, il édifia à partir de 622 une communauté qui était à la fois un ordre religieux, juridique et politique. Il insista sur l'unicité de Dieu, l'égalité des croyants et le devoir de prière, de jeûne, d'aumône et de pèlerinage. À sa mort, en 632 à Médine, presque toute l'Arabie était unifiée ; sa vie et ses paroles transmises, les hadiths, demeurent aujourd'hui encore un modèle et une règle pour les musulmans.",
+    "tags": [
+      "islam",
+      "coran",
+      "la mecque",
+      "médine"
+    ]
+  },
+  {
+    "id": "harun-ar-raschid",
+    "name": "Haroun al-Rachid",
+    "born": 766,
+    "died": 809,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "role": "calife abbasside",
+    "summary": "Le plus célèbre des califes abbassides, sous lequel Bagdad atteignit son apogée et qui survit comme héros des Mille et Une Nuits.",
+    "text": "Haroun al-Rachid régna de 786 à 809 sur un empire allant de l'Afrique du Nord à l'Asie centrale. Il s'appuya sur la famille perse des Barmakides comme vizirs, encouragea poètes, musiciens et savants et posa les fondements de la bibliothèque dont sortit la Maison de la sagesse. Il échangea des ambassades avec Charlemagne et lui offrit en 802 un éléphant nommé Aboul-Abbas. Dans les contes des Mille et Une Nuits, il parcourt déguisé les rues de Bagdad ; la réalité historique de son règne fut cependant marquée aussi par des révoltes et par le début de la décomposition de l'empire.",
+    "tags": [
+      "abbassides",
+      "bagdad",
+      "calife",
+      "mille et une nuits"
+    ]
+  },
+  {
+    "id": "ibn-sina",
+    "name": "Ibn Sina (Avicenne)",
+    "born": 980,
+    "died": 1037,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "asien",
+    "role": "médecin, philosophe et savant universel",
+    "summary": "Le savant persan dont le Canon de la médecine fut pendant plus de 600 ans le principal manuel des médecins d'Orient et d'Occident.",
+    "text": "Ibn Sina naquit près de Boukhara, dans l'actuel Ouzbékistan ; considéré comme un enfant prodige, il soignait déjà l'émir comme médecin à dix-huit ans. Son Canon de la médecine réunissait systématiquement le savoir de la médecine grecque, perse et indienne ; traduit en latin, il fut enseigné dans les universités européennes jusqu'au XVIIe siècle. Dans son Livre de la guérison, il associa la philosophie d'Aristote à la pensée islamique et influença ainsi Thomas d'Aquin et la scolastique. Il mourut en 1037 à Hamadan, en Perse.",
+    "tags": [
+      "médecine",
+      "philosophie",
+      "perse",
+      "science"
+    ]
+  },
+  {
+    "id": "saladin",
+    "name": "Saladin",
+    "born": 1137,
+    "died": 1193,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "role": "sultan d'Égypte et de Syrie",
+    "summary": "Le chef de guerre kurde qui reprit Jérusalem aux croisés et passait même aux yeux de ses adversaires pour un modèle de chevalerie.",
+    "text": "Salah ad-Din Yusuf naquit à Tikrit et s'éleva, au service du souverain syrien Nour ad-Din, jusqu'à la charge de vizir d'Égypte, où il mit fin en 1171 au califat chiite des Fatimides. Devenu sultan, il réunit l'Égypte, la Syrie et la Mésopotamie sous la dynastie des Ayyoubides. Avec la victoire de Hattin et la reprise de Jérusalem en 1187, il devint le héros du monde islamique ; lors de la troisième croisade, il tint tête à Richard Cœur de Lion. Sa magnanimité envers les vaincus fit également de lui une légende en Europe. Il mourut en 1193 à Damas, ne laissant presque aucun bien personnel.",
+    "tags": [
+      "ayyoubides",
+      "croisades",
+      "jérusalem",
+      "égypte"
+    ]
+  },
+  {
+    "id": "ibn-battuta",
+    "name": "Ibn Battuta",
+    "born": 1304,
+    "died": 1368,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "afrika",
+    "role": "voyageur et juriste marocain",
+    "summary": "Le plus grand voyageur du Moyen Âge, qui parcourut en trente ans environ 120 000 kilomètres à travers trois continents.",
+    "text": "Ibn Battuta était issu d'une famille de juristes de Tanger et quitta son pays à 21 ans pour le pèlerinage à La Mecque. Sa formation juridique lui ouvrit des portes dans tout le monde islamique : il fut juge à Delhi et aux Maldives, négocia comme envoyé auprès de l'empereur de Chine et visita les cours de Byzance, de la Horde d'Or et du Mali. De retour au Maroc, il dicta au savant Ibn Juzayy son récit de voyage, la Rihla, qui décrit paysages, mœurs, souverains et curiosités de Tombouctou à Pékin.",
+    "tags": [
+      "voyages",
+      "rihla",
+      "maroc",
+      "géographie"
+    ]
+  },
+  {
+    "id": "mahatma-gandhi",
+    "name": "Mahatma Gandhi",
+    "born": 1869,
+    "died": 1948,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "role": "dirigeant du mouvement d'indépendance indien",
+    "summary": "Il obtint par la résistance non violente l'indépendance de l'Inde vis-à-vis de la Grande-Bretagne.",
+    "text": "Mohandas Karamchand Gandhi, que ses partisans appelaient Mahatma, grande âme, mit au point la méthode de la résistance non violente alors qu'il était avocat en Afrique du Sud. En Inde, il organisa le boycott des marchandises britanniques et, en 1930, la marche du sel contre l'impôt sur le sel, et passa des années en prison. La partition du pays en 1947 et les violences entre hindous et musulmans l'affectèrent profondément. Le 30 janvier 1948, il fut abattu par un nationaliste hindou.",
+    "tags": [
+      "inde",
+      "non-violence",
+      "indépendance"
+    ]
+  },
+  {
+    "id": "mao-zedong",
+    "name": "Mao Zedong",
+    "born": 1893,
+    "died": 1976,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "role": "fondateur et dirigeant de la République populaire de Chine",
+    "summary": "Il mena les communistes à la victoire et gouverna la Chine pendant près de trois décennies.",
+    "text": "Mao s'imposa comme dirigeant du Parti communiste pendant la guerre civile et la Longue Marche de 1934 à 1935, et fonda la République populaire en 1949. Son Grand Bond en avant, à partir de 1958, devait industrialiser rapidement la Chine, mais provoqua une famine qui fit des dizaines de millions de morts. Avec la Révolution culturelle, à partir de 1966, il lança la jeunesse contre le parti et les intellectuels. Après sa mort en 1976, Deng Xiaoping ouvrit le pays à l'économie de marché.",
+    "tags": [
+      "chine",
+      "communisme",
+      "révolution culturelle"
+    ]
+  },
+  {
+    "id": "john-f-kennedy",
+    "name": "John F. Kennedy",
+    "born": 1917,
+    "died": 1963,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "amerika",
+    "role": "35e président des États-Unis",
+    "summary": "Il surmonta la crise de Cuba, lança le programme lunaire et fut assassiné à Dallas en 1963.",
+    "text": "Kennedy fut élu en 1960 et devint le plus jeune président élu des États-Unis. Il échoua en 1961 avec le débarquement de la baie des Cochons à Cuba, mais fit preuve de sang-froid lors de la crise de Cuba en 1962 et évita la guerre nucléaire. Lors de sa visite à Berlin-Ouest en 1963, il déclara : Ich bin ein Berliner, je suis un Berlinois. Son engagement pour les droits civiques et le programme Apollo furent menés à terme par ses successeurs. Le 22 novembre 1963, il fut abattu à Dallas.",
+    "tags": [
+      "états-unis",
+      "président",
+      "crise de cuba",
+      "berlin"
+    ]
+  },
+  {
+    "id": "nelson-mandela",
+    "name": "Nelson Mandela",
+    "born": 1918,
+    "died": 2013,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "afrika",
+    "role": "militant anti-apartheid et premier président noir d'Afrique du Sud",
+    "summary": "Après 27 ans de détention, il fit sortir l'Afrique du Sud de l'apartheid vers la démocratie dans un esprit de réconciliation.",
+    "text": "Avocat, Mandela combattit l'apartheid au sein de l'ANC, d'abord pacifiquement, puis aussi par le sabotage après le massacre de Sharpeville en 1960. Condamné en 1964 à la prison à vie, il passa 27 ans en détention, la plupart à Robben Island. Après sa libération en 1990, il négocia avec le président de Klerk la fin de l'apartheid ; tous deux reçurent le prix Nobel de la paix en 1993. Président de 1994 à 1999, il misa sur la réconciliation plutôt que sur la vengeance.",
+    "tags": [
+      "afrique du sud",
+      "apartheid",
+      "réconciliation",
+      "prix nobel"
+    ]
+  },
+  {
+    "id": "michail-gorbatschow",
+    "name": "Mikhaïl Gorbatchev",
+    "born": 1931,
+    "died": 2022,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "role": "secrétaire général du PCUS et président de l'Union soviétique",
+    "summary": "Ses réformes, la glasnost et la perestroïka, rendirent possible la fin de la guerre froide.",
+    "text": "Gorbatchev prit la tête de l'Union soviétique en 1985 et tenta de sauver un système figé par la transparence et la restructuration. Il conclut des traités de désarmement avec les États-Unis, retira les troupes d'Afghanistan et laissa les États d'Europe de l'Est suivre leur propre voie en 1989, sans intervenir par la force. Il accepta la réunification allemande en 1990 et reçut le prix Nobel de la paix. En Russie, il resta contesté, car l'Union soviétique se disloqua sous son autorité.",
+    "tags": [
+      "union soviétique",
+      "perestroïka",
+      "désarmement",
+      "prix nobel"
+    ]
+  },
+  {
+    "id": "willy-brandt",
+    "name": "Willy Brandt",
+    "born": 1913,
+    "died": 1992,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "role": "maire-gouverneur de Berlin et chancelier fédéral allemand",
+    "summary": "Il gouvernait Berlin lors de la construction du Mur et engagea comme chancelier la politique de détente avec l'Est.",
+    "text": "Brandt avait fui les nationaux-socialistes en Norvège et se trouvait, comme maire, à la tête de Berlin-Ouest encerclée en 1961. Premier chancelier fédéral social-démocrate à partir de 1969, il conclut des traités avec Moscou, Varsovie et la RDA et reconnut la frontière Oder-Neisse. Son agenouillement devant le monument du ghetto de Varsovie, en 1970, devint le symbole de la demande de pardon pour les crimes allemands. Il reçut le prix Nobel de la paix en 1971 ; il démissionna en 1974 à cause d'une affaire d'espionnage.",
+    "tags": [
+      "chancelier fédéral",
+      "ostpolitik",
+      "berlin",
+      "prix nobel"
+    ]
+  },
+  {
+    "id": "karl-der-grosse",
+    "name": "Charlemagne",
+    "born": 747,
+    "died": 814,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "roi des Francs et empereur",
+    "summary": "Le souverain franc qui unifia l'Europe occidentale, renouvela l'Empire et passe pour le père de l'Europe.",
+    "text": "Charlemagne prit la tête du royaume franc en 768 et fit la guerre presque chaque année : il vainquit les Lombards, soumit les Saxons en trente ans et les contraignit au christianisme, et établit une marche frontière contre les musulmans d'Espagne. Il fonda à Aix-la-Chapelle un palais dont la chapelle subsiste aujourd'hui encore, attira à sa cour des savants comme Alcuin et fit soutenir les monastères, les écoles et les ateliers d'écriture. Bien qu'il n'ait appris lui-même à écrire qu'avec peine, c'est à sa réforme de l'enseignement que nous devons la transmission de nombreux textes antiques. Après son couronnement impérial en 800, il fut considéré au Moyen Âge comme le modèle de tous les souverains.",
+    "tags": [
+      "carolingiens",
+      "empereur",
+      "aix-la-chapelle",
+      "francs"
+    ]
+  },
+  {
+    "id": "wilhelm-der-eroberer",
+    "name": "Guillaume le Conquérant",
+    "born": 1028,
+    "died": 1087,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "duc de Normandie et roi d'Angleterre",
+    "summary": "Le duc normand qui conquit l'Angleterre en 1066 et transforma le pays en profondeur.",
+    "text": "Guillaume était le fils illégitime du duc Robert de Normandie et dut défendre son pouvoir contre des rivaux dès l'enfance. Avec la victoire de Hastings en 1066, il devint roi d'Angleterre et écrasa avec une grande dureté les révoltes des années suivantes. Il distribua les terres à ses fidèles normands, fit construire des châteaux comme la Tour de Londres et recensa dans le Domesday Book les biens et les redevances de tout le royaume. Son descendant occupe aujourd'hui encore le trône d'Angleterre.",
+    "tags": [
+      "normands",
+      "angleterre",
+      "hastings",
+      "domesday book"
+    ]
+  },
+  {
+    "id": "dschingis-khan",
+    "name": "Gengis Khan",
+    "born": 1162,
+    "died": 1227,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "asien",
+    "role": "fondateur de l'Empire mongol",
+    "summary": "Le souverain des steppes qui unit les Mongols et fonda le plus vaste empire d'un seul tenant de l'histoire.",
+    "text": "Temüjin grandit dans la pauvreté et la captivité après l'assassinat de son père, et devint par des alliances et des victoires le chef de toutes les tribus mongoles. Sous le nom de Gengis Khan, il créa une armée disciplinée, un système de courriers à cheval et une loi qui punissait sévèrement le vol et la trahison, mais accordait la liberté religieuse. Ses campagnes coûtèrent la vie à des millions de personnes et détruisirent des villes florissantes d'Asie centrale et de Perse. À sa mort en 1227, l'empire s'étendait du Pacifique à la mer Caspienne ; sa tombe n'a jamais été retrouvée.",
+    "tags": [
+      "mongols",
+      "conquérant",
+      "steppe",
+      "empire mondial"
+    ]
+  },
+  {
+    "id": "mansa-musa",
+    "name": "Mansa Moussa",
+    "born": 1280,
+    "died": 1337,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "afrika",
+    "role": "roi de l'Empire du Mali",
+    "summary": "Le souverain d'Afrique de l'Ouest que son pèlerinage chargé d'or fit passer pour l'un des hommes les plus riches de l'histoire.",
+    "text": "Mansa Moussa régna d'environ 1312 à 1337 sur l'Empire du Mali, qui s'étendait de l'Atlantique à la boucle du Niger et contrôlait le commerce de l'or et du sel à travers le Sahara. Son pèlerinage à La Mecque en 1324 fit connaître la richesse du Mali dans le monde islamique, puis bientôt en Europe. Il encouragea l'éducation et l'islam, fit édifier la mosquée Djingareyber à Tombouctou et fit de la ville un centre de savoir doté d'importantes collections de manuscrits. Son empire ne se disloqua qu'au XVe siècle.",
+    "tags": [
+      "mali",
+      "or",
+      "tombouctou",
+      "afrique"
+    ]
+  },
+  {
+    "id": "jeanne-darc",
+    "name": "Jeanne d'Arc",
+    "born": 1412,
+    "died": 1431,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "héroïne nationale française et sainte",
+    "summary": "La jeune paysanne de Lorraine qui, pendant la guerre de Cent Ans, mena l'armée française à la victoire d'Orléans.",
+    "text": "Jeanne grandit à Domrémy et était convaincue d'avoir reçu de Dieu la mission de délivrer la France des Anglais. À dix-sept ans, elle obtint une audience auprès du dauphin Charles, reçut une armure et des troupes et délivra en mai 1429 Orléans assiégée. Après le sacre de Charles VII à Reims, elle tomba aux mains des Bourguignons et fut livrée aux Anglais. Un tribunal ecclésiastique la condamna comme hérétique ; le 30 mai 1431, elle fut brûlée à Rouen. Le jugement fut annulé en 1456 et elle fut canonisée en 1920.",
+    "tags": [
+      "guerre de cent ans",
+      "orléans",
+      "france",
+      "sainte"
+    ]
+  },
+  {
+    "id": "hildegard-von-bingen",
+    "name": "Hildegarde de Bingen",
+    "born": 1098,
+    "died": 1179,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "abbesse, mystique et femme de savoir universel",
+    "summary": "La bénédictine des bords du Rhin qui fut visionnaire, naturaliste, compositrice et conseillère d'empereurs et de papes.",
+    "text": "Hildegarde fut confiée enfant à l'ermitage du Disibodenberg et dirigea plus tard la communauté de femmes pour laquelle elle fonda vers 1150 un monastère propre sur le Rupertsberg, près de Bingen. Dans son œuvre principale, le Scivias, elle décrivit ses visions ; dans des écrits d'histoire naturelle, les vertus curatives des plantes et des pierres ; et elle composa de nombreux chants religieux. Elle échangea des lettres avec Bernard de Clairvaux et l'empereur Frédéric Barberousse et entreprit plusieurs voyages de prédication. En 2012, le pape Benoît XVI l'éleva au rang de docteur de l'Église.",
+    "tags": [
+      "monastère",
+      "mystique",
+      "médecine",
+      "musique"
+    ]
+  },
+  {
+    "id": "johannes-gutenberg",
+    "name": "Johannes Gutenberg",
+    "born": 1400,
+    "died": 1468,
+    "approx": true,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "inventeur de l'imprimerie à caractères mobiles",
+    "summary": "L'orfèvre de Mayence dont le procédé d'impression révolutionna la diffusion du savoir.",
+    "text": "Gutenberg mit au point à Strasbourg et à Mayence un procédé dans lequel les lettres étaient fondues une à une, assemblées en pages et imprimées à l'aide d'une presse. Son œuvre principale, la Bible à quarante-deux lignes, vit le jour vers 1454. Endetté, il perdit son atelier au profit de son bailleur de fonds Johannes Fust et mourut sans grande fortune, mais son invention se répandit rapidement dans toute l'Europe.",
+    "tags": [
+      "imprimerie",
+      "inventeur",
+      "mayence"
+    ]
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "name": "Léonard de Vinci",
+    "born": 1452,
+    "died": 1519,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "peintre, ingénieur et naturaliste",
+    "summary": "Le génie universel de la Renaissance, qui unit l'art et la science.",
+    "text": "Léonard naquit en Toscane et travailla à Florence, à Milan, à Rome et enfin à la cour de France. Ses tableaux la Joconde et la Cène comptent parmi les œuvres d'art les plus connues au monde. Sur des milliers de pages de carnets, il étudia l'anatomie, l'eau, le vol et la mécanique et conçut des machines très en avance sur leur temps.",
+    "tags": [
+      "art",
+      "génie universel",
+      "florence"
+    ]
+  },
+  {
+    "id": "christoph-kolumbus",
+    "name": "Christophe Colomb",
+    "born": 1451,
+    "died": 1506,
+    "approx": true,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "amerika",
+    "role": "navigateur au service de l'Espagne",
+    "summary": "Le navigateur génois qui atteignit l'Amérique en 1492 alors qu'il cherchait les Indes.",
+    "text": "Après des années d'efforts, Colomb convainquit les souverains espagnols Isabelle et Ferdinand de financer un voyage vers l'ouest. Au cours de quatre expéditions, il explora les Caraïbes ainsi que les côtes de l'Amérique centrale et méridionale. Comme gouverneur des nouvelles colonies, il agit avec dureté contre la population indigène et fut ramené enchaîné en Espagne en 1500 pour mauvaise administration.",
+    "tags": [
+      "navigateur",
+      "découvertes",
+      "caraïbes"
+    ]
+  },
+  {
+    "id": "nikolaus-kopernikus",
+    "name": "Nicolas Copernic",
+    "born": 1473,
+    "died": 1543,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "astronome et chanoine",
+    "summary": "Le fondateur de la conception héliocentrique du monde, qui ôta à la Terre sa place au centre de l'univers.",
+    "text": "Copernic naquit à Thorn, étudia à Cracovie et en Italie et exerça comme chanoine à Frauenburg, en Warmie. Outre ses charges ecclésiastiques et administratives, il observa le ciel et calcula un modèle dans lequel la Terre tourne chaque jour sur elle-même et chaque année autour du Soleil. Il ne publia son œuvre principale qu'en 1543, l'année de sa mort.",
+    "tags": [
+      "astronomie",
+      "héliocentrisme",
+      "science"
+    ]
+  },
+  {
+    "id": "martin-luther",
+    "name": "Martin Luther",
+    "born": 1483,
+    "died": 1546,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "théologien et réformateur",
+    "summary": "Le moine augustin dont la critique du commerce des indulgences déclencha la Réforme.",
+    "text": "Luther enseignait la théologie comme professeur à Wittenberg et acquit la conviction que l'homme est justifié devant Dieu par la seule foi et la seule grâce, et non par les bonnes œuvres ou les indulgences. Après la rupture avec Rome, il traduisit la Bible en allemand et façonna ainsi la langue écrite allemande. Il rédigea des catéchismes et des cantiques, mais condamna les paysans révoltés et s'exprima dans ses écrits tardifs avec haine contre les juifs.",
+    "tags": [
+      "réforme",
+      "traduction de la bible",
+      "wittenberg"
+    ]
+  },
+  {
+    "id": "elisabeth-i",
+    "name": "Élisabeth Ire",
+    "born": 1533,
+    "died": 1603,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "reine d'Angleterre",
+    "summary": "La reine Tudor sous laquelle l'Angleterre devint une puissance maritime et commerciale protestante.",
+    "text": "Élisabeth, fille d'Henri VIII et d'Anne Boleyn, monta sur le trône en 1558 et consolida l'Église anglicane comme voie moyenne entre catholicisme et calvinisme. En 1588, l'Armada espagnole échoua dans sa tentative de conquérir l'Angleterre. Ses 45 ans de règne passent pour l'âge d'or de la poésie et du théâtre, avec William Shakespeare, et pour le début de l'expansion anglaise outre-mer. Comme elle demeura célibataire, la dynastie des Tudors s'éteignit avec elle.",
+    "tags": [
+      "angleterre",
+      "tudor",
+      "armada"
+    ]
+  },
+  {
+    "id": "george-washington",
+    "name": "George Washington",
+    "born": 1732,
+    "died": 1799,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "role": "commandant en chef et premier président des États-Unis",
+    "summary": "Le chef de la guerre d'Indépendance qui, comme premier président, façonna les États-Unis.",
+    "text": "Ce propriétaire de plantation de Virginie prit la tête de l'armée continentale à partir de 1775 et la maintint unie malgré les défaites, la faim et les désertions, jusqu'à ce que la victoire de Yorktown, en 1781, décide de la guerre. En 1787, il présida la convention constitutionnelle et fut élu à l'unanimité premier président en 1789. Après deux mandats, il renonça volontairement au pouvoir et établit ainsi une référence pour le gouvernement républicain. Il posséda des esclaves jusqu'à sa mort et les affranchit par testament.",
+    "tags": [
+      "états-unis",
+      "président",
+      "guerre d'indépendance"
+    ]
+  },
+  {
+    "id": "olympe-de-gouges",
+    "name": "Olympe de Gouges",
+    "born": 1748,
+    "died": 1793,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "femme de lettres et militante des droits des femmes",
+    "summary": "L'auteure de la Déclaration des droits de la femme et de la citoyenne, qui monta sur la guillotine pour ses convictions.",
+    "text": "Marie Gouze, originaire de Montauban, arriva à Paris jeune veuve et y écrivit des pièces de théâtre et des textes politiques, tout en militant contre l'esclavage. En 1791, elle réclama dans sa Déclaration les mêmes droits pour les femmes que pour les hommes et écrivit que, si la femme a le droit de monter à l'échafaud, elle doit avoir également celui de monter à la tribune. Parce qu'elle attaquait les jacobins et réclamait un référendum sur la forme de l'État, elle fut exécutée en novembre 1793.",
+    "tags": [
+      "droits des femmes",
+      "révolution française",
+      "femme de lettres"
+    ]
+  },
+  {
+    "id": "maximilien-de-robespierre",
+    "name": "Maximilien de Robespierre",
+    "born": 1758,
+    "died": 1794,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "chef des jacobins et membre du Comité de salut public",
+    "summary": "L'Incorruptible, qui voulut défendre la Révolution par la Terreur et finit lui-même sous la guillotine.",
+    "text": "Cet avocat d'Arras défendit à l'Assemblée nationale le suffrage universel et s'opposa à la peine de mort, mais devint à partir de 1793 le moteur de la Terreur. Au nom de la vertu, il fit exécuter des adversaires comme les Girondins et Danton et instaura un culte de l'Être suprême. Le 27 juillet 1794, la Convention et ses anciens alliés le renversèrent ; il fut guillotiné le lendemain.",
+    "tags": [
+      "jacobins",
+      "terreur",
+      "révolution française"
+    ]
+  },
+  {
+    "id": "toussaint-louverture",
+    "name": "Toussaint Louverture",
+    "born": 1743,
+    "died": 1803,
+    "approx": true,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "role": "chef de la révolution haïtienne",
+    "summary": "L'ancien esclave qui mena Saint-Domingue à l'abolition de l'esclavage et jusqu'au seuil de l'indépendance.",
+    "text": "Toussaint naquit esclave dans une plantation et fut affranchi avant la Révolution. Après le soulèvement de 1791, il s'imposa comme le plus habile général des insurgés, battit les Espagnols et les Britanniques et gouverna la colonie à partir de 1801 comme gouverneur à vie, avec une constitution propre. Napoléon envoya une armée contre lui ; Toussaint fut capturé par traîtrise et mourut en 1803 dans une forteresse du Jura français. Son successeur Dessalines proclama l'indépendance d'Haïti en 1804.",
+    "tags": [
+      "haïti",
+      "esclavage",
+      "combattant de la liberté"
+    ]
+  },
+  {
+    "id": "napoleon-bonaparte",
+    "name": "Napoléon Bonaparte",
+    "born": 1769,
+    "died": 1821,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "général et empereur français",
+    "summary": "Le Corse qui, comme chef de guerre et comme empereur, conquit et réorganisa l'Europe.",
+    "text": "Napoléon naquit à Ajaccio, s'éleva rapidement au grade de général pendant les guerres de la Révolution et prit le pouvoir en 1799 par un coup d'État. Comme empereur, il remporta des victoires telles qu'Austerlitz en 1805 et Iéna en 1806, diffusa le Code civil et dissolut le Saint-Empire romain germanique. La campagne de Russie de 1812 et les défaites de Leipzig et de Waterloo mirent fin à son règne ; il mourut en 1821 en exil à Sainte-Hélène.",
+    "tags": [
+      "empereur",
+      "chef de guerre",
+      "guerres de coalition"
+    ]
+  },
+  {
+    "id": "simon-bolivar",
+    "name": "Simón Bolívar",
+    "born": 1783,
+    "died": 1830,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "role": "combattant de la liberté et homme d'État sud-américain",
+    "summary": "Le Libertador, qui délivra de vastes régions d'Amérique du Sud de la domination espagnole.",
+    "text": "Bolívar était issu d'une riche famille de Caracas et fut marqué en Europe par les idées des Lumières. Après plusieurs revers, il mena à partir de 1819 des campagnes qui libérèrent le Venezuela, la Colombie, l'Équateur, le Pérou et la Bolivie, qui porte son nom. Son rêve d'une république sud-américaine unie échoua devant les guerres civiles et les intérêts régionaux ; amer, il mourut en 1830 sur le chemin de l'exil.",
+    "tags": [
+      "amérique latine",
+      "libertador",
+      "indépendance"
+    ]
+  },
+  {
+    "id": "hannibal",
+    "name": "Hannibal",
+    "born": -247,
+    "died": -183,
+    "approx": true,
+    "epochId": "rom",
+    "regionId": "afrika",
+    "role": "général carthaginois",
+    "summary": "L'adversaire le plus dangereux de Rome, qui franchit les Alpes avec des éléphants.",
+    "text": "Pendant la deuxième guerre punique, Hannibal conduisit son armée d'Espagne en Italie en franchissant les Alpes et remporta à Cannes, en 216 av. J.-C., l'une des plus grandes victoires de l'histoire militaire. Il ne parvint pourtant pas à prendre Rome. Après la défaite de Zama, il partit en exil et se donna la mort pour ne pas tomber aux mains des Romains.",
+    "tags": [
+      "carthage",
+      "chef de guerre",
+      "guerres puniques"
+    ]
+  },
+  {
+    "id": "cicero",
+    "name": "Marcus Tullius Cicéron",
+    "born": -106,
+    "died": -43,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "orateur, homme politique et philosophe",
+    "summary": "Le plus célèbre orateur de Rome et le défenseur de la République.",
+    "text": "Consul en 63 av. J.-C., Cicéron dévoila la conjuration de Catilina. Ses discours, ses lettres et ses écrits philosophiques marquèrent la langue latine et la culture européenne jusqu'aux Temps modernes. Après la mort de César, il combattit Marc Antoine et fut assassiné sur l'ordre de ce dernier.",
+    "tags": [
+      "rhétorique",
+      "philosophie",
+      "république"
+    ]
+  },
+  {
+    "id": "gaius-julius-caesar",
+    "name": "Jules César",
+    "born": -100,
+    "died": -44,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "chef de guerre, homme d'État et dictateur",
+    "summary": "Conquérant de la Gaule, vainqueur de la guerre civile et précurseur de l'Empire.",
+    "text": "César accéda au pouvoir par le triumvirat avec Pompée et Crassus, conquit la Gaule et franchit le Rubicon en 49 av. J.-C. avec ces mots : Alea iacta est. Comme dictateur, il réforma le calendrier et l'administration. Son assassinat aux ides de mars 44 av. J.-C. ne mit pas fin à la République, mais précipita sa chute.",
+    "tags": [
+      "gaule",
+      "dictateur",
+      "guerre civile"
+    ]
+  },
+  {
+    "id": "augustus",
+    "name": "Auguste",
+    "born": -63,
+    "died": 14,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "premier empereur romain",
+    "summary": "Octavien, fils adoptif de César, qui fonda l'Empire sous le nom d'Auguste.",
+    "text": "Après la mort de César, Octavien l'emporta sur Antoine et Cléopâtre et reçut en 27 av. J.-C. le titre d'Auguste, le vénérable. Il réorganisa l'armée, les provinces et les finances, fit orner Rome d'édifices de marbre et assura quatre décennies de paix. Le mois d'août porte son nom.",
+    "tags": [
+      "empereur",
+      "principat",
+      "pax romana"
+    ]
+  },
+  {
+    "id": "konstantin-der-grosse",
+    "name": "Constantin le Grand",
+    "born": 272,
+    "died": 337,
+    "approx": true,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "empereur romain",
+    "summary": "Premier empereur chrétien et fondateur de Constantinople.",
+    "text": "Constantin s'imposa en 312 à la bataille du pont Milvius, sous le signe de la croix selon la tradition. Il mit fin aux persécutions des chrétiens, convoqua le concile de Nicée et fit en 330 de l'ancienne Byzance, devenue Constantinople, la nouvelle capitale de l'Empire.",
+    "tags": [
+      "christianisme",
+      "constantinople",
+      "antiquité tardive"
+    ]
+  },
+  {
+    "id": "lucy",
+    "name": "Lucy",
+    "born": -3200000,
+    "died": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "afrika",
+    "role": "fossile d'Australopithecus afarensis",
+    "summary": "Le plus célèbre fossile d'un pré-humain bipède, découvert en 1974 en Éthiopie.",
+    "text": "Lucy fut découverte en 1974 par une équipe dirigée par Donald Johanson à Hadar, en Éthiopie, et nommée d'après la chanson des Beatles Lucy in the Sky with Diamonds. Environ 40 pour cent de son squelette, vieux d'à peu près 3,2 millions d'années, sont conservés. Elle mesurait environ 1,05 mètre, avait un petit cerveau, mais marchait déjà debout sur deux jambes. Elle prouve ainsi que la station debout est apparue bien avant la croissance du cerveau.",
+    "tags": [
+      "australopithèque",
+      "fossile",
+      "bipédie",
+      "éthiopie"
+    ]
+  },
+  {
+    "id": "oetzi",
+    "name": "Ötzi, l'homme des glaces",
+    "born": -3350,
+    "died": -3300,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "europa",
+    "role": "momie des glaciers de l'âge du cuivre",
+    "summary": "L'homme du Néolithique le mieux conservé, découvert en 1991 dans les Alpes de l'Ötztal.",
+    "text": "Ötzi avait environ 45 ans, mesurait à peu près 1,60 mètre et portait plus de 60 tatouages. Il mourut vers 3300 av. J.-C. d'un tir de flèche et fut conservé par la glace du glacier. Son équipement, avec hache de cuivre, arc, poignard en silex, hotte et récipients en écorce de bouleau, constitue le témoignage le plus complet de cette époque. Il repose aujourd'hui au Musée archéologique du Haut-Adige, à Bolzano.",
+    "tags": [
+      "momie des glaciers",
+      "âge du cuivre",
+      "alpes"
+    ]
+  },
+  {
+    "id": "neandertaler",
+    "name": "Homme de Néandertal",
+    "born": -400000,
+    "died": -40000,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "europa",
+    "role": "espèce humaine disparue",
+    "summary": "Une espèce humaine adaptée au froid, qui peuplait l'Europe et l'Asie occidentale et disparut il y a environ 40 000 ans.",
+    "text": "Les hommes de Néandertal apparurent en Europe il y a environ 400 000 ans et vécurent jusqu'en Sibérie et au Proche-Orient. De constitution robuste, dotés d'un grand cerveau, ils chassaient le gros gibier, utilisaient le feu, soignaient les malades et enterraient leurs morts. Ils doivent leur nom à la découverte faite en 1856 dans le Neandertal, près de Düsseldorf. Ils s'éteignirent il y a environ 40 000 ans ; une petite part de leur patrimoine génétique subsiste cependant chez les humains actuels hors d'Afrique.",
+    "tags": [
+      "espèce humaine",
+      "âge glaciaire",
+      "neandertal",
+      "évolution"
+    ]
+  },
+  {
+    "id": "adolf-hitler",
+    "name": "Adolf Hitler",
+    "born": 1889,
+    "died": 1945,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "dictateur de l'Allemagne national-socialiste",
+    "summary": "Chef du NSDAP et principal responsable de la Seconde Guerre mondiale et de la Shoah.",
+    "text": "Né en Autriche, Hitler prit la tête du NSDAP après la Première Guerre mondiale et échoua en 1923 dans une tentative de putsch à Munich. Il exposa son idéologie, faite de racisme, d'antisémitisme et de volonté de conquête, dans Mein Kampf. Nommé chancelier du Reich en 1933, il établit une dictature totalitaire, déchaîna la guerre en 1939 et ordonna l'extermination des juifs d'Europe. Devant la défaite, il se donna la mort le 30 avril 1945 à Berlin.",
+    "tags": [
+      "dictateur",
+      "national-socialisme",
+      "shoah",
+      "guerre"
+    ]
+  },
+  {
+    "id": "winston-churchill",
+    "name": "Winston Churchill",
+    "born": 1874,
+    "died": 1965,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "Premier ministre britannique",
+    "summary": "Il dirigea la Grande-Bretagne dans la lutte contre Hitler à partir de 1940 et refusa tout compromis.",
+    "text": "Churchill avait déjà mis en garde contre Hitler dans les années 1930 et devint Premier ministre en mai 1940, dans la crise la plus grave. Alors que la France tombait et que les bombardiers allemands frappaient les villes britanniques, il incarna la volonté de résistance du pays ; ses discours ne promettaient que du sang, du labeur, des larmes et de la sueur. Avec Roosevelt et Staline, il planifia la conduite de la guerre et l'ordre d'après-guerre. En 1953, il reçut le prix Nobel de littérature pour ses ouvrages historiques.",
+    "tags": [
+      "grande-bretagne",
+      "premier ministre",
+      "alliés"
+    ]
+  },
+  {
+    "id": "franklin-d-roosevelt",
+    "name": "Franklin D. Roosevelt",
+    "born": 1882,
+    "died": 1945,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "amerika",
+    "role": "32e président des États-Unis",
+    "summary": "Il sortit les États-Unis de la crise économique mondiale et les conduisit à travers la guerre aux côtés des Alliés.",
+    "text": "Roosevelt, contraint au fauteuil roulant depuis une poliomyélite, fut élu en 1932 et combattit la crise économique par le New Deal. Il soutint la Grande-Bretagne par des livraisons d'armes avant même l'entrée en guerre et fit des États-Unis, après Pearl Harbor, l'arsenal de la démocratie. Aux conférences de Téhéran et de Yalta, il posa avec Churchill et Staline les fondements de l'ordre d'après-guerre et des Nations unies. Il mourut en avril 1945, quelques semaines avant la victoire, seul président élu quatre fois.",
+    "tags": [
+      "états-unis",
+      "président",
+      "new deal",
+      "alliés"
+    ]
+  },
+  {
+    "id": "josef-stalin",
+    "name": "Joseph Staline",
+    "born": 1878,
+    "died": 1953,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "dictateur de l'Union soviétique",
+    "summary": "Il régna par la terreur sur l'Union soviétique et la mena à la victoire sur l'Allemagne.",
+    "text": "Après la mort de Lénine, Staline l'emporta sur tous ses rivaux et contraignit le pays à s'industrialiser par des plans quinquennaux et la collectivisation forcée ; des millions de personnes moururent de faim, de déportation et des purges des années 1930. En 1939, il conclut un pacte avec Hitler et partagea la Pologne. Après l'attaque allemande de 1941, il organisa la résistance et devint, par la victoire, le maître de l'Europe de l'Est, où il installa des dictatures communistes.",
+    "tags": [
+      "union soviétique",
+      "dictateur",
+      "terreur rouge",
+      "alliés"
+    ]
+  },
+  {
+    "id": "anne-frank",
+    "name": "Anne Frank",
+    "born": 1929,
+    "died": 1945,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "jeune fille juive et auteure d'un journal",
+    "summary": "Son journal, écrit dans une cachette d'Amsterdam, est devenu le témoignage de la Shoah le plus connu au monde.",
+    "text": "Née à Francfort, Anne Frank fuit les nationaux-socialistes avec sa famille en 1934 et gagna Amsterdam. À partir de juillet 1942, la famille vécut cachée dans l'annexe d'une entreprise, où Anne rédigea son journal. En août 1944, les clandestins furent dénoncés et déportés, via Auschwitz, au camp de Bergen-Belsen, où Anne mourut du typhus au printemps 1945, à 15 ans. Son père Otto, seul survivant, publia le journal en 1947.",
+    "tags": [
+      "shoah",
+      "journal",
+      "persécution"
+    ]
+  },
+  {
+    "id": "sophie-scholl",
+    "name": "Sophie Scholl",
+    "born": 1921,
+    "died": 1943,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "résistante de la Rose blanche",
+    "summary": "Elle distribua avec son frère Hans des tracts contre le régime nazi et fut exécutée pour cela.",
+    "text": "Étudiante à Munich, Sophie Scholl rejoignit en 1942 le groupe de résistance de la Rose blanche, réuni autour de son frère Hans, qui dénonçait dans des tracts les crimes du régime et appelait à la résistance. Le 18 février 1943, le frère et la sœur furent surpris et arrêtés alors qu'ils déposaient des tracts dans l'université. Quatre jours plus tard, le Tribunal du peuple présidé par Roland Freisler les condamna à mort ; ils furent décapités le jour même. La Rose blanche est aujourd'hui un symbole du courage civique.",
+    "tags": [
+      "résistance",
+      "rose blanche",
+      "courage civique"
+    ]
+  },
+  {
+    "id": "galileo-galilei",
+    "name": "Galilée",
+    "born": 1564,
+    "died": 1642,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "physicien, astronome et mathématicien",
+    "summary": "Le fondateur des sciences expérimentales, qui explora le ciel à la lunette et entra pour cela en conflit avec l'Église.",
+    "text": "Galilée enseigna à Pise et à Padoue et étudia, par des expériences sur le plan incliné, les lois de la chute libre et du pendule. En 1609, il reconstruisit une lunette et découvrit les montagnes de la Lune, quatre satellites de Jupiter, les phases de Vénus et les taches solaires, qu'il publia en 1610 dans le Messager des étoiles. Ses observations appuyaient la conception du monde de Copernic, que l'Église interdit en 1616 ; le procès de 1633 s'acheva par une rétractation et une assignation à résidence. Il écrivit ses œuvres en italien et non en latin afin de toucher un large public, et passe pour le père de la physique moderne.",
+    "tags": [
+      "physique",
+      "astronomie",
+      "lunette astronomique",
+      "science"
+    ]
+  },
+  {
+    "id": "john-locke",
+    "name": "John Locke",
+    "born": 1632,
+    "died": 1704,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "philosophe et théoricien de l'État",
+    "summary": "Le penseur anglais dont la doctrine des droits naturels et du gouvernement par consentement fonda le libéralisme.",
+    "text": "Locke étudia la médecine à Oxford et devint médecin, secrétaire et conseiller du comte de Shaftesbury, un adversaire du roi ; persécuté pour des raisons politiques, il vécut en exil aux Pays-Bas de 1683 à 1689. Après la Glorieuse Révolution, il publia les Deux traités du gouvernement civil, la Lettre sur la tolérance et l'Essai sur l'entendement humain. Il enseignait que l'esprit est à la naissance une page blanche et que tout savoir provient de l'expérience. Son exigence de protection de la vie, de la liberté et de la propriété devint le fondement des États constitutionnels américain et européens.",
+    "tags": [
+      "philosophie",
+      "libéralisme",
+      "droit naturel"
+    ]
+  },
+  {
+    "id": "maria-theresia",
+    "name": "Marie-Thérèse",
+    "born": 1717,
+    "died": 1780,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "archiduchesse d'Autriche, reine de Hongrie et de Bohême",
+    "summary": "La seule femme à la tête de la monarchie des Habsbourg, qui défendit son héritage par la guerre et réforma l'État en profondeur.",
+    "text": "Marie-Thérèse reçut en 1740, à 23 ans, un héritage menacé et perdit la Silésie au profit de la Prusse, mais conserva ses autres pays. Avec ses ministres Haugwitz et Kaunitz, elle créa une administration centrale, une armée permanente, un nouveau système fiscal qui taxait aussi la noblesse et, en 1774, l'obligation scolaire générale. Pieuse, elle refusa la tolérance religieuse et ne fit abolir la torture qu'en 1776. De son mari François-Étienne, elle eut 16 enfants, parmi lesquels l'empereur Joseph II et la future reine de France Marie-Antoinette.",
+    "tags": [
+      "habsbourg",
+      "réformes",
+      "autriche",
+      "souveraine"
+    ]
+  },
+  {
+    "id": "jean-jacques-rousseau",
+    "name": "Jean-Jacques Rousseau",
+    "born": 1712,
+    "died": 1778,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "philosophe, écrivain et compositeur",
+    "summary": "Le penseur genevois qui fonda la souveraineté populaire et critiqua la civilisation comme source d'inégalité.",
+    "text": "Rousseau grandit à Genève, fils d'un horloger, vécut d'expédients comme précepteur, copiste de musique et secrétaire, et devint célèbre en 1750 avec un discours couronné par un prix, qui soutenait que les sciences et les arts avaient corrompu les mœurs. En 1762 parurent Du contrat social, selon lequel seule la volonté générale du peuple peut faire les lois, et le roman d'éducation Émile, qui voulait développer l'enfant selon sa nature. Les deux livres furent interdits à Paris et à Genève, et Rousseau vécut dès lors en fuite. Ses Confessions fondèrent l'autobiographie moderne ; les jacobins le vénérèrent comme le prophète de la Révolution.",
+    "tags": [
+      "philosophie",
+      "souveraineté populaire",
+      "éducation",
+      "lumières"
+    ]
+  },
+  {
+    "id": "emilie-du-chatelet",
+    "name": "Émilie du Châtelet",
+    "born": 1706,
+    "died": 1749,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "mathématicienne et physicienne",
+    "summary": "La savante française qui traduisit et commenta les Principia de Newton et fut l'une des premières femmes à contribuer à la physique de son temps.",
+    "text": "Fille d'un officier de cour, Gabrielle Émilie Le Tonnelier de Breteuil reçut une éducation exceptionnellement soignée et se fit plus tard enseigner par les mathématiciens Maupertuis et Clairaut. Dans son château de Cirey, elle installa un laboratoire et une bibliothèque avec Voltaire, son compagnon ; ses Institutions de physique, parues en 1740, associaient la mécanique de Newton à la philosophie de Leibniz. Elle reconnut que l'énergie de mouvement d'un corps croît avec le carré de sa vitesse. Elle acheva sa traduction commentée des Principia peu avant de mourir en couches ; elle demeure aujourd'hui encore la version française de référence.",
+    "tags": [
+      "physique",
+      "mathématiques",
+      "femmes",
+      "newton"
+    ]
+  },
+  {
+    "id": "katharina-die-grosse",
+    "name": "Catherine la Grande",
+    "born": 1729,
+    "died": 1796,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "europa",
+    "role": "impératrice de Russie",
+    "summary": "La princesse allemande qui devint tsarine par un coup d'État, agrandit la Russie et se présenta en souveraine éclairée.",
+    "text": "Sophie d'Anhalt-Zerbst fut mariée en 1745 à l'héritier du trône de Russie, adopta la foi orthodoxe et le nom de Catherine, et renversa en 1762, avec l'aide de la garde, son mari incapable Pierre III. Elle correspondit avec Voltaire, acheta la bibliothèque de Diderot et soumit en 1767 à une commission législative une Instruction inspirée des idées de Montesquieu et de Beccaria, qui resta cependant sans effet. Après la révolte des paysans et des Cosaques menée par Pougatchev en 1773, elle renforça la noblesse et étendit le servage. Par les guerres contre les Ottomans et les partages de la Pologne, la Russie gagna la Crimée, les côtes de la mer Noire et de vastes territoires à l'ouest.",
+    "tags": [
+      "russie",
+      "tsarine",
+      "despotisme éclairé"
+    ]
+  },
+  {
+    "id": "tokugawa-ieyasu",
+    "name": "Tokugawa Ieyasu",
+    "born": 1543,
+    "died": 1616,
+    "approx": false,
+    "epochId": "absolutismus-aufklaerung",
+    "regionId": "asien",
+    "role": "fondateur du shogunat Tokugawa",
+    "summary": "Le chef de guerre qui unifia le Japon après la victoire de Sekigahara et fonda un ordre de paix qui dura 250 ans.",
+    "text": "Ieyasu servit d'abord Oda Nobunaga et Toyotomi Hideyoshi et se constitua pendant cette période une solide base de pouvoir dans l'est du Japon, autour du château d'Edo, l'actuelle Tokyo. Après la mort de Hideyoshi, il battit en 1600 à Sekigahara les seigneurs rivaux et se fit nommer shogun par l'empereur en 1603. Il imposa l'obéissance aux seigneurs, organisa les ordres des samouraïs, des paysans, des artisans et des marchands et entreprit de réprimer le christianisme. Ses descendants gouvernèrent le Japon jusqu'en 1868 ; l'époque d'Edo apporta la paix, la croissance des villes et une culture florissante, avec le théâtre kabuki et l'estampe sur bois.",
+    "tags": [
+      "japon",
+      "shogun",
+      "edo",
+      "samouraïs"
+    ]
+  },
+  {
+    "id": "sappho",
+    "name": "Sappho",
+    "born": -630,
+    "died": -570,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "poétesse",
+    "summary": "La plus grande poétesse lyrique de l'Antiquité, dont les poèmes d'amour, venus de l'île de Lesbos, valurent déjà chez les Grecs le titre de dixième Muse.",
+    "text": "Sappho vivait vers 600 av. J.-C. à Mytilène, sur l'île de Lesbos, et appartenait à une famille noble qui dut un temps partir en exil en Sicile. Elle réunit autour d'elle de jeunes femmes auxquelles elle enseignait la musique et la poésie, et composa des chants accompagnés à la lyre sur l'amour, le désir, la jalousie, les noces et la déesse Aphrodite. De ses neuf livres, un seul poème complet et de nombreux fragments nous sont parvenus, certains découverts au XXe siècle seulement, sur des papyrus d'Égypte. Platon l'appela la dixième Muse ; la strophe saphique, qui porte son nom, fut reprise par Horace et par de nombreux poètes postérieurs.",
+    "tags": [
+      "poésie lyrique",
+      "lesbos",
+      "poétesse",
+      "femmes"
+    ]
+  },
+  {
+    "id": "herodot",
+    "name": "Hérodote",
+    "born": -484,
+    "died": -425,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "historien",
+    "summary": "Le père de l'histoire, qui décrivit les guerres médiques et les peuples de son temps.",
+    "text": "Hérodote était originaire d'Halicarnasse, en Asie Mineure ; il parcourut l'Égypte, la Mésopotamie, la région de la mer Noire et la Grèce et vécut par moments à Athènes et dans la colonie de Thourioi, en Italie du Sud. Dans les neuf livres de ses Histoires, il voulut expliquer pourquoi Grecs et Perses se firent la guerre et décrivit à cette occasion les pays, les mœurs, les religions et les merveilles du monde qu'il connaissait, des pyramides aux Scythes. Il distinguait ce qu'il avait vu, entendu ou seulement supposé, même s'il reprit sans vérification bien des récits. Cicéron l'appela le père de l'histoire ; son œuvre est en même temps la première ethnographie.",
+    "tags": [
+      "historiographie",
+      "guerres médiques",
+      "histoires",
+      "voyages"
+    ]
+  },
+  {
+    "id": "aspasia",
+    "name": "Aspasie",
+    "born": -470,
+    "died": -400,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "femme savante et compagne de Périclès",
+    "summary": "La femme cultivée de Milet qui fréquentait à Athènes Socrate et Périclès et aurait donné des leçons à des orateurs.",
+    "text": "Aspasie vint de Milet, en Asie Mineure, à Athènes et y vécut comme métèque, étrangère sans droit de cité, avec Périclès, qui s'était séparé de sa femme ; leur fils commun reçut plus tard le droit de cité à titre exceptionnel. Sa maison devint un lieu de rencontre de philosophes et d'artistes, et Platon fait dire à Socrate, dans un dialogue, qu'elle lui a enseigné l'art oratoire et qu'elle a composé des discours pour Périclès. Les poètes comiques la raillaient comme hétaïre et la tenaient pour responsable de la guerre du Péloponnèse, et elle aurait été accusée d'impiété. Aspasie est l'un des rares exemples de femme ayant exercé une influence publique dans l'Athènes du Ve siècle av. J.-C.",
+    "tags": [
+      "femmes",
+      "athènes",
+      "périclès",
+      "rhétorique"
+    ]
+  },
+  {
+    "id": "hippokrates",
+    "name": "Hippocrate",
+    "born": -460,
+    "died": -370,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "médecin",
+    "summary": "Le plus célèbre médecin de l'Antiquité et le fondateur d'une médecine fondée sur l'observation et les causes naturelles.",
+    "text": "Hippocrate naquit vers 460 av. J.-C. sur l'île de Cos, dans une famille de médecins qui faisait remonter son art au dieu guérisseur Asclépios. Il parcourut la Grèce en médecin itinérant, enseigna à Cos et était de son vivant déjà si célèbre que Platon le mentionne. Les écrits transmis sous son nom proviennent de divers médecins de son école, mais ils partagent ses principes : observation attentive, prudence dans les interventions, confiance dans la force curative de la nature et rejet de la magie. Le serment d'Hippocrate et le principe consistant avant tout à ne pas nuire font de lui, aujourd'hui encore, le modèle du médecin.",
+    "tags": [
+      "médecine",
+      "cos",
+      "médecin",
+      "science"
+    ]
+  },
+  {
+    "id": "demosthenes",
+    "name": "Démosthène",
+    "born": -384,
+    "died": -322,
+    "approx": false,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "orateur et homme politique",
+    "summary": "Le plus grand orateur d'Athènes, qui lutta en vain contre Philippe de Macédoine pour la liberté des cités grecques.",
+    "text": "Démosthène perdit son père très tôt et dut réclamer son héritage en justice ; selon la tradition, il surmonta un défaut d'élocution en parlant face au ressac, des cailloux dans la bouche. Comme homme politique, il mit en garde dans ses Philippiques contre l'ascension de Philippe II de Macédoine et noua une alliance avec Thèbes, qui succomba en 338 av. J.-C. à Chéronée. Après la mort d'Alexandre, il appela de nouveau les Grecs à la révolte ; quand les Macédoniens l'emportèrent, il s'empoisonna en 322 av. J.-C. sur l'île de Calaurie pour échapper à la capture. Ses discours passèrent dans l'Antiquité pour la mesure de l'éloquence, et Cicéron le prit pour modèle.",
+    "tags": [
+      "rhétorique",
+      "athènes",
+      "macédoine",
+      "politique"
+    ]
+  },
+  {
+    "id": "euklid",
+    "name": "Euclide",
+    "born": -325,
+    "died": -265,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "afrika",
+    "role": "mathématicien",
+    "summary": "Le mathématicien d'Alexandrie dont les Éléments furent pendant plus de deux millénaires le manuel de géométrie.",
+    "text": "On sait peu de chose de la vie d'Euclide ; il enseignait vers 300 av. J.-C. à Alexandrie sous Ptolémée Ier et aurait répondu au roi, qui lui demandait s'il existait une voie plus facile vers les mathématiques, qu'il n'y a pas de voie royale. Dans les 13 livres des Éléments, il rassembla le savoir mathématique de son temps et déduisit pas à pas, à partir de quelques définitions et axiomes, tous les théorèmes de la géométrie et de la théorie des nombres, parmi lesquels le théorème de Pythagore et la démonstration qu'il existe une infinité de nombres premiers. Cette méthode de démonstration rigoureuse devint le modèle de toute science. Les Éléments furent traduits en arabe et en latin et servirent de manuel scolaire jusqu'au XXe siècle.",
+    "tags": [
+      "mathématiques",
+      "géométrie",
+      "alexandrie",
+      "science"
+    ]
+  },
+  {
+    "id": "archimedes",
+    "name": "Archimède",
+    "born": -287,
+    "died": -212,
+    "approx": true,
+    "epochId": "antike-griechenland",
+    "regionId": "europa",
+    "role": "mathématicien, physicien et ingénieur",
+    "summary": "Le plus grand savant de l'Antiquité, découvreur de la loi du levier et de la poussée d'Archimède.",
+    "text": "Archimède vécut à Syracuse, en Sicile, et était en relation avec les savants d'Alexandrie. Il calcula le nombre pi avec une grande précision, détermina les aires et les volumes de la sphère et du cylindre, formula la loi du levier et le principe de la poussée qui porte son nom, qu'il découvrit selon la légende dans sa baignoire et salua du cri d'Eurêka. Comme ingénieur, il construisit des palans, la vis sans fin destinée à l'irrigation et des machines de guerre pour défendre sa ville contre les Romains. Lors de la prise de Syracuse, en 212 av. J.-C., il fut tué par un soldat romain ; ses écrits furent conservés au Moyen Âge à Byzance et dans le monde islamique.",
+    "tags": [
+      "mathématiques",
+      "physique",
+      "syracuse",
+      "inventeur"
+    ]
+  },
+  {
+    "id": "laozi",
+    "name": "Laozi",
+    "born": null,
+    "died": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "fondateur légendaire du taoïsme",
+    "summary": "Le sage auquel on attribue le Daodejing et qui passe pour l'adversaire et le complément de Confucius.",
+    "text": "Selon la tradition, Laozi, le vieux maître, était archiviste à la cour des Zhou et un contemporain plus âgé de Confucius, qui serait venu lui demander conseil. Lorsqu'il quitta l'empire en décomposition, un gardien de la frontière l'aurait prié de mettre par écrit sa sagesse, d'où naquit le Daodejing. Son existence réelle est incertaine ; la recherche date le texte du IVe ou du IIIe siècle av. J.-C. et le tient pour l'œuvre de plusieurs auteurs. Divinité du taoïsme religieux, Laozi fut plus tard vénéré dans des temples, et les empereurs Tang voyaient en lui leur ancêtre.",
+    "tags": [
+      "taoïsme",
+      "philosophie",
+      "chine",
+      "légende"
+    ]
+  },
+  {
+    "id": "sunzi",
+    "name": "Sun Tzu",
+    "born": -544,
+    "died": -496,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "général et théoricien militaire chinois",
+    "summary": "L'auteur de l'Art de la guerre, le plus ancien manuel de stratégie et le plus lu encore aujourd'hui.",
+    "text": "Sun Wu, appelé par respect Sun Tzu, servit selon la tradition comme général le roi de Wu, dans le sud-est de la Chine, et mena son armée à la victoire sur le puissant État de Chu. Son œuvre, en treize chapitres, traite de la planification, de la ruse, du terrain, de l'espionnage et de la conduite des soldats, et enseigne que la meilleure victoire est celle qui est remportée sans combat. Comme pour Laozi, les dates de sa vie et la paternité de l'ouvrage sont contestées ; le texte remonte probablement à l'époque des Royaumes combattants. L'Art de la guerre devint dans toute l'Asie de l'Est une lecture obligée des officiers et se trouve aujourd'hui cité aussi dans l'économie et la politique.",
+    "tags": [
+      "stratégie",
+      "guerre",
+      "chine",
+      "philosophie"
+    ]
+  },
+  {
+    "id": "sima-qian",
+    "name": "Sima Qian",
+    "born": -145,
+    "died": -86,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "historiographe de cour chinois",
+    "summary": "Le père de l'historiographie chinoise, qui acheva malgré un châtiment infamant l'œuvre de sa vie, le Shiji.",
+    "text": "Sima Qian reprit de son père Sima Tan la charge de grand astrologue et d'archiviste à la cour de l'empereur Wu des Han, et avec elle le projet d'une histoire générale de la Chine. Au cours de voyages à travers l'empire, il recueillit des traditions, interrogea des témoins et visita des tombeaux et des champs de bataille. Parce qu'il avait défendu le général Li Ling contre la colère de l'empereur, il fut condamné à la castration en 99 av. J.-C. ; dans une lettre célèbre, il expliqua pourquoi il supportait cette honte afin d'achever son œuvre. Ses biographies vivantes de souverains, d'assassins, de marchands et de lettrés firent aussi du Shiji un chef-d'œuvre littéraire.",
+    "tags": [
+      "historiographie",
+      "han",
+      "shiji",
+      "lettré"
+    ]
+  },
+  {
+    "id": "wu-zetian",
+    "name": "Wu Zetian",
+    "born": 624,
+    "died": 705,
+    "approx": false,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "impératrice de Chine",
+    "summary": "La seule femme à avoir régné en Chine comme impératrice de plein droit, qui encouragea l'administration et le bouddhisme.",
+    "text": "Wu Zhao entra à quatorze ans comme concubine à la cour de l'empereur Taizong et devint après la mort de celui-ci l'épouse de son fils Gaozong, qu'elle dirigea bientôt depuis les coulisses. Elle écarta rivales et adversaires avec dureté, mais gouverna efficacement : elle abaissa les impôts des paysans, élargit les examens de fonctionnaires, sécurisa les frontières et fit sculpter dans les grottes de Longmen une statue colossale du Bouddha qui porterait ses traits. De 690 à 705, elle régna sous un nom de dynastie propre. Les historiographes confucéens la dépeignirent plus tard en usurpatrice cruelle, mais ses réformes posèrent les bases de l'apogée des Tang au VIIIe siècle.",
+    "tags": [
+      "impératrice",
+      "tang",
+      "femmes",
+      "bouddhisme"
+    ]
+  },
+  {
+    "id": "murasaki-shikibu",
+    "name": "Murasaki Shikibu",
+    "born": 973,
+    "died": 1014,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "dame de cour et écrivaine japonaise",
+    "summary": "L'auteure du Dit du Genji, dont l'œuvre fonda le roman comme forme littéraire.",
+    "text": "Murasaki Shikibu était issue d'une branche lettrée de la famille Fujiwara et apprit en cachette, jeune fille, les classiques chinois, en principe réservés aux hommes. Après la mort précoce de son mari, elle entra vers 1006 au service de l'impératrice Shoshi, où elle écrivit son Dit du Genji et tint un journal sur la vie de cour. Son vrai nom est inconnu ; Murasaki est le nom d'un personnage du roman, Shikibu désigne la charge de son père. Son roman sur l'amour, le pouvoir et la fragilité des choses à la cour impériale est lu aujourd'hui encore et considéré au Japon comme l'épopée nationale.",
+    "tags": [
+      "littérature",
+      "japon",
+      "heian",
+      "femmes"
+    ]
+  },
+  {
+    "id": "kalidasa",
+    "name": "Kalidasa",
+    "born": null,
+    "died": null,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "poète et dramaturge indien",
+    "summary": "Le plus grand poète de la littérature sanskrite, dont le drame Shakuntala enthousiasma jusqu'à Goethe.",
+    "text": "Kalidasa vécut probablement au IVe ou au Ve siècle à la cour des rois Gupta, vraisemblablement sous Chandragupta II ; on ne sait presque rien d'autre de sa vie. Son drame Shakuntala raconte l'amour d'un roi pour la fille d'un ermite, qu'il oublie à cause d'une malédiction puis retrouve ; le poème Meghaduta fait porter par un nuage des messages d'amour à travers l'Inde. Ses œuvres unissent la description de la nature, la mythologie et une peinture délicate des sentiments dans une langue raffinée. La première traduction allemande de Shakuntala, en 1791, suscita en Europe un engouement pour la poésie indienne.",
+    "tags": [
+      "poésie",
+      "sanskrit",
+      "gupta",
+      "théâtre"
+    ]
+  },
+  {
+    "id": "xuanzang",
+    "name": "Xuanzang",
+    "born": 602,
+    "died": 664,
+    "approx": true,
+    "epochId": "asien-altertum",
+    "regionId": "asien",
+    "role": "moine, pèlerin et traducteur chinois",
+    "summary": "Le moine bouddhiste qui voyagea seize ans à travers l'Asie centrale et l'Inde et rapporta des centaines de textes en Chine.",
+    "text": "Xuanzang quitta la Chine en 629 malgré une interdiction impériale de voyager, traversa déserts et montagnes et étudia des années durant à l'université monastique de Nalanda, en Inde. En 645, il revint à Chang'an avec 657 textes, des reliques et des statues ; l'empereur Taizong l'y accueillit avec honneur et lui installa un atelier de traduction ; la grande pagode de l'Oie sauvage fut construite pour conserver les textes. Son récit sur les contrées occidentales demeure une source importante pour l'histoire de l'Inde et de l'Asie centrale. Au XVIe siècle, son voyage devint une légende populaire dans le roman la Pérégrination vers l'Ouest, avec le roi des singes.",
+    "tags": [
+      "bouddhisme",
+      "pèlerin",
+      "inde",
+      "traduction"
+    ]
+  },
+  {
+    "id": "paul-von-hindenburg",
+    "name": "Paul von Hindenburg",
+    "born": 1847,
+    "died": 1934,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "maréchal et président du Reich",
+    "summary": "Vainqueur de Tannenberg, chef du commandement suprême de l'armée et, comme président du Reich, l'homme qui nomma Hitler chancelier.",
+    "text": "Ce général prussien, déjà à la retraite, fut rappelé en 1914 et vénéré comme le sauveur de la Prusse-Orientale après la victoire sur l'armée russe à Tannenberg. À partir d'août 1916, il dirigea avec Erich Ludendorff le commandement suprême de l'armée, qui déterminait de fait la politique du Reich, et affirma après la défaite, devant la commission d'enquête du Reichstag, que l'armée avait été poignardée dans le dos, ce qui donna autorité à la légende du coup de poignard. En 1925, ce monarchiste fut élu président du Reich de la République, et réélu en 1932 contre Hitler. À partir de 1930, il gouverna par décrets-lois d'urgence et cabinets présidentiels et nomma Hitler chancelier du Reich le 30 janvier 1933, sur l'insistance de ses conseillers ; il mourut en août 1934, après quoi Hitler s'appropria la fonction présidentielle.",
+    "tags": [
+      "général",
+      "président du reich",
+      "commandement suprême",
+      "république de weimar"
+    ]
+  },
+  {
+    "id": "gustav-stresemann",
+    "name": "Gustav Stresemann",
+    "born": 1878,
+    "died": 1929,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "chancelier et ministre des Affaires étrangères de la République de Weimar",
+    "summary": "Il mit fin à l'hyperinflation en 1923 et ramena l'Allemagne dans la politique européenne avec Locarno et l'entrée à la Société des Nations.",
+    "text": "Fils d'un industriel berlinois et président du Parti populaire allemand, libéral, il avait été pendant la guerre partisan des annexions et devint après 1918 un républicain de raison. Comme chancelier, il mit fin à l'automne 1923 à la lutte de la Ruhr, écrasa les tentatives de coup d'État communistes et de droite et stabilisa la monnaie avec le Rentenmark. Ministre des Affaires étrangères de 1923 à 1929, il misa sur l'entente avec les vainqueurs : le plan Dawes régla les réparations, l'Allemagne reconnut sa frontière occidentale dans les traités de Locarno en 1925 et entra à la Société des Nations en 1926. Pour cette politique, Stresemann reçut en 1926 le prix Nobel de la paix avec le ministre français des Affaires étrangères Aristide Briand. Sa mort précoce, en octobre 1929, quelques semaines avant le krach boursier, priva la République de son homme d'État le plus capable.",
+    "tags": [
+      "politique étrangère",
+      "locarno",
+      "prix nobel de la paix",
+      "république de weimar"
+    ]
+  },
+  {
+    "id": "friedrich-ebert",
+    "name": "Friedrich Ebert",
+    "born": 1871,
+    "died": 1925,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "premier président du Reich de la République de Weimar",
+    "summary": "Il conduisit l'Allemagne de la révolution de 1918 à la démocratie parlementaire et devint en 1919 son premier chef de l'État.",
+    "text": "Sellier de formation, originaire de Heidelberg, il s'éleva dans la social-démocratie du rang de responsable syndical à celui de président du parti. Le 9 novembre 1918, le dernier chancelier impérial, Max de Bade, lui remit les affaires du gouvernement ; président du Conseil des commissaires du peuple, Ebert s'orienta vers l'élection d'une Assemblée nationale plutôt que vers une république des conseils et s'allia pour cela à l'ancien commandement de l'armée et aux corps francs, ce que l'aile gauche du mouvement ouvrier ne lui pardonna jamais. En février 1919, l'Assemblée nationale l'élut président du Reich. Durant son mandat, il repoussa le putsch de Kapp, des insurrections communistes et le putsch de Hitler, et supporta un flot de procès en diffamation intentés par la droite. Il mourut en 1925, à 54 ans, d'une appendicite soignée trop tard.",
+    "tags": [
+      "président du reich",
+      "spd",
+      "révolution",
+      "démocratie"
+    ]
+  },
+  {
+    "id": "kaethe-kollwitz",
+    "name": "Käthe Kollwitz",
+    "born": 1867,
+    "died": 1945,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "graveuse et sculptrice",
+    "summary": "La plus grande artiste allemande de son temps a donné une image durable à la souffrance des mères, des ouvriers et des victimes de la guerre.",
+    "text": "Käthe Kollwitz, née à Königsberg, vécut comme femme de médecin dans le quartier ouvrier berlinois de Prenzlauer Berg et devint célèbre par ses cycles de gravures sur la révolte des tisserands et la guerre des Paysans. La mort de son fils Peter, tombé en octobre 1914 en Flandre comme engagé volontaire, fit d'elle une pacifiste ; son affiche Plus jamais la guerre, de 1924, et les Parents en deuil, du cimetière militaire de Vladslo, de 1932, comptent parmi les œuvres les plus saisissantes contre la guerre. En 1919, elle fut la première femme admise à l'Académie prussienne des arts. Les nationaux-socialistes la contraignirent à en sortir en 1933 et lui interdirent d'exposer. Elle mourut en avril 1945, quelques semaines avant la fin de la guerre, à Moritzburg, près de Dresde.",
+    "tags": [
+      "art",
+      "gravure",
+      "pacifisme",
+      "femmes"
+    ]
+  },
+  {
+    "id": "marie-juchacz",
+    "name": "Marie Juchacz",
+    "born": 1879,
+    "died": 1956,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "femme politique social-démocrate et fondatrice de l'Arbeiterwohlfahrt",
+    "summary": "Première femme à prononcer un discours dans un parlement allemand, en 1919, elle mit sur pied l'œuvre d'entraide ouvrière Arbeiterwohlfahrt.",
+    "text": "Fille d'un charpentier de Landsberg-sur-la-Warthe, elle travailla comme domestique, ouvrière d'usine et couturière avant de s'engager au SPD et de diriger en 1917 le travail féminin du parti. Le 19 février 1919, elle monta à la tribune de l'Assemblée nationale de Weimar et commença par ces mots : Messieurs et Mesdames, ce qui déclencha l'hilarité ; elle déclara que les femmes ne remerciaient pas pour le droit de vote, car il leur avait été accordé comme une évidence. En décembre 1919, elle fonda l'Arbeiterwohlfahrt, qui soutenait les nécessiteux par des foyers pour enfants, des ateliers de couture et des centres de consultation, et siégea au Reichstag jusqu'en 1933. Elle fuit les nationaux-socialistes en passant par la Sarre et la France pour gagner les États-Unis, revint en 1949 et devint présidente d'honneur de l'Arbeiterwohlfahrt.",
+    "tags": [
+      "droit de vote des femmes",
+      "spd",
+      "politique sociale",
+      "femmes"
+    ]
+  },
+  {
+    "id": "albert-einstein",
+    "name": "Albert Einstein",
+    "born": 1879,
+    "died": 1955,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "europa",
+    "role": "physicien et fondateur de la théorie de la relativité",
+    "summary": "Il révolutionna la compréhension de l'espace, du temps et de la gravitation et devint en 1919 le savant le plus célèbre du monde.",
+    "text": "Né à Ulm, Einstein publia en 1905, alors employé de l'office des brevets de Berne, la théorie de la relativité restreinte avec la formule E égale m fois c au carré, et acheva en 1915 à Berlin la théorie de la relativité générale, qui explique la gravitation comme une courbure de l'espace et du temps. Lorsqu'en 1919 une expédition britannique mesura, lors d'une éclipse de Soleil, la déviation de la lumière des étoiles par le Soleil qu'il avait prédite, il devint célèbre dans le monde entier du jour au lendemain ; en 1921, il reçut le prix Nobel pour l'explication de l'effet photoélectrique. Einstein était un pacifiste convaincu : il signa en 1914 un texte contre l'enthousiasme guerrier de ses collègues et s'engagea pour la démocratie et l'entente entre les peuples, ce qui lui valut l'hostilité des nationalistes et des antisémites. En 1933, il ne rentra pas en Allemagne et enseigna à Princeton jusqu'à sa mort.",
+    "tags": [
+      "physique",
+      "relativité",
+      "prix nobel",
+      "science"
+    ]
+  },
+  {
+    "id": "chiang-kai-shek",
+    "name": "Tchang Kaï-chek",
+    "born": 1887,
+    "died": 1975,
+    "approx": false,
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "regionId": "asien",
+    "role": "général chinois et chef du parti nationaliste Guomindang",
+    "summary": "Il unifia la Chine en 1928 sous une domination nationaliste, combattit les communistes et les Japonais et perdit la guerre civile en 1949.",
+    "text": "Formé au Japon comme officier, il prit après la mort de Sun Yat-sen, en 1925, la tête du parti nationaliste Guomindang et soumit, lors de l'expédition du Nord de 1926 à 1928, les seigneurs de la guerre qui dominaient la Chine depuis la chute de l'Empire. En 1927, il rompit dans le sang avec les communistes, jusque-là ses alliés, et gouverna depuis Nankin un pays qu'il chercha à moderniser avec l'aide militaire allemande et des réformes. Ses campagnes contre les bases communistes déclenchèrent en 1934 la Longue Marche ; ce n'est qu'après son enlèvement par ses propres généraux à Xi'an, en 1936, qu'il accepta un front uni contre le Japon, qui engagea la guerre ouverte en 1937. Après la victoire sur le Japon, il fut battu par Mao Zedong en 1949 et s'enfuit à Taïwan, qu'il gouverna de façon autoritaire jusqu'à sa mort en 1975.",
+    "tags": [
+      "chine",
+      "guomindang",
+      "guerre civile",
+      "nationalisme"
+    ]
+  },
+  {
+    "id": "gilgamesch",
+    "name": "Gilgamesh",
+    "born": -2700,
+    "died": null,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "role": "roi légendaire d'Uruk (historiquement non attesté)",
+    "summary": "Héros de la plus ancienne épopée de la littérature mondiale, qui aurait, comme roi d'Uruk, bâti le rempart de la ville et cherché en vain l'immortalité.",
+    "text": "La Liste royale sumérienne cite Gilgamesh comme cinquième roi de la première dynastie d'Uruk, qui pourrait avoir vécu vers 2700 av. J.-C. ; son existence réelle n'est pas assurée. Dans la tradition, il est dieu aux deux tiers et homme pour un tiers, souverain puissant et d'abord tyrannique, que l'amitié du sauvage Enkidu transforme. Après la mort d'Enkidu, il va trouver Outa-napishtim, le héros du Déluge, pour apprendre le secret de la vie éternelle, et doit reconnaître que l'immortalité est refusée à l'homme. Son histoire fut racontée et recopiée en Mésopotamie pendant plus de 2 000 ans.",
+    "tags": [
+      "légende",
+      "uruk",
+      "épopée",
+      "sumer"
+    ]
+  },
+  {
+    "id": "enheduanna",
+    "name": "Enheduanna",
+    "born": -2285,
+    "died": -2250,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "role": "grande prêtresse et poétesse",
+    "summary": "Fille de Sargon d'Akkad et première auteure connue par son nom de l'histoire mondiale.",
+    "text": "Sargon d'Akkad installa sa fille Enheduanna comme grande prêtresse du dieu-lune Nanna à Ur, le plus important temple de Sumer, afin de lier à son empire les villes conquises. Elle composa des hymnes à la déesse Inanna ainsi qu'un recueil d'hymnes aux temples dans lequel elle se nomme elle-même comme auteure, ce qui fait d'elle la première poétesse connue par son nom au monde. Dans l'un de ses hymnes, elle raconte comment une révolte la chassa de sa charge et comment elle appela Inanna à son secours. Un disque d'albâtre provenant d'Ur la montre accomplissant un sacrifice ; ses textes furent encore recopiés des siècles plus tard dans les écoles de scribes.",
+    "tags": [
+      "poétesse",
+      "prêtresse",
+      "akkad",
+      "femmes"
+    ]
+  },
+  {
+    "id": "ahmose-i",
+    "name": "Ahmôsis Ier",
+    "born": -1560,
+    "died": -1525,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "role": "pharaon et fondateur du Nouvel Empire",
+    "summary": "Il chassa les Hyksôs d'Égypte et fonda la XVIIIe dynastie et le Nouvel Empire.",
+    "text": "Ahmôsis était originaire de Thèbes, où sa famille avait déjà combattu, sous son père et son frère, les Hyksôs installés dans le delta du Nil ; sa mère Ahhotep gouverna pendant son enfance. Vers 1550 av. J.-C., il conquit Avaris, la capitale des Hyksôs, poursuivit ses adversaires jusqu'en Palestine et rétablit la domination sur la Nubie. Il réorganisa l'administration et les temples et fit construire à Abydos la dernière pyramide royale d'Égypte. Avec lui commença le Nouvel Empire, l'époque d'Hatchepsout, d'Akhenaton, de Toutânkhamon et de Ramsès II, durant laquelle l'Égypte devint la grande puissance du Proche-Orient.",
+    "tags": [
+      "pharaon",
+      "hyksôs",
+      "nouvel empire",
+      "thèbes"
+    ]
+  },
+  {
+    "id": "nofretete",
+    "name": "Néfertiti",
+    "born": -1370,
+    "died": -1330,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "role": "reine d'Égypte",
+    "summary": "Grande épouse royale d'Akhenaton, dont le buste compte parmi les œuvres d'art les plus célèbres du monde.",
+    "text": "Néfertiti, dont le nom signifie la belle est venue, était l'épouse principale du pharaon Akhenaton et la mère de six filles. Dans l'art de l'époque amarnienne, elle apparaît auprès du roi avec une égalité inhabituelle : lors du sacrifice au dieu solaire Aton, sur un char de guerre et même en train d'abattre des ennemis, représentation d'ordinaire réservée au pharaon. Certains chercheurs supposent qu'elle régna brièvement elle-même comme pharaon après la mort d'Akhenaton. Son buste de calcaire peint fut découvert en 1912 par Ludwig Borchardt dans l'atelier du sculpteur Thoutmôsis, à Amarna, et se voit aujourd'hui au Neues Museum de Berlin ; l'Égypte en réclame la restitution.",
+    "tags": [
+      "reine",
+      "amarna",
+      "buste",
+      "femmes"
+    ]
+  },
+  {
+    "id": "tutanchamun",
+    "name": "Toutânkhamon",
+    "born": -1341,
+    "died": -1323,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "afrika",
+    "role": "pharaon de la XVIIIe dynastie",
+    "summary": "Le roi-enfant qui rétablit les anciens dieux et devint célèbre dans le monde entier grâce à son tombeau découvert intact en 1922.",
+    "text": "Toutânkhamon, vraisemblablement un fils d'Akhenaton, monta sur le trône vers l'âge de neuf ans. Sous l'influence de ses conseillers Aÿ et Horemheb, il abandonna le culte d'Aton, changea son nom, qui était Toutânkhaton, et rétablit le culte d'Amon ainsi que l'ancienne capitale, Thèbes. Il mourut vers 18 ans ; l'examen de sa momie indique un paludisme et une fracture de la jambe. Son petit tombeau de la Vallée des Rois fut presque épargné par les pilleurs et découvert en 1922 par Howard Carter. Plus de 5 000 objets funéraires, parmi lesquels le masque funéraire d'or, des chars et des trônes, firent de ce roi sans importance le pharaon le plus connu de tous.",
+    "tags": [
+      "pharaon",
+      "vallée des rois",
+      "howard carter",
+      "masque funéraire"
+    ]
+  },
+  {
+    "id": "fu-hao",
+    "name": "Fu Hao",
+    "born": null,
+    "died": -1200,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "asien",
+    "role": "reine, chef de guerre et prêtresse de la dynastie Shang",
+    "summary": "Épouse du roi Shang Wu Ding, elle mena des armées au combat et sa tombe intacte fut découverte en 1976.",
+    "text": "Fu Hao était l'une des épouses du roi Wu Ding, qui régna d'environ 1250 à 1192 av. J.-C. sur le royaume Shang, au bord du fleuve Jaune. Des os oraculaires rapportent qu'elle mena jusqu'à 13 000 soldats contre les peuples voisins, dirigea des cérémonies sacrificielles et possédait ses propres terres et sa propre suite, ce qui était exceptionnel pour une femme de son temps. Wu Ding interrogeait les oracles avec inquiétude sur sa santé et sur ses accouchements. Sa tombe à Anyang, seule sépulture royale de l'époque Shang non pillée, contenait plus de 400 vases de bronze, 750 objets de jade, des armes, des milliers de cauris servant de monnaie ainsi que 16 victimes humaines, et fait d'elle la personnalité la mieux connue de la Chine ancienne.",
+    "tags": [
+      "shang",
+      "chine",
+      "chef de guerre",
+      "femmes"
+    ]
+  },
+  {
+    "id": "tiglat-pileser-i",
+    "name": "Téglath-Phalasar Ier",
+    "born": null,
+    "died": -1076,
+    "approx": true,
+    "epochId": "fruehe-hochkulturen",
+    "regionId": "naher-osten",
+    "role": "roi d'Assyrie",
+    "summary": "Il fit de l'Assyrie, à la fin de l'âge du bronze, une grande puissance pour la première fois et atteignit la Méditerranée avec ses campagnes.",
+    "text": "Téglath-Phalasar Ier régna de 1114 à 1076 av. J.-C., à une époque où beaucoup d'empires du Proche-Orient s'étaient effondrés. Il battit les Mouchki en Anatolie, soumit des tribus des montagnes du Nord et s'avança jusqu'à la côte phénicienne, où il reçut le tribut de Byblos, de Sidon et d'Arwad et aurait chassé un dauphin. Ses inscriptions se vantent de centaines de lions et d'éléphants abattus, et il fit aménager à Assour des jardins plantés d'arbres étrangers ainsi qu'une bibliothèque. Sous ses successeurs, l'Assyrie perdit de nouveau de sa puissance, mais ses campagnes ouvrirent la voie au futur Empire néo-assyrien.",
+    "tags": [
+      "assyriens",
+      "roi",
+      "campagnes",
+      "assour"
+    ]
+  },
+  {
+    "id": "charles-darwin",
+    "name": "Charles Darwin",
+    "born": 1809,
+    "died": 1882,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "naturaliste britannique",
+    "summary": "Fondateur de la théorie de l'évolution par sélection naturelle.",
+    "text": "De 1831 à 1836, Darwin fit le tour du monde comme jeune naturaliste à bord du navire hydrographique Beagle et recueillit aux îles Galápagos et en Amérique du Sud des observations qui lui firent douter de l'immuabilité des espèces. Il éprouva sa théorie pendant plus de vingt ans avant de la publier en 1859, pressé par Alfred Russel Wallace, qui était parvenu indépendamment à des résultats semblables. Dans la Filiation de l'homme, il appliqua en 1871 l'évolution à l'être humain lui-même. Il fut inhumé à l'abbaye de Westminster.",
+    "tags": [
+      "évolution",
+      "biologie",
+      "science"
+    ]
+  },
+  {
+    "id": "florence-nightingale",
+    "name": "Florence Nightingale",
+    "born": 1820,
+    "died": 1910,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "infirmière et statisticienne britannique",
+    "summary": "Fondatrice des soins infirmiers modernes et pionnière de la statistique sanitaire.",
+    "text": "Contre la volonté de sa famille fortunée, Florence Nightingale se fit former aux soins infirmiers. Pendant la guerre de Crimée, elle dirigea à partir de 1854 l'hôpital militaire britannique de Scutari, près de Constantinople, où plus de soldats mouraient d'épidémies que de blessures ; par l'hygiène, le linge propre et une meilleure alimentation, elle fit chuter la mortalité de façon spectaculaire. Avec des diagrammes parlants, elle convainquit le Parlement de réformer le service de santé militaire. L'école Nightingale, fondée à Londres en 1860, fit des soins infirmiers un métier respecté pour les femmes.",
+    "tags": [
+      "soins infirmiers",
+      "médecine",
+      "femmes",
+      "statistique"
+    ]
+  },
+  {
+    "id": "henry-dunant",
+    "name": "Henry Dunant",
+    "born": 1828,
+    "died": 1910,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "homme d'affaires et humaniste suisse",
+    "summary": "Fondateur de la Croix-Rouge et premier lauréat du prix Nobel de la paix.",
+    "text": "Marchand genevois, Dunant se trouva par hasard en Italie du Nord, en 1859, au lendemain de la bataille de Solférino et organisa avec des villageois les secours à des milliers de blessés des deux camps. Son récit conduisit en 1863 à la fondation de la Croix-Rouge et en 1864 à la Convention de Genève. Ruiné par des échecs commerciaux, il fut écarté du comité et vécut oublié pendant des décennies dans un hospice de Heiden. En 1901, il reçut avec Frédéric Passy le premier prix Nobel de la paix.",
+    "tags": [
+      "croix-rouge",
+      "humanité",
+      "prix nobel"
+    ]
+  },
+  {
+    "id": "thomas-edison",
+    "name": "Thomas Alva Edison",
+    "born": 1847,
+    "died": 1931,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "amerika",
+    "role": "inventeur et entrepreneur américain",
+    "summary": "Il mit au point le phonographe, la lampe à incandescence et le premier réseau électrique, et fonda la recherche industrielle.",
+    "text": "Edison, qui n'alla à l'école que quelques mois dans son enfance et travailla comme télégraphiste, installa en 1876 à Menlo Park le premier laboratoire de recherche industrielle, où des équipes de mécaniciens et de scientifiques mettaient au point des inventions de façon méthodique. En 1877, il présenta le phonographe, en 1879 une lampe à incandescence durable à filament de carbone et en 1882, à New York, la première centrale électrique publique. Avec plus de 1 000 brevets et des entreprises comme General Electric, il devint le symbole du génie inventif américain. Dans la querelle du courant continu et du courant alternatif, il s'inclina toutefois devant Nikola Tesla et George Westinghouse.",
+    "tags": [
+      "inventeur",
+      "électricité",
+      "lampe à incandescence",
+      "états-unis"
+    ]
+  },
+  {
+    "id": "cecil-rhodes",
+    "name": "Cecil Rhodes",
+    "born": 1853,
+    "died": 1902,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "afrika",
+    "role": "magnat britannique du diamant et homme politique colonial",
+    "summary": "Il incarna l'impérialisme britannique en Afrique et fonda la colonie de Rhodésie.",
+    "text": "Fils de pasteur de santé fragile, Rhodes arriva en Afrique du Sud en 1870 et bâtit en deux décennies, avec la société De Beers, un monopole sur l'extraction du diamant. Premier ministre de la colonie du Cap de 1890 à 1896, il restreignit les droits de la population noire, et sa British South Africa Company conquit par les armes le territoire des actuels Zimbabwe et Zambie, que l'on appela d'après lui la Rhodésie. Son rêve était un chemin de fer britannique reliant Le Cap au Caire. Sa fortune finance aujourd'hui encore les bourses Rhodes à Oxford ; ses monuments sont depuis 2015 la cible de protestations contre l'héritage colonial.",
+    "tags": [
+      "impérialisme",
+      "afrique du sud",
+      "diamants",
+      "colonialisme"
+    ]
+  },
+  {
+    "id": "bertha-von-suttner",
+    "name": "Bertha von Suttner",
+    "born": 1843,
+    "died": 1914,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "écrivaine et pacifiste autrichienne",
+    "summary": "Auteure du roman Bas les armes ! et première femme à recevoir le prix Nobel de la paix.",
+    "text": "Née à Prague, la comtesse Kinsky travailla brièvement en 1876 comme secrétaire d'Alfred Nobel à Paris et resta toute sa vie en correspondance avec lui. Son roman Bas les armes !, paru en 1889, décrivait la guerre du point de vue d'une femme qui perd son mari et ses proches, et fut traduit en de nombreuses langues. Elle fonda en 1891 la Société autrichienne pour la paix, plaida lors de congrès internationaux pour des tribunaux d'arbitrage et le désarmement, et convainquit Nobel de créer un prix de la paix. Elle le reçut elle-même en 1905 ; elle mourut quelques semaines avant le déclenchement de la guerre mondiale, contre laquelle elle avait mis en garde.",
+    "tags": [
+      "pacifisme",
+      "femmes",
+      "littérature",
+      "prix nobel"
+    ]
+  },
+  {
+    "id": "emmeline-pankhurst",
+    "name": "Emmeline Pankhurst",
+    "born": 1858,
+    "died": 1928,
+    "approx": false,
+    "epochId": "industrialisierung-imperialismus",
+    "regionId": "europa",
+    "role": "militante britannique des droits des femmes",
+    "summary": "Cheffe des suffragettes militantes dans la lutte pour le droit de vote des femmes en Grande-Bretagne.",
+    "text": "Emmeline Pankhurst fonda en 1903 à Manchester la Women's Social and Political Union, dont les membres furent connues sous le nom de suffragettes. Comme les pétitions et les réunions restaient sans effet, elles recoururent à des perturbations au Parlement, à des bris de vitres et à des incendies de bâtiments vides ; Pankhurst fut arrêtée à plusieurs reprises et entama en prison une grève de la faim, à la suite de quoi elle fut alimentée de force. Pendant la Première Guerre mondiale, elle suspendit la campagne et soutint l'effort de guerre. En 1918, les Britanniques de plus de 30 ans obtinrent le droit de vote ; en 1928, quelques semaines après sa mort, il fut aligné sur celui des hommes.",
+    "tags": [
+      "droit de vote des femmes",
+      "suffragettes",
+      "mouvement des femmes",
+      "grande-bretagne"
+    ]
+  },
+  {
+    "id": "aischa-bint-abi-bakr",
+    "name": "Aïcha bint Abi Bakr",
+    "born": 614,
+    "died": 678,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "role": "épouse de Mahomet et transmettrice de hadiths",
+    "summary": "La fille du premier calife, considérée comme le témoin le plus important de la vie de Mahomet, exerça une grande influence dans la communauté.",
+    "text": "Aïcha était la fille d'Abou Bakr, le plus proche compagnon de Mahomet et plus tard premier calife, et fut mariée jeune au Prophète, qui l'estimait particulièrement selon la tradition. Après la mort de celui-ci, en 632, elle vécut encore plus de quatre décennies à Médine, où des savants la consultaient sur des questions de foi, de droit et de vie quotidienne ; plus de 2 000 hadiths, paroles et actes transmis de Mahomet, remontent à son témoignage. En 656, elle se dressa dans la querelle de succession contre le calife Ali et perdit contre lui la bataille du Chameau, près de Bassora, après quoi elle se retira de la politique. Pour les sunnites, elle est mère des croyants et l'une des plus importantes savantes de la première génération ; dans l'islam chiite, son rôle est jugé plus sévèrement en raison du conflit avec Ali.",
+    "tags": [
+      "hadith",
+      "médine",
+      "femmes",
+      "premier islam"
+    ]
+  },
+  {
+    "id": "al-chwarizmi",
+    "name": "Muhammad ibn Musa al-Khwarizmi",
+    "born": 780,
+    "died": 850,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "role": "mathématicien, astronome et géographe",
+    "summary": "Le savant de la Maison de la sagesse dont les traités de calcul donnèrent son nom à l'algèbre et répandirent les chiffres indiens dans le monde.",
+    "text": "Al-Khwarizmi était originaire, comme son nom l'indique, du Khwarezm, près de la mer d'Aral, dans l'actuel Ouzbékistan, et travailla à Bagdad sous le calife al-Ma'mun. Son livre sur le calcul par complément et équilibrage fut le premier manuel systématique de résolution des équations et fut traduit en latin au XIIe siècle ; le mot algèbre vient de son titre, le mot algorithme de son nom. Il fut le premier, dans le monde arabe, à expliquer en détail le système de numération de position avec les dix chiffres indiens, calcula des tables du Soleil, de la Lune et des planètes et dirigea une mesure de la circonférence de la Terre. Dans son ouvrage de géographie, il améliora les cartes de Ptolémée pour le monde islamique.",
+    "tags": [
+      "mathématiques",
+      "algèbre",
+      "astronomie",
+      "bagdad",
+      "science"
+    ]
+  },
+  {
+    "id": "fatima-al-fihri",
+    "name": "Fatima al-Fihri",
+    "born": 800,
+    "died": 880,
+    "approx": true,
+    "epochId": "islamische-welt",
+    "regionId": "afrika",
+    "role": "fondatrice de la mosquée et de l'école supérieure al-Qarawiyyin à Fès",
+    "summary": "La fille de marchand qui fonda en 859 à Fès, avec son héritage, une mosquée dont naquit l'une des plus anciennes écoles supérieures du monde.",
+    "text": "Fatima al-Fihri naquit à Kairouan, dans l'actuelle Tunisie, et partit avec sa famille pour Fès, au Maroc, ville alors florissante sous les Idrissides. Après la mort de son père, un riche marchand, elle fonda en 859, sur son héritage, la mosquée al-Qarawiyyin, nommée d'après les immigrants venus de Kairouan ; sa sœur Maryam aurait fondé à la même époque la mosquée des Andalous. Selon la tradition, Fatima jeûna pendant toute la durée des travaux. Auprès de la mosquée se développa un établissement d'enseignement du Coran, du droit, de la grammaire, des mathématiques et de l'astronomie, où étudièrent ou enseignèrent plus tard des savants comme Ibn Khaldoun ; l'université al-Qarawiyyin existe encore aujourd'hui et est souvent qualifiée de plus ancienne école supérieure en activité continue au monde.",
+    "tags": [
+      "fès",
+      "éducation",
+      "fondation",
+      "femmes",
+      "maroc"
+    ]
+  },
+  {
+    "id": "ibn-ruschd",
+    "name": "Ibn Rushd (Averroès)",
+    "born": 1126,
+    "died": 1198,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "europa",
+    "role": "philosophe, juge et médecin en al-Andalus",
+    "summary": "Le savant de Cordoue dont les commentaires d'Aristote marquèrent la philosophie du Moyen Âge chrétien et juif.",
+    "text": "Ibn Rushd était issu d'une famille de juristes de Cordoue et devint lui-même grand juge à Séville et à Cordoue ainsi que médecin personnel des califes almohades. Outre un manuel de médecine, il rédigea des commentaires courts, moyens et grands sur les œuvres d'Aristote, dans lesquels il débarrassait sa doctrine des ajouts postérieurs, et défendit la philosophie comme un devoir du croyant qui pense. En 1195, il fut accusé à cause de ces vues et banni à Lucena, mais réhabilité peu avant sa mort, en 1198 à Marrakech. En Europe, il fut si influent sous le nom d'Averroès que l'Église interdit en 1277 à Paris les doctrines de ses partisans ; le philosophe juif Maïmonide et Thomas d'Aquin s'appuyèrent sur ses écrits.",
+    "tags": [
+      "philosophie",
+      "aristote",
+      "al-andalus",
+      "médecine",
+      "droit"
+    ]
+  },
+  {
+    "id": "rumi",
+    "name": "Djalal ad-Din Roumi",
+    "born": 1207,
+    "died": 1273,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "naher-osten",
+    "role": "poète persan et mystique soufi",
+    "summary": "Le mystique de Konya, dont les poèmes sur l'amour de Dieu comptent parmi les œuvres les plus lues de la littérature mondiale.",
+    "text": "Roumi naquit en 1207 à Balkh, dans l'actuel Afghanistan ; sa famille fuit les Mongols vers l'ouest et s'établit vers 1228 à Konya, capitale des Seldjoukides de Roum, dont il reçut son surnom. Il y exerça comme juriste et prédicateur, jusqu'à ce que la rencontre, en 1244, du derviche errant Shams de Tabriz fasse de lui un poète et un mystique. Son œuvre principale, le Masnavi, avec environ 25 000 distiques, unit récits, interprétation du Coran et enseignements du soufisme ; s'y ajoutent des milliers de poèmes sur le désir de Dieu qu'éprouve l'âme. Du cercle de ses disciples naquit l'ordre des Mevlevis, dont les derviches honorent Dieu par leur danse tournoyante ; son tombeau à Konya est aujourd'hui encore un lieu de pèlerinage.",
+    "tags": [
+      "soufisme",
+      "poésie",
+      "konya",
+      "persan",
+      "mystique"
+    ]
+  },
+  {
+    "id": "timur",
+    "name": "Timour (Tamerlan)",
+    "born": 1336,
+    "died": 1405,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "asien",
+    "role": "conquérant d'Asie centrale",
+    "summary": "Le souverain de Samarcande qui répandit la terreur par des campagnes allant de l'Inde à l'Anatolie tout en entretenant une cour fastueuse.",
+    "text": "Timour naquit en 1336 près de Kech, au sud de Samarcande, dans une tribu turco-mongole ; une blessure le rendit boiteux, d'où les noms de Timour Lang et Tamerlan. N'étant pas descendant de Gengis Khan, il régna formellement au nom de khans mongols fantoches, mais se considérait comme le restaurateur de l'Empire mongol et le défenseur de l'islam. De 1370 jusqu'à sa mort, il mena des campagnes en Perse, en Russie, en Inde, en Syrie et en Anatolie, d'une cruauté extraordinaire envers les villes qui résistaient. À Samarcande, il fit édifier des monuments somptueux comme la mosquée Bibi Khanoum, et il reçut en 1401, devant Damas, l'historien Ibn Khaldoun pour de longs entretiens. Ses descendants, les Timourides, firent de Samarcande et de Hérat, au XVe siècle, des centres d'astronomie, de peinture et de poésie.",
+    "tags": [
+      "conquérant",
+      "samarcande",
+      "asie centrale",
+      "timourides"
+    ]
+  },
+  {
+    "id": "ibn-chaldun",
+    "name": "Ibn Khaldoun",
+    "born": 1332,
+    "died": 1406,
+    "approx": false,
+    "epochId": "islamische-welt",
+    "regionId": "afrika",
+    "role": "historien, homme d'État et fondateur des sciences sociales",
+    "summary": "Le savant de Tunis qui, dans sa Muqaddima, étudia le premier les lois de l'ascension et du déclin des empires.",
+    "text": "Ibn Khaldoun était issu d'une famille de savants chassée de Séville et naquit en 1332 à Tunis. Comme secrétaire, envoyé et ministre, il servit des souverains successifs en Afrique du Nord et à Grenade, fut plusieurs fois emprisonné et se retira en 1375 dans un château d'Algérie, où il écrivit la Muqaddima, l'introduction à son histoire universelle. Il y expliquait le changement des empires par la cohésion des groupes, l'asabiyya : des tribus nomades à fort esprit de communauté conquièrent des villes amollies, y perdent elles-mêmes leur vigueur en quelques générations et sont remplacées par de nouveaux conquérants. À partir de 1382, il vécut au Caire comme juge et professeur à al-Azhar ; en 1401, il négocia avec Timour devant Damas assiégée. Son étude de l'économie, du climat, du pouvoir et de la société passe aujourd'hui pour une anticipation de la sociologie et de la science historique.",
+    "tags": [
+      "historiographie",
+      "sociologie",
+      "tunis",
+      "le caire",
+      "science"
+    ]
+  },
+  {
+    "id": "konrad-adenauer",
+    "name": "Konrad Adenauer",
+    "born": 1876,
+    "died": 1967,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "role": "premier chancelier fédéral de la République fédérale d'Allemagne",
+    "summary": "Il arrima solidement la jeune République fédérale à l'Ouest et posa les bases de la prospérité, de la souveraineté et de la réconciliation avec la France.",
+    "text": "Adenauer fut de 1917 à 1933 bourgmestre de Cologne, fut destitué par les nationaux-socialistes et arrêté par moments. En 1949, à 73 ans, il fut élu premier chancelier fédéral à une voix de majorité et gouverna 14 ans. Contre de vives résistances, il imposa l'ancrage à l'Ouest : adhésion à la Communauté du charbon et de l'acier puis, en 1955, à l'OTAN, réarmement, réparations envers Israël et, en 1963, traité de l'Élysée avec la France ; en 1955, il obtint à Moscou la libération des derniers prisonniers de guerre allemands. Ses détracteurs lui reprochèrent d'avoir sacrifié la réunification à la liberté de l'Ouest et toléré d'anciens nazis dans l'administration. Les Allemands le réélurent pourtant trois fois ; il démissionna en 1963.",
+    "tags": [
+      "chancelier fédéral",
+      "ancrage à l'ouest",
+      "république fédérale",
+      "cdu"
+    ]
+  },
+  {
+    "id": "nikita-chruschtschow",
+    "name": "Nikita Khrouchtchev",
+    "born": 1894,
+    "died": 1971,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "role": "chef du parti et chef du gouvernement soviétiques",
+    "summary": "Il régla leurs comptes aux crimes de Staline, envoya Spoutnik dans l'espace et fit face à Kennedy lors de la crise de Cuba.",
+    "text": "Fils d'un mineur, il s'éleva sous Staline jusqu'aux postes de chef du parti pour l'Ukraine et pour Moscou et l'emporta dans la lutte pour le pouvoir après la mort de Staline, en 1953. Dans un discours secret au congrès du parti de 1956, il condamna la terreur et le culte de la personnalité de Staline et libéra des millions de détenus, mais fit écraser la même année l'insurrection hongroise sous les chars. Sa politique de coexistence pacifique alternait avec les menaces : il lança en 1958 un ultimatum au sujet de Berlin, approuva en 1961 la construction du Mur et installa en 1962 des missiles à Cuba, qu'il retira au bout de treize jours. Avec Spoutnik et Gagarine, il procura du prestige à l'Union soviétique ; avec des réformes agraires manquées, des ennuis. En 1964, le Politburo le destitua ; il mourut retraité à Moscou.",
+    "tags": [
+      "union soviétique",
+      "déstalinisation",
+      "crise de cuba",
+      "conquête spatiale"
+    ]
+  },
+  {
+    "id": "martin-luther-king",
+    "name": "Martin Luther King",
+    "born": 1929,
+    "died": 1968,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "amerika",
+    "role": "pasteur baptiste et chef du mouvement américain des droits civiques",
+    "summary": "Il mena la lutte non violente contre la ségrégation raciale aux États-Unis et prononça en 1963 le discours I Have a Dream.",
+    "text": "King grandit à Atlanta dans une famille de pasteurs et devint, à la faveur du boycott des bus de Montgomery en 1955, la voix du mouvement noir des droits civiques. À l'exemple de Gandhi, il misa sur les marches, les sit-in et la désobéissance civile ; les arrestations, les attentats à la bombe contre sa maison et la surveillance du FBI ne l'arrêtèrent pas. Devant 250 000 personnes, il évoqua lors de la marche sur Washington en 1963 son rêve d'un pays où les êtres humains ne seraient pas jugés sur la couleur de leur peau ; en 1964, à 35 ans, il reçut le prix Nobel de la paix, et les lois sur les droits civiques et le droit de vote de 1964 et 1965 mirent fin à la discrimination légale. Il lutta en dernier lieu contre la pauvreté et la guerre du Vietnam. Le 4 avril 1968, il fut abattu à Memphis.",
+    "tags": [
+      "droits civiques",
+      "états-unis",
+      "non-violence",
+      "prix nobel"
+    ]
+  },
+  {
+    "id": "rosa-parks",
+    "name": "Rosa Parks",
+    "born": 1913,
+    "died": 2005,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "amerika",
+    "role": "militante des droits civiques aux États-Unis",
+    "summary": "Son refus de céder sa place à un Blanc dans un bus déclencha en 1955 le boycott des bus de Montgomery.",
+    "text": "Rosa Parks travaillait comme couturière à Montgomery, en Alabama, et était depuis 1943 secrétaire de la section locale de l'organisation de défense des droits civiques NAACP, pour laquelle elle documentait des cas de violence contre des Noirs. Le 1er décembre 1955, elle refusa de laisser sa place assise à un passager blanc, fut arrêtée et condamnée à une amende ; sa fermeté donna le signal du boycott, qui fit tomber la ségrégation dans les bus. Elle perdit son emploi, reçut des menaces de mort et s'installa en 1957 à Detroit, où elle travailla des décennies durant pour un élu et continua de militer pour les droits civiques. Le Congrès lui décerna en 1999 sa plus haute distinction ; après sa mort, elle fut la première femme exposée en chapelle ardente au Capitole.",
+    "tags": [
+      "droits civiques",
+      "états-unis",
+      "femmes",
+      "ségrégation raciale"
+    ]
+  },
+  {
+    "id": "ho-chi-minh",
+    "name": "Hô Chi Minh",
+    "born": 1890,
+    "died": 1969,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "role": "fondateur et président de la République démocratique du Vietnam",
+    "summary": "Il mena le Vietnam dans la lutte pour l'indépendance contre la France et dans la guerre contre les États-Unis.",
+    "text": "Fils d'un lettré, il quitta en 1911 la colonie française d'Indochine comme cuisinier de bord, vécut à Londres, Paris, Moscou et en Chine et fut en 1920 l'un des fondateurs du Parti communiste français. En 1941, il fonda le mouvement d'indépendance Viet Minh, proclama le 2 septembre 1945 à Hanoï la République démocratique du Vietnam et mena la guerre contre la France, qui s'acheva en 1954 par la victoire de Diên Biên Phu et la partition du pays. Président du Nord-Vietnam, il soutint la guérilla du Sud et refusa, dans la guerre contre les États-Unis, tout compromis qui aurait renoncé à l'unité du Vietnam. Il mourut en 1969, six ans avant la victoire ; la capitale conquise, Saïgon, reçut son nom en 1976.",
+    "tags": [
+      "vietnam",
+      "communisme",
+      "décolonisation",
+      "indépendance"
+    ]
+  },
+  {
+    "id": "deng-xiaoping",
+    "name": "Deng Xiaoping",
+    "born": 1904,
+    "died": 1997,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "asien",
+    "role": "réformateur et dirigeant de fait de la République populaire de Chine",
+    "summary": "Il ouvrit la Chine à l'économie de marché à partir de 1978 et en fit une puissance économique montante, mais fit écraser le mouvement démocratique en 1989.",
+    "text": "Deng découvrit le communisme en France, où il était étudiant-ouvrier, prit part à la Longue Marche et devint l'un des plus proches collaborateurs de Mao. Pendant la Révolution culturelle, il fut deux fois écarté du pouvoir et envoyé travailler dans une usine de tracteurs. Après la mort de Mao, il s'imposa en 1978 et engagea la politique de réforme et d'ouverture : les paysans purent de nouveau produire pour le marché, des zones économiques spéciales comme Shenzhen attirèrent les capitaux étrangers, des étudiants partirent à l'étranger ; par la formule selon laquelle peu importe qu'un chat soit noir ou blanc pourvu qu'il attrape les souris, il justifia son pragmatisme. En 1984, il convint avec Margaret Thatcher de la rétrocession de Hong Kong. Il refusa la liberté politique et fit mettre fin aux manifestations de la place Tian'anmen avec des chars en juin 1989. Sa ligne fit de la Chine, en une génération, la deuxième économie du monde.",
+    "tags": [
+      "chine",
+      "réforme",
+      "économie de marché",
+      "tian'anmen"
+    ]
+  },
+  {
+    "id": "tim-berners-lee",
+    "name": "Tim Berners-Lee",
+    "born": 1955,
+    "died": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "role": "informaticien britannique et inventeur du World Wide Web",
+    "summary": "Il mit au point le World Wide Web au CERN et renonça aux brevets afin qu'il soit ouvert à tous.",
+    "text": "Berners-Lee, fils de deux pionniers de l'informatique, étudia la physique à Oxford et travailla comme développeur de logiciels au centre européen de recherche CERN. Pour relier les documents dispersés des physiciens, il proposa en 1989 un système d'hyperliens et écrivit en 1990 le premier navigateur et le premier serveur web, ainsi que les fondements que sont HTML, HTTP et URL. Il obtint que le CERN libère la technique sans redevance en 1993 et fonda en 1994 le World Wide Web Consortium, qui définit aujourd'hui encore des normes ouvertes. Pour son invention, il fut anobli en 2004 et distingué en 2016 par le prix Turing. Depuis des années, il met en garde contre la puissance des grandes plateformes et milite pour la protection des données personnelles et pour un réseau ouvert.",
+    "tags": [
+      "internet",
+      "informatique",
+      "inventeur",
+      "cern"
+    ]
+  },
+  {
+    "id": "angela-merkel",
+    "name": "Angela Merkel",
+    "born": 1954,
+    "died": null,
+    "approx": false,
+    "epochId": "kalter-krieg-gegenwart",
+    "regionId": "europa",
+    "role": "première chancelière fédérale de la République fédérale d'Allemagne",
+    "summary": "Elle conduisit l'Allemagne de 2005 à 2021 à travers les crises financière, de l'euro, des réfugiés et du coronavirus et marqua la politique européenne.",
+    "text": "Angela Merkel grandit en RDA comme fille de pasteur, soutint une thèse de physique et n'entra en politique qu'avec la révolution pacifique de 1989. Sous Helmut Kohl, elle devint ministre, puis présidente de la CDU en 2000 et, le 22 novembre 2005, la première femme chancelière fédérale. En seize années de mandat, elle sauva pendant la crise financière et la crise de l'euro des banques et des États de la zone euro à coups de milliards, décida après Fukushima, en 2011, la sortie du nucléaire et ouvrit en 2015 les frontières à des centaines de milliers de réfugiés avec ces mots, Wir schaffen das, nous y arriverons, ce qui lui valut admiration et critiques acerbes en Allemagne comme à l'étranger. Pendant la pandémie de coronavirus, elle expliqua la situation aux citoyens dans des allocutions télévisées. Sa politique à l'égard de la Russie, surtout la dépendance au gaz russe, fut vivement remise en question après l'attaque contre l'Ukraine en 2022.",
+    "tags": [
+      "chancelière fédérale",
+      "europe",
+      "femmes",
+      "cdu"
+    ]
+  },
+  {
+    "id": "justinian-i",
+    "name": "Justinien Ier",
+    "born": 482,
+    "died": 565,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "empereur romain d'Orient",
+    "summary": "L'empereur byzantin qui codifia le droit romain, bâtit Sainte-Sophie et tenta de reconquérir l'Occident.",
+    "text": "Justinien était issu d'une famille paysanne des Balkans et succéda en 527 à son oncle Justin sur le trône. Il se voyait comme le restaurateur de l'Empire romain : ses généraux conquirent le royaume vandale d'Afrique du Nord et le royaume ostrogoth d'Italie, sa commission de juristes dirigée par Tribonien rassembla tout le droit romain dans le Corpus Iuris Civilis, et son programme de constructions culmina avec Sainte-Sophie. Il ne survécut à la sédition Nika de 532 que grâce à la détermination de sa femme Théodora. Ses guerres et une vague de peste à partir de 541 épuisèrent l'Empire, qui reperdit bientôt la plupart de ses conquêtes.",
+    "tags": [
+      "byzance",
+      "droit romain",
+      "empereur",
+      "sainte-sophie"
+    ]
+  },
+  {
+    "id": "theodora",
+    "name": "Théodora",
+    "born": 500,
+    "died": 548,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "impératrice romaine d'Orient",
+    "summary": "L'actrice devenue la femme la plus puissante de Byzance, qui renforça les droits des femmes.",
+    "text": "Théodora était la fille d'un gardien d'ours du cirque de Constantinople et se produisit comme actrice, métier qui excluait alors socialement les femmes. Justinien fit modifier une loi exprès pour pouvoir l'épouser en 525 et l'éleva au rang de co-souveraine. Quand, en 532, la sédition Nika menaça le palais et que l'empereur voulut fuir, elle déclara, selon le récit de Procope, que la pourpre est un beau linceul, et le décida à rester. Elle fit adopter des lois contre la prostitution forcée et en faveur des femmes divorcées, et protégea les monophysites persécutés dans l'est de l'Empire. Son portrait en mosaïque à Saint-Vital de Ravenne compte parmi les œuvres d'art les plus célèbres de l'époque.",
+    "tags": [
+      "byzance",
+      "impératrice",
+      "femmes",
+      "ravenne"
+    ]
+  },
+  {
+    "id": "otto-i",
+    "name": "Otton Ier le Grand",
+    "born": 912,
+    "died": 973,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "roi de Francie orientale et empereur",
+    "summary": "Le vainqueur du Lechfeld, dont le couronnement impérial en 962 marque le début du Saint-Empire romain germanique.",
+    "text": "Otton fut couronné roi à Aix-la-Chapelle en 936 et s'imposa au terme de longues années de luttes contre des ducs révoltés et ses propres parents. Il lia étroitement à la Couronne les évêques et les abbayes d'Empire, les dota de terres et de droits régaliens et en fit le soutien de son pouvoir. Après la victoire sur les Hongrois en 955 et la fondation de l'archevêché de Magdebourg comme point de départ de la mission auprès des Slaves, il gagna l'Italie et reçut la couronne impériale en 962. Sa seconde épouse Adélaïde et son frère Brunon, archevêque de Cologne, furent d'importants co-régents ; son tombeau se trouve dans la cathédrale de Magdebourg.",
+    "tags": [
+      "ottoniens",
+      "empereur",
+      "lechfeld",
+      "magdebourg"
+    ]
+  },
+  {
+    "id": "thomas-von-aquin",
+    "name": "Thomas d'Aquin",
+    "born": 1225,
+    "died": 1274,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "théologien et philosophe",
+    "summary": "Le dominicain qui chercha à unir la foi et la raison dans sa Somme théologique et porta la scolastique à son sommet.",
+    "text": "Thomas était issu d'une famille noble des environs d'Aquino, en Italie du Sud, et entra contre la volonté des siens dans l'ordre mendiant des dominicains. Il étudia auprès d'Albert le Grand à Cologne et à Paris, où il enseigna lui-même plus tard, et composa en deux décennies seulement une œuvre immense, dont des commentaires d'Aristote et la Somme théologique, restée inachevée. À la différence de beaucoup de ses contemporains, il tenait la philosophie d'Aristote, parvenue en Europe par Averroès et Avicenne, pour compatible avec la foi chrétienne, car la raison et la révélation venaient pour lui de la même source. Il mourut en 1274 sur le chemin du concile de Lyon ; il fut canonisé en 1323 et sa doctrine devint le fondement de la théologie catholique.",
+    "tags": [
+      "scolastique",
+      "théologie",
+      "aristote",
+      "dominicains"
+    ]
+  },
+  {
+    "id": "eleonore-von-aquitanien",
+    "name": "Aliénor d'Aquitaine",
+    "born": 1122,
+    "died": 1204,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "duchesse d'Aquitaine, reine de France et d'Angleterre",
+    "summary": "La femme la plus puissante du XIIe siècle, qui épousa deux rois, accompagna une croisade et favorisa la culture courtoise.",
+    "text": "Héritière de l'immense duché d'Aquitaine, Aliénor épousa en 1137 le roi de France Louis VII et l'accompagna en 1147 à la deuxième croisade. Après l'annulation de ce mariage en 1152, elle s'unit à Henri Plantagenêt, qui devint deux ans plus tard roi d'Angleterre sous le nom d'Henri II ; leurs possessions communes s'étendaient de l'Écosse aux Pyrénées. À sa cour de Poitiers, la poésie des troubadours connut son épanouissement. Parce qu'elle soutint ses fils lors d'une révolte contre leur père, Henri la tint quinze ans en captivité ; après la mort de celui-ci, elle gouverna pour son fils Richard Cœur de Lion et réunit la rançon de sa captivité. Elle mourut très âgée à l'abbaye de Fontevraud.",
+    "tags": [
+      "femmes",
+      "plantagenêt",
+      "troubadours",
+      "croisade"
+    ]
+  },
+  {
+    "id": "friedrich-ii-staufer",
+    "name": "Frédéric II (Hohenstaufen)",
+    "born": 1194,
+    "died": 1250,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "empereur romain germanique et roi de Sicile",
+    "summary": "L'empereur Hohenstaufen cultivé que ses contemporains appelaient la stupeur du monde et qui reprit Jérusalem sans coup férir.",
+    "text": "Frédéric grandit orphelin en Sicile, où se rencontraient les cultures arabe, grecque, juive et latine, et parlait plusieurs langues. Couronné empereur en 1220, il fit de la Sicile, avec les constitutions de Melfi de 1231, un État étroitement administré et fonda en 1224 l'université de Naples. Lors de sa croisade de 1228, il obtint Jérusalem par un traité avec le sultan al-Kamil, bien que le pape l'eût excommunié. Il rédigea un traité de fauconnerie fondé sur ses propres observations et favorisa poètes et savants. Sa lutte de plusieurs décennies avec les papes ne s'acheva qu'à sa mort, en 1250 ; quelques années plus tard, la maison de Hohenstaufen s'éteignit.",
+    "tags": [
+      "hohenstaufen",
+      "empereur",
+      "sicile",
+      "croisade"
+    ]
+  },
+  {
+    "id": "pachacutec",
+    "name": "Pachacútec",
+    "born": null,
+    "died": 1471,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "amerika",
+    "role": "souverain des Incas",
+    "summary": "Le neuvième Inca, qui fit de la cité-État de Cusco un empire et en marqua l'administration, les routes et les monuments.",
+    "text": "Sur Pachacútec, seules des traditions orales, consignées par des chroniqueurs espagnols au XVIe siècle, nous renseignent. Selon celles-ci, il sauva Cusco des Chancas alors qu'il était jeune prince, écarta du pouvoir son père Viracocha et régna d'environ 1438 à 1471. Il organisa les terres conquises en provinces, déplaça des populations, institua le culte du Soleil comme religion d'empire et fit redessiner Cusco en forme de puma, avec le temple du Soleil Coricancha. Terrasses, canaux et routes nourrirent la population croissante, et on lui attribue le domaine royal de Machu Picchu. Son fils Túpac Yupanqui poursuivit les conquêtes.",
+    "tags": [
+      "incas",
+      "cusco",
+      "amérique",
+      "souverain"
+    ]
+  },
+  {
+    "id": "michelangelo",
+    "name": "Michel-Ange Buonarroti",
+    "born": 1475,
+    "died": 1564,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "sculpteur, peintre, architecte et poète",
+    "summary": "Le créateur du David, du plafond de la Sixtine et de la coupole de Saint-Pierre, qui incarne la haute Renaissance comme nul autre.",
+    "text": "Michel-Ange grandit à Florence et fut soutenu adolescent dans la maison de Laurent de Médicis. Avec la Pietà de Saint-Pierre et le David, il était célèbre avant même sa trentième année ; entre 1508 et 1512, il peignit sur commande du pape Jules II le plafond de la chapelle Sixtine avec plus de 300 figures, bien qu'il se considérât avant tout comme sculpteur. Plus tard, il créa le Jugement dernier sur le mur de l'autel, conçut la chapelle des Médicis et dirigea à partir de 1547 la construction de la basilique Saint-Pierre, dont il dessina la coupole. Il travailla presque jusqu'à sa mort, à près de 89 ans.",
+    "tags": [
+      "art",
+      "sculpture",
+      "rome",
+      "florence"
+    ]
+  },
+  {
+    "id": "erasmus-von-rotterdam",
+    "name": "Érasme de Rotterdam",
+    "born": 1466,
+    "died": 1536,
+    "approx": true,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "humaniste, théologien et philologue",
+    "summary": "Le plus célèbre savant de son temps, qui voulait réformer l'Église par la raillerie et le savoir, mais refusa la rupture.",
+    "text": "Né enfant illégitime d'un prêtre, Érasme entra dans un monastère, le quitta et vécut en savant indépendant à Paris, en Angleterre, en Italie et à Bâle. Son Éloge de la folie, de 1511, raillait les moines, les théologiens et les papes ; son Nouveau Testament grec, de 1516, posa les bases des traductions bibliques de la Réforme. Bien que beaucoup aient vu en lui un précurseur de Luther, il rompit avec celui-ci en 1524 dans son écrit sur le libre arbitre, car il avait horreur de la querelle et de la violence. Il passe aujourd'hui encore pour un penseur précurseur de la tolérance et de la culture européenne.",
+    "tags": [
+      "humanisme",
+      "savant",
+      "bâle"
+    ]
+  },
+  {
+    "id": "johannes-calvin",
+    "name": "Jean Calvin",
+    "born": 1509,
+    "died": 1564,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "réformateur à Genève",
+    "summary": "Le réformateur français dont la doctrine rigoureuse et la discipline ecclésiastique marquèrent le protestantisme en Europe occidentale et en Amérique du Nord.",
+    "text": "Calvin étudia le droit et la théologie en France, dut fuir comme partisan de la Réforme et publia en 1536 à Bâle l'Institution, exposé systématique de sa doctrine. À partir de 1541, il fit de Genève une ville où l'Église et le Conseil veillaient ensemble sur la foi et la conduite de vie ; les cultes, les écoles et la discipline des mœurs furent strictement réglés, et son adversaire Michel Servet fut brûlé comme hérétique en 1553. Le cœur de sa théologie était la doctrine de la prédestination, selon laquelle Dieu a destiné l'homme au salut ou à la damnation. Huguenots, Néerlandais, Écossais et puritains portèrent sa doctrine dans le monde.",
+    "tags": [
+      "réforme",
+      "genève",
+      "calvinisme"
+    ]
+  },
+  {
+    "id": "ignatius-von-loyola",
+    "name": "Ignace de Loyola",
+    "born": 1491,
+    "died": 1556,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "fondateur de l'ordre des jésuites",
+    "summary": "Le noble et soldat basque qui, après une blessure, devint fondateur d'ordre et mena le renouveau catholique.",
+    "text": "Lors de la défense de Pampelune, en 1521, un boulet de canon fracassa la jambe d'Ignace ; pendant sa convalescence, il lut des vies de saints et résolut de consacrer sa vie à Dieu. Il étudia à Paris, où il prononça en 1534 un vœu avec six compagnons, et obtint en 1540 du pape Paul III la confirmation de la Compagnie de Jésus. Les jésuites s'engagèrent à une obéissance stricte envers le pape, fondèrent d'excellents collèges et universités et évangélisèrent du Brésil au Japon et à la Chine. Ses Exercices spirituels, méthode de prière et d'examen de soi, sont pratiqués aujourd'hui encore.",
+    "tags": [
+      "jésuites",
+      "contre-réforme",
+      "ordre religieux"
+    ]
+  },
+  {
+    "id": "sueleyman-der-praechtige",
+    "name": "Soliman le Magnifique",
+    "born": 1494,
+    "died": 1566,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "naher-osten",
+    "role": "sultan de l'Empire ottoman",
+    "summary": "Le sultan sous lequel l'Empire ottoman atteignit sa plus grande puissance et s'avança jusqu'aux portes de Vienne.",
+    "text": "Soliman régna de 1520 à 1566 et conquit Belgrade, Rhodes, une grande partie de la Hongrie après la bataille de Mohács en 1526, ainsi que Bagdad ; en 1529, il assiégea Vienne en vain. Ses flottes dominaient la Méditerranée orientale, et son alliance avec la France contre Charles Quint fit de lui un acteur de la politique européenne. Dans son propre empire, on l'appelait le Législateur, parce qu'il réorganisa l'administration, l'impôt et le droit ; son architecte Sinan édifia la mosquée Süleymaniye à Istanbul. Son épouse Hürrem, une ancienne esclave, acquit une grande influence politique.",
+    "tags": [
+      "empire ottoman",
+      "sultan",
+      "istanbul"
+    ]
+  },
+  {
+    "id": "akbar",
+    "name": "Akbar",
+    "born": 1542,
+    "died": 1605,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "asien",
+    "role": "Grand Moghol de l'Inde",
+    "summary": "Le plus grand souverain de l'Empire moghol, qui unifia l'Inde et créa une cour tolérante en matière de religion.",
+    "text": "Akbar, petit-fils de Babur, monta sur le trône en 1556 à treize ans et régna près de cinquante ans. Bien qu'il n'ait lui-même jamais appris à lire, il se faisait lire des livres, réunit une bibliothèque de milliers de manuscrits et encouragea la peinture, la musique et l'architecture. Dans sa maison de la prière, il débattait avec des savants de toutes les religions et tenta de surmonter les oppositions par une religion de cour propre. Son empire couvrait à la fin la plus grande partie du sous-continent indien et était plus riche que n'importe quel État d'Europe.",
+    "tags": [
+      "inde",
+      "empire moghol",
+      "souverain"
+    ]
+  },
+  {
+    "id": "isabella-von-kastilien",
+    "name": "Isabelle de Castille",
+    "born": 1451,
+    "died": 1504,
+    "approx": false,
+    "epochId": "renaissance-entdeckungen",
+    "regionId": "europa",
+    "role": "reine de Castille",
+    "summary": "La reine qui, avec son mari Ferdinand, unifia l'Espagne, conquit Grenade et finança le voyage de Christophe Colomb.",
+    "text": "Isabelle s'imposa en 1474 comme reine de Castille au terme d'une guerre de succession et gouverna avec son mari Ferdinand d'Aragon, avec qui elle unit les deux plus grands royaumes de la péninsule Ibérique. En 1492, les Rois Catholiques achevèrent la Reconquista par la prise de Grenade, chassèrent la même année les juifs d'Espagne et s'appuyèrent sur l'Inquisition, fondée en 1478. Toujours en 1492, Isabelle donna à Colomb les moyens de son voyage vers l'ouest et assura ainsi à l'Espagne l'accès à l'Amérique. Elle ordonna que la population indigène ne fût pas réduite en esclavage, ce qui n'eut guère d'effet dans la pratique.",
+    "tags": [
+      "espagne",
+      "reconquista",
+      "reine"
+    ]
+  },
+  {
+    "id": "thomas-jefferson",
+    "name": "Thomas Jefferson",
+    "born": 1743,
+    "died": 1826,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "role": "rédacteur de la Déclaration d'indépendance et troisième président des États-Unis",
+    "summary": "Le propriétaire de plantation et homme des Lumières de Virginie qui formula les idéaux de la révolution américaine tout en possédant des esclaves.",
+    "text": "Jefferson, avocat et propriétaire terrien de Virginie, rédigea en 1776, à 33 ans, le projet de Déclaration d'indépendance, avec la phrase selon laquelle tous les hommes sont créés égaux. Envoyé à Paris, il vécut en 1789 le début de la Révolution française et conseilla La Fayette pour la Déclaration des droits de l'homme ; premier secrétaire d'État, puis président à partir de 1801, il défendit les droits des États fédérés et une Amérique de fermiers libres. En 1803, il acheta à la France le territoire de la Louisiane et doubla ainsi la superficie des États-Unis. Architecte, inventeur et fondateur de l'université de Virginie, homme de vaste culture, il posséda toute sa vie des esclaves, parmi lesquels Sally Hemings, dont il eut plusieurs enfants ; cette contradiction avec ses idéaux marque son image aujourd'hui encore. Il mourut le 4 juillet 1826, exactement cinquante ans après la Déclaration d'indépendance.",
+    "tags": [
+      "états-unis",
+      "président",
+      "déclaration d'indépendance",
+      "lumières"
+    ]
+  },
+  {
+    "id": "marie-antoinette",
+    "name": "Marie-Antoinette",
+    "born": 1755,
+    "died": 1793,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "reine de France",
+    "summary": "La fille de Marie-Thérèse qui, devenue reine, fut la cible de la haine contre la cour et mourut sous la guillotine en 1793.",
+    "text": "L'archiduchesse autrichienne fut mariée à 14 ans à l'héritier du trône de France afin de consolider l'alliance entre les Habsbourg et les Bourbons, et devint reine en 1774. Ses dépenses en toilettes, en fêtes et pour le domaine de Trianon, l'affaire du collier de 1785, dans laquelle elle fut impliquée sans faute de sa part, et des libelles qui la raillaient comme une étrangère dispendieuse en firent la femme la plus détestée de France ; la phrase qu'on lui attribue, selon laquelle le peuple n'aurait qu'à manger de la brioche, n'est pas attestée. Pendant la Révolution, elle poussa à la résistance le roi hésitant et organisa en 1791 la fuite manquée à Varennes ainsi que des contacts secrets avec l'Autriche. Après la chute de la monarchie, elle fut séparée de ses enfants, accusée de haute trahison devant le Tribunal révolutionnaire et exécutée le 16 octobre 1793.",
+    "tags": [
+      "reine",
+      "versailles",
+      "guillotine",
+      "femmes"
+    ]
+  },
+  {
+    "id": "lafayette",
+    "name": "Marquis de La Fayette",
+    "born": 1757,
+    "died": 1834,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "général et homme politique en Amérique et en France",
+    "summary": "Le héros des deux mondes, qui combattit jeune noble pour l'indépendance américaine et défendit en France une monarchie dotée d'une constitution.",
+    "text": "Le marquis, âgé de 19 ans, s'embarqua en 1777 pour l'Amérique contre la volonté de la cour, devint le plus proche confident du général Washington et contribua à la victoire de Yorktown. En 1789, il présenta à l'Assemblée nationale le premier projet de Déclaration des droits de l'homme, commanda la Garde nationale de Paris et créa avec le tricolore le drapeau de la Révolution. Partisan modéré d'une monarchie constitutionnelle, il se retrouva pris entre deux feux : les radicaux lui reprochaient de protéger le roi et, après la chute de la monarchie en 1792, il s'enfuit, mais tomba en captivité autrichienne, dont seul Napoléon le fit sortir en 1797. Sous Napoléon, il se retira, fit en 1824 un voyage triomphal à travers les États-Unis et aida en 1830 Louis-Philippe à monter sur le trône, l'enveloppant dans le tricolore au balcon de l'Hôtel de Ville.",
+    "tags": [
+      "garde nationale",
+      "guerre d'indépendance",
+      "droits de l'homme",
+      "tricolore"
+    ]
+  },
+  {
+    "id": "klemens-von-metternich",
+    "name": "Klemens von Metternich",
+    "born": 1773,
+    "died": 1859,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "ministre des Affaires étrangères et chancelier d'État autrichien",
+    "summary": "L'architecte de l'ordre de Vienne, qui chercha pendant quatre décennies à préserver l'Europe de la révolution, du libéralisme et du nationalisme.",
+    "text": "Metternich était issu d'une famille noble de Rhénanie qui fuit à Vienne devant les armées révolutionnaires françaises ; au service des Habsbourg, il devint ambassadeur à Paris, puis ministre des Affaires étrangères en 1809. Il négocia le mariage de Napoléon avec l'archiduchesse Marie-Louise, fit passer l'Autriche du côté des coalisés en 1813 et marqua le congrès de Vienne en visant un équilibre entre les grandes puissances. Après 1815, il organisa, par les décrets de Carlsbad, la Confédération germanique et les congrès de la Sainte-Alliance, la surveillance de la presse, des universités et des associations ; pour les libéraux, son nom devint le symbole même de l'oppression. La révolution de mars 1848 contraignit le chancelier d'État, âgé de 74 ans, à fuir en Angleterre ; il revint en 1851 et mourut en 1859 à Vienne.",
+    "tags": [
+      "restauration",
+      "congrès de vienne",
+      "autriche",
+      "sainte-alliance"
+    ]
+  },
+  {
+    "id": "miguel-hidalgo",
+    "name": "Miguel Hidalgo",
+    "born": 1753,
+    "died": 1811,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "amerika",
+    "role": "prêtre et chef du soulèvement pour l'indépendance du Mexique",
+    "summary": "Le père de la patrie mexicaine, dont le cri de Dolores déclencha en 1810 la lutte pour l'indépendance.",
+    "text": "Hidalgo, fils d'un régisseur de domaine, était un prêtre cultivé qui lisait Rousseau, encouragea dans sa paroisse de Dolores les ateliers et la viticulture et parlait aux paysans indigènes dans leur langue. Quand une conjuration contre la domination espagnole fut dénoncée, il sonna les cloches de l'église le 16 septembre 1810 et appela au soulèvement ; sous la bannière de la Vierge de Guadalupe, une armée pouvant atteindre 80 000 personnes le suivit, prit la ville de Guanajuato et commit des massacres d'Espagnols. Devant Mexico, il hésita, fut battu en janvier 1811 près de Guadalajara, capturé dans sa fuite vers le nord, dépouillé de sa charge par l'Église et fusillé le 30 juillet 1811 à Chihuahua. Son appel à l'abolition de l'esclavage et des tributs a fait de lui le héros national du Mexique.",
+    "tags": [
+      "mexique",
+      "indépendance",
+      "prêtre",
+      "amérique latine"
+    ]
+  },
+  {
+    "id": "freiherr-vom-stein",
+    "name": "Heinrich Friedrich Karl vom und zum Stein",
+    "born": 1757,
+    "died": 1831,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "ministre réformateur prussien",
+    "summary": "Le baron d'Empire qui engagea en 1807 les réformes prussiennes et devint en Allemagne l'adversaire le plus acharné de Napoléon.",
+    "text": "Stein était issu d'une famille de chevaliers d'Empire de Nassau et servit la Prusse comme fonctionnaire de l'administration à partir de 1780, en dernier lieu comme ministre ; en raison de ses critiques du système de cabinet, il fut congédié en janvier 1807. Après la défaite de Tilsit, le roi le rappela en octobre 1807 et, en l'espace d'un an, Stein fit adopter l'affranchissement des paysans, le règlement municipal et une réorganisation des ministères destinée à associer les citoyens à l'administration. Lorsqu'une lettre interceptée révéla son espoir d'un soulèvement contre la France, Napoléon exigea son renvoi à la fin de 1808 et le mit au ban ; Stein s'enfuit en Autriche, puis en 1812 en Russie, où il pressa le tsar Alexandre de faire la guerre à Napoléon. En 1813, il organisa l'administration des territoires libérés, réclama en vain un État-nation allemand et fonda en 1819 les Monumenta Germaniae Historica pour l'étude du Moyen Âge.",
+    "tags": [
+      "prusse",
+      "réformes",
+      "guerres de libération",
+      "administration"
+    ]
+  },
+  {
+    "id": "mary-wollstonecraft",
+    "name": "Mary Wollstonecraft",
+    "born": 1759,
+    "died": 1797,
+    "approx": false,
+    "epochId": "revolutionen",
+    "regionId": "europa",
+    "role": "écrivaine anglaise et pionnière des droits des femmes",
+    "summary": "L'auteure de la Défense des droits de la femme, qui réclama en 1792 la même éducation et les mêmes droits civiques pour les femmes.",
+    "text": "Mary Wollstonecraft grandit dans une famille appauvrie, auprès d'un père violent, travailla comme dame de compagnie, institutrice et gouvernante et vécut à partir de 1787 à Londres de traductions et d'écriture, ce qui était inhabituel pour une femme de son temps. En réponse à la Révolution française et à l'idée de Rousseau selon laquelle les femmes sont destinées à être élevées pour plaire aux hommes, elle publia en 1792 A Vindication of the Rights of Woman : les femmes ne paraissaient plus faibles et plus superficielles que parce qu'on leur refusait l'instruction ; elle réclamait des écoles mixtes, des métiers propres et une représentation politique. De 1792 à 1795, elle vécut à Paris la Terreur, eut une fille hors mariage et décrivit son voyage en Scandinavie. Elle mourut en 1797, quelques jours après la naissance de sa fille Mary, future auteure de Frankenstein. Son œuvre devint au XIXe siècle le fondement du mouvement des femmes.",
+    "tags": [
+      "droits des femmes",
+      "écrivaine",
+      "angleterre",
+      "lumières"
+    ]
+  },
+  {
+    "id": "spartacus",
+    "name": "Spartacus",
+    "born": -109,
+    "died": -71,
+    "approx": true,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "gladiateur et chef d'une révolte d'esclaves",
+    "summary": "Le gladiateur thrace qui mena de 73 à 71 av. J.-C. la plus grande révolte d'esclaves de l'Antiquité.",
+    "text": "Spartacus était originaire de Thrace, dans l'actuelle Bulgarie ; il servit probablement dans les troupes auxiliaires romaines et fut vendu comme prisonnier à l'école de gladiateurs de Capoue. En 73 av. J.-C., il s'enfuit avec environ 70 compagnons et prit la tête d'une armée d'esclaves et d'ouvriers agricoles qui grossit rapidement et battit plusieurs armées romaines ; les sources vantent son intelligence et son équité dans le partage du butin. Son but, franchir les Alpes et renvoyer les esclaves dans leur pays, échoua devant la volonté de ses partisans de continuer à piller l'Italie. En 71 av. J.-C., il tomba au combat contre Crassus ; son corps ne fut jamais retrouvé. Depuis le XVIIIe siècle, il est un symbole de la lutte pour la liberté.",
+    "tags": [
+      "gladiateur",
+      "esclavage",
+      "révolte",
+      "thrace"
+    ]
+  },
+  {
+    "id": "kleopatra-vii",
+    "name": "Cléopâtre VII",
+    "born": -69,
+    "died": -30,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "afrika",
+    "role": "reine d'Égypte",
+    "summary": "La dernière souveraine de l'Égypte ptolémaïque, qui s'unit à César puis à Antoine et dont la mort fit passer son pays sous domination romaine.",
+    "text": "Cléopâtre monta sur le trône à 18 ans et s'imposa face à son frère et co-régent en gagnant César à sa cause en 48 av. J.-C. ; leur fils commun, Césarion, devait assurer la dynastie. Très cultivée, elle fut la première des Ptolémées à parler l'égyptien, en plus de huit autres langues, et gouverna un pays riche mais dépendant de Rome. Après la mort de César, elle s'allia à Marc Antoine, dont elle eut trois enfants, et partagea avec lui la domination de l'Orient. Après la défaite d'Actium et l'entrée d'Octavien dans Alexandrie, elle se donna la mort en 30 av. J.-C., selon la légende par la morsure d'un serpent ; l'Égypte devint province romaine.",
+    "tags": [
+      "égypte",
+      "ptolémées",
+      "césar",
+      "antoine",
+      "femmes"
+    ]
+  },
+  {
+    "id": "livia",
+    "name": "Livie Drusilla",
+    "born": -58,
+    "died": 29,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "impératrice romaine",
+    "summary": "Épouse d'Auguste et mère de Tibère, elle fut pendant plus de cinq décennies la femme la plus puissante de Rome.",
+    "text": "Livie épousa en 38 av. J.-C. Octavien, qui l'enleva à son premier mari alors qu'elle était enceinte. En 52 années de mariage, elle devint la conseillère la plus proche d'Auguste, recevait des ambassades, administrait une grande fortune avec ses propres domaines et briqueteries et passait pour le modèle de la matrone romaine vertueuse, tissant elle-même les vêtements de l'empereur. En même temps, elle imposa comme successeur son fils Tibère, né d'un premier mariage ; les rumeurs selon lesquelles elle aurait empoisonné des rivaux ne sont pas prouvées, mais elles ont marqué son image jusqu'au roman de Robert Graves, Moi, Claude. Auguste l'adopta par testament sous le nom de Julia Augusta ; son petit-fils Claude la fit élever au rang de déesse en 42.",
+    "tags": [
+      "impératrice",
+      "auguste",
+      "tibère",
+      "femmes"
+    ]
+  },
+  {
+    "id": "nero",
+    "name": "Néron",
+    "born": 37,
+    "died": 68,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "empereur romain",
+    "summary": "Le dernier empereur de la maison d'Auguste, tristement célèbre pour le meurtre de sa mère, l'incendie de Rome et la première persécution des chrétiens.",
+    "text": "Néron devint empereur en 54, à 16 ans, après que sa mère Agrippine eut vraisemblablement empoisonné l'empereur Claude. Guidé par le philosophe Sénèque, il gouverna d'abord avec mesure, puis fit tuer sa mère en 59 et sa femme Octavie en 62. Lors du grand incendie de Rome de 64, qui ravagea dix des quatorze quartiers, on l'accusa d'avoir mis le feu ; il détourna les soupçons sur les chrétiens et les fit exécuter cruellement, et il éleva sur les ruines son immense palais, la Domus Aurea. Néron se produisait comme chanteur, poète et conducteur de char et fit une tournée en Grèce, ce qui indigna les sénateurs. Quand des gouverneurs et les prétoriens se soulevèrent, il se suicida en 68 avec ces mots : Quel artiste périt avec moi ; suivit l'année des quatre empereurs.",
+    "tags": [
+      "empereur",
+      "incendie de rome",
+      "persécution des chrétiens",
+      "dynastie julio-claudienne"
+    ]
+  },
+  {
+    "id": "trajan",
+    "name": "Trajan",
+    "born": 53,
+    "died": 117,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "empereur romain",
+    "summary": "Le meilleur empereur au jugement du Sénat, sous lequel l'Empire atteignit sa plus grande extension.",
+    "text": "Trajan naquit à Italica, près de Séville, en Espagne, premier empereur originaire d'une province, et fut adopté en 97 par Nerva, alors très âgé. Comme chef de guerre, il conquit la Dacie et marcha contre les Parthes jusqu'au golfe Persique. À Rome, il fit édifier avec le butin le forum de Trajan, avec ses halles de marché, ses bibliothèques et la colonne Trajane, construisit des ports, des routes et des aqueducs dans les provinces et créa avec les alimenta une fondation d'aide aux enfants pauvres d'Italie. Sa correspondance avec le gouverneur Pline montre à quel point il se souciait des détails de l'administration et qu'il ne fit pas poursuivre activement les chrétiens. Le Sénat lui décerna le titre d'Optimus Princeps, le meilleur des princes ; des siècles plus tard encore, on souhaitait aux nouveaux empereurs d'être plus heureux qu'Auguste et meilleurs que Trajan.",
+    "tags": [
+      "empereur",
+      "empereurs adoptifs",
+      "dacie",
+      "expansion"
+    ]
+  },
+  {
+    "id": "marc-aurel",
+    "name": "Marc Aurèle",
+    "born": 121,
+    "died": 180,
+    "approx": false,
+    "epochId": "rom",
+    "regionId": "europa",
+    "role": "empereur romain et philosophe",
+    "summary": "Le philosophe sur le trône impérial, qui combattit les Germains sur le Danube et écrivit ses Pensées.",
+    "text": "Marc Aurèle fut adopté par l'empereur Antonin le Pieux et lui succéda sur le trône en 161, d'abord conjointement avec Lucius Verus. Son règne fut marqué par les crises : une guerre contre les Parthes, une peste rapportée d'Orient qui tua des millions de personnes et, à partir de 166, les incursions des Marcomans et des Quades, qui poussèrent jusqu'en Italie du Nord, l'obligèrent à passer des années au camp, sur le Danube. C'est là qu'il écrivit en grec ses Pensées pour moi-même, notes d'un stoïcien sur le devoir, la fragilité des choses et la sérénité, qui comptent parmi les livres les plus lus de l'Antiquité. Il mourut en 180 à Vindobona, l'actuelle Vienne, ou à Sirmium ; avec son fils Commode prit fin l'époque des empereurs adoptifs. Sa statue équestre du Capitole est la seule conservée d'un empereur romain.",
+    "tags": [
+      "empereur",
+      "stoïcisme",
+      "philosophie",
+      "guerres marcomanes"
+    ]
+  },
+  {
+    "id": "hypatia",
+    "name": "Hypatie d'Alexandrie",
+    "born": 355,
+    "died": 415,
+    "approx": true,
+    "epochId": "rom",
+    "regionId": "afrika",
+    "role": "mathématicienne, astronome et philosophe",
+    "summary": "La plus célèbre savante de l'Antiquité tardive, qui enseigna à Alexandrie et fut assassinée par une foule chrétienne.",
+    "text": "Hypatie était la fille du mathématicien Théon, dernier savant connu du Musée d'Alexandrie, et surpassa son père au jugement de ses contemporains. Elle commenta les œuvres de Diophante et d'Apollonios ainsi que les tables de Ptolémée, construisit des astrolabes et enseigna la philosophie, à la tête d'une école néoplatonicienne, devant des païens et des chrétiens ; son élève Synésios devint évêque. Conseillère du préfet de la ville, Oreste, elle se trouva prise dans la lutte de pouvoir de celui-ci avec l'évêque Cyrille. En mars 415, une foule de fanatiques chrétiens l'arracha de sa voiture, la tua dans une église à coups de tessons et brûla son corps. Sa mort passe pour le symbole de la fin de la science antique et du conflit entre la foi et la raison.",
+    "tags": [
+      "science",
+      "alexandrie",
+      "femmes",
+      "antiquité tardive",
+      "mathématiques"
+    ]
+  },
+  {
+    "id": "homo-habilis",
+    "name": "Homo habilis",
+    "born": -2400000,
+    "died": -1600000,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "afrika",
+    "role": "espèce humaine ancienne (entrée collective)",
+    "summary": "L'homme habile, l'une des plus anciennes espèces du genre Homo, associée aux premiers outils de pierre.",
+    "text": "Homo habilis fut décrit en 1964 par Louis Leakey et ses collaborateurs à partir de découvertes faites dans la gorge d'Olduvai, en Tanzanie ; le nom signifie homme habile, parce qu'on lui attribuait les outils oldowayens. Il vécut il y a environ 2,4 à 1,6 million d'années en Afrique de l'Est, ne mesurait qu'environ 1,20 mètre et avait un cerveau à peu près deux fois plus petit que celui des humains actuels, mais nettement plus grand que celui des australopithèques. Savoir s'il fut un ancêtre direct d'Homo erectus ou un rameau latéral reste débattu dans la recherche.",
+    "tags": [
+      "espèce humaine",
+      "olduvai",
+      "outils de pierre",
+      "évolution"
+    ]
+  },
+  {
+    "id": "homo-erectus",
+    "name": "Homo erectus",
+    "born": -1900000,
+    "died": -110000,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "afrika",
+    "role": "espèce humaine ancienne (entrée collective)",
+    "summary": "La première espèce humaine à la corpulence proche de la nôtre, qui quitta l'Afrique, fabriqua des bifaces et utilisa le feu.",
+    "text": "Homo erectus, l'homme debout, apparut il y a un peu moins de deux millions d'années en Afrique. Avec de longues jambes, des bras courts et une taille atteignant 1,80 mètre, c'était un marcheur et un chasseur endurant. Le garçon de Turkana, au Kenya, squelette presque complet vieux de 1,6 million d'années, est son fossile le plus connu. Homo erectus mit au point le biface, maîtrisait le feu il y a 400 000 ans au plus tard et vécut en Afrique, en Europe et en Asie ; à Java, des groupes se maintinrent jusqu'à il y a environ 110 000 ans. C'est probablement de lui que sont issus les Néandertaliens, les hommes de Denisova et Homo sapiens.",
+    "tags": [
+      "espèce humaine",
+      "biface",
+      "feu",
+      "migration"
+    ]
+  },
+  {
+    "id": "denisova-mensch",
+    "name": "Homme de Denisova",
+    "born": -300000,
+    "died": -40000,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "asien",
+    "role": "espèce humaine disparue (entrée collective)",
+    "summary": "Espèce sœur des Néandertaliens, découverte en 2010 seulement par analyse de l'ADN, qui vivait en Asie.",
+    "text": "En 2010, des chercheurs de l'institut Max-Planck de Leipzig réussirent à extraire d'un minuscule os de doigt trouvé dans la grotte de Denisova, dans les monts Altaï, le patrimoine génétique d'une espèce humaine jusqu'alors inconnue. Les hommes de Denisova étaient apparentés aux Néandertaliens et vivaient en Sibérie, sur le plateau tibétain et vraisemblablement aussi en Asie du Sud-Est. Les fossiles sont rares : une mandibule venue du Tibet, quelques dents et quelques os. Leur patrimoine génétique subsiste pourtant, car les habitants actuels de Nouvelle-Guinée, d'Australie et d'une partie de l'Asie de l'Est portent jusqu'à cinq pour cent d'ADN dénisovien, dont une variante génétique qui facilite aux Tibétains la vie en haute altitude.",
+    "tags": [
+      "espèce humaine",
+      "adn",
+      "altaï",
+      "évolution"
+    ]
+  },
+  {
+    "id": "homo-floresiensis",
+    "name": "Homo floresiensis",
+    "born": -100000,
+    "died": -50000,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "asien",
+    "role": "espèce humaine disparue (entrée collective)",
+    "summary": "Le hobbit de Florès, une espèce humaine d'environ un mètre seulement, sur une île indonésienne.",
+    "text": "En 2003, des archéologues découvrirent dans la grotte de Liang Bua, sur l'île indonésienne de Florès, les restes d'humains qui ne mesuraient qu'environ 1,06 mètre et avaient un cerveau très petit. Ils fabriquaient pourtant des outils de pierre, chassaient des éléphants nains et utilisaient vraisemblablement le feu. L'espèce vécut d'il y a au moins 100 000 ans à il y a environ 50 000 ans et disparut à peu près au moment où Homo sapiens atteignit la région. Elle descend probablement d'Homo erectus ou d'une forme humaine plus ancienne encore, dont la taille diminua sur l'île par nanisme insulaire.",
+    "tags": [
+      "espèce humaine",
+      "florès",
+      "nanisme insulaire",
+      "indonésie"
+    ]
+  },
+  {
+    "id": "frau-von-pestera-muierii",
+    "name": "La femme de Peștera Muierii",
+    "born": -33000,
+    "died": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "europa",
+    "role": "fossile d'un Homo sapiens ancien en Europe",
+    "summary": "Un crâne de femme vieux d'environ 35 000 ans, trouvé en Roumanie, dont le patrimoine génétique éclaire les premiers hommes modernes d'Europe.",
+    "text": "Dans la grotte de Peștera Muierii, la grotte des Femmes, près de Baia de Fier en Roumanie, on découvrit en 1952 le crâne d'une femme qui vécut il y a environ 35 000 ans. Elle compte parmi les plus anciens hommes modernes connus d'Europe et vécut à une époque où des Néandertaliens peuplaient encore le continent. En 2021, le déchiffrement de son patrimoine génétique aboutit : il révèle une grande diversité génétique et une part néandertalienne d'environ trois pour cent. Cette étude établit que les premiers Européens n'étaient nullement un petit groupe génétiquement appauvri, comme on l'avait longtemps supposé.",
+    "tags": [
+      "fossile",
+      "homo sapiens",
+      "adn",
+      "roumanie"
+    ]
+  },
+  {
+    "id": "kennewick-mann",
+    "name": "L'homme de Kennewick",
+    "born": -7000,
+    "died": null,
+    "approx": true,
+    "epochId": "urgeschichte",
+    "regionId": "amerika",
+    "role": "squelette d'un habitant ancien de l'Amérique du Nord",
+    "summary": "Un squelette vieux d'environ 9 000 ans, trouvé dans l'État américain de Washington, autour duquel s'est engagé un long conflit entre la science et les tribus indigènes.",
+    "text": "En 1996, on découvrit sur la rive du fleuve Columbia, près de Kennewick, le squelette presque complet d'un homme mort il y a environ 8 900 ans à l'âge de quelque 40 ans. Il mesurait à peu près 1,70 mètre, portait dans le bassin une pointe de lance cicatrisée et vivait de poisson et de gibier. La question de savoir s'il devait être étudié scientifiquement ou inhumé selon les souhaits des tribus indigènes fit l'objet de procès pendant des années. En 2015, une analyse de l'ADN montra qu'il est étroitement apparenté aux populations indigènes actuelles de la région ; en 2017, celui que les tribus appellent l'Ancien fut inhumé solennellement.",
+    "tags": [
+      "fossile",
+      "amérique du nord",
+      "indigènes",
+      "adn"
+    ]
+  },
+  {
+    "id": "claus-von-stauffenberg",
+    "name": "Claus Schenk, comte von Stauffenberg",
+    "born": 1907,
+    "died": 1944,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "officier et cerveau de l'attentat du 20 juillet 1944",
+    "summary": "Grièvement mutilé de guerre, le colonel déposa la bombe au quartier général de Hitler et fut fusillé la nuit même.",
+    "text": "Stauffenberg était issu de la noblesse souabe, de formation catholique et marqué par le poète Stefan George. Jeune officier, il approuva une partie de la politique national-socialiste, mais les crimes commis contre les juifs et les civils en Pologne et en Union soviétique, ainsi que la catastrophe militaire prévisible, le conduisirent à la résistance. En avril 1943, il perdit en Tunisie, lors d'une attaque aérienne, un œil, la main droite et deux doigts de la gauche. Chef d'état-major auprès du commandant de l'armée de réserve, il eut à partir de 1944 accès aux conférences de situation de Hitler et se chargea lui-même de l'attentat, bien qu'il dût en même temps diriger le coup d'État à Berlin. Après l'échec, il fut fusillé peu après minuit dans la cour du Bendlerblock ; son dernier cri aurait été pour la sainte Allemagne.",
+    "tags": [
+      "résistance",
+      "attentat",
+      "wehrmacht",
+      "20 juillet"
+    ]
+  },
+  {
+    "id": "dietrich-bonhoeffer",
+    "name": "Dietrich Bonhoeffer",
+    "born": 1906,
+    "died": 1945,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "théologien protestant et résistant",
+    "summary": "Pasteur, il s'opposa au national-socialisme, rejoignit la conjuration contre Hitler et fut exécuté quelques semaines avant la fin de la guerre.",
+    "text": "Fils d'un psychiatre berlinois, il était déjà chargé de cours en théologie à 24 ans et fut en 1933 l'un des premiers à protester publiquement contre l'exclusion des juifs de l'Église. Il devint une figure de proue de l'Église confessante et dirigea son séminaire de prédication clandestin à Finkenwalde, jusqu'à ce que la Gestapo le ferme. En 1939, il quitta la sécurité des États-Unis pour rentrer en Allemagne, car il ne voulait avoir voix au chapitre après la guerre que s'il avait partagé les épreuves de son peuple. Par l'intermédiaire de son beau-frère Hans von Dohnanyi, il travailla pour l'Abwehr, le service de renseignement militaire, qui servait de couverture à la résistance, et aida des juifs à fuir en Suisse. Il fut arrêté en avril 1943 ; c'est en détention que naquirent les lettres devenues célèbres sous le titre Résistance et soumission. Après le 20 juillet, des documents découverts l'accablèrent lourdement, et le 9 avril 1945 il fut pendu au camp de concentration de Flossenbürg, sur l'ordre exprès de Hitler.",
+    "tags": [
+      "résistance",
+      "théologie",
+      "église confessante",
+      "église"
+    ]
+  },
+  {
+    "id": "oskar-schindler",
+    "name": "Oskar Schindler",
+    "born": 1908,
+    "died": 1974,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "entrepreneur et sauveur d'environ 1 200 juifs",
+    "summary": "Membre du NSDAP et profiteur de guerre, il sauva de la mort environ 1 200 travailleurs forcés juifs dans ses usines de Cracovie et de Brünnlitz.",
+    "text": "Schindler était originaire de Zwittau, en Moravie, adhéra au NSDAP en 1939 et reprit après l'attaque contre la Pologne une fabrique d'articles émaillés à Cracovie, où il employait des travailleurs forcés juifs parce qu'ils coûtaient moins cher. L'homme d'affaires devint un sauveur : par la corruption, l'alcool et de bonnes relations avec la SS, il obtint que ses ouvriers du camp de Płaszów, dirigé par le tristement célèbre commandant Amon Göth, soient considérés comme indispensables et épargnés par les déportations. Quand l'usine dut être déplacée en 1944, il fit dresser avec sa femme Emilie une liste d'environ 1 200 noms, qu'il emmena à Brünnlitz, en Moravie ; là, son entreprise produisit jusqu'à la fin de la guerre des munitions délibérément inutilisables, et Emilie Schindler soigna les détenus malades. Après la guerre, Schindler échoua en affaires en Argentine et en Allemagne et vécut du soutien de ceux qu'il avait sauvés. Yad Vashem l'honora comme Juste parmi les nations, il fut enterré à Jérusalem selon son souhait, et le film de Steven Spielberg La Liste de Schindler fit connaître son histoire dans le monde entier en 1993.",
+    "tags": [
+      "shoah",
+      "sauvetage",
+      "juste parmi les nations",
+      "travail forcé"
+    ]
+  },
+  {
+    "id": "charles-de-gaulle",
+    "name": "Charles de Gaulle",
+    "born": 1890,
+    "died": 1970,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "général français et chef de la France libre",
+    "summary": "Il appela en 1940 depuis Londres à poursuivre le combat, dirigea la France libre et fut plus tard le fondateur de la Ve République.",
+    "text": "Officier de carrière originaire de Lille, il avait plaidé en vain dans les années 1930 pour une arme blindée moderne et venait tout juste d'être nommé général et sous-secrétaire d'État, en juin 1940, lorsque le gouvernement chercha l'armistice. Il gagna Londres par avion et appela les Français, le 18 juin 1940, dans une allocution radiodiffusée sur la BBC, à poursuivre le combat, car la France avait perdu une bataille, mais non la guerre. À partir de quelques milliers de volontaires, il constitua les forces de la France libre, rallia à sa cause les colonies d'Afrique et unifia en 1943 sous son autorité la Résistance intérieure. En août 1944, il entra dans Paris à la tête des libérateurs et dirigea jusqu'en 1946 le gouvernement provisoire. En 1958, il revint au pouvoir à la faveur de la crise algérienne, créa la Ve République dotée d'un président fort et gouverna jusqu'en 1969 ; il scella en 1963, avec Konrad Adenauer, la réconciliation avec l'Allemagne.",
+    "tags": [
+      "france",
+      "résistance",
+      "france libre",
+      "président"
+    ]
+  },
+  {
+    "id": "erwin-rommel",
+    "name": "Erwin Rommel",
+    "born": 1891,
+    "died": 1944,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "maréchal et commandant de l'Afrikakorps",
+    "summary": "Le Renard du désert, célébré par la propagande nazie, fut contraint au suicide après le 20 juillet 1944.",
+    "text": "Wurtembergeois, Rommel s'était distingué pendant la Première Guerre mondiale comme officier intrépide et devint, grâce à son livre L'infanterie attaque et à son commandement du bataillon d'escorte de Hitler, un favori du dictateur. Lors de la campagne de France de 1940, il fit avancer la 7e division blindée si vite qu'on l'appela la division fantôme ; à partir de 1941, il commanda l'Afrikakorps et prit Tobrouk en 1942, ce qui lui valut d'être nommé le plus jeune maréchal. La propagande de Goebbels en fit un héros national, et les Britanniques eux-mêmes admiraient le Renard du désert. Après la défaite d'El-Alamein et le débarquement allié en Normandie, dont il devait organiser la défense, il perdit la foi en la victoire et fut en contact avec les conjurés du 20 juillet, sans participer lui-même à l'attentat. Quand son nom apparut dans les interrogatoires, Hitler le plaça en octobre 1944 devant le choix entre le Tribunal du peuple et le poison ; Rommel se donna la mort et eut des funérailles nationales, accompagnées du mensonge qu'il avait succombé à ses blessures. Les historiens le voient aujourd'hui de façon plus nuancée que le mythe du soldat honnête : ce fut un chef de troupe doué, qui servit le régime avec loyauté jusque tard.",
+    "tags": [
+      "wehrmacht",
+      "afrikakorps",
+      "afrique du nord",
+      "20 juillet"
+    ]
+  },
+  {
+    "id": "hirohito",
+    "name": "Hirohito",
+    "born": 1901,
+    "died": 1989,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "asien",
+    "role": "empereur du Japon",
+    "summary": "Tennô vénéré comme un dieu, il présida à la politique d'expansion du Japon et annonça lui-même la capitulation en 1945.",
+    "text": "Hirohito monta sur le trône en 1926 et donna à son règne le nom de Shôwa, paix éclairée. Selon la constitution, il était commandant suprême et dieu sous forme humaine ; en réalité, il laissa largement la politique au gouvernement et aux militaires, qui entraînèrent le Japon en Mandchourie en 1931, en Chine en 1937 et dans la guerre contre les États-Unis en 1941 ; sa responsabilité personnelle dans les décisions de guerre et les crimes de guerre est aujourd'hui encore débattue. Après les bombes atomiques et la déclaration de guerre soviétique, il pesa, au sein d'une direction divisée, en faveur de la capitulation et s'adressa pour la première fois à son peuple par la radio, le 15 août 1945, alors que celui-ci n'avait jamais entendu sa voix. L'occupation américaine dirigée par le général MacArthur renonça à toute mise en accusation afin de maintenir la stabilité du Japon ; en 1946, Hirohito déclara n'être pas un dieu et devint, dans la nouvelle constitution, le symbole de l'État, sans pouvoir politique. Il régna jusqu'à sa mort, en 1989, comme l'empereur du Japon au règne le plus long et vit le pays s'élever au rang de puissance économique.",
+    "tags": [
+      "japon",
+      "empereur",
+      "guerre du pacifique",
+      "capitulation"
+    ]
+  },
+  {
+    "id": "alan-turing",
+    "name": "Alan Turing",
+    "born": 1912,
+    "died": 1954,
+    "approx": false,
+    "epochId": "zweiter-weltkrieg",
+    "regionId": "europa",
+    "role": "mathématicien et décrypteur de codes",
+    "summary": "Il perça à Bletchley Park le chiffrement allemand Enigma et posa les fondements théoriques de l'ordinateur.",
+    "text": "En 1936, Turing, mathématicien de 24 ans à Cambridge, décrivit une machine imaginaire capable de résoudre toute tâche calculable et créa ainsi le modèle théorique de l'ordinateur. À partir de 1939, il travailla au centre secret britannique de Bletchley Park, où, s'appuyant sur les travaux préparatoires de cryptologues polonais, il conçut la bombe électromécanique qui déterminait chaque jour les réglages de la machine à chiffrer allemande Enigma. Son service perça en 1941 les communications radio des sous-marins, ce qui permit aux Alliés de dérouter les convois autour des meutes allemandes ; selon les estimations, le décryptage abrégea la guerre de plusieurs années et sauva des centaines de milliers de vies, mais il resta secret pendant des décennies. Après la guerre, Turing conçut des machines à calculer et formula en 1950 le test de Turing pour l'intelligence artificielle. En 1952, il fut condamné pour son homosexualité et contraint à un traitement hormonal ; il mourut en 1954 d'un empoisonnement au cyanure, vraisemblablement par suicide. Le gouvernement britannique présenta ses excuses en 2009, et il fut gracié en 2013.",
+    "tags": [
+      "mathématiques",
+      "enigma",
+      "ordinateur",
+      "science"
+    ]
+  }
+]

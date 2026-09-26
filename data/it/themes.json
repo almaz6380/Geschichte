@@ -1,0 +1,503 @@
+[
+  {
+    "id": "religionen",
+    "title": "Religioni e visioni del mondo",
+    "subtitle": "Dal tempio sulla collina allo stato religioso",
+    "summary": "Come le credenze hanno creato comunità, legittimato imperi e scatenato guerre: il cammino delle religioni dai primi santuari fino ai giorni nostri.",
+    "intro": [
+      "Molto prima che esistessero città e scrittura, cacciatori-raccoglitori eressero a Göbekli Tepe monumentali cerchi di pietre che probabilmente servivano a scopi rituali. Nelle prime civiltà dell'Egitto e della Mesopotamia, la religione era indissolubilmente legata al potere: il faraone era considerato il mediatore tra gli dei e gli uomini, e il tentativo di Akhenaton di venerare solo il dio del sole Aton fallì dopo la sua morte. Nel primo millennio a.C. sorsero quasi contemporaneamente in India, Cina e Grecia nuovi insegnamenti che ponevano al centro l'essere umano e le sue azioni: Buddha, Confucio e Laozi trovarono seguaci, mentre i greci consultavano i loro dei a Delfi. Il sovrano Maurya Ashoka fece del buddhismo un affare di stato e inviò missionari fino allo Sri Lanka.",
+      "Nell'Impero romano, il cristianesimo si trasformò nel giro di tre secoli da setta perseguitata a religione di stato. Costantino concesse la libertà di religione nel 313 e fece definire i fondamenti della fede al Concilio di Nicea. Dopo la fine dell'Impero romano d'Occidente, monasteri come Montecassino e re convertiti come Clodoveo portarono la fede ai popoli germanici. Nel VII secolo l'Islam sorse nella penisola arabica; con le conquiste dei califfi si diffuse in pochi decenni dalla Spagna alla Persia e si divise presto in sunniti e sciiti. Il conflitto medievale tra papa e imperatore sulla nomina dei vescovi e le crociate mostrano quanto religione e potere rimanessero strettamente intrecciati.",
+      "Con le 95 tesi di Lutero, l'unità della Chiesa occidentale si spezzò nel 1517. La Riforma e la Controriforma portarono a guerre di religione che furono contenute solo dalla Pace di Augusta e dalla Pace di Vestfalia; rifugiati religiosi come gli ugonotti lasciarono la loro patria. L'Illuminismo chiese tolleranza e separazione tra chiesa e stato, e nei secoli XIX e XX le chiese persero influenza in molti paesi europei. Allo stesso tempo la religione rimase una forza politica: la rivoluzione iraniana del 1979 instaurò una teocrazia, e l'appartenenza religiosa plasma ancora oggi conflitti e identità in tutto il mondo."
+    ],
+    "color": "#7c3aed",
+    "eventIds": [
+      "goebekli-tepe",
+      "echnatons-religionsreform",
+      "orakel-von-delphi",
+      "buddha-lehrt-in-nordindien",
+      "konfuzius-und-seine-lehre",
+      "ashoka-verbreitet-den-buddhismus",
+      "mailaender-vereinbarung",
+      "konzil-von-nicaea",
+      "taufe-chlodwigs",
+      "benedikt-gruendet-montecassino",
+      "erste-offenbarung-mohammeds",
+      "schlacht-von-kerbela",
+      "gang-nach-canossa",
+      "erster-kreuzzug",
+      "luthers-95-thesen",
+      "konzil-von-trient",
+      "augsburger-religionsfrieden",
+      "edikt-von-fontainebleau",
+      "iranische-revolution-1979"
+    ],
+    "personIds": [
+      "echnaton",
+      "siddhartha-gautama",
+      "konfuzius",
+      "konstantin-der-grosse",
+      "mohammed",
+      "hildegard-von-bingen",
+      "thomas-von-aquin",
+      "rumi",
+      "martin-luther",
+      "ignatius-von-loyola"
+    ],
+    "termIds": [
+      "dharma",
+      "daoismus",
+      "koran",
+      "sunniten-und-schiiten",
+      "moenchtum",
+      "kreuzzug",
+      "reformation",
+      "gegenreformation"
+    ],
+    "tags": [
+      "religione",
+      "chiesa",
+      "islam",
+      "buddhismo",
+      "riforma",
+      "fede"
+    ]
+  },
+  {
+    "id": "wissenschaft-technik",
+    "title": "Scienza e tecnologia",
+    "subtitle": "Dall'amigdala al World Wide Web",
+    "summary": "Strumenti, invenzioni e scoperte hanno più volte trasformato radicalmente la vita umana. Il filo conduttore va dal primo utensile di pietra all'era digitale.",
+    "intro": [
+      "I più antichi utensili in pietra dell'industria olduvaiana risalgono a circa 2,6 milioni di anni fa e segnano l'inizio della storia della tecnologia. Il fuoco, la ceramica, la ruota e la lavorazione dei metalli seguirono a lunghi intervalli, ma con il Neolitico lo sviluppo accelerò. La scrittura cuneiforme della Mesopotamia rese immagazzinabile il sapere, e la lavorazione del ferro cambiò l'agricoltura e la guerra. In Grecia, pensatori come Ippocrate e Archimede iniziarono a osservare sistematicamente la natura e il corpo umano e a descriverli matematicamente invece di spiegarli solo tramite gli dei.",
+      "Per secoli la Cina fu il paese tecnologicamente più avanzato al mondo: carta, stampa xilografica, polvere da sparo, bussola e carta moneta vi nacquero tutti molto tempo prima di diffondersi in Europa. A Baghdad, gli studiosi della Casa della Sapienza traducevano scritti greci, persiani e indiani, e al-Khwarizmi fondò l'algebra. Questo sapere raggiunse l'Europa medievale attraverso al-Andalus. Intorno al 1450 la stampa a caratteri mobili di Gutenberg rese i libri accessibili e creò le condizioni per una rapida diffusione delle nuove idee.",
+      "Con Copernico, Galileo e Newton, tra il 1543 e il 1687 nacque una nuova visione del mondo basata sull'osservazione, sull'esperimento e sulla matematica, che si affermò nonostante la resistenza della chiesa. La macchina a vapore, la ferrovia e il sistema di fabbrica scatenarono la rivoluzione industriale nei secoli XVIII e XIX, Darwin spiegò l'origine delle specie, e l'automobile e l'aereo ridussero le distanze. Nel XX secolo l'umanità raggiunse lo spazio con lo Sputnik e lo sbarco sulla Luna, mentre la fisica nucleare e i computer cambiarono il mondo tanto quanto lo minacciarono. Dal 1991 il World Wide Web ha collegato miliardi di persone e reso il sapere più accessibile che mai."
+    ],
+    "color": "#0ea5e9",
+    "eventIds": [
+      "oldowan-steinwerkzeuge",
+      "erfindung-des-rades",
+      "sumerische-keilschrift",
+      "beginn-der-eisenzeit",
+      "hippokrates-und-die-medizin",
+      "archimedes-und-die-belagerung-von-syrakus",
+      "erfindung-des-papiers",
+      "al-chwarizmi-begruendet-die-algebra",
+      "song-dynastie-erfindungen",
+      "gutenbergs-buchdruck",
+      "kopernikus-heliozentrisches-weltbild",
+      "galileis-prozess",
+      "newtons-principia",
+      "watts-dampfmaschine",
+      "eisenbahn-stockton-darlington",
+      "darwin-entstehung-der-arten",
+      "erster-motorflug-wright",
+      "sputnik-1957",
+      "mondlandung-1969",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "archimedes",
+      "euklid",
+      "al-chwarizmi",
+      "ibn-sina",
+      "leonardo-da-vinci",
+      "galileo-galilei",
+      "isaac-newton",
+      "james-watt",
+      "marie-curie",
+      "albert-einstein"
+    ],
+    "termIds": [
+      "faustkeil",
+      "keilschrift",
+      "holztafeldruck",
+      "industrielle-revolution",
+      "fabriksystem",
+      "evolutionstheorie"
+    ],
+    "tags": [
+      "invenzioni",
+      "scienze naturali",
+      "tecnologia",
+      "medicina",
+      "industrializzazione",
+      "astronautica"
+    ]
+  },
+  {
+    "id": "krieg-frieden",
+    "title": "Guerra e pace",
+    "subtitle": "Battaglie, trattati di pace e la ricerca di un ordine",
+    "summary": "Le guerre hanno creato e distrutto imperi; altrettanto antico è il tentativo di limitarle tramite trattati, regole e alleanze. Una storia della violenza e della sua limitazione.",
+    "intro": [
+      "Il più antico trattato di pace giunto fino a noi al mondo fu concluso tra gli egizi e gli ittiti dopo la battaglia di Qadesh. Le città-stato greche respinsero i persiani a Maratona e a Salamina, ma si logorarono a vicenda nella guerra del Peloponneso. In Cina, Sun Tzu formulò durante il periodo degli Stati Combattenti principi dell'arte della guerra ancora letti oggi. Con le sue legioni, Roma costruì un impero mondiale nelle guerre puniche, ma raggiunse i propri limiti nella battaglia della foresta di Teutoburgo e li assicurò con il limes e il Vallo di Adriano.",
+      "Nel medioevo, eserciti cavallereschi, castelli e assedi plasmarono la guerra. Le crociate combinavano zelo religioso e conquista, e la Guerra dei Cent'anni si trascinò per generazioni. La Guerra dei Trent'anni devastò ampie parti dell'Europa centrale e si concluse nel 1648 con la Pace di Vestfalia, che pose la sovranità degli stati a fondamento dell'ordine europeo. Dopo le guerre napoleoniche, il Congresso di Vienna cercò di garantire una pace duratura attraverso un equilibrio tra le grandi potenze, e nel XIX secolo nacque un diritto internazionale umanitario con la Croce Rossa e le Convenzioni di Ginevra.",
+      "Con la guerra di trincea, i gas tossici e milioni di morti, la Prima guerra mondiale rivelò la potenza distruttiva dell'industria. Il Trattato di Versailles e la Società delle Nazioni dovevano prevenire nuove guerre, ma fallirono. La Seconda guerra mondiale divenne una guerra di sterminio e finì con le bombe atomiche su Hiroshima e Nagasaki. Da questa esperienza nacquero le Nazioni Unite e il principio della sicurezza collettiva, eppure la Guerra Fredda portò guerre per procura e, con la crisi dei missili di Cuba, spinse il mondo sull'orlo di una guerra nucleare. L'attacco russo all'Ucraina nel 2022 mostra che le guerre tra stati non sono un capitolo chiuso nemmeno nel XXI secolo."
+    ],
+    "color": "#dc2626",
+    "eventIds": [
+      "schlacht-bei-kadesch",
+      "schlacht-von-marathon",
+      "zeit-der-streitenden-reiche",
+      "peloponnesischer-krieg",
+      "punische-kriege",
+      "varusschlacht",
+      "schlacht-bei-tours-und-poitiers",
+      "erster-kreuzzug",
+      "hundertjaehriger-krieg",
+      "dreissigjaehriger-krieg",
+      "westfaelischer-frieden",
+      "wiener-kongress",
+      "gruendung-rotes-kreuz",
+      "schlacht-um-verdun",
+      "versailler-vertrag",
+      "schlacht-von-stalingrad",
+      "atombomben-hiroshima-nagasaki",
+      "gruendung-vereinte-nationen",
+      "kubakrise",
+      "russischer-angriff-ukraine-2022"
+    ],
+    "personIds": [
+      "sunzi",
+      "hannibal",
+      "alexander-der-grosse",
+      "saladin",
+      "napoleon-bonaparte",
+      "henry-dunant",
+      "bertha-von-suttner",
+      "winston-churchill",
+      "erwin-rommel",
+      "john-f-kennedy"
+    ],
+    "termIds": [
+      "hoplit",
+      "legion",
+      "kreuzzug",
+      "stellungskrieg",
+      "totaler-krieg",
+      "vernichtungskrieg",
+      "stellvertreterkrieg",
+      "kalter-krieg"
+    ],
+    "tags": [
+      "guerra",
+      "pace",
+      "battaglie",
+      "diritto internazionale",
+      "diplomazia",
+      "esercito"
+    ]
+  },
+  {
+    "id": "handel-globalisierung",
+    "title": "Commercio, economia e globalizzazione",
+    "subtitle": "Come merci, denaro e idee hanno collegato il mondo",
+    "summary": "Dai primi agricoltori, attraverso la Via della seta e la Lega anseatica, fino ai mercati mondiali e alle crisi finanziarie: l'economia e il commercio hanno unito le culture, creato ricchezza e prodotto disuguaglianza.",
+    "intro": [
+      "Con la rivoluzione neolitica, le persone iniziarono a coltivare cereali e allevare animali; l'irrigazione in Mesopotamia rese possibili le eccedenze, dalle quali nacquero città, divisione del lavoro e commercio. I fenici costruirono una rete commerciale in tutto il Mediterraneo e trasmisero il loro alfabeto; i greci fondarono colonie dalla Spagna al Mar Nero. Sotto la dinastia Han nacque la Via della seta, lungo la quale seta, spezie, vetro e idee venivano scambiati tra Cina, India, Persia e Roma. La coniazione delle monete, la scrittura e i sistemi giuridici resero più affidabile il commercio a lunga distanza.",
+      "Nel medioevo, Baghdad, il Cairo e Cordova erano snodi di un'area commerciale che si estendeva dall'Africa occidentale alla Cina; Timbuctù si arricchì con l'oro e il sale, e il pellegrinaggio di Mansa Musa rese nota questa ricchezza in tutto il mondo islamico. Marco Polo e Ibn Battuta raccontarono dei mercati dell'Asia, e nell'Europa settentrionale la Lega anseatica organizzò il commercio tra il Baltico e il Mare del Nord. Dopo il 1492, Colombo e Vasco da Gama collegarono i continenti attraverso gli oceani. Lo scambio colombiano portò patate e mais in Europa e cavalli e malattie nelle Americhe, e la tratta atlantica degli schiavi deportò milioni di africani verso le piantagioni del Nuovo Mondo.",
+      "La rivoluzione industriale fece della Gran Bretagna l'officina del mondo; fabbriche, ferrovie e il Canale di Suez accelerarono la circolazione delle merci, e le guerre dell'oppio costrinsero la Cina ad aprirsi. Il Giappone rispose alla pressione occidentale con la restaurazione Meiji e si industrializzò. La Grande Depressione del 1929 mostrò quanto fossero già intrecciate le economie nazionali. Dopo il 1945 il commercio mondiale e il benessere crebbero rapidamente; la crisi petrolifera del 1973, l'introduzione dell'euro e la crisi finanziaria del 2008 resero visibili le dipendenze. La globalizzazione del XXI secolo collega catene di fornitura, mercati finanziari e reti digitali oltre ogni confine."
+    ],
+    "color": "#d97706",
+    "eventIds": [
+      "neolithische-revolution",
+      "bewaesserungslandwirtschaft-mesopotamien",
+      "phoenizier-und-alphabet",
+      "griechische-kolonisation",
+      "han-dynastie-und-seidenstrasse",
+      "gruendung-bagdads",
+      "marco-polos-reise-nach-china",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum",
+      "erster-hansetag",
+      "vasco-da-gama-erreicht-indien",
+      "beginn-transatlantischer-sklavenhandel",
+      "abschliessung-japans",
+      "mechanischer-webstuhl-fabriksystem",
+      "erster-opiumkrieg",
+      "eroeffnung-suezkanal",
+      "weltwirtschaftskrise-1929",
+      "oelkrise-1973",
+      "einfuehrung-euro-bargeld",
+      "weltfinanzkrise-2008"
+    ],
+    "personIds": [
+      "mansa-musa",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "james-watt",
+      "karl-marx",
+      "kaiser-meiji",
+      "cecil-rhodes",
+      "deng-xiaoping",
+      "tim-berners-lee"
+    ],
+    "termIds": [
+      "seidenstrasse",
+      "hanse",
+      "merkantilismus",
+      "kolumbianischer-austausch",
+      "industrielle-revolution",
+      "imperialismus",
+      "hyperinflation",
+      "globalisierung"
+    ],
+    "tags": [
+      "commercio",
+      "economia",
+      "globalizzazione",
+      "via della seta",
+      "colonialismo",
+      "denaro"
+    ]
+  },
+  {
+    "id": "herrschaft-demokratie",
+    "title": "Potere, diritto e democrazia",
+    "subtitle": "Chi governa e chi ha diritto di parola?",
+    "summary": "Dai re-dio e dalle stele di leggi, attraverso la democrazia di Atene, fino alle costituzioni e ai diritti umani: la lunga disputa su come il potere venga giustificato e limitato.",
+    "intro": [
+      "Nelle prime civiltà, il potere era considerato voluto dagli dei, eppure il Codice di Hammurabi mostrava già che un re poteva vincolarsi a leggi scritte. Ad Atene, Solone e Clistene realizzarono riforme che per la prima volta coinvolsero i cittadini liberi nelle decisioni; la democrazia attica, tuttavia, rimase riservata agli uomini ed escluse donne, stranieri e schiavi. Roma cacciò i suoi re, si diede la Legge delle Dodici Tavole e sviluppò una repubblica di consoli, senato e assemblee popolari. In Cina il Primo Imperatore Qin Shi Huang unificò il paese con un'amministrazione fortemente organizzata, e da allora il Mandato del Cielo giustificò il dominio delle dinastie.",
+      "Con il principato di Augusto, Roma divenne di fatto una monarchia, e con l'incoronazione imperiale di Carlo Magno il medioevo riprese questa idea. Allo stesso tempo i re dovettero condividere il potere con la nobiltà, la chiesa e le città: la Magna Carta del 1215 vincolò il re inglese alla legge, e ceti e parlamenti concedevano le tasse. Nell'assolutismo del XVII secolo, sovrani come Luigi XIV rivendicarono per sé tutta l'autorità statale, mentre l'Inghilterra stabilì il primato del parlamento con la Gloriosa Rivoluzione. Locke e Montesquieu formularono le idee del contratto sociale e della separazione dei poteri.",
+      "La Rivoluzione americana e quella francese trasformarono queste idee in costituzioni e dichiarazioni dei diritti umani, e il Code civil diffuse l'uguaglianza davanti alla legge in tutta Europa. Nel XIX secolo, liberali e democratici combatterono nella Rivoluzione del 1848 per costituzioni e stati nazionali, e nel 1893 la Nuova Zelanda divenne il primo paese a introdurre il suffragio femminile. La costituzione di Weimar fu una delle più moderne del suo tempo, ma con la legge dei pieni poteri mostrò anche come una democrazia possa essere distrutta con mezzi legali. Dopo il 1945 i diritti umani e la democrazia si diffusero in tutto il mondo, e la fine dell'apartheid nel 1994 fece del Sudafrica un simbolo della transizione pacifica verso l'uguaglianza."
+    ],
+    "color": "#2563eb",
+    "eventIds": [
+      "codex-hammurapi",
+      "reformen-solons",
+      "beginn-der-roemischen-republik",
+      "reformen-des-kleisthenes",
+      "zwoelftafelgesetz",
+      "qin-shihuangdi-einigt-china",
+      "augustus-begruendet-den-prinzipat",
+      "kaiserkroenung-karls-des-grossen",
+      "magna-carta",
+      "hof-nach-versailles",
+      "glorious-revolution",
+      "montesquieu-geist-der-gesetze",
+      "verfassung-der-usa",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "code-civil",
+      "maerzrevolution-1848",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "ende-der-apartheid"
+    ],
+    "personIds": [
+      "hammurapi",
+      "perikles",
+      "cicero",
+      "augustus",
+      "karl-der-grosse",
+      "john-locke",
+      "thomas-jefferson",
+      "olympe-de-gouges",
+      "friedrich-ebert",
+      "nelson-mandela"
+    ],
+    "termIds": [
+      "polis",
+      "ostrakismos",
+      "senat",
+      "prinzipat",
+      "mandat-des-himmels",
+      "absolutismus",
+      "gewaltenteilung",
+      "volkssouveraenitaet"
+    ],
+    "tags": [
+      "democrazia",
+      "costituzione",
+      "diritto",
+      "monarchia",
+      "diritti umani",
+      "parlamento"
+    ]
+  },
+  {
+    "id": "frauen",
+    "title": "Le donne nella storia",
+    "subtitle": "Sovrane, pensatrici e la lotta per l'uguaglianza",
+    "summary": "Le donne hanno governato, scritto, condotto ricerche e opposto resistenza, eppure per lungo tempo sono rimaste escluse dal potere e dall'istruzione. Il loro percorso dalle prime civiltà al suffragio e al movimento per i diritti civili.",
+    "intro": [
+      "Nel grande insediamento di Çatalhöyük, gli archeologi hanno trovato numerose figurine femminili il cui significato è ancora oggi dibattuto. Dall'impero di Sargon di Akkad proviene la sacerdotessa Enheduanna, la prima autrice della storia mondiale conosciuta per nome, e la nobildonna Shang Fu Hao guidò eserciti sul campo. In Egitto, Hatshepsut governò come faraone, mentre ad Atene le donne erano escluse dalla democrazia, e persino la colta Aspasia fu attaccata per la sua influenza su Pericle. Cleopatra VII si affermò come ultima sovrana d'Egitto tra i potenti romani prima che la sua morte segnasse la fine dell'epoca ellenistica.",
+      "Nel medioevo, singole donne raggiunsero un grande potere: Teodora governò al fianco di Giustiniano, Wu Zetian fu l'unica donna a regnare come imperatrice sulla Cina, e Murasaki Shikibu scrisse uno dei primi romanzi al mondo con la Storia di Genji. I conventi diedero a donne come Ildegarda di Bingen accesso all'istruzione e all'influenza, mentre Giovanna d'Arco divenne un'eroina nella Guerra dei Cent'anni e fu bruciata come eretica. Isabella di Castiglia ed Elisabetta I dimostrarono che le regine potevano governare con successo. Allo stesso tempo, nei secoli XVI e XVII, decine di migliaia di persone, in prevalenza donne, caddero vittime della caccia alle streghe.",
+      "L'Illuminismo promise l'uguaglianza dei diritti, ma di solito intendeva solo gli uomini. Nella marcia delle donne su Versailles del 1789, le donne di Parigi intervennero attivamente nella rivoluzione, e Olympe de Gouges rivendicò la piena uguaglianza nella sua Dichiarazione dei diritti della donna; fu giustiziata nel 1793. Nel XIX secolo nacque un movimento femminile organizzato che lottò per l'istruzione, il lavoro e il voto; nel 1893 la Nuova Zelanda divenne il primo paese a introdurre il suffragio femminile, e la Germania seguì nel 1918. Nel 1919 Marie Juchacz fu la prima donna a parlare in un parlamento tedesco, e Marie Curie ricevette due premi Nobel. Nel 1955 Rosa Parks diede avvio al boicottaggio degli autobus di Montgomery e fece della lotta per i diritti civili anche una storia di resistenza femminile."
+    ],
+    "color": "#db2777",
+    "eventIds": [
+      "catalhoeyuek",
+      "sargon-gruendet-akkadisches-reich",
+      "shang-dynastie-orakelknochen",
+      "bau-des-parthenon",
+      "tod-kleopatras",
+      "justinian-und-hagia-sophia",
+      "wu-zetian-wird-kaiserin",
+      "genji-monogatari",
+      "hundertjaehriger-krieg",
+      "fall-granadas",
+      "spanische-armada",
+      "hoehepunkt-der-hexenverfolgung",
+      "oesterreichischer-erbfolgekrieg",
+      "frauenmarsch-nach-versailles",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "frauenwahlrecht-neuseeland",
+      "weimarer-verfassung",
+      "montgomery-busboykott"
+    ],
+    "personIds": [
+      "hatschepsut",
+      "enheduanna",
+      "kleopatra-vii",
+      "theodora",
+      "wu-zetian",
+      "hildegard-von-bingen",
+      "jeanne-darc",
+      "olympe-de-gouges",
+      "emmeline-pankhurst",
+      "rosa-parks"
+    ],
+    "termIds": [
+      "staendegesellschaft",
+      "moenchtum",
+      "aufklaerung",
+      "dritter-stand",
+      "weimarer-republik",
+      "buergerrechtsbewegung"
+    ],
+    "tags": [
+      "donne",
+      "uguaglianza",
+      "suffragio",
+      "sovrane",
+      "movimento femminile"
+    ]
+  },
+  {
+    "id": "migration-begegnung",
+    "title": "Migrazione e incontro culturale",
+    "subtitle": "Migrazioni, conquiste e scambi tra i popoli",
+    "summary": "Le persone sono sempre state in movimento: dall'Africa verso tutto il mondo, come mercanti, conquistatori, rifugiati e coloni. Gli incontri hanno portato scambio e arricchimento, ma anche violenza e sfollamento.",
+    "intro": [
+      "La storia dell'umanità inizia con una migrazione: l'Homo erectus lasciò l'Africa quasi due milioni di anni fa, e l'uomo moderno seguì circa 70.000 anni fa, colonizzando l'Australia, l'Asia, l'Europa e infine le Americhe. Con le loro imbarcazioni, la cultura Lapita raggiunse le isole del Pacifico. Alla fine dell'età del bronzo i Popoli del Mare gettarono nel caos il Mediterraneo orientale, mentre in seguito i coloni greci fondarono città da Marsiglia alla Crimea. La campagna di Alessandro portò la lingua e l'arte greca fino in India e creò nell'epoca ellenistica una cultura mista in cui si incontravano il buddhismo e la scultura greca.",
+      "Il buddhismo raggiunse la Cina lungo la Via della seta, e monaci come Xuanzang viaggiarono fino in India per recuperare testi sacri. Le grandi migrazioni portarono Goti, Vandali e Unni nell'Impero romano, e i vichinghi navigarono fino al Nord America e al Mar Caspio. In al-Andalus, musulmani, ebrei e cristiani convissero per secoli, e studiosi come Averroè trasmisero la filosofia di Aristotele all'Europa latina. I mongoli sotto Gengis Khan crearono il più vasto impero terrestre contiguo della storia, lungo le cui vie viaggiatori come Marco Polo e Ibn Battuta collegarono Oriente e Occidente.",
+      "L'arrivo di Colombo nel 1492 diede inizio a un incontro che per i popoli nativi delle Americhe finì in conquista, epidemie e collasso, mentre milioni di africani venivano trasportati attraverso l'Atlantico come schiavi. Rifugiati religiosi come gli ugonotti, affamati come gli irlandesi dopo il 1845, e milioni di emigranti cercarono una vita migliore nel Nuovo Mondo. La spartizione dell'India nel 1947 scatenò uno dei più grandi movimenti di profughi del XX secolo, e guerre, decolonizzazione e migrazione di lavoro hanno plasmato da allora le migrazioni. La migrazione rimane ancora oggi una delle grandi questioni della politica mondiale, e l'incontro delle culture è al tempo stesso fonte di conflitto e di rinnovamento."
+    ],
+    "color": "#059669",
+    "eventIds": [
+      "homo-erectus-verlaesst-afrika",
+      "auszug-aus-afrika",
+      "besiedlung-amerikas",
+      "lapita-besiedlung-pazifik",
+      "ende-der-bronzezeit-seevoelker",
+      "griechische-kolonisation",
+      "alexanders-feldzug-nach-asien",
+      "buddhismus-erreicht-china",
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ueberfall-auf-lindisfarne",
+      "kalifat-von-cordoba",
+      "ibn-ruschd-erklaert-aristoteles",
+      "dschingis-khan-einigt-die-mongolen",
+      "reisen-des-ibn-battuta",
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel",
+      "edikt-von-fontainebleau",
+      "irische-hungersnot",
+      "unabhaengigkeit-indien-pakistan"
+    ],
+    "personIds": [
+      "homo-erectus",
+      "alexander-der-grosse",
+      "xuanzang",
+      "ibn-ruschd",
+      "dschingis-khan",
+      "ibn-battuta",
+      "christoph-kolumbus",
+      "akbar"
+    ],
+    "termIds": [
+      "hominini",
+      "hellenismus",
+      "seidenstrasse",
+      "voelkerwanderung",
+      "al-andalus",
+      "kolumbianischer-austausch",
+      "hugenotten",
+      "dekolonisation"
+    ],
+    "tags": [
+      "migrazione",
+      "movimento dei popoli",
+      "scambio culturale",
+      "fuga",
+      "colonizzazione",
+      "incontro"
+    ]
+  },
+  {
+    "id": "kunst-schrift-bildung",
+    "title": "Arte, scrittura e istruzione",
+    "subtitle": "Come le persone hanno conservato il sapere e creato bellezza",
+    "summary": "Dalle pitture rupestri dell'era glaciale, attraverso la scrittura cuneiforme, le biblioteche e le università, fino alla stampa e a internet: la storia di come le persone si sono espresse e hanno tramandato il sapere.",
+    "intro": [
+      "Già 75.000 anni fa, le persone nella grotta di Blombos incidevano motivi nell'ocra e realizzavano gioielli; le pitture rupestri di Lascaux mostrano la maestria raggiunta dagli artisti dell'era glaciale. Con la scrittura cuneiforme di Sumer e i geroglifici dell'Egitto, la storia della scrittura iniziò circa 5.000 anni fa, dapprima per l'amministrazione e il commercio, ma presto anche per la letteratura come l'Epopea di Gilgamesh. L'alfabeto dei fenici semplificò così tanto la scrittura che fu adottato dai greci e dai romani e plasma ancora oggi le nostre lettere. I poemi di Omero e le tragedie di Atene divennero testi fondanti dell'istruzione europea, e la Biblioteca di Alessandria cercò di raccogliere tutto il sapere del mondo.",
+      "La Cina inventò la carta e la stampa xilografica; il Sutra del Diamante dell'868 è il più antico libro stampato datato. Nella Casa della Sapienza a Baghdad e nelle madrase dal Cairo a Timbuctù, gli studiosi conservarono e ampliarono l'eredità dell'antichità. In Europa nacquero le prime università a Bologna e Parigi, la scolastica unì fede e ragione, e lo stile gotico diede origine a cattedrali di luce e pietra. Il Rinascimento riscoprì l'antichità: Brunelleschi, Leonardo e Michelangelo crearono opere che univano arte e scienza, e la stampa di Gutenberg fece dei libri un bene di massa.",
+      "L'Encyclopédie dell'Illuminismo cercò di rendere accessibile a tutti il sapere dell'epoca, e nel XIX secolo l'istruzione obbligatoria fu introdotta in molti paesi. Dopo il 1919 il Bauhaus unì arte, artigianato e tecnologia in un nuovo linguaggio visivo che ebbe influenza in tutto il mondo. I roghi di libri del 1933 mostrarono quanto apparissero pericolose alle dittature l'arte e la scienza libere. Con il World Wide Web, oggi è disponibile più sapere che mai, e allo stesso tempo si pone di nuovo la domanda su come istruzione, verità e arte possano essere preservate nel mondo digitale."
+    ],
+    "color": "#b45309",
+    "eventIds": [
+      "blombos-hoehle-kunst-und-schmuck",
+      "hoehlenmalerei-lascaux",
+      "sumerische-keilschrift",
+      "gilgamesch-epos",
+      "phoenizier-und-alphabet",
+      "homer-und-die-epen",
+      "bibliothek-von-alexandria",
+      "erfindung-des-papiers",
+      "haus-der-weisheit",
+      "diamant-sutra-holztafeldruck",
+      "gruendung-der-universitaet-bologna",
+      "beginn-der-gotik",
+      "timbuktu-gelehrtenzentrum",
+      "brunelleschis-kuppel",
+      "gutenbergs-buchdruck",
+      "michelangelos-david",
+      "erste-baende-der-encyclopedie",
+      "gruendung-des-bauhauses",
+      "buecherverbrennung-1933",
+      "world-wide-web-1991"
+    ],
+    "personIds": [
+      "enheduanna",
+      "sappho",
+      "platon",
+      "sima-qian",
+      "murasaki-shikibu",
+      "johannes-gutenberg",
+      "leonardo-da-vinci",
+      "michelangelo",
+      "erasmus-von-rotterdam",
+      "kaethe-kollwitz"
+    ],
+    "termIds": [
+      "keilschrift",
+      "hieroglyphen",
+      "alphabet",
+      "tragoedie",
+      "holztafeldruck",
+      "scholastik",
+      "gotik",
+      "humanismus"
+    ],
+    "tags": [
+      "arte",
+      "scrittura",
+      "istruzione",
+      "letteratura",
+      "stampa",
+      "università"
+    ]
+  }
+]

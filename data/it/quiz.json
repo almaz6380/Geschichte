@@ -1,0 +1,2340 @@
+[
+  {
+    "id": "q-absolutismus-aufklaerung-01",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quale pace pose fine alla guerra dei Trent'anni nel 1648?",
+    "choices": [
+      "La pace di Augusta",
+      "La pace di Utrecht",
+      "La pace di Vestfalia",
+      "La pace di Hubertusburg"
+    ],
+    "answer": 2,
+    "explanation": "La pace di Vestfalia, negoziata a Münster e Osnabrück, pose fine alla guerra nel 1648.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-02",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quale re fece di Versailles la sede della sua corte ed era noto come il Re Sole?",
+    "choices": [
+      "Luigi XIV",
+      "Luigi XVI",
+      "Enrico IV",
+      "Francesco I"
+    ],
+    "answer": 0,
+    "explanation": "Luigi XIV trasferì la corte a Versailles nel 1682 e, come Re Sole, divenne l'incarnazione dell'assolutismo.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-03",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Cosa descrisse Isaac Newton nei suoi Principia del 1687?",
+    "choices": [
+      "La struttura dell'atomo",
+      "L'evoluzione delle specie",
+      "La circolazione del sangue",
+      "Le leggi del moto e della gravitazione"
+    ],
+    "answer": 3,
+    "explanation": "Con le sue leggi del moto e la legge di gravitazione, Newton spiegò il movimento dei corpi sulla Terra e nello spazio.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-04",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quale città fondò Pietro il Grande nel 1703 come nuova capitale della Russia?",
+    "choices": [
+      "Mosca",
+      "San Pietroburgo",
+      "Kiev",
+      "Novgorod"
+    ],
+    "answer": 1,
+    "explanation": "San Pietroburgo sulla Neva divenne la capitale nel 1712 ed era considerata la finestra della Russia sull'Europa.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-05",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quali due potenze erano dalla stessa parte nella guerra dei Sette anni (1756-1763)?",
+    "choices": [
+      "Francia e Prussia",
+      "Austria e Gran Bretagna",
+      "Prussia e Gran Bretagna",
+      "Russia e Prussia"
+    ],
+    "answer": 2,
+    "explanation": "La Prussia di Federico II e la Gran Bretagna combatterono insieme contro Austria, Francia e Russia.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-06",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Con quale motto Immanuel Kant riassunse il programma dell'Illuminismo?",
+    "choices": [
+      "Penso, dunque sono",
+      "Abbi il coraggio di servirti della tua propria intelligenza",
+      "Lo stato sono io",
+      "Ritorno alla natura"
+    ],
+    "answer": 1,
+    "explanation": "Nel 1784 Kant definì l'illuminismo come l'uscita dell'uomo dalla minorità che egli stesso si è imposta e scelse Sapere aude come motto.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-07",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Perché Galileo Galilei fu condannato dall'Inquisizione nel 1633?",
+    "choices": [
+      "Perché aveva inventato il telescopio",
+      "Perché aveva tradotto la Bibbia in italiano",
+      "Perché aveva difeso la concezione eliocentrica dell'universo",
+      "Perché aveva scoperto la gravitazione"
+    ],
+    "answer": 2,
+    "explanation": "Nel suo Dialogo del 1632 Galileo aveva sostenuto l'insegnamento di Copernico secondo cui la Terra si muove intorno al Sole; fu costretto ad abiurare.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-08",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Cosa accadde al re inglese Carlo I nel 1649?",
+    "choices": [
+      "Fuggì in Francia",
+      "Fu condannato dal Parlamento e giustiziato",
+      "Sciolse il Parlamento definitivamente",
+      "Fu incoronato imperatore"
+    ],
+    "answer": 1,
+    "explanation": "Dopo la guerra civile un tribunale del Parlamento condannò il re per alto tradimento; fu decapitato il 30 gennaio 1649.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-09",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quale rivendicazione è associata all'opera di Montesquieu Lo spirito delle leggi (1748)?",
+    "choices": [
+      "La separazione dei poteri",
+      "L'abolizione della monarchia",
+      "L'uguaglianza per le donne",
+      "L'abolizione della proprietà privata"
+    ],
+    "answer": 0,
+    "explanation": "Montesquieu chiedeva che il potere legislativo, esecutivo e giudiziario fossero separati, in modo che si limitassero a vicenda.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-10",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quale fu la conseguenza dell'editto di Fontainebleau del 1685?",
+    "choices": [
+      "La fondazione della Royal Society",
+      "Il trasferimento della corte a Versailles",
+      "L'inizio della guerra di successione spagnola",
+      "La fuga di circa 200.000 ugonotti dalla Francia"
+    ],
+    "answer": 3,
+    "explanation": "Luigi XIV revocò l'editto di Nantes e vietò il culto protestante; molti ugonotti fuggirono, tra l'altro nel Brandeburgo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-11",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quale paese si isolò quasi completamente dal mondo esterno a partire dal 1639 e permise solo agli olandesi di commerciare sull'isola di Dejima?",
+    "choices": [
+      "Cina",
+      "Corea",
+      "Giappone",
+      "Siam"
+    ],
+    "answer": 2,
+    "explanation": "Lo shogunato Tokugawa vietò il cristianesimo e limitò il commercio estero a Nagasaki; questa politica è chiamata sakoku.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-absolutismus-aufklaerung-12",
+    "epochId": "absolutismus-aufklaerung",
+    "question": "Quale merito è associato alla fisica Émilie du Châtelet?",
+    "choices": [
+      "La scoperta delle lune di Giove",
+      "La traduzione e il commento in francese dei Principia di Newton",
+      "L'invenzione del barometro",
+      "La pubblicazione dell'Encyclopédie"
+    ],
+    "answer": 1,
+    "explanation": "Du Châtelet tradusse in francese l'opera principale di Newton e vi aggiunse commenti; la sua versione è ancora oggi considerata autorevole.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-01",
+    "epochId": "antike-griechenland",
+    "question": "In quale città sorse la prima democrazia nel VI e V secolo a.C.?",
+    "choices": [
+      "Sparta",
+      "Atene",
+      "Corinto",
+      "Tebe"
+    ],
+    "answer": 1,
+    "explanation": "Ad Atene le riforme di Clistene posero le basi del governo popolare nel 508 a.C.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-02",
+    "epochId": "antike-griechenland",
+    "question": "Dove si tennero i primi giochi olimpici documentati nel 776 a.C.?",
+    "choices": [
+      "Ad Atene",
+      "A Delfi",
+      "A Olimpia",
+      "A Sparta"
+    ],
+    "answer": 2,
+    "explanation": "I giochi si tenevano ogni quattro anni a Olimpia, nel Peloponneso, in onore di Zeus.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-03",
+    "epochId": "antike-griechenland",
+    "question": "Quale battaglia decise per mare la seconda guerra persiana nel 480 a.C.?",
+    "choices": [
+      "Maratona",
+      "Termopili",
+      "Platea",
+      "Salamina"
+    ],
+    "answer": 3,
+    "explanation": "Temistocle attirò la flotta persiana nella stretta baia di Salamina, dove le triremi greche prevalsero.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-04",
+    "epochId": "antike-griechenland",
+    "question": "Chi vinse la guerra del Peloponneso, terminata nel 404 a.C.?",
+    "choices": [
+      "Sparta",
+      "Atene",
+      "Persia",
+      "Macedonia"
+    ],
+    "answer": 0,
+    "explanation": "Con il denaro persiano Sparta costruì una flotta e costrinse Atene alla resa nel 404 a.C.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-05",
+    "epochId": "antike-griechenland",
+    "question": "Quale filosofo fu il precettore di Alessandro Magno?",
+    "choices": [
+      "Socrate",
+      "Platone",
+      "Aristotele",
+      "Pitagora"
+    ],
+    "answer": 2,
+    "explanation": "Aristotele istruì il giovane Alessandro alla corte macedone prima di fondare il Liceo ad Atene.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-06",
+    "epochId": "antike-griechenland",
+    "question": "Quale evento è considerato la fine dell'epoca ellenistica?",
+    "choices": [
+      "La distruzione di Corinto nel 146 a.C.",
+      "La morte di Cleopatra e l'annessione dell'Egitto nel 30 a.C.",
+      "La morte di Alessandro nel 323 a.C.",
+      "La battaglia di Pidna nel 168 a.C."
+    ],
+    "answer": 1,
+    "explanation": "Con il suicidio di Cleopatra VII, l'Egitto, ultimo regno ellenistico, passò a Roma.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-07",
+    "epochId": "antike-griechenland",
+    "question": "Quale riforma attuò Solone ad Atene intorno al 594 a.C.?",
+    "choices": [
+      "Introdusse l'ostracismo",
+      "Diede alle donne il diritto di voto",
+      "Si fece tiranno",
+      "Abolì la schiavitù per debiti"
+    ],
+    "answer": 3,
+    "explanation": "Solone cancellò i debiti e vietò la riduzione in schiavitù dei cittadini per debiti; divise i cittadini in quattro classi in base alla ricchezza.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-08",
+    "epochId": "antike-griechenland",
+    "question": "Chi guidò i 300 spartani alle Termopili nel 480 a.C.?",
+    "choices": [
+      "Leonida",
+      "Temistocle",
+      "Milziade",
+      "Pericle"
+    ],
+    "answer": 0,
+    "explanation": "Il re Leonida tenne il passo contro l'esercito di Serse con i suoi spartani e alleati finché non caddero tutti.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-09",
+    "epochId": "antike-griechenland",
+    "question": "Quale poetessa dell'isola di Lesbo Platone chiamò la decima Musa?",
+    "choices": [
+      "Aspasia",
+      "Saffo",
+      "Antigone",
+      "Pizia"
+    ],
+    "answer": 1,
+    "explanation": "Intorno al 600 a.C. Saffo scrisse canti d'amore e nostalgia; dei suoi nove libri sopravvivono solo frammenti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-antike-griechenland-10",
+    "epochId": "antike-griechenland",
+    "question": "Quale tempio fu costruito sull'Acropoli sotto Pericle tra il 447 e il 432 a.C.?",
+    "choices": [
+      "Il tempio di Zeus",
+      "Il tempio di Apollo",
+      "Il Partenone",
+      "L'Eretteo"
+    ],
+    "answer": 2,
+    "explanation": "Il Partenone, costruito dagli architetti Ictino e Callicrate, fu dedicato alla dea Atena e ospitava una statua di dodici metri di Fidia.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-antike-griechenland-11",
+    "epochId": "antike-griechenland",
+    "question": "Come erano chiamati i generali di Alessandro che si contesero il suo impero dopo la sua morte?",
+    "choices": [
+      "Efori",
+      "Strateghi",
+      "Arconti",
+      "Diadochi"
+    ],
+    "answer": 3,
+    "explanation": "I diadochi, i successori, condussero la guerra dal 322 al 281 a.C.; alla fine sorsero gli imperi dei Tolomei, dei Seleucidi e degli Antigonidi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-antike-griechenland-12",
+    "epochId": "antike-griechenland",
+    "question": "Quale studioso fu ucciso nel 212 a.C. durante la conquista romana di Siracusa?",
+    "choices": [
+      "Euclide",
+      "Archimede",
+      "Ippocrate",
+      "Erodoto"
+    ],
+    "answer": 1,
+    "explanation": "Archimede aveva sostenuto la difesa della sua città natale con macchine da guerra; un soldato romano lo uccise contro gli ordini di Marcello.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-01",
+    "epochId": "asien-altertum",
+    "question": "Chi fondò l'impero persiano degli Achemenidi intorno al 550 a.C.?",
+    "choices": [
+      "Dario I",
+      "Serse I",
+      "Ciro II",
+      "Cambise II"
+    ],
+    "answer": 2,
+    "explanation": "Ciro II sconfisse i medi e conquistò poi la Lidia e Babilonia; Dario e Serse furono Grandi Re successivi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-02",
+    "epochId": "asien-altertum",
+    "question": "Quale insegnamento proclamò Siddhartha Gautama nell'India settentrionale?",
+    "choices": [
+      "Il buddhismo",
+      "Il confucianesimo",
+      "Il taoismo",
+      "Lo zoroastrismo"
+    ],
+    "answer": 0,
+    "explanation": "Come Buddha, il Risvegliato, Siddhartha Gautama divenne il fondatore del buddhismo.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-03",
+    "epochId": "asien-altertum",
+    "question": "Cosa, tra le altre cose, standardizzò Qin Shi Huang dopo l'unificazione della Cina nel 221 a.C.?",
+    "choices": [
+      "La religione",
+      "La lingua di tutte le province",
+      "Il calendario dei nomadi",
+      "La scrittura, la moneta e le misure"
+    ],
+    "answer": 3,
+    "explanation": "Il Primo Imperatore introdusse caratteri uniformi, monete, misure, pesi e larghezze degli assali per tenere insieme l'impero.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-04",
+    "epochId": "asien-altertum",
+    "question": "Quale invenzione è attribuita al funzionario di corte cinese Cai Lun nell'anno 105?",
+    "choices": [
+      "La bussola",
+      "La carta",
+      "La polvere da sparo",
+      "La stampa"
+    ],
+    "answer": 1,
+    "explanation": "Nel 105 Cai Lun descrisse un processo migliorato per produrre carta da corteccia, canapa e stracci.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-05",
+    "epochId": "asien-altertum",
+    "question": "Quale innovazione matematica sorse in India al tempo dell'impero Gupta?",
+    "choices": [
+      "Il sistema posizionale con lo zero",
+      "Il teorema di Pitagora",
+      "I numeri romani",
+      "La tavola dei logaritmi"
+    ],
+    "answer": 0,
+    "explanation": "I matematici indiani del periodo Gupta svilupparono il sistema decimale con la cifra zero, che raggiunse l'Europa attraverso il mondo arabo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-06",
+    "epochId": "asien-altertum",
+    "question": "Sotto quale re fu costruita Angkor Wat nel XII secolo?",
+    "choices": [
+      "Ashoka",
+      "Kanmu",
+      "Suryavarman II",
+      "Chandragupta II"
+    ],
+    "answer": 2,
+    "explanation": "Il re khmer Suryavarman II fece costruire Angkor Wat come tempio a Vishnu e come propria tomba.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-07",
+    "epochId": "asien-altertum",
+    "question": "A quale saggio è attribuito il Tao Te Ching, il testo fondativo del taoismo?",
+    "choices": [
+      "Confucio",
+      "Laozi",
+      "Mencio",
+      "Zhuangzi"
+    ],
+    "answer": 1,
+    "explanation": "Il Tao Te Ching è considerato opera del leggendario Laozi; Zhuangzi fu un pensatore taoista successivo, mentre Confucio e Mencio rappresentavano il confucianesimo.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-08",
+    "epochId": "asien-altertum",
+    "question": "Come si chiama l'opera dello stratega Sun Tzu del periodo degli Stati Combattenti?",
+    "choices": [
+      "Il Libro dei mutamenti",
+      "I Dialoghi",
+      "Lo Shiji",
+      "L'Arte della guerra"
+    ],
+    "answer": 3,
+    "explanation": "L'Arte della guerra di Sun Tzu, in tredici capitoli, insegna che la migliore vittoria si ottiene senza combattere.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asien-altertum-09",
+    "epochId": "asien-altertum",
+    "question": "Cosa fu notevole nel regno di Wu Zetian dal 690 al 705?",
+    "choices": [
+      "Fu l'unica donna in Cina a governare come imperatrice a pieno titolo",
+      "Fondò la dinastia Tang",
+      "Vietò il buddhismo in Cina",
+      "Fece realizzare l'Esercito di terracotta"
+    ],
+    "answer": 0,
+    "explanation": "Nel 690 Wu Zetian proclamò una propria dinastia ed è l'unica donna nella storia cinese ad aver portato personalmente il titolo imperiale.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-10",
+    "epochId": "asien-altertum",
+    "question": "Perché il Sutra del Diamante dell'868 è così importante per la storia della stampa?",
+    "choices": [
+      "Fu stampato con caratteri mobili in metallo",
+      "È il primo libro fatto di carta",
+      "È il più antico testo stampato sopravvissuto con una data precisa",
+      "Fu usato da Gutenberg come modello"
+    ],
+    "answer": 2,
+    "explanation": "Il colophon del rotolo, stampato da matrici in legno, riporta la data dell'11 maggio 868; è quindi il più antico libro stampato datato al mondo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asien-altertum-11",
+    "epochId": "asien-altertum",
+    "question": "Quale impero sostituì Ardashir I in Persia nell'anno 224?",
+    "choices": [
+      "L'impero achemenide",
+      "L'impero seleucide",
+      "L'impero kushan",
+      "L'impero partico"
+    ],
+    "answer": 3,
+    "explanation": "Nel 224 Ardashir I sconfisse l'ultimo re partico e fondò l'impero sasanide, che durò fino al 651.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asien-altertum-12",
+    "epochId": "asien-altertum",
+    "question": "Chi scrisse lo Shiji intorno al 100 a.C., la prima opera completa di storiografia cinese?",
+    "choices": [
+      "Cai Lun",
+      "Sima Qian",
+      "Zhang Qian",
+      "Xuanzang"
+    ],
+    "answer": 1,
+    "explanation": "Lo storico di corte Sima Qian scrisse lo Shiji in 130 capitoli; Cai Lun perfezionò la carta, Zhang Qian fu un inviato e Xuanzang un pellegrino buddhista.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Quale evento scatenò la Prima guerra mondiale nell'estate del 1914?",
+    "choices": [
+      "L'affondamento del Lusitania",
+      "La caduta dello zar",
+      "L'attentato di Sarajevo",
+      "La battaglia di Verdun"
+    ],
+    "answer": 2,
+    "explanation": "L'assassinio dell'erede al trono austriaco, Francesco Ferdinando, il 28 giugno 1914 a Sarajevo portò, attraverso la crisi di luglio, alla guerra.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-02",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Chi guidò i bolscevichi al potere nella Rivoluzione d'Ottobre del 1917?",
+    "choices": [
+      "Lenin",
+      "Stalin",
+      "Trockij",
+      "Kerenskij"
+    ],
+    "answer": 0,
+    "explanation": "Lenin tornò dall'esilio nell'aprile 1917 e in novembre guidò il rovesciamento a Pietrogrado.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-03",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "In quale giorno entrò in vigore l'armistizio di Compiègne?",
+    "choices": [
+      "28 giugno 1919",
+      "9 novembre 1918",
+      "1 agosto 1914",
+      "11 novembre 1918"
+    ],
+    "answer": 3,
+    "explanation": "L'armistizio entrò in vigore alle ore 11 dell'11 novembre 1918 e pose fine ai combattimenti sul fronte occidentale.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-04",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Quale grande potenza non aderì mai alla Società delle Nazioni, sebbene il suo presidente l'avesse proposta?",
+    "choices": [
+      "Francia",
+      "Gli Stati Uniti",
+      "Gran Bretagna",
+      "Giappone"
+    ],
+    "answer": 1,
+    "explanation": "Il Senato americano respinse l'adesione, sebbene Woodrow Wilson avesse delineato la Società delle Nazioni nei suoi Quattordici Punti.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-05",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Quale riforma NON fece parte della trasformazione della Turchia da parte di Atatürk?",
+    "choices": [
+      "Introduzione dell'alfabeto latino",
+      "Separazione tra religione e stato",
+      "Ripristino del califfato",
+      "Suffragio femminile"
+    ],
+    "answer": 2,
+    "explanation": "Atatürk abolì il califfato nel 1924; portò a termine le altre riforme negli anni Venti e Trenta.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-06",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Contro cosa era diretta la Marcia del sale di Gandhi del 1930?",
+    "choices": [
+      "Contro la spartizione dell'India",
+      "Contro la coscrizione obbligatoria",
+      "Contro l'importazione di stoffe britanniche",
+      "Contro il monopolio britannico del sale e la tassa sul sale"
+    ],
+    "answer": 3,
+    "explanation": "Gandhi marciò per 385 chilometri fino al mare e lì estrasse dimostrativamente il sale, cosa vietata dalla legge britannica.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-07",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Grazie a quale impresa Mustafa Kemal divenne noto nel 1915?",
+    "choices": [
+      "La difesa di Gallipoli contro gli Alleati",
+      "La conquista di Baghdad",
+      "La vittoria a Tannenberg",
+      "La presa di Gerusalemme"
+    ],
+    "answer": 0,
+    "explanation": "Come colonnello, Mustafa Kemal e le sue truppe tennero le alture della penisola di Gallipoli; gli Alleati dovettero ritirarsi nel gennaio 1916.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-08",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Quale nuova moneta pose fine all'iperinflazione in Germania nel novembre 1923?",
+    "choices": [
+      "Reichsmark",
+      "Goldmark",
+      "Rentenmark",
+      "Deutsche Mark"
+    ],
+    "answer": 2,
+    "explanation": "Il Rentenmark, introdotto il 15 novembre 1923, stabilizzò la moneta; il Reichsmark lo sostituì nel 1924.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-09",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Chi fu la prima donna a tenere un discorso in un parlamento tedesco, il 19 febbraio 1919?",
+    "choices": [
+      "Rosa Luxemburg",
+      "Marie Juchacz",
+      "Käthe Kollwitz",
+      "Clara Zetkin"
+    ],
+    "answer": 1,
+    "explanation": "La socialdemocratica Marie Juchacz parlò all'Assemblea Nazionale di Weimar e nello stesso anno fondò l'organizzazione assistenziale Arbeiterwohlfahrt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-10",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Quale scuola d'arte, artigianato e design fondò Walter Gropius a Weimar nel 1919?",
+    "choices": [
+      "Il Bauhaus",
+      "L'Accademia del Werkbund",
+      "La Secessione",
+      "La scuola del Cavaliere Azzurro"
+    ],
+    "answer": 0,
+    "explanation": "Il Bauhaus si trasferì a Dessau nel 1925 e fu chiuso dai nazionalsocialisti nel 1933; la sua influenza sull'architettura e sul design continua ancora oggi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-erster-weltkrieg-zwischenkriegszeit-11",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "question": "Cosa affermava la leggenda della pugnalata alle spalle dopo la Prima guerra mondiale?",
+    "choices": [
+      "Che gli Alleati avevano violato l'armistizio",
+      "Che l'imperatore aveva tradito l'esercito",
+      "Che l'esercito, imbattuto sul campo, era stato tradito dal fronte interno e dai politici",
+      "Che le riparazioni erano state inventate dalla Francia"
+    ],
+    "answer": 2,
+    "explanation": "Hindenburg e Ludendorff diffusero la leggenda per occultare la propria responsabilità nella sconfitta; servì agli avversari della repubblica come arma di propaganda.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-01",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Come si chiama il più antico sistema di scrittura conosciuto al mondo, sviluppato dai sumeri?",
+    "choices": [
+      "Geroglifici",
+      "Cuneiforme",
+      "Alfabeto",
+      "Rune"
+    ],
+    "answer": 1,
+    "explanation": "Intorno al 3200 a.C. i sumeri imprimevano segni a forma di cuneo su tavolette d'argilla; da qui il nome cuneiforme, dal latino per cuneo.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-02",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Quale fiume fu la linfa vitale dell'antico Egitto?",
+    "choices": [
+      "Eufrate",
+      "Indo",
+      "Tigri",
+      "Nilo"
+    ],
+    "answer": 3,
+    "explanation": "La piena annuale del Nilo portava limo fertile e rendeva l'Egitto una ricca terra agricola.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-03",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Per cosa è noto soprattutto il re babilonese Hammurabi?",
+    "choices": [
+      "Per la sua raccolta di leggi",
+      "Per aver costruito le piramidi",
+      "Per l'invenzione della ruota",
+      "Per la conquista dell'Egitto"
+    ],
+    "answer": 0,
+    "explanation": "Intorno al 1750 a.C. Hammurabi fece incidere su una stele circa 280 disposizioni legali, il Codice di Hammurabi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-04",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Quale faraone venerò da solo il disco solare Aton e fondò la città di Akhetaten?",
+    "choices": [
+      "Ramesse II",
+      "Cheope",
+      "Akhenaton",
+      "Tutankhamon"
+    ],
+    "answer": 2,
+    "explanation": "Akhenaton vietò gli antichi culti degli dei e trasferì la capitale ad Akhetaten, vicino all'odierna Amarna.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-05",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Tra quali potenze fu concluso il più antico trattato di pace sopravvissuto, dopo la battaglia di Qadesh?",
+    "choices": [
+      "Babilonia e Assiria",
+      "Egitto e ittiti",
+      "Sumer e Akkad",
+      "Egitto e Nubia"
+    ],
+    "answer": 1,
+    "explanation": "Ramesse II e il re ittita Hattusili III concordarono pace e assistenza reciproca circa 15 anni dopo la battaglia.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-06",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Quali fonti forniscono le più antiche testimonianze della scrittura cinese?",
+    "choices": [
+      "Rotoli di seta dipinti",
+      "Tavole di pietra della Grande Muraglia",
+      "Libri di bambù del periodo Zhou",
+      "Ossa oracolari della dinastia Shang"
+    ],
+    "answer": 3,
+    "explanation": "I re Shang incidevano le loro domande agli antenati su ossa di bue e gusci di tartaruga; queste iscrizioni sono le più antiche testimonianze scritte cinesi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-fruehe-hochkulturen-07",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Chi è considerato il primo autore conosciuto per nome nella storia mondiale?",
+    "choices": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Enheduanna",
+      "Fu Hao"
+    ],
+    "answer": 2,
+    "explanation": "Enheduanna, figlia di Sargon di Akkad e sacerdotessa suprema a Ur, si dichiara autrice nei suoi inni.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-08",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Quale popolo sviluppò intorno al 1050 a.C. un alfabeto di 22 lettere che i greci in seguito adottarono?",
+    "choices": [
+      "I fenici",
+      "Gli ittiti",
+      "Gli assiri",
+      "I sumeri"
+    ],
+    "answer": 0,
+    "explanation": "I fenici di Tiro, Sidone e Biblo semplificarono la scrittura a 22 segni consonantici; i greci aggiunsero le vocali.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-09",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Di cosa tratta, tra l'altro, l'epopea di Gilgamesh?",
+    "choices": [
+      "Della conquista dell'Egitto",
+      "Della costruzione delle piramidi",
+      "Della fondazione di Babilonia",
+      "Della ricerca dell'immortalità da parte di un re"
+    ],
+    "answer": 3,
+    "explanation": "Dopo la morte del suo amico Enkidu, Gilgamesh cerca Utnapishtim, l'eroe del diluvio, per ottenere la vita eterna, e fallisce.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-10",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Quale civiltà costruì palazzi come Cnosso a Creta?",
+    "choices": [
+      "I micenei",
+      "I minoici",
+      "I fenici",
+      "Gli ittiti"
+    ],
+    "answer": 1,
+    "explanation": "I minoici, dal nome del leggendario re Minosse, crearono la prima civiltà avanzata d'Europa a partire da circa il 2000 a.C.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-fruehe-hochkulturen-11",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Cosa fu notevole di Fu Hao, consorte del re Shang Wu Ding?",
+    "choices": [
+      "Come donna guidò eserciti in battaglia",
+      "Inventò la scrittura cinese",
+      "Governò come prima imperatrice della Cina",
+      "Costruì la prima Grande Muraglia"
+    ],
+    "answer": 0,
+    "explanation": "Le ossa oracolari riportano che Fu Hao comandò campagne con migliaia di soldati; la sua tomba non saccheggiata fu scoperta ad Anyang nel 1976.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-fruehe-hochkulturen-12",
+    "epochId": "fruehe-hochkulturen",
+    "question": "Dove si trovava il regno di Kush, il cui re Piye conquistò l'Egitto intorno al 730 a.C.?",
+    "choices": [
+      "In Anatolia",
+      "In Mesopotamia",
+      "In Nubia, nell'odierno Sudan",
+      "In Etiopia sul Mar Rosso"
+    ],
+    "answer": 2,
+    "explanation": "Kush, con le sue capitali a Napata e in seguito a Meroe, si trovava a sud dell'Egitto lungo il Nilo; i suoi re formarono la XXV dinastia.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-01",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale invenzione è considerata la forza motrice più importante della rivoluzione industriale?",
+    "choices": [
+      "La macchina a vapore",
+      "La stampa a caratteri mobili",
+      "Il telefono",
+      "La lampadina"
+    ],
+    "answer": 0,
+    "explanation": "La macchina a vapore, perfezionata da James Watt, alimentava fabbriche, locomotive e navi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-02",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Chi scrisse il Manifesto del Partito Comunista nel 1848 insieme a Friedrich Engels?",
+    "choices": [
+      "Ferdinand Lassalle",
+      "Karl Marx",
+      "August Bebel",
+      "Vladimir Lenin"
+    ],
+    "answer": 1,
+    "explanation": "Karl Marx e Friedrich Engels pubblicarono il Manifesto a Londra nel febbraio 1848.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-03",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "In quale anno fu fondato l'Impero tedesco?",
+    "choices": [
+      "1848",
+      "1866",
+      "1871",
+      "1888"
+    ],
+    "answer": 2,
+    "explanation": "Il 18 gennaio 1871 Guglielmo I fu proclamato imperatore tedesco nella Sala degli Specchi di Versailles.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-04",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale fu il risultato della restaurazione Meiji del 1868?",
+    "choices": [
+      "La Cina aprì i suoi porti",
+      "La Corea divenne indipendente",
+      "L'India divenne una colonia della corona britannica",
+      "Il Giappone si modernizzò secondo il modello occidentale"
+    ],
+    "answer": 3,
+    "explanation": "Dopo la caduta dello shogunato, il Giappone divenne una potenza industriale sotto l'imperatore Meiji nel giro di una sola generazione.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-05",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale continente fu spartito tra le potenze europee alla Conferenza di Berlino del 1884/85?",
+    "choices": [
+      "Il Sudamerica",
+      "L'Asia",
+      "L'Africa",
+      "L'Australia"
+    ],
+    "answer": 2,
+    "explanation": "La conferenza stabilì le regole per l'appropriazione di territori africani e avviò la corsa all'Africa.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-06",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale paese dovette cedere Hong Kong alla Gran Bretagna dopo la prima guerra dell'oppio nel 1842?",
+    "choices": [
+      "Giappone",
+      "Cina",
+      "Siam",
+      "Vietnam"
+    ],
+    "answer": 1,
+    "explanation": "Nel trattato di Nanchino la Cina cedette Hong Kong e aprì cinque porti al commercio britannico.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-07",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale paese fu il primo al mondo a introdurre il suffragio femminile a livello nazionale, nel 1893?",
+    "choices": [
+      "Gran Bretagna",
+      "Finlandia",
+      "Nuova Zelanda",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation": "Dopo una petizione con quasi 32.000 firme, il governatore della Nuova Zelanda firmò la legge elettorale il 19 settembre 1893.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-08",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale libro pubblicò Charles Darwin nel 1859?",
+    "choices": [
+      "L'origine delle specie",
+      "Il Capitale",
+      "Abbasso le armi!",
+      "Un ricordo di Solferino"
+    ],
+    "answer": 0,
+    "explanation": "L'opera principale di Darwin spiegava la diversità della vita attraverso l'evoluzione e la selezione naturale e andò esaurita il primo giorno.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-09",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "A chi appartenne lo Stato Libero del Congo dal 1885 al 1908?",
+    "choices": [
+      "Alla Repubblica francese",
+      "Alla Compagnia britannica delle Indie Orientali",
+      "All'Impero tedesco",
+      "Al re Leopoldo II del Belgio come proprietà personale"
+    ],
+    "answer": 3,
+    "explanation": "Leopoldo II fece sfruttare il Congo come sua proprietà personale; solo dopo uno scandalo internazionale il Belgio assunse la colonia nel 1908.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-10",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale assicurazione introdusse l'Impero tedesco nel 1883 come sua prima assicurazione sociale?",
+    "choices": [
+      "L'assicurazione contro la disoccupazione",
+      "L'assicurazione malattia",
+      "L'assicurazione pensionistica",
+      "L'assicurazione per l'assistenza a lungo termine"
+    ],
+    "answer": 1,
+    "explanation": "L'assicurazione malattia arrivò nel 1883, l'assicurazione infortuni nel 1884 e l'assicurazione vecchiaia e invalidità nel 1889; l'assicurazione disoccupazione seguì solo nel 1927.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-11",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale esperienza spinse Henry Dunant a fondare la Croce Rossa?",
+    "choices": [
+      "I feriti della battaglia di Solferino del 1859",
+      "L'epidemia di colera ad Amburgo",
+      "La guerra di Crimea",
+      "La guerra civile americana"
+    ],
+    "answer": 0,
+    "explanation": "Nel 1859 Dunant assistette alla miseria dei feriti dopo la battaglia di Solferino e nel suo libro chiese la creazione di società di soccorso volontarie e di una convenzione di protezione.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-industrialisierung-imperialismus-12",
+    "epochId": "industrialisierung-imperialismus",
+    "question": "Quale fu la conseguenza della rivolta dei Sepoy del 1857 per l'India?",
+    "choices": [
+      "L'India divenne indipendente",
+      "La Francia assunse il controllo del Bengala",
+      "La corona britannica assunse il governo dalla Compagnia delle Indie Orientali",
+      "L'imperatore Moghul tornò a governare su tutta l'India"
+    ],
+    "answer": 2,
+    "explanation": "Dopo la repressione della rivolta, la Compagnia delle Indie Orientali fu sciolta nel 1858 e l'India fu posta sotto il diretto controllo della corona britannica.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-01",
+    "epochId": "islamische-welt",
+    "question": "Quale evento segna l'inizio del calendario islamico?",
+    "choices": [
+      "La nascita di Maometto",
+      "L'egira a Medina nel 622",
+      "La conquista della Mecca nel 630",
+      "La fondazione di Baghdad nel 762"
+    ],
+    "answer": 1,
+    "explanation": "L'emigrazione di Maometto dalla Mecca a Medina nell'anno 622 fu fissata dal califfo Umar come inizio del calendario islamico.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-02",
+    "epochId": "islamische-welt",
+    "question": "Chi sconfisse un esercito arabo-berbero a Poitiers nel 732?",
+    "choices": [
+      "Carlo Magno",
+      "Clodoveo",
+      "Pipino il Breve",
+      "Carlo Martello"
+    ],
+    "answer": 3,
+    "explanation": "Nel 732 il maggiordomo di palazzo franco Carlo Martello fermò l'avanzata delle truppe musulmane verso nord.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-03",
+    "epochId": "islamische-welt",
+    "question": "Quale dinastia fondò la città di Baghdad nel 762?",
+    "choices": [
+      "Gli Abbasidi",
+      "Gli Omayyadi",
+      "I Fatimidi",
+      "Gli Ottomani"
+    ],
+    "answer": 0,
+    "explanation": "Nel 762 il califfo abbaside al-Mansur fece costruire la città rotonda di Baghdad sul Tigri come sua nuova capitale.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-04",
+    "epochId": "islamische-welt",
+    "question": "Quale opera rese famoso Ibn Sina (Avicenna) in Europa fino al XVII secolo?",
+    "choices": [
+      "La Rihla",
+      "Le mille e una notte",
+      "Il Canone della medicina",
+      "Il Libro dell'algebra"
+    ],
+    "answer": 2,
+    "explanation": "Nella traduzione latina, il Canone della medicina di Ibn Sina fu per secoli il più importante manuale di medicina nelle università europee.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-05",
+    "epochId": "islamische-welt",
+    "question": "In quale anno Saladino riconquistò Gerusalemme dai crociati?",
+    "choices": [
+      "1099",
+      "1187",
+      "1258",
+      "1291"
+    ],
+    "answer": 1,
+    "explanation": "Dopo la sua vittoria a Hattin, Saladino prese Gerusalemme il 2 ottobre 1187; la conquista da parte della Prima crociata era avvenuta nel 1099.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-06",
+    "epochId": "islamische-welt",
+    "question": "Chi distrusse Baghdad nel 1258 e pose fine al califfato abbaside?",
+    "choices": [
+      "I crociati",
+      "I selgiuchidi",
+      "I mamelucchi",
+      "I mongoli sotto Hulagu"
+    ],
+    "answer": 3,
+    "explanation": "L'esercito mongolo di Hulagu, nipote di Gengis Khan, conquistò Baghdad nel 1258 e fece giustiziare l'ultimo califfo abbaside.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-07",
+    "epochId": "islamische-welt",
+    "question": "Quale evento del 680 rimane di importanza centrale per gli sciiti ancora oggi?",
+    "choices": [
+      "La battaglia di Badr",
+      "La morte di Husayn a Karbala",
+      "La fondazione del Cairo",
+      "La battaglia di Manzikert"
+    ],
+    "answer": 1,
+    "explanation": "Husayn, nipote del profeta, fu ucciso a Karbala nel 680 dalle truppe del califfo omayyade Yazid; gli sciiti commemorano la sua morte ogni anno nel giorno di Ashura.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-08",
+    "epochId": "islamische-welt",
+    "question": "Da dove deriva la parola algebra?",
+    "choices": [
+      "Dal nome della città di Baghdad",
+      "Dal greco",
+      "Dal nome del matematico al-Khwarizmi",
+      "Dal titolo di un libro di calcolo di al-Khwarizmi"
+    ],
+    "answer": 3,
+    "explanation": "Il libro di al-Khwarizmi sul calcolo per completamento e bilanciamento, in arabo al-jabr, diede il nome all'algebra; il suo stesso nome, invece, diede origine alla parola algoritmo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-09",
+    "epochId": "islamische-welt",
+    "question": "Quale dinastia fondò la città del Cairo nel 969?",
+    "choices": [
+      "I Fatimidi",
+      "Gli Abbasidi",
+      "I selgiuchidi",
+      "Gli Ayyubidi"
+    ],
+    "answer": 0,
+    "explanation": "I Fatimidi sciiti conquistarono l'Egitto nel 969 e fondarono la città palatina di al-Qahira, che divenne il Cairo; la costruzione della moschea di al-Azhar iniziò nel 970.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-islamische-welt-10",
+    "epochId": "islamische-welt",
+    "question": "Quale fu la conseguenza della battaglia di Manzikert nel 1071?",
+    "choices": [
+      "I mongoli conquistarono Baghdad",
+      "I crociati presero Gerusalemme",
+      "Le tribù turche avanzarono in Anatolia",
+      "Gli omayyadi persero la Spagna"
+    ],
+    "answer": 2,
+    "explanation": "Dopo la vittoria selgiuchide su Bisanzio, le tribù turche si stanziarono in Asia Minore, dove sorsero il sultanato di Rum e in seguito l'impero ottomano.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-islamische-welt-11",
+    "epochId": "islamische-welt",
+    "question": "Chi dotò la moschea di al-Qarawiyyin a Fès nell'859, da cui si sviluppò una delle più antiche università al mondo?",
+    "choices": [
+      "Aisha bint Abi Bakr",
+      "Fatima al-Fihri",
+      "Rabia di Bassora",
+      "Shajar al-Durr"
+    ],
+    "answer": 1,
+    "explanation": "Fatima al-Fihri, figlia di un mercante, finanziò la costruzione della moschea con la sua eredità; l'Università di al-Qarawiyyin esiste ancora oggi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-islamische-welt-12",
+    "epochId": "islamische-welt",
+    "question": "Cosa accadde a Granada il 2 gennaio 1492?",
+    "choices": [
+      "Fu completata l'Alhambra",
+      "Colombo partì per l'America",
+      "Timur conquistò la città",
+      "L'ultimo emiro consegnò la città ai Re Cattolici"
+    ],
+    "answer": 3,
+    "explanation": "Con la resa di Granada da parte di Muhammad XII, detto Boabdil, a Isabella e Ferdinando, il dominio musulmano in Spagna finì dopo quasi 800 anni.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-01",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "In quale anno cadde il muro di Berlino?",
+    "choices": [
+      "1989",
+      "1961",
+      "1990",
+      "1991"
+    ],
+    "answer": 0,
+    "explanation": "Il 9 novembre 1989 la RDT aprì i valichi di confine; la riunificazione seguì il 3 ottobre 1990.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-02",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Quale crisi portò il mondo sull'orlo di una guerra nucleare nel 1962?",
+    "choices": [
+      "La crisi di Suez",
+      "La crisi dei missili di Cuba",
+      "Il blocco di Berlino",
+      "La crisi petrolifera"
+    ],
+    "answer": 1,
+    "explanation": "I missili sovietici a Cuba portarono nell'ottobre 1962 a un confronto di tredici giorni tra Kennedy e Chruščëv.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-03",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Chi divenne presidente nelle prime elezioni libere del Sudafrica nel 1994?",
+    "choices": [
+      "Desmond Tutu",
+      "Frederik de Klerk",
+      "Nelson Mandela",
+      "Thabo Mbeki"
+    ],
+    "answer": 2,
+    "explanation": "Nelson Mandela, che aveva trascorso 27 anni in prigione, divenne il primo presidente nero del Sudafrica dopo la vittoria elettorale dell'ANC.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-04",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Con quale metodo Mahatma Gandhi ottenne l'indipendenza per l'India?",
+    "choices": [
+      "La guerriglia armata",
+      "Un'alleanza con il Giappone",
+      "Negoziati con la Società delle Nazioni",
+      "La resistenza nonviolenta e la disobbedienza civile"
+    ],
+    "answer": 3,
+    "explanation": "Gandhi si affidò a boicottaggi, marce come la Marcia del sale e alla disobbedienza nonviolenta contro il dominio britannico.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-05",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Quali concetti di riforma sono associati a Michail Gorbačëv?",
+    "choices": [
+      "Glasnost e perestrojka",
+      "New Deal e Fair Deal",
+      "Grande balzo in avanti e rivoluzione culturale",
+      "Piano Marshall e dottrina Truman"
+    ],
+    "answer": 0,
+    "explanation": "Con la glasnost, la trasparenza, e la perestrojka, la ristrutturazione, Gorbačëv cercò a partire dal 1985 di riformare l'Unione Sovietica.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-06",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Quale evento scatenò la crisi finanziaria globale nel 2008?",
+    "choices": [
+      "L'adesione della Cina all'Organizzazione mondiale del commercio",
+      "L'introduzione dell'euro",
+      "Il crollo della banca Lehman Brothers",
+      "La Brexit"
+    ],
+    "answer": 2,
+    "explanation": "Il fallimento di Lehman Brothers il 15 settembre 2008 scosse il sistema finanziario mondiale.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-07",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Come risposero le potenze occidentali al blocco sovietico di Berlino Ovest nel 1948?",
+    "choices": [
+      "Ritirarono le loro truppe da Berlino",
+      "Rifornirono la città tramite un ponte aereo",
+      "Forzarono il blocco con i carri armati",
+      "Imposero un blocco navale all'Unione Sovietica"
+    ],
+    "answer": 1,
+    "explanation": "Per quasi un anno gli aerei americani e britannici trasportarono carbone, cibo e medicine a Berlino Ovest, finché Stalin non revocò il blocco nel maggio 1949.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-08",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Perché il 1960 è chiamato l'Anno dell'Africa?",
+    "choices": [
+      "Perché l'apartheid in Sudafrica finì",
+      "Perché fu fondata l'Unione Africana",
+      "Perché il Canale di Suez fu nazionalizzato",
+      "Perché 17 colonie africane divennero indipendenti"
+    ],
+    "answer": 3,
+    "explanation": "Nel giro di un solo anno 17 stati ottennero l'indipendenza, tra cui quasi tutte le colonie francesi nonché la Nigeria, la Somalia e il Congo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-09",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Quale movimento nacque dalla Conferenza di Bandung del 1955?",
+    "choices": [
+      "Il Movimento dei paesi non allineati",
+      "Il Patto di Varsavia",
+      "L'Organizzazione dei paesi esportatori di petrolio",
+      "La Comunità economica europea"
+    ],
+    "answer": 0,
+    "explanation": "A Bandung 29 stati asiatici e africani chiesero una via propria tra i blocchi; nel 1961 fondarono a Belgrado il Movimento dei paesi non allineati.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-10",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Cosa fece Rosa Parks nel 1955 per far scattare il boicottaggio degli autobus di Montgomery?",
+    "choices": [
+      "Tenne un discorso davanti al Congresso",
+      "Fece lo sciopero della fame in prigione",
+      "Si rifiutò di cedere il posto a un passeggero bianco",
+      "Fece causa alla città di Montgomery"
+    ],
+    "answer": 2,
+    "explanation": "Parks rimase seduta sull'autobus e fu arrestata; la popolazione nera boicottò poi gli autobus della città per 381 giorni.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-11",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "Cosa rappresenta la politica di Deng Xiaoping a partire dal 1978?",
+    "choices": [
+      "La rivoluzione culturale",
+      "Il Grande balzo in avanti",
+      "La rottura con l'Unione Sovietica",
+      "La riforma e l'apertura verso un'economia di mercato"
+    ],
+    "answer": 3,
+    "explanation": "Deng permise l'impresa privata, creò zone economiche speciali e aprì la Cina al capitale straniero, ma mantenne saldo il dominio esclusivo del partito.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-kalter-krieg-gegenwart-12",
+    "epochId": "kalter-krieg-gegenwart",
+    "question": "In quale anno finì la guerra del Vietnam con la conquista di Saigon da parte del Nord?",
+    "choices": [
+      "1968",
+      "1975",
+      "1973",
+      "1979"
+    ],
+    "answer": 1,
+    "explanation": "Gli Stati Uniti si ritirarono nel 1973; il 30 aprile 1975 le truppe nordvietnamite presero Saigon e unificarono il paese sotto il dominio comunista.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-01",
+    "epochId": "mittelalter",
+    "question": "Chi fu incoronato imperatore a Roma nel giorno di Natale dell'anno 800?",
+    "choices": [
+      "Clodoveo",
+      "Ottone il Grande",
+      "Pipino il Breve",
+      "Carlo Magno"
+    ],
+    "answer": 3,
+    "explanation": "Papa Leone III incoronò Carlo Magno imperatore in San Pietro il 25 dicembre 800.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-02",
+    "epochId": "mittelalter",
+    "question": "Quale evento è considerato l'inizio dell'era vichinga?",
+    "choices": [
+      "Il saccheggio del monastero di Lindisfarne nel 793",
+      "La fondazione di Dublino",
+      "La scoperta della Groenlandia",
+      "La battaglia di Hastings"
+    ],
+    "answer": 0,
+    "explanation": "Il saccheggio del monastero di Lindisfarne nell'anno 793 provocò orrore in tutta Europa e segna l'inizio dell'era vichinga.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-03",
+    "epochId": "mittelalter",
+    "question": "Cosa stabilì la Magna Carta del 1215?",
+    "choices": [
+      "La divisione dell'impero franco",
+      "L'elezione del papa da parte dei cardinali",
+      "Che il re è soggetto alla legge e non può imporre tasse senza consenso",
+      "La fondazione dell'Università di Oxford"
+    ],
+    "answer": 2,
+    "explanation": "Il re Giovanni dovette assicurare ai baroni che nessuno sarebbe stato imprigionato senza giudizio e che nessuna tassa sarebbe stata imposta senza il consenso del consiglio.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-04",
+    "epochId": "mittelalter",
+    "question": "Quale impero governò Mansa Musa, che compì il pellegrinaggio alla Mecca nel 1324?",
+    "choices": [
+      "L'impero del Ghana",
+      "L'impero del Mali",
+      "L'impero Songhai",
+      "Il regno di Axum"
+    ],
+    "answer": 1,
+    "explanation": "Mansa Musa era re dell'impero del Mali, nell'Africa occidentale, che controllava il commercio dell'oro attraverso il Sahara.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-05",
+    "epochId": "mittelalter",
+    "question": "Quale città liberò Giovanna d'Arco nel 1429 durante la guerra dei Cent'anni?",
+    "choices": [
+      "Parigi",
+      "Reims",
+      "Calais",
+      "Orléans"
+    ],
+    "answer": 3,
+    "explanation": "Nel maggio 1429 Giovanna d'Arco pose fine all'assedio inglese di Orléans e in seguito condusse il Delfino a Reims per la sua incoronazione.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-06",
+    "epochId": "mittelalter",
+    "question": "Quale sultano conquistò Costantinopoli nel 1453?",
+    "choices": [
+      "Mehmed II",
+      "Osman I",
+      "Solimano il Magnifico",
+      "Bayezid I"
+    ],
+    "answer": 0,
+    "explanation": "Mehmed II, detto il Conquistatore, prese Costantinopoli il 29 maggio 1453 e ne fece la capitale dell'impero ottomano.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-07",
+    "epochId": "mittelalter",
+    "question": "Quale re attese come penitente davanti al castello di Canossa nel 1077 il perdono del papa?",
+    "choices": [
+      "Ottone I",
+      "Enrico IV",
+      "Federico Barbarossa",
+      "Carlo il Calvo"
+    ],
+    "answer": 1,
+    "explanation": "Durante la lotta per le investiture, Enrico IV chiese a papa Gregorio VII, a Canossa, di essere liberato dalla scomunica che il papa gli aveva imposto nel 1076.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-mittelalter-08",
+    "epochId": "mittelalter",
+    "question": "Cosa stabilì il trattato di Verdun nell'843?",
+    "choices": [
+      "L'incoronazione imperiale di Ottone I",
+      "La fine delle incursioni vichinghe",
+      "La divisione dell'impero franco tra i nipoti di Carlo Magno",
+      "La fondazione della Lega anseatica"
+    ],
+    "answer": 2,
+    "explanation": "A Verdun, Carlo il Calvo, Ludovico il Germanico e Lotario I divisero l'impero franco in un regno occidentale, uno orientale e uno mediano.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-09",
+    "epochId": "mittelalter",
+    "question": "Quale imperatore fece costruire la Santa Sofia a Costantinopoli tra il 532 e il 537?",
+    "choices": [
+      "Giustiniano I",
+      "Costantino il Grande",
+      "Carlo Magno",
+      "Basilio II"
+    ],
+    "answer": 0,
+    "explanation": "Giustiniano I fece ricostruire la Santa Sofia dopo la rivolta di Nika e la consacrò nel 537; per quasi mille anni fu la chiesa più grande del mondo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-10",
+    "epochId": "mittelalter",
+    "question": "Chi sconfisse Ottone I sul Lechfeld, presso Augusta, nell'anno 955?",
+    "choices": [
+      "I vichinghi",
+      "I sassoni",
+      "Gli arabi",
+      "Gli ungari"
+    ],
+    "answer": 3,
+    "explanation": "Nel 955 Ottone I sconfisse i cavalieri ungari che da decenni saccheggiavano l'Europa centrale, e fu incoronato imperatore nel 962.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-mittelalter-11",
+    "epochId": "mittelalter",
+    "question": "Quale sovrano trasformò la città-stato di Cusco nell'impero inca a partire da circa il 1438?",
+    "choices": [
+      "Moctezuma",
+      "Pachacútec",
+      "Atahualpa",
+      "Mansa Musa"
+    ],
+    "answer": 1,
+    "explanation": "Pachacútec sconfisse i chanca, ampliò Cusco fino a farne una capitale e fondò l'impero del Tawantinsuyu; Atahualpa fu l'ultimo inca prima della conquista spagnola.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-mittelalter-12",
+    "epochId": "mittelalter",
+    "question": "Di cosa viveva soprattutto la città di pietra di Grande Zimbabwe nell'Africa australe tra il XIII e il XV secolo?",
+    "choices": [
+      "Del commercio del sale attraverso il Sahara",
+      "Del commercio della seta con Bisanzio",
+      "Del commercio dell'oro e dell'avorio con la costa swahili",
+      "Del commercio delle pellicce con Novgorod"
+    ],
+    "answer": 2,
+    "explanation": "I sovrani di Grande Zimbabwe controllavano giacimenti d'oro e mandrie di bestiame e commerciavano attraverso porti come Kilwa e Sofala fino in India e Cina.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-01",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Quale invenzione è attribuita a Johannes Gutenberg intorno al 1450?",
+    "choices": [
+      "Il telescopio",
+      "La stampa a caratteri mobili",
+      "La bussola",
+      "L'orologio meccanico"
+    ],
+    "answer": 1,
+    "explanation": "A Magonza, Gutenberg sviluppò la stampa con lettere fuse singolarmente e una pressa da stampa.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-02",
+    "epochId": "renaissance-entdeckungen",
+    "question": "In quale anno Cristoforo Colombo raggiunse l'America?",
+    "choices": [
+      "1453",
+      "1498",
+      "1517",
+      "1492"
+    ],
+    "answer": 3,
+    "explanation": "Colombo sbarcò su un'isola delle Bahamas il 12 ottobre 1492.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-03",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Contro cosa erano dirette in primo luogo le 95 tesi di Lutero del 1517?",
+    "choices": [
+      "Contro la vendita delle indulgenze",
+      "Contro la servitù della gleba",
+      "Contro la stampa",
+      "Contro la traduzione della Bibbia"
+    ],
+    "answer": 0,
+    "explanation": "Lutero criticava la pratica di riscattare la pena per i peccati attraverso l'acquisto di lettere di indulgenza.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-04",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Quale impero conquistarono gli spagnoli nel 1521 con la caduta di Tenochtitlan?",
+    "choices": [
+      "L'impero inca",
+      "Il regno maya",
+      "L'impero azteco",
+      "L'impero moghul"
+    ],
+    "answer": 2,
+    "explanation": "Tenochtitlan era la capitale degli aztechi; Hernán Cortés la conquistò dopo un assedio durato mesi.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-05",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Quale innovazione sostenne Niccolò Copernico nella sua opera del 1543?",
+    "choices": [
+      "La Terra è un disco",
+      "La Terra ruota intorno al Sole",
+      "I pianeti si muovono su orbite ellittiche",
+      "L'universo è infinito"
+    ],
+    "answer": 1,
+    "explanation": "Copernico pose il Sole al centro; le orbite ellittiche furono scoperte solo con Keplero.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-06",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Qual era lo scopo del Concilio di Trento (1545-1563)?",
+    "choices": [
+      "L'elezione di un nuovo papa",
+      "La riconciliazione con la Chiesa ortodossa",
+      "La condanna di Copernico",
+      "Il chiarimento della dottrina cattolica in risposta alla Riforma"
+    ],
+    "answer": 3,
+    "explanation": "Il concilio riaffermò la dottrina cattolica contro i protestanti e decise riforme interne della chiesa.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-renaissance-entdeckungen-07",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Cosa stabilì il trattato di Tordesillas nel 1494?",
+    "choices": [
+      "La pace tra Inghilterra e Spagna",
+      "Il riconoscimento della Riforma",
+      "Il confine tra Francia e Impero",
+      "La spartizione del mondo tra Spagna e Portogallo"
+    ],
+    "answer": 3,
+    "explanation": "Lungo una linea nell'Atlantico, le nuove terre a ovest sarebbero appartenute alla Spagna e quelle a est al Portogallo; per questo il Brasile toccò al Portogallo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-08",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Quale principio stabilì la pace di Augusta del 1555?",
+    "choices": [
+      "Il sovrano territoriale determina la confessione del proprio territorio",
+      "Ogni suddito sceglie liberamente la propria religione",
+      "Nell'Impero è permesso solo il cattolicesimo",
+      "L'imperatore decide la fede di tutti i principi"
+    ],
+    "answer": 0,
+    "explanation": "Ogni stato imperiale poteva scegliere tra la confessione cattolica e quella luterana per il proprio territorio; a chi era di altra fede era permesso emigrare.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-09",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Quale città fu un centro di sapere nell'impero Songhai sotto Askia Muhammad?",
+    "choices": [
+      "Il Cairo",
+      "Zanzibar",
+      "Timbuctù",
+      "Grande Zimbabwe"
+    ],
+    "answer": 2,
+    "explanation": "Timbuctù sul Niger, con la sua moschea di Sankoré, era un centro di sapere islamico e di commercio attraverso il Sahara.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-renaissance-entdeckungen-10",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Chi fondò l'ordine dei gesuiti nel 1540?",
+    "choices": [
+      "Giovanni Calvino",
+      "Ignazio di Loyola",
+      "Erasmo da Rotterdam",
+      "Tommaso Moro"
+    ],
+    "answer": 1,
+    "explanation": "L'ex soldato Ignazio di Loyola fondò la Compagnia di Gesù, confermata dal papa nel 1540.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-11",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Cosa accadde alla Dieta di Worms nel 1521?",
+    "choices": [
+      "Lutero rifiutò di abiurare i suoi insegnamenti",
+      "Carlo V fu eletto imperatore",
+      "Fu conclusa la pace di Augusta",
+      "Lutero fu giustiziato"
+    ],
+    "answer": 0,
+    "explanation": "Davanti all'imperatore Carlo V, Lutero dichiarò che avrebbe potuto ritrattare solo se confutato con la Bibbia; per questo fu messo al bando.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-renaissance-entdeckungen-12",
+    "epochId": "renaissance-entdeckungen",
+    "question": "Quale sovrano governò l'impero moghul in India a partire dal 1556 ed era noto per la sua tolleranza religiosa?",
+    "choices": [
+      "Solimano il Magnifico",
+      "Oda Nobunaga",
+      "Akbar",
+      "Babur"
+    ],
+    "answer": 2,
+    "explanation": "Akbar abolì la tassa speciale per i non musulmani e fece dibattere alla sua corte rappresentanti di tutte le religioni.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-01",
+    "epochId": "revolutionen",
+    "question": "Quale evento è considerato l'inizio della Rivoluzione francese?",
+    "choices": [
+      "L'esecuzione di Luigi XVI",
+      "La presa della Bastiglia",
+      "L'incoronazione imperiale di Napoleone",
+      "La battaglia delle nazioni a Lipsia"
+    ],
+    "answer": 1,
+    "explanation": "La presa della Bastiglia il 14 luglio 1789 è considerata l'inizio della Rivoluzione; il 14 luglio è oggi la festa nazionale francese.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-02",
+    "epochId": "revolutionen",
+    "question": "Quali colonie dichiararono la propria indipendenza dalla Gran Bretagna nel 1776?",
+    "choices": [
+      "Le colonie spagnole in Sudamerica",
+      "La colonia francese di Saint-Domingue",
+      "La colonia portoghese del Brasile",
+      "Tredici colonie britanniche in Nord America"
+    ],
+    "answer": 3,
+    "explanation": "Le tredici colonie sulla costa orientale nordamericana fondarono gli Stati Uniti d'America.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-03",
+    "epochId": "revolutionen",
+    "question": "Chi guidò gli insorti nella rivoluzione haitiana?",
+    "choices": [
+      "Toussaint Louverture",
+      "Simón Bolívar",
+      "Maximilien de Robespierre",
+      "José de San Martín"
+    ],
+    "answer": 0,
+    "explanation": "L'ex schiavo Toussaint Louverture divenne il più importante leader della rivolta a Saint-Domingue.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-04",
+    "epochId": "revolutionen",
+    "question": "Cos'era il Code civil del 1804?",
+    "choices": [
+      "Una costituzione per l'impero",
+      "Un trattato di pace con l'Austria",
+      "Un codice civile uniforme per la Francia",
+      "Una legge che introduceva la coscrizione obbligatoria"
+    ],
+    "answer": 2,
+    "explanation": "Il Code civil unificò il diritto civile e stabilì l'uguaglianza davanti alla legge, la proprietà e la libertà contrattuale.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-05",
+    "epochId": "revolutionen",
+    "question": "Quale statista plasmò in modo più decisivo il Congresso di Vienna del 1814-1815?",
+    "choices": [
+      "Talleyrand",
+      "Metternich",
+      "Bismarck",
+      "Hardenberg"
+    ],
+    "answer": 1,
+    "explanation": "Il ministro degli esteri austriaco Metternich presiedette il congresso e rappresentò la politica della Restaurazione.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-06",
+    "epochId": "revolutionen",
+    "question": "Perché l'Assemblea Nazionale di Francoforte fallì nel 1849?",
+    "choices": [
+      "Non riuscì ad accordarsi su alcun diritto fondamentale",
+      "Napoleone III marciò su Francoforte",
+      "L'Austria aderì al nuovo impero",
+      "Il re di Prussia rifiutò la corona imperiale"
+    ],
+    "answer": 3,
+    "explanation": "Nel 1849 Federico Guglielmo IV rifiutò la corona imperiale offertagli dal parlamento; l'Assemblea Nazionale si dissolse in seguito.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-07",
+    "epochId": "revolutionen",
+    "question": "In quale città fu adottata la Costituzione degli Stati Uniti nel 1787?",
+    "choices": [
+      "Filadelfia",
+      "Washington",
+      "New York",
+      "Boston"
+    ],
+    "answer": 0,
+    "explanation": "Da maggio a settembre 1787, 55 delegati deliberarono sulla costituzione a Filadelfia sotto la presidenza di George Washington; la capitale Washington fu costruita solo in seguito.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-08",
+    "epochId": "revolutionen",
+    "question": "Cosa ottennero le donne di Parigi con la loro marcia su Versailles nell'ottobre 1789?",
+    "choices": [
+      "Il diritto di voto per le donne",
+      "L'abolizione della monarchia",
+      "Il trasferimento del re a Parigi",
+      "Il rilascio dei prigionieri politici"
+    ],
+    "answer": 2,
+    "explanation": "Le donne costrinsero Luigi XVI a firmare la Dichiarazione dei diritti dell'uomo e a trasferirsi con la sua famiglia da Versailles a Parigi, dove comparve davanti agli occhi del popolo.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-09",
+    "epochId": "revolutionen",
+    "question": "Quale ritrovamento della campagna d'Egitto di Napoleone rese possibile la decifrazione dei geroglifici?",
+    "choices": [
+      "I rotoli di Alessandria",
+      "La stele di Rosetta",
+      "La tomba di Tutankhamon",
+      "Le tavolette di Amarna"
+    ],
+    "answer": 1,
+    "explanation": "La stele di Rosetta, trovata nel 1799, reca lo stesso testo in geroglifici, in scrittura demotica e in greco; con essa Champollion raggiunse la decifrazione nel 1822.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-revolutionen-10",
+    "epochId": "revolutionen",
+    "question": "Cosa accadde il 6 agosto 1806?",
+    "choices": [
+      "Napoleone si autoincoronò imperatore",
+      "La Prussia perse la battaglia di Jena",
+      "Fu fondata la Confederazione del Reno",
+      "Francesco II depose la corona del Sacro Romano Impero"
+    ],
+    "answer": 3,
+    "explanation": "Dopo la fondazione della Confederazione del Reno e un ultimatum di Napoleone, Francesco II dichiarò sciolto l'impero, vecchio di oltre 800 anni.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-revolutionen-11",
+    "epochId": "revolutionen",
+    "question": "Il cui arrivo decise la battaglia di Waterloo la sera del 18 giugno 1815?",
+    "choices": [
+      "La guardia russa sotto lo zar Alessandro",
+      "L'esercito austriaco sotto Schwarzenberg",
+      "Le truppe prussiane sotto Blücher",
+      "I guerriglieri spagnoli"
+    ],
+    "answer": 2,
+    "explanation": "L'esercito di Wellington resistette tutto il giorno finché non arrivarono i prussiani di Blücher, mettendo in fuga l'esercito di Napoleone.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-revolutionen-12",
+    "epochId": "revolutionen",
+    "question": "Quale opera pubblicò Mary Wollstonecraft nel 1792?",
+    "choices": [
+      "Rivendicazione dei diritti della donna",
+      "La Dichiarazione dei diritti della donna e della cittadina",
+      "Il contratto sociale",
+      "Frankenstein"
+    ],
+    "answer": 0,
+    "explanation": "Nella Rivendicazione dei diritti della donna, Wollstonecraft chiedeva pari istruzione e diritti civili per le donne; la Dichiarazione dei diritti della donna e della cittadina è opera di Olympe de Gouges.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-01",
+    "epochId": "rom",
+    "question": "In quale anno fu fondata Roma secondo la leggenda?",
+    "choices": [
+      "1000 a.C.",
+      "753 a.C.",
+      "509 a.C.",
+      "264 a.C."
+    ],
+    "answer": 1,
+    "explanation": "La tradizione romana indica il 753 a.C. come anno della fondazione da parte di Romolo.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-02",
+    "epochId": "rom",
+    "question": "Contro quale città Roma combatté le tre guerre puniche?",
+    "choices": [
+      "Atene",
+      "Alessandria",
+      "Cartagine",
+      "Siracusa"
+    ],
+    "answer": 2,
+    "explanation": "Cartagine, nel Nord Africa, fu la grande rivale di Roma e fu distrutta nel 146 a.C.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-03",
+    "epochId": "rom",
+    "question": "Cosa accadde alle idi di marzo del 44 a.C.?",
+    "choices": [
+      "Cesare fu assassinato",
+      "Roma fu conquistata dai galli",
+      "Augusto divenne imperatore",
+      "Il Vesuvio eruttò"
+    ],
+    "answer": 0,
+    "explanation": "Senatori intorno a Bruto e Cassio pugnalarono a morte Cesare il 15 marzo 44 a.C.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-04",
+    "epochId": "rom",
+    "question": "Come si chiama la forma di governo istituita da Augusto?",
+    "choices": [
+      "Tirannia",
+      "Dominato",
+      "Tetrarchia",
+      "Principato"
+    ],
+    "answer": 3,
+    "explanation": "Augusto governò come princeps, il primo tra pari; da qui il Principato.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-05",
+    "epochId": "rom",
+    "question": "Quale imperatore concesse ai cristiani la libertà di religione nel 313?",
+    "choices": [
+      "Nerone",
+      "Costantino",
+      "Diocleziano",
+      "Traiano"
+    ],
+    "answer": 1,
+    "explanation": "Nel 313 Costantino e Licinio si accordarono a Milano sul libero esercizio della religione.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-06",
+    "epochId": "rom",
+    "question": "Chi depose l'ultimo imperatore romano d'Occidente nel 476?",
+    "choices": [
+      "Attila",
+      "Alarico",
+      "Odoacre",
+      "Teodorico"
+    ],
+    "answer": 2,
+    "explanation": "Il comandante germanico Odoacre depose Romolo Augustolo e divenne re d'Italia.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-07",
+    "epochId": "rom",
+    "question": "Cosa fu la Legge delle Dodici Tavole di circa il 450 a.C.?",
+    "choices": [
+      "Un trattato di pace con Cartagine",
+      "Il primo codice legale scritto di Roma",
+      "Una legge contro i cristiani",
+      "La costituzione di Augusto"
+    ],
+    "answer": 1,
+    "explanation": "Sotto la pressione dei plebei la legge fu registrata su dodici tavole ed esposta pubblicamente nel Foro.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-08",
+    "epochId": "rom",
+    "question": "Chi guidò la più grande rivolta di schiavi dell'antichità dal 73 al 71 a.C.?",
+    "choices": [
+      "Arminio",
+      "Vercingetorige",
+      "Spartaco",
+      "Crasso"
+    ],
+    "answer": 2,
+    "explanation": "Il gladiatore Spartaco fuggì da Capua e guidò decine di migliaia di schiavi finché Crasso lo sconfisse nel 71 a.C.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-09",
+    "epochId": "rom",
+    "question": "Sotto quale imperatore l'Impero romano raggiunse la sua massima estensione nel 117?",
+    "choices": [
+      "Traiano",
+      "Nerone",
+      "Augusto",
+      "Diocleziano"
+    ],
+    "answer": 0,
+    "explanation": "Traiano conquistò la Dacia, l'Armenia e la Mesopotamia; il suo successore Adriano rinunciò di nuovo alle conquiste orientali.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-rom-10",
+    "epochId": "rom",
+    "question": "Cosa stabilì la Constitutio Antoniniana dell'imperatore Caracalla nell'anno 212?",
+    "choices": [
+      "La divisione dell'impero in quattro parti",
+      "Il divieto dei culti pagani",
+      "Il trasferimento della capitale a Costantinopoli",
+      "La cittadinanza romana per quasi tutti gli abitanti liberi dell'impero"
+    ],
+    "answer": 3,
+    "explanation": "L'editto rese cittadini romani milioni di abitanti delle province; il diritto romano si applicò allora in tutto l'impero.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-rom-11",
+    "epochId": "rom",
+    "question": "Quale forma di governo introdusse Diocleziano nel 293?",
+    "choices": [
+      "Il Principato",
+      "La Tetrarchia",
+      "La Repubblica",
+      "Il Triumvirato"
+    ],
+    "answer": 1,
+    "explanation": "Nella Tetrarchia due imperatori e due imperatori minori governavano insieme l'impero, per difendere più efficacemente le frontiere.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-rom-12",
+    "epochId": "rom",
+    "question": "Quale studiosa fu assassinata da una folla cristiana ad Alessandria nel 415?",
+    "choices": [
+      "Livia",
+      "Cleopatra",
+      "Ipazia",
+      "Agrippina"
+    ],
+    "answer": 2,
+    "explanation": "La matematica e filosofa Ipazia rimase coinvolta nella lotta di potere tra il prefetto della città e il vescovo Cirillo e fu uccisa.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-01",
+    "epochId": "urgeschichte",
+    "question": "Su quale continente comparve l'uomo moderno, Homo sapiens?",
+    "choices": [
+      "Asia",
+      "Europa",
+      "Africa",
+      "America"
+    ],
+    "answer": 2,
+    "explanation": "I più antichi fossili di Homo sapiens provengono dall'Africa e hanno circa 300.000 anni.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-02",
+    "epochId": "urgeschichte",
+    "question": "Cosa si intende per rivoluzione neolitica?",
+    "choices": [
+      "Il passaggio all'agricoltura, all'allevamento e alla vita sedentaria",
+      "L'invenzione della scrittura",
+      "La migrazione dell'uomo fuori dall'Africa",
+      "La prima lavorazione del ferro"
+    ],
+    "answer": 0,
+    "explanation": "Nel Neolitico le persone iniziarono a coltivare piante e allevare animali, e vissero stabilmente in villaggi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-03",
+    "epochId": "urgeschichte",
+    "question": "Per cosa è nota la grotta di Lascaux in Francia?",
+    "choices": [
+      "Per i più antichi utensili in pietra",
+      "Per le pitture di animali dell'era glaciale",
+      "Per lo scheletro di un Neanderthal",
+      "Per i primi ritrovamenti di grano"
+    ],
+    "answer": 1,
+    "explanation": "A Lascaux, circa 17.000 anni fa, le persone dipinsero centinaia di cavalli, uri e cervi sulle pareti della grotta.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-04",
+    "epochId": "urgeschichte",
+    "question": "Come raggiunsero l'America i primi esseri umani?",
+    "choices": [
+      "Via nave attraverso l'Atlantico",
+      "Attraverso un ponte di terra dall'Africa",
+      "In barca dall'Australia",
+      "Attraverso il ponte di terra di Bering, dalla Siberia all'Alaska"
+    ],
+    "answer": 3,
+    "explanation": "Durante l'era glaciale il livello del mare era così basso che esisteva terraferma solida tra la Siberia e l'Alaska.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-05",
+    "epochId": "urgeschichte",
+    "question": "Come morì Ötzi, l'uomo dei ghiacci?",
+    "choices": [
+      "Per una caduta in un crepaccio",
+      "Per una freccia",
+      "Per assideramento durante una tempesta di neve",
+      "Per una malattia"
+    ],
+    "answer": 1,
+    "explanation": "Una punta di freccia nella spalla sinistra mostra che Ötzi fu ucciso.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-06",
+    "epochId": "urgeschichte",
+    "question": "Cosa è notevole di Göbekli Tepe, nell'odierna Turchia?",
+    "choices": [
+      "È la più antica città con una cinta muraria",
+      "Lì fu inventata la ruota",
+      "Vi furono eretti monumentali cerchi di pietre mentre le persone erano ancora cacciatori-raccoglitori",
+      "Lì furono trovate le più antiche tavolette cuneiformi"
+    ],
+    "answer": 2,
+    "explanation": "I pilastri a forma di T di Göbekli Tepe furono creati intorno al 9500 a.C., prima che l'agricoltura e l'allevamento si affermassero nella regione.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-urgeschichte-07",
+    "epochId": "urgeschichte",
+    "question": "Quale specie umana fu la prima a lasciare l'Africa e a diffondersi fino a Giava e alla Cina?",
+    "choices": [
+      "Homo erectus",
+      "Homo sapiens",
+      "I Neanderthal",
+      "Australopithecus"
+    ],
+    "answer": 0,
+    "explanation": "Homo erectus raggiunse il Caucaso circa 1,8 milioni di anni fa e in seguito l'Asia orientale e sudorientale.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-08",
+    "epochId": "urgeschichte",
+    "question": "Dove furono realizzati i più antichi recipienti in argilla conosciuti al mondo?",
+    "choices": [
+      "In Mesopotamia",
+      "Nella Cina meridionale",
+      "In Egitto",
+      "Nell'Europa centrale"
+    ],
+    "answer": 1,
+    "explanation": "I frammenti della grotta di Xianrendong, nella Cina meridionale, hanno circa 18.000-20.000 anni e provengono ancora da cacciatori-raccoglitori.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-09",
+    "epochId": "urgeschichte",
+    "question": "Per cosa è nota la grotta di Blombos in Sudafrica?",
+    "choices": [
+      "Per le più antiche amigdale",
+      "Per lo scheletro di Lucy",
+      "Per i più antichi motivi incisi e perline ornamentali",
+      "Per i primi ritrovamenti di grano"
+    ],
+    "answer": 2,
+    "explanation": "Nella grotta di Blombos furono trovati pezzi di ocra di circa 75.000 anni con motivi geometrici e conchiglie forate.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-10",
+    "epochId": "urgeschichte",
+    "question": "Come furono scoperti i Denisovani?",
+    "choices": [
+      "Attraverso uno scheletro completo in Siberia",
+      "Attraverso pitture rupestri nell'Altaj",
+      "Attraverso utensili in pietra in Cina",
+      "Attraverso l'analisi del DNA di un osso di dito"
+    ],
+    "answer": 3,
+    "explanation": "Nel 2010 il genoma di una specie umana finora sconosciuta fu ottenuto da un minuscolo osso di dito della grotta di Denisova.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-urgeschichte-11",
+    "epochId": "urgeschichte",
+    "question": "Quale insediamento nella valle del Giordano ricevette una cinta muraria e una torre intorno all'8000 a.C.?",
+    "choices": [
+      "Çatalhöyük",
+      "Gerico",
+      "Uruk",
+      "Göbekli Tepe"
+    ],
+    "answer": 1,
+    "explanation": "Gerico è considerata uno dei più antichi insediamenti permanentemente abitati al mondo; la torre è alta quasi nove metri.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-urgeschichte-12",
+    "epochId": "urgeschichte",
+    "question": "Da cosa gli archeologi riconoscono i navigatori che colonizzarono le isole del Pacifico a partire da circa il 1500 a.C.?",
+    "choices": [
+      "Dai loro cerchi di pietre",
+      "Dalle loro armi in bronzo",
+      "Dalla loro caratteristica ceramica Lapita",
+      "Dalle loro pitture rupestri"
+    ],
+    "answer": 2,
+    "explanation": "La cultura Lapita prende il nome da un sito della Nuova Caledonia; la sua ceramica decorata in modo caratteristico segna il percorso dell'insediamento fino a Tonga e Samoa.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-01",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Con quale evento iniziò la Seconda guerra mondiale in Europa?",
+    "choices": [
+      "L'attacco a Pearl Harbor",
+      "L'attacco all'Unione Sovietica",
+      "L'annessione dell'Austria",
+      "L'invasione della Polonia"
+    ],
+    "answer": 3,
+    "explanation": "Il 1° settembre 1939 la Wehrmacht attaccò la Polonia; due giorni dopo la Gran Bretagna e la Francia dichiararono guerra alla Germania.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-02",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Quanti ebrei furono assassinati nell'Olocausto?",
+    "choices": [
+      "Circa 600.000",
+      "Circa sei milioni",
+      "Circa 60.000",
+      "Circa 60 milioni"
+    ],
+    "answer": 1,
+    "explanation": "I nazionalsocialisti assassinarono circa sei milioni di ebrei europei, oltre a centinaia di migliaia di sinti e rom, persone con disabilità e altri gruppi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-03",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Quale battaglia è considerata il punto di svolta della guerra sul fronte orientale?",
+    "choices": [
+      "Stalingrado",
+      "Verdun",
+      "El Alamein",
+      "Midway"
+    ],
+    "answer": 0,
+    "explanation": "Con la resa della Sesta Armata a Stalingrado nel febbraio 1943, la Wehrmacht passò definitivamente sulla difensiva a est.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-04",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Cosa si discusse alla Conferenza di Wannsee nel gennaio 1942?",
+    "choices": [
+      "L'attacco all'Unione Sovietica",
+      "Le condizioni della resa",
+      "L'organizzazione della deportazione e dell'assassinio degli ebrei europei",
+      "La costruzione delle autostrade"
+    ],
+    "answer": 2,
+    "explanation": "Sotto la direzione di Reinhard Heydrich, le SS e i ministeri governativi coordinarono la cosiddetta soluzione finale della questione ebraica.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-05",
+    "epochId": "zweiter-weltkrieg",
+    "question": "A quale gruppo di resistenza appartenevano Sophie e Hans Scholl?",
+    "choices": [
+      "Orchestra Rossa",
+      "Rosa Bianca",
+      "Circolo di Kreisau",
+      "Pirati dell'Edelweiss"
+    ],
+    "answer": 1,
+    "explanation": "La Rosa Bianca distribuì volantini contro il regime nazista a Monaco; i fratelli Scholl furono giustiziati nel 1943.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-06",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Quale data è considerata la fine della Seconda guerra mondiale in Europa?",
+    "choices": [
+      "30 aprile 1945",
+      "6 giugno 1944",
+      "2 settembre 1945",
+      "8 maggio 1945"
+    ],
+    "answer": 3,
+    "explanation": "L'8 maggio 1945 entrò in vigore la resa incondizionata della Wehrmacht; il Giappone capitolò solo il 2 settembre.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-07",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Cosa concordarono Germania e Unione Sovietica nel protocollo aggiuntivo segreto del patto Hitler-Stalin dell'agosto 1939?",
+    "choices": [
+      "Un attacco congiunto alla Gran Bretagna",
+      "La divisione della Polonia e dell'Europa orientale in sfere di influenza",
+      "Lo scambio di prigionieri di guerra",
+      "L'abolizione di tutti i dazi doganali"
+    ],
+    "answer": 1,
+    "explanation": "Il protocollo divideva la Polonia lungo i fiumi Narew, Vistola e San e assegnava la Finlandia, gli stati baltici e la Bessarabia alla sfera sovietica.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-08",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Chi fece esplodere la bomba nel quartier generale del Fuhrer Wolfsschanze il 20 luglio 1944?",
+    "choices": [
+      "Erwin Rommel",
+      "Georg Elser",
+      "Dietrich Bonhoeffer",
+      "Claus Schenk conte von Stauffenberg"
+    ],
+    "answer": 3,
+    "explanation": "Il colonnello Stauffenberg posò la valigetta con l'esplosivo durante la riunione operativa; Hitler sopravvisse lievemente ferito, e Stauffenberg fu fucilato la stessa notte.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-09",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Cosa accadde dopo la conquista di Nanchino nel dicembre 1937?",
+    "choices": [
+      "Le truppe giapponesi assassinarono decine di migliaia, fino a centinaia di migliaia, di civili e prigionieri nel giro di alcune settimane",
+      "Cina e Giappone conclusero la pace",
+      "La città fu dichiarata capitale del Giappone",
+      "La Società delle Nazioni inviò truppe di pace"
+    ],
+    "answer": 0,
+    "explanation": "Il massacro di Nanchino durò circa sei settimane; il Tribunale di Tokyo stimò più di 200.000 morti, e lo stupro di massa fu parte del crimine.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-zweiter-weltkrieg-10",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Quale accusa fu giudicata per la prima volta davanti a un tribunale internazionale ai processi di Norimberga del 1945/46?",
+    "choices": [
+      "Alto tradimento",
+      "Spionaggio",
+      "Crimini contro l'umanità",
+      "Evasione fiscale"
+    ],
+    "answer": 2,
+    "explanation": "Accanto ai crimini di guerra e ai crimini contro la pace, il tribunale introdusse il nuovo reato di crimini contro l'umanità, che plasma il diritto penale internazionale fino ad oggi.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-zweiter-weltkrieg-11",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Quale territorio la Cecoslovacchia dovette cedere alla Germania dopo l'accordo di Monaco del 1938?",
+    "choices": [
+      "L'Alsazia",
+      "La Slovacchia",
+      "Il territorio di Memel",
+      "I Sudeti"
+    ],
+    "answer": 3,
+    "explanation": "Gran Bretagna, Francia, Italia e Germania si accordarono, senza la partecipazione della Cecoslovacchia, sulla cessione dei Sudeti, in gran parte di lingua tedesca.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-zweiter-weltkrieg-12",
+    "epochId": "zweiter-weltkrieg",
+    "question": "Quale teologo della Chiesa confessante fu giustiziato nel campo di concentramento di Flossenbürg nell'aprile 1945?",
+    "choices": [
+      "Martin Niemöller",
+      "Dietrich Bonhoeffer",
+      "Clemens August von Galen",
+      "Bernhard Lichtenberg"
+    ],
+    "answer": 1,
+    "explanation": "Bonhoeffer era entrato nella resistenza attraverso l'Abwehr e fu impiccato il 9 aprile 1945 per ordine di Hitler; Niemöller sopravvisse al campo di concentramento di Dachau.",
+    "difficulty": 3
+  }
+]
