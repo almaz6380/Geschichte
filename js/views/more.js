@@ -6,7 +6,17 @@ import { showToast } from '../ui.js';
 import { APP_VERSION } from '../version.js';
 import { t, plural, getLang } from '../i18n.js';
 
-const WEB_BASE = 'https://geschichte-gilt.vercel.app/';
+// ⚠ Adresse der Web-Fassung, auf die die native App fuer Datenschutz und
+// Impressum verlinkt. Seit 28.09.2026 GitHub Pages statt Vercel: Vercel hatte
+// den gesamten Account pausiert, weil eine andere App des Kontos ihr Kontingent
+// gesprengt hatte — und damit lagen die Pflichtangaben tot, die Apple und
+// Google verlangen. GitHub Pages ist fuer oeffentliche Repositories kostenlos
+// und ohne Kontingent, das diese App sprengen koennte.
+//
+// ⚠ Wer das aendert, aendert auch: datenschutz.html und privacy.html (der
+// Hoster ist dort Pflichtangabe, keine Kosmetik), docs/store-texte.md,
+// docs/APP-STORES.md sowie die URLs in App Store Connect und Play Console.
+const WEB_BASE = 'https://almaz6380.github.io/weltgeschichte/';
 
 // Rechtliche Seiten je Sprache; in der nativen App liegen sie online und öffnen im Browser.
 function legalLink(de, en, label) {

@@ -58,11 +58,11 @@ Wenn der Lauf rot ist: auf den Lauf klicken, den fehlgeschlagenen Schritt öffne
 In App Store Connect bei der App:
 1. **App-Informationen**: Kategorie **Bildung**, Zweitkategorie **Nachschlagewerke**; Inhaltsrechte „enthält keine Inhalte Dritter“; Altersfreigabe: Fragebogen, alles „Nein“ → 4+.
 2. **Preis und Verfügbarkeit**: Kostenlos, alle Länder.
-3. **App-Datenschutz**: „Beginnen“ → **Nein, wir erheben keine Daten**. URL: `https://geschichte-gilt.vercel.app/datenschutz.html`.
+3. **App-Datenschutz**: „Beginnen“ → **Nein, wir erheben keine Daten**. URL: `https://almaz6380.github.io/weltgeschichte/datenschutz.html`.
 4. **Version 1.0** (linke Spalte, „iOS-App“). Die Versionsnummer muss exakt der App-Version entsprechen (`package.json`, derzeit 1.0.0), sonst erscheint der Build nicht in der Auswahl:
    - Screenshots 6,7″ aus `docs/screenshots/iphone-69/`, 6,5″ aus `iphone-65/`, iPad 13″ aus `ipad-13/` hochladen (je 3–6 Bilder).
    - Werbetext, Beschreibung, Schlüsselwörter aus `docs/store-texte.md`.
-   - Support-URL `https://geschichte-gilt.vercel.app/impressum.html`, Marketing-URL `https://geschichte-gilt.vercel.app`.
+   - Support-URL `https://almaz6380.github.io/weltgeschichte/impressum.html`, Marketing-URL `https://almaz6380.github.io/weltgeschichte`.
    - **Build**: **+** → den hochgeladenen Build auswählen. Frage zur Exportkonformität: „Nein“ (ist bereits im Projekt hinterlegt).
    - Prüfinformationen: dein Name, Telefon, E-Mail; Anmeldung nicht erforderlich. Notiz: „Lern-App, alle Inhalte enthalten, keine Anmeldung, funktioniert offline.“
    - Versionsfreigabe: automatisch.
@@ -88,7 +88,7 @@ In App Store Connect bei der App:
 play.google.com/console → **App erstellen**: Name `Weltgeschichte – Epochen & Quiz`, Standardsprache Deutsch, **App**, **Kostenlos**, Erklärungen bestätigen → Erstellen.
 
 ### B4. Einrichtungsaufgaben (Dashboard → „App einrichten“)
-- Datenschutzerklärung: `https://geschichte-gilt.vercel.app/datenschutz.html`
+- Datenschutzerklärung: `https://almaz6380.github.io/weltgeschichte/datenschutz.html`
 - App-Zugriff: alle Funktionen ohne Anmeldung verfügbar
 - Anzeigen: Nein
 - Inhaltseinstufung: Fragebogen „Nachschlagewerk, Bildung“, alles „Nein“
@@ -109,7 +109,7 @@ Hinweis: Neue Play-Konten müssen vor der ersten Produktionsfreigabe einen gesch
 
 ## Teil C: Updates später
 
-1. Inhalte oder Code ändern (per Pull Request oder direkt auf `main`). Vercel aktualisiert die Web-App automatisch.
+1. Inhalte oder Code ändern (per Pull Request oder direkt auf `main`). Die Web-Fassung danach veröffentlichen: `npm run build:web`, dann den Inhalt von `web/` in das öffentliche Spiegel-Repository `almaz6380/weltgeschichte` pushen. GitHub Pages liefert ihn ohne Workflow aus.
 2. Versionsnummer erhöhen: `package.json`, `js/version.js`, `MARKETING_VERSION` in `ios/App/App.xcodeproj/project.pbxproj`, `versionName` in `android/app/build.gradle`. Die Build-Nummern zählen die Workflows automatisch hoch.
 3. **Actions → iOS App → Run workflow** (lädt direkt hoch) und **Actions → Android App → Run workflow** (AAB herunterladen und in der Play Console als neuen Release hochladen).
    Seit das Repository privat ist (25.09.2026), bauen die beiden Workflows nicht mehr bei jedem Push, sondern nur noch auf Zuruf. Beim Start **`laeufer: mac`** wählen: Dann läuft der Build auf dem eigenen Mac (Self-hosted Runner) und kostet keine GitHub-Minuten; das Android-AAB liegt danach zusätzlich unter `~/Downloads/weltgeschichte-<Nummer>.aab`. Der Mac braucht Xcode 26+, `fastlane` (`brew install fastlane`) und Android Studio, und er muss während des Builds wach sein.
