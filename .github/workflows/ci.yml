@@ -1,14 +1,50 @@
 name: CI
 
+# ⚠ Laeuft auf dem EIGENEN MAC, nicht auf GitHubs Rechnern (28.09.2026).
+#
+# Warum. Am 25.09. wurde das Repository privat gestellt (f72eccd), und private
+# Repositories verbrauchen im kostenlosen Plan Minuten — macOS-Laeufe sogar
+# zehnfach. ios.yml, android.yml und android-keystore.yml haben damals ihren
+# automatischen Ausloeser verloren und den `laeufer`-Schalter bekommen. Diese
+# Datei wurde dabei uebersehen: Sie loeste weiter bei jedem Push aus und stand
+# fest auf `ubuntu-latest`. Als die Minuten aufgebraucht waren, bekam sie keinen
+# Laeufer mehr zugeteilt — 65 rote Laeufe am Stueck, drei Sekunden, ohne Logs,
+# waehrend die App-Builds auf dem Mac gruen durchliefen. Der Code war nie das
+# Problem.
+#
+# Auf dem eigenen Mac kosten Validierung und Tests nichts. Deshalb duerfen die
+# Ausloeser `push` und `pull_request` bleiben — das Sicherheitsnetz bei jeder
+# Aenderung ist mehr wert als die paar Sekunden Rechenzeit.
+#
+# ⚠ Ist der Mac AUS, wird der Lauf nicht rot, sondern wartet in der
+# Warteschlange, bis der Mac wieder da ist (GitHub bricht nach rund 24 Stunden
+# ab). Ein haengendes CI heisst also „Mac war aus", nicht „Code kaputt".
+# Gegenprobe jederzeit lokal: `npm run validate && npm test`.
+#
+# Wer den Lauf doch auf GitHubs Rechnern braucht — etwa weil der Mac laenger aus
+# ist und das Minutenkontingent wieder aufgefuellt wurde —, startet ihn von Hand
+# ueber „Run workflow" und waehlt dort `github`.
+#
+# ⚠ Nicht zurueck auf ein festes `ubuntu-latest` stellen, ohne das Kontingent zu
+# pruefen. Genau das hat hier drei Wochen lang jeden Lauf rot gefaerbt.
+
 on:
   push:
     branches: ["**"]
   pull_request:
+  workflow_dispatch:
+    inputs:
+      laeufer:
+        description: 'Wo laufen? mac = eigener Mac (kostenlos), github = GitHub-Rechner (kostet Minuten)'
+        type: choice
+        default: 'mac'
+        options: ['mac', 'github']
 
 jobs:
   test:
     name: Daten validieren und testen
-    runs-on: ubuntu-latest
+    # Bei push und pull_request ist `inputs.laeufer` leer — dann greift der Mac.
+    runs-on: ${{ inputs.laeufer == 'github' && 'ubuntu-latest' || fromJSON('["self-hosted", "macOS"]') }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
