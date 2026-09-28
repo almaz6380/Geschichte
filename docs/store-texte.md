@@ -71,9 +71,9 @@ Erste Veröffentlichung: 14 Epochen, 8 Querschnittsthemen, Zeitleiste, Glossar, 
 
 ## URLs
 
-- Datenschutzerklärung: `https://almaz6380.github.io/weltgeschichte/datenschutz.html`
-- Support: `https://almaz6380.github.io/weltgeschichte/impressum.html` (Kontakt per E-Mail; das GitHub-Repository ist privat und daher als Support-Adresse ungeeignet)
-- Marketing/Web-Version: `https://almaz6380.github.io/weltgeschichte`
+- Datenschutzerklärung: `https://almaz6380.github.io/Geschichte/datenschutz.html`
+- Support: `https://almaz6380.github.io/Geschichte/impressum.html` (Kontakt per E-Mail)
+- Marketing/Web-Version: `https://almaz6380.github.io/Geschichte`
 
 ---
 
@@ -140,6 +140,6 @@ First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, sear
 
 ## URLs
 
-- Privacy policy: `https://almaz6380.github.io/weltgeschichte/privacy.html`
-- Support: `https://almaz6380.github.io/weltgeschichte/imprint.html`
-- Marketing: `https://almaz6380.github.io/weltgeschichte`
+- Privacy policy: `https://almaz6380.github.io/Geschichte/privacy.html`
+- Support: `https://almaz6380.github.io/Geschichte/imprint.html`
+- Marketing: `https://almaz6380.github.io/Geschichte`

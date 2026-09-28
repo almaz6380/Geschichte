@@ -16,7 +16,7 @@ import { t, plural, getLang } from '../i18n.js';
 // ⚠ Wer das aendert, aendert auch: datenschutz.html und privacy.html (der
 // Hoster ist dort Pflichtangabe, keine Kosmetik), docs/store-texte.md,
 // docs/APP-STORES.md sowie die URLs in App Store Connect und Play Console.
-const WEB_BASE = 'https://almaz6380.github.io/weltgeschichte/';
+const WEB_BASE = 'https://almaz6380.github.io/Geschichte/';
 
 // Rechtliche Seiten je Sprache; in der nativen App liegen sie online und öffnen im Browser.
 function legalLink(de, en, label) {
