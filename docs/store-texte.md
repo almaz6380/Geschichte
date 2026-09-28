@@ -71,9 +71,9 @@ Erste Veröffentlichung: 14 Epochen, 8 Querschnittsthemen, Zeitleiste, Glossar, 
 
 ## URLs
 
-- Datenschutzerklärung: `https://geschichte-gilt.vercel.app/datenschutz.html`
-- Support: `https://geschichte-gilt.vercel.app/impressum.html` (Kontakt per E-Mail; das GitHub-Repository ist privat und daher als Support-Adresse ungeeignet)
-- Marketing/Web-Version: `https://geschichte-gilt.vercel.app`
+- Datenschutzerklärung: `https://almaz6380.github.io/weltgeschichte/datenschutz.html`
+- Support: `https://almaz6380.github.io/weltgeschichte/impressum.html` (Kontakt per E-Mail; das GitHub-Repository ist privat und daher als Support-Adresse ungeeignet)
+- Marketing/Web-Version: `https://almaz6380.github.io/weltgeschichte`
 
 ---
 
@@ -140,6 +140,6 @@ First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, sear
 
 ## URLs
 
-- Privacy policy: `https://geschichte-gilt.vercel.app/privacy.html`
-- Support: `https://geschichte-gilt.vercel.app/imprint.html`
-- Marketing: `https://geschichte-gilt.vercel.app`
+- Privacy policy: `https://almaz6380.github.io/weltgeschichte/privacy.html`
+- Support: `https://almaz6380.github.io/weltgeschichte/imprint.html`
+- Marketing: `https://almaz6380.github.io/weltgeschichte`

@@ -32,7 +32,13 @@ npm start            # entspricht: python3 -m http.server 8080
 
 ## Veröffentlichen
 
-Die Web-App läuft auf Vercel (https://geschichte-gilt.vercel.app) und aktualisiert sich bei jedem Push auf `main`. GitHub Pages ist seit dem 25.09.2026 abgeschaltet: Das Repository ist privat, und Pages gibt es im kostenlosen GitHub-Plan nur für öffentliche Repositories. Alle Pfade sind relativ, das Routing läuft über `#/…`.
+Die Web-App läuft auf GitHub Pages: https://almaz6380.github.io/weltgeschichte
+
+Sie liegt in einem eigenen, **öffentlichen** Spiegel-Repository (`almaz6380/weltgeschichte`), das ausschließlich die statischen Dateien enthält — dieses Repository bleibt privat, samt nativen Projekten, Signiermaterial und Übersetzungs-Zwischenständen. Veröffentlicht wird mit `npm run build:web` und einem Push des Ordners `web/` in den Spiegel; Pages liefert ihn ohne Workflow aus und verbraucht damit keine Actions-Minuten.
+
+Vorher lag die Web-App auf Vercel. Am 28.09.2026 hat Vercel den gesamten Account pausiert, weil eine andere App des Kontos ihr Blob-Kontingent überschritten hatte — mit ihr lagen auch Datenschutzerklärung und Impressum tot, die Apple und Google als Pflichtangabe verlangen. Auf GitHub Pages gibt es kein Kontingent, das diese App sprengen könnte.
+
+Alle Pfade sind relativ, das Routing läuft über `#/…` — die App funktioniert deshalb auch unter einem Unterpfad.
 
 Bei Änderungen an Code, Styles oder Seiten die Konstante `VERSION` in `sw.js` erhöhen, damit installierte Apps die neue Version laden. Inhalte (`data/`) lädt der Service Worker zuerst aus dem Netz, sie kommen auch ohne Versionssprung an.
 
