@@ -1,0 +1,86 @@
+name: Web-Fassung veroeffentlichen
+
+# Veroeffentlicht die Web-Fassung auf GitHub Pages.
+#
+# --- Warum es diesen Workflow gibt (28.09.2026) ------------------------------
+#
+# Bis zum 28.09. lag die Web-Fassung auf Vercel. Dann hat Vercel den gesamten
+# Account pausiert, weil eine ANDERE App des Kontos ihr Blob-Kontingent
+# gesprengt hatte — die Geschichte-App war bloss Nachbar. Mit ihr lagen
+# Datenschutzerklaerung und Impressum tot, die Apple und Google als
+# Pflichtangabe verlangen und die aus der nativen App heraus verlinkt sind.
+#
+# GitHub Pages hat fuer oeffentliche Repositories kein Kontingent, das diese
+# App sprengen koennte. `configure-pages` mit `enablement: true` schaltet Pages
+# beim ersten Lauf selbst ein — es muss also niemand vorher einen Schalter in
+# den Einstellungen finden.
+#
+# ⚠ Veroeffentlicht wird NICHT das Repository-Wurzelverzeichnis, sondern der
+# Ordner web/ aus scripts/build-web.mjs. Sonst laegen ios/, android/, fastlane/
+# und die Uebersetzungs-Zwischenstaende mit im Netz. Das Skript bricht ab, wenn
+# eine Pflichtseite fehlt oder etwas Privates hineingeraten ist.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Genau die Rechte, die deploy-pages braucht — nicht mehr.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Nie zwei Veroeffentlichungen gleichzeitig; eine laufende wird nicht
+# abgebrochen, damit keine halbe Seite stehen bleibt.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  veroeffentlichen:
+    name: Web-Fassung bauen und veroeffentlichen
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Erst pruefen, dann veroeffentlichen: Eine kaputte Datenlage soll nicht
+      # live gehen, schon gar nicht auf einer Adresse, die in den Stores steht.
+      - name: Daten validieren
+        run: npm run validate
+
+      - name: Web-Fassung zusammenstellen
+        run: npm run build:web
+
+      # enablement: true schaltet Pages ein, falls es noch aus ist.
+      - name: Pages einrichten
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+      - name: Veroeffentlichen
+        id: pages
+        uses: actions/deploy-pages@v4
+
+      - name: Adresse melden
+        run: |
+          {
+            echo "## Web-Fassung veroeffentlicht"
+            echo ""
+            echo "- Startseite: ${{ steps.pages.outputs.page_url }}"
+            echo "- Datenschutz: ${{ steps.pages.outputs.page_url }}datenschutz.html"
+            echo "- Impressum: ${{ steps.pages.outputs.page_url }}impressum.html"
+            echo ""
+            echo "Diese Adressen gehoeren in App Store Connect und die Play Console."
+          } >> "$GITHUB_STEP_SUMMARY"
