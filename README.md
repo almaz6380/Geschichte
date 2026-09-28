@@ -32,11 +32,15 @@ npm start            # entspricht: python3 -m http.server 8080
 
 ## Veröffentlichen
 
-Die Web-App läuft auf GitHub Pages: https://almaz6380.github.io/weltgeschichte
+Die Web-App läuft auf GitHub Pages: https://almaz6380.github.io/Geschichte
 
-Sie liegt in einem eigenen, **öffentlichen** Spiegel-Repository (`almaz6380/weltgeschichte`), das ausschließlich die statischen Dateien enthält — dieses Repository bleibt privat, samt nativen Projekten, Signiermaterial und Übersetzungs-Zwischenständen. Veröffentlicht wird mit `npm run build:web` und einem Push des Ordners `web/` in den Spiegel; Pages liefert ihn ohne Workflow aus und verbraucht damit keine Actions-Minuten.
+Pages liefert den Stand von `main` direkt aus dem Repository-Wurzelverzeichnis aus („Deploy from a branch"). Es gibt also **keinen Bau- und keinen Veröffentlichungsschritt**: Was auf `main` liegt, ist die Seite. `.nojekyll` sorgt dafür, dass GitHub die Dateien unverändert ausliefert.
 
-Vorher lag die Web-App auf Vercel. Am 28.09.2026 hat Vercel den gesamten Account pausiert, weil eine andere App des Kontos ihr Blob-Kontingent überschritten hatte — mit ihr lagen auch Datenschutzerklärung und Impressum tot, die Apple und Google als Pflichtangabe verlangen. Auf GitHub Pages gibt es kein Kontingent, das diese App sprengen könnte.
+Vorher lag die Web-App auf Vercel. Am 28.09.2026 hat Vercel den gesamten Account pausiert, weil eine **andere** App des Kontos ihr Blob-Kontingent überschritten hatte — die Geschichte-App war bloß Nachbar. Mit ihr lagen Datenschutzerklärung und Impressum tot, die Apple und Google als Pflichtangabe verlangen. Auf GitHub Pages gibt es für öffentliche Repositories kein Kontingent, das sie sprengen könnte.
+
+Deshalb ist dieses Repository seit dem 28.09.2026 wieder **öffentlich**. Das ist die Bedingung für kostenloses Pages — und nebenbei für unbegrenzte Actions-Minuten, weshalb CI wieder auf GitHubs Rechnern läuft statt auf dem eigenen Mac.
+
+⚠ Wer es je wieder privat stellt, schaltet damit die Web-App ab, samt der beiden Rechtsseiten, die in den Stores hinterlegt sind.
 
 Alle Pfade sind relativ, das Routing läuft über `#/…` — die App funktioniert deshalb auch unter einem Unterpfad.
 

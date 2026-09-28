@@ -11,7 +11,6 @@
     "smoke": "node scripts/smoke.mjs",
     "icons": "node scripts/make-icons.mjs",
     "build:www": "node scripts/build-www.mjs",
-    "build:web": "node scripts/build-web.mjs",
     "cap:sync": "node scripts/build-www.mjs && cap sync",
     "ios": "node scripts/build-www.mjs && cap sync ios && cap open ios",
     "android": "node scripts/build-www.mjs && cap sync android && cap open android",
