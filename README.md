@@ -34,7 +34,7 @@ npm start            # entspricht: python3 -m http.server 8080
 
 Die Web-App läuft auf GitHub Pages: https://almaz6380.github.io/Geschichte
 
-Pages liefert den Stand von `main` direkt aus dem Repository-Wurzelverzeichnis aus („Deploy from a branch"). Es gibt also **keinen Bau- und keinen Veröffentlichungsschritt**: Was auf `main` liegt, ist die Seite. `.nojekyll` sorgt dafür, dass GitHub die Dateien unverändert ausliefert.
+Veröffentlicht wird vom Workflow `.github/workflows/pages.yml` bei jedem Push auf `main`: Er validiert die Daten, baut mit `npm run build:web` den Ordner `web/` und lädt ihn zu Pages hoch. Bewusst nicht das Wurzelverzeichnis — sonst lägen `ios/`, `android/`, `fastlane/` und die Übersetzungs-Zwischenstände mit im Netz.
 
 Vorher lag die Web-App auf Vercel. Am 28.09.2026 hat Vercel den gesamten Account pausiert, weil eine **andere** App des Kontos ihr Blob-Kontingent überschritten hatte — die Geschichte-App war bloß Nachbar. Mit ihr lagen Datenschutzerklärung und Impressum tot, die Apple und Google als Pflichtangabe verlangen. Auf GitHub Pages gibt es für öffentliche Repositories kein Kontingent, das sie sprengen könnte.
 

@@ -109,7 +109,7 @@ Hinweis: Neue Play-Konten müssen vor der ersten Produktionsfreigabe einen gesch
 
 ## Teil C: Updates später
 
-1. Inhalte oder Code ändern (per Pull Request oder direkt auf `main`). Die Web-Fassung danach veröffentlichen: GitHub Pages liefert den Stand von `main` direkt aus, es ist kein weiterer Schritt nötig.
+1. Inhalte oder Code ändern (per Pull Request oder direkt auf `main`). Die Web-Fassung danach veröffentlichen: Der Workflow „Web-Fassung veröffentlichen" erledigt das bei jedem Push auf `main` von selbst.
 2. Versionsnummer erhöhen: `package.json`, `js/version.js`, `MARKETING_VERSION` in `ios/App/App.xcodeproj/project.pbxproj`, `versionName` in `android/app/build.gradle`. Die Build-Nummern zählen die Workflows automatisch hoch.
 3. **Actions → iOS App → Run workflow** (lädt direkt hoch) und **Actions → Android App → Run workflow** (AAB herunterladen und in der Play Console als neuen Release hochladen).
    Die beiden Workflows bauen nicht bei jedem Push, sondern nur auf Zuruf — App-Builds dauern Minuten und sollen nicht nebenbei laufen. Beim Start entscheidet **`laeufer`**, wo gebaut wird:
