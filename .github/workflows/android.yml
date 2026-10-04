@@ -2,19 +2,13 @@ name: Android App
 
 on:
   workflow_dispatch:
-    inputs:
-      laeufer:
-        description: 'Wo laufen? github = GitHub-Rechner (kostet Minuten), mac = eigener Mac (Self-hosted Runner)'
-        type: choice
-        default: 'github'
-        options: ['github', 'mac']
-# Kein push-Ausloeser mehr, seit das Repo privat ist (25.09.2026): jeder Lauf
-# kostet Minuten. Gebaut wird nur noch auf Zuruf.
+# Gebaut wird nur auf Zuruf. Seit 04.10.2026 nur noch auf GitHubs Rechnern — kein
+# Self-hosted Runner in einem oeffentlichen Repo (siehe ci.yml).
 
 jobs:
   build:
     name: Android bauen
-    runs-on: ${{ inputs.laeufer == 'mac' && fromJSON('["self-hosted", "macOS"]') || 'ubuntu-latest' }}
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -72,22 +66,9 @@ jobs:
           ./gradlew bundleRelease --no-daemon
           ls -la app/build/outputs/bundle/release/
 
-      - name: AAB in Josefs Downloads-Ordner legen (nur auf dem Mac)
-        # Das AAB ist hier das Ergebnis selbst (es wird von Hand in die Play
-        # Console hochgeladen). Der Artefaktspeicher war am 25.09. voll; auf dem
-        # Mac liegt die Datei deshalb zusaetzlich direkt in ~/Downloads.
-        if: ${{ steps.keystore.outputs.path != '' && inputs.laeufer == 'mac' }}
-        run: |
-          ZIEL="$HOME/Downloads/weltgeschichte-${{ github.run_number }}.aab"
-          cp android/app/build/outputs/bundle/release/app-release.aab "$ZIEL"
-          echo "## AAB liegt auf dem Mac unter $ZIEL" >> "$GITHUB_STEP_SUMMARY"
-
       - name: AAB als Download bereitstellen
         if: ${{ steps.keystore.outputs.path != '' }}
-        # Auf dem Mac liegt es schon in ~/Downloads, dort darf ein voller
-        # Artefaktspeicher den Lauf nicht rot faerben. Auf GitHubs Rechnern ist
-        # das Artefakt der einzige Weg an die Datei.
-        continue-on-error: ${{ inputs.laeufer == 'mac' }}
+        # Das Artefakt ist der einzige Weg an die Datei.
         uses: actions/upload-artifact@v4
         with:
           name: weltgeschichte-android-aab
@@ -98,7 +79,7 @@ jobs:
         if: ${{ steps.keystore.outputs.path == '' }}
         run: |
           echo "## Android-Build erfolgreich (nur Test-Build)" >> "$GITHUB_STEP_SUMMARY"
-          echo "Für das Google-Play-Bundle fehlen noch die Secrets ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD. Einmalig den Workflow „Android Signierschlüssel erzeugen“ ausführen und die Werte eintragen (siehe docs/APP-STORES.md)." >> "$GITHUB_STEP_SUMMARY"
+          echo "Für das Google-Play-Bundle fehlen noch die Secrets ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD. Den Schlüssel lokal mit keytool erzeugen und die Werte eintragen (siehe docs/APP-STORES.md)." >> "$GITHUB_STEP_SUMMARY"
 
       - name: Signierschluessel entfernen
         if: always()
