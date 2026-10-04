@@ -73,16 +73,20 @@ In App Store Connect bei der App:
 ## Teil B: Android (Google Play)
 
 ### B1. Signierschlüssel einmalig erzeugen
-1. github.com/almaz6380/Geschichte → **Actions** → **Android Signierschlüssel erzeugen** → **Run workflow**, Läufer **mac** (eigener Mac, kostenlos; der Runner muss laufen).
-2. Nach etwa einer Minute auf den fertigen Lauf klicken. Unten in der **Zusammenfassung** stehen vier Werte.
-3. **Settings → Secrets and variables → Actions → New repository secret**, viermal:
-   `ANDROID_KEY_ALIAS`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_PASSWORD`, `ANDROID_KEYSTORE_BASE64` (den langen Block komplett kopieren).
-4. **Wichtig:** Die Werte zusätzlich in einem Passwort-Manager speichern. Eine Sicherung liegt auf dem Mac unter `~/Weltgeschichte-Android-Schluessel` (beim Läufer github stattdessen als Artefakt am Lauf, 90 Tage). Ohne ihn sind später keine Updates möglich. Den Workflow **nicht** ein zweites Mal ausführen.
-5. Das Repository muss dabei **privat** sein, sonst könnte jeder den Schlüssel in der Zusammenfassung lesen. Nach dem Eintragen der Secrets den Lauf löschen (Lauf öffnen → oben rechts **…** → **Delete workflow run**).
+Der Schlüssel existiert bereits (Sicherung auf dem Mac unter `~/Weltgeschichte-Android-Schluessel`, Werte als Secrets eingetragen). **Nicht neu erzeugen** — ein zweiter Schlüssel macht Updates unmöglich.
+
+Der frühere Workflow „Android Signierschlüssel erzeugen“ ist am 04.10.2026 gelöscht worden: Er schrieb Keystore und Passwort in die Lauf-Zusammenfassung bzw. ein Artefakt, und das Repository ist öffentlich. Falls je wieder ein Schlüssel nötig ist (neue App), lokal auf dem Mac erzeugen:
+
+```
+keytool -genkeypair -v -keystore upload.jks -alias weltgeschichte -keyalg RSA -keysize 2048 -validity 10000
+base64 < upload.jks | tr -d '\n'   # → Secret ANDROID_KEYSTORE_BASE64
+```
+
+Secrets: `ANDROID_KEY_ALIAS`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_PASSWORD`, `ANDROID_KEYSTORE_BASE64` (Settings → Secrets and variables → Actions). Schlüssel und Passwort zusätzlich im Passwort-Manager sichern.
 
 ### B2. App-Bundle bauen
-1. **Actions** → **Android App** → **Run workflow**, Läufer **mac**. Dauer etwa 5 Minuten.
-2. Die Datei liegt danach auf dem Mac in `~/Downloads` (`weltgeschichte-<Nummer>.aab`); beim Läufer github stattdessen unten bei **Artifacts** (`weltgeschichte-android-aab`).
+1. **Actions** → **Android App** → **Run workflow**. Dauer etwa 5 Minuten.
+2. Die Datei liegt danach unten bei **Artifacts** (`weltgeschichte-android-aab`).
 
 ### B3. App in der Play Console anlegen
 play.google.com/console → **App erstellen**: Name `Weltgeschichte – Epochen & Quiz`, Standardsprache Deutsch, **App**, **Kostenlos**, Erklärungen bestätigen → Erstellen.
@@ -112,13 +116,20 @@ Hinweis: Neue Play-Konten müssen vor der ersten Produktionsfreigabe einen gesch
 1. Inhalte oder Code ändern (per Pull Request oder direkt auf `main`). Die Web-Fassung danach veröffentlichen: Der Workflow „Web-Fassung veröffentlichen" erledigt das bei jedem Push auf `main` von selbst.
 2. Versionsnummer erhöhen: `package.json`, `js/version.js`, `MARKETING_VERSION` in `ios/App/App.xcodeproj/project.pbxproj`, `versionName` in `android/app/build.gradle`. Die Build-Nummern zählen die Workflows automatisch hoch.
 3. **Actions → iOS App → Run workflow** (lädt direkt hoch) und **Actions → Android App → Run workflow** (AAB herunterladen und in der Play Console als neuen Release hochladen).
-   Die beiden Workflows bauen nicht bei jedem Push, sondern nur auf Zuruf — App-Builds dauern Minuten und sollen nicht nebenbei laufen. Beim Start entscheidet **`laeufer`**, wo gebaut wird:
+   Die beiden Workflows bauen nicht bei jedem Push, sondern nur auf Zuruf, und zwar immer auf GitHubs Rechnern (bei öffentlichem Repository kostenlos). Das AAB liegt danach unten bei **Artifacts** (`weltgeschichte-android-aab`).
 
-   - **`github`**: GitHubs Rechner. Seit das Repository wieder öffentlich ist (28.09.2026), sind die Minuten unbegrenzt und kostenlos. Das AAB liegt danach unten bei **Artifacts** (`weltgeschichte-android-aab`).
-   - **`mac`**: der eigene Mac (Self-hosted Runner). Das Android-AAB landet zusätzlich unter `~/Downloads/weltgeschichte-<Nummer>.aab`. Der Mac braucht Xcode 26+, `fastlane` (`brew install fastlane`) und Android Studio, und er muss während des Builds wach sein — sonst wartet der Lauf in der Warteschlange, statt rot zu werden.
+   ⚠ **Kein Self-hosted Runner mehr (04.10.2026).** Das Repository ist öffentlich und CI reagiert auf Pull Requests — ein Fork-PR kann die Workflow-Datei selbst ändern und so Code auf einem registrierten eigenen Rechner ausführen. Deshalb gibt es den Schalter `laeufer: mac` nicht mehr. Siehe „Sicherheit“ unten.
 4. In App Store Connect eine neue Version anlegen, Build auswählen, einreichen.
 
 ---
+
+## Sicherheit: öffentliches Repository und eigener Mac (04.10.2026)
+
+Die Workflows nutzen keinen Self-hosted Runner mehr. **Das allein reicht nicht:** Solange Josefs Mac als Runner an diesem Repository registriert ist, kann ein Pull Request aus einem Fork `runs-on: self-hosted` in die Workflow-Datei schreiben, und der Lauf landet auf dem Mac. Deshalb zusätzlich, von Hand:
+
+1. **Settings → Actions → Runners**: den Mac-Runner von diesem Repository **entfernen** (auf dem Mac `./config.sh remove`, oder in der Oberfläche „Remove“).
+2. **Settings → Actions → General → Fork pull request workflows**: „Require approval for all outside collaborators“.
+3. Die Rechtsprüfung empfiehlt außerdem, das Repository **privat** zu stellen. ⚠ Zielkonflikt: Im kostenlosen Plan schaltet „privat“ GitHub Pages ab — damit wären Datenschutzerklärung und Impressum, die in beiden Stores hinterlegt sind, offline (siehe README). Vor dem Umstellen die Rechtsseiten woanders hosten (z. B. im öffentlichen Repo `almaz6380.github.io`, wie bei Swaply und FixTheMix) und die URLs in beiden Konsolen ändern.
 
 ## Wenn etwas schiefgeht
 

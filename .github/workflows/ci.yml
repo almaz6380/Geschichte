@@ -17,29 +17,24 @@ name: CI
 # Kontingent, ohne Wartezeit und ohne davon abzuhaengen, ob ein Mac gerade an
 # ist.
 #
-# ⚠ Wird das Repository je wieder privat gestellt, faellt dieser Lauf mit dem
-# Minutenkontingent — dann `laeufer: mac` als Vorgabe setzen, so wie ios.yml
-# und android.yml es machen. Gegenprobe jederzeit lokal, unabhaengig von
-# GitHub: `npm run validate && npm test`.
+# ⚠ Seit 04.10.2026 gibt es KEINEN `laeufer: mac` mehr, in keinem Workflow: Ein
+# oeffentliches Repo mit Self-hosted Runner laesst ueber Fork-PRs fremden Code auf
+# dem eigenen Mac laufen. Gegenprobe jederzeit lokal, unabhaengig von GitHub:
+# `npm run validate && npm test`.
 
 on:
   push:
     branches: ["**"]
   pull_request:
   workflow_dispatch:
-    inputs:
-      laeufer:
-        description: 'Wo laufen? github = GitHub-Rechner (bei oeffentlichem Repo kostenlos), mac = eigener Mac'
-        type: choice
-        default: 'github'
-        options: ['github', 'mac']
 
 jobs:
   test:
     name: Daten validieren und testen
-    # Bei push und pull_request ist `inputs.laeufer` leer — dann greifen GitHubs
-    # Rechner, die bei oeffentlichen Repositories nichts kosten.
-    runs-on: ${{ inputs.laeufer == 'mac' && fromJSON('["self-hosted", "macOS"]') || 'ubuntu-latest' }}
+    # IMMER GitHubs Rechner (Rechtspruefung 04.10.2026): Dieses Repo ist oeffentlich
+    # und reagiert auf pull_request — ein Self-hosted Runner wuerde fremden Code aus
+    # Fork-PRs auf Josefs Mac ausfuehren.
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

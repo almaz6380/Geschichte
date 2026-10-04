@@ -7,21 +7,14 @@ on:
         description: "Optional: ID eines Distribution-Zertifikats, das vor dem Lauf widerrufen werden soll"
         required: false
         default: ""
-      laeufer:
-        description: 'Wo laufen? github = GitHub-Rechner (kostet Minuten), mac = eigener Mac (Self-hosted Runner)'
-        type: choice
-        default: 'github'
-        options: ['github', 'mac']
-# Kein push-Ausloeser mehr: Seit das Repo privat ist (25.09.2026), kostet jeder
-# Lauf auf GitHubs macOS-Rechnern das Zehnfache an Minuten, und jeder Upload
-# verbraucht eine Build-Nummer. Gebaut wird nur noch auf Zuruf.
+# Kein push-Ausloeser: jeder Upload verbraucht eine Build-Nummer. Gebaut wird nur
+# auf Zuruf, seit 04.10.2026 nur noch auf GitHubs Rechnern (siehe ci.yml).
 
 jobs:
   build:
     name: iOS bauen
-    # mac: Josefs Mac als Self-hosted Runner (keine GitHub-Minuten). github:
-    # macos-26, dort liegt Xcode 26 bei.
-    runs-on: ${{ inputs.laeufer == 'mac' && fromJSON('["self-hosted", "macOS"]') || 'macos-26' }}
+    # macos-26, dort liegt Xcode 26 bei. Kein Self-hosted Runner (oeffentliches Repo).
+    runs-on: macos-26
     permissions:
       contents: write
     steps:
@@ -35,21 +28,7 @@ jobs:
         # iOS-26-SDK an (Fehler 90725). Vorher stand hier auch Xcode 16 zur Wahl —
         # hätte der Läufer kein 26 mehr gehabt, wäre der Build still auf 16
         # gefallen und erst bei Apple gescheitert.
-        # Auf dem eigenen Mac kein xcode-select: das braucht sudo und wuerde
-        # Josefs Einstellung verstellen. Dort wird nur geprueft.
-        env:
-          AUF_MAC: ${{ inputs.laeufer == 'mac' }}
         run: |
-          if [ "$AUF_MAC" = "true" ]; then
-            command -v fastlane >/dev/null || { echo "ABBRUCH: fastlane fehlt auf dem Mac. Einmal: brew install fastlane"; exit 1; }
-            V=$(xcodebuild -version | head -1 | awk '{print $2}' | cut -d. -f1)
-            xcodebuild -version
-            if [ "${V:-0}" -lt 26 ]; then
-              echo "ABBRUCH: Xcode 26 oder neuer noetig (Apple-Fehler 90725). Xcode im App Store aktualisieren."
-              exit 1
-            fi
-            exit 0
-          fi
           XC=$(ls -d /Applications/Xcode_2[6-9]*.app /Applications/Xcode_[3-9][0-9]*.app 2>/dev/null | sort -V | tail -1)
           if [ -z "$XC" ]; then
             echo "ABBRUCH: Kein Xcode 26+ auf diesem Läufer. Vorhanden:"

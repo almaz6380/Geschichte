@@ -42,6 +42,8 @@ Deshalb ist dieses Repository seit dem 28.09.2026 wieder **öffentlich**. Das is
 
 ⚠ Wer es je wieder privat stellt, schaltet damit die Web-App ab, samt der beiden Rechtsseiten, die in den Stores hinterlegt sind.
 
+**Rechtsprüfung 04.10.2026:** Kein Workflow nutzt mehr einen Self-hosted Runner (ein öffentliches Repo mit Runner lässt Fork-PRs Code auf dem eigenen Mac ausführen), der Workflow „Android Signierschlüssel erzeugen“ ist gelöscht (er schrieb Keystore und Passwort in Zusammenfassung/Artefakt), das Impressum nennt den Unternehmensgegenstand (§ 25 MedienG), und die Datenschutzerklärung stützt das GitHub-Hosting auf das EU-US Data Privacy Framework statt auf einen Vertrag, den es mit einem Gratis-Konto nicht gibt. Offen und nur von Hand: den Mac-Runner in den Repo-Einstellungen entfernen und klären, ob das Repo privat werden soll — Zielkonflikt mit GitHub Pages, siehe [docs/APP-STORES.md](docs/APP-STORES.md) → „Sicherheit“.
+
 Alle Pfade sind relativ, das Routing läuft über `#/…` — die App funktioniert deshalb auch unter einem Unterpfad.
 
 Bei Änderungen an Code, Styles oder Seiten die Konstante `VERSION` in `sw.js` erhöhen, damit installierte Apps die neue Version laden. Inhalte (`data/`) lädt der Service Worker zuerst aus dem Netz, sie kommen auch ohne Versionssprung an.
