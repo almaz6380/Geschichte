@@ -12,7 +12,20 @@ Die Inhalte sind entlang von drei Achsen geordnet, die überall miteinander verl
 | **Querschnittsthemen** (8) | Rote Linien durch alle Epochen: Religionen, Wissenschaft und Technik, Krieg und Frieden, Handel und Globalisierung, Herrschaft und Demokratie, Frauen in der Geschichte, Migration, Kunst und Bildung. |
 | **Regionen** (7) | Geschichte nach Kontinenten mit Ereignissen je Epoche und Personen. |
 
-Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, Thema und Meilensteinen), das **Glossar** (alphabetisch, mit Verweisen auf Ereignisse und Personen), das **Quiz** (10 Fragen pro Epoche oder 20 gemischt, mit Erklärungen und Bestwerten), die **Volltextsuche** über alle Inhaltsarten und **Lesezeichen**.
+Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, Thema und Meilensteinen), das **Glossar** (alphabetisch, mit Verweisen auf Ereignisse und Personen), das **Quiz** (über 1.000 Fragen; 10 pro Epoche oder 20 gemischt, mit Erklärungen und Bestwerten), die **Volltextsuche** über alle Inhaltsarten und **Lesezeichen**.
+
+### Spielmodi
+
+| Modus | Was er bietet |
+|-------|---------------|
+| **Duell per Link** | 10 Fragen spielen, Link teilen; Freunde bekommen dieselben Fragen in derselben Reihenfolge und sehen den Vergleich. Kein Server, kein Konto: Fragen-IDs, Seed und Antworten stecken im Link. |
+| **Duell an einem Gerät** | 2–4 Spieler beantworten jede Frage nacheinander, danach wird aufgelöst. |
+| **Tägliche Challenge** | Jeden Tag 5 Fragen (aus dem Datum abgeleitet, für alle gleich), Serie und Kalender. |
+| **Zeitleiste sortieren** | Fünf Ereignisse in die richtige Reihenfolge bringen, fünf Runden. |
+| **Jahr schätzen** | Bis zu 100 Punkte, je nach Abstand zum richtigen Jahr. |
+| **Wer bin ich?** | Personen anhand von Hinweisen erkennen; weniger Hinweise, mehr Punkte. |
+| **Karteikarten** | Begriffe und Personen nach dem Leitner-System. |
+| **Fehler wiederholen** | Falsch beantwortete Fragen kommen wieder, bis sie sitzen. |
 
 ## Funktionen
 
