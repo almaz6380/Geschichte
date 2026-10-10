@@ -1,5 +1,5 @@
 import { loadData } from './data.js';
-import { addRoute, startRouter, rerender } from './router.js';
+import { addRoute, startRouter, rerender, navigate } from './router.js';
 import { applyTheme, cycleTheme, themeLabel } from './theme.js';
 import { handleBookmarkClick, showToast, esc } from './ui.js';
 import { READY_LANGS, DEFAULT_LANG, t, setLang, getLang, detectLang } from './i18n.js';
@@ -18,6 +18,11 @@ import * as glossary from './views/glossary.js';
 import * as regions from './views/regions.js';
 import * as more from './views/more.js';
 import * as notfound from './views/notfound.js';
+import * as duel from './views/duel.js';
+import * as hotseat from './views/hotseat.js';
+import * as games from './views/games.js';
+import * as daily from './views/daily.js';
+import * as cards from './views/cards.js';
 
 
 
@@ -46,11 +51,19 @@ addRoute('/glossar/:id', glossary.render);
 addRoute('/regionen', regions.renderList);
 addRoute('/region/:id', regions.renderDetail);
 addRoute('/mehr', more.render);
+addRoute('/duell', duel.render);
+addRoute('/duell/lokal', hotseat.render);
+addRoute('/spiel/zeitleiste', games.renderSort);
+addRoute('/spiel/jahr', games.renderYear);
+addRoute('/wer-bin-ich', games.renderWho);
+addRoute('/taeglich', daily.render);
+addRoute('/karten', cards.render);
 
 const NAV_KEY = {
   '': 'home', epochen: 'epochen', epoche: 'epochen', ereignis: 'epochen', person: 'epochen',
   zeitleiste: 'zeitleiste', quiz: 'quiz', suche: 'suche', lesezeichen: 'lesezeichen',
   themen: 'themen', thema: 'themen', glossar: 'glossar', regionen: 'mehr', region: 'mehr', mehr: 'mehr',
+  duell: 'quiz', spiel: 'quiz', 'wer-bin-ich': 'quiz', taeglich: 'quiz', karten: 'quiz',
 };
 // Auf dem Handy liegen Themen/Glossar/Suche/Lesezeichen unter "Mehr".
 const MOBILE_MORE = new Set(['themen', 'glossar', 'suche', 'lesezeichen', 'mehr']);
@@ -202,7 +215,16 @@ async function main() {
   setupServiceWorker();
   setupLangPicker();
   setupSkipLink();
-  document.addEventListener('click', (e) => { handleBookmarkClick(e); });
+  document.addEventListener('click', (e) => {
+    if (handleBookmarkClick(e)) return;
+    // Ein Link auf die gerade offene Route (z. B. „zurück“ mitten in einer Spielrunde)
+    // löst kein hashchange aus; dann die Seite neu aufbauen.
+    const a = e.target.closest?.('a[href^="#/"]');
+    if (a && !e.defaultPrevented && !e.ctrlKey && !e.metaKey && !e.shiftKey && a.getAttribute('href') === location.hash) {
+      e.preventDefault();
+      navigate(location.hash);
+    }
+  });
   try {
     await loadLanguageData();
   } catch (err) {

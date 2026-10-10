@@ -1,5 +1,5 @@
 /* Service Worker: Precache aller App-Dateien, cache-first mit Netz-Fallback. */
-const VERSION = 'wg-v7';
+const VERSION = 'wg-v8';
 const PRECACHE = [
   './',
   './index.html',
@@ -12,6 +12,7 @@ const PRECACHE = [
   './css/components.css',
   './css/timeline.css',
   './css/quiz.css',
+  './css/games.css',
   './js/app.js',
   './js/router.js',
   './js/store.js',
@@ -20,6 +21,12 @@ const PRECACHE = [
   './js/theme.js',
   './js/search.js',
   './js/quiz.js',
+  './js/duel.js',
+  './js/hotseat.js',
+  './js/games.js',
+  './js/daily.js',
+  './js/cards.js',
+  './js/share.js',
   './js/views/home.js',
   './js/views/epochs.js',
   './js/views/epoch.js',
@@ -34,6 +41,12 @@ const PRECACHE = [
   './js/views/glossary.js',
   './js/views/regions.js',
   './js/views/more.js',
+  './js/views/quizrunner.js',
+  './js/views/duel.js',
+  './js/views/hotseat.js',
+  './js/views/games.js',
+  './js/views/daily.js',
+  './js/views/cards.js',
   './js/version.js',
   './js/i18n.js',
   './js/strings.js',
