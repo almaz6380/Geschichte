@@ -796,7 +796,7 @@
     "born": 1162,
     "died": 1227,
     "approx": true,
-    "epochId": "mittelalter",
+    "epochId": "asiatische-grossreiche",
     "regionId": "asien",
     "role": "Gründer des Mongolischen Reiches",
     "summary": "Der Steppenherrscher, der die Mongolen einte und das größte zusammenhängende Reich der Geschichte begründete.",
@@ -814,7 +814,7 @@
     "born": 1280,
     "died": 1337,
     "approx": true,
-    "epochId": "mittelalter",
+    "epochId": "afrikanische-reiche",
     "regionId": "afrika",
     "role": "König des Mali-Reiches",
     "summary": "Der Herrscher Westafrikas, der durch seine goldreiche Pilgerfahrt als einer der reichsten Menschen der Geschichte gilt.",
@@ -1021,7 +1021,7 @@
     "born": 1743,
     "died": 1803,
     "approx": true,
-    "epochId": "revolutionen",
+    "epochId": "lateinamerika",
     "regionId": "amerika",
     "role": "Anführer der Haitianischen Revolution",
     "summary": "Der ehemalige Sklave, der Saint-Domingue zur Abschaffung der Sklaverei und an die Schwelle der Unabhängigkeit führte.",
@@ -1055,7 +1055,7 @@
     "born": 1783,
     "died": 1830,
     "approx": false,
-    "epochId": "revolutionen",
+    "epochId": "lateinamerika",
     "regionId": "amerika",
     "role": "Südamerikanischer Freiheitskämpfer und Staatsmann",
     "summary": "Der Libertador, der weite Teile Südamerikas von der spanischen Herrschaft befreite.",
@@ -1421,7 +1421,7 @@
     "born": 1543,
     "died": 1616,
     "approx": false,
-    "epochId": "absolutismus-aufklaerung",
+    "epochId": "asiatische-grossreiche",
     "regionId": "asien",
     "role": "Begründer des Tokugawa-Shogunats",
     "summary": "Der Feldherr, der nach dem Sieg bei Sekigahara Japan einte und eine 250 Jahre währende Friedensordnung begründete.",
@@ -2161,7 +2161,7 @@
     "born": 1336,
     "died": 1405,
     "approx": false,
-    "epochId": "islamische-welt",
+    "epochId": "asiatische-grossreiche",
     "regionId": "asien",
     "role": "Zentralasiatischer Eroberer",
     "summary": "Der Herrscher von Samarkand, der mit Feldzügen von Indien bis Anatolien Furcht verbreitete und zugleich einen glanzvollen Hof unterhielt.",
@@ -2306,7 +2306,7 @@
     "born": 1955,
     "died": null,
     "approx": false,
-    "epochId": "kalter-krieg-gegenwart",
+    "epochId": "gegenwart",
     "regionId": "europa",
     "role": "Britischer Informatiker und Erfinder des World Wide Web",
     "summary": "Entwickelte am CERN das World Wide Web und verzichtete auf Patente, damit es allen offensteht.",
@@ -2324,7 +2324,7 @@
     "born": 1954,
     "died": null,
     "approx": false,
-    "epochId": "kalter-krieg-gegenwart",
+    "epochId": "gegenwart",
     "regionId": "europa",
     "role": "Erste Bundeskanzlerin der Bundesrepublik Deutschland",
     "summary": "Führte Deutschland von 2005 bis 2021 durch Finanz-, Euro-, Flüchtlings- und Coronakrise und prägte die europäische Politik.",
@@ -2450,7 +2450,7 @@
     "born": null,
     "died": 1471,
     "approx": true,
-    "epochId": "mittelalter",
+    "epochId": "amerika-vorkolumbisch",
     "regionId": "amerika",
     "role": "Herrscher der Inka",
     "summary": "Der neunte Inka, der aus dem Stadtstaat Cusco ein Reich machte und dessen Verwaltung, Straßen und Bauten prägte.",
@@ -2537,7 +2537,7 @@
     "born": 1494,
     "died": 1566,
     "approx": false,
-    "epochId": "renaissance-entdeckungen",
+    "epochId": "osmanisches-reich",
     "regionId": "naher-osten",
     "role": "Sultan des Osmanischen Reiches",
     "summary": "Der Sultan, unter dem das Osmanische Reich seine größte Machtentfaltung erreichte und bis vor die Tore Wiens vordrang.",
@@ -2554,7 +2554,7 @@
     "born": 1542,
     "died": 1605,
     "approx": false,
-    "epochId": "renaissance-entdeckungen",
+    "epochId": "asiatische-grossreiche",
     "regionId": "asien",
     "role": "Großmogul von Indien",
     "summary": "Der bedeutendste Herrscher des Mogulreiches, der Indien einte und einen religiös toleranten Hof schuf.",
@@ -2660,7 +2660,7 @@
     "born": 1753,
     "died": 1811,
     "approx": false,
-    "epochId": "revolutionen",
+    "epochId": "lateinamerika",
     "regionId": "amerika",
     "role": "Priester und Anführer des mexikanischen Unabhängigkeitsaufstands",
     "summary": "Der Vater des mexikanischen Vaterlandes, dessen Ruf von Dolores 1810 den Kampf um die Unabhängigkeit auslöste.",
@@ -3068,6 +3068,1459 @@
       "enigma",
       "computer",
       "wissenschaft"
+    ]
+  },
+  {
+    "id": "ezana",
+    "name": "Ezana von Aksum",
+    "born": null,
+    "died": null,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "König von Aksum",
+    "summary": "Der König von Aksum, unter dem das Reich im 4. Jahrhundert christlich wurde.",
+    "text": "Ezana regierte etwa in der Mitte des 4. Jahrhunderts über das Königreich Aksum im heutigen Äthiopien und Eritrea. Erzogen wurde er von dem syrischen Christen Frumentius, der später erster Bischof Aksums wurde. Um 330 nahm Ezana das Christentum an, was sich auf seinen Münzen am Kreuzsymbol ablesen lässt. In mehrsprachigen Steininschriften berichtete er von Feldzügen gegen Nachbarvölker und bis nach Meroe am Nil. Er gilt in der äthiopischen Kirche als Heiliger.",
+    "tags": [
+      "aksum",
+      "christentum",
+      "äthiopien"
+    ]
+  },
+  {
+    "id": "koenig-lalibela",
+    "name": "Lalibela",
+    "born": null,
+    "died": 1221,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "König der Zagwe-Dynastie in Äthiopien",
+    "summary": "Der äthiopische König, dem die Überlieferung den Bau der Felsenkirchen von Lalibela zuschreibt.",
+    "text": "Lalibela regierte im späten 12. und frühen 13. Jahrhundert als König der Zagwe-Dynastie über das christliche Äthiopien. Nach der Überlieferung ließ er in seiner Residenzstadt Roha, die später nach ihm benannt wurde, elf Kirchen aus dem Fels hauen. Die Anlage sollte ein neues Jerusalem für äthiopische Pilger darstellen. Die äthiopische Kirche verehrt ihn als Heiligen. Seine genauen Lebensdaten sind unsicher.",
+    "tags": [
+      "äthiopien",
+      "zagwe",
+      "kirchen"
+    ]
+  },
+  {
+    "id": "sundiata-keita",
+    "name": "Sundiata Keita",
+    "born": 1217,
+    "died": 1255,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Gründer des Mali-Reiches",
+    "summary": "Der Malinke-Fürst, der um 1235 die Sosso besiegte und das Mali-Reich begründete.",
+    "text": "Sundiata Keita war nach der Überlieferung ein Prinz der Malinke, der als Kind gelähmt war und erst spät laufen lernte. Nachdem der Sosso-König Sumanguru seine Heimat unterworfen hatte, vereinte er die Mande-Völker und siegte um 1235 bei Kirina. Er wurde zum ersten Herrscher des Mali-Reiches, das unter seinen Nachfolgern zur Großmacht wurde. Sein Leben ist vor allem durch das Sundiata-Epos bekannt, das Griots bis heute vortragen. Historisch gesicherte Einzelheiten über ihn sind daher selten.",
+    "tags": [
+      "mali",
+      "griots",
+      "mande"
+    ]
+  },
+  {
+    "id": "sunni-ali",
+    "name": "Sunni Ali",
+    "born": null,
+    "died": 1492,
+    "approx": false,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Herrscher des Songhai-Reiches",
+    "summary": "Der Eroberer, der Songhai ab 1464 zur Großmacht am Niger machte.",
+    "text": "Sunni Ali regierte von 1464 bis 1492 über Songhai mit der Hauptstadt Gao. Mit Reiterei und einer Bootsflotte auf dem Niger eroberte er 1468 Timbuktu und später Djenné und schuf ein Reich, das größer war als das alte Mali. Er war offiziell Muslim, stützte sich aber auch auf die traditionellen Religionen seines Volkes. Muslimische Chronisten in Timbuktu schilderten ihn deshalb und wegen seines harten Vorgehens gegen Gelehrte als grausamen Herrscher. Nach seinem Tod stürzte Askia Mohammed seinen Sohn.",
+    "tags": [
+      "songhai",
+      "timbuktu",
+      "eroberung"
+    ]
+  },
+  {
+    "id": "askia-mohammed",
+    "name": "Askia Mohammed",
+    "born": 1443,
+    "died": 1538,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Herrscher des Songhai-Reiches",
+    "summary": "Der Herrscher, unter dem Songhai seine größte Ausdehnung und eine Blüte islamischer Gelehrsamkeit erreichte.",
+    "text": "Mohammed Ture war ein General Sunni Alis und ergriff 1493 die Macht in Songhai, wobei er den Titel Askia annahm. Er gliederte das Reich in Provinzen mit Statthaltern, schuf ein stehendes Heer und vereinheitlichte Maße und Gewichte. Auf seiner Pilgerfahrt nach Mekka 1496 bis 1497 erhielt er vom Kalifen in Kairo den Titel eines Statthalters für den Sudan. Er förderte die Gelehrten von Timbuktu und Djenné und stützte seine Herrschaft auf den Islam. 1528 wurde er im hohen Alter von seinem Sohn abgesetzt.",
+    "tags": [
+      "songhai",
+      "islam",
+      "timbuktu"
+    ]
+  },
+  {
+    "id": "afonso-i-von-kongo",
+    "name": "Afonso I. von Kongo",
+    "born": 1456,
+    "died": 1542,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "König von Kongo",
+    "summary": "Der christliche König von Kongo, der den Austausch mit Portugal suchte und zugleich die Folgen des Sklavenhandels beklagte.",
+    "text": "Afonso, mit afrikanischem Namen Mvemba a Nzinga, war ein Sohn König Nzinga a Nkuwus und setzte sich 1509 im Kampf um die Nachfolge durch. Er machte das Christentum zur Staatsreligion, ließ Kirchen und Schulen bauen und schickte junge Adlige nach Portugal; sein Sohn Henrique wurde zum Bischof geweiht. In zahlreichen Briefen an die portugiesischen Könige verhandelte er über Handel, Missionare und Handwerker. Besonders bekannt sind seine Klagen von 1526 über portugiesische Händler, die freie Untertanen verschleppten. Er regierte über drei Jahrzehnte und starb um 1542.",
+    "tags": [
+      "kongo",
+      "christentum",
+      "sklavenhandel"
+    ]
+  },
+  {
+    "id": "njinga-von-ndongo",
+    "name": "Njinga von Ndongo und Matamba",
+    "born": 1583,
+    "died": 1663,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Königin von Ndongo und Matamba",
+    "summary": "Die Königin, die im heutigen Angola jahrzehntelang mit Krieg und Diplomatie gegen die portugiesische Kolonialmacht kämpfte.",
+    "text": "Njinga war die Tochter eines Königs von Ndongo und trat 1622 als Gesandte ihres Bruders in Luanda auf, wo sie einen Friedensvertrag aushandelte. Ab 1624 regierte sie selbst, musste aber vor den Portugiesen ausweichen und eroberte das benachbarte Königreich Matamba. Sie verbündete sich zeitweise mit den Niederländern, die von 1641 bis 1648 Luanda besetzt hielten, und nahm Flüchtlinge und entlaufene Sklaven in ihr Heer auf. 1656 schloss sie Frieden mit Portugal und regierte bis zu ihrem Tod 1663. Im heutigen Angola gilt sie als Symbol des Widerstands.",
+    "tags": [
+      "ndongo",
+      "matamba",
+      "angola",
+      "frauen"
+    ]
+  },
+  {
+    "id": "osei-tutu",
+    "name": "Osei Tutu",
+    "born": 1660,
+    "died": 1717,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Erster Herrscher (Asantehene) des Asante-Reiches",
+    "summary": "Der Begründer des Asante-Reiches, der mit dem Goldenen Stuhl ein dauerhaftes Symbol der Einheit schuf.",
+    "text": "Osei Tutu war Herrscher von Kumasi und schloss mehrere Akan-Staaten im heutigen Ghana zu einem Bund zusammen. Gemeinsam mit dem Priester Okomfo Anokye führte er den Goldenen Stuhl als heiliges Symbol des Reiches ein. Um 1701 besiegte er bei Feyiase das Reich Denkyira und wurde zum ersten Asantehene. Er gab dem Reich Gesetze und eine Verfassung mit einem Rat der Fürsten. Er fiel um 1717 in einem Krieg gegen die Akyem.",
+    "tags": [
+      "asante",
+      "goldener stuhl",
+      "kumasi"
+    ]
+  },
+  {
+    "id": "usman-dan-fodio",
+    "name": "Usman dan Fodio",
+    "born": 1754,
+    "died": 1817,
+    "approx": false,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Gelehrter, Prediger und Gründer des Sokoto-Kalifats",
+    "summary": "Der Fulbe-Gelehrte, dessen Erneuerungsbewegung zur Gründung des Sokoto-Kalifats führte.",
+    "text": "Usman dan Fodio stammte aus einer Familie von Fulbe-Gelehrten im Hausa-Staat Gobir und wirkte jahrzehntelang als Lehrer und Prediger. Er kritisierte ungerechte Steuern, Willkür und die Vermischung des Islam mit älteren Bräuchen. Nach dem Bruch mit dem König von Gobir rief er 1804 zum Dschihad auf und wurde von seinen Anhängern zum Befehlshaber der Gläubigen erklärt. Die Verwaltung des neuen Kalifats überließ er weitgehend seinem Sohn Muhammad Bello und seinem Bruder Abdullahi. Er hinterließ zahlreiche Schriften auf Arabisch und Fulfulde.",
+    "tags": [
+      "sokoto",
+      "islam",
+      "fulbe"
+    ]
+  },
+  {
+    "id": "nana-asmau",
+    "name": "Nana Asma'u",
+    "born": 1793,
+    "died": 1864,
+    "approx": false,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Gelehrte, Dichterin und Lehrerin im Sokoto-Kalifat",
+    "summary": "Die Tochter Usman dan Fodios, die als Dichterin und Organisatorin der Frauenbildung im Sokoto-Kalifat wirkte.",
+    "text": "Nana Asma'u war eine Tochter Usman dan Fodios und beherrschte Arabisch, Fulfulde, Hausa und Tuareg. Sie verfasste Gedichte über Religion, Geschichte und die Ereignisse des Dschihad, die bis heute erhalten sind. Für Frauen auf dem Land baute sie ein Netz von Lehrerinnen auf, die als Yan Taru bekannt wurden und Wissen in Versform weitergaben. Sie beriet ihren Bruder Muhammad Bello in Fragen von Staat und Recht. In Nordnigeria wird sie bis heute als Vorbild für die Bildung von Frauen verehrt.",
+    "tags": [
+      "sokoto",
+      "frauen",
+      "bildung",
+      "dichtung"
+    ]
+  },
+  {
+    "id": "shaka",
+    "name": "Shaka",
+    "born": 1787,
+    "died": 1828,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "König der Zulu",
+    "summary": "Der Herrscher, der die Zulu ab 1816 zur stärksten Macht im südöstlichen Afrika machte.",
+    "text": "Shaka war ein Sohn des Zulu-Häuptlings Senzangakhona und wuchs nach der Überlieferung als Außenseiter auf. Im Dienst des Mthethwa-Herrschers Dingiswayo zeichnete er sich als Krieger aus und übernahm 1816 die Führung der Zulu. Er schuf ein Heer aus Altersregimentern und ein zentral gelenktes Königreich, dem zahlreiche benachbarte Gruppen eingegliedert wurden. Seine Herrschaft war von großer Gewalt geprägt, besonders nach dem Tod seiner Mutter Nandi 1827. 1828 wurde er von seinen Halbbrüdern Dingane und Mhlangana ermordet.",
+    "tags": [
+      "zulu",
+      "militär",
+      "südafrika"
+    ]
+  },
+  {
+    "id": "ranavalona-i",
+    "name": "Ranavalona I.",
+    "born": 1778,
+    "died": 1861,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Königin von Madagaskar",
+    "summary": "Die Merina-Königin, die Madagaskar über drei Jahrzehnte gegen europäischen Einfluss abschirmte.",
+    "text": "Ranavalona I. war die Witwe Radamas I. und bestieg 1828 den Thron des Merina-Reiches. Sie sah in den europäischen Missionaren und Händlern eine Gefahr für die Unabhängigkeit und die überlieferte Religion ihres Landes. 1835 verbot sie das Christentum, ließ Bekehrte verfolgen und wies die meisten Ausländer aus. 1845 wehrte ihr Heer einen gemeinsamen Angriff britischer und französischer Kriegsschiffe auf den Hafen Toamasina ab. Europäische Berichte zeichneten ein sehr negatives Bild von ihr; heutige Historiker betonen auch ihren Einsatz für die Souveränität Madagaskars.",
+    "tags": [
+      "madagaskar",
+      "merina",
+      "frauen"
+    ]
+  },
+  {
+    "id": "ahmad-baba",
+    "name": "Ahmad Baba",
+    "born": 1556,
+    "died": 1627,
+    "approx": false,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Rechtsgelehrter in Timbuktu",
+    "summary": "Der bedeutendste Gelehrte Timbuktus, der nach der marokkanischen Eroberung nach Marrakesch verschleppt wurde.",
+    "text": "Ahmad Baba stammte aus einer angesehenen Gelehrtenfamilie in Timbuktu und besaß eine große Bibliothek. Nach der Eroberung Songhais durch Marokko wurde er 1594 mit anderen Gelehrten nach Marrakesch gebracht, wo er trotz seiner Gefangenschaft hohes Ansehen genoss. Er verfasste über 40 Werke, darunter ein Verzeichnis malikitischer Rechtsgelehrter und ein Gutachten gegen die Versklavung von Muslimen aus Westafrika. Erst nach dem Tod Sultan al-Mansurs durfte er 1608 nach Timbuktu zurückkehren. Das dortige Institut zur Bewahrung der Handschriften trägt heute seinen Namen.",
+    "tags": [
+      "timbuktu",
+      "gelehrte",
+      "islam",
+      "handschriften"
+    ]
+  },
+  {
+    "id": "tewodros-ii",
+    "name": "Tewodros II.",
+    "born": 1818,
+    "died": 1868,
+    "approx": true,
+    "epochId": "afrikanische-reiche",
+    "regionId": "afrika",
+    "role": "Kaiser von Äthiopien",
+    "summary": "Der Kaiser, der 1855 die Zeit der Fürsten beendete und Äthiopien wieder einte.",
+    "text": "Tewodros II., ursprünglich Kassa Hailu, stammte aus einer Adelsfamilie im Westen Äthiopiens und stieg als Kriegsherr auf. Nach Siegen über die mächtigsten Regionalfürsten ließ er sich 1855 zum Kaiser krönen. Er wollte ein stehendes Heer, eine zentrale Verwaltung und eine eigene Waffenproduktion aufbauen und die Macht von Adel und Kirche beschränken. Im Streit mit Großbritannien ließ er europäische Gesandte festsetzen, worauf ein britisches Heer 1868 seine Festung Magdala einnahm. Tewodros nahm sich dort das Leben.",
+    "tags": [
+      "äthiopien",
+      "einigung",
+      "magdala"
+    ]
+  },
+  {
+    "id": "pakal",
+    "name": "K’inich Janaab Pakal (Pakal der Große)",
+    "born": 603,
+    "died": 683,
+    "approx": false,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "König von Palenque",
+    "summary": "Der bekannteste Maya-König, unter dem Palenque zur Blüte kam und dessen Grab im Tempel der Inschriften 1952 entdeckt wurde.",
+    "text": "Pakal wurde 603 geboren und 615 als Zwölfjähriger König von Palenque; vor ihm hatte seine Mutter Sak K’uk’ die Herrschaft ausgeübt. Er regierte 68 Jahre, länger als fast jeder andere Herrscher der Maya. In dieser Zeit stärkte er seine Stadt nach Niederlagen gegen Calakmul und ließ prächtige Bauten mit Stuckreliefs errichten. Im Tempel der Inschriften wurde er in einem steinernen Sarkophag mit einer Jademaske bestattet. Die Bildtafel auf dem Sarkophagdeckel zeigt ihn beim Übergang in die Unterwelt und ist eines der bekanntesten Kunstwerke der Maya.",
+    "tags": [
+      "maya",
+      "palenque",
+      "könig"
+    ]
+  },
+  {
+    "id": "frau-sechs-himmel",
+    "name": "Frau Sechs Himmel",
+    "born": null,
+    "died": 741,
+    "approx": false,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscherin von Naranjo",
+    "summary": "Eine Maya-Prinzessin aus Dos Pilas, die als Mutter und Regentin die Dynastie von Naranjo neu begründete.",
+    "text": "Frau Sechs Himmel, in der Maya-Sprache Ix Wak Chan Ajaw, war eine Tochter des Königs Bajlaj Chan K’awiil von Dos Pilas, eines Verbündeten von Calakmul. 682 kam sie nach Naranjo, um das geschwächte Königshaus zu erneuern. Ihr Sohn K’ahk’ Tiliw Chan Chaak wurde 693 im Alter von fünf Jahren König, doch sie lenkte lange die Geschicke der Stadt. Auf Stelen ist sie wie ein König über Gefangenen stehend dargestellt, was für Frauen ungewöhnlich war. Sie starb 741.",
+    "tags": [
+      "maya",
+      "frauen",
+      "herrscherin"
+    ]
+  },
+  {
+    "id": "jasaw-chan-kawiil",
+    "name": "Jasaw Chan K’awiil",
+    "born": null,
+    "died": 734,
+    "approx": true,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "König von Tikal",
+    "summary": "Der König, der Tikal nach langer Schwäche durch den Sieg über Calakmul 695 zu neuer Größe führte.",
+    "text": "Jasaw Chan K’awiil bestieg 682 den Thron von Tikal, als die Stadt noch unter den Folgen früherer Niederlagen litt. 695 besiegte er das Heer von Calakmul, dem großen Rivalen Tikals, und ließ den Triumph auf geschnitzten Türstürzen darstellen. Unter seiner Herrschaft und der seines Sohnes wurden in Tikal neue Tempelpyramiden und Plätze gebaut. Er wurde im Tempel I bestattet, der hohen Pyramide am Großen Platz, die bis heute das Wahrzeichen Tikals ist.",
+    "tags": [
+      "maya",
+      "tikal",
+      "könig"
+    ]
+  },
+  {
+    "id": "siyaj-kahk",
+    "name": "Siyaj K’ahk’",
+    "born": null,
+    "died": null,
+    "approx": true,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Feldherr aus dem Umfeld Teotihuacans",
+    "summary": "Ein mächtiger Fremder, dessen Ankunft 378 in Tikal einen Dynastiewechsel einleitete.",
+    "text": "Siyaj K’ahk’, „Feuer ist geboren“, ist aus Maya-Inschriften bekannt, die seine Ankunft in Tikal im Januar 378 berichten. Er kam wohl aus Teotihuacan oder handelte in dessen Auftrag. Am Tag seiner Ankunft starb der König von Tikal, und kurz darauf wurde ein junger Herrscher eingesetzt, dessen Vater mit Teotihuacan verbunden war. Siyaj K’ahk’ wird auch in Inschriften anderer Maya-Städte als Oberherr genannt. Über seine Herkunft und sein weiteres Leben ist wenig bekannt.",
+    "tags": [
+      "maya",
+      "teotihuacan",
+      "tikal"
+    ]
+  },
+  {
+    "id": "senora-de-cao",
+    "name": "Señora de Cao",
+    "born": null,
+    "died": null,
+    "approx": true,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscherin der Moche",
+    "summary": "Eine Frau der Moche-Elite, deren reich ausgestattetes Grab zeigt, dass Frauen an der Nordküste Perus höchste Ämter innehatten.",
+    "text": "2005 entdeckten Archäologen in der Pyramide Huaca Cao Viejo bei El Brujo die Mumie einer jungen Frau, die vermutlich im 4. oder 5. Jahrhundert gestorben war. Ihre Haut war mit Tätowierungen von Schlangen, Spinnen und anderen Motiven bedeckt. Im Grab lagen goldene Kronen, Nasenschmuck und Kriegskeulen, die sonst nur bei männlichen Herrschern gefunden wurden. Ihr Name ist unbekannt. Der Fund veränderte die Vorstellung, dass in der Moche-Gesellschaft nur Männer regierten.",
+    "tags": [
+      "moche",
+      "frauen",
+      "peru"
+    ]
+  },
+  {
+    "id": "itzcoatl",
+    "name": "Itzcoatl",
+    "born": null,
+    "died": 1440,
+    "approx": true,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscher (Tlatoani) von Tenochtitlan",
+    "summary": "Der Herrscher der Mexica, der die Tepaneken besiegte und den aztekischen Dreibund begründete.",
+    "text": "Itzcoatl, „Obsidianschlange“, wurde um 1427 Herrscher von Tenochtitlan. Gemeinsam mit Nezahualcoyotl von Texcoco und Tlacopan besiegte er 1428 die Tepaneken von Azcapotzalco, denen die Mexica bis dahin Tribut zahlten. Damit legte er den Grundstein des Aztekenreiches. Nach späterer Überlieferung ließ er ältere Bilderhandschriften verbrennen, um eine neue Geschichte der Mexica zu verbreiten. Sein Neffe Moctezuma I. folgte ihm 1440 auf den Thron.",
+    "tags": [
+      "azteken",
+      "tenochtitlan",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "nezahualcoyotl",
+    "name": "Nezahualcoyotl",
+    "born": 1402,
+    "died": 1472,
+    "approx": false,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscher von Texcoco, Dichter und Baumeister",
+    "summary": "Der Dichterkönig von Texcoco, Mitbegründer des Dreibunds und Erbauer eines großen Deiches im Texcoco-See.",
+    "text": "Nezahualcoyotl musste als junger Prinz fliehen, nachdem die Tepaneken seinen Vater, den Herrscher von Texcoco, getötet hatten. Im Bündnis mit Tenochtitlan gewann er 1428 seine Heimat zurück und regierte ab 1431 in Texcoco. Er gab der Stadt Gesetze, förderte Gelehrte und Künstler und ließ Gärten, Paläste und Wasserleitungen anlegen. Unter seiner Leitung entstand ein langer Deich, der das Süßwasser um Tenochtitlan vom salzigen Seewasser trennte und die Stadt vor Hochwasser schützte. Ihm zugeschriebene Gedichte in Nahuatl werden bis heute gelesen.",
+    "tags": [
+      "azteken",
+      "texcoco",
+      "dichtung"
+    ]
+  },
+  {
+    "id": "moctezuma-i",
+    "name": "Moctezuma I. Ilhuicamina",
+    "born": null,
+    "died": 1469,
+    "approx": true,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscher (Tlatoani) von Tenochtitlan",
+    "summary": "Der Aztekenherrscher, der das Reich bis an die Golfküste ausdehnte und Tenochtitlan ausbaute.",
+    "text": "Moctezuma I., ein Neffe Itzcoatls, regierte von 1440 bis 1469. Seine Heere unterwarfen Gebiete im Süden und an der Golfküste, von denen Tenochtitlan Baumwolle, Kakao und andere Güter als Tribut erhielt. In den 1450er Jahren litt das Hochtal unter einer schweren Hungersnot nach Frost und Dürre. Moctezuma ließ Vorratsspeicher anlegen und den Templo Mayor erweitern. Zusammen mit Nezahualcoyotl baute er die Wasserversorgung der Hauptstadt aus.",
+    "tags": [
+      "azteken",
+      "tenochtitlan",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "ahuitzotl",
+    "name": "Ahuitzotl",
+    "born": null,
+    "died": 1502,
+    "approx": false,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscher (Tlatoani) von Tenochtitlan",
+    "summary": "Der kriegerische Aztekenherrscher, unter dem das Reich seine größte Ausdehnung erreichte.",
+    "text": "Ahuitzotl regierte von 1486 bis 1502 und führte Feldzüge bis an die Pazifikküste und in das Gebiet des heutigen Guatemala. 1487 ließ er die erweiterte Doppelpyramide des Templo Mayor mit großen Feierlichkeiten einweihen. Er förderte die Fernhändler, die Pochteca, die zugleich als Kundschafter dienten. Ein neuer Aquädukt, den er bauen ließ, führte um 1500 zu einer schweren Überschwemmung Tenochtitlans. Sein Nachfolger wurde sein Neffe Moctezuma II.",
+    "tags": [
+      "azteken",
+      "tenochtitlan",
+      "templo mayor"
+    ]
+  },
+  {
+    "id": "tupac-yupanqui",
+    "name": "Túpac Yupanqui",
+    "born": null,
+    "died": 1493,
+    "approx": true,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscher der Inka",
+    "summary": "Der Sohn Pachacútecs, der das Inkareich durch große Eroberungen nach Norden und Süden ausdehnte.",
+    "text": "Túpac Yupanqui führte schon als Feldherr seines Vaters Pachacútec die Inka-Heere und eroberte um 1470 das Königreich Chimor sowie Gebiete im heutigen Ecuador. Um 1471 übernahm er selbst die Herrschaft. Er dehnte das Reich nach Süden bis in das heutige Chile und nach Osten bis an den Rand des Tieflands aus. Unter ihm wurden die Verwaltung mit Provinzen und Statthaltern, die Umsiedlungen und das Straßennetz weiter ausgebaut. Ihm folgte um 1493 sein Sohn Huayna Capac.",
+    "tags": [
+      "inka",
+      "eroberung",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "huayna-capac",
+    "name": "Huayna Capac",
+    "born": null,
+    "died": 1527,
+    "approx": true,
+    "epochId": "amerika-vorkolumbisch",
+    "regionId": "amerika",
+    "role": "Herrscher der Inka",
+    "summary": "Der letzte Inka, der über das ungeteilte Reich herrschte, bevor eine Seuche ihn tötete.",
+    "text": "Huayna Capac übernahm um 1493 die Herrschaft und regierte das Inkareich auf dem Höhepunkt seiner Ausdehnung. Er führte lange Feldzüge im Norden, im heutigen Ecuador und an der Grenze zu Kolumbien, und hielt sich oft in Tumipampa und Quito auf. Um 1527 starb er an einer Seuche, wahrscheinlich an den Pocken, die von den Europäern eingeschleppt worden waren. Da auch sein designierter Erbe starb, brach zwischen seinen Söhnen Huáscar und Atahualpa ein Bürgerkrieg aus, der das Reich kurz vor der Ankunft der Spanier schwächte.",
+    "tags": [
+      "inka",
+      "herrscher",
+      "pocken"
+    ]
+  },
+  {
+    "id": "kublai-khan",
+    "name": "Kublai Khan",
+    "born": 1215,
+    "died": 1294,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Mongolischer Großkhan und Kaiser von China",
+    "summary": "Der Enkel Dschingis Khans eroberte ganz China und begründete dort die Yuan-Dynastie.",
+    "text": "Kublai war ein Sohn Toluis und der klugen Sorghaghtani Beki, die ihre Söhne auf die Herrschaft vorbereitete. 1260 wurde er Großkhan und setzte sich in einem vierjährigen Krieg gegen seinen Bruder Arigh Böke durch. Er gründete 1271 die Yuan-Dynastie, baute Dadu zur Hauptstadt aus und vollendete 1279 die Eroberung Südchinas. Seine Angriffe auf Japan, Vietnam und Java scheiterten jedoch. An seinem Hof dienten Beamte aus vielen Ländern, nach eigenem Bericht auch der Venezianer Marco Polo.",
+    "tags": [
+      "mongolen",
+      "china",
+      "yuan",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "hongwu-kaiser",
+    "name": "Hongwu-Kaiser (Zhu Yuanzhang)",
+    "born": 1328,
+    "died": 1398,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Gründer und erster Kaiser der Ming-Dynastie",
+    "summary": "Der Sohn armer Bauern stieg vom Bettelmönch zum Kaiser auf und vertrieb die Mongolen aus China.",
+    "text": "Zhu Yuanzhang verlor 1344 bei einer Hungersnot seine Eltern und wurde Novize in einem buddhistischen Kloster. Als Anführer im Aufstand der Roten Turbane besiegte er seine Rivalen und rief 1368 die Ming-Dynastie aus. Er ließ das Land vermessen, Steuerregister anlegen und die Dörfer in Selbstverwaltungsgruppen ordnen. Aus Misstrauen schaffte er 1380 das Amt des Kanzlers ab und ließ in mehreren Säuberungen zehntausende Beamte und ihre Familien hinrichten. Seine Regierung war streng, festigte aber die Herrschaft der Ming.",
+    "tags": [
+      "china",
+      "ming",
+      "kaiser",
+      "aufstand"
+    ]
+  },
+  {
+    "id": "yongle-kaiser",
+    "name": "Yongle-Kaiser (Zhu Di)",
+    "born": 1360,
+    "died": 1424,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Dritter Kaiser der Ming-Dynastie",
+    "summary": "Der ehrgeizige Ming-Kaiser verlegte die Hauptstadt nach Peking, ließ die Verbotene Stadt bauen und schickte Zheng He auf große Seefahrten.",
+    "text": "Zhu Di, ein Sohn des Hongwu-Kaisers, regierte als Prinz in Peking und verteidigte die Nordgrenze. In einem Bürgerkrieg von 1399 bis 1402 stürzte er seinen Neffen und bestieg den Thron. Er ließ die riesige Yongle-Enzyklopädie zusammenstellen, die Verbotene Stadt bauen und den Kaiserkanal erneuern. Er führte Feldzüge gegen die Mongolen und ließ 1407 Vietnam besetzen. Yongle starb 1424 auf einem Feldzug in der Mongolei.",
+    "tags": [
+      "china",
+      "ming",
+      "kaiser",
+      "peking"
+    ]
+  },
+  {
+    "id": "zheng-he",
+    "name": "Zheng He",
+    "born": 1371,
+    "died": 1433,
+    "approx": true,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Chinesischer Admiral und Diplomat",
+    "summary": "Der muslimische Eunuch aus Yunnan führte im Auftrag der Ming sieben große Flottenexpeditionen bis nach Ostafrika.",
+    "text": "Zheng He wurde als Ma He in einer muslimischen Familie in Yunnan geboren; sein Vater hatte die Pilgerfahrt nach Mekka unternommen. Als Junge geriet er bei der Eroberung Yunnans durch die Ming in Gefangenschaft, wurde kastriert und kam an den Hof des Prinzen Zhu Di. Er zeichnete sich als Offizier aus und erhielt den Namen Zheng. Von 1405 bis 1433 befehligte er sieben Flotten, die über 30 Länder am Indischen Ozean besuchten. Er starb vermutlich auf der Rückkehr von der letzten Fahrt.",
+    "tags": [
+      "china",
+      "seefahrt",
+      "ming",
+      "islam"
+    ]
+  },
+  {
+    "id": "sejong-der-grosse",
+    "name": "Sejong der Große",
+    "born": 1397,
+    "died": 1450,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "König von Korea aus der Joseon-Dynastie",
+    "summary": "Der vierte König von Joseon förderte Wissenschaft und Bildung und schuf die koreanische Schrift Hangeul.",
+    "text": "Sejong bestieg 1418 den Thron und versammelte in der Halle der Würdigen junge Gelehrte, die Geschichte, Recht, Medizin und Landwirtschaft erforschten. Er ließ ein Handbuch für Bauern verfassen und förderte den Erfinder Jang Yeong-sil, der aus niedrigem Stand kam und Wasseruhren und Regenmesser baute. 1443 ließ er die Schrift Hangeul entwickeln, die 1446 verkündet wurde. Er sicherte die Nordgrenze gegen die Jurchen. Sejong gilt in Korea als der bedeutendste König und ist auf dem 10.000-Won-Schein abgebildet.",
+    "tags": [
+      "korea",
+      "joseon",
+      "schrift",
+      "wissenschaft"
+    ]
+  },
+  {
+    "id": "schah-ismail-i",
+    "name": "Ismail I.",
+    "born": 1487,
+    "died": 1524,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "naher-osten",
+    "role": "Gründer des Safawidenreiches und Schah von Persien",
+    "summary": "Der Anführer eines Sufi-Ordens wurde als Jugendlicher Schah und machte Iran zu einem schiitischen Land.",
+    "text": "Ismail war das Oberhaupt des Safawiden-Ordens, dessen Anhänger ihn als heiligen Führer verehrten. Mit ihrer Hilfe eroberte er 1501 Täbris und in den folgenden Jahren ganz Iran und den Irak. Er erhob die Zwölfer-Schia zur Staatsreligion und holte schiitische Gelehrte ins Land. Unter dem Namen Chatai schrieb er Gedichte in türkischer Sprache. Nach der Niederlage gegen die Osmanen bei Tschaldiran 1514 zog er nie wieder selbst in den Krieg.",
+    "tags": [
+      "persien",
+      "safawiden",
+      "schia",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "babur",
+    "name": "Babur",
+    "born": 1483,
+    "died": 1530,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Gründer des Mogulreiches",
+    "summary": "Der zentralasiatische Fürst aus der Familie Timurs eroberte Nordindien und begründete die Dynastie der Großmoguln.",
+    "text": "Babur wurde im Ferghanatal geboren und stammte väterlicherseits von Timur, mütterlicherseits von Dschingis Khan ab. Als Jugendlicher eroberte und verlor er mehrfach Samarkand, bis er 1504 Kabul einnahm. Von dort aus besiegte er 1526 bei Panipat den Sultan von Delhi. In seiner in Tschagatai-Türkisch geschriebenen Autobiografie, dem Baburnama, beschreibt er offen Kriege, Pflanzen, Gärten und seine Heimatsehnsucht. Er starb 1530 in Agra.",
+    "tags": [
+      "indien",
+      "mogulreich",
+      "herrscher",
+      "autobiografie"
+    ]
+  },
+  {
+    "id": "nur-jahan",
+    "name": "Nur Jahan",
+    "born": 1577,
+    "died": 1645,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Mogulkaiserin und Mitregentin",
+    "summary": "Die Frau des Großmoguls Jahangir übte jahrelang die tatsächliche Macht im Mogulreich aus.",
+    "text": "Nur Jahan, geboren als Mihr un-Nissa in einer persischen Familie, heiratete 1611 den Großmogul Jahangir. Da ihr Mann krank und vom Alkohol gezeichnet war, führte sie viele Regierungsgeschäfte; Münzen wurden in ihrem Namen geprägt und Erlasse mit ihrem Siegel versehen. Sie förderte Handel, Mode und Architektur und ließ für ihre Eltern in Agra ein Grabmal bauen, das als Vorbild des Taj Mahal gilt. Ihre Nichte Mumtaz Mahal war die Frau Shah Jahans. Nach Jahangirs Tod 1627 lebte sie zurückgezogen in Lahore.",
+    "tags": [
+      "indien",
+      "mogulreich",
+      "frauen",
+      "herrscherin"
+    ]
+  },
+  {
+    "id": "schah-abbas-i",
+    "name": "Abbas I. der Große",
+    "born": 1571,
+    "died": 1629,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "naher-osten",
+    "role": "Schah von Persien aus der Dynastie der Safawiden",
+    "summary": "Der bedeutendste Safawidenherrscher stärkte sein Reich durch Reformen und machte Isfahan zu einer Weltstadt.",
+    "text": "Abbas kam 1588 auf den Thron, als das Reich von Osmanen und Usbeken bedrängt wurde. Er baute ein stehendes Heer aus Militärsklaven aus dem Kaukasus und Musketieren auf, das die Macht der Qizilbasch begrenzte. Damit eroberte er Täbris und Bagdad zurück und vertrieb 1622 mit englischer Hilfe die Portugiesen aus Hormus. Er förderte den Seidenhandel und baute Isfahan prächtig aus. Gegenüber möglichen Rivalen war er misstrauisch und ließ eigene Söhne töten oder blenden.",
+    "tags": [
+      "persien",
+      "safawiden",
+      "isfahan",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "shah-jahan",
+    "name": "Shah Jahan",
+    "born": 1592,
+    "died": 1666,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Großmogul von Indien",
+    "summary": "Der Großmogul ließ das Taj Mahal und das Rote Fort in Delhi erbauen und regierte das Reich auf dem Höhepunkt seiner Pracht.",
+    "text": "Shah Jahan, ein Enkel Akbars, regierte von 1628 bis 1658. Seine Herrschaft gilt als goldenes Zeitalter der Mogularchitektur: Neben dem Taj Mahal ließ er in Delhi die neue Hauptstadt Shahjahanabad mit dem Roten Fort und der Freitagsmoschee bauen. Er ließ einen mit Edelsteinen besetzten Pfauenthron anfertigen. Die gewaltigen Ausgaben und Kriege belasteten jedoch die Bauern schwer. 1658 entmachtete ihn sein Sohn Aurangzeb, der ihn bis zu seinem Tod im Fort von Agra festhielt.",
+    "tags": [
+      "indien",
+      "mogulreich",
+      "architektur",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "aurangzeb",
+    "name": "Aurangzeb",
+    "born": 1618,
+    "died": 1707,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Großmogul von Indien",
+    "summary": "Unter dem letzten großen Mogulherrscher erreichte das Reich seine größte Ausdehnung, aber auch die Grenzen seiner Macht.",
+    "text": "Aurangzeb, ein Sohn Shah Jahans, siegte 1658 im Thronkampf über seine Brüder und ließ seinen älteren Bruder Dara Shikoh hinrichten. Er regierte fast 50 Jahre lang unter dem Titel Alamgir, Eroberer der Welt. Persönlich lebte er bescheiden und streng religiös; er verbot Musik am Hof, führte die Steuer für Nichtmuslime wieder ein und ließ einige Tempel zerstören. Die letzten 26 Jahre seines Lebens verbrachte er auf Feldzügen im Dekkan. Ob seine Religionspolitik oder die Überdehnung des Reiches mehr zum Niedergang beitrug, wird bis heute diskutiert.",
+    "tags": [
+      "indien",
+      "mogulreich",
+      "islam",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "oda-nobunaga",
+    "name": "Oda Nobunaga",
+    "born": 1534,
+    "died": 1582,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Japanischer Kriegsherr und Reichseiniger",
+    "summary": "Der rücksichtslose Fürst aus der Provinz Owari leitete mit Feuerwaffen und neuen Methoden die Einigung Japans ein.",
+    "text": "Nobunaga erbte ein kleines Fürstentum und machte sich 1560 mit dem Sieg bei Okehazama einen Namen. 1568 zog er in Kyoto ein und setzte 1573 den letzten Ashikaga-Shogun ab. Er ließ 1571 die Klosteranlage auf dem Berg Hiei niederbrennen, setzte bei Nagashino Musketenschützen ein und förderte freie Märkte ohne Zunftschranken. Gegenüber den portugiesischen Jesuiten zeigte er sich offen. 1582 wurde er im Tempel Honnō-ji von seinem Gefolgsmann Akechi Mitsuhide überfallen und nahm sich das Leben.",
+    "tags": [
+      "japan",
+      "sengoku",
+      "samurai",
+      "feuerwaffen"
+    ]
+  },
+  {
+    "id": "toyotomi-hideyoshi",
+    "name": "Toyotomi Hideyoshi",
+    "born": 1537,
+    "died": 1598,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Japanischer Feldherr und Reichskanzler",
+    "summary": "Der Fußsoldat aus einfachen Verhältnissen vollendete die Einigung Japans und griff Korea an.",
+    "text": "Hideyoshi stieg im Dienst Oda Nobunagas vom einfachen Soldaten zum General auf. Nach Nobunagas Tod besiegte er dessen Mörder und unterwarf bis 1590 alle Fürsten Japans. Da er nicht aus einem vornehmen Geschlecht stammte, regierte er nicht als Shogun, sondern als kaiserlicher Regent. Mit der Schwertjagd von 1588 entwaffnete er die Bauern, und eine landesweite Vermessung legte die Abgaben fest. Seine Invasionen in Korea ab 1592 scheiterten; er starb 1598 in seiner Burg Fushimi.",
+    "tags": [
+      "japan",
+      "reichseinigung",
+      "korea",
+      "samurai"
+    ]
+  },
+  {
+    "id": "yi-sun-sin",
+    "name": "Yi Sun-sin",
+    "born": 1545,
+    "died": 1598,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Koreanischer Admiral",
+    "summary": "Der Admiral besiegte die japanische Flotte im Imjin-Krieg mehrfach und gilt in Korea als Nationalheld.",
+    "text": "Yi Sun-sin wurde kurz vor dem Krieg Befehlshaber einer Flotte im Südwesten Koreas und ließ die gepanzerten Schildkrötenschiffe wieder herstellen. 1592 vernichtete er bei der Insel Hansan einen großen Teil der japanischen Flotte und unterbrach so den Nachschub der Invasoren. Durch Intrigen am Hof wurde er abgesetzt und musste als einfacher Soldat dienen. Wieder eingesetzt, siegte er 1597 bei Myeongnyang mit nur 13 Schiffen gegen eine weit größere Flotte. Er fiel im Dezember 1598 in der letzten Seeschlacht des Krieges bei Noryang.",
+    "tags": [
+      "korea",
+      "seekrieg",
+      "imjin-krieg",
+      "nationalheld"
+    ]
+  },
+  {
+    "id": "matsuo-basho",
+    "name": "Matsuo Bashō",
+    "born": 1644,
+    "died": 1694,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Japanischer Dichter",
+    "summary": "Der bedeutendste Dichter der Edo-Zeit machte das kurze Gedicht Haiku zu einer eigenständigen Kunstform.",
+    "text": "Bashō stammte aus einer niederen Samurai-Familie in der Provinz Iga und zog als junger Mann nach Edo, wo er Dichtkunst unterrichtete. Seinen Namen erhielt er von einer Bananenstaude, die Schüler vor seiner Hütte pflanzten. Seine Gedichte verbinden genaue Naturbeobachtung mit dem Geist des Zen-Buddhismus; am berühmtesten ist das Gedicht über einen Frosch, der in einen alten Teich springt. Auf langen Wanderungen entstanden Reisetagebücher wie Auf schmalen Pfaden durchs Hinterland. Er starb 1694 auf einer Reise in Osaka.",
+    "tags": [
+      "japan",
+      "literatur",
+      "haiku",
+      "edo-zeit"
+    ]
+  },
+  {
+    "id": "kangxi",
+    "name": "Kangxi-Kaiser",
+    "born": 1654,
+    "died": 1722,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Kaiser von China aus der Qing-Dynastie",
+    "summary": "Der am längsten regierende Kaiser Chinas festigte die Herrschaft der Qing und förderte Wissenschaft und Gelehrsamkeit.",
+    "text": "Kangxi bestieg 1661 als Kind den Thron und regierte 61 Jahre lang. Er schlug von 1673 bis 1681 den Aufstand der Drei Feudalherren im Süden nieder, ließ 1683 Taiwan erobern und schloss 1689 den Vertrag von Nertschinsk mit Russland. Von Jesuiten am Hof ließ er sich in Mathematik, Astronomie und Medizin unterrichten und gestattete 1692 die christliche Mission. Er gab ein großes Wörterbuch der chinesischen Schriftzeichen in Auftrag. Auf mehreren Inspektionsreisen in den Süden gewann er die chinesischen Gelehrten für die Mandschu-Herrschaft.",
+    "tags": [
+      "china",
+      "qing",
+      "kaiser",
+      "wissenschaft"
+    ]
+  },
+  {
+    "id": "qianlong",
+    "name": "Qianlong-Kaiser",
+    "born": 1711,
+    "died": 1799,
+    "approx": false,
+    "epochId": "asiatische-grossreiche",
+    "regionId": "asien",
+    "role": "Kaiser von China aus der Qing-Dynastie",
+    "summary": "Unter dem Enkel Kangxis erreichte das Qing-Reich seine größte Ausdehnung und kulturelle Pracht.",
+    "text": "Qianlong regierte von 1735 bis 1796 und dankte dann ab, um nicht länger als sein Großvater Kangxi auf dem Thron zu sitzen; die Macht behielt er bis zu seinem Tod. In seinen Feldzügen vernichtete er das Reich der Dsungaren und gliederte Xinjiang dem Reich an. Er sammelte Kunst, schrieb zehntausende Gedichte und ließ die große Bibliothek der Vier Schätze anlegen, wobei zahlreiche als staatsfeindlich geltende Bücher vernichtet wurden. In seinen letzten Jahren breiteten sich Korruption und Aufstände aus. 1793 wies er die britische Gesandtschaft Macartneys ab.",
+    "tags": [
+      "china",
+      "qing",
+      "kaiser",
+      "kunst"
+    ]
+  },
+  {
+    "id": "boris-jelzin",
+    "name": "Boris Jelzin",
+    "born": 1931,
+    "died": 2007,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "europa",
+    "role": "Erster frei gewählter Präsident Russlands",
+    "summary": "Stellte sich 1991 dem Putsch gegen Gorbatschow entgegen und führte Russland durch die chaotischen 1990er Jahre.",
+    "text": "Jelzin stieg in der Kommunistischen Partei auf, wurde unter Gorbatschow Parteichef von Moskau und brach später mit der Parteiführung. Im Juni 1991 wurde er in freier Wahl zum Präsidenten der Russischen Republik gewählt. Als konservative Kommunisten im August 1991 putschten, rief er auf einem Panzer stehend zum Widerstand auf, und im Dezember beschloss er mit den Führern der Ukraine und Belarus das Ende der Sowjetunion. Seine schnellen Marktreformen stürzten viele Russen in Armut, 1993 ließ er das widerständige Parlament beschießen, und 1994 begann er den Krieg in Tschetschenien. Am 31. Dezember 1999 trat er zurück und übergab die Macht an Wladimir Putin.",
+    "tags": [
+      "russland",
+      "praesident",
+      "transformation"
+    ]
+  },
+  {
+    "id": "wladimir-putin",
+    "name": "Wladimir Putin",
+    "born": 1952,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "europa",
+    "role": "Präsident Russlands",
+    "summary": "Regiert Russland seit 2000 als Präsident oder Ministerpräsident und begann 2022 den Angriffskrieg gegen die Ukraine.",
+    "text": "Putin wurde in Leningrad geboren und diente als Offizier des sowjetischen Geheimdienstes KGB, unter anderem in Dresden. In den 1990er Jahren machte er Karriere in der Stadtverwaltung von Sankt Petersburg und in Moskau, wurde 1998 Chef des Inlandsgeheimdienstes und 1999 Ministerpräsident. Seit 2000 bestimmt er als Präsident, zwischen 2008 und 2012 als Ministerpräsident, die russische Politik und schuf ein autoritäres System, in dem Kritiker verfolgt und inhaftiert wurden; mehrere prominente Gegner kamen gewaltsam oder in Haft ums Leben. Er ließ 2014 die Krim annektieren und befahl am 24. Februar 2022 den Angriff auf die Ukraine. Der Internationale Strafgerichtshof erließ 2023 einen Haftbefehl gegen ihn wegen der Verschleppung ukrainischer Kinder.",
+    "tags": [
+      "russland",
+      "praesident",
+      "autoritarismus",
+      "krieg"
+    ]
+  },
+  {
+    "id": "osama-bin-laden",
+    "name": "Osama bin Laden",
+    "born": 1957,
+    "died": 2011,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "naher-osten",
+    "role": "Gründer und Anführer des Terrornetzwerks al-Qaida",
+    "summary": "Verantwortete als Chef von al-Qaida die Anschläge vom 11. September 2001.",
+    "text": "Bin Laden stammte aus einer reichen Bauunternehmerfamilie in Saudi-Arabien. In den 1980er Jahren unterstützte er mit Geld und Kämpfern den Krieg gegen die sowjetische Besatzung Afghanistans und gründete 1988 die Organisation al-Qaida. Von Afghanistan aus, wo ihm die Taliban Schutz gewährten, rief er zum Kampf gegen die USA und ihre Verbündeten auf und ließ 1998 Anschläge auf amerikanische Botschaften in Kenia und Tansania verüben. Er befahl die Anschläge vom 11. September 2001 und tauchte danach unter. Am 2. Mai 2011 töteten amerikanische Spezialkräfte ihn in seinem Versteck im pakistanischen Abbottabad.",
+    "tags": [
+      "terrorismus",
+      "al-qaida",
+      "islamismus"
+    ]
+  },
+  {
+    "id": "barack-obama",
+    "name": "Barack Obama",
+    "born": 1961,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "amerika",
+    "role": "44. Präsident der Vereinigten Staaten",
+    "summary": "War von 2009 bis 2017 der erste afroamerikanische Präsident der USA.",
+    "text": "Obama wurde in Honolulu als Sohn einer weißen Amerikanerin und eines kenianischen Vaters geboren. Er arbeitete als Sozialarbeiter in Chicago, studierte Jura in Harvard und war danach Bürgerrechtsanwalt, bevor er 2005 für Illinois in den US-Senat einzog. Im November 2008 gewann er die Präsidentschaftswahl und übernahm sein Amt mitten in der Weltfinanzkrise. Er setzte eine Gesundheitsreform durch, unterstützte das Pariser Klimaabkommen und ließ 2011 Osama bin Laden aufspüren, beendete aber die Kriege im Nahen Osten nicht. 2009 erhielt er den Friedensnobelpreis.",
+    "tags": [
+      "usa",
+      "praesident",
+      "buergerrechte"
+    ]
+  },
+  {
+    "id": "xi-jinping",
+    "name": "Xi Jinping",
+    "born": 1953,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "asien",
+    "role": "Generalsekretär der Kommunistischen Partei und Staatspräsident Chinas",
+    "summary": "Führt China seit 2012 und hat so viel Macht auf sich vereint wie kein chinesischer Politiker seit Mao Zedong.",
+    "text": "Xi ist der Sohn eines Revolutionsveteranen, der in Ungnade fiel; während der Kulturrevolution wurde der Jugendliche aufs Land geschickt. Er stieg in Provinzämtern auf und wurde 2012 Generalsekretär der Kommunistischen Partei und 2013 Staatspräsident. Mit einer großen Antikorruptionskampagne schaltete er auch innerparteiliche Rivalen aus, und 2018 ließ er die Begrenzung der Amtszeit des Präsidenten abschaffen. Außenpolitisch trat China unter ihm mit der Neuen Seidenstraße und einer starken Aufrüstung selbstbewusster auf. Kritik richtet sich gegen die Unterdrückung der Uiguren in Xinjiang, die Einschränkung der Freiheiten in Hongkong und die Drohungen gegen Taiwan.",
+    "tags": [
+      "china",
+      "kommunismus",
+      "staatschef"
+    ]
+  },
+  {
+    "id": "steve-jobs",
+    "name": "Steve Jobs",
+    "born": 1955,
+    "died": 2011,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "amerika",
+    "role": "Mitgründer und Chef des Technologiekonzerns Apple",
+    "summary": "Prägte mit Macintosh, iPod und iPhone den Wandel von Computer und Mobiltelefon zu alltäglichen Geräten.",
+    "text": "Jobs gründete 1976 mit Steve Wozniak in Kalifornien die Firma Apple, die mit dem Apple II und 1984 mit dem Macintosh den Personal Computer populär machte. Nach einem Machtkampf musste er Apple 1985 verlassen, gründete die Computerfirma NeXT und führte das Trickfilmstudio Pixar zum Erfolg. 1997 kehrte er zu Apple zurück und rettete die Firma mit neuen Produkten wie dem Musikspieler iPod. Mit dem iPhone von 2007 und dem iPad von 2010 veränderte er die Art, wie Menschen Technik nutzen. Er starb 2011 an Krebs.",
+    "tags": [
+      "technik",
+      "unternehmer",
+      "smartphone",
+      "computer"
+    ]
+  },
+  {
+    "id": "ellen-johnson-sirleaf",
+    "name": "Ellen Johnson Sirleaf",
+    "born": 1938,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "afrika",
+    "role": "Präsidentin Liberias und Friedensnobelpreisträgerin",
+    "summary": "Wurde 2006 als erste gewählte Staatschefin Afrikas Präsidentin des vom Bürgerkrieg zerstörten Liberia.",
+    "text": "Johnson Sirleaf studierte Wirtschaft in den USA, darunter an der Harvard-Universität, und war Finanzministerin Liberias, bevor sie wegen ihrer Kritik an den Machthabern ins Exil gehen musste und zeitweise inhaftiert wurde. Nach dem Ende der Bürgerkriege gewann sie 2005 die Präsidentschaftswahl und trat im Januar 2006 ihr Amt an. Sie bemühte sich um Wiederaufbau, Schuldenerlass und Versöhnung und führte das Land durch die Ebola-Epidemie 2014 bis 2016. 2011 erhielt sie zusammen mit Leymah Gbowee und Tawakkol Karman den Friedensnobelpreis für ihren Einsatz für die Rechte von Frauen. 2018 übergab sie die Macht friedlich an ihren gewählten Nachfolger.",
+    "tags": [
+      "frauen",
+      "afrika",
+      "praesidentin",
+      "nobelpreis"
+    ]
+  },
+  {
+    "id": "wangari-maathai",
+    "name": "Wangari Maathai",
+    "born": 1940,
+    "died": 2011,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "afrika",
+    "role": "Kenianische Umweltschützerin und Friedensnobelpreisträgerin",
+    "summary": "Gründete die Green Belt Movement und erhielt 2004 als erste Afrikanerin den Friedensnobelpreis.",
+    "text": "Maathai studierte Biologie in den USA und Deutschland und wurde 1971 als erste Frau in Ost- und Zentralafrika promoviert. 1977 gründete sie die Green Belt Movement, in der vor allem Frauen auf dem Land Millionen Bäume pflanzten, um Erosion, Holzmangel und Armut zu bekämpfen. Weil sie sich gegen Landraub und die autoritäre Regierung Kenias stellte, wurde sie mehrfach verhaftet und geschlagen. Nach dem Machtwechsel 2002 wurde sie Abgeordnete und stellvertretende Umweltministerin. 2004 erhielt sie als erste afrikanische Frau den Friedensnobelpreis für ihren Einsatz für nachhaltige Entwicklung, Demokratie und Frieden.",
+    "tags": [
+      "umwelt",
+      "frauen",
+      "afrika",
+      "nobelpreis"
+    ]
+  },
+  {
+    "id": "luiz-inacio-lula-da-silva",
+    "name": "Luiz Inácio Lula da Silva",
+    "born": 1945,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "amerika",
+    "role": "Gewerkschafter und Präsident Brasiliens",
+    "summary": "Stieg vom Metallarbeiter zum Präsidenten Brasiliens auf und senkte mit Sozialprogrammen die Armut.",
+    "text": "Lula wuchs in großer Armut im Nordosten Brasiliens auf, arbeitete als Metallarbeiter in São Paulo und führte Ende der 1970er Jahre große Streiks gegen die Militärdiktatur an. 1980 gründete er die Arbeiterpartei mit. Nach mehreren erfolglosen Anläufen wurde er 2002 zum Präsidenten gewählt und regierte von 2003 bis 2010. Mit Programmen wie Bolsa Família, das arme Familien unterstützt, wenn ihre Kinder zur Schule gehen, holte seine Regierung Millionen Menschen aus der Armut. Nach einer umstrittenen Verurteilung wegen Korruption saß er 2018 und 2019 in Haft; das Urteil wurde aufgehoben, und seit 2023 ist er erneut Präsident.",
+    "tags": [
+      "brasilien",
+      "lateinamerika",
+      "praesident",
+      "armut"
+    ]
+  },
+  {
+    "id": "malala-yousafzai",
+    "name": "Malala Yousafzai",
+    "born": 1997,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "asien",
+    "role": "Pakistanische Kämpferin für Mädchenbildung",
+    "summary": "Überlebte 2012 ein Attentat der Taliban und erhielt 2014 als jüngste Preisträgerin den Friedensnobelpreis.",
+    "text": "Malala wuchs im Swat-Tal im Nordwesten Pakistans auf, wo ihr Vater eine Schule leitete. Als die Taliban dort Mädchen den Schulbesuch verboten, schrieb sie mit elf Jahren unter einem Decknamen ein Internettagebuch für die BBC. Am 9. Oktober 2012 schoss ihr ein Taliban-Kämpfer im Schulbus in den Kopf. Sie überlebte nach Operationen in Großbritannien und setzte ihren Einsatz für das Recht aller Kinder auf Bildung weltweit fort. 2014 erhielt sie mit 17 Jahren gemeinsam mit dem indischen Kinderrechtler Kailash Satyarthi den Friedensnobelpreis.",
+    "tags": [
+      "frauen",
+      "bildung",
+      "pakistan",
+      "nobelpreis"
+    ]
+  },
+  {
+    "id": "jacinda-ardern",
+    "name": "Jacinda Ardern",
+    "born": 1980,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "ozeanien",
+    "role": "Premierministerin Neuseelands",
+    "summary": "Führte Neuseeland von 2017 bis 2023 durch den Anschlag von Christchurch und die Coronapandemie.",
+    "text": "Ardern wurde 2017 mit 37 Jahren eine der jüngsten Regierungschefinnen der Welt. 2018 brachte sie im Amt eine Tochter zur Welt und war damit nach Benazir Bhutto erst die zweite gewählte Regierungschefin, die während der Amtszeit ein Kind bekam. Nach dem Anschlag auf zwei Moscheen in Christchurch 2019 zeigte sie demonstrativ Mitgefühl mit der muslimischen Gemeinschaft und setzte rasch ein Verbot halbautomatischer Waffen durch. In der Coronapandemie schloss Neuseeland unter ihrer Führung früh die Grenzen und hatte lange vergleichsweise wenige Todesfälle. Im Januar 2023 trat sie überraschend zurück.",
+    "tags": [
+      "frauen",
+      "neuseeland",
+      "regierungschefin"
+    ]
+  },
+  {
+    "id": "greta-thunberg",
+    "name": "Greta Thunberg",
+    "born": 2003,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "europa",
+    "role": "Schwedische Klimaaktivistin",
+    "summary": "Löste mit ihrem Schulstreik 2018 die weltweite Jugendbewegung Fridays for Future aus.",
+    "text": "Im August 2018 setzte sich die damals fünfzehnjährige Schülerin mit einem Schild mit der Aufschrift Schulstreik für das Klima vor das schwedische Parlament in Stockholm. Ihr Protest verbreitete sich über soziale Medien, und unter dem Namen Fridays for Future gingen 2019 in vielen Ländern Millionen Jugendliche auf die Straße. Thunberg sprach vor den Vereinten Nationen, dem Weltwirtschaftsforum und Parlamenten und forderte, die Warnungen der Klimawissenschaft ernst zu nehmen. Um nicht zu fliegen, überquerte sie 2019 den Atlantik auf einem Segelboot. Ihr Auftreten wurde vielfach bewundert, aber auch heftig angefeindet.",
+    "tags": [
+      "klima",
+      "jugend",
+      "protest",
+      "umwelt"
+    ]
+  },
+  {
+    "id": "wolodymyr-selenskyj",
+    "name": "Wolodymyr Selenskyj",
+    "born": 1978,
+    "died": null,
+    "approx": false,
+    "epochId": "gegenwart",
+    "regionId": "europa",
+    "role": "Präsident der Ukraine",
+    "summary": "Wurde als Schauspieler 2019 Präsident der Ukraine und führt das Land im Abwehrkampf gegen den russischen Angriff.",
+    "text": "Selenskyj wuchs im russischsprachigen Krywyj Rih auf, studierte Jura und wurde als Komiker und Fernsehproduzent bekannt. In der Fernsehserie Diener des Volkes spielte er einen Lehrer, der überraschend Präsident wird. 2019 gewann er die Präsidentschaftswahl tatsächlich mit rund 73 Prozent der Stimmen und versprach, Korruption zu bekämpfen und den Krieg im Donbas zu beenden. Als Russland im Februar 2022 die Ukraine angriff, blieb er in Kiew und wurde mit Videobotschaften zum Gesicht des ukrainischen Widerstands. Er warb weltweit um Waffen, Geld und politische Unterstützung für sein Land.",
+    "tags": [
+      "ukraine",
+      "praesident",
+      "krieg"
+    ]
+  },
+  {
+    "id": "hernan-cortes",
+    "name": "Hernán Cortés",
+    "born": 1485,
+    "died": 1547,
+    "approx": false,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Spanischer Konquistador, Eroberer des Aztekenreichs",
+    "summary": "Der Konquistador, der mit indigenen Verbündeten das Reich der Azteken zerstörte und Neuspanien begründete.",
+    "text": "Cortés stammte aus Medellín in der Extremadura und kam als junger Mann nach Hispaniola und Kuba. 1519 brach er gegen den Willen des Gouverneurs von Kuba nach Mexiko auf, verbündete sich mit Tlaxcala und anderen Gegnern der Azteken und zog nach Tenochtitlan. Nach der Vertreibung der Spanier 1520 eroberte er die Stadt 1521 in einer langen Belagerung. Die Krone entzog ihm bald die Regierung, verlieh ihm aber den Titel eines Marqués. Er starb 1547 in Spanien.",
+    "tags": [
+      "konquistador",
+      "azteken",
+      "mexiko",
+      "spanien"
+    ]
+  },
+  {
+    "id": "malinche",
+    "name": "Malinche (Malintzin, Doña Marina)",
+    "born": 1500,
+    "died": 1529,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Dolmetscherin und Vermittlerin für Hernán Cortés",
+    "summary": "Die Nahua-Frau, die als Übersetzerin und Beraterin bei der Eroberung Mexikos eine Schlüsselrolle spielte.",
+    "text": "Malinche wurde als Kind als Sklavin an Maya an der Golfküste weitergegeben und sprach daher Nahuatl und eine Maya-Sprache. 1519 wurde sie mit anderen Frauen den Spaniern geschenkt und übersetzte zunächst gemeinsam mit einem Spanier, der Maya gelernt hatte, später allein für Cortés. Mit ihm hatte sie einen Sohn, Martín, und heiratete später einen spanischen Hauptmann. Ihr Lebensende ist unsicher. In Mexiko galt sie lange als Verräterin; heute sehen viele in ihr eine Frau, die sich in einer Zwangslage behauptete.",
+    "tags": [
+      "frauen",
+      "dolmetscherin",
+      "azteken",
+      "mexiko"
+    ]
+  },
+  {
+    "id": "moctezuma-ii",
+    "name": "Moctezuma II.",
+    "born": 1466,
+    "died": 1520,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Herrscher der Azteken",
+    "summary": "Der Herrscher von Tenochtitlan, unter dem das Aztekenreich seine größte Ausdehnung erreichte und den Spaniern begegnete.",
+    "text": "Moctezuma wurde 1502 zum Herrscher gewählt und regierte über ein Reich, das von zahlreichen unterworfenen Städten Tribute bezog. Im November 1519 empfing er Cortés in Tenochtitlan, wurde aber bald von den Spaniern in seinem eigenen Palast festgehalten. Als die Bewohner der Stadt sich 1520 gegen die Eindringlinge erhoben, kam er ums Leben. Ob ihn die Spanier oder Steinwürfe seiner eigenen Leute töteten, ist bis heute umstritten.",
+    "tags": [
+      "azteken",
+      "tenochtitlan",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "francisco-pizarro",
+    "name": "Francisco Pizarro",
+    "born": 1478,
+    "died": 1541,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Spanischer Konquistador, Eroberer des Inkareichs",
+    "summary": "Der Konquistador aus Trujillo, der das Inkareich unterwarf und Lima gründete.",
+    "text": "Pizarro kam früh nach Amerika und nahm 1513 an der Expedition Balboas zum Pazifik teil. Nach zwei Erkundungsfahrten an der Küste Südamerikas erhielt er 1529 von der Krone das Recht, Peru zu erobern. 1532 nahm er Atahualpa in Cajamarca gefangen, ließ ihn hinrichten und zog nach Cusco. 1535 gründete er Lima als neue Hauptstadt. Im Streit um die Beute mit seinem früheren Partner Diego de Almagro wurde er 1541 von dessen Anhängern ermordet.",
+    "tags": [
+      "konquistador",
+      "inka",
+      "peru",
+      "spanien"
+    ]
+  },
+  {
+    "id": "atahualpa",
+    "name": "Atahualpa",
+    "born": 1502,
+    "died": 1533,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Letzter unabhängiger Herrscher des Inkareichs",
+    "summary": "Der Inkaherrscher, der nach einem Bürgerkrieg gegen seinen Bruder in die Gefangenschaft der Spanier geriet.",
+    "text": "Atahualpa war ein Sohn des Inka Huayna Cápac und kämpfte nach dessen Tod gegen seinen Halbbruder Huáscar um die Herrschaft. 1532 hatte er den Bürgerkrieg gerade gewonnen, als ihn Pizarro in Cajamarca gefangen nahm. Für seine Freiheit ließ er einen Raum mit Gold und Silber füllen. Die Spanier nahmen das Lösegeld, verurteilten ihn aber 1533 und richteten ihn hin.",
+    "tags": [
+      "inka",
+      "peru",
+      "herrscher"
+    ]
+  },
+  {
+    "id": "bartolome-de-las-casas",
+    "name": "Bartolomé de Las Casas",
+    "born": 1484,
+    "died": 1566,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Dominikaner, Bischof und Verteidiger der Indigenen",
+    "summary": "Der ehemalige Kolonist, der zum entschiedensten Kritiker der spanischen Eroberung wurde.",
+    "text": "Las Casas kam 1502 nach Hispaniola und besaß selbst Indigene in einer Encomienda. 1514 gab er sie auf und widmete sein Leben dem Kampf gegen ihre Ausbeutung; später trat er in den Dominikanerorden ein und wurde Bischof von Chiapas. Seine Berichte trugen zu den Neuen Gesetzen von 1542 bei, und in seinem „Kurzgefassten Bericht von der Verwüstung der Westindischen Länder“ schilderte er die Gewalt der Eroberer. Dass er anfangs vorschlug, Afrikaner statt Indigener arbeiten zu lassen, bereute er später.",
+    "tags": [
+      "menschenrechte",
+      "dominikaner",
+      "kritik",
+      "encomienda"
+    ]
+  },
+  {
+    "id": "sor-juana-ines-de-la-cruz",
+    "name": "Sor Juana Inés de la Cruz",
+    "born": 1648,
+    "died": 1695,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Nonne, Dichterin und Gelehrte in Neuspanien",
+    "summary": "Die bedeutendste Dichterin des kolonialen Amerika und eine frühe Verfechterin der Bildung für Frauen.",
+    "text": "Juana Inés de Asbaje lernte als Kind heimlich lesen und kam als Hofdame an den Hof des Vizekönigs in Mexiko-Stadt, wo sie durch ihre Gelehrsamkeit auffiel. Um studieren zu können, trat sie 1669 in das Kloster San Jerónimo ein und baute dort eine große Bibliothek auf. Sie schrieb Gedichte, Theaterstücke und das philosophische Gedicht „Erster Traum“. Nach Konflikten mit Kirchenoberen gab sie ihre Studien auf und starb 1695 bei der Pflege kranker Mitschwestern während einer Seuche.",
+    "tags": [
+      "frauen",
+      "literatur",
+      "bildung",
+      "mexiko"
+    ]
+  },
+  {
+    "id": "zumbi-dos-palmares",
+    "name": "Zumbi dos Palmares",
+    "born": 1655,
+    "died": 1695,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Anführer des Quilombo von Palmares",
+    "summary": "Der letzte Anführer von Palmares und heute ein Symbol des Widerstands der afrobrasilianischen Bevölkerung.",
+    "text": "Zumbi wurde in Palmares geboren und war der Überlieferung nach als Kind von portugiesischen Soldaten verschleppt und von einem Priester erzogen worden, bevor er in den Quilombo zurückkehrte. Er lehnte den Friedensvertrag von 1678 ab und übernahm die Führung von Palmares. Nach der Eroberung der Hauptsiedlung 1694 setzte er den Kampf fort, wurde aber verraten und am 20. November 1695 getötet. Sein Todestag wird in Brasilien als Tag des Schwarzen Bewusstseins begangen.",
+    "tags": [
+      "sklaverei",
+      "widerstand",
+      "brasilien",
+      "quilombo"
+    ]
+  },
+  {
+    "id": "tupac-amaru-ii",
+    "name": "Túpac Amaru II.",
+    "born": 1738,
+    "died": 1781,
+    "approx": false,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Indigener Kazike und Anführer des Aufstands von 1780",
+    "summary": "Der Kazike, der sich auf die Inka berief und den größten Aufstand gegen die spanische Herrschaft im Andenraum anführte.",
+    "text": "José Gabriel Condorcanqui war Kazike mehrerer Dörfer südlich von Cusco und betrieb einen Maultiertransport, der ihn mit den Klagen der Bevölkerung vertraut machte. Vergeblich versuchte er auf dem Rechtsweg die Lasten der Mita zu verringern. 1780 begann er einen Aufstand und nannte sich nach dem letzten Inka von Vilcabamba. Nach seiner Gefangennahme wurde er am 18. Mai 1781 in Cusco hingerichtet. In Peru gilt er als Vorläufer der Unabhängigkeit und Symbol indigenen Widerstands.",
+    "tags": [
+      "peru",
+      "aufstand",
+      "inka",
+      "indigene"
+    ]
+  },
+  {
+    "id": "micaela-bastidas",
+    "name": "Micaela Bastidas",
+    "born": 1744,
+    "died": 1781,
+    "approx": true,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Mitanführerin des Aufstands Túpac Amarus II.",
+    "summary": "Die Frau Túpac Amarus II., die Truppen, Nachschub und Nachrichten des Aufstands organisierte.",
+    "text": "Micaela Bastidas heiratete 1760 José Gabriel Condorcanqui und war seine engste Beraterin. Während des Aufstands leitete sie das Hauptquartier, warb Kämpfer an, sorgte für Waffen und Lebensmittel und drängte ihren Mann, rasch auf Cusco vorzurücken. Im April 1781 wurde sie zusammen mit ihm gefangen genommen. Am 18. Mai 1781 wurde sie in Cusco vor seinen Augen hingerichtet. Peru ehrt sie heute als Heldin der Unabhängigkeit.",
+    "tags": [
+      "frauen",
+      "aufstand",
+      "peru"
+    ]
+  },
+  {
+    "id": "jose-de-san-martin",
+    "name": "José de San Martín",
+    "born": 1778,
+    "died": 1850,
+    "approx": false,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "General und Befreier Argentiniens, Chiles und Perus",
+    "summary": "Der argentinische General, der die Anden überquerte und Chile und Peru von der spanischen Herrschaft befreite.",
+    "text": "San Martín wurde in Yapeyú am Río Uruguay geboren, wuchs in Spanien auf und kämpfte im spanischen Heer gegen Napoleon. 1812 kehrte er nach Buenos Aires zurück und stellte in Mendoza die Andenarmee auf, mit der er 1817 Chile befreite. 1821 rief er in Lima die Unabhängigkeit Perus aus und wurde dessen Protektor. Nach einem Treffen mit Bolívar in Guayaquil 1822 zog er sich zurück und überließ diesem die Vollendung des Kampfes. Er starb 1850 im französischen Exil.",
+    "tags": [
+      "unabhängigkeit",
+      "argentinien",
+      "chile",
+      "peru"
+    ]
+  },
+  {
+    "id": "pedro-i-von-brasilien",
+    "name": "Pedro I.",
+    "born": 1798,
+    "died": 1834,
+    "approx": false,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Erster Kaiser von Brasilien",
+    "summary": "Der portugiesische Prinz, der Brasilien 1822 für unabhängig erklärte und sein erster Kaiser wurde.",
+    "text": "Pedro kam als Kind mit dem portugiesischen Hof 1808 nach Brasilien. Als sein Vater 1821 nach Portugal zurückkehrte, blieb er als Regent und erklärte 1822 die Unabhängigkeit. 1824 gab er dem Kaiserreich eine Verfassung, die ihm als Kaiser weitreichende Rechte sicherte. Wachsende Unzufriedenheit zwang ihn 1831 zum Rücktritt zugunsten seines fünfjährigen Sohnes Pedro II. In Portugal kämpfte er anschließend erfolgreich für den Thron seiner Tochter und starb 1834 bei Lissabon.",
+    "tags": [
+      "brasilien",
+      "kaiser",
+      "unabhängigkeit",
+      "monarchie"
+    ]
+  },
+  {
+    "id": "benito-juarez",
+    "name": "Benito Juárez",
+    "born": 1806,
+    "died": 1872,
+    "approx": false,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Präsident Mexikos und Führer der Liberalen",
+    "summary": "Der zapotekische Jurist, der als Präsident die Reform durchsetzte und Mexiko gegen die französische Intervention verteidigte.",
+    "text": "Juárez wuchs als Waise in einem zapotekischen Dorf in Oaxaca auf und lernte erst mit zwölf Jahren Spanisch. Er studierte Recht, wurde Gouverneur von Oaxaca und gehörte zu den Urhebern der Reformgesetze. Ab 1858 führte er als Präsident die Liberalen durch den Reformkrieg und den Kampf gegen Kaiser Maximilian. Nach dem Sieg der Republik 1867 regierte er bis zu seinem Tod 1872. Er gilt als einer der bedeutendsten Staatsmänner Mexikos.",
+    "tags": [
+      "mexiko",
+      "liberalismus",
+      "präsident",
+      "indigene"
+    ]
+  },
+  {
+    "id": "isabel-von-brasilien",
+    "name": "Isabel von Brasilien",
+    "born": 1846,
+    "died": 1921,
+    "approx": false,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Kronprinzessin und Regentin des Kaiserreichs Brasilien",
+    "summary": "Die Tochter Kaiser Pedros II., die als Regentin 1888 das Gesetz zur Abschaffung der Sklaverei unterzeichnete.",
+    "text": "Isabel war die Thronerbin ihres Vaters Pedro II. und vertrat ihn während seiner Reisen dreimal als Regentin. 1871 unterzeichnete sie das Gesetz, das die Kinder versklavter Mütter für frei erklärte. Am 13. Mai 1888 setzte sie mit dem Lei Áurea die vollständige Abschaffung der Sklaverei in Kraft. Nach dem Sturz der Monarchie 1889 ging sie mit ihrer Familie ins Exil nach Frankreich, wo sie 1921 starb.",
+    "tags": [
+      "frauen",
+      "brasilien",
+      "abolition",
+      "monarchie"
+    ]
+  },
+  {
+    "id": "jose-marti",
+    "name": "José Martí",
+    "born": 1853,
+    "died": 1895,
+    "approx": false,
+    "epochId": "lateinamerika",
+    "regionId": "amerika",
+    "role": "Kubanischer Dichter, Journalist und Unabhängigkeitskämpfer",
+    "summary": "Der Dichter und Organisator des kubanischen Unabhängigkeitskampfes, der zum Nationalhelden Kubas wurde.",
+    "text": "Martí wurde in Havanna geboren und schon als Jugendlicher wegen Kritik an der spanischen Herrschaft zu Zwangsarbeit verurteilt und nach Spanien verbannt. Er lebte in Mexiko, Guatemala und rund fünfzehn Jahre in New York, wo er als Journalist für lateinamerikanische Zeitungen schrieb. Seine Gedichtbände wie die „Schlichten Verse“ und sein Essay „Unser Amerika“ machten ihn berühmt. 1892 gründete er die Kubanische Revolutionspartei und fiel 1895 kurz nach Beginn des Unabhängigkeitskrieges.",
+    "tags": [
+      "kuba",
+      "literatur",
+      "unabhängigkeit",
+      "journalismus"
+    ]
+  },
+  {
+    "id": "osman-i",
+    "name": "Osman I.",
+    "born": null,
+    "died": 1324,
+    "approx": true,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Begründer der osmanischen Dynastie",
+    "summary": "Der türkische Grenzfürst in Nordwestanatolien, nach dem das Osmanische Reich benannt ist.",
+    "text": "Über Osmans Herkunft und Jugend ist wenig sicher bekannt; spätere Chroniken schmückten sein Leben mit Legenden aus, etwa einem Traum, der seiner Familie die Weltherrschaft verhieß. Er führte um 1300 ein kleines Fürstentum bei Söğüt an der Grenze zu Byzanz. 1302 besiegte er bei Bapheus ein byzantinisches Heer, was ihm Zulauf von Kriegern brachte. Er starb um 1324, kurz bevor oder während sein Sohn Orhan Bursa eroberte. Nach ihm nannten sich die Herrscher und ihr Reich „Osmanen“.",
+    "tags": [
+      "dynastie",
+      "gründer",
+      "anatolien"
+    ]
+  },
+  {
+    "id": "mehmed-ii",
+    "name": "Mehmed II.",
+    "born": 1432,
+    "died": 1481,
+    "approx": false,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Sultan des Osmanischen Reiches, „der Eroberer“",
+    "summary": "Der Sultan, der 1453 Konstantinopel eroberte und Istanbul zur Hauptstadt eines Weltreiches machte.",
+    "text": "Mehmed II. regierte kurz ab 1444 und dann von 1451 bis 1481. Mit 21 Jahren eroberte er 1453 Konstantinopel und erhielt den Beinamen Fatih, der Eroberer. Er siedelte Muslime, Christen und Juden in der entvölkerten Stadt an, setzte einen griechisch-orthodoxen Patriarchen ein und ließ den Topkapı-Palast bauen. Seine Feldzüge brachten Serbien, Bosnien, die Peloponnes, Trapezunt und die Krim unter osmanische Herrschaft. Er ließ Gesetze sammeln, förderte Gelehrte und ließ sich vom venezianischen Maler Gentile Bellini porträtieren.",
+    "tags": [
+      "sultan",
+      "eroberer",
+      "istanbul",
+      "konstantinopel"
+    ]
+  },
+  {
+    "id": "selim-i",
+    "name": "Selim I.",
+    "born": 1470,
+    "died": 1520,
+    "approx": true,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Sultan des Osmanischen Reiches",
+    "summary": "Der Sultan, der in nur acht Jahren Persien besiegte und Syrien, Ägypten und die heiligen Stätten des Islam eroberte.",
+    "text": "Selim, später Yavuz, „der Gestrenge“, genannt, zwang 1512 seinen Vater Bayezid II. zur Abdankung und ließ seine Brüder töten. 1514 besiegte er den persischen Schah Ismail I. bei Tschaldiran. In den Jahren 1516 und 1517 vernichtete er das Mamlukenreich und eroberte Syrien, Palästina und Ägypten. Mit Mekka und Medina gewann er die Schutzherrschaft über die heiligen Stätten, was das Ansehen der Sultane in der islamischen Welt stark erhöhte. Er starb 1520 und hinterließ seinem Sohn Süleyman ein fast verdoppeltes Reich.",
+    "tags": [
+      "sultan",
+      "ägypten",
+      "eroberung"
+    ]
+  },
+  {
+    "id": "mimar-sinan",
+    "name": "Mimar Sinan",
+    "born": 1490,
+    "died": 1588,
+    "approx": true,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Hofarchitekt der Osmanen",
+    "summary": "Der bedeutendste Baumeister der osmanischen Geschichte, der ein halbes Jahrhundert lang die Architektur des Reiches prägte.",
+    "text": "Sinan stammte aus einer christlichen Familie in Mittelanatolien und kam über die Knabenlese in den Dienst des Sultans. Als Janitschar baute er auf Feldzügen Brücken und Befestigungen, bevor er um 1539 Hofarchitekt wurde. In fast fünfzig Jahren entstanden unter seiner Leitung mehr als 300 Bauten: Moscheen, Medresen, Bäder, Brücken und Karawansereien. Seine bekanntesten Werke sind die Süleymaniye-Moschee in Istanbul und die Selimiye-Moschee in Edirne, die er selbst als sein Meisterwerk ansah. Er starb 1588 in Istanbul.",
+    "tags": [
+      "architektur",
+      "moschee",
+      "kunst"
+    ]
+  },
+  {
+    "id": "huerrem-sultan",
+    "name": "Hürrem Sultan",
+    "born": 1505,
+    "died": 1558,
+    "approx": true,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Ehefrau Süleymans des Prächtigen",
+    "summary": "Die ehemalige Sklavin aus Ruthenien, die als Ehefrau Süleymans zur einflussreichsten Frau des Osmanischen Reiches wurde.",
+    "text": "Hürrem, in Europa Roxelane genannt, stammte aus dem damals polnischen Ruthenien und wurde als junges Mädchen von Krimtataren verschleppt und an den Sultanshof verkauft. Sie wurde Süleymans Favoritin und gegen alle Tradition seine freigelassene, rechtmäßige Ehefrau. Sie korrespondierte mit dem polnischen König und stiftete in Istanbul eine Moscheeanlage sowie in Jerusalem eine Armenküche. Zeitgenossen warfen ihr Intrigen bei der Hinrichtung des Thronfolgers Mustafa 1553 vor, was in der Forschung umstritten ist. Ihr Sohn bestieg 1566 als Selim II. den Thron.",
+    "tags": [
+      "frauen",
+      "harem",
+      "stiftungen"
+    ]
+  },
+  {
+    "id": "koesem-sultan",
+    "name": "Kösem Sultan",
+    "born": 1589,
+    "died": 1651,
+    "approx": true,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Sultansmutter und Regentin",
+    "summary": "Die Mutter zweier Sultane und Großmutter eines dritten, die fast drei Jahrzehnte die Politik am osmanischen Hof bestimmte.",
+    "text": "Kösem kam vermutlich als Mädchen griechischer Herkunft in den Harem und wurde die Lieblingsgefährtin Sultan Ahmeds I. Nach seinem Tod 1617 und den Wirren der folgenden Jahre wurde ihr Sohn Murad IV. 1623 Sultan, und Kösem führte als Valide Sultan die Regentschaft. Nach Murads Tod regierte sie erneut für ihren Sohn Ibrahim und für ihren Enkel Mehmed IV. Sie stiftete Moscheen, Brunnen und Karawansereien und unterstützte Arme und Witwen. 1651 wurde sie in einem Machtkampf mit der Mutter Mehmeds IV. im Palast ermordet.",
+    "tags": [
+      "frauen",
+      "regentin",
+      "harem",
+      "valide sultan"
+    ]
+  },
+  {
+    "id": "evliya-celebi",
+    "name": "Evliya Çelebi",
+    "born": 1611,
+    "died": 1682,
+    "approx": true,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Reiseschriftsteller",
+    "summary": "Der osmanische Weltreisende, dessen zehnbändiges Reisebuch das Leben im Reich des 17. Jahrhunderts schildert.",
+    "text": "Evliya Çelebi wurde 1611 in Istanbul als Sohn eines Hofgoldschmieds geboren und erhielt eine Ausbildung im Palast. Statt eine Ämterlaufbahn einzuschlagen, reiste er rund 40 Jahre lang, oft im Gefolge von Gesandten, Statthaltern und Heeren. Er beschrieb Anatolien, den Balkan, den Kaukasus, Persien, Arabien, Ägypten und 1665 auch Wien. Sein Seyahatname ist voller Beobachtungen über Sprachen, Märkte, Speisen und Bauten, aber auch voller Übertreibungen. Er starb um 1682, vermutlich in Kairo oder Istanbul.",
+    "tags": [
+      "reisen",
+      "literatur",
+      "alltag"
+    ]
+  },
+  {
+    "id": "ibrahim-mueteferrika",
+    "name": "İbrahim Müteferrika",
+    "born": 1674,
+    "died": 1745,
+    "approx": true,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Diplomat, Gelehrter und Buchdrucker",
+    "summary": "Der aus Siebenbürgen stammende Gelehrte, der den Buchdruck in osmanischem Türkisch einführte.",
+    "text": "İbrahim wurde um 1674 in Klausenburg in Siebenbürgen als Christ geboren, geriet in jungen Jahren in osmanische Gefangenschaft und trat zum Islam über. Am Hof diente er als Übersetzer und Diplomat. 1727 erhielt er die Erlaubnis zum Druck weltlicher Bücher und gründete in seinem Haus in Istanbul die erste Druckerei für osmanisch-türkische Bücher. Er druckte Wörterbücher, Geschichtswerke und Landkarten und schrieb selbst eine Abhandlung, die Militärreformen nach europäischem Vorbild empfahl. Er starb 1745 in Istanbul.",
+    "tags": [
+      "buchdruck",
+      "bildung",
+      "diplomatie"
+    ]
+  },
+  {
+    "id": "selim-iii",
+    "name": "Selim III.",
+    "born": 1761,
+    "died": 1808,
+    "approx": false,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Sultan des Osmanischen Reiches und Reformer",
+    "summary": "Der Sultan, der mit der „Neuen Ordnung“ die erste große Reform von Armee und Staat versuchte und daran scheiterte.",
+    "text": "Selim III. bestieg 1789 den Thron, mitten im Krieg gegen Russland und Österreich. Überzeugt, dass das Reich nur mit modernen Truppen bestehen könne, schuf er ab 1793 die Nizam-ı Cedid, eine europäisch ausgebildete Armee, und eröffnete ständige Botschaften in europäischen Hauptstädten. Er war zugleich ein angesehener Komponist osmanischer Musik und förderte Dichter des Mevlevi-Ordens. 1807 setzten ihn aufständische Janitscharen ab, und 1808 wurde er im Palast ermordet, als Anhänger versuchten, ihn zurück auf den Thron zu bringen.",
+    "tags": [
+      "sultan",
+      "reform",
+      "musik"
+    ]
+  },
+  {
+    "id": "mahmud-ii",
+    "name": "Mahmud II.",
+    "born": 1785,
+    "died": 1839,
+    "approx": false,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Sultan des Osmanischen Reiches und Reformer",
+    "summary": "Der Sultan, der die Janitscharen auflöste und mit Ministerien, Zeitung und Kleiderreform den modernen osmanischen Staat begründete.",
+    "text": "Mahmud II. kam 1808 als einziger überlebender Prinz der Dynastie auf den Thron. Er musste die Unabhängigkeit Griechenlands hinnehmen und geriet in einen gefährlichen Konflikt mit seinem Statthalter in Ägypten, Mehmed Ali. 1826 ließ er die Janitscharen zerschlagen und baute eine neue Armee auf. Er gründete Ministerien, eine Medizinschule und 1831 die erste amtliche Zeitung, ließ eine Volkszählung durchführen und ersetzte den Turban der Beamten durch den Fes. Er starb 1839, kurz bevor das Edikt von Gülhane seine Reformen fortführte.",
+    "tags": [
+      "sultan",
+      "reform",
+      "janitscharen"
+    ]
+  },
+  {
+    "id": "midhat-pascha",
+    "name": "Midhat Pascha",
+    "born": 1822,
+    "died": 1884,
+    "approx": false,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Großwesir und Vater der osmanischen Verfassung",
+    "summary": "Der Reformpolitiker, der als Statthalter und Großwesir die erste osmanische Verfassung durchsetzte.",
+    "text": "Midhat Pascha stieg in der Verwaltung der Tanzimat-Zeit auf und machte sich als Statthalter an der Donau und in Bagdad einen Namen, wo er Straßen, Schulen, Krankenhäuser und Zeitungen gründete. 1876 war er an der Absetzung Sultan Abdülaziz’ beteiligt und wurde Großwesir. Unter seiner Leitung entstand die Verfassung vom Dezember 1876. Schon im Februar 1877 ließ ihn Abdülhamid II. verbannen. 1881 wurde er in einem politischen Prozess verurteilt, in die Festung Taif in Arabien verbannt und dort 1884 ermordet.",
+    "tags": [
+      "verfassung",
+      "reform",
+      "großwesir"
+    ]
+  },
+  {
+    "id": "abduelhamid-ii",
+    "name": "Abdülhamid II.",
+    "born": 1842,
+    "died": 1918,
+    "approx": false,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Sultan des Osmanischen Reiches",
+    "summary": "Der Sultan, der die Verfassung außer Kraft setzte, als Kalif die Muslime hinter sich sammeln wollte und das Reich zugleich technisch modernisierte.",
+    "text": "Abdülhamid II. regierte von 1876 bis 1909. Nach der Niederlage gegen Russland setzte er 1878 das Parlament aus und regierte mit Zensur und Spitzeln autoritär vom Yıldız-Palast aus. Er betonte seine Rolle als Kalif aller Muslime und ließ die Hedschasbahn bauen. Zugleich wurden unter ihm Schulen, Eisenbahnen, Telegrafenlinien und 1900 die Universität in Istanbul ausgebaut. In den Massakern an den Armeniern 1894 bis 1896 kamen Zehntausende ums Leben. Nach der Jungtürkischen Revolution wurde er 1909 abgesetzt.",
+    "tags": [
+      "sultan",
+      "kalif",
+      "autokratie",
+      "modernisierung"
+    ]
+  },
+  {
+    "id": "fatma-aliye",
+    "name": "Fatma Aliye",
+    "born": 1862,
+    "died": 1936,
+    "approx": false,
+    "epochId": "osmanisches-reich",
+    "regionId": "naher-osten",
+    "role": "Schriftstellerin und Frauenrechtlerin",
+    "summary": "Die erste Romanautorin der osmanisch-türkischen Literatur, die für Bildung und Rechte muslimischer Frauen eintrat.",
+    "text": "Fatma Aliye wurde 1862 in Istanbul als Tochter des Gelehrten und Staatsmanns Ahmed Cevdet Pascha geboren und lernte zu Hause Französisch, Arabisch und Geschichte. Nach einer Übersetzung aus dem Französischen veröffentlichte sie 1892 mit „Muhadarat“ den ersten Roman einer Frau in osmanischem Türkisch. In Zeitungsartikeln und Büchern verteidigte sie das Recht muslimischer Frauen auf Bildung und Arbeit und beteiligte sich an Wohltätigkeitsvereinen. Sie starb 1936 in Istanbul; seit 2009 ist ihr Bild auf einem türkischen Geldschein zu sehen.",
+    "tags": [
+      "frauen",
+      "literatur",
+      "bildung"
     ]
   }
 ]

@@ -9,13 +9,13 @@ test('Daten sind valide (Schema, Referenzen, Mengen)', () => {
   assert.deepEqual(errors, []);
 });
 
-test('Umfang: 14 Epochen, ≥ 250 Ereignisse, ≥ 120 Personen, ≥ 150 Fragen, ≥ 80 Begriffe, 8 Themen', () => {
+test('Umfang: 20 Epochen, ≥ 450 Ereignisse, ≥ 200 Personen, ≥ 230 Fragen, ≥ 150 Begriffe, 8 Themen', () => {
   const s = stats(db);
-  assert.equal(s.epochen, 14);
-  assert.ok(s.ereignisse >= 250, `nur ${s.ereignisse} Ereignisse`);
-  assert.ok(s.personen >= 120, `nur ${s.personen} Personen`);
-  assert.ok(s.fragen >= 150, `nur ${s.fragen} Fragen`);
-  assert.ok(s.begriffe >= 80, `nur ${s.begriffe} Begriffe`);
+  assert.equal(s.epochen, 20);
+  assert.ok(s.ereignisse >= 450, `nur ${s.ereignisse} Ereignisse`);
+  assert.ok(s.personen >= 200, `nur ${s.personen} Personen`);
+  assert.ok(s.fragen >= 230, `nur ${s.fragen} Fragen`);
+  assert.ok(s.begriffe >= 150, `nur ${s.begriffe} Begriffe`);
   assert.equal(s.themen, 8);
 });
 
