@@ -226,7 +226,7 @@
   {
     "id": "q-absolutismus-aufklaerung-17",
     "epochId": "absolutismus-aufklaerung",
-    "question": "Whom did the English Parliament invite into the country in the Glorious Revolution of 1688?",
+    "question": "Whom did English nobles and politicians invite to England in the Glorious Revolution of 1688?",
     "choices": [
       "George of Hanover",
       "Charles Gustav of Sweden",
@@ -2460,7 +2460,7 @@
       "Draco"
     ],
     "answer": 2,
-    "explanation": "The new tribes mixed city, coast and inland areas and so broke the power of the old noble families. A Council of 500, chosen by lot, prepared the decisions of the assembly.",
+    "explanation": "The new tribes mixed city, coast and inland areas and so broke the power of the old noble families. A new Council of 500, with 50 members from each tribe, prepared the decisions of the assembly.",
     "difficulty": 2
   },
   {
@@ -2474,7 +2474,7 @@
       "The conquest of Crete"
     ],
     "answer": 0,
-    "explanation": "Athens sought to subdue Syracuse with a great fleet, but almost the entire army and fleet were lost. Athenian sea power never recovered from this blow.",
+    "explanation": "Athens sought to subdue Syracuse with a great fleet, but almost the entire army and fleet were lost. Athenian sea power never fully recovered from this blow.",
     "difficulty": 3
   },
   {
@@ -3496,7 +3496,7 @@
       "Japan's closing of the country to the outside"
     ],
     "answer": 3,
-    "explanation": "From 1639 to 1854 foreigners could hardly enter and Japanese were not allowed to leave the country. Foreign trade was confined to a few partners in Nagasaki.",
+    "explanation": "From 1639 to 1854 foreigners could hardly enter and Japanese were not allowed to leave the country. Foreign trade was confined to a few partners, above all the Dutch and Chinese at Nagasaki.",
     "difficulty": 1
   },
   {
@@ -3916,7 +3916,7 @@
       "The size of their payments to the court"
     ],
     "answer": 2,
-    "explanation": "The examinations were meant to award offices by merit rather than birth. The system lasted until 1905 and was adopted by Korea, Japan and Vietnam.",
+    "explanation": "The examinations were meant to award offices by merit rather than birth. The system lasted until 1905 and was adopted by Korea and Vietnam.",
     "difficulty": 1
   },
   {
@@ -4261,7 +4261,7 @@
     "question": "What is the art of Gandhara in the Kushan Empire especially known for?",
     "choices": [
       "The first porcelain vessels",
-      "The first statues of the Buddha in human form",
+      "Early statues of the Buddha in human form in a Greek-influenced style",
       "The oldest woodblock prints",
       "The largest temple pyramids in Asia"
     ],
@@ -5257,7 +5257,7 @@
       "In Anatolia",
       "In Mesopotamia",
       "In Nubia, in present-day Sudan",
-      "In Ethiopia on the Red Sea"
+      "On the Arabian Peninsula"
     ],
     "answer": 2,
     "explanation": "Kush, with its capitals at Napata and later Meroe, lay south of Egypt on the Nile; its kings formed the 25th Dynasty.",
@@ -5456,7 +5456,7 @@
       "Heinrich Schliemann"
     ],
     "answer": 1,
-    "explanation": "Woolley found gold helmets, lyres, lapis lazuli jewellery, the Standard of Ur and dozens of servants buried with the rulers.",
+    "explanation": "Woolley found a gold helmet, lyres, lapis lazuli jewellery, the Standard of Ur and dozens of servants buried with the rulers.",
     "difficulty": 3
   },
   {
@@ -6739,12 +6739,12 @@
     "question": "Which of these events happened first?",
     "choices": [
       "The Communist Manifesto is published",
-      "The first public railway runs between Stockton and Darlington",
+      "The first public steam railway runs between Stockton and Darlington",
       "Darwin's On the Origin of Species is published",
       "The Suez Canal is opened"
     ],
     "answer": 1,
-    "explanation": "The Stockton and Darlington Railway opened in 1825, the Communist Manifesto appeared in 1848, Darwin's book in 1859, and the Suez Canal opened in 1869.",
+    "explanation": "The Stockton and Darlington steam railway opened in 1825, the Communist Manifesto appeared in 1848, Darwin's book in 1859, and the Suez Canal opened in 1869.",
     "difficulty": 2
   },
   {
@@ -7052,7 +7052,7 @@
       "The telegraph"
     ],
     "answer": 2,
-    "explanation": "In 1882 Edison opened the first public power station in New York. In his laboratory at Menlo Park, teams of mechanics and scientists systematically developed new inventions.",
+    "explanation": "In 1882 Edison opened the Pearl Street Station in New York, the first central power station in the United States. In his laboratory at Menlo Park, teams of mechanics and scientists systematically developed new inventions.",
     "difficulty": 1
   },
   {
@@ -7186,7 +7186,7 @@
     "epochId": "industrialisierung-imperialismus",
     "question": "What is the German name for the stock market crash of 1873 that followed the boom after the founding of the Empire?",
     "choices": [
-      "Black Friday",
+      "Black Thursday",
       "Tulip mania",
       "Gründerkrach (Founders' Crash)",
       "South Sea Bubble"
@@ -7892,7 +7892,7 @@
       "Egypt"
     ],
     "answer": 0,
-    "explanation": "Ibn Battuta set out from Tangier on pilgrimage to Mecca in 1325 and returned only after almost thirty years. His travel account describes lands from West Africa to China.",
+    "explanation": "Ibn Battuta set out from Tangier on pilgrimage to Mecca in 1325 and only returned in 1349, after almost 25 years; he later travelled on to al-Andalus and Mali. His travel account describes lands from West Africa to China.",
     "difficulty": 2
   },
   {
@@ -11140,7 +11140,7 @@
       "Leon Battista Alberti"
     ],
     "answer": 2,
-    "explanation": "Brunelleschi designed a double-shell dome that was built without wooden centring. It remained the largest masonry dome in the world until the 20th century.",
+    "explanation": "Brunelleschi designed a double-shell dome that was built without wooden centring. It is still regarded as the largest brick dome ever built.",
     "difficulty": 2
   },
   {
@@ -11840,7 +11840,7 @@
       "They were allowed to manage the family property on their own"
     ],
     "answer": 1,
-    "explanation": "The Code civil guaranteed equality before the law for all men but placed women under the guardianship of their father or husband. The Revolution had already excluded women from politics in 1793.",
+    "explanation": "The Code civil guaranteed equality before the law for all men but placed married women under the authority of their husbands; they needed his consent for contracts and lawsuits, for example. The Revolution had already excluded women from politics in 1793.",
     "difficulty": 2
   },
   {
@@ -12050,7 +12050,7 @@
       "Officers of the royal bodyguard"
     ],
     "answer": 0,
-    "explanation": "The name means \"without knee breeches\": they wore long trousers instead of the culottes of the upper classes. They drove the Revolution forward in the streets but were mostly excluded from the vote.",
+    "explanation": "The name means \"without knee breeches\": they wore long trousers instead of the culottes of the upper classes. They drove the Revolution forward in the streets but under the Constitution of 1791 many were excluded from voting as \"passive citizens\".",
     "difficulty": 2
   },
   {
@@ -12974,7 +12974,7 @@
       "Catiline's"
     ],
     "answer": 3,
-    "explanation": "Cicero delivered four famous speeches against Catiline in the Senate and had fellow conspirators executed. After Caesar's death he opposed Mark Antony and was murdered in 43 BC.",
+    "explanation": "Cicero delivered four famous speeches against Catiline before the Senate and the people and had fellow conspirators executed. After Caesar's death he opposed Mark Antony and was murdered in 43 BC.",
     "difficulty": 3
   },
   {
@@ -13086,7 +13086,7 @@
       "The legions were placed directly under the Senate"
     ],
     "answer": 0,
-    "explanation": "From Marius onwards legionaries served 16 to 25 years and then expected land or money from their general. Sulla, Pompey and Caesar exploited this loyalty in the civil wars.",
+    "explanation": "From Marius onwards propertyless citizens were also recruited; they served for many years and then expected land or money from their general. Sulla, Pompey and Caesar exploited this loyalty in the civil wars.",
     "difficulty": 3
   },
   {
@@ -13478,7 +13478,7 @@
       "Asia"
     ],
     "answer": 0,
-    "explanation": "People reached America via the Bering land bridge about 15,000 years ago, long after Australia (at least 50,000 years ago) and Europe (about 45,000 years ago).",
+    "explanation": "People reached America via the Bering land bridge at least 15,000, probably more than 20,000 years ago, long after Australia (at least 50,000 years ago) and Europe (about 45,000 years ago).",
     "difficulty": 1
   },
   {
@@ -13548,7 +13548,7 @@
       "Considerably less dental damage"
     ],
     "answer": 1,
-    "explanation": "A one-sided grain diet and heavy field work took their toll on health; in addition, diseases such as tuberculosis jumped from livestock to humans.",
+    "explanation": "A one-sided grain diet and heavy field work took their toll on health; in addition, dense settlements and close contact with livestock encouraged infectious diseases.",
     "difficulty": 3
   },
   {
@@ -13660,7 +13660,7 @@
       "The Lapita culture in the Pacific"
     ],
     "answer": 2,
-    "explanation": "Villages such as Tell es-Sawwan and Choga Mami on the middle Tigris could thus farm despite little rainfall – a foundation for the later cities of Sumer.",
+    "explanation": "Villages such as Tell es-Sawwan on the middle Tigris and Choga Mami at the edge of the Zagros could thus farm despite little rainfall – a foundation for the later cities of Sumer.",
     "difficulty": 3
   },
   {
@@ -13806,7 +13806,7 @@
   {
     "id": "q-urgeschichte-51",
     "epochId": "urgeschichte",
-    "question": "Which of these islands was settled last by the descendants of the Lapita seafarers, the Polynesians?",
+    "question": "Which of these islands was settled last by the Lapita seafarers and their descendants?",
     "choices": [
       "Fiji",
       "Tonga",

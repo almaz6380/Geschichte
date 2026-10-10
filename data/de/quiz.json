@@ -226,7 +226,7 @@
   {
     "id": "q-absolutismus-aufklaerung-17",
     "epochId": "absolutismus-aufklaerung",
-    "question": "Wen rief das englische Parlament 1688 in der Glorious Revolution ins Land?",
+    "question": "Wen luden englische Adlige und Politiker 1688 ein, in der Glorious Revolution nach England zu kommen?",
     "choices": [
       "Georg von Hannover",
       "Karl Gustav von Schweden",
@@ -2460,7 +2460,7 @@
       "Drakon"
     ],
     "answer": 2,
-    "explanation": "Die neuen Phylen mischten Stadt, Küste und Binnenland und brachen so die Macht der alten Adelsfamilien. Ein durch das Los besetzter Rat der 500 bereitete die Beschlüsse der Volksversammlung vor.",
+    "explanation": "Die neuen Phylen mischten Stadt, Küste und Binnenland und brachen so die Macht der alten Adelsfamilien. Ein neuer Rat der 500 mit je 50 Mitgliedern aus jeder Phyle bereitete die Beschlüsse der Volksversammlung vor.",
     "difficulty": 2
   },
   {
@@ -2474,7 +2474,7 @@
       "Die Eroberung Kretas"
     ],
     "answer": 0,
-    "explanation": "Athen wollte mit einer großen Flotte Syrakus bezwingen, doch Heer und Schiffe gingen fast vollständig verloren. Von diesem Schlag erholte sich die athenische Seemacht nicht mehr.",
+    "explanation": "Athen wollte mit einer großen Flotte Syrakus bezwingen, doch Heer und Schiffe gingen fast vollständig verloren. Von diesem Schlag erholte sich die athenische Seemacht nie mehr vollständig.",
     "difficulty": 3
   },
   {
@@ -3496,7 +3496,7 @@
       "Die Abschließung Japans nach außen"
     ],
     "answer": 3,
-    "explanation": "Von 1639 bis 1854 durften Ausländer kaum einreisen und Japaner das Land nicht verlassen. Der Außenhandel blieb auf wenige Partner in Nagasaki beschränkt.",
+    "explanation": "Von 1639 bis 1854 durften Ausländer kaum einreisen und Japaner das Land nicht verlassen. Der Außenhandel blieb auf wenige Partner beschränkt, vor allem Niederländer und Chinesen in Nagasaki.",
     "difficulty": 1
   },
   {
@@ -3916,7 +3916,7 @@
       "Nach der Höhe ihrer Zahlungen an den Hof"
     ],
     "answer": 2,
-    "explanation": "Die Prüfungen sollten Ämter nach Leistung statt nach Herkunft vergeben. Das System bestand bis 1905 und wurde von Korea, Japan und Vietnam übernommen.",
+    "explanation": "Die Prüfungen sollten Ämter nach Leistung statt nach Herkunft vergeben. Das System bestand bis 1905 und wurde von Korea und Vietnam übernommen.",
     "difficulty": 1
   },
   {
@@ -4261,7 +4261,7 @@
     "question": "Wofür ist die Kunst von Gandhara im Kushan-Reich besonders bekannt?",
     "choices": [
       "Für die ersten Porzellangefäße",
-      "Für die ersten Buddha-Statuen in Menschengestalt",
+      "Für frühe Buddha-Statuen in Menschengestalt im griechisch beeinflussten Stil",
       "Für die ältesten Holztafeldrucke",
       "Für die größten Tempelpyramiden Asiens"
     ],
@@ -5257,7 +5257,7 @@
       "In Anatolien",
       "In Mesopotamien",
       "In Nubien im heutigen Sudan",
-      "In Äthiopien am Roten Meer"
+      "Auf der Arabischen Halbinsel"
     ],
     "answer": 2,
     "explanation": "Kusch mit den Hauptstädten Napata und später Meroe lag südlich von Ägypten am Nil; seine Könige bildeten die 25. Dynastie.",
@@ -5456,7 +5456,7 @@
       "Heinrich Schliemann"
     ],
     "answer": 1,
-    "explanation": "Woolley fand Goldhelme, Leiern, Schmuck aus Lapislazuli, die Standarte von Ur und dutzende Diener, die mit den Herrschern bestattet worden waren.",
+    "explanation": "Woolley fand einen Goldhelm, Leiern, Schmuck aus Lapislazuli, die Standarte von Ur und dutzende Diener, die mit den Herrschern bestattet worden waren.",
     "difficulty": 3
   },
   {
@@ -6739,12 +6739,12 @@
     "question": "Welches dieser Ereignisse geschah zuerst?",
     "choices": [
       "Das Kommunistische Manifest erscheint",
-      "Die erste öffentliche Eisenbahn fährt zwischen Stockton und Darlington",
+      "Die erste öffentliche Dampfeisenbahn fährt zwischen Stockton und Darlington",
       "Darwins Entstehung der Arten erscheint",
       "Der Suezkanal wird eröffnet"
     ],
     "answer": 1,
-    "explanation": "Die Eisenbahn Stockton–Darlington fuhr 1825, das Kommunistische Manifest erschien 1848, Darwins Buch 1859 und der Suezkanal wurde 1869 eröffnet.",
+    "explanation": "Die Dampfeisenbahn Stockton–Darlington fuhr 1825, das Kommunistische Manifest erschien 1848, Darwins Buch 1859 und der Suezkanal wurde 1869 eröffnet.",
     "difficulty": 2
   },
   {
@@ -7052,7 +7052,7 @@
       "Den Telegrafen"
     ],
     "answer": 2,
-    "explanation": "1882 eröffnete Edison in New York das erste öffentliche Elektrizitätswerk. In seinem Labor in Menlo Park entwickelten Teams von Mechanikern und Wissenschaftlern gezielt neue Erfindungen.",
+    "explanation": "1882 eröffnete Edison in New York mit der Pearl Street Station das erste zentrale Elektrizitätswerk der USA. In seinem Labor in Menlo Park entwickelten Teams von Mechanikern und Wissenschaftlern gezielt neue Erfindungen.",
     "difficulty": 1
   },
   {
@@ -7186,7 +7186,7 @@
     "epochId": "industrialisierung-imperialismus",
     "question": "Wie nennt man den Börsenkrach von 1873, der auf den Boom nach der Reichsgründung folgte?",
     "choices": [
-      "Schwarzer Freitag",
+      "Schwarzer Donnerstag",
       "Tulpenmanie",
       "Gründerkrach",
       "Südseeblase"
@@ -7500,7 +7500,7 @@
       "Nachfolger des Propheten als Oberhaupt der Gemeinde"
     ],
     "answer": 3,
-    "explanation": "Der Kalif führte die muslimische Gemeinde mit religiöser und weltlicher Autorität. Die ersten vier Kalifen wurden gewählt, danach machten Umayyaden und Abbasiden das Amt erblich.",
+    "explanation": "Der Kalif führte die muslimische Gemeinde mit religiöser und weltlicher Autorität. Die ersten vier Kalifen wurden nicht nach Erbfolge bestimmt, danach machten Umayyaden und Abbasiden das Amt erblich.",
     "difficulty": 1
   },
   {
@@ -7892,7 +7892,7 @@
       "Ägypten"
     ],
     "answer": 0,
-    "explanation": "Ibn Battuta brach 1325 aus Tanger zur Pilgerfahrt nach Mekka auf und kehrte erst nach fast dreißig Jahren zurück. Sein Reisebericht beschreibt Länder von Westafrika bis China.",
+    "explanation": "Ibn Battuta brach 1325 aus Tanger zur Pilgerfahrt nach Mekka auf und kehrte erst 1349, nach fast 25 Jahren, zurück; danach reiste er noch nach al-Andalus und Mali. Sein Reisebericht beschreibt Länder von Westafrika bis China.",
     "difficulty": 2
   },
   {
@@ -11140,7 +11140,7 @@
       "Leon Battista Alberti"
     ],
     "answer": 2,
-    "explanation": "Brunelleschi entwarf eine doppelschalige Kuppel, die ohne hölzernes Lehrgerüst gebaut wurde. Sie blieb bis ins 20. Jahrhundert die größte gemauerte Kuppel der Welt.",
+    "explanation": "Brunelleschi entwarf eine doppelschalige Kuppel, die ohne hölzernes Lehrgerüst gebaut wurde. Sie gilt bis heute als größte gemauerte Ziegelkuppel der Welt.",
     "difficulty": 2
   },
   {
@@ -11840,7 +11840,7 @@
       "Sie durften allein über das Familienvermögen verfügen"
     ],
     "answer": 1,
-    "explanation": "Der Code civil garantierte die Gleichheit aller Männer vor dem Gesetz, stellte Frauen aber unter die Vormundschaft von Vater oder Ehemann. Schon 1793 hatte die Revolution Frauen aus der Politik ausgeschlossen.",
+    "explanation": "Der Code civil garantierte die Gleichheit aller Männer vor dem Gesetz, stellte Ehefrauen aber unter die Gewalt ihres Mannes; sie brauchten etwa für Verträge und Prozesse seine Zustimmung. Schon 1793 hatte die Revolution Frauen aus der Politik ausgeschlossen.",
     "difficulty": 2
   },
   {
@@ -12050,7 +12050,7 @@
       "Offiziere der königlichen Leibgarde"
     ],
     "answer": 0,
-    "explanation": "Der Name bedeutet „ohne Kniebundhosen“: Sie trugen lange Hosen statt der Culottes der Oberschicht. Sie trieben die Revolution auf der Straße voran, blieben aber meist vom Wahlrecht ausgeschlossen.",
+    "explanation": "Der Name bedeutet „ohne Kniebundhosen“: Sie trugen lange Hosen statt der Culottes der Oberschicht. Sie trieben die Revolution auf der Straße voran, waren nach der Verfassung von 1791 aber oft als „Passivbürger“ vom Wahlrecht ausgeschlossen.",
     "difficulty": 2
   },
   {
@@ -12162,7 +12162,7 @@
       "Austerlitz"
     ],
     "answer": 3,
-    "explanation": "Bei Austerlitz in Mähren besiegte Kaiser Napoleon die Heere des österreichischen Kaisers Franz und des russischen Zaren Alexander I.. Danach ordnete er Deutschland nach seinem Willen neu.",
+    "explanation": "Bei Austerlitz in Mähren besiegte Kaiser Napoleon die Heere des österreichischen Kaisers Franz und des russischen Zaren Alexander I. Danach ordnete er Deutschland nach seinem Willen neu.",
     "difficulty": 3
   },
   {
@@ -12974,7 +12974,7 @@
       "Die des Catilina"
     ],
     "answer": 3,
-    "explanation": "Cicero hielt gegen Catilina vier berühmte Reden im Senat und ließ Mitverschwörer hinrichten. Nach Caesars Tod bekämpfte er Marcus Antonius und wurde 43 v. Chr. ermordet.",
+    "explanation": "Cicero hielt gegen Catilina vier berühmte Reden vor Senat und Volk und ließ Mitverschwörer hinrichten. Nach Caesars Tod bekämpfte er Marcus Antonius und wurde 43 v. Chr. ermordet.",
     "difficulty": 3
   },
   {
@@ -13086,7 +13086,7 @@
       "Die Legionen wurden dem Senat direkt unterstellt"
     ],
     "answer": 0,
-    "explanation": "Seit Marius dienten Legionäre 16 bis 25 Jahre und erwarteten danach Land oder Geld von ihrem Feldherrn. Diese Treue nutzten Sulla, Pompeius und Caesar im Bürgerkrieg.",
+    "explanation": "Seit Marius wurden auch besitzlose Bürger angeworben; sie dienten viele Jahre und erwarteten danach Land oder Geld von ihrem Feldherrn. Diese Treue nutzten Sulla, Pompeius und Caesar im Bürgerkrieg.",
     "difficulty": 3
   },
   {
@@ -13478,7 +13478,7 @@
       "Asien"
     ],
     "answer": 0,
-    "explanation": "Über die Beringlandbrücke gelangten Menschen vor etwa 15.000 Jahren nach Amerika, lange nach Australien (vor mindestens 50.000 Jahren) und Europa (vor rund 45.000 Jahren).",
+    "explanation": "Über die Beringlandbrücke gelangten Menschen vor mindestens 15.000, wahrscheinlich schon vor über 20.000 Jahren nach Amerika, lange nach Australien (vor mindestens 50.000 Jahren) und Europa (vor rund 45.000 Jahren).",
     "difficulty": 1
   },
   {
@@ -13548,7 +13548,7 @@
       "Deutlich weniger Zahnschäden"
     ],
     "answer": 1,
-    "explanation": "Einseitige Getreidekost und schwere Feldarbeit belasteten die Gesundheit; zudem sprangen Krankheiten wie Tuberkulose vom Vieh auf den Menschen über.",
+    "explanation": "Einseitige Getreidekost und schwere Feldarbeit belasteten die Gesundheit; zudem begünstigten dichte Siedlungen und das enge Zusammenleben mit Vieh Infektionskrankheiten.",
     "difficulty": 3
   },
   {
@@ -13660,7 +13660,7 @@
       "Die Lapita-Kultur im Pazifik"
     ],
     "answer": 2,
-    "explanation": "Dörfer wie Tell es-Sawwan und Choga Mami am mittleren Tigris ermöglichten so Ackerbau trotz geringer Niederschläge – eine Grundlage der späteren Städte Sumers.",
+    "explanation": "Dörfer wie Tell es-Sawwan am mittleren Tigris und Choga Mami am Rand des Zagros ermöglichten so Ackerbau trotz geringer Niederschläge – eine Grundlage der späteren Städte Sumers.",
     "difficulty": 3
   },
   {
@@ -13806,7 +13806,7 @@
   {
     "id": "q-urgeschichte-51",
     "epochId": "urgeschichte",
-    "question": "Welche dieser Inseln wurde von den Nachfahren der Lapita-Seefahrer, den Polynesiern, als letzte besiedelt?",
+    "question": "Welche dieser Inseln wurde von den Lapita-Seefahrern und ihren Nachfahren als letzte besiedelt?",
     "choices": [
       "Fidschi",
       "Tonga",
