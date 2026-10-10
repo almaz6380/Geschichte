@@ -2980,7 +2980,7 @@
     "approx": true,
     "epochId": "amerika-vorkolumbisch",
     "regionId": "amerika",
-    "summary": "Im Norden des Hochtals von Mexiko wird Tula zum Zentrum der Tolteken, die den Azteken später als vorbildliche Ahnen gelten.",
+    "summary": "Nördlich des Hochtals von Mexiko wird Tula zum Zentrum der Tolteken, die den Azteken später als vorbildliche Ahnen gelten.",
     "text": "Nach dem Niedergang Teotihuacans wurde Tula im heutigen Bundesstaat Hidalgo zur wichtigsten Stadt Zentralmexikos. Auf einer Tempelpyramide stehen noch heute die mehr als vier Meter hohen steinernen Kriegerfiguren, die sogenannten Atlanten. Reliefs mit Jaguaren, Adlern und Schädelgestellen zeigen die Bedeutung von Krieg und Opfer. Um 1150 wurde die Stadt zerstört oder verlassen. Die Azteken verklärten die Tolteken später als Erfinder aller Künste und leiteten die Würde ihrer eigenen Herrscher von ihnen ab.",
     "personIds": [],
     "tags": [
@@ -3763,7 +3763,7 @@
     "epochId": "amerika-vorkolumbisch",
     "regionId": "amerika",
     "summary": "Die Mexica gründen auf einer Insel im Texcoco-See die Stadt, die zur Hauptstadt des Aztekenreiches wird.",
-    "text": "Der Überlieferung nach ließen sich die Mexica dort nieder, wo sie einen Adler auf einem Kaktus erblickten, wie es ihr Gott Huitzilopochtli vorausgesagt hatte; dieses Bild ziert heute die Flagge Mexikos. Aus der Inselsiedlung entstand durch Dämme, schwimmende Gärten und Kanäle eine Stadt mit über 200.000 Einwohnern, riesigen Tempelpyramiden und Märkten. Ab 1428 beherrschte Tenochtitlan im Dreibund mit Texcoco und Tlacopan große Teile Mittelamerikas und forderte Tribut und Gefangene für Menschenopfer. 1521 eroberten die Spanier unter Cortés die Stadt; auf ihren Ruinen entstand Mexiko-Stadt.",
+    "text": "Der Überlieferung nach ließen sich die Mexica dort nieder, wo sie einen Adler auf einem Kaktus erblickten, wie es ihr Gott Huitzilopochtli vorausgesagt hatte; dieses Bild ziert heute die Flagge Mexikos. Aus der Inselsiedlung entstand durch Dämme, schwimmende Gärten und Kanäle eine Stadt mit über 200.000 Einwohnern, riesigen Tempelpyramiden und Märkten. Ab 1428 beherrschte Tenochtitlan im Dreibund mit Texcoco und Tlacopan große Teile Mexikos und forderte Tribut und Gefangene für Menschenopfer. 1521 eroberten die Spanier unter Cortés die Stadt; auf ihren Ruinen entstand Mexiko-Stadt.",
     "personIds": [],
     "tags": [
       "azteken",
@@ -4347,7 +4347,7 @@
     "epochId": "amerika-vorkolumbisch",
     "regionId": "amerika",
     "summary": "Hoch über dem Urubamba-Tal entsteht ein königlicher Landsitz der Inka.",
-    "text": "Machu Picchu liegt auf einem Bergsattel rund 2.400 Meter hoch über dem Tal des Urubamba. Die Anlage wurde wohl als Landsitz für Pachacútec errichtet; neue Radiokarbondaten zeigen, dass sie schon in den 1420er Jahren bewohnt war. Tempel, Wohnhäuser und Terrassen sind aus passgenau gefügten Steinen gebaut, und ein Kanal versorgte die Bewohner mit Quellwasser. Die Spanier fanden den Ort nie. 1911 machte ihn der Amerikaner Hiram Bingham weltweit bekannt; seit 1983 gehört er zum Welterbe der UNESCO.",
+    "text": "Machu Picchu liegt auf einem Bergsattel in rund 2.400 Metern Höhe, etwa 450 Meter über dem Tal des Urubamba. Die Anlage wurde wohl als Landsitz für Pachacútec errichtet; neue Radiokarbondaten zeigen, dass sie schon in den 1420er Jahren bewohnt war. Tempel, Wohnhäuser und Terrassen sind aus passgenau gefügten Steinen gebaut, und ein Kanal versorgte die Bewohner mit Quellwasser. Die Spanier fanden den Ort nie. 1911 machte ihn der Amerikaner Hiram Bingham weltweit bekannt; seit 1983 gehört er zum Welterbe der UNESCO.",
     "personIds": [
       "pachacutec"
     ],
@@ -5730,8 +5730,8 @@
     "approx": false,
     "epochId": "asiatische-grossreiche",
     "regionId": "asien",
-    "summary": "Das Tokugawa-Shogunat verbietet Portugiesen die Einreise, untersagt Japanern das Verlassen des Landes und erlaubt nur noch den Niederländern und Chinesen begrenzten Handel in Nagasaki.",
-    "text": "Tokugawa Ieyasu hatte 1603 das Shogunat begründet und Japan nach einem Jahrhundert Bürgerkrieg befriedet. Seine Nachfolger fürchteten, dass christliche Missionare und europäische Händler die Ordnung untergraben könnten, zumal 1637 ein Aufstand christlicher Bauern in Shimabara blutig niedergeschlagen werden musste. Mit einer Reihe von Erlassen zwischen 1633 und 1639 wurde das Christentum verboten, der Bau hochseetüchtiger Schiffe untersagt und der Außenhandel auf die künstliche Insel Dejima vor Nagasaki beschränkt. Diese als Sakoku bezeichnete Politik hielt bis 1854 an und sicherte Japan über zwei Jahrhunderte Frieden und eine eigenständige Kultur.",
+    "summary": "Das Tokugawa-Shogunat verbietet Portugiesen die Einreise, untersagt Japanern das Verlassen des Landes und erlaubt nur noch den Niederländern und Chinesen begrenzten Handel, der bald ganz auf Nagasaki beschränkt wird.",
+    "text": "Tokugawa Ieyasu hatte 1603 das Shogunat begründet und Japan nach einem Jahrhundert Bürgerkrieg befriedet. Seine Nachfolger fürchteten, dass christliche Missionare und europäische Händler die Ordnung untergraben könnten, zumal 1637 ein Aufstand christlicher Bauern in Shimabara blutig niedergeschlagen werden musste. Mit einer Reihe von Erlassen zwischen 1633 und 1639 wurde das Christentum verboten, der Bau hochseetüchtiger Schiffe untersagt und die Portugiesen ausgewiesen; 1641 wurden die Niederländer auf die künstliche Insel Dejima vor Nagasaki verlegt. Diese als Sakoku bezeichnete Politik hielt bis 1854 an und sicherte Japan über zwei Jahrhunderte Frieden und eine eigenständige Kultur.",
     "personIds": [
       "tokugawa-ieyasu"
     ],
@@ -5972,7 +5972,7 @@
     "approx": false,
     "epochId": "asiatische-grossreiche",
     "regionId": "asien",
-    "summary": "In den Städten der Edo-Zeit entsteht eine lebendige bürgerliche Kultur mit Kabuki, Puppentheater, Haiku, Romanen und Farbholzschnitten.",
+    "summary": "In den Städten der Edo-Zeit entsteht eine lebendige bürgerliche Kultur mit Kabuki, Puppentheater, Haiku, Romanen und Holzschnitten.",
     "text": "Der lange Frieden unter den Tokugawa ließ Städte wie Edo, Osaka und Kyoto wachsen, in denen reiche Kaufleute einen eigenen Lebensstil entwickelten. In der Genroku-Zeit schrieb Ihara Saikaku Romane über Liebe und Geld, Chikamatsu Monzaemon verfasste Stücke für Puppentheater und Kabuki. Matsuo Bashō machte das kurze Gedicht Haiku zur anerkannten Kunst und wanderte 1689 in den Norden Japans. Maler begannen, Bilder der fließenden Welt der Vergnügungsviertel im Holzschnitt zu drucken. Diese Kunstform beeinflusste im 19. Jahrhundert europäische Maler.",
     "personIds": [
       "matsuo-basho"
@@ -6192,7 +6192,7 @@
     "epochId": "osmanisches-reich",
     "regionId": "europa",
     "summary": "İbrahim Müteferrika erhält die Erlaubnis des Sultans, Bücher in osmanischem Türkisch mit arabischen Lettern zu drucken.",
-    "text": "Jüdische, armenische und griechische Drucker arbeiteten im Reich schon seit dem späten 15. Jahrhundert, doch Bücher in arabischer Schrift wurden weiter von Hand abgeschrieben. 1727 erhielten İbrahim Müteferrika und Said Efendi einen Erlass des Sultans und ein zustimmendes Gutachten des Scheichülislam, religiöse Schriften blieben ausgenommen. 1729 erschien als erstes Buch ein arabisch-türkisches Wörterbuch. Bis 1742 druckte Müteferrika 17 Werke, darunter Geschichtswerke, Landkarten und eine Schrift über Militärreformen. Ein breiter Buchmarkt entstand erst im 19. Jahrhundert.",
+    "text": "Jüdische Drucker arbeiteten im Reich schon seit dem späten 15. Jahrhundert, armenische und griechische seit dem 16. und 17. Jahrhundert, doch Bücher in arabischer Schrift wurden weiter von Hand abgeschrieben. 1727 erhielten İbrahim Müteferrika und Said Efendi einen Erlass des Sultans und ein zustimmendes Gutachten des Scheichülislam, religiöse Schriften blieben ausgenommen. 1729 erschien als erstes Buch ein arabisch-türkisches Wörterbuch. Bis 1742 druckte Müteferrika 17 Werke, darunter Geschichtswerke, Landkarten und eine Schrift über Militärreformen. Ein breiter Buchmarkt entstand erst im 19. Jahrhundert.",
     "personIds": [
       "ibrahim-mueteferrika"
     ],
@@ -6739,7 +6739,7 @@
     "epochId": "lateinamerika",
     "regionId": "amerika",
     "summary": "Am 1. Januar 1804 erklärt Jean-Jacques Dessalines die Unabhängigkeit Haitis, des ersten Staates, den ehemals versklavte Menschen gründeten.",
-    "text": "Nachdem Napoleon 1802 eine Armee nach Saint-Domingue geschickt hatte, um die Sklaverei wiederherzustellen, und Toussaint Louverture in die Gefangenschaft verschleppt worden war, führten Jean-Jacques Dessalines und Alexandre Pétion den Widerstand fort. Gelbfieber und die Guerilla der ehemaligen Sklaven rieben die französischen Truppen auf; nach der Niederlage bei Vertières im November 1803 räumten die Franzosen die Kolonie. Dessalines rief am 1. Januar 1804 in Gonaïves die Unabhängigkeit aus und gab dem Land den alten indigenen Namen Haiti; Massaker an den verbliebenen Franzosen folgten. Haiti wurde zur zweiten unabhängigen Republik Amerikas, blieb aber von den Sklavenhaltermächten isoliert; Frankreich erkannte es erst 1825 gegen eine Entschädigung von 150 Millionen Francs an, die das Land über ein Jahrhundert lang belastete.",
+    "text": "Nachdem Napoleon 1802 eine Armee nach Saint-Domingue geschickt hatte, um die Sklaverei wiederherzustellen, und Toussaint Louverture in die Gefangenschaft verschleppt worden war, führten Jean-Jacques Dessalines und Alexandre Pétion den Widerstand fort. Gelbfieber und die Guerilla der ehemaligen Sklaven rieben die französischen Truppen auf; nach der Niederlage bei Vertières im November 1803 räumten die Franzosen die Kolonie. Dessalines rief am 1. Januar 1804 in Gonaïves die Unabhängigkeit aus und gab dem Land den alten indigenen Namen Haiti; Massaker an den verbliebenen Franzosen folgten. Haiti wurde zum zweiten unabhängigen Staat Amerikas, blieb aber von den Sklavenhaltermächten isoliert; Frankreich erkannte es erst 1825 gegen eine Entschädigung von 150 Millionen Francs an, die das Land über ein Jahrhundert lang belastete.",
     "personIds": [
       "toussaint-louverture",
       "napoleon-bonaparte"
@@ -9575,7 +9575,7 @@
     "epochId": "gegenwart",
     "regionId": "afrika",
     "summary": "Innerhalb von rund 100 Tagen ermorden Hutu-Milizen etwa 800.000 Tutsi und gemäßigte Hutu, während die Welt zusieht.",
-    "text": "Die belgische Kolonialmacht hatte die Bevölkerung Ruandas in Hutu und Tutsi eingeteilt und die Tutsi-Minderheit bevorzugt; nach der Unabhängigkeit 1962 wechselten Diskriminierung und Gewalt die Richtung. Als am 6. April 1994 das Flugzeug des Präsidenten Habyarimana abgeschossen wurde, begannen Armee, Milizen und aufgehetzte Nachbarn ein geplantes Morden, angefeuert durch Radiosender, die Tutsi als Kakerlaken bezeichneten. Bis Juli wurden etwa 800.000 Menschen mit Macheten und Gewehren getötet, viele in Kirchen und Schulen, in die sie geflohen waren. Die Vereinten Nationen zogen ihre Blauhelme sogar ab. Erst der Vormarsch der Tutsi-Rebellen unter Paul Kagame beendete das Töten. Ein internationales Tribunal verurteilte später die Verantwortlichen, und das Versagen der Weltgemeinschaft prägt bis heute die Debatte über die Schutzverantwortung.",
+    "text": "Die belgische Kolonialmacht hatte die Bevölkerung Ruandas in Hutu und Tutsi eingeteilt und die Tutsi-Minderheit bevorzugt; nach der Unabhängigkeit 1962 wechselten Diskriminierung und Gewalt die Richtung. Als am 6. April 1994 das Flugzeug des Präsidenten Habyarimana abgeschossen wurde, begannen Armee, Milizen und aufgehetzte Nachbarn ein geplantes Morden, angefeuert durch Radiosender, die Tutsi als Kakerlaken bezeichneten. Bis Juli wurden etwa 800.000 Menschen mit Macheten und Gewehren getötet, viele in Kirchen und Schulen, in die sie geflohen waren. Die Vereinten Nationen verringerten ihre Blauhelmtruppe sogar von rund 2.500 auf 270 Mann. Erst der Vormarsch der Tutsi-Rebellen unter Paul Kagame beendete das Töten. Ein internationales Tribunal verurteilte später die Verantwortlichen, und das Versagen der Weltgemeinschaft prägt bis heute die Debatte über die Schutzverantwortung.",
     "personIds": [],
     "tags": [
       "genozid",
@@ -10200,7 +10200,8 @@
     "summary": "Russland überfällt am 24. Februar 2022 die Ukraine und beginnt den größten Krieg in Europa seit 1945.",
     "text": "Nach der Annexion der Krim 2014 und dem Krieg im Donbass befahl Präsident Wladimir Putin am 24. Februar 2022 den Angriff auf das gesamte Nachbarland, das er als Teil Russlands betrachtet und aus dem Einflussbereich des Westens lösen wollte. Der erwartete schnelle Sieg blieb aus: Die ukrainische Armee und Bevölkerung verteidigten Kiew, und beim Rückzug der Russen wurden in Butscha und anderen Orten Massaker an Zivilisten entdeckt. Die westlichen Staaten verhängten beispiellose Sanktionen und lieferten Waffen, Finnland und Schweden traten der NATO bei, Millionen Ukrainer flohen nach Europa. Der Krieg mit Hunderttausenden Toten und Verwundeten, zerstörten Städten und weltweit steigenden Energie- und Lebensmittelpreisen beendete die Hoffnung auf eine dauerhafte Friedensordnung in Europa.",
     "personIds": [
-      "angela-merkel"
+      "wladimir-putin",
+      "wolodymyr-selenskyj"
     ],
     "tags": [
       "ukraine",

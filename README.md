@@ -8,7 +8,7 @@ Die Inhalte sind entlang von drei Achsen geordnet, die überall miteinander verl
 
 | Achse | Was sie bietet |
 |-------|----------------|
-| **Epochen** (14) | Chronologisch von der Steinzeit bis heute. Jede Epoche hat „Auf einen Blick“, Überblick, vier Themenabschnitte (Herrschaft und Politik · Gesellschaft und Alltag · Kultur, Religion und Wissen · Wirtschaft und Technik), Schlüsselereignisse nach Jahrhunderten, Personen, Begriffe und Folgen. |
+| **Epochen** (20) | Chronologisch von der Steinzeit bis heute, mit eigenen Epochen für Amerika, Afrika, Asien und das Osmanische Reich. Jede Epoche hat „Auf einen Blick“, Überblick, vier Themenabschnitte (Herrschaft und Politik · Gesellschaft und Alltag · Kultur, Religion und Wissen · Wirtschaft und Technik), Schlüsselereignisse nach Jahrhunderten, Personen, Begriffe und Folgen. |
 | **Querschnittsthemen** (8) | Rote Linien durch alle Epochen: Religionen, Wissenschaft und Technik, Krieg und Frieden, Handel und Globalisierung, Herrschaft und Demokratie, Frauen in der Geschichte, Migration, Kunst und Bildung. |
 | **Regionen** (7) | Geschichte nach Kontinenten mit Ereignissen je Epoche und Personen. |
 

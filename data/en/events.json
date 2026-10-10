@@ -3763,7 +3763,7 @@
     "epochId": "amerika-vorkolumbisch",
     "regionId": "amerika",
     "summary": "The Mexica found the city that becomes the capital of the Aztec empire on an island in Lake Texcoco.",
-    "text": "According to tradition, the Mexica settled where they saw an eagle on a cactus, as their god Huitzilopochtli had foretold; that image adorns the flag of Mexico today. Through causeways, floating gardens, and canals, the island settlement grew into a city of more than 200,000 inhabitants, with huge temple pyramids and markets. From 1428 Tenochtitlan, in a triple alliance with Texcoco and Tlacopan, ruled large parts of Central America and demanded tribute and captives for human sacrifice. In 1521 the Spaniards under Cortés conquered the city; Mexico City arose on its ruins.",
+    "text": "According to tradition, the Mexica settled where they saw an eagle on a cactus, as their god Huitzilopochtli had foretold; that image adorns the flag of Mexico today. Through causeways, floating gardens, and canals, the island settlement grew into a city of more than 200,000 inhabitants, with huge temple pyramids and markets. From 1428 Tenochtitlan, in a triple alliance with Texcoco and Tlacopan, ruled large parts of Mexico and demanded tribute and captives for human sacrifice. In 1521 the Spaniards under Cortés conquered the city; Mexico City arose on its ruins.",
     "personIds": [],
     "tags": [
       "aztecs",
@@ -4347,7 +4347,7 @@
     "epochId": "amerika-vorkolumbisch",
     "regionId": "amerika",
     "summary": "High above the Urubamba Valley a royal estate of the Inca is built.",
-    "text": "Machu Picchu lies on a mountain saddle about 2,400 meters high above the valley of the Urubamba. The complex was probably built as an estate for Pachacuti; new radiocarbon dates show that it was already inhabited in the 1420s. Temples, houses and terraces are built of precisely fitted stones, and a canal supplied the inhabitants with spring water. The Spaniards never found the site. In 1911 the American Hiram Bingham made it known worldwide; since 1983 it has been a UNESCO World Heritage Site.",
+    "text": "Machu Picchu lies on a mountain saddle at about 2,400 meters above sea level, some 450 meters above the Urubamba valley. The complex was probably built as an estate for Pachacuti; new radiocarbon dates show that it was already inhabited in the 1420s. Temples, houses and terraces are built of precisely fitted stones, and a canal supplied the inhabitants with spring water. The Spaniards never found the site. In 1911 the American Hiram Bingham made it known worldwide; since 1983 it has been a UNESCO World Heritage Site.",
     "personIds": [
       "pachacutec"
     ],
@@ -5730,8 +5730,8 @@
     "approx": false,
     "epochId": "asiatische-grossreiche",
     "regionId": "asien",
-    "summary": "The Tokugawa shogunate bars the Portuguese from entering, forbids Japanese to leave the country, and allows only the Dutch and the Chinese limited trade at Nagasaki.",
-    "text": "Tokugawa Ieyasu had founded the shogunate in 1603 and pacified Japan after a century of civil war. His successors feared that Christian missionaries and European traders might undermine the established order, especially since a revolt of Christian peasants at Shimabara had to be bloodily put down in 1637. Through a series of decrees between 1633 and 1639, Christianity was banned, the building of ocean-going ships was forbidden, and foreign trade was restricted to the artificial island of Dejima off Nagasaki. This policy, known as sakoku, lasted until 1854 and gave Japan more than two centuries of peace and a culture of its own.",
+    "summary": "The Tokugawa shogunate bars the Portuguese from entering, forbids Japanese to leave the country, and allows only the Dutch and the Chinese limited trade, which is soon confined entirely to Nagasaki.",
+    "text": "Tokugawa Ieyasu had founded the shogunate in 1603 and pacified Japan after a century of civil war. His successors feared that Christian missionaries and European traders might undermine the established order, especially since a revolt of Christian peasants at Shimabara had to be bloodily put down in 1637. Through a series of decrees between 1633 and 1639, Christianity was banned, the building of ocean-going ships was forbidden, and the Portuguese were expelled; in 1641 the Dutch were moved to the artificial island of Dejima off Nagasaki. This policy, known as sakoku, lasted until 1854 and gave Japan more than two centuries of peace and a culture of its own.",
     "personIds": [
       "tokugawa-ieyasu"
     ],
@@ -5972,7 +5972,7 @@
     "approx": false,
     "epochId": "asiatische-grossreiche",
     "regionId": "asien",
-    "summary": "In the cities of the Edo period a lively urban culture emerges with kabuki, puppet theatre, haiku, novels and colour woodblock prints.",
+    "summary": "In the cities of the Edo period a lively urban culture emerges with kabuki, puppet theatre, haiku, novels and woodblock prints.",
     "text": "The long peace under the Tokugawa allowed cities such as Edo, Osaka and Kyoto to grow, and wealthy merchants there developed a lifestyle of their own. In the Genroku period Ihara Saikaku wrote novels about love and money, and Chikamatsu Monzaemon wrote plays for puppet theatre and kabuki. Matsuo Bashō made the short haiku poem a recognized art and in 1689 walked to the north of Japan. Artists began to print pictures of the floating world of the pleasure quarters as woodblock prints. This art form influenced European painters in the 19th century.",
     "personIds": [
       "matsuo-basho"
@@ -6192,7 +6192,7 @@
     "epochId": "osmanisches-reich",
     "regionId": "europa",
     "summary": "İbrahim Müteferrika receives the sultan's permission to print books in Ottoman Turkish with Arabic type.",
-    "text": "Jewish, Armenian and Greek printers had been working in the empire since the late 15th century, but books in Arabic script continued to be copied by hand. In 1727 İbrahim Müteferrika and Said Efendi received a decree from the sultan and an approving opinion from the şeyhülislam; religious texts remained excluded. In 1729 the first book appeared, an Arabic-Turkish dictionary. By 1742 Müteferrika had printed 17 works, among them histories, maps and a treatise on military reform. A broad book market only emerged in the 19th century.",
+    "text": "Jewish printers had been working in the empire since the late 15th century, Armenian and Greek printers since the 16th and 17th centuries, but books in Arabic script continued to be copied by hand. In 1727 İbrahim Müteferrika and Said Efendi received a decree from the sultan and an approving opinion from the şeyhülislam; religious texts remained excluded. In 1729 the first book appeared, an Arabic-Turkish dictionary. By 1742 Müteferrika had printed 17 works, among them histories, maps and a treatise on military reform. A broad book market only emerged in the 19th century.",
     "personIds": [
       "ibrahim-mueteferrika"
     ],
@@ -6739,7 +6739,7 @@
     "epochId": "lateinamerika",
     "regionId": "amerika",
     "summary": "On 1 January 1804 Jean-Jacques Dessalines declares the independence of Haiti, the first state founded by formerly enslaved people.",
-    "text": "After Napoleon had sent an army to Saint-Domingue in 1802 to restore slavery, and after Toussaint Louverture had been carried off into captivity, Jean-Jacques Dessalines and Alexandre Pétion carried on the resistance. Yellow fever and the guerrilla warfare of the former slaves wore down the French troops; after the defeat at Vertières in November 1803 the French evacuated the colony. On 1 January 1804 Dessalines proclaimed independence at Gonaïves and gave the country its old indigenous name, Haiti; massacres of the remaining French followed. Haiti became the second independent republic of the Americas, but it remained isolated by the slaveholding powers; France recognized it only in 1825, in return for an indemnity of 150 million francs that burdened the country for more than a century.",
+    "text": "After Napoleon had sent an army to Saint-Domingue in 1802 to restore slavery, and after Toussaint Louverture had been carried off into captivity, Jean-Jacques Dessalines and Alexandre Pétion carried on the resistance. Yellow fever and the guerrilla warfare of the former slaves wore down the French troops; after the defeat at Vertières in November 1803 the French evacuated the colony. On 1 January 1804 Dessalines proclaimed independence at Gonaïves and gave the country its old indigenous name, Haiti; massacres of the remaining French followed. Haiti became the second independent state in the Americas, but it remained isolated by the slaveholding powers; France recognized it only in 1825, in return for an indemnity of 150 million francs that burdened the country for more than a century.",
     "personIds": [
       "toussaint-louverture",
       "napoleon-bonaparte"
@@ -9575,7 +9575,7 @@
     "epochId": "gegenwart",
     "regionId": "afrika",
     "summary": "Within about 100 days Hutu militias murder some 800,000 Tutsi and moderate Hutu while the world looks on.",
-    "text": "The Belgian colonial power had divided the population of Rwanda into Hutu and Tutsi and favored the Tutsi minority; after independence in 1962 discrimination and violence changed direction. When President Habyarimana's aircraft was shot down on 6 April 1994, the army, militias and incited neighbors began a planned campaign of murder, spurred on by radio stations that described the Tutsi as cockroaches. By July around 800,000 people had been killed with machetes and rifles, many of them in churches and schools to which they had fled. The United Nations even withdrew its blue helmets. Only the advance of the Tutsi rebels under Paul Kagame brought the killing to an end. An international tribunal later convicted those responsible, and the failure of the world community still shapes the debate about the responsibility to protect.",
+    "text": "The Belgian colonial power had divided the population of Rwanda into Hutu and Tutsi and favored the Tutsi minority; after independence in 1962 discrimination and violence changed direction. When President Habyarimana's aircraft was shot down on 6 April 1994, the army, militias and incited neighbors began a planned campaign of murder, spurred on by radio stations that described the Tutsi as cockroaches. By July around 800,000 people had been killed with machetes and rifles, many of them in churches and schools to which they had fled. The United Nations even cut its peacekeeping force from about 2,500 to 270. Only the advance of the Tutsi rebels under Paul Kagame brought the killing to an end. An international tribunal later convicted those responsible, and the failure of the world community still shapes the debate about the responsibility to protect.",
     "personIds": [],
     "tags": [
       "genocide",
@@ -10200,7 +10200,8 @@
     "summary": "On 24 February 2022 Russia invades Ukraine and begins the largest war in Europe since 1945.",
     "text": "After the annexation of Crimea in 2014 and the war in the Donbas, President Vladimir Putin ordered the attack on the whole of the neighboring country on 24 February 2022, a country he regards as part of Russia and wanted to remove from the sphere of influence of the West. The swift victory he expected did not come about: the Ukrainian army and population defended Kyiv, and when the Russians withdrew, massacres of civilians were discovered in Bucha and other places. The Western states imposed unprecedented sanctions and supplied weapons, Finland and Sweden joined NATO, and millions of Ukrainians fled to Europe. With hundreds of thousands killed and wounded, cities destroyed and energy and food prices rising worldwide, the war put an end to hopes of a lasting peaceful order in Europe.",
     "personIds": [
-      "angela-merkel"
+      "wladimir-putin",
+      "wolodymyr-selenskyj"
     ],
     "tags": [
       "ukraine",
