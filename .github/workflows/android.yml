@@ -2,6 +2,29 @@ name: Android App
 
 on:
   workflow_dispatch:
+    inputs:
+      upload:
+        description: 'Zu Google Play hochladen? (aus = nur bauen, AAB als Artefakt)'
+        type: boolean
+        default: true
+      track:
+        description: 'Play-Track'
+        type: choice
+        default: 'production'
+        options: ['production', 'beta', 'alpha', 'internal']
+      rollout:
+        description: 'An wie viele Nutzer?'
+        type: choice
+        default: 'complete'
+        options: ['complete', '0.5', '0.2']
+      notes:
+        description: 'Was-ist-neu-Text (de-DE, max. 500 Zeichen)'
+        type: string
+        default: 'Großes Update: Duelle gegen Freunde, Tägliche Challenge, neue Spielmodi, sechs neue Epochen und über 1.000 Quizfragen.'
+      version_code:
+        description: 'versionCode (leer = Laufnummer). Nur setzen, wenn Play eine höhere Zahl verlangt.'
+        type: string
+        default: ''
 # Gebaut wird nur auf Zuruf. Seit 04.10.2026 nur noch auf GitHubs Rechnern — kein
 # Self-hosted Runner in einem oeffentlichen Repo (siehe ci.yml).
 
@@ -61,7 +84,7 @@ jobs:
           ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
           ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
           ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
-          ANDROID_VERSION_CODE: ${{ github.run_number }}
+          ANDROID_VERSION_CODE: ${{ inputs.version_code || github.run_number }}
         run: |
           ./gradlew bundleRelease --no-daemon
           ls -la app/build/outputs/bundle/release/
@@ -75,6 +98,35 @@ jobs:
           path: android/app/build/outputs/bundle/release/app-release.aab
           if-no-files-found: error
 
+      # Upload wie in mahjong-app: Dienstkonto aus dem Secret PLAY_SERVICE_ACCOUNT_JSON,
+      # scripts/play-upload.py (edits -> bundles -> tracks -> validate/commit).
+      - name: Zu Google Play hochladen
+        if: ${{ steps.keystore.outputs.path != '' && inputs.upload }}
+        env:
+          PLAY_KEY_JSON: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+          PLAY_PACKAGE: de.almaz.weltgeschichte
+          TRACK: ${{ inputs.track }}
+          ROLLOUT: ${{ inputs.rollout }}
+          NOTES: ${{ inputs.notes }}
+        run: |
+          if [ -z "$PLAY_KEY_JSON" ]; then
+            echo "::warning::Secret PLAY_SERVICE_ACCOUNT_JSON fehlt in diesem Repo – nichts hochgeladen, das AAB liegt als Artefakt bereit."
+            echo "## Google-Play-Upload übersprungen" >> "$GITHUB_STEP_SUMMARY"
+            echo "Secret PLAY_SERVICE_ACCOUNT_JSON fehlt (Settings → Secrets and variables → Actions). Derselbe Dienstkonto-JSON wie bei mahjong-app; das Dienstkonto braucht in der Play Console Zugriff auf die App." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install --quiet pyjwt cryptography
+          printf '%s' "$PLAY_KEY_JSON" > "$RUNNER_TEMP/play-key.json"
+          export PLAY_KEY="$RUNNER_TEMP/play-key.json"
+          PY="$RUNNER_TEMP/venv/bin/python"
+          echo "--- Stand vorher ($TRACK) ---"
+          "$PY" scripts/play-upload.py --status --track "$TRACK" || true
+          if [ "$ROLLOUT" = "complete" ]; then ARG="--complete"; else ARG="--fraction $ROLLOUT"; fi
+          "$PY" scripts/play-upload.py --aab android/app/build/outputs/bundle/release/app-release.aab \
+            --track "$TRACK" $ARG --notes "${NOTES:0:500}"
+          echo "## Google Play: hochgeladen ($TRACK, $ROLLOUT)" >> "$GITHUB_STEP_SUMMARY"
+
       - name: Hinweis
         if: ${{ steps.keystore.outputs.path == '' }}
         run: |
@@ -83,4 +135,4 @@ jobs:
 
       - name: Signierschluessel entfernen
         if: always()
-        run: rm -f "$RUNNER_TEMP/upload.jks"
+        run: rm -rf "$RUNNER_TEMP/upload.jks" "$RUNNER_TEMP/play-key.json" "$RUNNER_TEMP/venv"
