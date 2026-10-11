@@ -104,6 +104,23 @@ def abschicken(tok, sub_id):
     print(f'✅ eingereicht (reviewSubmission {sub_id})')
 
 
+def zurueckziehen(tok, app_id, write):
+    # Zieht eine laufende Einreichung zurück, damit ein neuer Build an die Version kann.
+    # Die Version fällt danach auf DEVELOPER_REJECTED und ist wieder editierbar; Apple
+    # braucht dafür ein bis vier Minuten (CANCELING -> COMPLETE).
+    subs = call(tok, 'GET', f'/v1/reviewSubmissions?filter[app]={app_id}&limit=10')['data']
+    laufend = [x for x in subs if x['attributes'].get('state') in
+               ('WAITING_FOR_REVIEW', 'IN_REVIEW', 'UNRESOLVED_ISSUES')]
+    if not laufend:
+        return print('Keine laufende Einreichung.')
+    for x in laufend:
+        print(f'Zurückziehen {x["id"]} ({x["attributes"]["state"]})' + ('' if write else '  [Probelauf]'))
+        if write:
+            call(tok, 'PATCH', f'/v1/reviewSubmissions/{x["id"]}', {
+                'data': {'type': 'reviewSubmissions', 'id': x['id'], 'attributes': {'canceled': True}}})
+            print('  -> CANCELING')
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--status', action='store_true', help='nur anzeigen')
@@ -111,12 +128,15 @@ def main():
     ap.add_argument('--build', help='Build-Nummer; leer = neuester VALID-Build dieser Version')
     ap.add_argument('--notes-file', help='JSON: {"de-DE": "…", "en-US": "…"}')
     ap.add_argument('--submit', action='store_true', help='wirklich schreiben und einreichen')
+    ap.add_argument('--zurueckziehen', action='store_true', help='laufende Einreichung zurückziehen (mit --submit echt)')
     args = ap.parse_args()
 
     tok = token()
     app_id = find_app(tok)
     if args.status:
         return status(tok, app_id)
+    if args.zurueckziehen:
+        return zurueckziehen(tok, app_id, args.submit)
     if not (args.version and args.notes_file):
         sys.exit('--version und --notes-file sind nötig (oder --status).')
     with open(args.notes_file, encoding='utf-8') as fh:

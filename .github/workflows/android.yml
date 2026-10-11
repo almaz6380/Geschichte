@@ -20,7 +20,7 @@ on:
       notes:
         description: 'Was-ist-neu-Text (de-DE, max. 500 Zeichen)'
         type: string
-        default: 'Großes Update: Duelle gegen Freunde, Tägliche Challenge, neue Spielmodi, sechs neue Epochen und über 1.000 Quizfragen.'
+        default: 'Großes Update: Duelle gegen Freunde, Tägliche Challenge, neue Spielmodi, sechs neue Epochen und über 1.000 Quizfragen. Die App startet jetzt in der Sprache deines Geräts.'
       version_code:
         description: 'versionCode (leer = Laufnummer). Nur setzen, wenn Play eine höhere Zahl verlangt.'
         type: string

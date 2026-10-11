@@ -59,6 +59,10 @@ UMFANG
 
 `geschichte,weltgeschichte,lernen,quiz,epochen,zeitleiste,antike,mittelalter,schule,abitur,wissen`
 
+## Versionshinweise (Release Notes) für 1.1.1
+
+1.1.0 wurde vor der Freigabe zurückgezogen; 1.1.1 trägt denselben Inhalt plus: Die App startet jetzt in der Sprache deines Geräts (sonst Englisch). Texte: `store/whatsnew-1.1.1.json`.
+
 ## Versionshinweise (Release Notes) für 1.1.0
 
 ```
