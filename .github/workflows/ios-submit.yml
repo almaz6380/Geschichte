@@ -1,0 +1,63 @@
+name: iOS einreichen
+
+# Schickt eine hochgeladene Version zur App-Prüfung (läuft auf Linux, die
+# App-Store-Connect-API braucht keinen Mac). Vorher muss der Build per
+# „iOS App" hochgeladen und von Apple verarbeitet sein.
+# submit=false ist ein reiner Probelauf; nur_status liest bloß.
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version, z. B. 1.1.0'
+        type: string
+        default: '1.1.0'
+      build:
+        description: 'Build-Nummer (leer = neuester verarbeiteter Build dieser Version)'
+        type: string
+        default: ''
+      notes_file:
+        description: '„Was ist neu"-Texte je Sprache'
+        type: string
+        default: 'store/whatsnew-1.1.0.json'
+      submit:
+        description: 'Wirklich einreichen? (aus = Probelauf)'
+        type: boolean
+        default: false
+      nur_status:
+        description: 'Nur nachsehen: Builds, Versionen, Einreichungen'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  einreichen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Abhängigkeiten
+        run: |
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install --quiet pyjwt cryptography
+      - name: App Store Connect
+        env:
+          ASC_KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+          ASC_ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+          ASC_KEY_P8: ${{ secrets.APPSTORE_PRIVATE_KEY }}
+          V: ${{ inputs.version }}
+          B: ${{ inputs.build }}
+          NOTES: ${{ inputs.notes_file }}
+          SUBMIT: ${{ inputs.submit }}
+          NUR_STATUS: ${{ inputs.nur_status }}
+        run: |
+          set -euo pipefail
+          PY="$RUNNER_TEMP/venv/bin/python"
+          if [ "$NUR_STATUS" = "true" ]; then
+            "$PY" scripts/asc-submit.py --status
+            exit 0
+          fi
+          ARGS=(--version "$V" --notes-file "$NOTES")
+          [ -n "$B" ] && ARGS+=(--build "$B")
+          [ "$SUBMIT" = "true" ] && ARGS+=(--submit)
+          "$PY" scripts/asc-submit.py "${ARGS[@]}"
