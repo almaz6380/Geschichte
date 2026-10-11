@@ -214,7 +214,7 @@ export function compareIds(ref, other, lang) {
     const r = refQuiz.get(q.id);
     if (!r) continue;
     if (q.answer !== r.answer) errors.push(`${lang}/quiz ${q.id}: andere richtige Antwort (${q.answer} statt ${r.answer})`);
-    if ((q.options || []).length !== (r.options || []).length) errors.push(`${lang}/quiz ${q.id}: andere Anzahl Antworten`);
+    if ((q.choices || []).length !== (r.choices || []).length) errors.push(`${lang}/quiz ${q.id}: andere Anzahl Antworten`);
     if (q.epochId !== r.epochId) errors.push(`${lang}/quiz ${q.id}: andere Epoche`);
   }
   return errors;

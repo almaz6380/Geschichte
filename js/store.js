@@ -66,7 +66,59 @@ export function saveQuizResult(mode, correct, total) {
   emit('quiz');
   return all[mode];
 }
-export function resetQuizProgress() { write('quiz.progress', {}); emit('quiz'); }
+export function resetQuizProgress() {
+  write('quiz.progress', {});
+  write('quiz.wrong', []);
+  write('games.best', {});
+  write('daily', null);
+  write('cards', {});
+  write('duels', []);
+  emit('quiz');
+}
+
+// Falsch beantwortete Quizfragen (IDs) zum Wiederholen; richtig beantwortete fallen heraus.
+const MAX_WRONG = 200;
+export function getWrongIds() { const v = read('quiz.wrong', []); return Array.isArray(v) ? v : []; }
+export function updateWrongIds(wrongIds = [], rightIds = []) {
+  const right = new Set(rightIds);
+  const list = getWrongIds().filter((id) => !right.has(id) && !wrongIds.includes(id));
+  list.push(...wrongIds);
+  write('quiz.wrong', list.slice(-MAX_WRONG));
+}
+
+// Bestwerte der Spiele: { [spiel]: { best, attempts } }
+export function getGameBest() { return read('games.best', {}) || {}; }
+export function saveGameScore(game, score) {
+  const all = getGameBest();
+  const old = all[game] || { best: 0, attempts: 0 };
+  all[game] = { best: Math.max(old.best, score), attempts: old.attempts + 1 };
+  write('games.best', all);
+  return all[game];
+}
+
+// Tägliche Challenge: { lastDate, streak, best, history }
+export function getDaily() { return read('daily', null); }
+export function setDaily(state) { write('daily', state); emit('daily'); }
+
+// Karteikarten: { [deck]: { [id]: { box, due } } }
+export function getCards(deck) { return (read('cards', {}) || {})[deck] || {}; }
+export function setCards(deck, state) {
+  const all = read('cards', {}) || {};
+  all[deck] = state;
+  write('cards', all);
+}
+
+// Zuletzt verwendeter Spielername (Duelle)
+export function getPlayerName() { return read('player.name', '') || ''; }
+export function setPlayerName(name) { write('player.name', name); }
+
+// Duelle per Link:zuletzt gespielte zuerst, höchstens 20.
+export function getDuels() { const v = read('duels', []); return Array.isArray(v) ? v : []; }
+export function saveDuelEntry(entry) {
+  const list = getDuels().filter((d) => d.seed !== entry.seed);
+  list.unshift(entry);
+  write('duels', list.slice(0, 20));
+}
 
 // Zeitleisten-Filter merken
 export function getTimelineFilters() { return read('timeline.filters', { epoch: '', region: '' }); }
