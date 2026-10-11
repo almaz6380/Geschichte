@@ -49,13 +49,13 @@ try {
   console.log('Startseite');
   await page.goto(BASE + '#/', { waitUntil: 'networkidle' });
   await page.waitForSelector('.epoch-tile');
-  check((await count(page, '.epoch-tile')) >= 14, 'Startseite zeigt ≥ 14 Epochen-Kacheln');
+  check((await count(page, '.epoch-tile')) >= 20, 'Startseite zeigt ≥ 20 Epochen-Kacheln');
   check((await count(page, '.region-tile')) === 7, 'Startseite zeigt 7 Regionen');
   await page.screenshot({ path: path.join(OUT, 'home-mobile.png') });
 
   console.log('Epochen');
   await page.goto(BASE + '#/epochen'); await page.waitForSelector('.epoch-tile');
-  check((await count(page, '.epoch-tile')) === 14, 'Epochenliste zeigt genau 14 Kacheln');
+  check((await count(page, '.epoch-tile')) === 20, 'Epochenliste zeigt genau 20 Kacheln');
 
   console.log('Epoche Rom (Gliederung)');
   await page.goto(BASE + '#/epoche/rom'); await page.waitForSelector('.hero h1');
@@ -152,7 +152,7 @@ try {
 
   console.log('Quiz');
   await page.goto(BASE + '#/quiz'); await page.waitForSelector('.quiz-mode-card');
-  check((await count(page, '.quiz-mode-card')) === 15, 'Quiz-Übersicht zeigt 15 Modi');
+  check((await count(page, '.quiz-mode-card')) === 21, 'Quiz-Übersicht zeigt 21 Modi');
   await page.goto(BASE + '#/quiz/rom'); await page.waitForSelector('.quiz-choice');
   check(!!(await page.$('.quiz-sub .badge')), 'Schwierigkeits-Badge sichtbar');
   for (let i = 0; i < 40; i++) {

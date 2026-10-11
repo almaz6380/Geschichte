@@ -168,6 +168,342 @@
     "difficulty": 3
   },
   {
+    "id": "q-afrikanische-reiche-01",
+    "epochId": "afrikanische-reiche",
+    "question": "Which king of Aksum converted to Christianity in the 4th century?",
+    "choices": [
+      "Ezana",
+      "Kaleb",
+      "Lalibela",
+      "Yekuno Amlak"
+    ],
+    "answer": 0,
+    "explanation": "Ezana adopted Christianity around 330 under the influence of Bishop Frumentius.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-afrikanische-reiche-02",
+    "epochId": "afrikanische-reiche",
+    "question": "Which ruler of the Mali Empire became famous for his gold-laden pilgrimage to Mecca in 1324?",
+    "choices": [
+      "Sundiata Keita",
+      "Sunni Ali",
+      "Mansa Musa",
+      "Osei Tutu"
+    ],
+    "answer": 2,
+    "explanation": "On his pilgrimage Mansa Musa gave away so much gold in Cairo that the price of gold there fell.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-afrikanische-reiche-03",
+    "epochId": "afrikanische-reiche",
+    "question": "Which city on the Niger, with the Sankore Mosque and tens of thousands of manuscripts, was a center of Islamic scholarship?",
+    "choices": [
+      "Kilwa",
+      "Timbuktu",
+      "Kumasi",
+      "Aksum"
+    ],
+    "answer": 1,
+    "explanation": "Under Mali and Songhai, Timbuktu was one of the most important cities of learning in Africa.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-afrikanische-reiche-04",
+    "epochId": "afrikanische-reiche",
+    "question": "Which ruler made the Zulu the strongest power in southeastern Africa from 1816?",
+    "choices": [
+      "Cetshwayo",
+      "Moshoeshoe",
+      "Mzilikazi",
+      "Shaka"
+    ],
+    "answer": 3,
+    "explanation": "Shaka took over the leadership of the Zulu in 1816 and built a powerful army of age regiments.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-afrikanische-reiche-05",
+    "epochId": "afrikanische-reiche",
+    "question": "In which present-day country are the rock-hewn churches of Lalibela located?",
+    "choices": [
+      "Ethiopia",
+      "Sudan",
+      "Egypt",
+      "Somalia"
+    ],
+    "answer": 0,
+    "explanation": "The rock-hewn churches of Lalibela lie in the Ethiopian highlands and are a UNESCO World Heritage Site.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-afrikanische-reiche-06",
+    "epochId": "afrikanische-reiche",
+    "question": "In which battle did a Moroccan army with firearms defeat the Songhai Empire in 1591?",
+    "choices": [
+      "Kirina",
+      "Tondibi",
+      "Feyiase",
+      "Mbwila"
+    ],
+    "answer": 1,
+    "explanation": "At Tondibi near Gao the army of Askia Ishaq II was defeated by the Moroccan musketeers.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-afrikanische-reiche-07",
+    "epochId": "afrikanische-reiche",
+    "question": "Which king of Kongo complained about the slave trade in letters to the king of Portugal in 1526?",
+    "choices": [
+      "Nzinga a Nkuwu",
+      "António I",
+      "Afonso I",
+      "Nyatsimba Mutota"
+    ],
+    "answer": 2,
+    "explanation": "Afonso I wrote to João III that traders were carrying off free subjects and nobles.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-afrikanische-reiche-08",
+    "epochId": "afrikanische-reiche",
+    "question": "Which female ruler resisted the Portuguese for decades in present-day Angola in the 17th century?",
+    "choices": [
+      "Ranavalona I",
+      "Nana Asma'u",
+      "Hatshepsut",
+      "Njinga"
+    ],
+    "answer": 3,
+    "explanation": "Njinga ruled Ndongo and Matamba and combined war and diplomacy against the colonial power Portugal.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-afrikanische-reiche-09",
+    "epochId": "afrikanische-reiche",
+    "question": "What is the Golden Stool?",
+    "choices": [
+      "The sacred symbol of the unity of the Asante Empire",
+      "The throne of the kings of Benin",
+      "A relic in the churches of Lalibela",
+      "An honorary title of the sultans of Kilwa"
+    ],
+    "answer": 0,
+    "explanation": "According to tradition, since Osei Tutu the Golden Stool has embodied the soul and unity of the Asante.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-afrikanische-reiche-10",
+    "epochId": "afrikanische-reiche",
+    "question": "What was the name of the treaty that the Nubian kingdom of Makuria concluded with Arab Egypt in 652?",
+    "choices": [
+      "Kanun",
+      "Baqt",
+      "Hijra",
+      "Ribat"
+    ],
+    "answer": 1,
+    "explanation": "The Baqt regulated peace and the exchange of goods and secured Makuria about 600 years of independence.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-afrikanische-reiche-11",
+    "epochId": "afrikanische-reiche",
+    "question": "Which scholar called for the jihad in 1804 from which the Sokoto Caliphate emerged?",
+    "choices": [
+      "Ahmad Baba",
+      "Umar Tall",
+      "Usman dan Fodio",
+      "Samori Touré"
+    ],
+    "answer": 2,
+    "explanation": "Usman dan Fodio and his followers overthrew the Hausa kings; in 1809 Sokoto became the capital of the caliphate.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-afrikanische-reiche-12",
+    "epochId": "afrikanische-reiche",
+    "question": "Which Merina king concluded a treaty with Britain in 1817 and banned the export of slaves?",
+    "choices": [
+      "Andrianampoinimerina",
+      "Ranavalona I",
+      "Radama II",
+      "Radama I"
+    ],
+    "answer": 3,
+    "explanation": "In return for renouncing the slave export, Radama I received British weapons and recognition as king of Madagascar.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-01",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "Which culture is regarded as the \"mother culture\" of Mesoamerica?",
+    "choices": [
+      "The Olmecs",
+      "The Aztecs",
+      "The Toltecs",
+      "The Mixtecs"
+    ],
+    "answer": 0,
+    "explanation": "From about 1200 BC the Olmecs created the first centers of Mesoamerica on the Gulf coast and shaped later cultures.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-02",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "What was the name of the Aztec capital that lay on islands in Lake Texcoco?",
+    "choices": [
+      "Teotihuacan",
+      "Tenochtitlan",
+      "Tula",
+      "Cusco"
+    ],
+    "answer": 1,
+    "explanation": "The Mexica founded Tenochtitlan in 1325; Mexico City stands on its site today.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-03",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "What were quipus used for in the Inca empire?",
+    "choices": [
+      "As musical instruments at festivals",
+      "As weapons of the warriors",
+      "For recording numbers and information with knots",
+      "As bridges across gorges"
+    ],
+    "answer": 2,
+    "explanation": "Quipus were knotted cords with which officials recorded inhabitants, levies and stores.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-04",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "In which present-day country is the Inca site of Machu Picchu located?",
+    "choices": [
+      "Bolivia",
+      "Ecuador",
+      "Chile",
+      "Peru"
+    ],
+    "answer": 3,
+    "explanation": "Machu Picchu lies in the Andes of Peru above the Urubamba Valley, not far from Cusco.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-05",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "Which three cities formed the Aztec Triple Alliance in 1428?",
+    "choices": [
+      "Tenochtitlan, Texcoco and Tlacopan",
+      "Tenochtitlan, Tula and Teotihuacan",
+      "Texcoco, Tlaxcala and Cholula",
+      "Azcapotzalco, Tlacopan and Tula"
+    ],
+    "answer": 0,
+    "explanation": "After the victory over the Tepanecs of Azcapotzalco, Tenochtitlan, Texcoco and Tlacopan joined forces.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-06",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "Which Maya city did King Pakal rule from 615 to 683?",
+    "choices": [
+      "Tikal",
+      "Palenque",
+      "Copán",
+      "Calakmul"
+    ],
+    "answer": 1,
+    "explanation": "Pakal had the Temple of the Inscriptions built at Palenque, where his tomb was found in 1952.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-07",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "Which settlement on the Mississippi, with Monks Mound, was the largest north of Mexico around 1100?",
+    "choices": [
+      "Mesa Verde",
+      "Poverty Point",
+      "Cahokia",
+      "Pueblo Bonito"
+    ],
+    "answer": 2,
+    "explanation": "Cahokia in present-day Illinois was the center of the Mississippian culture and probably had 10,000 to 20,000 inhabitants.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-08",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "Which culture laid out huge lines and animal figures in the desert of southern Peru?",
+    "choices": [
+      "The Moche",
+      "The Chimú",
+      "The Wari",
+      "The Nazca"
+    ],
+    "answer": 3,
+    "explanation": "The Nazca created the geoglyphs by removing dark stones and exposing the light ground beneath.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-09",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "What does the confederacy of the Mohawk, Oneida, Onondaga, Cayuga and Seneca call itself?",
+    "choices": [
+      "Haudenosaunee",
+      "Anishinaabe",
+      "Lakota",
+      "Taíno"
+    ],
+    "answer": 0,
+    "explanation": "Haudenosaunee means \"people of the longhouse\"; Europeans called the confederacy the Iroquois.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-10",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "From which great city came the influence that led to a change of dynasty at Tikal in 378?",
+    "choices": [
+      "Monte Albán",
+      "Teotihuacan",
+      "Tula",
+      "Chichén Itzá"
+    ],
+    "answer": 1,
+    "explanation": "With the arrival of Siyaj K'ahk', a line of rulers connected with Teotihuacan came to power at Tikal.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-11",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "What was the name of the adobe-built capital of the Chimú kingdom?",
+    "choices": [
+      "Tiwanaku",
+      "Cusco",
+      "Chan Chan",
+      "Pikillacta"
+    ],
+    "answer": 2,
+    "explanation": "Chan Chan near Trujillo was the largest adobe city in the Americas until the Inca conquered the kingdom around 1470.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-amerika-vorkolumbisch-12",
+    "epochId": "amerika-vorkolumbisch",
+    "question": "Which Mesoamerican system of reckoning time counts the days since a starting date in 3114 BC?",
+    "choices": [
+      "The Tzolk'in",
+      "The Haab'",
+      "The Calendar Round",
+      "The Long Count"
+    ],
+    "answer": 3,
+    "explanation": "The Long Count allowed exact dates over centuries; the Tzolk'in and the Haab', by contrast, are recurring cycles.",
+    "difficulty": 3
+  },
+  {
     "id": "q-antike-griechenland-01",
     "epochId": "antike-griechenland",
     "question": "In which city did the first democracy emerge in the 6th and 5th centuries BC?",
@@ -333,6 +669,174 @@
     ],
     "answer": 1,
     "explanation": "Archimedes had supported the defense of his home city with war machines; a Roman soldier killed him against the orders of Marcellus.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asiatische-grossreiche-01",
+    "epochId": "asiatische-grossreiche",
+    "question": "What title did the Mongol Temüjin receive at an assembly of the tribes in 1206?",
+    "choices": [
+      "Genghis Khan",
+      "Great Mughal",
+      "Shah",
+      "Shogun"
+    ],
+    "answer": 0,
+    "explanation": "In 1206 the Mongol tribes proclaimed Temüjin Genghis Khan, the universal ruler.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asiatische-grossreiche-02",
+    "epochId": "asiatische-grossreiche",
+    "question": "Which Mughal emperor had the Taj Mahal built as a tomb for his wife?",
+    "choices": [
+      "Akbar",
+      "Babur",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "answer": 2,
+    "explanation": "From 1632 Shah Jahan had the Taj Mahal built in Agra for his late wife Mumtaz Mahal.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asiatische-grossreiche-03",
+    "epochId": "asiatische-grossreiche",
+    "question": "In which city is the Forbidden City of the Ming and Qing emperors located?",
+    "choices": [
+      "Nanjing",
+      "Xi'an",
+      "Hangzhou",
+      "Beijing"
+    ],
+    "answer": 3,
+    "explanation": "The Yongle emperor had the Forbidden City built in Beijing from 1406 to 1420; the city became the capital in 1421.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asiatische-grossreiche-04",
+    "epochId": "asiatische-grossreiche",
+    "question": "Which script did King Sejong have developed in Korea in the 15th century?",
+    "choices": [
+      "Katakana",
+      "Hangeul",
+      "Pinyin",
+      "Devanagari"
+    ],
+    "answer": 1,
+    "explanation": "Sejong had the Hangeul alphabet developed in 1443 and promulgated in 1446.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-asiatische-grossreiche-05",
+    "epochId": "asiatische-grossreiche",
+    "question": "Which admiral led seven Chinese fleets as far as East Africa between 1405 and 1433?",
+    "choices": [
+      "Yi Sun-sin",
+      "Zheng He",
+      "Wu Sangui",
+      "Qi Jiguang"
+    ],
+    "answer": 1,
+    "explanation": "Zheng He commanded seven fleet voyages across the Indian Ocean on behalf of the Ming.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asiatische-grossreiche-06",
+    "epochId": "asiatische-grossreiche",
+    "question": "Through which battle in 1600 did Tokugawa Ieyasu secure supremacy in Japan?",
+    "choices": [
+      "Sekigahara",
+      "Nagashino",
+      "Okehazama",
+      "Dan-no-ura"
+    ],
+    "answer": 0,
+    "explanation": "With his victory at Sekigahara in 1600, Ieyasu laid the foundation for the Tokugawa shogunate.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asiatische-grossreiche-07",
+    "epochId": "asiatische-grossreiche",
+    "question": "Which branch of faith did Shah Ismail I make the state religion of Persia after 1501?",
+    "choices": [
+      "Sunni Islam",
+      "Zoroastrianism",
+      "Twelver Shiism",
+      "Sikhism"
+    ],
+    "answer": 2,
+    "explanation": "Ismail I made the Twelver branch of Shiism the state religion, which still shapes Iran today.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asiatische-grossreiche-08",
+    "epochId": "asiatische-grossreiche",
+    "question": "What did the Treaty of Nerchinsk of 1689 settle?",
+    "choices": [
+      "The closing of Japan to Europe",
+      "The end of the Imjin War in Korea",
+      "The partition of the Mughal Empire",
+      "The border between Russia and Qing China"
+    ],
+    "answer": 3,
+    "explanation": "At Nerchinsk, Russia and China fixed their border on the Amur by treaty for the first time.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asiatische-grossreiche-09",
+    "epochId": "asiatische-grossreiche",
+    "question": "Which city did Shah Abbas I make the Safavid capital in 1598?",
+    "choices": [
+      "Isfahan",
+      "Tabriz",
+      "Baghdad",
+      "Samarkand"
+    ],
+    "answer": 0,
+    "explanation": "Abbas I moved the capital to Isfahan in 1598 and had it developed lavishly.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asiatische-grossreiche-10",
+    "epochId": "asiatische-grossreiche",
+    "question": "Who founded the Mughal Empire in 1526 with his victory at the Battle of Panipat?",
+    "choices": [
+      "Timur",
+      "Akbar",
+      "Ibrahim Lodi",
+      "Babur"
+    ],
+    "answer": 3,
+    "explanation": "At Panipat Babur defeated Ibrahim Lodi, the last Sultan of Delhi, and founded the Mughal Empire.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-asiatische-grossreiche-11",
+    "epochId": "asiatische-grossreiche",
+    "question": "Which Hindu empire with its capital near Hampi dominated southern India from the 14th century?",
+    "choices": [
+      "The Gupta Empire",
+      "Vijayanagara",
+      "The Delhi Sultanate",
+      "The Maurya Empire"
+    ],
+    "answer": 1,
+    "explanation": "Vijayanagara was founded around 1336 and dominated southern India until its defeat at Talikota in 1565.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-asiatische-grossreiche-12",
+    "epochId": "asiatische-grossreiche",
+    "question": "What contributed decisively to the failure of the Mongol invasion of Japan in 1281?",
+    "choices": [
+      "A plague epidemic in the Mongol army",
+      "A civil war in China",
+      "A typhoon that destroyed much of the fleet",
+      "An alliance between Japan and Korea"
+    ],
+    "answer": 2,
+    "explanation": "In 1281 a typhoon destroyed much of the invasion fleet; the Japanese called it kamikaze, the divine wind.",
     "difficulty": 2
   },
   {
@@ -826,6 +1330,174 @@
     "difficulty": 3
   },
   {
+    "id": "q-gegenwart-01",
+    "epochId": "gegenwart",
+    "question": "Which treaty founded the European Union?",
+    "choices": [
+      "The Treaty of Maastricht",
+      "The Treaties of Rome",
+      "The Treaty of Lisbon",
+      "The Schengen Agreement"
+    ],
+    "answer": 0,
+    "explanation": "The Treaty of Maastricht, signed in 1992, came into force in 1993 and created the European Union.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-gegenwart-02",
+    "epochId": "gegenwart",
+    "question": "Which device did Steve Jobs present in January 2007?",
+    "choices": [
+      "The iPod",
+      "The iPhone",
+      "The Macintosh",
+      "The iPad"
+    ],
+    "answer": 1,
+    "explanation": "The iPhone came onto the market in 2007 and launched the worldwide triumph of the smartphone.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-gegenwart-03",
+    "epochId": "gegenwart",
+    "question": "To what level is global warming to be limited under the Paris Climate Agreement?",
+    "choices": [
+      "To below 3 degrees",
+      "To below 4 degrees",
+      "To well below 2 degrees, if possible 1.5 degrees",
+      "To below 2.5 degrees"
+    ],
+    "answer": 2,
+    "explanation": "The 2015 agreement aims for well below two degrees and if possible 1.5 degrees compared with pre-industrial times.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-gegenwart-04",
+    "epochId": "gegenwart",
+    "question": "Which British colony was handed over to China in 1997?",
+    "choices": [
+      "Singapore",
+      "Macau",
+      "Taiwan",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation": "On 1 July 1997 Hong Kong passed to China under the principle of one country, two systems.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-gegenwart-05",
+    "epochId": "gegenwart",
+    "question": "In which year did a majority of the British vote to leave the EU?",
+    "choices": [
+      "2020",
+      "2016",
+      "2012",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "In the referendum of 23 June 2016, 51.9 percent voted for Brexit; the departure took place in 2020.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-gegenwart-06",
+    "epochId": "gegenwart",
+    "question": "Which state became independent in 2011 as Africa's youngest state?",
+    "choices": [
+      "Eritrea",
+      "Namibia",
+      "South Sudan",
+      "Zimbabwe"
+    ],
+    "answer": 2,
+    "explanation": "After a referendum South Sudan broke away from Sudan on 9 July 2011.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-gegenwart-07",
+    "epochId": "gegenwart",
+    "question": "In which town did Bosnian Serb troops murder around 8,000 Muslim men and boys in July 1995?",
+    "choices": [
+      "Sarajevo",
+      "Mostar",
+      "Vukovar",
+      "Srebrenica"
+    ],
+    "answer": 3,
+    "explanation": "The UN tribunal in The Hague classified the Srebrenica massacre as genocide.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-gegenwart-08",
+    "epochId": "gegenwart",
+    "question": "Which international organization did China join in December 2001?",
+    "choices": [
+      "The World Trade Organization (WTO)",
+      "NATO",
+      "OPEC",
+      "The European Union"
+    ],
+    "answer": 0,
+    "explanation": "Joining the WTO opened the world markets to China and made the country the workshop of the world.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-gegenwart-09",
+    "epochId": "gegenwart",
+    "question": "What does Malala Yousafzai campaign for above all?",
+    "choices": [
+      "Freedom of the press",
+      "Animal welfare",
+      "Education for girls",
+      "Nuclear disarmament"
+    ],
+    "answer": 2,
+    "explanation": "Malala fights for girls' right to schooling and received the Nobel Peace Prize for it in 2014.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-gegenwart-10",
+    "epochId": "gegenwart",
+    "question": "Which Australian prime minister apologized to the Stolen Generations in 2008?",
+    "choices": [
+      "John Howard",
+      "Julia Gillard",
+      "Malcolm Turnbull",
+      "Kevin Rudd"
+    ],
+    "answer": 3,
+    "explanation": "On 13 February 2008 Kevin Rudd apologized in parliament for the removal of Indigenous children.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-gegenwart-11",
+    "epochId": "gegenwart",
+    "question": "Which Ukrainian peninsula did Russia annex in 2014?",
+    "choices": [
+      "Crimea",
+      "The Kola Peninsula",
+      "Kamchatka",
+      "The Yamal Peninsula"
+    ],
+    "answer": 0,
+    "explanation": "Russia occupied Crimea in February and March 2014 and incorporated it after an unrecognized referendum.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-gegenwart-12",
+    "epochId": "gegenwart",
+    "question": "Which organization replaced the Organization of African Unity in 2002?",
+    "choices": [
+      "The Economic Community of West African States",
+      "The African Union",
+      "The Arab League",
+      "The Southern African Development Community"
+    ],
+    "answer": 1,
+    "explanation": "The African Union was founded in Durban in July 2002 and is headquartered in Addis Ababa.",
+    "difficulty": 3
+  },
+  {
     "id": "q-industrialisierung-imperialismus-01",
     "epochId": "industrialisierung-imperialismus",
     "question": "Which invention is regarded as the most important driving force of the Industrial Revolution?",
@@ -1191,7 +1863,7 @@
   },
   {
     "id": "q-kalter-krieg-gegenwart-03",
-    "epochId": "kalter-krieg-gegenwart",
+    "epochId": "gegenwart",
     "question": "Who became president in South Africa's first free elections in 1994?",
     "choices": [
       "Desmond Tutu",
@@ -1233,7 +1905,7 @@
   },
   {
     "id": "q-kalter-krieg-gegenwart-06",
-    "epochId": "kalter-krieg-gegenwart",
+    "epochId": "gegenwart",
     "question": "Which event triggered the global financial crisis in 2008?",
     "choices": [
       "China's accession to the World Trade Organization",
@@ -1328,6 +2000,174 @@
     "answer": 1,
     "explanation": "The USA withdrew in 1973; on April 30, 1975 North Vietnamese troops took Saigon and united the country under communist rule.",
     "difficulty": 3
+  },
+  {
+    "id": "q-lateinamerika-01",
+    "epochId": "lateinamerika",
+    "question": "Which treaty divided the non-European world between Spain and Portugal in 1494?",
+    "choices": [
+      "The Treaty of Tordesillas",
+      "The Peace of Utrecht",
+      "The Treaty of Ancón",
+      "The Peace of Westphalia"
+    ],
+    "answer": 0,
+    "explanation": "In the Treaty of Tordesillas of 1494 Spain and Portugal fixed a dividing line in the Atlantic; that is why Brazil fell to Portugal.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-lateinamerika-02",
+    "epochId": "lateinamerika",
+    "question": "Which woman interpreted for Hernán Cortés during the conquest of Mexico?",
+    "choices": [
+      "Sor Juana Inés de la Cruz",
+      "Micaela Bastidas",
+      "Malinche",
+      "Isabel of Brazil"
+    ],
+    "answer": 2,
+    "explanation": "Malinche spoke Nahuatl and a Maya language and became indispensable to Cortés as interpreter and adviser.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-lateinamerika-03",
+    "epochId": "lateinamerika",
+    "question": "In which present-day country is the silver city of Potosí located?",
+    "choices": [
+      "Peru",
+      "Bolivia",
+      "Chile",
+      "Mexico"
+    ],
+    "answer": 1,
+    "explanation": "Potosí lies in the highlands of today's Bolivia, which at that time belonged to the Viceroyalty of Peru.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-lateinamerika-04",
+    "epochId": "lateinamerika",
+    "question": "Who defended the rights of the Indigenous peoples in the Valladolid debate of 1550/51?",
+    "choices": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Antonio de Mendoza",
+      "Bartolomé de Las Casas"
+    ],
+    "answer": 3,
+    "explanation": "At Valladolid the Dominican Bartolomé de Las Casas argued against Juan Ginés de Sepúlveda for the human dignity of the Indigenous peoples.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-lateinamerika-05",
+    "epochId": "lateinamerika",
+    "question": "What was Palmares in the 17th century?",
+    "choices": [
+      "A silver mine in the Andes",
+      "A Jesuit reduction on the Paraná",
+      "The largest community of escaped enslaved people in Brazil",
+      "A port of the Manila galleon"
+    ],
+    "answer": 2,
+    "explanation": "Palmares was a quilombo in north-eastern Brazil that held out against attacks for almost a century.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-lateinamerika-06",
+    "epochId": "lateinamerika",
+    "question": "Which Mexican nun defended the right of women to education in a famous text of 1691?",
+    "choices": [
+      "Sor Juana Inés de la Cruz",
+      "Teresa of Ávila",
+      "Malinche",
+      "Micaela Bastidas"
+    ],
+    "answer": 0,
+    "explanation": "In her “Reply to Sor Filotea” Sor Juana Inés de la Cruz explained why women should be allowed to study.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-lateinamerika-07",
+    "epochId": "lateinamerika",
+    "question": "Which leader of an Indigenous uprising invoked the Incas and was executed in Cusco in 1781?",
+    "choices": [
+      "Atahualpa",
+      "Túpac Amaru II",
+      "Pachacuti",
+      "Zumbi"
+    ],
+    "answer": 1,
+    "explanation": "José Gabriel Condorcanqui called himself Túpac Amaru II and led the great uprising in the Andes in 1780/81.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-lateinamerika-08",
+    "epochId": "lateinamerika",
+    "question": "Who declared the independence of Brazil in 1822 and became its first emperor?",
+    "choices": [
+      "John VI",
+      "Pedro I",
+      "Pedro II",
+      "José de San Martín"
+    ],
+    "answer": 1,
+    "explanation": "Crown Prince Pedro proclaimed independence on 7 September 1822 and became emperor as Pedro I.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-lateinamerika-09",
+    "epochId": "lateinamerika",
+    "question": "Which treaty ended the war between Mexico and the United States in 1848?",
+    "choices": [
+      "Treaty of Ancón",
+      "Pact of Zanjón",
+      "Plan of Iguala",
+      "Treaty of Guadalupe Hidalgo"
+    ],
+    "answer": 3,
+    "explanation": "In the Treaty of Guadalupe Hidalgo of 1848 Mexico ceded California and other northern territories to the United States.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-lateinamerika-10",
+    "epochId": "lateinamerika",
+    "question": "To which Indigenous people did the Mexican president Benito Juárez belong?",
+    "choices": [
+      "Maya",
+      "Nahua",
+      "Zapotec",
+      "Quechua"
+    ],
+    "answer": 2,
+    "explanation": "Juárez grew up in a Zapotec village in Oaxaca and only learned Spanish as a youth.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-lateinamerika-11",
+    "epochId": "lateinamerika",
+    "question": "Which states did Paraguay fight in the war of 1864 to 1870?",
+    "choices": [
+      "Chile, Peru and Bolivia",
+      "Spain, France and Great Britain",
+      "Colombia, Venezuela and Ecuador",
+      "Brazil, Argentina and Uruguay"
+    ],
+    "answer": 3,
+    "explanation": "Paraguay faced the Triple Alliance of Brazil, Argentina and Uruguay and lost a large part of its population.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-lateinamerika-12",
+    "epochId": "lateinamerika",
+    "question": "What is the name of the law with which Brazil completely abolished slavery in 1888?",
+    "choices": [
+      "Lei Áurea (Golden Law)",
+      "Law of the Free Womb",
+      "Sexagenarian Law",
+      "Eusébio de Queirós Law"
+    ],
+    "answer": 0,
+    "explanation": "Princess Isabel signed the Lei Áurea on 13 May 1888; the earlier laws had only restricted slavery.",
+    "difficulty": 2
   },
   {
     "id": "q-mittelalter-01",
@@ -1495,6 +2335,174 @@
     ],
     "answer": 2,
     "explanation": "The rulers of Great Zimbabwe controlled gold deposits and herds of cattle and traded through ports such as Kilwa and Sofala as far as India and China.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-osmanisches-reich-01",
+    "epochId": "osmanisches-reich",
+    "question": "In which year did the Ottomans conquer Constantinople?",
+    "choices": [
+      "1389",
+      "1453",
+      "1529",
+      "1683"
+    ],
+    "answer": 1,
+    "explanation": "Sultan Mehmed II conquered Constantinople on 29 May 1453 and made the city, as Istanbul, his capital.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-osmanisches-reich-02",
+    "epochId": "osmanisches-reich",
+    "question": "Which sultan bore the epithet \"the Magnificent\" and besieged Vienna in 1529?",
+    "choices": [
+      "Mehmed II",
+      "Selim I",
+      "Suleiman I",
+      "Mahmud II"
+    ],
+    "answer": 2,
+    "explanation": "Suleiman I, called \"the Magnificent\" in Europe, reigned from 1520 to 1566 and besieged Vienna in vain in 1529.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-osmanisches-reich-03",
+    "epochId": "osmanisches-reich",
+    "question": "What was the name of the sultans' standing infantry corps that Mahmud II dissolved in 1826?",
+    "choices": [
+      "Janissaries",
+      "Mamluks",
+      "Samurai",
+      "Praetorians"
+    ],
+    "answer": 0,
+    "explanation": "The Janissaries revolted against a new army in 1826 and were then dissolved by Mahmud II.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-osmanisches-reich-04",
+    "epochId": "osmanisches-reich",
+    "question": "Which city did Orhan conquer in 1326 and make the first capital of the Ottomans?",
+    "choices": [
+      "Konya",
+      "Edirne",
+      "Ankara",
+      "Bursa"
+    ],
+    "answer": 3,
+    "explanation": "Orhan conquered Byzantine Bursa in 1326; only later did Edirne and then Istanbul become the capital.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-osmanisches-reich-05",
+    "epochId": "osmanisches-reich",
+    "question": "Who defeated Sultan Bayezid I at the Battle of Ankara in 1402?",
+    "choices": [
+      "Timur",
+      "Genghis Khan",
+      "Shah Ismail I",
+      "John Hunyadi"
+    ],
+    "answer": 0,
+    "explanation": "Timur defeated and captured Bayezid I near Ankara; an eleven-year struggle for the throne among the Ottomans followed.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-osmanisches-reich-06",
+    "epochId": "osmanisches-reich",
+    "question": "Which country did Selim I conquer in 1517, ending the rule of the Mamluks there?",
+    "choices": [
+      "Persia",
+      "Egypt",
+      "Hungary",
+      "Morocco"
+    ],
+    "answer": 1,
+    "explanation": "After the victory at Ridaniya outside Cairo in 1517, Egypt became an Ottoman province.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-osmanisches-reich-07",
+    "epochId": "osmanisches-reich",
+    "question": "Who founded the first press for books in Ottoman Turkish in 1727?",
+    "choices": [
+      "Evliya Çelebi",
+      "Mimar Sinan",
+      "İbrahim Müteferrika",
+      "Midhat Pasha"
+    ],
+    "answer": 2,
+    "explanation": "İbrahim Müteferrika received permission to print in 1727; his first book appeared in 1729.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-osmanisches-reich-08",
+    "epochId": "osmanisches-reich",
+    "question": "Which master builder erected the Süleymaniye Mosque in Istanbul?",
+    "choices": [
+      "Filippo Brunelleschi",
+      "Isidore of Miletus",
+      "Andrea Palladio",
+      "Mimar Sinan"
+    ],
+    "answer": 3,
+    "explanation": "The court architect Sinan built the Süleymaniye Mosque from 1550 to 1557.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-osmanisches-reich-09",
+    "epochId": "osmanisches-reich",
+    "question": "What did the Edict of Gülhane of 1839 promise, among other things?",
+    "choices": [
+      "Equality of all subjects before the law regardless of religion",
+      "The abolition of the sultanate",
+      "The introduction of the Latin alphabet",
+      "The declaration of war on Russia"
+    ],
+    "answer": 0,
+    "explanation": "The edict opened the Tanzimat reforms and promised security of life and property as well as legal equality for Muslims and non-Muslims.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-osmanisches-reich-10",
+    "epochId": "osmanisches-reich",
+    "question": "In which peace treaty of 1699 did the Ottoman Empire cede Hungary to the Habsburgs?",
+    "choices": [
+      "Treaty of Passarowitz",
+      "Treaty of Karlowitz",
+      "Treaty of Küçük Kaynarca",
+      "Treaty of Sèvres"
+    ],
+    "answer": 1,
+    "explanation": "In the Treaty of Karlowitz in 1699 the Habsburgs received almost all of Hungary and Transylvania.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-osmanisches-reich-11",
+    "epochId": "osmanisches-reich",
+    "question": "Which provision did the Treaty of Küçük Kaynarca of 1774 contain?",
+    "choices": [
+      "The independence of Greece",
+      "The cession of Egypt to France",
+      "The independence of the Crimean Khanate from the Ottomans",
+      "The return of Hungary to the Ottomans"
+    ],
+    "answer": 2,
+    "explanation": "The Crimean Khanate became independent in 1774 and was annexed by Russia in 1783.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-osmanisches-reich-12",
+    "epochId": "osmanisches-reich",
+    "question": "Which sultan's mother led the regency for Murad IV from 1623 and later for her grandson Mehmed IV?",
+    "choices": [
+      "Hürrem Sultan",
+      "Mihrimah Sultan",
+      "Nurbanu Sultan",
+      "Kösem Sultan"
+    ],
+    "answer": 3,
+    "explanation": "As valide sultan, Kösem Sultan shaped politics for almost three decades and was murdered in 1651.",
     "difficulty": 3
   },
   {

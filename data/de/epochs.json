@@ -173,9 +173,97 @@
     ]
   },
   {
+    "id": "amerika-vorkolumbisch",
+    "title": "Das vorkolumbische Amerika",
+    "order": 3,
+    "start": -1500,
+    "end": 1533,
+    "color": "#0d9488",
+    "regions": [
+      "amerika"
+    ],
+    "summary": "Lange bevor Europäer den Atlantik überquerten, schufen die Völker Amerikas ohne Kontakt zur übrigen Welt Städte, Reiche, Schriften und Kalender – von den Olmeken und Maya über die Andenkulturen bis zu den Erdhügelstädten Nordamerikas, den Azteken und den Inka.",
+    "overview": [
+      "Nach der Besiedlung des Doppelkontinents in der Eiszeit entwickelten die Menschen Amerikas unabhängig von Asien, Afrika und Europa eigene Formen von Landwirtschaft und Zivilisation. In Mexiko wurden Mais, Bohnen und Kürbis gezüchtet, in den Anden Kartoffeln, Quinoa und Baumwolle, und man hielt Lamas und Alpakas. Um 1200 v. Chr. errichteten die Olmeken an der Golfküste Mexikos die ersten Zeremonialzentren Mesoamerikas, und in den Anden wurde Chavín de Huántar ab etwa 900 v. Chr. zu einem weit ausstrahlenden Kultort. Zur gleichen Zeit bauten Jäger und Sammler in Poverty Point am unteren Mississippi gewaltige Erdwälle.",
+      "In Mesoamerika entstanden in den folgenden Jahrhunderten Städte mit Pyramiden, Plätzen und Ballspielplätzen. Die Zapoteken gründeten um 500 v. Chr. Monte Albán, die Maya bauten im Tiefland von Guatemala und Yucatán Stadtstaaten wie El Mirador, Tikal, Calakmul und Palenque und entwickelten eine vollständige Schrift sowie einen hochgenauen Kalender. Teotihuacan im Hochtal von Mexiko war mit vielleicht 100.000 Einwohnern um 500 n. Chr. eine der größten Städte der Welt. Im 9. Jahrhundert verfielen die klassischen Maya-Städte im Süden, während im Norden Chichén Itzá und in Zentralmexiko Tula, die Stadt der Tolteken, aufstiegen.",
+      "In den Anden folgten auf Chavín regionale Kulturen wie Paracas und Nazca an der Südküste und die Moche an der Nordküste Perus, die für Bewässerungskanäle, Goldschmiedekunst und Keramik berühmt sind. Zwischen 500 und 1000 n. Chr. beherrschten Tiwanaku am Titicacasee und das Reich der Wari große Teile des Hochlands, später das Königreich Chimú mit seiner Lehmziegelhauptstadt Chan Chan die Küste. Ab etwa 1438 machten Pachacútec und seine Nachfolger das kleine Reich von Cusco zum Inkareich Tawantinsuyu, das von Ecuador bis Chile reichte und durch Straßen, Vorratslager und Knotenschnüre verwaltet wurde. Mit wohl rund zehn Millionen Untertanen war es um 1500 das größte Reich Amerikas.",
+      "Auch Nord- und Südamerika abseits der großen Reiche waren dicht besiedelt und vielfältig. Die Hopewell-Kultur im Ohio-Tal unterhielt ein Austauschnetz über den halben Kontinent, Cahokia am Mississippi war um 1100 die größte Stadt nördlich von Mexiko, und die Ancestral Puebloans errichteten im Chaco Canyon vielstöckige Großbauten. Im Nordosten schlossen sich fünf Völker zum Bund der Haudenosaunee zusammen, in der Karibik lebten die Taíno in Häuptlingstümern, und im Amazonasgebiet zeugen Erdhügel, Dammwege und fruchtbare Schwarzerde von großen sesshaften Gesellschaften. Diese Kulturen hinterließen keine Schrift, doch Archäologie und mündliche Überlieferungen ihrer Nachfahren erschließen ihre Geschichte.",
+      "1428 schlossen Tenochtitlan, Texcoco und Tlacopan den aztekischen Dreibund, der bald große Teile Mexikos tributpflichtig machte. Um 1500 lebten in Amerika nach heutigen Schätzungen viele Millionen Menschen, die meisten in Mesoamerika und den Anden. Mit der Ankunft des Kolumbus 1492 begann der Kontakt mit Europa, und eingeschleppte Krankheiten breiteten sich oft schneller aus als die Eroberer selbst. Die Zerstörung des Aztekenreiches 1521 und die Gefangennahme des Inka Atahualpa 1532 beendeten die Epoche der unabhängigen Großreiche, nicht aber die Völker, Sprachen und Traditionen Amerikas."
+    ],
+    "consequences": [
+      "Pflanzen, die in Amerika gezüchtet wurden – Mais, Kartoffeln, Tomaten, Bohnen, Kürbis, Paprika, Kakao und Tabak –, veränderten nach 1492 die Ernährung und Landwirtschaft der ganzen Welt.",
+      "Die Maya-Schrift ist eines der wenigen unabhängig entstandenen Schriftsysteme der Menschheit; ihre Entzifferung im 20. Jahrhundert hat die Geschichte der Maya-Könige wieder lesbar gemacht.",
+      "Millionen Menschen sprechen heute Maya-Sprachen, Quechua, Aymara, Nahuatl und andere indigene Sprachen; Feste, Handwerk, Landwirtschaft und Glaubensvorstellungen bewahren viel vom vorkolumbischen Erbe.",
+      "Ruinenstätten wie Teotihuacan, Tikal, Chichén Itzá, Machu Picchu, Cahokia und der Chaco Canyon gehören zum Welterbe der UNESCO und prägen das Selbstbild Mexikos, Perus und anderer Staaten.",
+      "Die Ordnung des Haudenosaunee-Bundes mit Ratsversammlung und dem Mitspracherecht der Clanmütter wird bis heute als frühes Beispiel einer föderalen Verfassung in Amerika diskutiert.",
+      "Neue Methoden wie Laserscans aus der Luft zeigen, dass auch Regenwälder in Mittelamerika und Amazonien dicht besiedelt waren, und verändern das Bild vom „unberührten“ Amerika vor 1492."
+    ],
+    "tags": [
+      "mesoamerika",
+      "anden",
+      "maya",
+      "azteken",
+      "inka",
+      "nordamerika",
+      "kalender",
+      "schrift"
+    ],
+    "keyFacts": [
+      "Um 1200 v. Chr. entsteht das olmekische Zentrum San Lorenzo, ab etwa 900 v. Chr. La Venta und der Kultort Chavín de Huántar in den Anden.",
+      "Um 500 v. Chr. gründen die Zapoteken Monte Albán; 36 v. Chr. trägt eine Stele in Chiapa de Corzo das älteste bekannte Datum der Langen Zählung.",
+      "Um 500 n. Chr. ist Teotihuacan mit vielleicht 100.000 Einwohnern die größte Stadt Amerikas.",
+      "615 bis 683 herrscht Pakal in Palenque; 909 wird in Toniná das letzte bekannte Datum der Langen Zählung gesetzt.",
+      "Um 1100 ist Cahokia am Mississippi mit dem Monks Mound die größte Siedlung nördlich von Mexiko.",
+      "1325 gründen die Mexica Tenochtitlan, 1428 schließen sie mit Texcoco und Tlacopan den aztekischen Dreibund.",
+      "Ab etwa 1438 baut Pachacútec das Inkareich auf; um 1527 stirbt Huayna Capac, und ein Bruderkrieg schwächt das Reich kurz vor der Ankunft der Spanier."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Mesoamerika war über Jahrhunderte eine Welt rivalisierender Stadtstaaten. Die Maya-Könige trugen den Titel „heiliger Herr“, führten ihre Herkunft auf Götter und Ahnen zurück und ließen ihre Taten auf Stelen und Altären festhalten. Große Mächte wie Tikal und Calakmul bildeten Bündnissysteme mit abhängigen Städten und führten jahrzehntelange Kriege, in denen gefangene Fürsten oft geopfert wurden. Teotihuacan griff im 4. Jahrhundert sogar in die Thronfolge Tikals ein, was die weitreichenden Verbindungen innerhalb Mesoamerikas zeigt.",
+          "Die Azteken, die sich selbst Mexica nannten, kamen im 13. Jahrhundert als Zuwanderer ins Hochtal von Mexiko und gründeten 1325 Tenochtitlan. Nach dem Sieg über die Tepaneken von Azcapotzalco schlossen sie 1428 mit Texcoco und Tlacopan den Dreibund. Das Reich bestand nicht aus fest verwalteten Provinzen, sondern aus unterworfenen Städten, die ihre eigenen Herrscher behielten, aber regelmäßig Tribut in Form von Mais, Baumwollstoffen, Kakao, Federn und Gold liefern mussten. An der Spitze stand der Tlatoani, der von einem Rat aus dem Kreis der Adelsfamilie gewählt wurde.",
+          "Das Inkareich war dagegen ein straff organisierter Staat. Der Inka galt als Sohn der Sonne; ihm unterstanden vier Reichsteile, Provinzen und eine nach Zehnergruppen gegliederte Verwaltung. Eroberte Völker mussten Arbeitsdienste leisten, ganze Bevölkerungsgruppen wurden umgesiedelt, um Aufstände zu verhindern, und Quechua wurde zur Verwaltungssprache. Weil es keine feste Thronfolgeregel gab, führten Herrscherwechsel häufig zu Machtkämpfen, wie zuletzt im Bruderkrieg zwischen Huáscar und Atahualpa.",
+          "In Nordamerika entstanden keine Großreiche, aber vielfältige politische Ordnungen. Cahokia war das Zentrum einer Häuptlingsgesellschaft mit einer erblichen Elite, die über Tausende Menschen gebot. Im Nordosten vereinbarten Mohawk, Oneida, Onondaga, Cayuga und Seneca nach ihrer Überlieferung das Große Gesetz des Friedens: Ein gemeinsamer Rat von Häuptlingen entschied im Konsens, und die Clanmütter bestimmten, wer diese Ämter erhielt. In der Karibik regierten Kaziken, darunter auch Frauen, über Dörfer und Bündnisse auf den großen Inseln."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Grundlage fast aller Gesellschaften war die Landwirtschaft. In Mesoamerika bauten Familien Mais, Bohnen und Kürbis gemeinsam auf einem Feld an; Maisfladen und Bohnen bildeten die tägliche Nahrung, Kakao war ein Getränk der Oberschicht. In den Anden wurden an steilen Hängen Terrassen angelegt und Kartoffeln durch Frost und Sonne zu haltbarem Chuño getrocknet. Haustiere waren selten: In Mesoamerika hielt man Truthähne und Hunde, in den Anden Lamas, Alpakas und Meerschweinchen.",
+          "Die Gesellschaften waren meist streng geschichtet. Über Bauern und Handwerkern standen Adel, Priester und Krieger, an der Spitze ein Herrscher mit göttlicher Würde. Bei den Azteken bildeten die Calpolli, Nachbarschaftsverbände, die Grundeinheit; sie verteilten Land, organisierten Arbeitsdienste und unterhielten Schulen für junge Männer. Fernhändler, die Pochteca, genossen eigene Rechte. Im Inkareich war das Ayllu, eine Verwandtschaftsgruppe mit gemeinsamem Land, die Keimzelle von Dorf und Staat.",
+          "Frauen spielten in vielen Kulturen eine wichtige Rolle. Sie bereiteten Nahrung zu, webten Stoffe, die als Tribut und Wertmittel dienten, und arbeiteten auf Märkten als Händlerinnen. Bei den Maya regierten Königinnen wie Frau Sechs Himmel in Naranjo, und das Grab der Señora de Cao zeigt, dass auch bei den Moche Frauen höchste Ämter innehatten. Im Inkareich webten ausgewählte Frauen, die Acllas, in eigenen Häusern feinste Stoffe für Herrscher und Tempel, und bei den Haudenosaunee besaßen die Clanmütter großen politischen Einfluss.",
+          "Die großen Städte boten ein lebendiges Bild. Tenochtitlan mit vielleicht 200.000 Einwohnern war von Kanälen durchzogen, auf denen Kanus Waren transportierten, und der Markt im Stadtteil Tlatelolco beeindruckte später die spanischen Eroberer. In Teotihuacan lebten Familien in großen Wohnkomplexen, darunter eigene Viertel für Zuwanderer aus Oaxaca und dem Maya-Gebiet. Das mesoamerikanische Ballspiel, bei dem ein schwerer Kautschukball nur mit Hüfte und Körper bewegt werden durfte, war Sport, Ritual und politisches Ereignis zugleich."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Religionen Amerikas kannten viele Götter, die mit Naturkräften wie Sonne, Regen, Mais und Wind verbunden waren. In Mesoamerika verehrte man über Jahrhunderte eine gefiederte Schlange, die bei den Azteken Quetzalcoatl und bei den Maya Kukulkan hieß, und einen Regengott, der als Tlaloc oder Chaac erschien. Opfer von Blut, Nahrung und Kostbarkeiten sollten die Weltordnung erhalten; Menschenopfer waren in vielen Kulturen verbreitet, besonders bei den Azteken für den Sonnen- und Kriegsgott Huitzilopochtli. Die Inka verehrten den Sonnengott Inti, die Erdmutter Pachamama und heilige Orte, die Huacas.",
+          "Mesoamerika ist eine der wenigen Regionen der Welt, in denen die Schrift unabhängig erfunden wurde. Frühe Zeichen finden sich bei Olmeken und Zapoteken, doch erst die Maya entwickelten ein voll ausgebautes System aus Wortzeichen und Silbenzeichen, mit dem sie Geschichte, Mythen und Rituale aufschrieben. Von ihren Büchern aus Feigenbaumrinde haben nur vier die spanische Zeit überstanden. Die Azteken nutzten Bilderhandschriften mit Zeichen für Namen, Orte und Zahlen. In den Anden gab es keine Schrift im engeren Sinn; Informationen wurden in Knotenschnüren, den Quipus, festgehalten.",
+          "Astronomie und Mathematik erreichten ein hohes Niveau. Die Maya rechneten im Zwanzigersystem mit einem Zeichen für die Null und verbanden einen 260-tägigen Ritualkalender mit einem 365-tägigen Sonnenjahr zu einer Kalenderrunde von 52 Jahren. Mit der Langen Zählung datierten sie Ereignisse taggenau ab einem mythischen Anfangspunkt im Jahr 3114 v. Chr. und sagten Venusphasen und Finsternisse voraus. Viele Bauten waren nach Sonnenauf- und -untergängen ausgerichtet, etwa die Pyramide von Chichén Itzá, an deren Treppe zur Tagundnachtgleiche ein Schattenspiel wie eine Schlange erscheint.",
+          "Die Kunst war vielfältig und oft religiös gebunden. Olmekische Kolossalköpfe, die Wandmalereien von San Bartolo und Bonampak, Jadeschmuck der Maya, Porträtgefäße der Moche und die Federarbeiten der Azteken gehören zu den Meisterwerken. Die Textilien von Paracas und der Inka zählen zu den feinsten Geweben der vormodernen Welt. In Nordamerika schufen die Hopewell-Leute Figuren aus Glimmer und Kupfer, und die Völker des Südwestens bemalte Keramik, deren Traditionen in den heutigen Pueblos fortleben."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Kulturen Amerikas erreichten ihre Leistungen ohne Eisen, ohne Zug- und Reittiere – als Lasttier diente nur in den Anden das Lama – und ohne praktische Nutzung des Rades, das in Mesoamerika nur an Spielzeugfiguren vorkommt. Werkzeuge bestanden aus Stein, Holz, Knochen und vor allem Obsidian, einem vulkanischen Glas, das schärfer schneidet als Stahl. Metalle wie Gold, Silber und Kupfer wurden in den Anden schon früh verarbeitet, später auch Bronze; in Mesoamerika setzte die Metallurgie erst ab etwa 600 n. Chr. im Westen Mexikos ein. Dass dennoch Pyramiden, Städte und Straßennetze entstanden, beruhte auf der Arbeitskraft vieler Menschen und auf ausgefeilter Organisation.",
+          "Landwirtschaftliche Techniken passten sich an sehr unterschiedliche Umwelten an. Im Hochtal von Mexiko legten die Azteken in den flachen Seen künstliche Beetinseln an, die Chinampas, die mehrere Ernten im Jahr erlaubten. Maya-Bauern nutzten Terrassen, Hochbeete in Sumpfgebieten und Wasserspeicher, Tiwanaku Hochfelder mit Wassergräben gegen Frost und die Küstenkulturen Perus lange Bewässerungskanäle, die Wasser aus den Anden in die Wüste leiteten. In Amazonien entstand durch Abfälle, Holzkohle und Tonscherben über Generationen die fruchtbare Terra preta.",
+          "Handel verband weite Räume. Obsidian aus Zentralmexiko, Jade aus Guatemala, Kakao aus den Küstengebieten und Quetzalfedern wurden über Hunderte Kilometer getragen; Kakaobohnen und Baumwolltücher dienten als Zahlungsmittel. Im Südwesten der heutigen USA fanden sich Kakaoreste und Aras aus Mesoamerika, und das Hopewell-Netz brachte Kupfer, Muscheln und Obsidian quer durch Nordamerika. Das Inkareich kam dagegen weitgehend ohne Märkte und Geld aus: Der Staat sammelte Erträge und Arbeitsleistungen ein, lagerte sie in tausenden Speichern und verteilte sie an Heer, Arbeiter und Bedürftige.",
+          "Bau- und Ingenieurskunst erreichten beachtliche Höhen. Die Inka fügten Steinblöcke ohne Mörtel so passgenau zusammen, dass ihre Mauern Erdbeben überstanden, und verbanden ihr Reich mit einem Straßennetz von über 30.000 Kilometern, Hängebrücken aus Gras und Stafettenläufern. Die Maya legten erhöhte Dammwege zwischen ihren Städten an, die Azteken Aquädukte und Deiche in den Seen des Hochtals. In Nordamerika bewegten die Erbauer von Cahokia ohne Zugtiere Millionen Körbe Erde für ihre Hügel."
+        ]
+      }
+    ]
+  },
+  {
     "id": "antike-griechenland",
     "title": "Antikes Griechenland und Hellenismus",
-    "order": 3,
+    "order": 4,
     "start": -800,
     "end": -30,
     "color": "#0ea5e9",
@@ -260,7 +348,7 @@
   {
     "id": "rom",
     "title": "Das Römische Reich",
-    "order": 4,
+    "order": 5,
     "start": -753,
     "end": 476,
     "color": "#dc2626",
@@ -344,7 +432,7 @@
   {
     "id": "asien-altertum",
     "title": "Reiche Asiens: Persien, Indien, China, Japan",
-    "order": 5,
+    "order": 6,
     "start": -550,
     "end": 1200,
     "color": "#e11d48",
@@ -426,9 +514,99 @@
     ]
   },
   {
+    "id": "afrikanische-reiche",
+    "title": "Reiche und Kulturen Afrikas",
+    "order": 7,
+    "start": 100,
+    "end": 1880,
+    "color": "#ca8a04",
+    "regions": [
+      "afrika",
+      "naher-osten"
+    ],
+    "summary": "Von Aksum und Nubien über Mali, Songhai und Benin bis zu Asante, Sokoto und den Zulu entstanden in Afrika Königreiche, Handelsstädte und Gelehrtenzentren, die durch Sahara, Indischen Ozean und Atlantik mit der Welt verbunden waren.",
+    "overview": [
+      "Afrika war in den Jahrhunderten zwischen der Antike und der kolonialen Eroberung kein geschichtsloser Kontinent, sondern ein Raum zahlreicher Staaten, Städte und Kulturen. Im Nordosten stieg Aksum im heutigen Äthiopien und Eritrea zu einer Handelsmacht am Roten Meer auf, prägte eigene Münzen und nahm im 4. Jahrhundert unter König Ezana das Christentum an. Am Nil bestanden die christlichen Königreiche Nubiens, von denen Makuria den arabischen Heeren 652 standhielt und mit Ägypten einen jahrhundertelang gültigen Vertrag schloss.",
+      "In Westafrika verband der Handel durch die Sahara die Goldfelder am oberen Niger und Senegal mit Nordafrika und dem Mittelmeer. Auf dieser Grundlage entstanden nacheinander die Großreiche Ghana, Mali und Songhai, deren Herrscher Gold, Salz und Karawanenwege kontrollierten. Mansa Musa machte Mali 1324 mit seiner Pilgerreise in der ganzen islamischen Welt berühmt, und Timbuktu wurde mit seinen Moscheen und Handschriften zu einem Zentrum islamischer Gelehrsamkeit. Östlich davon bestanden Kanem-Bornu am Tschadsee und die Stadtstaaten der Hausa, im Waldland weiter südlich die Yoruba-Städte Ife und Oyo sowie das Königreich Benin mit seiner berühmten Metallkunst.",
+      "An der Küste des Indischen Ozeans entwickelte sich zwischen Somalia und Mosambik die Swahili-Kultur mit Handelsstädten wie Kilwa, Mombasa und später Sansibar, die Gold, Elfenbein und Sklaven nach Arabien, Indien und China lieferten. Im Landesinneren des südlichen Afrika errichteten die Vorfahren der Shona die Steinstadt Großsimbabwe, auf die das Reich Mutapa folgte. In Äthiopien schufen die Zagwe-Könige die Felsenkirchen von Lalibela, und ab 1270 beanspruchte die Salomonische Dynastie die Abstammung von König Salomo und der Königin von Saba.",
+      "Seit dem späten 15. Jahrhundert veränderte der Kontakt mit Portugal und anderen europäischen Mächten die Lage an der Atlantikküste. Im Kongo-Reich ließen sich die Könige taufen und suchten ein Bündnis mit Lissabon, erlebten aber, wie der Sklavenhandel ihre Herrschaft untergrub. Afrikanische Staaten wie Dahomey, Oyo und Asante beteiligten sich am Handel mit Gefangenen und erwarben dafür Feuerwaffen und Waren, während Herrscherinnen wie Njinga von Ndongo und Matamba den Portugiesen jahrzehntelang Widerstand leisteten. Bis ins 19. Jahrhundert wurden über zwölf Millionen Menschen über den Atlantik verschleppt.",
+      "Im 19. Jahrhundert entstanden noch einmal neue Großstaaten: Das Sokoto-Kalifat ging aus der Erneuerungsbewegung Usman dan Fodios hervor, Shaka formte das Zulu-Reich, und die Merina-Könige einten den größten Teil Madagaskars. Kriege und Wanderungen im südlichen Afrika, die als Mfecane bezeichnet werden, ordneten die politische Landkarte neu. Viele dieser Staaten waren um 1880 noch selbständig; erst mit dem Wettlauf um Afrika verloren fast alle von ihnen ihre Unabhängigkeit."
+    ],
+    "consequences": [
+      "Die vorkolonialen Reiche widerlegen das in Europa lange verbreitete Bild eines Afrika ohne Geschichte, Staaten und Schriftkultur; Bauwerke wie Großsimbabwe und Lalibela und die Handschriften Timbuktus gehören heute zum Welterbe.",
+      "Islam und Christentum verbreiteten sich über Handelswege und Herrscherhöfe in weite Teile Afrikas und prägen bis heute Religion, Recht und Bildung vom Sahel bis Äthiopien.",
+      "Der atlantische Sklavenhandel entvölkerte ganze Regionen, verschärfte Kriege zwischen afrikanischen Staaten und begründete die afrikanische Diaspora in Amerika mit tiefen Folgen bis in die Gegenwart.",
+      "Viele heutige Staaten wie Ghana, Mali, Benin oder Simbabwe tragen bewusst die Namen vorkolonialer Reiche und berufen sich auf deren Erbe.",
+      "Kunstwerke wie die Bronzen von Ife und Benin beeinflussten die moderne Kunst Europas; um ihre Rückgabe aus europäischen Museen wird bis heute verhandelt.",
+      "Die Kriege und Staatsgründungen des 19. Jahrhunderts, etwa des Zulu-Reiches, Lesothos und des Sokoto-Kalifats, bestimmten die politischen Grenzen und Identitäten im südlichen und westlichen Afrika nachhaltig."
+    ],
+    "tags": [
+      "afrika",
+      "mali",
+      "songhai",
+      "aksum",
+      "äthiopien",
+      "swahili",
+      "transsaharahandel",
+      "sklavenhandel",
+      "zulu"
+    ],
+    "keyFacts": [
+      "Um 330 tritt König Ezana von Aksum zum Christentum über; Äthiopien wird eines der ältesten christlichen Länder der Welt.",
+      "652 schließt das nubische Königreich Makuria mit dem arabischen Ägypten den Baqt-Vertrag, der rund 600 Jahre gilt.",
+      "Um 1235 begründet Sundiata Keita mit dem Sieg bei Kirina das Mali-Reich; 1324 macht Mansa Musas Pilgerreise Mali weltberühmt.",
+      "Um 1200 entstehen die Felsenkirchen von Lalibela; 1270 beginnt in Äthiopien die Salomonische Dynastie.",
+      "1526 beklagt König Afonso I. von Kongo in Briefen an Portugal, dass Händler freie Menschen verschleppen.",
+      "1591 zerschlägt eine marokkanische Armee mit Feuerwaffen bei Tondibi das Songhai-Reich.",
+      "1804 beginnt Usman dan Fodio den Dschihad, aus dem das Sokoto-Kalifat entsteht; 1816 übernimmt Shaka die Herrschaft über die Zulu."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Afrikanische Reiche waren sehr unterschiedlich organisiert. Neben zentralisierten Monarchien wie Benin, Asante oder Dahomey gab es lockere Verbände tributpflichtiger Fürsten wie Mali und Songhai, Stadtstaaten wie die Hausa-Städte oder die Swahili-Häfen sowie Gesellschaften ganz ohne Könige. Die Macht der Großreiche beruhte oft weniger auf festen Grenzen als auf der Kontrolle von Menschen, Handelswegen und Tributen. Herrscher trugen Titel wie Mansa in Mali, Askia in Songhai, Oba in Benin, Asantehene in Asante oder Negus in Äthiopien.",
+          "Viele Könige verbanden politische und religiöse Autorität. Der Oba von Benin und der Alaafin von Oyo galten als heilige Personen, die nur selten öffentlich auftraten, während muslimische Herrscher in Mali, Songhai, Kanem-Bornu oder Kano ihre Stellung durch Pilgerreisen nach Mekka, Gelehrte am Hof und das islamische Recht stärkten. In Äthiopien stützte sich die Salomonische Dynastie auf die Legende ihrer Abstammung von König Salomo und auf die Kirche. Zugleich begrenzten Ratsversammlungen wie der Oyo Mesi oder die Ältesten der Asante die Macht der Könige.",
+          "Kriege entschieden über Aufstieg und Fall der Reiche. Sundiata besiegte um 1235 die Sosso, Sunni Ali eroberte für Songhai die Städte am Niger, und eine marokkanische Armee mit Feuerwaffen zerstörte 1591 das Songhai-Reich. Feuerwaffen, die über den Sahara- und den Atlantikhandel ins Land kamen, verschoben das Kräfteverhältnis; Staaten wie Bornu, Dahomey und Asante bauten mit ihnen starke Armeen auf, während Oyo auf seine Reiterei setzte.",
+          "Mit den Europäern verhandelten afrikanische Herrscher lange auf Augenhöhe. Die Könige von Kongo tauschten Gesandte mit Portugal und dem Papst aus, Njinga von Ndongo und Matamba wechselte zwischen Krieg, Diplomatie und Bündnissen mit den Niederländern, und die Merina-Könige auf Madagaskar schlossen Verträge mit Großbritannien. Erst im 19. Jahrhundert wuchs der europäische Druck so stark, dass Staaten wie Äthiopien unter Tewodros II. oder das Zulu-Reich in offene Kriege mit Großbritannien gerieten."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die große Mehrheit der Menschen lebte als Bauern, Hirten oder Fischer in Dörfern, die von Verwandtschaftsgruppen und Ältesten geleitet wurden. Hirse, Sorghum, Yams und Reis, in Ostafrika auch Bananen, bildeten die Grundlage der Ernährung; Rinder waren besonders im Süden und Osten Zeichen von Reichtum und Ansehen. Weil Land meist reichlich vorhanden, Arbeitskraft aber knapp war, bemaß sich Macht vor allem an der Zahl der Menschen, die einem Herrscher oder Familienoberhaupt folgten.",
+          "In vielen Gesellschaften gab es erbliche Berufsgruppen wie Schmiede, Weber oder Griots, die als Sänger und Geschichtsbewahrer an den Höfen wirkten. Sklaverei war in zahlreichen afrikanischen Staaten verbreitet, unterschied sich aber oft von der Plantagensklaverei Amerikas: Unfreie arbeiteten als Bauern, Soldaten, Diener oder sogar Beamte, und ihre Nachkommen konnten in die Familien ihrer Herren aufgenommen werden. Der atlantische Sklavenhandel verschärfte jedoch Menschenraub und Kriege und machte Gefangene zu einer Handelsware in bis dahin unbekanntem Ausmaß.",
+          "Frauen nahmen in vielen afrikanischen Gesellschaften eine sichtbare Rolle ein. Königinmütter wie die Iyoba in Benin oder die Asantehemaa in Asante besaßen eigene Höfe und politischen Einfluss, und Herrscherinnen wie Njinga oder Ranavalona I. regierten selbst. Händlerinnen bestimmten die Märkte Westafrikas, in Dahomey bildeten Kriegerinnen eine eigene Truppe, und die Gelehrte Nana Asma'u organisierte im Sokoto-Kalifat den Unterricht für Frauen.",
+          "Städte wie Timbuktu, Djenné, Kano, Kilwa, Benin oder Kumasi waren dicht besiedelte Zentren mit Märkten, Palästen und Gotteshäusern. Reisende wie Ibn Battuta beschrieben Sicherheit, Wohlstand und strenge Ordnung in Mali, und portugiesische Besucher verglichen Benin mit europäischen Städten. Hier trafen Kaufleute aus Nordafrika, Arabien und Indien auf einheimische Händler, und es entstanden gemischte Kulturen wie die der Swahili."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Neben einheimischen Religionen, die Ahnen, Naturkräfte und einen Schöpfergott verehrten, verbreiteten sich Christentum und Islam. Aksum und die Königreiche Nubiens wurden schon im 4. bis 6. Jahrhundert christlich, und die äthiopische Kirche entwickelte mit dem Ge'ez als Kirchensprache, eigenen Heiligen und den Felsenkirchen von Lalibela eine unverwechselbare Tradition. Der Islam kam über Kaufleute aus Nordafrika in den Sahel und über die Seehändler des Indischen Ozeans an die Ostküste und wurde zunächst vor allem von Herrschern und Händlern angenommen.",
+          "Schrift und Gelehrsamkeit waren weit verbreiteter, als europäische Beobachter später behaupteten. In Äthiopien entstanden Chroniken und religiöse Werke in Ge'ez, in Timbuktu, Djenné und Kano lehrten Gelehrte wie Ahmad Baba Recht, Theologie, Grammatik und Astronomie, und Bibliotheken sammelten Zehntausende Handschriften. Auf Arabisch, aber auch in afrikanischen Sprachen mit arabischer Schrift wie Hausa oder Swahili wurden Gedichte, Chroniken und Lehrwerke verfasst.",
+          "Wo keine Schrift verwendet wurde, bewahrten Erzähler und Griots die Geschichte in mündlicher Überlieferung. Das Epos von Sundiata, das bis heute in Westafrika vorgetragen wird, erzählt von der Gründung Malis und ist eine wichtige historische Quelle. Königslisten, Lobgesänge und Sprichwörter trugen Wissen über Generationen weiter und dienten zugleich der Legitimation der Herrscher.",
+          "Die Kunst der afrikanischen Reiche erreichte hohes Niveau. In Ife entstanden zwischen dem 12. und 15. Jahrhundert naturalistische Köpfe aus Kupferlegierung und Terrakotta, in Benin schufen Gießergilden Reliefplatten und Gedenkköpfe für den Hof. Lehmbauten wie die Moscheen von Djenné und Timbuktu, die Steinmauern von Großsimbabwe und die Paläste von Kilwa zeugen von ausgefeilter Architektur."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Wirtschaft der großen Reiche beruhte auf Fernhandel. Seit der Einführung des Kamels zogen Karawanen durch die Sahara und tauschten Gold, Elfenbein und Sklaven aus dem Süden gegen Salz, Kupfer, Pferde, Stoffe und Bücher aus dem Norden. Bis zur Entdeckung Amerikas stammte ein großer Teil des Goldes, das im Mittelmeerraum und in Europa umlief, aus Westafrika.",
+          "An der Ostküste verband der Monsunhandel die Swahili-Städte mit Arabien, Persien, Indien und China. Gold aus dem Simbabwe-Hochland gelangte über Sofala und Kilwa auf die Märkte des Indischen Ozeans, im Gegenzug kamen Baumwollstoffe, Glasperlen und Porzellan nach Afrika. Im 19. Jahrhundert baute das Sultanat Sansibar mit der Arbeit versklavter Menschen Gewürznelkenplantagen auf und kontrollierte den Elfenbein- und Sklavenhandel bis ins Innere des Kontinents.",
+          "Die Eisenverarbeitung war in weiten Teilen Afrikas seit Jahrhunderten bekannt; Schmiede stellten Hacken, Waffen und Werkzeuge her und genossen oft besonderes Ansehen. Weber in Kano und an anderen Orten fertigten Baumwollstoffe, die mit Indigo gefärbt und weit gehandelt wurden. Kaurischnecken, Goldstaub, Salzbarren und Kupferstücke dienten in verschiedenen Regionen als Zahlungsmittel.",
+          "Mit dem atlantischen Handel verlagerten sich die Handelsströme an die Küste. Europäische Händler lieferten Feuerwaffen, Textilien, Metallwaren, Branntwein und Kaurischnecken und kauften vor allem Gefangene. Für einige Küstenstaaten brachte dieser Handel Reichtum und militärische Stärke, doch er schwächte die Bevölkerung und lenkte die Wirtschaft von der eigenen Produktion weg. Nach dem Verbot des Sklavenhandels durch Großbritannien 1807 gewannen Palmöl, Erdnüsse und Elfenbein als Ausfuhrgüter an Bedeutung."
+        ]
+      }
+    ]
+  },
+  {
     "id": "mittelalter",
     "title": "Europäisches Mittelalter",
-    "order": 6,
+    "order": 8,
     "start": 500,
     "end": 1500,
     "color": "#7c3aed",
@@ -514,7 +692,7 @@
   {
     "id": "islamische-welt",
     "title": "Die islamische Welt",
-    "order": 7,
+    "order": 9,
     "start": 610,
     "end": 1500,
     "color": "#059669",
@@ -598,9 +776,180 @@
     ]
   },
   {
+    "id": "asiatische-grossreiche",
+    "title": "Asiatische Großreiche (1200–1800)",
+    "order": 10,
+    "start": 1200,
+    "end": 1800,
+    "color": "#be185d",
+    "regions": [
+      "asien",
+      "naher-osten",
+      "europa"
+    ],
+    "summary": "Vom Mongolenreich Dschingis Khans bis zur Blüte der Qing beherrschten große Reiche Asien: Ming und Qing in China, die Moguln in Indien, die Safawiden in Persien, Joseon in Korea und die Tokugawa in Japan schufen stabile Ordnungen, prachtvolle Hauptstädte und eine Wirtschaft, die lange größer war als die Europas.",
+    "overview": [
+      "Im frühen 13. Jahrhundert vereinte Dschingis Khan die Steppenvölker der Mongolei und begann eine Eroberungswelle ohnegleichen. Seine Söhne und Enkel unterwarfen Nordchina, Zentralasien, Persien und die russischen Fürstentümer, zerstörten 1258 Bagdad und drangen 1241 bis nach Schlesien und Ungarn vor. Das Mongolenreich wurde zum größten zusammenhängenden Landreich der Geschichte. Nach der Zerstörung vieler Städte folgte eine Zeit, in der Kaufleute, Gesandte und Missionare unter mongolischem Schutz von Persien bis China reisen konnten, die man Pax Mongolica nennt.",
+      "Das Weltreich zerfiel bald in Teilreiche: die Yuan-Dynastie Kublai Khans in China, das Ilchanat in Persien, das Tschagatai-Khanat in Zentralasien und die Goldene Horde an der Wolga. 1368 vertrieb der Bauernsohn Zhu Yuanzhang die Mongolen aus China und gründete die Ming-Dynastie, die eine neue Hauptstadt in Peking baute, Flotten unter Zheng He bis nach Ostafrika schickte und die Große Mauer zu ihrer heutigen Gestalt ausbaute. Im Westen errichtete Timur um 1400 ein kurzlebiges Großreich, dessen Erben in Samarkand Kunst und Wissenschaft förderten. Die Goldene Horde beherrschte die russischen Fürstentümer noch bis ins 15. Jahrhundert, bis Moskau 1480 die Tributzahlungen endgültig einstellte.",
+      "In Indien herrschte seit 1206 das Delhi-Sultanat, im Süden das hinduistische Reich von Vijayanagara. 1526 begründete Babur, ein Nachfahre Timurs, das Mogulreich, das unter Akbar, Shah Jahan und Aurangzeb fast den ganzen Subkontinent umfasste und Bauwerke wie das Taj Mahal hervorbrachte. In Persien machte Schah Ismail I. ab 1501 die schiitische Richtung des Islam zur Staatsreligion; unter Abbas I. wurde Isfahan zu einer der prächtigsten Städte der Welt. Moguln und Safawiden stritten lange um Kandahar, teilten aber eine gemeinsame persische Hofkultur, in der Persisch als Sprache der Verwaltung und Dichtung diente.",
+      "In Ostasien entstanden langlebige Ordnungen. In Korea regierte ab 1392 die Joseon-Dynastie, deren König Sejong eine eigene Buchstabenschrift schuf. Japan erlebte nach der Abwehr der Mongolen 1274 und 1281 ein Jahrhundert der Bürgerkriege, bis Oda Nobunaga, Toyotomi Hideyoshi und Tokugawa Ieyasu das Land einten. Das Tokugawa-Shogunat beschränkte ab 1639 die Kontakte zum Ausland und sicherte über zwei Jahrhunderte Frieden. In Südostasien stiegen Ayutthaya, Malakka und das vietnamesische Đại Việt auf, während das Khmer-Reich von Angkor seine Vormacht verlor.",
+      "1644 eroberten die Mandschu Peking und gründeten die Qing-Dynastie, die unter den Kaisern Kangxi und Qianlong ihr Gebiet auf Taiwan, die Mongolei, Tibet und Xinjiang ausdehnte. Zugleich stießen russische Kosaken und Pelzhändler durch Sibirien bis an den Pazifik vor, sodass sich Russland und China 1689 erstmals vertraglich über eine Grenze einigten. Um 1800 waren China und Indien noch die größten Volkswirtschaften der Welt; doch das Mogulreich zerfiel bereits, die Briten setzten sich in Bengalen fest, und die Abweisung der britischen Gesandtschaft Macartneys 1793 kündigte die Konflikte des 19. Jahrhunderts an."
+    ],
+    "consequences": [
+      "Die Mongolen verbanden Asien und Europa zeitweise zu einem Handels- und Austauschraum; über diese Wege gelangten Wissen, Waren und Techniken wie Schießpulver und Papiergeld nach Westen, aber im 14. Jahrhundert auch die Pest.",
+      "Die heutigen Grenzen Chinas gehen weitgehend auf die Eroberungen der Qing zurück, und Peking ist seit der Ming-Zeit fast durchgehend Hauptstadt geblieben.",
+      "Das Mogulreich und die Safawiden prägten Sprache, Architektur und Religion Südasiens und Irans bis heute: Urdu, das Taj Mahal und die schiitische Prägung Irans sind Erbe dieser Zeit.",
+      "Die koreanische Schrift Hangeul und die japanische Edo-Kultur mit Haiku, Kabuki und Holzschnitt gehören zum kulturellen Erbe der Menschheit; Isfahans Königsplatz und die Verbotene Stadt in Peking sind UNESCO-Weltkulturerbe.",
+      "Die russische Expansion nach Sibirien machte Russland zu einer eurasischen Großmacht mit einer langen Grenze zu China.",
+      "Die Abschließung Japans und die selbstbewusste Abweisung europäischer Handelswünsche durch China bestimmten den Verlauf der Begegnung mit dem Westen im 19. Jahrhundert."
+    ],
+    "tags": [
+      "mongolen",
+      "china",
+      "indien",
+      "persien",
+      "japan",
+      "korea",
+      "südostasien",
+      "seidenstraße"
+    ],
+    "keyFacts": [
+      "1206 wird Temüdschin zum Dschingis Khan ausgerufen; im selben Jahr entsteht in Nordindien das Delhi-Sultanat.",
+      "1271 ruft Kublai Khan die Yuan-Dynastie aus; 1274 und 1281 scheitern seine Flotten vor Japan.",
+      "1368 gründet Zhu Yuanzhang die Ming-Dynastie; von 1405 bis 1433 segeln die Flotten Zheng Hes bis Ostafrika.",
+      "1446 verkündet König Sejong in Korea die Buchstabenschrift Hangeul.",
+      "1501 gründet Ismail I. das Safawidenreich, 1526 Babur mit dem Sieg bei Panipat das Mogulreich.",
+      "1600 siegt Tokugawa Ieyasu bei Sekigahara; ab 1639 schließt sich Japan weitgehend nach außen ab.",
+      "1644 erobern die Mandschu Peking; 1689 legen Russland und China im Vertrag von Nertschinsk ihre Grenze fest."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die Mongolen beruhten auf einer Heeresordnung in Einheiten von zehn, hundert, tausend und zehntausend Kriegern, auf schnellen Reiterbogenschützen und einem Netz von Poststationen. Erobert wurde mit großer Härte: Städte, die Widerstand leisteten, wurden oft vollständig zerstört, während jene, die sich unterwarfen, Tribut zahlten und ihre Herrscher behielten. Die Teilreiche der Nachfolger passten sich bald den eroberten Gesellschaften an: Die Yuan regierten China mit chinesischen Beamten, die Ilchane und die Goldene Horde nahmen den Islam an. Das Prinzip, nur Nachfahren Dschingis Khans als Khane anzuerkennen, wirkte bis in die frühe Neuzeit.",
+          "Die großen Reiche der folgenden Jahrhunderte waren Monarchien mit einem Herrscher an der Spitze, der seine Macht religiös begründete. Der chinesische Kaiser galt als Sohn des Himmels mit dem Mandat des Himmels, der Großmogul und der Schah verbanden islamische Herrschaftsideen mit persischen und zentralasiatischen Traditionen. Die Safawiden stützten sich zunächst auf die Qizilbasch, turkmenische Reiterkrieger, die Moguln auf ein System von Rangstufen, in das sie Muslime und hinduistische Rajputen einbanden. Die Qing regierten als mandschurische Minderheit mit ihren Acht Bannern und übernahmen zugleich die chinesische Beamtenprüfung.",
+          "In Japan lag die tatsächliche Macht nicht beim Kaiser in Kyoto, sondern bei einem militärischen Oberbefehlshaber, dem Shogun. Nach Jahrhunderten wechselnder Shogunate und des Bürgerkriegs der Sengoku-Zeit schufen die Tokugawa eine dauerhafte Ordnung: Rund 250 Fürsten, die Daimyō, mussten abwechselnd in Edo residieren und ihre Familien dort zurücklassen. Korea unter Joseon und Vietnam unter der Lê-Dynastie übernahmen chinesische Verwaltungsmodelle und erkannten den chinesischen Kaiser im Tributsystem formal als Oberherrn an, blieben aber selbstständig. Reiche wie Ayutthaya und Malakka schöpften ihre Macht vor allem aus dem Handel."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die große Mehrheit der Menschen in allen asiatischen Reichen lebte als Bauern in Dörfern und baute Reis, Weizen, Hirse oder Baumwolle an. Ihre Steuern in Geld, Getreide oder Arbeitsdiensten finanzierten Paläste, Heere und Beamte. Hungersnöte, Überschwemmungen und Kriege trafen sie besonders hart; der Untergang der Yuan- und der Ming-Dynastie begann jeweils mit Bauernaufständen. Seit dem 16. Jahrhundert wuchs die Bevölkerung Chinas auch dank neuer Feldfrüchte aus Amerika wie Mais und Süßkartoffel stark an und erreichte um 1800 rund 300 Millionen Menschen.",
+          "Die Gesellschaften waren streng gegliedert. In China genossen die Gelehrtenbeamten das höchste Ansehen, in Japan standen unter den Tokugawa die Samurai über Bauern, Handwerkern und Kaufleuten, und in Korea bildeten die Yangban eine erbliche Oberschicht. In Indien prägten Kasten und Religionsgemeinschaften das Zusammenleben von Hindus, Muslimen, Sikhs und Jainas. Gleichzeitig wuchsen Großstädte wie Peking, Delhi, Isfahan und Edo, das im 18. Jahrhundert rund eine Million Einwohner hatte, mit Märkten, Theatern und Teehäusern.",
+          "Frauen lebten meist unter der Vormundschaft von Vätern und Ehemännern; in China verbreitete sich das Füßebinden, in Indien die Abschließung adliger Frauen. Dennoch übten einzelne Frauen großen Einfluss aus. Sorghaghtani Beki, die Mutter Kublai Khans, lenkte die Politik des Mongolenreiches mit, Nur Jahan regierte im Mogulreich faktisch an der Seite ihres Mannes, und Hofdamen, Kauffrauen und Dichterinnen hinterließen in Korea und Japan Briefe, Tagebücher und Gedichte. Die Liebe Shah Jahans zu seiner verstorbenen Frau Mumtaz Mahal wurde im Taj Mahal zum Bauwerk."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Religionen Asiens breiteten sich in dieser Zeit weiter aus und wandelten sich. Der Islam erreichte über Kaufleute und Sufis Indien, Malakka und die Inseln Indonesiens, während der Theravada-Buddhismus in Siam, Birma und Kambodscha zur vorherrschenden Religion wurde. In Persien machten die Safawiden die Zwölfer-Schia zur Staatsreligion, in China, Korea und Japan prägte der Neokonfuzianismus Staat und Familie. Im Pandschab entstand um 1500 mit Guru Nanak die Religion der Sikhs, und Akbar ließ an seinem Hof Vertreter verschiedener Glaubensrichtungen miteinander diskutieren.",
+          "Gelehrte und Herrscher förderten Wissenschaft und Bildung. Ulugh Beg ließ in Samarkand eine Sternwarte bauen, deren Sternkatalog zu den genauesten vor der Erfindung des Fernrohrs gehörte. In Korea wurde 1377 das älteste erhaltene Buch mit beweglichen Metalllettern gedruckt, und König Sejong ließ eine leicht erlernbare Schrift sowie Regenmesser und Wasseruhren entwickeln. Die Ming-Kaiser ließen riesige Enzyklopädien zusammenstellen, die Qing eine Sammlung von über 3000 Werken, die zugleich der Zensur unliebsamer Schriften diente.",
+          "Kunst und Architektur erreichten Höhepunkte. Die Mogulkunst verband persische, zentralasiatische und indische Elemente in Miniaturen und Bauten wie dem Taj Mahal und dem Roten Fort in Delhi. Isfahan mit seinem großen Platz und den Moscheen voller blauer Fliesen wurde zum Sinnbild persischer Kunst, die Verbotene Stadt zum Inbegriff chinesischer Palastarchitektur. In Japan entwickelten sich die Teezeremonie, das Nō-Theater und später in den Städten der Edo-Zeit Kabuki, Puppentheater, Haiku-Dichtung und der Farbholzschnitt."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Asien war in diesen Jahrhunderten der wirtschaftliche Schwerpunkt der Welt. China und Indien erzeugten große Mengen an Seide, Porzellan, Tee und Baumwollstoffen, die von Ostafrika bis Europa begehrt waren. Unter der Pax Mongolica blühte der Handel auf der Seidenstraße, und das mongolische Postsystem verband Peking mit Täbris und der Wolga. Die Yuan-Regierung gab Papiergeld aus, das europäische Reisende wie Marco Polo mit Staunen beschrieben.",
+          "Der Seehandel über den Indischen Ozean und das Südchinesische Meer verband Häfen wie Calicut, Malakka, Ayutthaya, Guangzhou und Nagasaki. Muslimische, chinesische, indische und malaiische Kaufleute nutzten die Monsunwinde für regelmäßige Fahrten. Die Ming-Flotten Zheng Hes zeigten zu Beginn des 15. Jahrhunderts, welche technischen Möglichkeiten China besaß, doch danach beschränkte der Hof den privaten Seehandel. Ab dem 16. Jahrhundert flossen große Mengen Silber aus Amerika und Japan nach China, wo Steuern zunehmend in Silber bezahlt wurden.",
+          "Technisch beherrschten asiatische Reiche Bewässerung, Kanalbau, Porzellanherstellung und Metallguss auf hohem Niveau; der Kaiserkanal versorgte Peking mit Getreide aus dem Süden. Schießpulverwaffen, in China erfunden, wurden von den Moguln, Safawiden und japanischen Fürsten mit Kanonen und Musketen zu einem entscheidenden Machtmittel. Russische Pelzhändler erschlossen Sibirien wegen des wertvollen Zobelfells. Um 1800 begann sich das Gleichgewicht zu verschieben, als europäische Handelskompanien vor allem in Indien zu Territorialmächten wurden."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "osmanisches-reich",
+    "title": "Das Osmanische Reich",
+    "order": 11,
+    "start": 1299,
+    "end": 1922,
+    "color": "#c2410c",
+    "regions": [
+      "naher-osten",
+      "europa",
+      "afrika"
+    ],
+    "summary": "Aus einem kleinen Fürstentum in Nordwestanatolien wuchs ein Weltreich, das über sechs Jahrhunderte bestand und seit 1453 von Istanbul aus Südosteuropa, den Nahen Osten und Nordafrika beherrschte und vielen Völkern und Religionen ein gemeinsames Dach gab.",
+    "overview": [
+      "Um 1300 begründete Osman I. in Nordwestanatolien, an der Grenze zum geschwächten Byzantinischen Reich, eines von vielen türkischen Fürstentümern. Seine Nachfolger eroberten 1326 Bursa, setzten 1354 nach Europa über und machten Edirne zur zweiten Hauptstadt. Mit dem Sieg auf dem Amselfeld 1389 wurde Serbien tributpflichtig, und bis zum Ende des 14. Jahrhunderts beherrschten die Osmanen weite Teile des Balkans. Die Niederlage gegen Timur bei Ankara 1402 stürzte das junge Reich in einen Bruderkrieg, doch es erholte sich innerhalb eines Jahrzehnts.",
+      "1453 eroberte Mehmed II. Konstantinopel und machte die Stadt als Istanbul zur Hauptstadt eines Reiches, das sich als Erbe Roms und als Vormacht der islamischen Welt verstand. Selim I. besiegte 1514 die persischen Safawiden und 1516/17 die Mamluken; damit fielen Syrien, Ägypten und die heiligen Stätten Mekka und Medina an die Osmanen. Unter Süleyman dem Prächtigen erreichte das Reich seine größte Machtentfaltung: Nach dem Sieg bei Mohács 1526 eroberte er große Teile Ungarns, belagerte 1529 Wien und ließ Verwaltung und Recht neu ordnen.",
+      "Das Reich ruhte auf einer besonderen Ordnung: Der Sultan regierte mit einem Großwesir und einem Rat, Reiter erhielten für ihren Kriegsdienst die Einkünfte von Land, und die Janitscharen, rekrutiert über die Knabenlese, bildeten die erste stehende Infanterie Europas. Christen und Juden lebten in eigenen Religionsgemeinschaften, die sich weitgehend selbst verwalteten. Im 17. Jahrhundert gewannen Hofparteien, Sultansmütter wie Kösem und mächtige Großwesire an Einfluss, und das Reich behauptete sich trotz Krisen bis zur gescheiterten Belagerung Wiens 1683.",
+      "Mit dem Frieden von Karlowitz 1699 begann der Rückzug aus Mitteleuropa, und im 18. Jahrhundert wurde Russland zum gefährlichsten Gegner; der Frieden von Küçük Kaynarca 1774 kostete die Kontrolle über die Krim. Sultane wie Selim III. und Mahmud II. versuchten mit Reformen gegenzusteuern; Mahmud löste 1826 die Janitscharen auf. Mit dem Edikt von Gülhane 1839 begann die Tanzimat-Zeit, in der Recht, Verwaltung, Schulen und Armee nach europäischem Vorbild umgebaut und alle Untertanen rechtlich gleichgestellt werden sollten. 1876 erhielt das Reich eine Verfassung; Sultan Abdülhamid II. vertagte jedoch schon 1878 das Parlament auf unbestimmte Zeit.",
+      "Im 19. Jahrhundert lösten sich Griechenland, Serbien, Rumänien und Bulgarien aus dem Reich, das europäische Diplomaten den „kranken Mann am Bosporus“ nannten; 1875 war der Staat bankrott. Die Jungtürken erzwangen 1908 die Rückkehr zur Verfassung, verloren aber in den Balkankriegen 1912/13 fast alle europäischen Gebiete. Im Ersten Weltkrieg an der Seite Deutschlands verübte ihre Regierung den Völkermord an den Armeniern. Nach der Niederlage 1918 besetzten die Alliierten Istanbul; die Nationalbewegung unter Mustafa Kemal schaffte 1922 das Sultanat ab, und 1923 entstand die Republik Türkei."
+    ],
+    "consequences": [
+      "Die Grenzen und Nationalstaaten Südosteuropas und des Nahen Ostens entstanden zu großen Teilen aus dem Zerfall des Osmanischen Reiches; viele Konflikte von Bosnien bis Palästina haben hier ihre Wurzeln.",
+      "Istanbul, Edirne, Sarajevo, Kairo und Damaskus tragen bis heute das Gepräge osmanischer Moscheen, Basare, Bäder und Brücken, besonders der Bauten des Architekten Sinan.",
+      "Kaffeehäuser, Tulpen, Joghurt, Teppiche und die Janitscharenmusik wanderten aus dem Osmanischen Reich nach Europa und prägten dort Alltag, Mode und Musik.",
+      "Das Zusammenleben von Muslimen, Christen und Juden in selbstverwalteten Religionsgemeinschaften wird bis heute als Beispiel für vormoderne Duldung, aber auch für rechtliche Ungleichheit diskutiert.",
+      "Die Reformen der Tanzimat und die Verfassung von 1876 waren frühe Versuche der Modernisierung in der islamischen Welt, auf denen die Republik Türkei und andere Nachfolgestaaten aufbauten.",
+      "Die Gewalt der letzten Jahrzehnte, besonders der Völkermord an den Armeniern und die Vertreibungen auf dem Balkan, prägt die Erinnerungskultur der Region bis in die Gegenwart."
+    ],
+    "tags": [
+      "osmanen",
+      "istanbul",
+      "sultan",
+      "balkan",
+      "janitscharen",
+      "tanzimat",
+      "islam"
+    ],
+    "keyFacts": [
+      "1326 erobert Orhan Bursa und macht die Stadt zur ersten Hauptstadt der Osmanen.",
+      "1389 siegen die Osmanen auf dem Amselfeld; 1402 unterliegt Bayezid I. bei Ankara dem Eroberer Timur.",
+      "1453 erobert Mehmed II. Konstantinopel, das als Istanbul Hauptstadt des Reiches wird.",
+      "1517 erobert Selim I. Ägypten; 1526 siegt Süleyman der Prächtige bei Mohács und belagert 1529 Wien.",
+      "1571 verlieren die Osmanen die Seeschlacht von Lepanto; 1683 scheitert die zweite Belagerung Wiens, 1699 folgt der Frieden von Karlowitz.",
+      "1826 löst Mahmud II. die Janitscharen auf; 1839 beginnt mit dem Edikt von Gülhane die Tanzimat, 1876 folgt die erste Verfassung.",
+      "1908 erzwingen die Jungtürken die Wiedereinführung der Verfassung; am 1. November 1922 schafft die Nationalversammlung in Ankara das Sultanat ab."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "An der Spitze des Reiches stand der Sultan aus dem Haus Osman, dessen Herrschaft als von Gott gewollt galt. Eine feste Thronfolgeregel gab es nicht: Alle Söhne galten als erbberechtigt, und Mehmed II. erlaubte dem siegreichen Thronanwärter ausdrücklich, seine Brüder töten zu lassen, um Bürgerkriege zu verhindern. Seit dem frühen 17. Jahrhundert ging der Thron meist an den ältesten männlichen Verwandten über, und die Prinzen lebten abgeschirmt im Palast. Seit Selim I. beanspruchten die Sultane zudem die Rolle der Schutzherren der heiligen Stätten und später den Titel des Kalifen.",
+          "Regiert wurde vom Topkapı-Palast in Istanbul aus. Der Großwesir leitete den Diwan, den Reichsrat, in dem Wesire, oberste Richter und Finanzbeamte über Krieg, Steuern und Rechtsfälle berieten. Viele hohe Würdenträger waren über die Knabenlese als Christenkinder in den Dienst des Sultans gelangt und galten als seine Diener; ihr Aufstieg hing von Leistung und Gunst ab. Die Provinzen verwalteten Statthalter, und Reiter erhielten Landeinkünfte, sogenannte Timare, für ihren Kriegsdienst.",
+          "Ab dem späten 16. Jahrhundert verschob sich die Macht vom Sultan zu Hofparteien, Sultansmüttern, Janitscharen und Großwesiren wie der Familie Köprülü, die das Reich nach 1656 noch einmal stabilisierte. Nach den Niederlagen gegen Habsburg und Russland begannen die Reformsultane Selim III. und Mahmud II., Armee und Verwaltung nach europäischem Vorbild umzubauen. Die Tanzimat ab 1839 schuf Ministerien, neue Gesetzbücher und die rechtliche Gleichheit der Untertanen, die Verfassung von 1876 ein Parlament. Nach 1908 bestimmte das jungtürkische Komitee für Einheit und Fortschritt die Politik und führte das Reich 1914 in den Ersten Weltkrieg."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die osmanische Gesellschaft war in die herrschende Schicht der Askeri, also Militärs, Beamte und Gelehrte, und die steuerzahlenden Untertanen, die Reaya, geteilt. Die große Mehrheit lebte als Bauern in Dörfern Anatoliens, des Balkans und der arabischen Provinzen, dazu kamen Nomaden und eine reiche Stadtkultur in Istanbul, Kairo, Aleppo, Damaskus, Saloniki und Sarajevo. In den Städten organisierten Zünfte Handwerk und Preise, und fromme Stiftungen unterhielten Moscheen, Schulen, Brunnen, Armenküchen und Krankenhäuser.",
+          "Christen und Juden waren als Schutzbefohlene geduldet; sie zahlten eine Kopfsteuer und regelten in ihren Religionsgemeinschaften, den Millets, Ehe, Erbe, Bildung und Fürsorge selbst. Nach der Vertreibung aus Spanien 1492 fanden zahlreiche sephardische Juden Aufnahme in Saloniki und Istanbul. Zugleich waren Nichtmuslime rechtlich benachteiligt, und die christlichen Familien des Balkans mussten Söhne für die Knabenlese abgeben. Sklaverei war verbreitet: Kriegsgefangene und Verschleppte aus dem Kaukasus, Osteuropa und Afrika dienten in Haushalten, Palästen und im Heer.",
+          "Frauen konnten nach islamischem Recht Eigentum besitzen, erben, vor Gericht klagen und Stiftungen gründen, was viele Frauen der Oberschicht nutzten. Im Harem des Palastes, der privaten Welt der Sultansfamilie, gewannen Frauen wie Hürrem und Kösem großen politischen Einfluss; die Mutter des Sultans, die Valide Sultan, war eine der mächtigsten Personen des Hofes. Im 19. Jahrhundert entstanden Mädchenschulen, Frauenzeitschriften und eine Debatte über Bildung und Rechte der Frauen, an der sich Schriftstellerinnen wie Fatma Aliye beteiligten. Kaffeehäuser, Badehäuser und Moscheehöfe waren Orte der Geselligkeit, an denen Nachrichten, Gerüchte und Geschichten ausgetauscht wurden."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Das Osmanische Reich verstand sich als sunnitisch-islamischer Staat, in dem das religiöse Recht der Scharia neben den Gesetzen des Sultans, dem Kanun, galt. An der Spitze der Gelehrten stand der Scheichülislam, der in Rechtsgutachten, den Fatwas, die Vereinbarkeit staatlicher Maßnahmen mit dem Islam bestätigte. Medresen bildeten Richter, Lehrer und Prediger aus, während Sufi-Orden wie die Mevlevi mit ihren Derwischen und die Bektaschi, die eng mit den Janitscharen verbunden waren, die Volksfrömmigkeit prägten.",
+          "Die Baukunst erreichte im 16. Jahrhundert ihren Höhepunkt mit dem Architekten Sinan, der in Istanbul und Edirne Kuppelmoscheen schuf, die das Vorbild der Hagia Sophia weiterentwickelten. Kalligrafie, Buchmalerei, Fliesen aus Iznik, Teppiche und Textilien gehören zu den bedeutendsten Kunstformen. Die Hofdichtung schrieb man in einer osmanischen Sprache voller arabischer und persischer Wörter, während Volksdichter, Schattenspieler mit der Figur des Karagöz und Märchenerzähler das einfache Publikum unterhielten. Reiseschriftsteller wie Evliya Çelebi und Geschichtsschreiber hielten das Leben im Reich fest.",
+          "Mit dem Buchdruck in osmanischem Türkisch, den İbrahim Müteferrika 1727 einführte, und den Reformschulen des 19. Jahrhunderts wuchs der Austausch mit dem europäischen Wissen. Es entstanden Militär- und Medizinschulen, 1831 die erste amtliche Zeitung und eine Presse, in der Dichter wie Namık Kemal Begriffe wie Vaterland und Freiheit verbreiteten. Zugleich verbreiteten sich unter Griechen, Serben, Bulgaren, Armeniern und Arabern nationale Ideen, die das gemeinsame Dach des Reiches infrage stellten."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Das Reich kontrollierte im 16. Jahrhundert die Verbindungen zwischen Mittelmeer, Schwarzem Meer, Rotem Meer und Persischem Golf. Über Bursa, Aleppo und Kairo liefen Seide, Gewürze, Kaffee und Baumwolle, und Istanbul war mit mehreren Hunderttausend Einwohnern eine der größten Städte der Welt. Der Staat achtete vor allem auf die Versorgung der Hauptstadt und des Heeres mit Getreide, Fleisch und Rohstoffen und legte Preise und Ausfuhrverbote fest.",
+          "Die Landwirtschaft bildete die Grundlage der Staatseinnahmen, die zunächst über das Timar-System und später über Steuerpachten eingezogen wurden. Europäische Kaufleute aus Venedig, Frankreich, England und den Niederlanden erhielten durch Handelsprivilegien, die Kapitulationen, günstige Zölle und eigene Gerichtsbarkeit. Was ursprünglich ein Zeichen der Großzügigkeit des Sultans war, wurde im 19. Jahrhundert zum Einfallstor für europäische Waren, gegen die das heimische Handwerk kaum konkurrieren konnte.",
+          "Militärisch waren die Osmanen im 15. und 16. Jahrhundert führend im Einsatz von Kanonen und Feuerwaffen, fielen aber später gegenüber den europäischen Mächten zurück. Im 19. Jahrhundert finanzierte der Staat Reformen, Eisenbahnen und Telegrafenlinien mit Krediten aus Europa, bis er 1875 die Zahlungen einstellen musste und 1881 eine von Gläubigern geleitete Schuldenverwaltung wichtige Steuern übernahm. Bahnlinien wie die Anatolische Bahn und die Hedschasbahn, Dampfschiffe und Häfen veränderten Handel und Reisen, schufen aber auch neue Abhängigkeiten von ausländischem Kapital."
+        ]
+      }
+    ]
+  },
+  {
     "id": "renaissance-entdeckungen",
     "title": "Renaissance, Entdeckungen und Reformation",
-    "order": 8,
+    "order": 12,
     "start": 1400,
     "end": 1600,
     "color": "#f59e0b",
@@ -684,9 +1033,95 @@
     ]
   },
   {
+    "id": "lateinamerika",
+    "title": "Lateinamerika: Kolonialzeit und Unabhängigkeit",
+    "order": 13,
+    "start": 1492,
+    "end": 1910,
+    "color": "#65a30d",
+    "regions": [
+      "amerika",
+      "europa",
+      "afrika"
+    ],
+    "summary": "Spanien und Portugal errichteten nach 1492 in Amerika Kolonialreiche, die auf Silber, Zucker und der Arbeit Indigener und versklavter Afrikaner beruhten; im 19. Jahrhundert erkämpften die Kolonien ihre Unabhängigkeit und rangen bis zur Mexikanischen Revolution um Grenzen, Verfassungen und soziale Gerechtigkeit.",
+    "overview": [
+      "Mit der Ankunft des Kolumbus 1492 begann für die Bewohner Amerikas eine Zeit gewaltsamer Umwälzungen. Im Vertrag von Tordesillas teilten Spanien und Portugal 1494 die neuen Länder unter sich auf, ohne die dort lebenden Menschen zu fragen. Spanische Konquistadoren eroberten 1521 das Aztekenreich und ab 1532 das Inkareich; eingeschleppte Seuchen wie die Pocken, Krieg und Zwangsarbeit ließen die indigene Bevölkerung im 16. Jahrhundert um einen großen Teil schrumpfen. Portugal nahm ab 1500 Brasilien in Besitz und baute dort eine Zuckerwirtschaft auf.",
+      "Die spanische Krone organisierte ihr Weltreich in Vizekönigreichen, zunächst Neuspanien mit der Hauptstadt Mexiko und Peru mit Lima. Indigene Gemeinden mussten Tribut zahlen und Arbeitsdienste leisten, etwa in den Silberminen von Potosí, deren Silber über Flotten nach Sevilla und über die Manila-Galeone nach China gelangte. Kritiker wie Bartolomé de Las Casas prangerten die Gewalt an und erreichten 1542 die Neuen Gesetze, die die Versklavung der Indigenen verboten, in der Praxis aber oft unterlaufen wurden.",
+      "Für die Plantagen Brasiliens und der Karibik verschleppten europäische Händler Millionen Afrikaner über den Atlantik. Versklavte Menschen wehrten sich durch Flucht, Sabotage und Aufstände; in Brasilien gründeten Geflohene Gemeinschaften wie Palmares, das fast ein Jahrhundert lang bestand. In der Kolonialgesellschaft entstand eine Rangordnung nach Herkunft und Hautfarbe, an deren Spitze in Europa geborene Spanier und Portugiesen standen, gefolgt von den in Amerika geborenen Kreolen, Mestizen, Indigenen und Versklavten.",
+      "Im 18. Jahrhundert verschärften Reformen der spanischen Bourbonen Steuerdruck und Kontrolle; 1780 führte Túpac Amaru II. in Peru den größten indigenen Aufstand der Kolonialzeit an. Die Revolution der Versklavten in Saint-Domingue mündete 1804 in die Unabhängigkeit Haitis. Als Napoleon 1808 Spanien besetzte, bildeten Kreolen in Amerika eigene Regierungsjunten; in langen Kriegen erkämpften Simón Bolívar, José de San Martín und andere bis 1825 die Unabhängigkeit fast aller spanischen Festlandskolonien, während sich Brasilien 1822 friedlicher als Kaiserreich von Portugal löste.",
+      "Die jungen Staaten blieben von Grenzkonflikten, Bürgerkriegen und der Macht militärischer Führer geprägt. Mexiko verlor 1848 nach dem Krieg mit den USA große Gebiete im Norden, und im Paraguay-Krieg sowie im Salpeterkrieg kämpften Nachbarn um Land und Rohstoffe. Liberale wie Benito Juárez trennten Kirche und Staat, Brasilien schaffte 1888 als letztes Land Amerikas die Sklaverei ab, und Kuba erkämpfte sich bis 1898 die Loslösung von Spanien. Wachsende Exportwirtschaft und Masseneinwanderung brachten Wohlstand für Eliten, aber auch neue Abhängigkeiten, gegen die sich 1910 die Mexikanische Revolution erhob."
+    ],
+    "consequences": [
+      "Spanisch und Portugiesisch wurden zu den Hauptsprachen eines ganzen Kontinents, und der Katholizismus prägt Lateinamerika bis heute.",
+      "Die Begegnung indigener, europäischer und afrikanischer Kulturen schuf neue Gesellschaften mit eigener Musik, Küche, Religiosität und Kunst; zugleich wirken Rassismus und die Benachteiligung Indigener und Schwarzer bis in die Gegenwart nach.",
+      "Silber aus Potosí und Mexiko sowie Zucker, Gold und später Kaffee verbanden Amerika mit Europa, Afrika und Asien und trugen wesentlich zur Entstehung einer weltweiten Wirtschaft bei.",
+      "Die Unabhängigkeitsbewegungen schufen fast zwanzig unabhängige Staaten, deren Grenzen im Wesentlichen den kolonialen Verwaltungseinheiten folgten.",
+      "Die Abhängigkeit vom Export von Rohstoffen, die ungleiche Verteilung von Land und der wachsende Einfluss der USA blieben zentrale Probleme der Region im 20. Jahrhundert."
+    ],
+    "tags": [
+      "kolonialismus",
+      "konquista",
+      "silber",
+      "sklaverei",
+      "zucker",
+      "unabhängigkeit",
+      "mexiko",
+      "brasilien",
+      "karibik"
+    ],
+    "keyFacts": [
+      "1494 teilen Spanien und Portugal im Vertrag von Tordesillas die außereuropäische Welt unter sich auf; 1500 erreicht Pedro Álvares Cabral Brasilien.",
+      "1521 fällt die Aztekenhauptstadt Tenochtitlan, 1532 nimmt Pizarro den Inka Atahualpa in Cajamarca gefangen.",
+      "1545 entdecken die Spanier den Silberberg von Potosí, die ergiebigste Silberquelle der frühen Neuzeit.",
+      "1691 verteidigt Sor Juana Inés de la Cruz in Mexiko das Recht der Frauen auf Bildung.",
+      "1780 beginnt in Peru der Aufstand Túpac Amarus II.; 1804 wird Haiti als erster von ehemals Versklavten gegründeter Staat unabhängig.",
+      "Zwischen 1810 und 1825 erkämpfen die spanischen Festlandskolonien ihre Unabhängigkeit; 1822 wird Brasilien ein eigenes Kaiserreich.",
+      "1888 schafft Brasilien als letztes Land Amerikas die Sklaverei ab; 1910 beginnt die Mexikanische Revolution."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die spanische Krone betrachtete die eroberten Gebiete als eigene Königreiche, die vom Indienrat in Spanien aus regiert wurden. Vor Ort vertraten Vizekönige den Monarchen: 1535 entstand das Vizekönigreich Neuspanien, 1542 das Vizekönigreich Peru, im 18. Jahrhundert kamen Neugranada und Río de la Plata hinzu. Gerichtshöfe, die Audiencias, kontrollierten die Verwaltung, und am Ende jeder Amtszeit wurde ein Beamter in einem Prüfverfahren zur Rechenschaft gezogen. Weil Briefe nach Spanien Monate brauchten, hatten die Kolonialbehörden in der Praxis viel Spielraum, und Gesetze aus Madrid wurden oft nach dem Grundsatz „Ich gehorche, aber ich führe nicht aus“ aufgeschoben.",
+          "Brasilien wurde zunächst in erbliche Kapitanate an private Lehnsträger vergeben; weil das Modell scheiterte, setzte Portugal 1549 einen Generalgouverneur in Salvador ein. In der Karibik errichteten seit dem 17. Jahrhundert auch England, Frankreich und die Niederlande Kolonien, deren Plantagen auf Sklavenarbeit beruhten. Indigene Gemeinden behielten unter spanischer Herrschaft eigene Ortsvorsteher, die Kaziken, die Tribute einsammelten und zwischen Dorf und Kolonialstaat vermittelten.",
+          "Die Unabhängigkeit wurde vor allem von Kreolen getragen, die sich von den Ämtern zurückgesetzt fühlten, die die Krone bevorzugt mit Spaniern besetzte. Nach 1810 entstanden in langen Kriegen Republiken, deren Verfassungen sich an den USA und an Frankreich orientierten; das Wahlrecht blieb jedoch meist auf besitzende Männer beschränkt. Häufig rissen Caudillos, Militärführer mit einer persönlichen Gefolgschaft, die Macht an sich. Der Streit zwischen Konservativen, die Kirche und Tradition stützten, und Liberalen, die Freihandel, Säkularisierung und Bürgerrechte forderten, bestimmte die Politik des 19. Jahrhunderts."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die koloniale Gesellschaft war nach Herkunft geordnet. Ganz oben standen die in Europa geborenen Spanier und Portugiesen, darunter die in Amerika geborenen Kreolen, die Mestizen mit europäischen und indigenen Vorfahren, die Mulatten, die indigene Bevölkerung und die versklavten Afrikaner. Diese Einteilung war in der Praxis durchlässiger als auf dem Papier: Wohlstand, Heirat und Kirchenbücher konnten über die Zugehörigkeit mitentscheiden. Dennoch bestimmte sie Steuerpflichten, Zugang zu Ämtern und Bildung und das soziale Ansehen.",
+          "Die indigene Bevölkerung brach im 16. Jahrhundert durch Seuchen, Gewalt und Zwangsarbeit dramatisch ein; in Zentralmexiko starb nach Schätzungen innerhalb eines Jahrhunderts der weitaus größte Teil der Menschen. Die Überlebenden wurden in neu angelegten Dörfern zusammengezogen, mussten Tribute zahlen und Arbeitsdienste leisten, bewahrten aber Sprachen wie Nahuatl, Quechua und Maya sowie viele Bräuche. In Brasilien und der Karibik prägten versklavte Afrikaner und ihre Nachkommen die Bevölkerung; sie arbeiteten auf Zuckerplantagen, in Bergwerken und Haushalten und schufen in Familien, Bruderschaften und Fluchtgemeinschaften eigene Lebensräume.",
+          "Frauen hatten in der Kolonialgesellschaft rechtlich eine untergeordnete Stellung, konnten aber Besitz erben, Geschäfte führen und als Witwen Haushalte leiten. Klöster boten Frauen aus wohlhabenden Familien einen Ort der Bildung, wie das Beispiel der Dichterin Sor Juana Inés de la Cruz zeigt. Indigene und afrikanische Frauen arbeiteten als Händlerinnen auf Märkten, als Hausangestellte und auf Feldern; im Aufstand Túpac Amarus II. übernahm Micaela Bastidas militärische und organisatorische Führungsaufgaben. Im 19. Jahrhundert veränderten Masseneinwanderung, wachsende Städte und das Ende der Sklaverei das Zusammenleben grundlegend."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Die Ausbreitung des Christentums war erklärtes Ziel und Rechtfertigung der Eroberung. Franziskaner, Dominikaner, Augustiner und Jesuiten tauften Millionen Menschen, zerstörten Tempel und Bilderhandschriften, lernten aber auch indigene Sprachen, verfassten Grammatiken und zeichneten Wissen über die alten Kulturen auf, wie Bernardino de Sahagún in seinem großen Werk über die Azteken. In der Volksfrömmigkeit verbanden sich christliche Heilige mit älteren Vorstellungen; die Verehrung der Jungfrau von Guadalupe wurde zum Sinnbild Mexikos, afrikanische Religionen lebten in Formen wie dem Candomblé in Brasilien fort.",
+          "Ordensleute stritten offen über die Rechtmäßigkeit der Eroberung. Der Dominikaner Antonio de Montesinos klagte 1511 auf Hispaniola die Grausamkeit der Siedler an, und Bartolomé de Las Casas verteidigte 1550 in der Disputation von Valladolid die Menschenwürde der Indigenen. Diese Debatten trugen zur Entwicklung des Völkerrechts bei, wie es Gelehrte der Schule von Salamanca formulierten.",
+          "1551 wurden in Lima und Mexiko die ersten Universitäten des Festlands gegründet, und schon um 1539 arbeitete in Mexiko-Stadt eine Druckerpresse. Barocke Kirchen in Mexiko, Peru und Brasilien verbanden europäische Formen mit indigener und afrikanischer Handwerkskunst; in Minas Gerais schuf der Bildhauer Aleijadinho eigenständige Meisterwerke. Im 19. Jahrhundert suchten Schriftsteller nach einer eigenen Identität; José Martí forderte in seinem Essay „Unser Amerika“ 1891, die Völker des Kontinents sollten sich selbst und ihre Geschichte kennen, statt Europa und die USA nachzuahmen."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Das Silber war der Motor der spanischen Kolonialwirtschaft. Aus Potosí in den Anden und aus Zacatecas und Guanajuato in Mexiko kam der größte Teil des Silbers, das zwischen dem 16. und 18. Jahrhundert weltweit gefördert wurde. In Mexiko seit den 1550er-, in Potosí seit den 1570er-Jahren gewann man es mit dem Amalgamverfahren, bei dem Quecksilber das Silber aus dem zerkleinerten Erz löste; das giftige Quecksilber kam vor allem aus Huancavelica in Peru und aus Almadén in Spanien. Zwangsarbeit nach dem Mita-System stellte die Arbeitskräfte, von denen viele an Unfällen und Vergiftungen starben.",
+          "Spanien erlaubte den Handel mit seinen Kolonien lange nur über Sevilla und später Cádiz; in der Regel jährlich fuhren bewaffnete Flotten nach Veracruz und an die Küste von Panama und Kolumbien. Über die Manila-Galeone gelangte mexikanisches Silber nach Asien, wo es gegen Seide und Porzellan getauscht wurde. Schmuggel mit Engländern, Franzosen und Niederländern blühte dennoch, und die Kolonien entwickelten eigene Märkte für Lebensmittel, Textilien und Vieh.",
+          "Brasilien und die Karibik wurden zu Zentren der Zuckerproduktion: Auf Plantagen mit Zuckermühlen verarbeiteten versklavte Menschen das Zuckerrohr unter mörderischen Bedingungen zu Rohzucker für Europa. Um 1700 löste in Brasilien ein Goldrausch in Minas Gerais eine Wanderungswelle aus. Nach der Unabhängigkeit öffneten sich die Länder dem Welthandel und exportierten Kaffee, Guano, Salpeter, Weizen, Rindfleisch und Kautschuk; Eisenbahnen, Häfen und Telegrafen wurden meist mit britischem, später auch US-amerikanischem Kapital gebaut. Diese exportorientierte Wirtschaft brachte Wachstum, machte die Länder aber abhängig von schwankenden Weltmarktpreisen."
+        ]
+      }
+    ]
+  },
+  {
     "id": "absolutismus-aufklaerung",
     "title": "Absolutismus und Aufklärung",
-    "order": 9,
+    "order": 14,
     "start": 1600,
     "end": 1789,
     "color": "#6366f1",
@@ -770,7 +1205,7 @@
   {
     "id": "revolutionen",
     "title": "Zeitalter der Revolutionen",
-    "order": 10,
+    "order": 15,
     "start": 1776,
     "end": 1848,
     "color": "#ef4444",
@@ -853,7 +1288,7 @@
   {
     "id": "industrialisierung-imperialismus",
     "title": "Industrialisierung, Nationalstaaten und Imperialismus",
-    "order": 11,
+    "order": 16,
     "start": 1780,
     "end": 1914,
     "color": "#475569",
@@ -938,7 +1373,7 @@
   {
     "id": "erster-weltkrieg-zwischenkriegszeit",
     "title": "Erster Weltkrieg und Zwischenkriegszeit",
-    "order": 12,
+    "order": 17,
     "start": 1914,
     "end": 1939,
     "color": "#b45309",
@@ -1024,7 +1459,7 @@
   {
     "id": "zweiter-weltkrieg",
     "title": "Zweiter Weltkrieg und Holocaust",
-    "order": 13,
+    "order": 18,
     "start": 1933,
     "end": 1945,
     "color": "#7f1d1d",
@@ -1109,10 +1544,10 @@
   },
   {
     "id": "kalter-krieg-gegenwart",
-    "title": "Kalter Krieg, Dekolonisation und Gegenwart",
-    "order": 14,
+    "title": "Kalter Krieg und Dekolonisation",
+    "order": 19,
     "start": 1945,
-    "end": 2026,
+    "end": 1991,
     "color": "#2563eb",
     "regions": [
       "welt",
@@ -1122,39 +1557,38 @@
       "amerika",
       "naher-osten"
     ],
-    "summary": "Zwei Supermächte teilen die Welt in Blöcke, die Kolonien werden unabhängig, 1989 fällt die Mauer, und Globalisierung, Terror, Finanzkrisen und Pandemie prägen die Gegenwart.",
+    "summary": "Zwei Supermächte teilen die Welt in Blöcke, die Kolonien Asiens und Afrikas werden unabhängig, und 1989 bis 1991 brechen Ostblock und Sowjetunion zusammen.",
     "overview": [
       "Nach 1945 standen sich die Siegermächte USA und Sowjetunion bald als Gegner gegenüber. Europa wurde durch den Eisernen Vorhang geteilt, Deutschland in zwei Staaten gespalten, und 1961 zementierte die Berliner Mauer die Trennung. Beide Seiten rüsteten mit Atomwaffen auf und führten Stellvertreterkriege in Korea, Vietnam und Afghanistan. In der Kubakrise 1962 stand die Welt kurz vor einem Atomkrieg. Zugleich trieb der Wettlauf der Systeme Wissenschaft und Technik voran, bis hin zur Mondlandung 1969.",
-      "Parallel dazu zerfielen die europäischen Kolonialreiche. Indien und Pakistan wurden 1947 unabhängig, in den 1950er und 1960er Jahren folgten fast alle Staaten Afrikas und Asiens, teils friedlich, teils nach blutigen Kriegen wie in Algerien oder Vietnam. In China errichtete Mao Zedong 1949 die Volksrepublik, im Nahen Osten entstand 1948 der Staat Israel, was bis heute Konflikte mit den Palästinensern und den arabischen Nachbarn nach sich zieht. Die neuen Staaten der sogenannten Dritten Welt suchten zwischen den Blöcken ihren eigenen Weg.",
-      "In Westeuropa führten Marshallplan und europäische Integration zu Wohlstand und Demokratie, aus der Montanunion wurde die Europäische Union. Die Ölkrise 1973 beendete das lange Wirtschaftswunder und zeigte die Abhängigkeit des Westens von den Rohstoffen anderer Regionen. Im Osten stagnierte die Planwirtschaft; Reformversuche wie der Prager Frühling 1968 wurden niedergeschlagen. Erst Michail Gorbatschow öffnete ab 1985 mit Glasnost und Perestroika den Weg zu Veränderungen.",
-      "1989 fegte eine friedliche Revolution die kommunistischen Regime in Osteuropa hinweg; am 9. November fiel die Berliner Mauer, 1990 wurde Deutschland wiedervereinigt, und 1991 löste sich die Sowjetunion auf. In Südafrika endete 1994 die Apartheid mit der Wahl Nelson Mandelas zum Präsidenten. Viele hofften auf eine friedliche Weltordnung, doch Kriege im ehemaligen Jugoslawien, der Völkermord in Ruanda und die Anschläge vom 11. September 2001 zeigten neue Gefahren.",
-      "Das 21. Jahrhundert ist von Globalisierung und Digitalisierung geprägt: Internet und Smartphone verbinden Milliarden Menschen, China wurde zur zweitgrößten Wirtschaftsmacht, die Weltfinanzkrise 2008 und die COVID-19-Pandemie ab 2020 zeigten, wie eng die Welt verflochten ist. Der Arabische Frühling weckte Hoffnungen auf Demokratie, die vielerorts enttäuscht wurden. Der Klimawandel, Migration, der russische Angriffskrieg gegen die Ukraine seit 2022 und die Rivalität zwischen den USA und China gehören zu den großen Fragen der Gegenwart."
+      "Parallel dazu zerfielen die europäischen Kolonialreiche. Indien und Pakistan wurden 1947 unabhängig, in den 1950er und 1960er Jahren folgten fast alle Staaten Afrikas und Asiens, teils friedlich, teils nach blutigen Kriegen wie in Algerien oder Vietnam. In China errichtete Mao Zedong 1949 die Volksrepublik, im Nahen Osten entstand 1948 der Staat Israel, was Kriege mit den arabischen Nachbarn und einen bis heute ungelösten Konflikt mit den Palästinensern nach sich zog. Die neuen Staaten der sogenannten Dritten Welt suchten zwischen den Blöcken ihren eigenen Weg.",
+      "In Westeuropa führten Marshallplan und europäische Integration zu Wohlstand und Demokratie; aus der Montanunion von 1951 gingen 1957 die Europäischen Gemeinschaften hervor. Die Ölkrise 1973 beendete das lange Wirtschaftswunder und zeigte die Abhängigkeit des Westens von den Rohstoffen anderer Regionen. Im Osten stagnierte die Planwirtschaft; Reformversuche wie der Prager Frühling 1968 wurden niedergeschlagen. In Südeuropa endeten in den 1970er Jahren die Diktaturen in Portugal, Griechenland und Spanien, und in Lateinamerika lösten Militärregime einander ab, bis in den 1980er Jahren viele Länder zur Demokratie zurückkehrten.",
+      "Nach einer Phase der Entspannung verschärfte sich der Gegensatz um 1980 erneut. Die Sowjetunion marschierte 1979 in Afghanistan ein, die NATO beschloss die Stationierung neuer Mittelstreckenraketen, und US-Präsident Ronald Reagan setzte auf massive Aufrüstung. In Polen forderte die unabhängige Gewerkschaft Solidarność ab 1980 das kommunistische Regime heraus. Erst Michail Gorbatschow öffnete ab 1985 mit Glasnost und Perestroika den Weg zu Veränderungen und schloss mit den USA Abrüstungsverträge.",
+      "1989 fegte eine friedliche Revolution die kommunistischen Regime in Osteuropa hinweg; am 9. November fiel die Berliner Mauer, und am 3. Oktober 1990 wurde Deutschland wiedervereinigt. In China dagegen ließ die Führung im Juni 1989 die Demokratiebewegung auf dem Tian'anmen-Platz blutig niederschlagen. Im Juli 1991 löste sich der Warschauer Pakt auf, und nach einem gescheiterten Putsch konservativer Kommunisten im August zerfiel die Sowjetunion im Dezember 1991 in fünfzehn unabhängige Staaten. Damit endete der Kalte Krieg, der die Welt fast ein halbes Jahrhundert lang geprägt hatte."
     ],
     "consequences": [
-      "Das Ende des Kalten Krieges beendete die Teilung Europas und Deutschlands; die Europäische Union wuchs nach Osten und wurde zu einem Raum ohne Grenzen mit gemeinsamer Währung.",
-      "Die Dekolonisation vervielfachte die Zahl der unabhängigen Staaten; die Vereinten Nationen wuchsen von 51 auf 193 Mitglieder.",
-      "Atomwaffen, Raumfahrt, Computer und Internet, die im Systemwettbewerb entstanden, prägen Sicherheit, Wirtschaft und Alltag bis heute.",
-      "Der Kampf gegen Apartheid und Kolonialismus stärkte weltweit Menschenrechte und Bürgerrechtsbewegungen.",
-      "Globale Krisen wie Finanzkrise, Pandemie und Klimawandel zeigen, dass Probleme der Gegenwart nur durch internationale Zusammenarbeit zu lösen sind."
+      "Das Ende des Kalten Krieges beendete die Teilung Europas und Deutschlands und machte den Weg frei für die Demokratisierung Mittel- und Osteuropas.",
+      "Die Dekolonisation vervielfachte die Zahl der unabhängigen Staaten; die Vereinten Nationen wuchsen von 51 Gründungsmitgliedern auf über 160 Mitglieder im Jahr 1991.",
+      "Atomwaffen, Raumfahrt, Computer und Satelliten, die im Systemwettbewerb entstanden, prägen Sicherheit, Wirtschaft und Alltag bis heute.",
+      "Der Kampf gegen Kolonialismus, Rassentrennung und Apartheid stärkte weltweit Menschenrechte und Bürgerrechtsbewegungen.",
+      "Viele Konflikte der Gegenwart, etwa im Nahen Osten, in Afghanistan, auf der koreanischen Halbinsel und um Taiwan, haben ihre Wurzeln in der Zeit des Kalten Krieges und der Dekolonisation."
     ],
     "tags": [
       "kalter krieg",
       "dekolonisation",
       "atomwaffen",
       "berliner mauer",
-      "wiedervereinigung",
-      "globalisierung",
-      "terrorismus",
-      "pandemie"
+      "wettrüsten",
+      "bürgerrechte",
+      "wiedervereinigung"
     ],
     "keyFacts": [
       "1948/49 versorgen die Westmächte das von der Sowjetunion blockierte West-Berlin über die Luftbrücke; 1949 entstehen die NATO und zwei deutsche Staaten.",
       "1950 bis 1953 wird der Koreakrieg zum ersten heißen Krieg des Kalten Krieges; 1955 gründet die Sowjetunion als Gegenstück zur NATO den Warschauer Pakt.",
       "1960 werden im sogenannten Afrikanischen Jahr 17 afrikanische Staaten unabhängig; 1961 entsteht in Belgrad die Bewegung der Blockfreien.",
-      "1965 bis 1975 kämpfen die USA in Vietnam vergeblich gegen den kommunistischen Norden; 1968 schlägt der Warschauer Pakt den Prager Frühling nieder.",
-      "1986 explodiert ein Reaktor in Tschernobyl; 1989 lässt Chinas Führung die Proteste auf dem Tian'anmen-Platz niederschlagen, und am 3. Oktober 1990 wird Deutschland wiedervereinigt.",
-      "1991 gibt das CERN das World Wide Web frei; 1994 sterben beim Völkermord in Ruanda innerhalb von 100 Tagen rund 800.000 Menschen.",
-      "2015 einigen sich fast alle Staaten auf das Pariser Klimaabkommen; am 24. Februar 2022 beginnt Russland einen Angriffskrieg gegen die Ukraine."
+      "1965 bis 1973 kämpfen US-Truppen in Vietnam vergeblich gegen den kommunistischen Norden, der 1975 den Süden erobert; 1968 schlägt der Warschauer Pakt den Prager Frühling nieder.",
+      "1979 marschiert die Sowjetunion in Afghanistan ein; 1980 entsteht in Polen die unabhängige Gewerkschaft Solidarność.",
+      "1986 explodiert ein Reaktor in Tschernobyl; im Juni 1989 lässt Chinas Führung die Proteste auf dem Tian'anmen-Platz niederschlagen.",
+      "Am 9. November 1989 fällt die Berliner Mauer, am 3. Oktober 1990 wird Deutschland wiedervereinigt, und im Dezember 1991 löst sich die Sowjetunion auf."
     ],
     "sections": [
       {
@@ -1163,7 +1597,7 @@
         "paragraphs": [
           "Die Ordnung des Kalten Krieges beruhte auf zwei Bündnissystemen. Mit der Truman-Doktrin von 1947 verpflichteten sich die USA, jede von kommunistischer Übernahme bedrohte Regierung zu unterstützen; diese Politik der Eindämmung, Containment, fand in der NATO von 1949 ihre militärische Form. Die Sowjetunion antwortete 1955 mit dem Warschauer Pakt und band die Staaten Osteuropas über kommunistische Einheitsparteien, Geheimdienste und Wirtschaftsverträge an sich. Wer aus diesem Block ausbrechen wollte, wie Ungarn 1956 oder die Tschechoslowakei 1968, wurde mit Panzern zurückgeholt; Leonid Breschnew erklärte 1968 die begrenzte Souveränität der sozialistischen Staaten zur Doktrin.",
           "Zwischen den Blöcken suchten die neuen Staaten Asiens und Afrikas einen dritten Weg. Auf der Konferenz von Bandung 1955 und in der Bewegung der Blockfreien ab 1961 forderten Politiker wie Nehru, Nasser, Sukarno und Tito Selbstbestimmung, Abrüstung und wirtschaftliche Gerechtigkeit. Zugleich wurden viele dieser Länder zu Schauplätzen von Stellvertreterkriegen, in denen Washington und Moskau Regierungen stützten oder stürzten, etwa im Kongo, in Angola, Chile oder Afghanistan. In den 1970er Jahren milderte die Entspannungspolitik die Gegensätze: Verträge über die Begrenzung strategischer Waffen und die Schlussakte von Helsinki 1975 schufen Regeln, auf die sich Bürgerrechtler im Osten später berufen konnten.",
-          "Nach 1990 schien die liberale Demokratie gesiegt zu haben; die Europäische Union nahm 2004 zehn meist osteuropäische Staaten auf, und die NATO dehnte sich nach Osten aus. Doch der Aufstieg Chinas zur zweiten Supermacht, der Wiederaufstieg Russlands unter Wladimir Putin, Bürgerkriege in Syrien und Afrika sowie populistische Bewegungen in Europa und den USA veränderten das Bild. Der Austritt Großbritanniens aus der EU 2020 und der russische Angriff auf die Ukraine 2022 zeigten, dass Frieden und Zusammenarbeit in Europa nicht selbstverständlich sind."
+          "Um 1980 begann eine neue Eiszeit: Nach dem sowjetischen Einmarsch in Afghanistan boykottierten viele westliche Staaten die Olympischen Spiele in Moskau, und der NATO-Doppelbeschluss von 1979 führte zur Stationierung neuer Raketen in Westeuropa, gegen die Hunderttausende demonstrierten. Michail Gorbatschow, seit 1985 an der Spitze der Sowjetunion, suchte dagegen den Ausgleich, vereinbarte 1987 mit Ronald Reagan die Abschaffung der Mittelstreckenraketen und verzichtete darauf, die Reformbewegungen in Osteuropa gewaltsam zu unterdrücken. Nach den Revolutionen von 1989 regelte der Zwei-plus-Vier-Vertrag 1990 die äußeren Fragen der deutschen Einheit. 1991 lösten sich Warschauer Pakt und Sowjetunion auf, und die Blockkonfrontation war beendet."
         ]
       },
       {
@@ -1172,7 +1606,7 @@
         "paragraphs": [
           "In Westeuropa brachte das Wirtschaftswunder der 1950er und 1960er Jahre Vollbeschäftigung, Auto, Kühlschrank und Fernseher in Millionen Haushalte. Die Bundesrepublik warb ab 1955 Gastarbeiter aus Italien, Griechenland, Spanien und der Türkei an, aus denen eine Einwanderungsgesellschaft wurde. In der DDR und den Ostblockstaaten sicherte der Staat Arbeit, Wohnung und Kinderbetreuung, überwachte aber das Leben der Bürger durch Geheimdienste wie die Stasi und schränkte Reisen und Meinungsfreiheit ein. Die Konsumwelt des Westens, sichtbar im Westfernsehen, wurde zu einem stillen Argument gegen das System.",
           "Die 1960er Jahre stellten die alten Autoritäten in Frage. In den USA erkämpfte die Bürgerrechtsbewegung um Rosa Parks und Martin Luther King das Ende der gesetzlichen Rassentrennung, Studenten in Berkeley, Paris, Berlin und Mexiko-Stadt protestierten 1968 gegen Vietnamkrieg, verkrustete Universitäten und die Generation ihrer Eltern. Die Antibabypille, die Frauenbewegung und neue Scheidungs- und Gleichstellungsgesetze veränderten das Familienleben; in der Schweiz erhielten Frauen erst 1971 das Wahlrecht. Umwelt- und Friedensbewegungen der 1970er und 1980er Jahre, verstärkt durch Tschernobyl, brachten grüne Parteien in die Parlamente.",
-          "Die Weltbevölkerung wuchs von 2,5 Milliarden im Jahr 1950 auf über 8 Milliarden im Jahr 2022, und erstmals lebte die Mehrheit der Menschen in Städten. Bildung breitete sich aus, doch Mädchen wurden vielerorts weiter benachteiligt; die Pakistanerin Malala Yousafzai, die 2012 wegen ihres Einsatzes für Mädchenbildung von den Taliban angeschossen wurde, erhielt 2014 als jüngste Preisträgerin den Friedensnobelpreis. Migration, Flucht vor Kriegen und der Wunsch nach Arbeit brachten Millionen Menschen über Grenzen und machten Einwanderung zu einem der umstrittensten Themen der Gegenwart."
+          "Die Weltbevölkerung wuchs von 2,5 Milliarden im Jahr 1950 auf rund 5,3 Milliarden im Jahr 1990, vor allem in Asien, Afrika und Lateinamerika. Medizinischer Fortschritt senkte die Kindersterblichkeit, und Millionen Menschen zogen vom Land in rasch wachsende Städte wie Kairo, Mexiko-Stadt oder Kalkutta. Nach der Unabhängigkeit bauten viele neue Staaten Schulen und Universitäten auf, sodass der Anteil der Menschen, die lesen und schreiben konnten, deutlich stieg. Migration aus den ehemaligen Kolonien nach Großbritannien, Frankreich und in die Niederlande veränderte die Gesellschaften Westeuropas."
         ]
       },
       {
@@ -1180,8 +1614,8 @@
         "title": "Kultur, Religion und Wissen",
         "paragraphs": [
           "Die Popkultur wurde zum Exportschlager des Westens: Rock 'n' Roll, Hollywoodfilme, Jeans und Coca-Cola verbreiteten ein Lebensgefühl, dem die Jugend auch hinter dem Eisernen Vorhang folgte, während die Ostblockstaaten mit sozialistischem Realismus und staatlich geförderter Kunst gegenhielten. Fernsehen wurde ab den 1950er Jahren zum Leitmedium, das Mondlandung, Vietnamkrieg und Mauerfall in die Wohnzimmer brachte. Literatur und Film verarbeiteten Weltkrieg und Holocaust, Diktatur und Exil, von Anne Franks Tagebuch über Alexander Solschenizyns Archipel Gulag bis zu Gabriel García Márquez und dem lateinamerikanischen Roman.",
-          "Die Wissenschaft erlebte einen beispiellosen Aufschwung, oft finanziert vom Wettlauf der Systeme. 1953 entschlüsselten Watson, Crick und Franklin die Struktur der DNA, Impfstoffe gegen Polio und die Ausrottung der Pocken 1980 verlängerten das Leben, die Grüne Revolution mit ertragreichen Getreidesorten wendete Hungersnöte in Asien ab. Der Transistor von 1947 und der Mikrochip machten Computer klein und billig; aus einem Militärnetz der USA erwuchs das Internet, das mit dem World Wide Web ab 1991 die Welt verband. Im 21. Jahrhundert prägen Smartphones, soziale Medien und künstliche Intelligenz Wissen, Öffentlichkeit und Arbeit.",
-          "Religion blieb eine gestaltende Kraft. Das Zweite Vatikanische Konzil von 1962 bis 1965 öffnete die katholische Kirche für die moderne Welt, die Befreiungstheologie in Lateinamerika stellte sich an die Seite der Armen, und der polnische Papst Johannes Paul II. stärkte den Widerstand gegen den Kommunismus. Die Iranische Revolution von 1979 machte den politischen Islam zu einer Weltmacht, und islamistischer Terror von al-Qaida bis zum sogenannten Islamischen Staat prägte die Sicherheitspolitik nach 2001. In Europa dagegen verloren die Kirchen viele Mitglieder, und die Gesellschaft wurde zunehmend säkular und religiös vielfältig."
+          "Die Wissenschaft erlebte einen beispiellosen Aufschwung, oft finanziert vom Wettlauf der Systeme. 1953 entschlüsselten Watson, Crick und Franklin die Struktur der DNA, Impfstoffe gegen Polio und die Ausrottung der Pocken 1980 verlängerten das Leben, die Grüne Revolution mit ertragreichen Getreidesorten wendete Hungersnöte in Asien ab. Der Transistor von 1947 und der Mikrochip machten Computer klein und billig, und in den 1980er Jahren zog der Personal Computer in Büros und Wohnungen ein. Aus dem ARPANET, einem Forschungsnetz des US-Verteidigungsministeriums von 1969, erwuchs das Internet, auf dem am Ende der Epoche das World Wide Web entstand.",
+          "Religion blieb eine gestaltende Kraft. Das Zweite Vatikanische Konzil von 1962 bis 1965 öffnete die katholische Kirche für die moderne Welt, die Befreiungstheologie in Lateinamerika stellte sich an die Seite der Armen, und der polnische Papst Johannes Paul II. stärkte ab 1978 den Widerstand gegen den Kommunismus. Die Iranische Revolution von 1979 machte den politischen Islam zu einer Macht, und im Krieg gegen die sowjetischen Truppen in Afghanistan sammelten sich in den 1980er Jahren Kämpfer aus vielen islamischen Ländern. In Europa dagegen verloren die Kirchen viele Mitglieder, und die Gesellschaft wurde zunehmend säkular."
         ]
       },
       {
@@ -1189,8 +1623,96 @@
         "title": "Wirtschaft und Technik",
         "paragraphs": [
           "Die Weltwirtschaft nach 1945 folgte im Westen den Regeln von Bretton Woods: fester Wechselkurs zum Dollar, Internationaler Währungsfonds und Weltbank, Abbau von Zöllen. Marshallplan, Wiederaufbau und die Soziale Marktwirtschaft nach Ludwig Erhard bescherten Westeuropa drei Jahrzehnte Wachstum, Japan stieg zur zweitgrößten Industrienation auf. Im Osten setzten Planwirtschaften auf Schwerindustrie und Fünfjahrpläne; sie hoben den Lebensstandard zunächst, konnten aber mit Konsumgütern und Computertechnik des Westens später nicht mithalten und trugen zum Zusammenbruch 1989 bei.",
-          "Die Ölkrisen von 1973 und 1979 beendeten den Boom, Inflation und Arbeitslosigkeit stiegen. Margaret Thatcher in Großbritannien und Ronald Reagan in den USA antworteten ab 1979 mit Privatisierung, Steuersenkungen und Deregulierung; die Macht der Gewerkschaften sank, die der Finanzmärkte wuchs. Zugleich öffnete Deng Xiaoping China ab 1978 für Marktwirtschaft und ausländisches Kapital; mit dem Beitritt zur Welthandelsorganisation 2001 wurde China zur Fabrik der Welt und hob Hunderte Millionen Menschen aus der Armut. Containerschiffe, Billigflüge und digitale Netze ließen Handel und Produktionsketten global werden.",
-          "Die Technik veränderte den Alltag in immer kürzeren Abständen: Düsenflugzeug und Atomkraftwerk in den 1950er Jahren, Taschenrechner und Farbfernseher in den 1970ern, Personal Computer in den 1980ern, Mobiltelefon und Internet in den 1990ern, das iPhone 2007 und seither Cloud, Plattformen und künstliche Intelligenz. Der Preis dieses Fortschritts wurde sichtbar: Der Ausstoß von Treibhausgasen verdreifachte sich seit 1960, und das Pariser Klimaabkommen von 2015 verpflichtet die Staaten, die Erderwärmung deutlich unter zwei Grad zu halten. Wind- und Solarenergie, Elektroautos und Batterien sollen die Wirtschaft des 21. Jahrhunderts von Kohle, Öl und Gas lösen."
+          "Die Ölkrisen von 1973 und 1979 beendeten den Boom, Inflation und Arbeitslosigkeit stiegen. Margaret Thatcher in Großbritannien ab 1979 und Ronald Reagan in den USA ab 1981 antworteten mit Privatisierung, Steuersenkungen und Deregulierung; die Macht der Gewerkschaften sank, die der Finanzmärkte wuchs. Zugleich öffnete Deng Xiaoping China ab 1978 schrittweise für Marktwirtschaft und ausländisches Kapital, etwa in Sonderwirtschaftszonen wie Shenzhen. Viele Länder Lateinamerikas und Afrikas gerieten in den 1980er Jahren in eine schwere Schuldenkrise, die als verlorenes Jahrzehnt in Erinnerung blieb.",
+          "Die Technik veränderte den Alltag in immer kürzeren Abständen: Düsenflugzeug und Atomkraftwerk in den 1950er Jahren, Containerschiff, Taschenrechner und Farbfernseher in den 1960er und 1970er Jahren, Personal Computer und erste Mobiltelefone in den 1980ern. Zugleich wuchs das Bewusstsein für die Grenzen des Wachstums, wie ein vielbeachteter Bericht an den Club of Rome 1972 hieß. Saurer Regen, das Ozonloch und Reaktorunfälle wie Tschernobyl 1986 machten Umweltschutz zur politischen Aufgabe; 1987 regelte das Montrealer Protokoll den Ausstieg aus ozonschädlichen Stoffen, und 1988 wurde der Weltklimarat gegründet."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gegenwart",
+    "title": "Globalisierte Welt: 1991 bis heute",
+    "order": 20,
+    "start": 1991,
+    "end": 2026,
+    "color": "#0891b2",
+    "regions": [
+      "welt",
+      "europa",
+      "asien",
+      "afrika",
+      "amerika",
+      "naher-osten",
+      "ozeanien"
+    ],
+    "summary": "Nach dem Ende des Kalten Krieges wachsen Märkte, Netze und Staaten enger zusammen, doch Terror, Kriege, Finanzkrisen, Pandemie und Klimawandel zeigen die Verwundbarkeit der globalisierten Welt.",
+    "overview": [
+      "Mit der Auflösung der Sowjetunion im Dezember 1991 endete der Kalte Krieg, und aus der Konkursmasse des Ostblocks entstanden fünfzehn Nachfolgestaaten der UdSSR sowie neue Demokratien in Mittel- und Osteuropa. Viele Beobachter erwarteten eine Zeit des Friedens, in der sich Demokratie und Marktwirtschaft überall durchsetzen würden. Mit dem 1992 unterzeichneten Vertrag von Maastricht wurde die Europäische Gemeinschaft 1993 zur Europäischen Union, die 1999 den Euro einführte und 2004 zehn neue Mitglieder aufnahm. Zugleich zeigten die Kriege im zerfallenden Jugoslawien und der Völkermord in Ruanda 1994, dass Nationalismus und Massengewalt keineswegs überwunden waren.",
+      "Die Globalisierung beschleunigte sich in nie gekanntem Tempo. Freihandelsabkommen, Containerschiffe und das World Wide Web verbanden Märkte und Menschen, und Länder wie China und Indien öffneten sich dem Weltmarkt. Mit dem Beitritt zur Welthandelsorganisation 2001 wurde China zur Werkbank der Welt und stieg 2010 zur zweitgrößten Volkswirtschaft auf. Hunderte Millionen Menschen entkamen der extremen Armut, doch in alten Industrieregionen des Westens gingen Arbeitsplätze verloren, und die Ungleichheit innerhalb vieler Länder wuchs.",
+      "Die Anschläge vom 11. September 2001 leiteten ein Zeitalter des Kampfes gegen den Terror ein. Die USA und ihre Verbündeten führten Kriege in Afghanistan und im Irak, die lange dauerten, viele Opfer forderten und ihre Ziele nur teilweise erreichten. Der Arabische Frühling 2011 weckte Hoffnungen auf Demokratie im Nahen Osten, doch in Syrien, Libyen und im Jemen mündete er in Bürgerkriege, die Millionen Menschen zur Flucht zwangen. Der Angriff der Hamas auf Israel am 7. Oktober 2023 und der folgende Krieg in Gaza verschärften den Nahostkonflikt erneut.",
+      "Die Weltfinanzkrise von 2008 und die COVID-19-Pandemie ab 2020 machten sichtbar, wie eng die Welt verflochten ist und wie schnell sich Krisen ausbreiten. In vielen Ländern gewannen populistische Bewegungen an Zulauf, die gegen Eliten, Einwanderung und internationale Bindungen mobilisierten; 2016 stimmten die Briten für den Austritt aus der EU. Russland unter Wladimir Putin annektierte 2014 die Krim und begann am 24. Februar 2022 einen umfassenden Angriffskrieg gegen die Ukraine, den größten Krieg in Europa seit 1945.",
+      "Zugleich veränderten Technik und Wissenschaft den Alltag grundlegend. Smartphone und soziale Medien verbanden bis 2025 mehr als die Hälfte der Menschheit über das Internet, die Entschlüsselung des menschlichen Erbguts eröffnete neue Wege in der Medizin, und künstliche Intelligenz wurde ab 2022 für ein breites Publikum nutzbar. Der Klimawandel rückte zur großen Menschheitsfrage auf: Mit dem Pariser Abkommen von 2015 verpflichteten sich fast alle Staaten, die Erderwärmung zu begrenzen. Die Rivalität zwischen den USA und China prägt eine Weltordnung, in der mehrere Mächte um Einfluss ringen."
+    ],
+    "consequences": [
+      "Die Europäische Union wuchs bis 2013 auf 28 Mitglieder, schuf einen Binnenmarkt mit gemeinsamer Währung für viele ihrer Staaten und wurde zu einem zentralen politischen Rahmen für Europa, auch wenn Großbritannien sie 2020 verließ.",
+      "Der Aufstieg Chinas und anderer Schwellenländer verschob das wirtschaftliche Gewicht der Welt nach Asien und beendete die Vorherrschaft des Westens im Welthandel.",
+      "Internet, Smartphone und künstliche Intelligenz veränderten Arbeit, Bildung, Öffentlichkeit und Politik und werfen neue Fragen nach Datenschutz, Desinformation und Macht großer Technologiekonzerne auf.",
+      "Kriege von Jugoslawien über Afghanistan, Irak und Syrien bis zur Ukraine und Gaza zeigten die Grenzen internationaler Friedenssicherung und lösten große Fluchtbewegungen aus.",
+      "Klimawandel, Pandemien und Finanzkrisen machten deutlich, dass zentrale Probleme der Gegenwart nur durch internationale Zusammenarbeit gelöst werden können."
+    ],
+    "tags": [
+      "globalisierung",
+      "digitalisierung",
+      "europäische union",
+      "terrorismus",
+      "klimawandel",
+      "pandemie",
+      "aufstieg chinas"
+    ],
+    "keyFacts": [
+      "Im Februar 1992 wird der Vertrag von Maastricht unterzeichnet; mit seinem Inkrafttreten 1993 entsteht die Europäische Union.",
+      "Von 1991 bis 1999 zerfällt Jugoslawien in Kriegen; in Srebrenica werden im Juli 1995 rund 8.000 bosnische Muslime ermordet.",
+      "1994 endet in Südafrika die Apartheid, und in Ruanda werden innerhalb von etwa 100 Tagen rund 800.000 Menschen ermordet.",
+      "Am 11. September 2001 töten Terroristen von al-Qaida fast 3.000 Menschen in den USA; im Dezember 2001 tritt China der Welthandelsorganisation bei.",
+      "2007 stellt Apple das iPhone vor, 2008 erschüttert eine Weltfinanzkrise die Wirtschaft, und 2011 beginnt der Arabische Frühling.",
+      "2015 beschließen fast alle Staaten das Pariser Klimaabkommen; 2016 stimmt Großbritannien für den Austritt aus der EU.",
+      "Ab 2020 breitet sich die COVID-19-Pandemie aus; am 24. Februar 2022 beginnt Russland einen umfassenden Angriffskrieg gegen die Ukraine."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Nach dem Ende der Sowjetunion waren die USA für etwa ein Jahrzehnt die einzige Supermacht. Die NATO und die Europäische Union nahmen ab 1999 und 2004 viele Staaten Mittel- und Osteuropas auf, die sich nach Sicherheit und Wohlstand im Westen sehnten. In Russland führten die Reformen Boris Jelzins zu wirtschaftlichem Chaos; sein Nachfolger Wladimir Putin baute ab 2000 einen autoritären Staat auf, der Medien, Opposition und Justiz kontrollierte. Moskau betrachtete die Osterweiterung der NATO zunehmend als Bedrohung und setzte in Georgien 2008, auf der Krim 2014 und in der Ukraine ab 2022 militärische Gewalt ein.",
+          "Neue Formen internationaler Justiz entstanden: Die Vereinten Nationen richteten 1993 und 1994 Strafgerichtshöfe für das ehemalige Jugoslawien und für Ruanda ein, und 2002 nahm der Internationale Strafgerichtshof in Den Haag seine Arbeit auf. Gleichzeitig blieb der UN-Sicherheitsrat oft blockiert, weil die Vetomächte gegensätzliche Interessen verfolgten, etwa im Syrienkrieg. Die USA führten nach 2001 Kriege in Afghanistan und im Irak, die ohne dauerhaften Erfolg endeten; 2021 kehrten die Taliban in Kabul an die Macht zurück.",
+          "In Afrika und Lateinamerika setzten sich vielerorts Wahlen und Mehrparteiensysteme durch: Südafrika wurde 1994 zur Demokratie, in Brasilien, Chile und Mexiko lösten gewählte Regierungen einander ab, und 2002 gründeten die afrikanischen Staaten die Afrikanische Union. Doch Militärputsche, Bürgerkriege und autoritäre Herrscher blieben verbreitet. In vielen etablierten Demokratien gewannen ab den 2010er Jahren populistische Parteien und Politiker an Einfluss, die sich gegen Einwanderung, Globalisierung und die etablierten Medien wandten. Der Gegensatz zwischen Demokratien und autoritären Staaten wie China und Russland wurde zu einer Leitlinie der Weltpolitik."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die Weltbevölkerung wuchs von etwa 5,4 Milliarden im Jahr 1991 auf über 8 Milliarden im Jahr 2022, und seit etwa 2007 lebt die Mehrheit der Menschen in Städten. Megastädte wie Lagos, Dhaka, Shanghai oder São Paulo wuchsen rasant, oft mit großen Armenvierteln am Rand. Die Lebenserwartung stieg weltweit, die Kindersterblichkeit sank deutlich, und der Anteil der Menschen in extremer Armut fiel bis 2019 auf unter ein Zehntel. In Europa, Japan und China alterten die Gesellschaften dagegen, weil weniger Kinder geboren wurden.",
+          "Migration prägte die Gegenwart wie kaum ein anderes Thema. Menschen verließen ihre Heimat wegen Kriegen, Verfolgung, Armut oder auf der Suche nach Arbeit; 2015 suchten über eine Million Menschen, viele aus Syrien, Afghanistan und dem Irak, Schutz in Europa. Bis 2024 waren nach Angaben der Vereinten Nationen weltweit über 120 Millionen Menschen auf der Flucht oder vertrieben, die meisten innerhalb ihres eigenen Landes oder in Nachbarstaaten. Einwanderungsgesellschaften stritten heftig über Integration, Grenzen und Asyl.",
+          "Frauen erreichten in vielen Ländern mehr Rechte und höhere Bildungsabschlüsse; mit Ellen Johnson Sirleaf, Angela Merkel und Jacinda Ardern führten Frauen Staaten und Regierungen. Die MeToo-Bewegung machte ab 2017 sexuelle Belästigung und Gewalt weltweit zum Thema. In vielen Staaten wurden die Rechte homosexueller Menschen gestärkt, als erstes Land führten die Niederlande 2001 die gleichgeschlechtliche Ehe ein. Zugleich blieben Mädchen in manchen Regionen vom Schulbesuch ausgeschlossen, etwa in Afghanistan nach der Rückkehr der Taliban 2021."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Das World Wide Web, Suchmaschinen, die Onlineenzyklopädie Wikipedia ab 2001 und soziale Netzwerke veränderten, wie Menschen Wissen finden, sich informieren und miteinander sprechen. Mit dem Smartphone trugen ab 2007 Milliarden Menschen einen Computer mit Kamera und Internetzugang bei sich. Soziale Medien ermöglichten Protestbewegungen wie im Arabischen Frühling, verbreiteten aber auch Hassrede, Verschwörungserzählungen und gezielte Desinformation. Streamingdienste und Plattformen machten Musik, Filme und Serien aus Südkorea, Nigeria oder Indien weltweit bekannt.",
+          "Die Wissenschaft machte große Fortschritte. 2003 wurde das Humangenomprojekt abgeschlossen, und neue Methoden wie die Genschere CRISPR-Cas9, für die Emmanuelle Charpentier und Jennifer Doudna 2020 den Chemie-Nobelpreis erhielten, ermöglichten gezielte Eingriffe ins Erbgut. In der Coronapandemie wurden innerhalb eines Jahres wirksame Impfstoffe entwickelt, darunter erstmals mRNA-Impfstoffe. Künstliche Intelligenz lernte aus riesigen Datenmengen Sprache, Bilder und Proteinstrukturen zu verarbeiten; 2024 wurden Forscher auf diesem Gebiet mit Nobelpreisen für Physik und Chemie ausgezeichnet.",
+          "Religion blieb eine wichtige Kraft in der Weltpolitik. Islamistische Gruppen wie al-Qaida und der sogenannte Islamische Staat beriefen sich auf den Islam, um Terror und Gewalt zu rechtfertigen, während die große Mehrheit der Muslime diese Gewalt ablehnte. In Afrika, Lateinamerika und Asien wuchsen evangelikale und pfingstkirchliche Gemeinden schnell, in Europa dagegen verloren die großen Kirchen viele Mitglieder. Missbrauchsskandale erschütterten ab den 2000er Jahren die katholische Kirche, und mit Franziskus wurde 2013 erstmals ein Papst aus Lateinamerika gewählt."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Nach 1991 setzte sich die Marktwirtschaft fast weltweit durch. Freihandelsabkommen wie NAFTA von 1994, die Gründung der Welthandelsorganisation 1995 und der europäische Binnenmarkt senkten Handelsschranken, und Unternehmen verteilten ihre Produktion über Kontinente. Indien öffnete sich ab 1991 dem Weltmarkt, China wurde nach dem WTO-Beitritt 2001 zum größten Exporteur der Welt. Seit 1999 teilen sich viele EU-Staaten den Euro als gemeinsame Währung.",
+          "Die Globalisierung brachte auch schwere Krisen. Die Asienkrise 1997, das Platzen der Internetblase 2000 und vor allem die Weltfinanzkrise von 2008, ausgelöst durch faule Immobilienkredite in den USA, stürzten viele Länder in die Rezession. In der Eurokrise ab 2010 mussten Staaten wie Griechenland mit Milliardenkrediten gestützt werden. Die COVID-19-Pandemie unterbrach 2020 Lieferketten, legte ganze Branchen lahm und führte zu hohen Staatsschulden und später zu steigender Inflation.",
+          "Die Technik entwickelte sich rasant: Mobiltelefone, Breitbandinternet, Smartphones, Cloud-Dienste und künstliche Intelligenz folgten in kurzer Folge. Wenige Technologiekonzerne aus den USA und China stiegen zu den wertvollsten Unternehmen der Welt auf. Der Ausstoß von Treibhausgasen erreichte Rekordwerte, und die Erderwärmung führte zu mehr Hitzewellen, Dürren und Überschwemmungen. Wind- und Solarenergie wurden in vielen Ländern zur günstigsten Form der Stromerzeugung, und Elektroautos verbreiteten sich vor allem in China und Europa."
         ]
       }
     ]
