@@ -58,6 +58,10 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Bekannt
 
+- Startsprache (seit 11.10.2026): gespeicherte Wahl, sonst Gerätesprache (de/en), sonst
+  **Englisch** (`detectLang` in `js/i18n.js`). `DEFAULT_LANG` bleibt `de` — es ist die
+  Textquelle und der Rückfall für fehlende Schlüssel, nicht die Startsprache.
+
 - Die Vercel-Integration wurde am 11.10.2026 deinstalliert. Der alte rote Status
   „Vercel – Account is blocked“ an früheren Commits ist bedeutungslos.
 - `i18n/fr` ist veraltet, Französisch ist nicht freigeschaltet.
