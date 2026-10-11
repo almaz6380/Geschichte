@@ -1,6 +1,7 @@
 import { DB, randomEvent } from '../data.js';
 import { esc, epochTile, themeTile, regionTile, formatRange, regionChip, epochChip, setTitle, sectionHead, progressBar } from '../ui.js';
-import { getQuizProgress, isInstallHintDismissed, dismissInstallHint } from '../store.js';
+import { getQuizProgress, isInstallHintDismissed, dismissInstallHint, getDaily } from '../store.js';
+import { dateKey, currentStreak, playedToday, EMPTY_DAILY } from '../daily.js';
 import { t, plural } from '../i18n.js';
 
 // Nur ein Listener für "App installierbar", egal wie oft die Startseite gezeichnet wird.
@@ -15,6 +16,11 @@ export function render(el, params, ctx) {
     const p = progress[e.id];
     return p && p.total && p.best / p.total >= 0.8;
   }).length;
+
+  const daily = getDaily() || EMPTY_DAILY();
+  const today = dateKey();
+  const streak = currentStreak(daily, today);
+  const doneToday = playedToday(daily, today);
 
   const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
   const standalone = window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
@@ -52,6 +58,15 @@ export function render(el, params, ctx) {
       <p class="muted">${esc(t('home.install.android', { name: t('app.name') }))}</p>
       <div class="btn-row" style="margin-bottom:0"><button type="button" class="btn btn-primary btn-small" id="install-now">${esc(t('home.install.action'))}</button><button type="button" class="btn btn-small" id="ios-hint-close">${esc(t('home.install.dismiss'))}</button></div>
     </section>` : ''}
+
+    <section class="card daily-home">
+      <div class="muted">${esc(t('home.daily.kicker'))}${streak ? ` · 🔥 ${esc(t('home.daily.streak', { days: plural(streak, 'unit.day') }))}` : ''}</div>
+      <h3>${esc(doneToday ? t('home.daily.done') : t('home.daily.title'))}</h3>
+      <div class="btn-row" style="margin-bottom:0">
+        <a class="btn ${doneToday ? '' : 'btn-primary '}btn-small" href="#/taeglich">${esc(doneToday ? t('daily.title') : t('home.daily.action'))}</a>
+        <a class="btn btn-small" href="#/duell">${esc(t('home.daily.duel'))}</a>
+      </div>
+    </section>
 
     <div class="two-col">
       ${ev ? `

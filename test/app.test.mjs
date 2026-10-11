@@ -55,3 +55,15 @@ test('Quizrunde übersteht einen Sprachwechsel mit gleicher Antwortreihenfolge',
   });
   assert.equal(session.answers[0], session.questions[0].answer);
 });
+
+test('Service Worker kennt jede Skript- und Stildatei der App', async () => {
+  const { readdirSync } = await import('node:fs');
+  const sw = read('sw.js');
+  const files = [
+    ...readdirSync(new URL('../js/', import.meta.url)).filter((f) => f.endsWith('.js')).map((f) => `js/${f}`),
+    ...readdirSync(new URL('../js/views/', import.meta.url)).filter((f) => f.endsWith('.js')).map((f) => `js/views/${f}`),
+    ...readdirSync(new URL('../js/strings/', import.meta.url)).filter((f) => f.endsWith('.js')).map((f) => `js/strings/${f}`),
+    ...readdirSync(new URL('../css/', import.meta.url)).filter((f) => f.endsWith('.css')).map((f) => `css/${f}`),
+  ];
+  for (const f of files) assert.ok(sw.includes(`'./${f}'`), `nicht vorab gespeichert: ${f}`);
+});

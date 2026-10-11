@@ -168,6 +168,86 @@ try {
   check((await page.textContent('body')).includes(TEXT.bestScore), 'Bestwert wird gespeichert');
   await page.screenshot({ path: path.join(OUT, 'quiz.png') });
 
+  console.log('Spielmodi');
+  await page.goto(BASE + '#/quiz'); await page.waitForSelector('.game-card');
+  check((await count(page, '.game-card')) >= 7, 'Quiz-Übersicht zeigt ≥ 7 Spielmodi');
+  // Klickt sich durch einen Fragenablauf (Antwort wählen, weiter) bis zur Auswertung.
+  const playThrough = async (p, max = 60) => {
+    for (let i = 0; i < max; i++) {
+      if (await p.$('.quiz-score')) return true;
+      const btn = await p.$('#quiz-next, #hs-ready');
+      if (btn) { await btn.click(); await p.waitForTimeout(30); continue; }
+      const choice = await p.$('.quiz-choice:not(:disabled)');
+      if (!choice) break;
+      await choice.click(); await p.waitForTimeout(30);
+    }
+    return !!(await p.$('.quiz-score'));
+  };
+
+  await page.goto(BASE + '#/taeglich'); await page.click('#daily-start');
+  check(await playThrough(page), 'Tägliche Challenge: Runde bis zur Auswertung');
+  check(/\d+ \/ 5/.test(await page.textContent('.quiz-score')), 'Tägliche Challenge hat 5 Fragen');
+  await page.goto(BASE + '#/taeglich'); await page.waitForSelector('#daily-share');
+  check(!(await page.$('#daily-start')), 'Tägliche Challenge nur einmal pro Tag');
+
+  await page.goto(BASE + '#/duell'); await page.fill('#duel-name', 'Alex'); await page.click('#duel-start');
+  check(await playThrough(page), 'Duell: Runde bis zur Auswertung');
+  const duelHash = await page.evaluate(() => location.hash);
+  check(/^#\/duell\?d=[\w-]+$/.test(duelHash), 'Duell: Link steht in der Adresse');
+  const friend = await browser.newPage({ viewport: { width: 390, height: 844 }, locale: LOCALE });
+  friend.on('pageerror', (e) => errors.push(String(e)));
+  await friend.goto(BASE + duelHash); await friend.waitForSelector('#duel-join');
+  check((await count(friend, '.duel-rows li')) === 1, 'Duell-Link zeigt den Herausforderer');
+  await friend.fill('#duel-name', 'Sam'); await friend.click('#duel-join');
+  await friend.waitForSelector('.quiz-question');
+  check(await playThrough(friend), 'Duell: Freund spielt dieselbe Runde');
+  check((await count(friend, '.duel-rows li')) === 2, 'Duell: Vergleich zeigt beide Spieler');
+  const replyHash = await friend.evaluate(() => location.hash);
+  await page.goto(BASE + replyHash); await page.waitForSelector('.duel-rows li');
+  check((await count(page, '.duel-rows li')) === 2 && !!(await page.$('#duel-share')), 'Duell: Antwort-Link zeigt dem Herausforderer beide Ergebnisse');
+  await page.goto(BASE + '#/duell?d=kaputt'); await page.waitForSelector('.empty');
+  check(true, 'Duell: kaputter Link zeigt Hinweis');
+  await friend.close();
+
+  await page.goto(BASE + '#/duell/lokal'); await page.waitForSelector('.hs-name');
+  const names = await page.$$('.hs-name'); await names[0].fill('Ana'); await names[1].fill('Ben');
+  await page.click('#hs-start');
+  check(await playThrough(page, 80), 'Lokales Duell bis zur Rangliste');
+
+  await page.goto(BASE + '#/spiel/zeitleiste'); await page.click('#game-start'); await page.waitForSelector('.sort-pick');
+  for (let r = 0; r < 5; r++) {
+    await page.click('.sort-down[data-i="0"]');
+    await page.click('#sort-check'); await page.waitForSelector('.sort-item.ok, .sort-item.nok');
+    await page.click('#sort-check'); await page.waitForTimeout(30);
+  }
+  check(/\d+ \/ 25/.test(await page.textContent('.quiz-score')), 'Zeitleiste sortieren: 5 Runden bis zur Wertung');
+
+  await page.goto(BASE + '#/spiel/jahr'); await page.click('#game-start');
+  for (let r = 0; r < 10; r++) {
+    await page.fill('#year-input', '1500'); await page.press('#year-input', 'Enter');
+    await page.waitForSelector('#quiz-next'); await page.click('#quiz-next');
+  }
+  check(/\d+ \/ 1000/.test(await page.textContent('.quiz-score')), 'Jahr schätzen: 10 Fragen bis zur Wertung');
+
+  await page.goto(BASE + '#/wer-bin-ich'); await page.click('#game-start'); await page.waitForSelector('.who-hints li');
+  await page.click('#who-more');
+  check((await count(page, '.who-hints li')) === 2, 'Wer bin ich: weiterer Hinweis');
+  check(await playThrough(page), 'Wer bin ich: Runde bis zur Wertung');
+
+  await page.goto(BASE + '#/karten'); await page.click('.deck-start[data-deck="terms"]');
+  for (let i = 0; i < 20 && (await page.$('#card-flip')); i++) { await page.click('#card-flip'); await page.click(i % 2 ? '#card-no' : '#card-yes'); }
+  check(!!(await page.$('.quiz-score')), 'Karteikarten: Stapel bis zum Ende');
+  await page.click('.quiz-result a[href="#/karten"]'); await page.waitForSelector('.deck-card');
+  check(/[1-9]/.test(await page.textContent('.deck-card .muted')), 'Karteikarten: Lernstand gespeichert');
+
+  await page.goto(BASE + '#/quiz'); await page.waitForSelector('.game-card');
+  if (await page.$('a[href="#/quiz/fehler"]')) {
+    await page.click('a[href="#/quiz/fehler"]'); await page.waitForSelector('.quiz-choice');
+    check(await playThrough(page), 'Fehler wiederholen: Runde bis zur Auswertung');
+  }
+  await page.goto(BASE + '#/quiz'); await page.waitForSelector('.game-card');
+  await page.screenshot({ path: path.join(OUT, 'games.png') });
+
   console.log('Theme');
   await page.click('#theme-btn'); await page.click('#theme-btn');
   check((await page.getAttribute('html', 'data-theme')) === 'dark', 'Theme-Umschalter setzt dunkles Schema');
@@ -217,7 +297,7 @@ try {
 
   console.log('Kein horizontales Scrollen (360px)');
   const narrow = await browser.newPage({ viewport: { width: 360, height: 740 }, locale: LOCALE });
-  for (const route of ['#/', '#/epoche/rom', '#/zeitleiste', '#/quiz', '#/suche?q=rom', '#/glossar', '#/regionen', '#/mehr', '#/themen']) {
+  for (const route of ['#/', '#/epoche/rom', '#/zeitleiste', '#/quiz', '#/suche?q=rom', '#/glossar', '#/regionen', '#/mehr', '#/themen', '#/duell', '#/duell/lokal', '#/taeglich', '#/karten', '#/spiel/zeitleiste', '#/spiel/jahr', '#/wer-bin-ich']) {
     await narrow.goto(BASE + route); await narrow.waitForTimeout(400);
     const over = await narrow.evaluate(() => document.documentElement.scrollWidth > document.documentElement.clientWidth + 1);
     check(!over, `kein horizontaler Overflow auf ${route}`);
