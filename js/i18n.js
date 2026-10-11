@@ -30,14 +30,17 @@ export function setLang(code) {
   return current;
 }
 
-// Sprache des Geräts, sofern sie fertig übersetzt ist.
+// Sprache des Geräts, sofern sie fertig übersetzt ist; sonst Englisch.
+// DEFAULT_LANG bleibt Deutsch (Quelle der Texte, Rückfall für fehlende Schlüssel),
+// aber ein Gerät auf Italienisch oder Japanisch versteht Englisch eher als Deutsch.
+export const FALLBACK_LANG = 'en';
 export function detectLang(navLangs) {
   const list = navLangs || (typeof navigator === 'undefined' ? [] : navigator.languages || [navigator.language]);
   for (const raw of list) {
     const code = String(raw || '').slice(0, 2).toLowerCase();
     if (READY_CODES.includes(code)) return code;
   }
-  return DEFAULT_LANG;
+  return READY_CODES.includes(FALLBACK_LANG) ? FALLBACK_LANG : DEFAULT_LANG;
 }
 
 // Ordnungszahl für Jahrhundert-Angaben: deutsch "5.", englisch "5th".

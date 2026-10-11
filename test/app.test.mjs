@@ -67,3 +67,12 @@ test('Service Worker kennt jede Skript- und Stildatei der App', async () => {
   ];
   for (const f of files) assert.ok(sw.includes(`'./${f}'`), `nicht vorab gespeichert: ${f}`);
 });
+
+test('Startsprache: Gerätesprache, sonst Englisch', async () => {
+  const { detectLang } = await import('../js/i18n.js');
+  assert.equal(detectLang(['de-AT']), 'de');
+  assert.equal(detectLang(['en-US']), 'en');
+  assert.equal(detectLang(['it-IT', 'ja']), 'en');
+  assert.equal(detectLang(['fr-FR', 'de-DE']), 'de');
+  assert.equal(detectLang([]), 'en');
+});
