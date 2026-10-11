@@ -51,6 +51,9 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
+- **1.1.1 (11.10.2026):** Startsprache = Gerätesprache. 1.1.0 vor der Freigabe zurückgezogen
+  (neu: `ios-submit.yml` Eingabe `zurueckziehen`). Android versionCode 12 in Produktion (an alle),
+  iOS Build 21 eingereicht (reviewSubmission `2d556df3-…`). iOS hat 1.1.0 damit nie bekommen.
 - **1.1.0 (11.10.2026):** Duelle, neue Spielmodi, 6 neue Epochen, 1.040 Fragen.
   Web live. Android versionCode 11 in Produktion (an alle), Prüfung bei Google.
   iOS Build 20 eingereicht (reviewSubmission `2c1c9dc5-…`), Veröffentlichung automatisch nach Freigabe.
