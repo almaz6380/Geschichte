@@ -10,7 +10,7 @@ Zum Kopieren in App Store Connect und die Google Play Console.
 
 ## Kurzbeschreibung (Google Play, max. 80 Zeichen)
 
-`Weltgeschichte verstehen: 14 Epochen, 8 Themen, Zeitleiste, Glossar und Quiz.`
+`Weltgeschichte: 20 Epochen, über 1.000 Quizfragen, Duelle gegen Freunde.`
 
 ## Werbetext (App Store, max. 170 Zeichen)
 
@@ -22,22 +22,28 @@ Zum Kopieren in App Store Connect und die Google Play Console.
 Weltgeschichte in einer App: von den ersten Menschen bis zur Gegenwart, auf allen Kontinenten. Für Schule, Studium und alle, die Zusammenhänge verstehen wollen.
 
 EPOCHEN
-14 Epochen von der Urgeschichte bis zum Kalten Krieg und der Gegenwart. Jede Epoche mit „Auf einen Blick“, einem Überblick, vier Themenabschnitten (Herrschaft und Politik, Gesellschaft und Alltag, Kultur, Religion und Wissen, Wirtschaft und Technik), Schlüsselereignissen nach Jahrhunderten, wichtigen Personen, Begriffen und Folgen.
+20 Epochen von der Urgeschichte bis zur Gegenwart, mit eigenen Epochen für das vorkolumbische Amerika, die Reiche Afrikas, die asiatischen Großreiche, das Osmanische Reich und Lateinamerika. Jede Epoche mit „Auf einen Blick“, einem Überblick, vier Themenabschnitten (Herrschaft und Politik, Gesellschaft und Alltag, Kultur, Religion und Wissen, Wirtschaft und Technik), Schlüsselereignissen nach Jahrhunderten, wichtigen Personen, Begriffen und Folgen.
 
 QUERSCHNITTSTHEMEN
 Acht rote Linien durch die Jahrtausende: Religionen und Weltanschauungen, Wissenschaft und Technik, Krieg und Frieden, Handel und Globalisierung, Herrschaft und Demokratie, Frauen in der Geschichte, Migration und Begegnung der Kulturen, Kunst, Schrift und Bildung.
 
 ZEITLEISTE
-Über 300 Ereignisse chronologisch, filterbar nach Epoche, Region, Thema und Meilensteinen, mit Jahrhundert-Markern.
+Über 500 Ereignisse chronologisch, filterbar nach Epoche, Region, Thema und Meilensteinen, mit Jahrhundert-Markern.
 
 REGIONEN
 Geschichte nach Kontinenten: Europa, Naher Osten, Afrika, Asien, Amerika, Ozeanien.
 
 GLOSSAR
-Über 100 Begriffe kurz erklärt, alphabetisch mit Sprungleiste und Verweisen auf Ereignisse und Personen.
+Über 150 Begriffe kurz erklärt, alphabetisch mit Sprungleiste und Verweisen auf Ereignisse und Personen.
 
-QUIZ
-Über 160 Fragen mit Erklärungen: 10 Fragen pro Epoche oder 20 gemischt. Bestwerte werden gespeichert, gemeisterte Epochen werden markiert.
+QUIZ UND SPIELE
+Über 1.000 Fragen mit Erklärungen: 10 Fragen pro Epoche oder 20 gemischt. Dazu Spielmodi:
+– Duell per Link: Freunde spielen dieselben Fragen, danach seht ihr, wer besser war (ohne Konto)
+– Duell an einem Gerät für 2–4 Spieler
+– Tägliche Challenge mit Serie
+– Zeitleiste sortieren, Jahr schätzen, Wer bin ich?
+– Karteikarten für Begriffe und Personen, Fehler wiederholen
+Bestwerte werden gespeichert, gemeisterte Epochen werden markiert.
 
 SUCHE UND LESEZEICHEN
 Volltextsuche über alle Inhalte, Lesezeichen für Epochen, Ereignisse und Personen.
@@ -46,12 +52,18 @@ OHNE HAKEN
 Komplett offline nutzbar. Keine Anmeldung, keine Werbung, kein Tracking, keine In-App-Käufe. Helles und dunkles Farbschema. Auf Deutsch und Englisch.
 
 UMFANG
-14 Epochen · 8 Themen · 329 Ereignisse · 173 Personen · 112 Begriffe · 167 Quizfragen
+20 Epochen · 8 Themen · 514 Ereignisse · 256 Personen · 160 Begriffe · 1.040 Quizfragen
 ```
 
 ## Schlüsselwörter (App Store, max. 100 Zeichen, durch Komma getrennt)
 
 `geschichte,weltgeschichte,lernen,quiz,epochen,zeitleiste,antike,mittelalter,schule,abitur,wissen`
+
+## Versionshinweise (Release Notes) für 1.1.0
+
+```
+Großes Update: Duelle gegen Freunde per Link oder an einem Gerät, Tägliche Challenge mit Serie, Zeitleiste sortieren, Jahr schätzen, Wer bin ich? und Karteikarten. Sechs neue Epochen (vorkolumbisches Amerika, Afrika, asiatische Großreiche, Osmanisches Reich, Lateinamerika, Gegenwart) und über 1.000 Quizfragen.
+```
 
 ## Versionshinweise (Release Notes) für 1.0.0
 
@@ -89,7 +101,7 @@ Die App ist vollständig auf Englisch übersetzt. In App Store Connect oben rech
 
 ## Short description (Google Play, max. 80 Zeichen)
 
-`Understand world history: 14 epochs, 8 themes, timeline, glossary and quiz.`
+`World history: 20 epochs, over 1,000 quiz questions, duels with friends.`
 
 ## Promotional text (App Store, max. 170 Zeichen)
 
@@ -101,22 +113,28 @@ Die App ist vollständig auf Englisch übersetzt. In App Store Connect oben rech
 World history in one app: from the first humans to the present day, on every continent. For school, university and everyone who wants to understand how things connect.
 
 EPOCHS
-14 epochs from prehistory to the Cold War and the present. Each epoch with "At a glance", an overview, four thematic sections (rule and politics, society and everyday life, culture, religion and knowledge, economy and technology), key events by century, important people, terms and consequences.
+20 epochs from prehistory to the present, including dedicated epochs for the pre-Columbian Americas, African kingdoms, the great Asian empires, the Ottoman Empire and Latin America. Each epoch with "At a glance", an overview, four thematic sections (rule and politics, society and everyday life, culture, religion and knowledge, economy and technology), key events by century, important people, terms and consequences.
 
 CROSS-CUTTING THEMES
 Eight threads through the millennia: religions and worldviews, science and technology, war and peace, trade and globalisation, rule and democracy, women in history, migration and encounters between cultures, art, writing and education.
 
 TIMELINE
-More than 300 events in chronological order, filterable by epoch, region, theme and milestones, with century markers.
+More than 500 events in chronological order, filterable by epoch, region, theme and milestones, with century markers.
 
 REGIONS
 History by continent: Europe, the Middle East, Africa, Asia, the Americas, Oceania.
 
 GLOSSARY
-More than 100 terms explained briefly, alphabetical with a letter bar and links to events and people.
+More than 150 terms explained briefly, alphabetical with a letter bar and links to events and people.
 
-QUIZ
-More than 160 questions with explanations: 10 questions per epoch or 20 mixed. Best scores are saved, mastered epochs are marked. Keyboard shortcuts on iPad with a keyboard.
+QUIZ AND GAMES
+More than 1,000 questions with explanations: 10 questions per epoch or 20 mixed. Plus game modes:
+– Duel by link: friends play the same questions, then you see who did better (no account)
+– Duel on one device for 2–4 players
+– Daily challenge with streaks
+– Sort the timeline, guess the year, who am I?
+– Flashcards for terms and people, review your mistakes
+Best scores are saved, mastered epochs are marked. Keyboard shortcuts on iPad with a keyboard.
 
 SEARCH AND BOOKMARKS
 Full-text search across all content, bookmarks for epochs, events and people.
@@ -125,12 +143,18 @@ NO STRINGS ATTACHED
 Works completely offline. No sign-up, no ads, no tracking, no in-app purchases. Light and dark mode. In English and German.
 
 AT A GLANCE
-14 epochs · 8 themes · 329 events · 173 people · 112 terms · 167 quiz questions
+20 epochs · 8 themes · 514 events · 256 people · 160 terms · 1,040 quiz questions
 ```
 
 ## Keywords (App Store, max. 100 Zeichen)
 
 `history,world history,learn,quiz,timeline,ancient,medieval,rome,school,study,education,knowledge`
+
+## Release notes 1.1.0
+
+```
+Big update: duels with friends by link or on one device, daily challenge with streaks, sort the timeline, guess the year, who am I? and flashcards. Six new epochs (pre-Columbian Americas, Africa, great Asian empires, Ottoman Empire, Latin America, the present) and over 1,000 quiz questions.
+```
 
 ## Release notes 1.0.0
 

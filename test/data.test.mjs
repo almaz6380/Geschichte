@@ -5,16 +5,16 @@ import { loadData, validate, stats } from '../scripts/validate-data.mjs';
 const db = loadData();
 
 test('Daten sind valide (Schema, Referenzen, Mengen)', () => {
-  const errors = validate(db, { eventsPerEpoch: 18, quizPerEpoch: 10, personsPerEpoch: 8 });
+  const errors = validate(db, { eventsPerEpoch: 18, quizPerEpoch: 50, personsPerEpoch: 8 });
   assert.deepEqual(errors, []);
 });
 
-test('Umfang: 20 Epochen, ≥ 450 Ereignisse, ≥ 200 Personen, ≥ 230 Fragen, ≥ 150 Begriffe, 8 Themen', () => {
+test('Umfang: 20 Epochen, ≥ 450 Ereignisse, ≥ 200 Personen, ≥ 1000 Fragen, ≥ 150 Begriffe, 8 Themen', () => {
   const s = stats(db);
   assert.equal(s.epochen, 20);
   assert.ok(s.ereignisse >= 450, `nur ${s.ereignisse} Ereignisse`);
   assert.ok(s.personen >= 200, `nur ${s.personen} Personen`);
-  assert.ok(s.fragen >= 230, `nur ${s.fragen} Fragen`);
+  assert.ok(s.fragen >= 1000, `nur ${s.fragen} Fragen`);
   assert.ok(s.begriffe >= 150, `nur ${s.begriffe} Begriffe`);
   assert.equal(s.themen, 8);
 });
@@ -58,4 +58,20 @@ test('Quiz: richtige Antworten sind über die Positionen verteilt', () => {
   const counts = [0, 0, 0, 0];
   for (const q of db.quiz) counts[q.answer]++;
   for (const c of counts) assert.ok(c >= db.quiz.length * 0.12, `Antwortpositionen ungleich verteilt: ${counts}`);
+});
+
+test('Quiz: keine doppelten Fragen (gleicher Text und gleiche Antworten)', () => {
+  const norm = (s) => s.toLowerCase().replace(/[^a-zäöüß0-9]+/g, ' ').trim();
+  const seen = new Map();
+  for (const q of db.quiz) {
+    const key = norm(q.question) + '|' + q.choices.map(norm).sort().join('|');
+    assert.ok(!seen.has(key), `${q.id} doppelt zu ${seen.get(key)}`);
+    seen.set(key, q.id);
+  }
+});
+
+test('Quiz: Schwierigkeitsgrade sind gemischt', () => {
+  const counts = { 1: 0, 2: 0, 3: 0 };
+  for (const q of db.quiz) counts[q.difficulty]++;
+  for (const c of Object.values(counts)) assert.ok(c >= db.quiz.length * 0.2, `Schwierigkeit ungleich verteilt: ${JSON.stringify(counts)}`);
 });
