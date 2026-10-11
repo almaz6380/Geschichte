@@ -10,7 +10,7 @@ on:
       version:
         description: 'Version, z. B. 1.1.0'
         type: string
-        default: '1.1.0'
+        default: '1.1.1'
       build:
         description: 'Build-Nummer (leer = neuester verarbeiteter Build dieser Version)'
         type: string
@@ -18,9 +18,13 @@ on:
       notes_file:
         description: '„Was ist neu"-Texte je Sprache'
         type: string
-        default: 'store/whatsnew-1.1.0.json'
+        default: 'store/whatsnew-1.1.1.json'
       submit:
         description: 'Wirklich einreichen? (aus = Probelauf)'
+        type: boolean
+        default: false
+      zurueckziehen:
+        description: 'Laufende Einreichung zurückziehen (mit submit=true echt, sonst Probelauf)'
         type: boolean
         default: false
       nur_status:
@@ -50,11 +54,17 @@ jobs:
           NOTES: ${{ inputs.notes_file }}
           SUBMIT: ${{ inputs.submit }}
           NUR_STATUS: ${{ inputs.nur_status }}
+          ZURUECK: ${{ inputs.zurueckziehen }}
         run: |
           set -euo pipefail
           PY="$RUNNER_TEMP/venv/bin/python"
           if [ "$NUR_STATUS" = "true" ]; then
             "$PY" scripts/asc-submit.py --status
+            exit 0
+          fi
+          if [ "$ZURUECK" = "true" ]; then
+            if [ "$SUBMIT" = "true" ]; then "$PY" scripts/asc-submit.py --zurueckziehen --submit
+            else "$PY" scripts/asc-submit.py --zurueckziehen; fi
             exit 0
           fi
           ARGS=(--version "$V" --notes-file "$NOTES")
