@@ -1,4 +1,5 @@
 import { DB } from '../data.js';
+import { roundFinished } from '../ads.js';
 import { esc, setTitle, backLink, progressBar, announce, showToast } from '../ui.js';
 import { MIXED, pickQuestions, relocalize } from '../quiz.js';
 import { DUEL_COUNT, cleanName } from '../duel.js';
@@ -135,4 +136,5 @@ function drawDone(el, back) {
   const h = el.querySelector('.quiz-score');
   h.setAttribute('tabindex', '-1');
   h.focus({ preventScroll: true });
+  if (!active.counted) { active.counted = true; roundFinished(); }
 }

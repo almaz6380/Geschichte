@@ -16,6 +16,8 @@
   --radius-sm: 8px;
   --header-h: 56px;
   --nav-h: 60px;
+  /* Höhe des AdMob-Banners in den Apps (js/ads.js setzt sie), sonst 0. */
+  --ad-h: 0px;
   --font: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
   --max-w: 1100px;
@@ -68,7 +70,7 @@ body {
   background: var(--bg);
   min-height: 100vh;
   min-height: 100dvh;
-  padding-bottom: calc(var(--nav-h) + env(safe-area-inset-bottom));
+  padding-bottom: calc(var(--nav-h) + var(--ad-h) + env(safe-area-inset-bottom));
   overflow-x: hidden;
 }
 
@@ -158,6 +160,11 @@ ul { padding-left: 1.2em; }
   background: var(--bg-elev);
   border-top: 1px solid var(--border);
 }
+/* Das native Banner liegt ganz unten (über der Gestenleiste), die Leiste darüber. */
+html.has-banner .bottom-nav {
+  bottom: calc(var(--ad-h) + env(safe-area-inset-bottom));
+  height: var(--nav-h); padding-bottom: 0;
+}
 .bottom-nav a {
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px;
   font-size: 0.7rem; color: var(--text-muted); font-weight: 500;
@@ -172,6 +179,7 @@ ul { padding-left: 1.2em; }
 /* Obere Navigation erst, wenn alle Einträge samt Kopfzeilen-Aktionen in eine Zeile passen. */
 @media (min-width: 1024px) {
   body { padding-bottom: 0; }
+  html.has-banner body { padding-bottom: calc(var(--ad-h) + env(safe-area-inset-bottom)); }
   .top-nav { display: flex; }
   .bottom-nav { display: none; }
 }

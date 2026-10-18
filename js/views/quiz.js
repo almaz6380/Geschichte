@@ -147,5 +147,5 @@ function renderQuiz(el, mode, resume = false) {
     focusScore(el);
   }
 
-  runSession(el, session, { title, color, back, showEpoch: !epoch, onDone: drawResult });
+  runSession(el, session, { title, color, back, showEpoch: !epoch, onDone: drawResult, joker: true });
 }

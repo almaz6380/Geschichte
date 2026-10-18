@@ -1,5 +1,6 @@
 // Spiele: Zeitleiste sortieren, Jahr schätzen, Wer bin ich?
 import { DB } from '../data.js';
+import { roundFinished } from '../ads.js';
 import { esc, setTitle, backLink, progressBar, announce, formatRange, formatYear, lifeSpan, showToast } from '../ui.js';
 import { pickSortRound, scoreOrder, moveItem, pickYearRound, scoreYearGuess, toYear, pickWhoRound, whoPoints, SORT_ROUNDS, SORT_SIZE, WHO_MAX_HINTS } from '../games.js';
 import { saveGameScore, getGameBest } from '../store.js';
@@ -53,6 +54,7 @@ function finish(el, { title, game, score, max, details = '', again }) {
   const h = el.querySelector('.quiz-score');
   h.setAttribute('tabindex', '-1');
   h.focus({ preventScroll: true });
+  roundFinished();
 }
 
 // ---------- Zeitleiste sortieren ----------

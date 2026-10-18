@@ -4,6 +4,7 @@ import { applyTheme, cycleTheme, themeLabel } from './theme.js';
 import { handleBookmarkClick, showToast, esc } from './ui.js';
 import { READY_LANGS, DEFAULT_LANG, t, setLang, getLang, detectLang } from './i18n.js';
 import { getLangPref, setLangPref } from './store.js';
+import { initAds, onRoute as adsOnRoute } from './ads.js';
 import * as home from './views/home.js';
 import * as epochs from './views/epochs.js';
 import * as epoch from './views/epoch.js';
@@ -81,6 +82,7 @@ function markNav(path) {
 function onNavigate(match, ctx) {
   if (typeof cleanup === 'function') { try { cleanup(); } catch { /* ignore */ } cleanup = null; }
   markNav(ctx.path);
+  adsOnRoute(ctx.path);
   if (!ctx.rerender) window.scrollTo(0, 0);
   try {
     cleanup = match ? match.handler(view, match.params, ctx) : notfound.render(view, {}, ctx);
@@ -233,6 +235,7 @@ async function main() {
     return;
   }
   startRouter(onNavigate);
+  initAds();
 }
 
 main();

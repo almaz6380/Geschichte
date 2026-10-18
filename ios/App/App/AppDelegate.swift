@@ -1,5 +1,6 @@
 import UIKit
 import Capacitor
+import AppTrackingTransparency
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -26,7 +27,51 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidBecomeActive(_ application: UIApplication) {
-        // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+        planeTrackingAbfrage()
+    }
+
+    // MARK: - App Tracking Transparency
+    //
+    //  Die Tracking-Abfrage kommt NATIV und beim Start, nicht ueber das AdMob-Plugin:
+    //  Das Plugin ruft ATTrackingManager auf Capacitors Hintergrund-Warteschlange auf,
+    //  und dort erscheint der Dialog nicht. Apple hat die Mahjong-App deshalb mehrfach
+    //  nach Richtlinie 2.1 abgelehnt („unable to locate the App Tracking Transparency
+    //  permission request“). Gefragt wird eine Sekunde nach didBecomeActive (frueher
+    //  verwirft iOS die Anfrage gern stillschweigend), mit bis zu drei Versuchen.
+    //  js/ads.js wartet auf die Antwort, bevor AdMob startet.
+    private var abfrageGeplant = false
+    private var abfrageLaeuft = false
+    private var versuche = 0
+
+    private func planeTrackingAbfrage() {
+        guard !abfrageGeplant, versuche < 3 else { return }
+        guard ATTrackingManager.trackingAuthorizationStatus == .notDetermined else { return }
+        abfrageGeplant = true
+        versuche += 1
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) { [weak self] in
+            guard let self = self else { return }
+            guard UIApplication.shared.applicationState == .active else {
+                // Inzwischen im Hintergrund: beim naechsten Aktivwerden neu planen.
+                self.abfrageGeplant = false
+                return
+            }
+            self.frageNachTracking()
+        }
+    }
+
+    private func frageNachTracking() {
+        guard !abfrageLaeuft, ATTrackingManager.trackingAuthorizationStatus == .notDetermined else { return }
+        abfrageLaeuft = true
+        ATTrackingManager.requestTrackingAuthorization { [weak self] status in
+            DispatchQueue.main.async {
+                guard let self = self else { return }
+                self.abfrageLaeuft = false
+                // Kein Dialog erschienen (iOS hat die Anfrage verworfen): erneut versuchen.
+                guard status == .notDetermined else { return }
+                self.abfrageGeplant = false
+                self.planeTrackingAbfrage()
+            }
+        }
     }
 
     func applicationWillTerminate(_ application: UIApplication) {

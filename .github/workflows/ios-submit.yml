@@ -10,7 +10,7 @@ on:
       version:
         description: 'Version, z. B. 1.1.0'
         type: string
-        default: '1.1.1'
+        default: '1.2.0'
       build:
         description: 'Build-Nummer (leer = neuester verarbeiteter Build dieser Version)'
         type: string
@@ -18,7 +18,11 @@ on:
       notes_file:
         description: '„Was ist neu"-Texte je Sprache'
         type: string
-        default: 'store/whatsnew-1.1.1.json'
+        default: 'store/whatsnew-1.2.0.json'
+      texte_file:
+        description: 'Beschreibung und Werbetext je Sprache (leer = nicht ändern)'
+        type: string
+        default: 'store/store-texte.json'
       submit:
         description: 'Wirklich einreichen? (aus = Probelauf)'
         type: boolean
@@ -52,6 +56,7 @@ jobs:
           V: ${{ inputs.version }}
           B: ${{ inputs.build }}
           NOTES: ${{ inputs.notes_file }}
+          TEXTE: ${{ inputs.texte_file }}
           SUBMIT: ${{ inputs.submit }}
           NUR_STATUS: ${{ inputs.nur_status }}
           ZURUECK: ${{ inputs.zurueckziehen }}
@@ -69,5 +74,6 @@ jobs:
           fi
           ARGS=(--version "$V" --notes-file "$NOTES")
           [ -n "$B" ] && ARGS+=(--build "$B")
+          [ -n "$TEXTE" ] && ARGS+=(--texte-file "$TEXTE")
           [ "$SUBMIT" = "true" ] && ARGS+=(--submit)
           "$PY" scripts/asc-submit.py "${ARGS[@]}"

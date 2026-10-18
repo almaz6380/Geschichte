@@ -149,7 +149,7 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
 
 /* Toast */
 .toast {
-  position: fixed; left: 50%; bottom: calc(var(--nav-h) + 16px + env(safe-area-inset-bottom)); transform: translateX(-50%);
+  position: fixed; left: 50%; bottom: calc(var(--nav-h) + var(--ad-h) + 16px + env(safe-area-inset-bottom)); transform: translateX(-50%);
   background: var(--text); color: var(--bg); padding: 10px 16px; border-radius: 999px; z-index: 80;
   display: flex; gap: 12px; align-items: center; box-shadow: var(--shadow); max-width: calc(100% - 32px);
 }
@@ -169,8 +169,12 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
 .legend { display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.8rem; color: var(--text-muted); }
 .legend .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
 
-.to-top { position: fixed; right: 16px; bottom: calc(var(--nav-h) + 16px + env(safe-area-inset-bottom)); z-index: 40; }
-@media (min-width: 1024px) { .to-top { bottom: 24px; } }
+.to-top { position: fixed; right: 16px; bottom: calc(var(--nav-h) + var(--ad-h) + 16px + env(safe-area-inset-bottom)); z-index: 40; }
+@media (min-width: 1024px) { .to-top { bottom: calc(24px + var(--ad-h)); } }
+
+/* Werbefläche der Web-Fassung (AdSense) unter dem Inhalt */
+.ad-slot { max-width: var(--max-w); margin: 8px auto 24px; padding: 0 16px; min-height: 90px; text-align: center; }
+.ad-slot .ad-label { display: block; font-size: 0.7rem; color: var(--text-muted); margin-bottom: 4px; }
 
 /* ===== Version 2: Gliederung ===== */
 .intro-text { max-width: 70ch; font-size: 1.05rem; }

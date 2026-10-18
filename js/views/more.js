@@ -5,6 +5,7 @@ import { cycleTheme, themeLabel, applyTheme } from '../theme.js';
 import { showToast } from '../ui.js';
 import { APP_VERSION } from '../version.js';
 import { t, plural, getLang } from '../i18n.js';
+import { hasPrivacyOptions, showPrivacyOptions } from '../ads.js';
 
 // ⚠ Adresse der Web-Fassung, auf die die native App fuer Datenschutz und
 // Impressum verlinkt. Seit 28.09.2026 GitHub Pages statt Vercel: Vercel hatte
@@ -69,6 +70,10 @@ export function render(el) {
           <span><span class="title">${esc(t('more.data.title'))}</span><span class="sub">${esc(t('more.data.sub'))}</span></span>
           <button type="button" class="btn btn-small" id="more-wipe">${esc(t('more.data.action'))}</button>
         </div>
+        ${hasPrivacyOptions() ? `<div class="setting-row">
+          <span><span class="title">${esc(t('more.ads.title'))}</span><span class="sub">${esc(t('more.ads.sub'))}</span></span>
+          <button type="button" class="btn btn-small" id="more-ads">${esc(t('more.ads.action'))}</button>
+        </div>` : ''}
         ${'caches' in window && !window.wgIsNative ? `<div class="setting-row">
           <span><span class="title">${esc(t('more.offline.title'))}</span><span class="sub">${esc(t('more.offline.sub'))}</span></span>
           <button type="button" class="btn btn-small" id="more-refresh">${esc(t('more.offline.action'))}</button>
@@ -112,6 +117,7 @@ export function render(el) {
     showToast(t('more.data.done'));
     render(el);
   });
+  el.querySelector('#more-ads')?.addEventListener('click', () => showPrivacyOptions());
   el.querySelector('#more-refresh')?.addEventListener('click', async () => {
     // Ohne Verbindung würde das Löschen der Caches die App bis zum nächsten Online-Gang unbrauchbar machen.
     const online = navigator.onLine && await fetch('./index.html', { cache: 'no-store' }).then((r) => r.ok, () => false);

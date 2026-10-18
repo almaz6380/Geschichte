@@ -74,6 +74,17 @@ export function next(session) {
   return session;
 }
 
+// 50:50-Joker: zwei falsche Antworten der aktuellen Frage ausblenden, einmal pro Runde.
+// Gibt die ausgeblendeten Indizes zurück (leer, wenn der Joker schon verbraucht ist).
+export function fiftyFifty(session, rng = Math.random) {
+  if (session.jokerUsed || isFinished(session) || session.answers[session.index] !== undefined) return [];
+  const q = session.questions[session.index];
+  const wrong = shuffle(q.choices.map((_, i) => i).filter((i) => i !== q.answer), rng).slice(0, 2);
+  session.jokerUsed = true;
+  session.removed = { ...session.removed, [session.index]: wrong };
+  return wrong;
+}
+
 export function isFinished(session) {
   return session.index >= session.questions.length;
 }

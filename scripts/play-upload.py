@@ -316,11 +316,11 @@ def setze_texte(tok, datei, dry_run=False):
     print(f'{len(sprachen)} Sprachen aus {datei}\n')
     for lang in sprachen:
         t = quelle[lang]
-        setze_listing(tok, None, lang, dry_run, daten={
-            'title': t['name'],
-            'shortDescription': t['short'],
-            'fullDescription': t['description'],
-        })
+        daten = {'shortDescription': t['short'], 'fullDescription': t['description']}
+        # Den Titel nur, wenn die Datei ihn mitbringt (store/store-texte.json laesst ihn weg).
+        if 'name' in t:
+            daten['title'] = t['name']
+        setze_listing(tok, None, lang, dry_run, daten=daten)
         print()
 
 

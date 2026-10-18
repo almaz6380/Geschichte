@@ -19,6 +19,9 @@ Sprache im Projekt und mit dem Nutzer: **Deutsch**. Überblick über Inhalte und
 - Spiellogik ohne DOM: `js/quiz.js`, `duel.js` (Duell per Link, Seed + Antworten im Link, kein
   Server), `hotseat.js`, `games.js`, `daily.js`, `cards.js` (Leitner); Teilen über `js/share.js`
   (`@capacitor/share` nativ). Links zeigen immer auf `WEB_URL` aus `js/version.js`.
+- Werbung: `js/ads.js` (AdMob über `window.Capacitor.Plugins.AdMob`, AdSense im Web), Regeln und
+  Einrichtung in `docs/WERBUNG.md`. `USE_TEST_ADS` erst auf `false`, wenn echte IDs in `js/ads.js`,
+  `AndroidManifest.xml` und `Info.plist` stehen (`test/ads.test.mjs` prüft das).
 - Inhalte: 20 Epochen, 1.040 Quizfragen (≥ 50 je Epoche, Tests erzwingen das).
 
 ## Version
@@ -51,6 +54,9 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
+- **1.2.0 (in Arbeit, Branch `claude/werbung`):** Werbung (Banner, Vollbild nach Runden, Video für den
+  50:50-Joker), DSGVO-Einwilligung, iOS-Tracking-Abfrage, Datenschutzerklärung und Store-Texte angepasst.
+  Wartet auf die AdMob-IDs und die Angaben in Play Console/App Store Connect (`docs/WERBUNG.md`).
 - **1.1.1 (11.10.2026):** Startsprache = Gerätesprache. 1.1.0 vor der Freigabe zurückgezogen
   (neu: `ios-submit.yml` Eingabe `zurueckziehen`). Android versionCode 12 in Produktion (an alle),
   iOS Build 21 eingereicht (reviewSubmission `2d556df3-…`). iOS hat 1.1.0 damit nie bekommen.
