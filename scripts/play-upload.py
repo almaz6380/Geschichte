@@ -80,19 +80,25 @@ class ApiError(Exception):
 def call(tok, method, url, data=None, ctype='application/json', fatal=True):
     if data is not None and ctype == 'application/json':
         data = json.dumps(data).encode()
-    req = urllib.request.Request(url, data=data, method=method)
-    req.add_header('Authorization', f'Bearer {tok}')
-    if data is not None:
-        req.add_header('Content-Type', ctype)
-    try:
-        with urllib.request.urlopen(req) as r:
-            raw = r.read()
-            return json.loads(raw) if raw else {}
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode(errors='replace')
-        if not fatal:
-            raise ApiError(e.code, detail) from None
-        sys.exit(f'\nFEHLER {e.code} bei {method} {url}\n{detail}\n')
+    for versuch in range(5):
+        req = urllib.request.Request(url, data=data, method=method)
+        req.add_header('Authorization', f'Bearer {tok}')
+        if data is not None:
+            req.add_header('Content-Type', ctype)
+        try:
+            with urllib.request.urlopen(req) as r:
+                raw = r.read()
+                return json.loads(raw) if raw else {}
+        except urllib.error.HTTPError as e:
+            code, detail = e.code, e.read().decode(errors='replace')
+        # Kurze Aussetzer bei Google (500/502/503/504) einfach wiederholen.
+        if code >= 500 and versuch < 4:
+            time.sleep(3 * 2 ** versuch)
+            continue
+        break
+    if not fatal:
+        raise ApiError(code, detail)
+    sys.exit(f'\nFEHLER {code} bei {method} {url}\n{detail}\n')
 
 
 def commit_edit(tok, eid):
