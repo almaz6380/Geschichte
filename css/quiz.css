@@ -42,3 +42,7 @@
 .badge.diff-3 { background: color-mix(in srgb, var(--danger) 18%, transparent); color: var(--danger); }
 .quiz-keyhint { font-size: 0.85rem; margin: 10px 0 0; }
 @media (pointer: coarse) { .quiz-keyhint { display: none; } }
+
+/* 50:50-Joker */
+.quiz-choice.removed { opacity: 0.35; text-decoration: line-through; }
+.quiz-joker { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 12px; font-size: 0.85rem; }

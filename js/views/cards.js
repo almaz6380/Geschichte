@@ -1,5 +1,6 @@
 // Karteikarten (Leitner-System) für Begriffe und Personen.
 import { DB } from '../data.js';
+import { roundFinished } from '../ads.js';
 import { esc, setTitle, backLink, progressBar, announce, lifeSpan } from '../ui.js';
 import { dueCards, rate, boxCounts, dueCount, today, BOXES } from '../cards.js';
 import { getCards, setCards } from '../store.js';
@@ -85,6 +86,7 @@ function learn(el, key) {
       const h = el.querySelector('.quiz-score');
       h.setAttribute('tabindex', '-1');
       h.focus({ preventScroll: true });
+      roundFinished();
       return;
     }
     const item = deck.get(queue[idx]);

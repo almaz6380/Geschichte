@@ -20,6 +20,12 @@
             </intent-filter>
         </activity>
 
+        <!-- AdMob-App-ID (js/ads.js, docs/WERBUNG.md). Solange Googles Test-ID hier steht,
+             muss USE_TEST_ADS in js/ads.js true sein. -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileprovider"

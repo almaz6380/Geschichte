@@ -1,0 +1,1 @@
+Zielsprache: CHINESISCH (vereinfachte Schriftzeichen, Festland-Standard). Sachlicher Lehrbuchstil. Namen in der im Chinesischen üblichen Form (查理曼, 伦敦, 百年战争). „500 BC“ → „公元前500年“, „AD 800“ → „公元800年“, „c.“ → „约“. Jahrhunderte: 公元前5世纪, 5世纪. Chinesische Satzzeichen (，。“”).

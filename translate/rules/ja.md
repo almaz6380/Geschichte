@@ -1,0 +1,1 @@
+Zielsprache: JAPANISCH. Sachlicher Lehrbuchstil (である調; Quizfragen dürfen です/ます-frei und knapp sein). Namen in der im Japanischen üblichen Form (カール大帝, ロンドン, 百年戦争; chinesische/koreanische Namen in Kanji). „500 BC“ → „紀元前500年“, „AD 800“ → „800年“ (nur bei Bedarf „紀元後“), „c.“ → „頃“/„約“. Jahrhunderte: 5世紀, 紀元前5世紀.

@@ -6,10 +6,15 @@ export function normalize(s) {
     .toLowerCase()
     .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
     .replace(/æ/g, 'ae').replace(/œ/g, 'oe').replace(/ø/g, 'o').replace(/ð/g, 'd').replace(/þ/g, 'th')
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ')
+    // Nur lateinische Akzente entfernen; NFC setzt danach z. B. japanische Dakuten wieder zusammen.
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC')
+    .replace(/[^\p{L}\p{N}\p{M}]+/gu, ' ')
     .trim();
 }
+
+// Chinesisch und Japanisch schreiben ohne Leerzeichen: Dort zählt schon ein Zeichen als Suchwort,
+// und Treffer werden im Text gesucht statt an Wortgrenzen.
+const CJK = /[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff]/;
 
 // Füllwörter, die sonst fast jedes Dokument treffen ("Karl der Große", "Fall of Rome").
 const STOPWORDS = new Set([
@@ -18,7 +23,7 @@ const STOPWORDS = new Set([
 ]);
 
 export function tokenize(s) {
-  const all = normalize(s).split(' ').filter((t) => t.length >= 2);
+  const all = normalize(s).split(' ').filter((t) => t.length >= 2 || CJK.test(t));
   const words = all.filter((t) => !STOPWORDS.has(t));
   // Besteht die Suche nur aus Füllwörtern, trotzdem danach suchen.
   return words.length ? words : all;
@@ -125,6 +130,7 @@ export function search(index, query, limit = 50) {
 // Liefert ein Textstück um den ersten Treffer, Trefferworte mit <mark> markiert (esc wird auf Rohtext angewendet).
 export function makeSnippet(text, tokens, esc = (s) => s, radius = 70) {
   const plain = String(text ?? '');
+  if (CJK.test(plain)) return cjkSnippet(plain, tokens, esc, Math.round(radius / 2));
   const words = plain.split(/(\s+)/);
   const isHit = (w) => {
     const n = normalize(w);
@@ -139,4 +145,17 @@ export function makeSnippet(text, tokens, esc = (s) => s, radius = 70) {
   const chunk = plain.slice(start, end);
   const marked = chunk.split(/(\s+)/).map((w) => (isHit(w) ? `<mark>${esc(w)}</mark>` : esc(w))).join('');
   return (start > 0 ? '… ' : '') + marked + (end < plain.length ? ' …' : '');
+}
+
+function cjkSnippet(plain, tokens, esc, radius) {
+  const lower = plain.toLowerCase();
+  const hits = tokens.filter((t) => lower.includes(t));
+  const first = hits.length ? Math.min(...hits.map((t) => lower.indexOf(t))) : -1;
+  if (first < 0) return esc(plain.slice(0, radius * 2)) + (plain.length > radius * 2 ? '…' : '');
+  const start = Math.max(0, first - radius);
+  const end = Math.min(plain.length, first + radius * 2);
+  const chunk = plain.slice(start, end);
+  const pattern = new RegExp(`(${hits.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})`, 'gi');
+  const marked = chunk.split(pattern).map((part, i) => (i % 2 ? `<mark>${esc(part)}</mark>` : esc(part))).join('');
+  return (start > 0 ? '…' : '') + marked + (end < plain.length ? '…' : '');
 }

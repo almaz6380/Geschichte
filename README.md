@@ -31,7 +31,8 @@ Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, 
 
 - Helles und dunkles Farbschema, mobile Navigation mit „Mehr“-Bereich, Desktop-Layout mit festem Inhaltsverzeichnis
 - Installierbar als App (Manifest, Icons, Service Worker), Update-Hinweis bei neuer Version
-- Tastatur- und Screenreader-freundlich, keine externen Abhängigkeiten, kein Tracking
+- Tastatur- und Screenreader-freundlich, keine externen Abhängigkeiten
+- Werbefinanziert (seit 1.2.0): AdMob in den Apps, optional AdSense im Web, siehe `docs/WERBUNG.md`
 - Zweisprachig (Deutsch, Englisch): Umschalter in der Kopfzeile, Auswahl bleibt gespeichert, Gerätesprache wird beim ersten Start erkannt
 
 ## Lokal starten

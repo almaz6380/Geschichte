@@ -1,0 +1,1734 @@
+[
+  {
+    "id": "ablasshandel",
+    "term": "赎罪券买卖",
+    "definition": "中世纪晚期教会的一种做法，许诺以金钱换取来世罪罚的免除。赎罪券的出售，尤其用于资助圣彼得大教堂的建造，是路德提出《九十五条论纲》的直接起因。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "luthers-95-thesen",
+      "martin-luther"
+    ]
+  },
+  {
+    "id": "absolutismus",
+    "term": "专制主义",
+    "definition": "17至18世纪的一种统治形式，君主声称不受等级会议和法律约束，独自执政。常备军、官僚队伍、统制经济和华丽的宫廷是其支柱；法国的路易十四被视为典范。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "ludwig-xiv",
+      "hof-nach-versailles",
+      "edikt-von-fontainebleau"
+    ]
+  },
+  {
+    "id": "agora",
+    "term": "阿哥拉",
+    "definition": "希腊城市的中心广场，兼作市场、集会场所和政治中心。在雅典，议事厅、法庭、柱廊和祭坛都位于阿哥拉；苏格拉底在这里与人交谈，法律也在这里公开张贴。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "sokrates",
+      "reformen-solons"
+    ]
+  },
+  {
+    "id": "akropolis",
+    "term": "卫城",
+    "definition": "上城，即许多希腊城市中兼作城堡和圣地的设防山丘。自公元前5世纪起，雅典卫城上建有帕特农神庙、伊瑞克提翁神庙和山门，如今它是古代最著名的建筑群。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "bau-des-parthenon",
+      "perikles"
+    ]
+  },
+  {
+    "id": "al-andalus",
+    "term": "安达卢斯",
+    "definition": "阿拉伯人对711年至1492年间由穆斯林统治的伊比利亚半岛地区的称呼。在科尔多瓦埃米尔国和哈里发国治下，安达卢斯的农业、贸易、学术和建筑繁荣昌盛，穆斯林、犹太人和基督徒都参与其中。1031年哈里发国瓦解后，它一点点败给基督教王国，最终随着格拉纳达的陷落而告终。",
+    "epochId": "islamische-welt",
+    "related": [
+      "kalifat-von-cordoba",
+      "ibn-ruschd",
+      "bau-der-alhambra",
+      "fall-granadas"
+    ]
+  },
+  {
+    "id": "alphabet",
+    "term": "字母",
+    "definition": "一种文字体系，其中每个符号代表一个单音，因此用少量字母就能写出每个词。由22个辅音符号组成的腓尼基字母约产生于公元前1050年，是希腊文、拉丁文、希伯来文和阿拉伯文的始祖。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "phoenizier-und-alphabet",
+      "sumerische-keilschrift"
+    ]
+  },
+  {
+    "id": "altsteinzeit",
+    "term": "旧石器时代",
+    "definition": "人类历史中最长的阶段，从约260万年前最早的石器到约1.2万年前最后一次冰期结束。人们过着游猎采集的生活，用石头、骨头和木头制作工具。",
+    "epochId": "urgeschichte",
+    "related": [
+      "oldowan-steinwerkzeuge",
+      "hoehlenmalerei-lascaux",
+      "homo-erectus"
+    ]
+  },
+  {
+    "id": "appeasement",
+    "term": "绥靖政策",
+    "definition": "20世纪30年代英国和法国的政策，通过让步来满足希特勒的要求，以避免再次发生战争。它在1938年的《慕尼黑协定》中达到顶点，并在1939年3月德国占领捷克斯洛伐克其余部分时破产。此后这一概念成了向侵略者让步的代名词。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "muenchner-abkommen",
+      "winston-churchill",
+      "ueberfall-auf-polen"
+    ]
+  },
+  {
+    "id": "aufgeklaerter-absolutismus",
+    "term": "开明专制",
+    "definition": "18世纪的一种统治风格，君主们采纳宗教宽容、法律改革和学校教育等启蒙思想，却不分享自己的权力。普鲁士的腓特烈二世、玛丽亚·特蕾西亚、约瑟夫二世和叶卡捷琳娜二世自视为国家的第一公仆。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "friedrich-ii-von-preussen",
+      "maria-theresia",
+      "katharina-die-grosse"
+    ]
+  },
+  {
+    "id": "aufklaerung",
+    "term": "启蒙运动",
+    "definition": "18世纪的一场思想运动，力图使理性、批判和经验成为知识、法律和政治的基础。其代表人物主张宽容、人权、分权和全民教育，从而为美国和法国的革命铺平了道路。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "immanuel-kant",
+      "voltaire",
+      "erste-baende-der-encyclopedie",
+      "montesquieu-geist-der-gesetze"
+    ]
+  },
+  {
+    "id": "beamtenpruefung",
+    "term": "科举",
+    "definition": "中国的一种国家考试制度，自汉代起、尤其是唐代以后，按对儒家经典的掌握程度选拔官员。它意在按才能而非出身授予官职，并在1905年以前塑造着东亚的教育。",
+    "epochId": "asien-altertum",
+    "related": [
+      "konfuzius",
+      "wu-zetian",
+      "han-dynastie-und-seidenstrasse"
+    ]
+  },
+  {
+    "id": "blockfreie-bewegung",
+    "term": "不结盟运动",
+    "definition": "1961年在贝尔格莱德成立的国家联合体，它们不愿在冷战中加入西方或东方的任何一个同盟。其领导人物有尼赫鲁、纳赛尔、铁托和苏加诺；其前身是1955年的万隆会议。该运动呼吁裁军、结束殖民主义和建立更公平的世界经济，如今有约120个成员国。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "bandung-konferenz",
+      "afrikanisches-jahr-1960"
+    ]
+  },
+  {
+    "id": "blitzkrieg",
+    "term": "闪电战",
+    "definition": "指1939年至1941年德国的快速战役，装甲部队与飞机协同深入敌人后方，使战线在数周内崩溃。波兰、法国和巴尔干就是这样被席卷的。对苏联作战时，这一构想失败了，战争变成长期的消耗战，盟国的经济实力成为决定性因素。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "westfeldzug-1940",
+      "ueberfall-auf-polen",
+      "erwin-rommel"
+    ]
+  },
+  {
+    "id": "bronzezeit",
+    "term": "青铜时代",
+    "definition": "青铜，即铜与锡的合金，成为武器和工具最重要材料的时代；在近东大致为公元前3300年至前1200年，在中欧为公元前2200年至前800年。由于锡稀少，青铜促进了远距离贸易和帝国的出现。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "ende-der-bronzezeit-seevoelker",
+      "beginn-der-eisenzeit",
+      "mykenische-kultur"
+    ]
+  },
+  {
+    "id": "buergerrechtsbewegung",
+    "term": "民权运动",
+    "definition": "20世纪50和60年代非裔美国人及其支持者通过非暴力抗议、抵制和诉讼，反对美国南方各州的种族隔离和选举权排斥的运动。其高潮是蒙哥马利公交车抵制运动、1963年的华盛顿进军，以及1964年和1965年的民权法案。它成为全世界自由运动的榜样。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "montgomery-busboykott",
+      "martin-luther-king",
+      "rosa-parks"
+    ]
+  },
+  {
+    "id": "calvinismus",
+    "term": "加尔文宗",
+    "definition": "源自日内瓦宗教改革家约翰·加尔文的新教分支。它强调上帝对人的预定、严格的生活操守以及由各会众承担的教会制度；胡格诺派、清教徒以及荷兰和苏格兰的改革宗教会都属于它。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "johannes-calvin",
+      "bartholomaeusnacht"
+    ]
+  },
+  {
+    "id": "daoismus",
+    "term": "道家",
+    "definition": "以《道德经》为基础的中国学说，主张人应与“道”，即事物的自然进程和谐共处。它不赞成功名和僵硬的规则，而提倡平静、质朴和无为。后来由它发展出一种有宫观、道士和长生学说的宗教。",
+    "epochId": "asien-altertum",
+    "related": [
+      "laozi",
+      "daoismus-und-laozi",
+      "konfuzius"
+    ]
+  },
+  {
+    "id": "dekolonisation",
+    "term": "非殖民化",
+    "definition": "第二次世界大战后欧洲殖民帝国的瓦解，1945年至1975年间亚洲、非洲、加勒比和太平洋的80多个国家借此获得独立。这一过程部分通过谈判和平进行，部分经历了印度支那和阿尔及利亚那样的长期战争。经济依附和殖民时代划定的边界在许多新国家继续产生影响。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "unabhaengigkeit-indien-pakistan",
+      "afrikanisches-jahr-1960",
+      "mahatma-gandhi",
+      "ho-chi-minh"
+    ]
+  },
+  {
+    "id": "dharma",
+    "term": "达摩（法）",
+    "definition": "印度宗教的核心概念，视语境而指宇宙秩序、宗教义务或佛陀的教法。对印度教徒而言，达摩指个人依其种姓和人生阶段应尽的义务；对佛教徒而言，则指佛陀宣示的真理。阿育王用它指称一种非暴力和福利的政策。",
+    "epochId": "asien-altertum",
+    "related": [
+      "buddha-lehrt-in-nordindien",
+      "ashoka-verbreitet-den-buddhismus",
+      "siddhartha-gautama"
+    ]
+  },
+  {
+    "id": "dhimmi",
+    "term": "齐米",
+    "definition": "受保护的非穆斯林，主要是基督徒、犹太人和琐罗亚斯德教徒，他们在伊斯兰统治下可以保留自己的宗教并管理自己的社群。作为交换，他们缴纳特别的人头税，并受到限制，例如不得新建礼拜场所、不得携带武器、不得担任高官。这种安排比当时欧洲对宗教少数群体的待遇更宽容，但并不意味着权利平等。",
+    "epochId": "islamische-welt",
+    "related": [
+      "arabische-eroberung-jerusalems",
+      "kalifat-von-cordoba"
+    ]
+  },
+  {
+    "id": "dolchstosslegende",
+    "term": "背后一刀的传说",
+    "definition": "一种错误说法，称德军在第一次世界大战中在战场上并未战败，只是被国内的罢工、革命和政客在背后捅了一刀。实际上，是最高统帅部自己在1918年秋天要求停战的。民族主义者和国家社会主义者利用这一传说，把魏玛共和国及其缔造者诋毁为叛徒。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "paul-von-hindenburg",
+      "waffenstillstand-compiegne",
+      "novemberrevolution-1918"
+    ]
+  },
+  {
+    "id": "domestikation",
+    "term": "驯化",
+    "definition": "通过有意识的选择和培育，经过许多代，把野生植物和动物变成农作物和家畜。狗早在旧石器时代就被驯化，谷物、绵羊、山羊和牛在新石器时代被驯化，马则到铜石并用时代才被驯化。",
+    "epochId": "urgeschichte",
+    "related": [
+      "neolithische-revolution",
+      "domestizierung-des-pferdes"
+    ]
+  },
+  {
+    "id": "dominat",
+    "term": "君主制（多米那特）",
+    "definition": "古代晚期自戴克里先起的统治形式，皇帝公然以“多米努斯”，即主人的身份出现，并以王冠、紫袍、宫廷礼仪和神圣崇拜与臣民区别开来。行政和军队高度集中；在基督教皇帝治下，君权神授取代了神格。",
+    "epochId": "rom",
+    "related": [
+      "tetrarchie-diokletians",
+      "konstantin-der-grosse",
+      "reichskrise-des-3-jahrhunderts"
+    ]
+  },
+  {
+    "id": "dritter-stand",
+    "term": "第三等级",
+    "definition": "革命前法国中既不属于教士也不属于贵族的所有人，即约98%的人口，从富商到日工。第三等级几乎承担了全部税负，在三级会议中却只占三票中的一票。1789年，其代表宣布成立国民议会，由此引发了革命。",
+    "epochId": "revolutionen",
+    "related": [
+      "sturm-auf-die-bastille",
+      "erklaerung-der-menschen-und-buergerrechte"
+    ]
+  },
+  {
+    "id": "eiserner-vorhang",
+    "term": "铁幕",
+    "definition": "指西方民主国家与苏联控制的东方集团之间封锁的边界，它把欧洲从波罗的海到亚得里亚海分隔开来。温斯顿·丘吉尔1946年的一次演讲使这一说法广为人知。铁丝网、地雷和射杀令阻止人们逃往西方；1989年，铁幕被打开。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "bau-der-berliner-mauer",
+      "fall-der-berliner-mauer",
+      "prager-fruehling-1968"
+    ]
+  },
+  {
+    "id": "eiszeit",
+    "term": "冰期",
+    "definition": "漫长的寒冷时期，冰川覆盖了北欧、北美和山脉的大片地区，海平面下降了100多米。最后一次冰期约在2万年前达到顶峰，约1.2万年前结束；人们经由露出水面的陆桥到达了美洲等地。",
+    "epochId": "urgeschichte",
+    "related": [
+      "besiedlung-amerikas",
+      "hoehlenmalerei-lascaux",
+      "neandertaler"
+    ]
+  },
+  {
+    "id": "entspannungspolitik",
+    "term": "缓和政策",
+    "definition": "20世纪70年代的政策，通过谈判、条约和贸易缓和东西方之间的紧张，同时不放弃根本的对立。它包括维利·勃兰特的东方条约、限制战略武器的协议以及1975年的《赫尔辛基最后文件》。它缓解了分裂的德国的日常生活，并为冷战的和平终结铺平了道路。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "willy-brandt",
+      "michail-gorbatschow",
+      "fall-der-berliner-mauer"
+    ]
+  },
+  {
+    "id": "ermaechtigungsgesetz",
+    "term": "《授权法》",
+    "definition": "1933年3月23日帝国议会通过的《消除人民和帝国危难法》，允许希特勒政府不经议会、甚至违反宪法颁布法律。只有社会民主党投了反对票；共产党议员此前已被逮捕。该法是独裁统治的法律基础，并一再延期直到1945年。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "reichstagsbrand-und-ermaechtigungsgesetz",
+      "machtuebernahme-nationalsozialisten",
+      "adolf-hitler"
+    ]
+  },
+  {
+    "id": "evolutionstheorie",
+    "term": "进化论",
+    "definition": "查尔斯·达尔文于1859年提出的学说，认为生物物种是经过漫长时间由共同祖先发展而来的。其驱动力是自然选择：具有有利性状的个体更常存活并繁殖。该理论是现代生物学的基础。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "darwin-entstehung-der-arten",
+      "charles-darwin"
+    ]
+  },
+  {
+    "id": "fabriksystem",
+    "term": "工厂制度",
+    "definition": "在大型建筑中组织生产的方式，许多工人在监督下按固定时间操作由共同动力源驱动的机器。它取代了家庭手工业和手工业作坊，并创造了雇佣劳动者阶级。工厂规章、打卡钟和计件工资自此塑造了劳动生活。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "mechanischer-webstuhl-fabriksystem",
+      "fliessband-ford"
+    ]
+  },
+  {
+    "id": "faschismus",
+    "term": "法西斯主义",
+    "definition": "1919年由贝尼托·墨索里尼在意大利创立的政治运动和统治形式，结合了极端民族主义、对暴力和领袖的美化、对民主和马克思主义的排斥，以及对国家和社会的强行统一。1922年向罗马进军之后，墨索里尼建立了第一个法西斯独裁政权，成为欧洲类似运动的榜样。广义上，该词也指国家社会主义和佛朗哥在西班牙的政权。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "spanischer-buergerkrieg",
+      "weltwirtschaftskrise-1929",
+      "krisenjahr-1923"
+    ]
+  },
+  {
+    "id": "faustkeil",
+    "term": "手斧",
+    "definition": "一种杏仁形、两面加工的石器，有锋利的刃和尖端，自约170万年前起主要由直立人制作。手斧用于切割、刮削、砍劈和挖掘，使用了一百多万年。",
+    "epochId": "urgeschichte",
+    "related": [
+      "homo-erectus",
+      "homo-erectus-verlaesst-afrika"
+    ]
+  },
+  {
+    "id": "gegenreformation",
+    "term": "反宗教改革",
+    "definition": "天主教会自16世纪中叶起为夺回失地并更新自身教义所作的努力。特伦托公会议、耶稣会、宗教裁判所和禁书，以及天主教诸侯的支持，是其最重要的手段。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "konzil-von-trient",
+      "ignatius-von-loyola"
+    ]
+  },
+  {
+    "id": "gesellschaftsvertrag",
+    "term": "社会契约",
+    "definition": "政治哲学的一种模型，认为国家建立在自由人的协议之上，而非神的设立。霍布斯由此推导出强有力的统治者的必要性，洛克推导出反抗权，卢梭推导出人民主权。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "jean-jacques-rousseau",
+      "john-locke",
+      "lockes-two-treatises"
+    ]
+  },
+  {
+    "id": "gewaltenteilung",
+    "term": "分权",
+    "definition": "把国家权力分配给立法、政府和司法的原则，使任何机构都不会过于强大。约翰·洛克，尤其是孟德斯鸠，从英国宪制中发展出这一原则；如今它是几乎所有民主宪法的组成部分。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "montesquieu-geist-der-gesetze",
+      "lockes-two-treatises",
+      "john-locke"
+    ]
+  },
+  {
+    "id": "gladiator",
+    "term": "角斗士",
+    "definition": "通常是奴隶、战俘或罪犯，在竞技场上当着观众的面与其他角斗士或野兽搏斗的战士。角斗士在学校里受训，按固定的武器类别作战，成功者可以赢得名声、金钱和自由。竞技是政治家和皇帝笼络民众的手段。",
+    "epochId": "rom",
+    "related": [
+      "eroeffnung-des-kolosseums",
+      "spartacus",
+      "spartacus-aufstand"
+    ]
+  },
+  {
+    "id": "gleichschaltung",
+    "term": "一体化（强行协调）",
+    "definition": "国家社会主义者对1933年和1934年使国家和社会各领域服从于党的称呼。各邦议会、工会、协会、报刊、广播、文化和学术或被解散、取缔，或被安插国家社会主义者领导人。不服从者丢掉职位或被送进集中营。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "machtuebernahme-nationalsozialisten",
+      "buecherverbrennung-1933",
+      "reichstagsbrand-und-ermaechtigungsgesetz"
+    ]
+  },
+  {
+    "id": "globalisierung",
+    "term": "全球化",
+    "definition": "经济、政治、文化和通信在世界范围内的互联，自20世纪90年代以来因自由贸易、集装箱运输、互联网和中国的崛起而急剧加快。它降低了许多国家的价格和贫困，但也导致西方工业岗位流失，并使2008年金融危机和新冠疫情等危机成为世界性事件。批评者呼吁更公平的贸易规则和更多的气候保护。",
+    "epochId": "gegenwart",
+    "related": [
+      "world-wide-web-1991",
+      "weltfinanzkrise-2008",
+      "covid-19-pandemie",
+      "deng-xiaoping"
+    ]
+  },
+  {
+    "id": "gotik",
+    "term": "哥特式",
+    "definition": "盛期和晚期中世纪的建筑风格，1140年前后产生于法国，把尖拱、肋拱和扶壁结合成采光充足的高耸教堂。沙特尔、兰斯和科隆大教堂等是其最著名的作品；这一名称到文艺复兴时才出现，而且是一个贬义词。",
+    "epochId": "mittelalter",
+    "related": [
+      "beginn-der-gotik",
+      "justinian-und-hagia-sophia"
+    ]
+  },
+  {
+    "id": "hanse",
+    "term": "汉萨同盟",
+    "definition": "低地德意志商人、后来是城市的联合体，12至17世纪主宰着北海和波罗的海的贸易。凭借在伦敦、布鲁日、卑尔根和诺夫哥罗德的商站、共同的会议，必要时还有战争，它维护着自己的贸易特权。",
+    "epochId": "mittelalter",
+    "related": [
+      "erster-hansetag",
+      "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "hellenismus",
+    "term": "希腊化时代",
+    "definition": "从公元前323年亚历山大去世到公元前30年罗马征服埃及的时代，希腊语言和文化传遍整个近东，并与东方传统相融合。其中心是亚历山大、安条克和帕加马；学术、艺术和贸易繁荣昌盛。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "diadochenkriege",
+      "gruendung-alexandrias",
+      "bibliothek-von-alexandria",
+      "tod-kleopatras"
+    ]
+  },
+  {
+    "id": "hieroglyphen",
+    "term": "象形文字",
+    "definition": "古埃及的图画文字，约自公元前3200年起用于神庙墙壁、陵墓和纸莎草纸。这些符号代表音、音节或整个词。1822年，让-弗朗索瓦·商博良借助罗塞塔石碑成功破译。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "reichseinigung-aegyptens",
+      "tutanchamun"
+    ]
+  },
+  {
+    "id": "holocaust",
+    "term": "大屠杀",
+    "definition": "1941年至1945年间，国家社会主义德国及其帮凶对约六百万欧洲犹太人实施的有系统的、由国家组织的种族灭绝。它始于东线后方的大规模枪杀，并在奥斯维辛-比克瑙、特雷布林卡和索比堡等灭绝营中以毒气室的方式工业化地继续进行。在希伯来语中，这一罪行称为“浩劫”（Shoah），意为灾难。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "wannseekonferenz",
+      "befreiung-von-auschwitz",
+      "aufstand-im-warschauer-ghetto",
+      "anne-frank"
+    ]
+  },
+  {
+    "id": "holztafeldruck",
+    "term": "雕版印刷",
+    "definition": "一种印刷工艺，把整页文字反向刻在木板上，涂墨后压印到纸上。它在中国唐代出现，使佛经、历书和经典得以大量传播；868年的《金刚经》是已知最早有明确年代的实例。",
+    "epochId": "asien-altertum",
+    "related": [
+      "diamant-sutra-holztafeldruck",
+      "erfindung-des-papiers",
+      "song-dynastie-erfindungen"
+    ]
+  },
+  {
+    "id": "hominini",
+    "term": "人族",
+    "definition": "类人猿中的一支，在约六七百万年前与黑猩猩分离后演化出人类。它包括露西等南方古猿，以及人属的所有物种，其中今天只有智人存活。",
+    "epochId": "urgeschichte",
+    "related": [
+      "lucy",
+      "homo-habilis",
+      "neandertaler",
+      "denisova-mensch"
+    ]
+  },
+  {
+    "id": "hoplit",
+    "term": "重装步兵",
+    "definition": "希腊的重装步兵，持圆盾、长矛，戴头盔、穿身甲，装备自费。重装步兵在密集的战线——方阵——中并肩作战。由于公民以重装步兵的身份保卫城邦，他们也要求参政的权利。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "schlacht-von-marathon",
+      "schlacht-an-den-thermopylen"
+    ]
+  },
+  {
+    "id": "hugenotten",
+    "term": "胡格诺派",
+    "definition": "信奉加尔文教义的法国新教徒的名称。宗教战争之后，他们于1598年通过《南特敕令》获得信仰自由，路易十四于1685年废除了敕令；数十万人因此逃往新教国家，丰富了那里的手工业和经济。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "edikt-von-fontainebleau",
+      "ludwig-xiv"
+    ]
+  },
+  {
+    "id": "humanismus",
+    "term": "人文主义",
+    "definition": "14至16世纪的教育运动，以希腊罗马古典著作为准绳，把具有理性和尊严的人置于中心。伊拉斯谟等人文主义者寻找原始文本，批评教会，并提倡语言、历史和修辞学作为教育的基础。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "erasmus-von-rotterdam",
+      "erasmus-novum-instrumentum",
+      "leonardo-da-vinci"
+    ]
+  },
+  {
+    "id": "hyperinflation",
+    "term": "恶性通货膨胀",
+    "definition": "货币的极度贬值，物价在数天或数小时内成倍上涨，货币丧失其功能。在德国，战争债务、赔款以及靠印钞机为鲁尔抵抗提供资金，导致1923年一美元要值4.2万亿马克。中产阶级积蓄的毁灭使人们对共和国的信任长久地动摇。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "krisenjahr-1923",
+      "gustav-stresemann",
+      "versailler-vertrag"
+    ]
+  },
+  {
+    "id": "imperialismus",
+    "term": "帝国主义",
+    "definition": "大国谋求把统治扩展到其他国家和民族的倾向，无论通过殖民地、经济依附还是军事压力。约1880年至1914年的帝国主义时代使几乎整个非洲和亚洲大部分地区处于欧洲控制之下，并加剧了列强之间的对抗。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "berliner-konferenz-afrika",
+      "boxeraufstand",
+      "cecil-rhodes"
+    ]
+  },
+  {
+    "id": "industrielle-revolution",
+    "term": "工业革命",
+    "definition": "由农业社会向工业社会的深远转变，1780年前后始于英国。蒸汽机、机器和工厂取代了手工劳动和作坊，煤和铁成为最重要的原料。约从1870年起，人们谈到以电力、化学和内燃机为标志的第二次工业革命。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "mechanischer-webstuhl-fabriksystem",
+      "james-watt",
+      "eisenbahn-stockton-darlington"
+    ]
+  },
+  {
+    "id": "investiturstreit",
+    "term": "主教叙任权之争",
+    "definition": "11至12世纪教权与王权之间关于谁有权任命主教和修道院长的冲突。其最著名的一幕是亨利四世1077年的卡诺莎之行；1122年的《沃尔姆斯协定》把精神叙任与世俗叙任区分开来。",
+    "epochId": "mittelalter",
+    "related": [
+      "gang-nach-canossa",
+      "otto-i"
+    ]
+  },
+  {
+    "id": "jakobiner",
+    "term": "雅各宾派",
+    "definition": "法国大革命中最有影响的政治俱乐部的成员，因其在巴黎一座旧多明我会修道院的聚会地点而得名。在罗伯斯庇尔领导下，他们成为激进的政党，1793年至1794年以恐怖手段保卫共和国，对抗国内外敌人。在欧洲，这个词长期被用作对激进民主思想拥护者的辱骂。",
+    "epochId": "revolutionen",
+    "related": [
+      "maximilien-de-robespierre",
+      "hinrichtung-ludwigs-xvi-und-schreckensherrschaft"
+    ]
+  },
+  {
+    "id": "jungsteinzeit",
+    "term": "新石器时代",
+    "definition": "约自公元前9500年起，人们从事农耕和畜牧并住在固定村落的时期。其特征是磨制石器、陶器、纺织以及巨石阵等大型建筑。它在不同地区随着金属加工的开始而在不同时间结束。",
+    "epochId": "urgeschichte",
+    "related": [
+      "neolithische-revolution",
+      "catalhoeyuek",
+      "jericho-frueheste-stadtsiedlung"
+    ]
+  },
+  {
+    "id": "kalifat",
+    "term": "哈里发国",
+    "definition": "哈里发的统治，哈里发是先知穆罕默德的继承人、穆斯林社群的首领。最初四位哈里发是选举产生的；此后倭马亚王朝和阿拔斯王朝使这一职位世袭。从10世纪起，数个哈里发国并存，实际权力转移到苏丹手中；阿拔斯哈里发国于1258年随巴格达被毁而终结。",
+    "epochId": "islamische-welt",
+    "related": [
+      "umayyaden-kalifat-in-damaskus",
+      "abbasiden-revolution",
+      "kalifat-von-cordoba",
+      "harun-ar-raschid"
+    ]
+  },
+  {
+    "id": "kalter-krieg",
+    "term": "冷战",
+    "definition": "约1947年至1991年美国和苏联及其各自同盟之间的冲突。双方以军备竞赛、宣传、间谍活动和代理人战争相互斗争，但由于核武器，从未直接交战。它随着东方集团的崩溃和苏联的解体而结束。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "berliner-luftbruecke",
+      "kubakrise",
+      "aufloesung-der-sowjetunion",
+      "nikita-chruschtschow"
+    ]
+  },
+  {
+    "id": "keilschrift",
+    "term": "楔形文字",
+    "definition": "已知最古老的文字，由苏美尔人约在公元前3200年发展而成。符号用芦苇笔以楔形压入湿泥板，起初表示事物，后来也表示音节。楔形文字被用于近东的许多语言，使用了三千多年。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "sumerische-keilschrift",
+      "codex-hammurapi",
+      "gilgamesch-epos"
+    ]
+  },
+  {
+    "id": "koalitionskriege",
+    "term": "反法同盟战争",
+    "definition": "1792年至1815年的战争，欧洲列强——主要是大不列颠、奥地利、普鲁士和俄国——组成不断变化的同盟，与革命和拿破仑时期的法国作战。这些战争带来了征兵制的大规模军队，改变了欧洲地图，并夺去了数百万人的生命。其最后阶段在德国被称为解放战争。",
+    "epochId": "revolutionen",
+    "related": [
+      "russlandfeldzug-1812",
+      "voelkerschlacht-bei-leipzig",
+      "schlacht-bei-waterloo",
+      "napoleon-bonaparte"
+    ]
+  },
+  {
+    "id": "kolumbianischer-austausch",
+    "term": "哥伦布大交换",
+    "definition": "指1492年之后旧世界与新世界之间植物、动物、疾病和人口的交换。马铃薯、玉米和番茄传到欧洲，马、牛和小麦传到美洲；天花和麻疹夺去了大部分原住民的生命。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "kolumbus-erreicht-amerika",
+      "beginn-transatlantischer-sklavenhandel"
+    ]
+  },
+  {
+    "id": "konquistadoren",
+    "term": "征服者",
+    "definition": "16世纪以小股兵力征服美洲大片地区的西班牙征服者。埃尔南·科尔特斯和弗朗西斯科·皮萨罗等人利用火器、马匹、与原住民的结盟以及带来的瘟疫，摧毁了阿兹特克和印加帝国，并将其占为西班牙王室所有。",
+    "epochId": "lateinamerika",
+    "related": [
+      "fall-tenochtitlans",
+      "eroberung-des-inkareiches"
+    ]
+  },
+  {
+    "id": "konzentrationslager",
+    "term": "集中营",
+    "definition": "自1933年起，国家社会主义者不经任何法院判决，在营中关押、剥削并杀害政治对手，后来还有犹太人、辛提人和罗姆人、同性恋者、耶和华见证人以及被占领国家的人。党卫军运营着由达豪、布痕瓦尔德和萨克森豪森等主营及一千多个分营组成的网络。历史学家把囚犯死于劳役、饥饿、疾病和暴力的集中营，与特雷布林卡那样唯一目的就是大规模屠杀的纯粹灭绝营区分开来。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "befreiung-von-auschwitz",
+      "dietrich-bonhoeffer",
+      "machtuebernahme-nationalsozialisten"
+    ]
+  },
+  {
+    "id": "koran",
+    "term": "《古兰经》",
+    "definition": "伊斯兰教的圣典，按穆斯林的信仰，包含穆罕默德在610年至632年间从真主那里接受的启示。文本在约650年第三任哈里发奥斯曼治下汇集成权威版本，共114章，称为“苏拉”。《古兰经》是穆斯林信仰、法律和日常生活的基础，并塑造了阿拉伯语和书法。",
+    "epochId": "islamische-welt",
+    "related": [
+      "erste-offenbarung-mohammeds",
+      "mohammed",
+      "aischa-bint-abi-bakr"
+    ]
+  },
+  {
+    "id": "kreuzzug",
+    "term": "十字军东征",
+    "definition": "由教皇宣布的军事远征，许诺参加者罪得赦免，主要针对圣地的穆斯林统治者。1096年至1291年间，七支大规模的十字军向东进发；后来在欧洲对异端和异教徒的战事也被冠以此名。",
+    "epochId": "mittelalter",
+    "related": [
+      "erster-kreuzzug",
+      "friedrich-ii-staufer",
+      "eleonore-von-aquitanien"
+    ]
+  },
+  {
+    "id": "kupferzeit",
+    "term": "铜石并用时代",
+    "definition": "新石器时代与青铜时代之间的过渡时期，人们冶炼铜矿并加工成斧、针和饰物，但石头仍是最重要的材料。在欧洲，大致为公元前4500年至前2200年；冰人奥兹就生活在这一时代。",
+    "epochId": "urgeschichte",
+    "related": [
+      "beginn-der-kupferzeit",
+      "oetzi",
+      "oetzi-stirbt-in-den-alpen"
+    ]
+  },
+  {
+    "id": "legalismus",
+    "term": "法家",
+    "definition": "战国时期的中国国家学说，它不像儒家那样依靠道德和榜样，而是依靠严格的法律、严酷的刑罚和奖赏。秦国以它作为统治的基础，从而统一了中国，但其严苛也加速了秦朝的覆亡。",
+    "epochId": "asien-altertum",
+    "related": [
+      "qin-shihuangdi",
+      "zeit-der-streitenden-reiche"
+    ]
+  },
+  {
+    "id": "legion",
+    "term": "军团",
+    "definition": "罗马军队中最大的单位，约有4000至6000名重装步兵，分为大队和百人队，并配有骑兵和辅助部队。自马略以来，军团士兵作为职业军人服役16至25年，退役后获得土地或金钱，这使他们依附于自己的统帅。帝国时期，约有30个军团驻守在边境上。",
+    "epochId": "rom",
+    "related": [
+      "caesar-erobert-gallien",
+      "varusschlacht",
+      "reichskrise-des-3-jahrhunderts"
+    ]
+  },
+  {
+    "id": "lehnswesen",
+    "term": "封建制度",
+    "definition": "中世纪欧洲的秩序，领主把土地或官职作为封地授予封臣，封臣则对他负有忠诚、咨议和兵役的义务。由此从国王经公爵、伯爵一直到普通骑士，形成了一条取代国家的依附链条。",
+    "epochId": "mittelalter",
+    "related": [
+      "kaiserkroenung-karls-des-grossen",
+      "schlacht-bei-hastings",
+      "wilhelm-der-eroberer"
+    ]
+  },
+  {
+    "id": "liberalismus",
+    "term": "自由主义",
+    "definition": "一种政治思潮，把个人相对于国家的自由置于中心，要求宪法、分权、基本权利、新闻自由和自由经济。自由主义产生于启蒙运动以及美国和法国的革命，由中产阶级承载。19世纪，自由派在宪法问题上与复辟势力较量，在扩大选举权问题上则与民主派较量。",
+    "epochId": "revolutionen",
+    "related": [
+      "verfassung-der-usa",
+      "julirevolution-1830",
+      "lafayette"
+    ]
+  },
+  {
+    "id": "limes",
+    "term": "界墙（利美斯）",
+    "definition": "罗马帝国的设防边界，由土垒、栅栏、壕沟、瞭望塔和堡垒组成。莱茵河与多瑙河之间的上日耳曼-雷蒂亚界墙长约550公里，不列颠的哈德良长城长118公里。界墙与其说是不可逾越的城墙，不如说是对贸易、关税和边境往来的管控线。",
+    "epochId": "rom",
+    "related": [
+      "bau-des-hadrianswalls",
+      "varusschlacht"
+    ]
+  },
+  {
+    "id": "madrasa",
+    "term": "马德拉萨",
+    "definition": "伊斯兰高等学府，主要教授法律、《古兰经》注释、圣训学和阿拉伯语语法，往往也教授数学、天文学和医学。马德拉萨通常由统治者或富有的个人作为虔诚的捐赠出资，并为学生提供食宿。著名的例子有开罗的爱资哈尔、非斯的卡鲁因和廷巴克图的学校。",
+    "epochId": "islamische-welt",
+    "related": [
+      "fatimiden-gruenden-kairo",
+      "fatima-al-fihri",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "mandat-des-himmels",
+    "term": "天命",
+    "definition": "中国的一种观念，认为统治者只要公正施政，就从上天获得权力。歉收、灾难和起义被视为天命被收回的征兆，并为推翻王朝提供了正当理由。这一观念解释了中国王朝兴衰更替的循环。",
+    "epochId": "asien-altertum",
+    "related": [
+      "qin-shihuangdi-einigt-china",
+      "wu-zetian-wird-kaiserin",
+      "tang-dynastie"
+    ]
+  },
+  {
+    "id": "megalith",
+    "term": "巨石",
+    "definition": "新石器时代和青铜时代用于墓葬、石列和石圈的大型、多半未经加工的石块。巨石阵、卡尔纳克和纽格兰奇等巨石建筑主要见于欧洲大西洋沿岸，显示了早期农耕社会的组织能力。",
+    "epochId": "urgeschichte",
+    "related": [
+      "megalithbauten-stonehenge",
+      "goebekli-tepe"
+    ]
+  },
+  {
+    "id": "merkantilismus",
+    "term": "重商主义",
+    "definition": "专制主义的经济政策，以国家拥有的金银储备衡量其财富。国家扶持手工工场和出口，对进口征收保护性关税，并把殖民地用作原料来源和市场；路易十四治下的柯尔贝尔是其最著名的代表。",
+    "epochId": "absolutismus-aufklaerung",
+    "related": [
+      "ludwig-xiv",
+      "hof-nach-versailles"
+    ]
+  },
+  {
+    "id": "mogulreich",
+    "term": "莫卧儿帝国",
+    "definition": "印度的一个伟大的穆斯林帝国，由巴布尔于1526年创立，在阿克巴治下统治了次大陆的大部分地区。它融合了波斯、中亚和印度文化，造就了泰姬陵等建筑，并在18世纪瓦解，之后英国人接管了统治。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "akbar",
+      "akbar-mogulreich"
+    ]
+  },
+  {
+    "id": "moenchtum",
+    "term": "修道制度",
+    "definition": "男女在修道院中依会规致力于祈祷、劳动，并放弃财产、婚姻和个人意志的生活方式。努西亚的本笃的会规使西方的修道院成为学问、农业和护理病人的中心。",
+    "epochId": "mittelalter",
+    "related": [
+      "benedikt-gruendet-montecassino",
+      "hildegard-von-bingen",
+      "ueberfall-auf-lindisfarne"
+    ]
+  },
+  {
+    "id": "mumifizierung",
+    "term": "木乃伊制作",
+    "definition": "尸体的保存，在埃及是取出内脏，用泡碱盐干燥70天，再用亚麻绷带包裹。埃及人相信身体必须保存，才能在来世继续生活；拉美西斯二世和图坦卡蒙的木乃伊流传至今。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "tutanchamun",
+      "ramses-ii",
+      "bau-der-cheops-pyramide"
+    ]
+  },
+  {
+    "id": "nationalismus",
+    "term": "民族主义",
+    "definition": "认为拥有共同语言、文化和历史的人们组成一个民族，并应拥有自己国家的思想。法国大革命使民族成为主权的承担者，对拿破仑的抵抗唤醒了德国、西班牙和意大利的民族情感。19世纪，民族主义通常与自由的要求结合在一起，但后来也发展为傲慢和对其他民族的敌意。",
+    "epochId": "revolutionen",
+    "related": [
+      "hambacher-fest",
+      "ende-des-heiligen-roemischen-reiches",
+      "mexikanische-unabhaengigkeit",
+      "maerzrevolution-1848"
+    ]
+  },
+  {
+    "id": "nationalstaat",
+    "term": "民族国家",
+    "definition": "其居民自视为拥有共同语言、历史和文化的一个民族，并且国家边界应与该民族相吻合的国家。19世纪，它成为指导性的政治理想，导致了意大利和德国的统一，也导致了多民族帝国的解体。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "gruendung-deutsches-kaiserreich",
+      "otto-von-bismarck"
+    ]
+  },
+  {
+    "id": "ostrakismos",
+    "term": "陶片放逐法",
+    "definition": "雅典民主的一种程序，每年一次，公民可以在陶片上刻下他们认为危险的政治家的名字。得票最多者——前提是至少投出了6000片陶片——必须离开雅典十年，但保留财产和公民权。其目的是防止新的僭主政治。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "reformen-des-kleisthenes",
+      "perikles"
+    ]
+  },
+  {
+    "id": "pharao",
+    "term": "法老",
+    "definition": "古埃及国王的称号，源自埃及语中指宫殿的“大屋”一词。法老被视为太阳神之子和玛亚特——世界秩序——的保证者；他同时是大祭司、法官和军队统帅。三十多个法老王朝统治了埃及近三千年。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "hatschepsut",
+      "ramses-ii",
+      "ahmose-i",
+      "tutanchamun"
+    ]
+  },
+  {
+    "id": "polis",
+    "term": "城邦",
+    "definition": "希腊的城邦，由一座城市及其周围的土地和自治的公民共同体组成。从雅典、斯巴达到小岛上的城镇，共有数百个城邦；它们的独立与相互竞争塑造了希腊历史。“政治”一词即源于polis。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "reformen-des-kleisthenes",
+      "griechische-kolonisation",
+      "peloponnesischer-krieg"
+    ]
+  },
+  {
+    "id": "prinzipat",
+    "term": "元首制",
+    "definition": "奥古斯都于公元前27年确立的统治形式，其中皇帝以“元首”（princeps，即同侪中的第一人）的身份出现，并在形式上保留元老院和执政官等共和国机构。实际上，军队、行省和财政的权力掌握在皇帝手中。元首制一直延续到3世纪危机。",
+    "epochId": "rom",
+    "related": [
+      "augustus",
+      "augustus-begruendet-den-prinzipat",
+      "schlacht-bei-actium"
+    ]
+  },
+  {
+    "id": "reconquista",
+    "term": "收复失地运动",
+    "definition": "阿斯图里亚斯、莱昂、卡斯蒂利亚、阿拉贡和葡萄牙等基督教王国收复伊比利亚半岛的过程，从8世纪一直持续到1492年格拉纳达陷落。它并非不间断的战争，而是夹杂着漫长的结盟、贸易和跨越边界的文化交流。1492年之后，犹太人和穆斯林被驱逐或被迫受洗，西班牙的宗教多样性就此终结。",
+    "epochId": "islamische-welt",
+    "related": [
+      "fall-granadas",
+      "kalifat-von-cordoba",
+      "schlacht-bei-tours-und-poitiers"
+    ]
+  },
+  {
+    "id": "reformation",
+    "term": "宗教改革",
+    "definition": "1517年以路德《九十五条论纲》为开端的宗教革新运动，导致西方基督教世界分裂为天主教徒和新教徒。其追随者诉诸《圣经》和唯独因信称义，拒绝赎罪券和教皇权威，并在德国、瑞士、斯堪的纳维亚、英国和尼德兰建立了自己的教会。",
+    "epochId": "renaissance-entdeckungen",
+    "related": [
+      "martin-luther",
+      "luthers-95-thesen",
+      "reichstag-zu-worms",
+      "augsburger-religionsfrieden"
+    ]
+  },
+  {
+    "id": "reparationen",
+    "term": "战争赔款",
+    "definition": "战败国必须向战胜国支付的款项和实物，作为对战争损失的补偿。《凡尔赛条约》强加给德国的赔款，1921年被确定为1320亿金马克，其中包括煤炭、机车和船舶。围绕赔款的争执导致了鲁尔区被占领，并一度因1924年的道威斯计划和1929年的杨格计划而缓和，直到1932年赔款实际上终止。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "versailler-vertrag",
+      "krisenjahr-1923",
+      "gustav-stresemann"
+    ]
+  },
+  {
+    "id": "restauration",
+    "term": "复辟",
+    "definition": "1815年以后以维也纳会议为出发点的政策，旨在恢复旧王朝的统治并压制革命的思想。其手段有书报审查、警察监视、禁止政治社团，以及对西班牙、意大利和德国起义的干预。其最重要的代表是奥地利国务首相梅特涅。",
+    "epochId": "revolutionen",
+    "related": [
+      "wiener-kongress",
+      "klemens-von-metternich",
+      "hambacher-fest"
+    ]
+  },
+  {
+    "id": "romanisierung",
+    "term": "罗马化",
+    "definition": "被征服行省的居民接受罗马的语言、生活方式、法律秩序和城市建设风格。这并非通过强制，而是通过退伍老兵的安置、贸易、授予当地精英公民权，以及浴场、剧场和道路的吸引力实现的。行省的拉丁语发展成了罗曼语族诸语言。",
+    "epochId": "rom",
+    "related": [
+      "caesar-erobert-gallien",
+      "constitutio-antoniniana",
+      "bau-des-hadrianswalls"
+    ]
+  },
+  {
+    "id": "sakoku",
+    "term": "锁国",
+    "definition": "日语中指1639年至1854年德川幕府时期的闭关政策。外国人不得入境，日本人不得出国，对外贸易仅限于长崎的中国商人和荷兰商人；日本经历了两个世纪的和平，所受欧洲影响十分有限（西方学问仍通过荷兰人以“兰学”的形式传入）。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "abschliessung-japans",
+      "tokugawa-ieyasu"
+    ]
+  },
+  {
+    "id": "satrapie",
+    "term": "总督辖区",
+    "definition": "波斯帝国的行省，由总督（萨特拉普）以大王的名义管理。总督征收赋税、提供军队并司法审判，但受到王室巡察官的监督。这一制度使阿契美尼德王朝得以把一个由多民族、多语言构成的帝国凝聚在一起。",
+    "epochId": "asien-altertum",
+    "related": [
+      "kyros-gruendet-das-perserreich",
+      "kyros-ii"
+    ]
+  },
+  {
+    "id": "scholastik",
+    "term": "经院哲学",
+    "definition": "中世纪大学的学术方法，用逻辑和亚里士多德哲学的手段考察信仰问题。命题在规范的辩论中受到检验，反对意见被逐一驳斥；托马斯·阿奎那在13世纪把经院哲学推向顶峰。",
+    "epochId": "mittelalter",
+    "related": [
+      "thomas-von-aquin",
+      "gruendung-der-universitaet-bologna"
+    ]
+  },
+  {
+    "id": "seidenstrasse",
+    "term": "丝绸之路",
+    "definition": "由商队路线和海上航线构成的网络，自汉代起经中亚和波斯把中国与印度及地中海世界联系起来。除丝绸、香料、玻璃和马匹之外，佛教等宗教、造纸等技术以及疾病也沿着它传播。这一名称直到19世纪才出现。",
+    "epochId": "asien-altertum",
+    "related": [
+      "han-dynastie-und-seidenstrasse",
+      "kushan-reich-und-seidenstrasse",
+      "buddhismus-erreicht-china"
+    ]
+  },
+  {
+    "id": "senat",
+    "term": "元老院",
+    "definition": "由罗马前任官员（最初是长老）组成的议事会，成员约300至600人，终身任命。共和国时期，元老院决定外交、财政和行省管理，是贵族权力的中心。帝国时期它失去影响力，但作为荣誉性的集会一直存续到古代晚期。",
+    "epochId": "rom",
+    "related": [
+      "beginn-der-roemischen-republik",
+      "cicero",
+      "ermordung-caesars"
+    ]
+  },
+  {
+    "id": "soziale-frage",
+    "term": "社会问题",
+    "definition": "指19世纪工人阶级的困境：低工资、长工时、童工、恶劣的住房以及缺乏疾病和养老保障。教会、企业家、社会主义者和国家寻求不同的答案，从企业住宅、工会到社会保险。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "weberaufstand-schlesien",
+      "bismarcks-sozialgesetze",
+      "kommunistisches-manifest"
+    ]
+  },
+  {
+    "id": "sozialversicherung",
+    "term": "社会保险",
+    "definition": "由国家组织的强制保险，保护雇员免受疾病、事故、年老和残疾之苦，由雇主和雇员的缴费提供资金。它由俾斯麦在1883年至1889年间于德意志帝国推行，成为世界各国福利国家的典范。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "bismarcks-sozialgesetze",
+      "otto-von-bismarck"
+    ]
+  },
+  {
+    "id": "stadtstaat",
+    "term": "城邦",
+    "definition": "由一座城市及其周围土地构成的独立国家。在苏美尔，每个城邦都奉祀一位自己的神，由国王或祭司君主统治；各城为争夺水源和土地而相互征战，直到阿卡德的萨尔贡把它们统一为一个帝国。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "stadtstaaten-sumers-und-ur-standarte",
+      "sargon-gruendet-akkadisches-reich",
+      "gilgamesch"
+    ]
+  },
+  {
+    "id": "staendegesellschaft",
+    "term": "等级社会",
+    "definition": "中世纪社会按出身划分为权利和义务各不相同的等级：教士、贵族以及占绝大多数的农民和市民。按当时的学说，第一等级祈祷，第二等级作战，第三等级劳动；1381年英国起义等事件对这种秩序提出了质疑。",
+    "epochId": "mittelalter",
+    "related": [
+      "bauernaufstand-in-england",
+      "magna-carta",
+      "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "stellungskrieg",
+    "term": "阵地战",
+    "definition": "一种作战方式，交战双方的军队隔着设防的战壕对峙，战线数月乃至数年几乎不动。第一次世界大战的西线上，机枪、火炮和铁丝网使每一次进攻都代价惨重，双方一直留在战壕里直到1918年。凡尔登和索姆河是最著名的例子。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "marneschlacht-und-stellungskrieg",
+      "schlacht-um-verdun",
+      "schlacht-um-gallipoli"
+    ]
+  },
+  {
+    "id": "stellvertreterkrieg",
+    "term": "代理人战争",
+    "definition": "大国不亲自相互交战，而是在第三国以武器、金钱、顾问或自己的部队支持敌对双方的战争。冷战中，美国和苏联就以这种方式在朝鲜、越南、阿富汗和非洲展开对抗。受苦的主要是这些国家的民众。",
+    "epochId": "kalter-krieg-gegenwart",
+    "related": [
+      "koreakrieg",
+      "vietnamkrieg",
+      "ho-chi-minh"
+    ]
+  },
+  {
+    "id": "sufismus",
+    "term": "苏菲主义",
+    "definition": "伊斯兰教的神秘主义流派，追求对真主直接而充满爱的体验，并借助祈祷、冥想、歌唱、舞蹈和苦行来达到这一目的。巴士拉的拉比娅、安萨里和鲁米等苏菲创作了重要的诗歌和哲学；自12世纪起，他们结成有导师和弟子的教团。苏菲兄弟会把伊斯兰教传到安纳托利亚、印度、东南亚和非洲。",
+    "epochId": "islamische-welt",
+    "related": [
+      "rumi",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "sunniten-und-schiiten",
+    "term": "逊尼派与什叶派",
+    "definition": "伊斯兰教的两大主要流派，源于关于穆罕默德继承人的争执。什叶派认为先知的堂弟兼女婿阿里及其后裔是唯一合法的领袖；逊尼派则承认选举产生的哈里发，并以“逊奈”，即先知的榜样为依据。今天约85%至90%的穆斯林是逊尼派；什叶派主要居住在伊朗、伊拉克、黎巴嫩和巴林。",
+    "epochId": "islamische-welt",
+    "related": [
+      "schlacht-von-kerbela",
+      "umayyaden-kalifat-in-damaskus",
+      "fatimiden-gruenden-kairo"
+    ]
+  },
+  {
+    "id": "totaler-krieg",
+    "term": "总体战",
+    "definition": "国家为作战动员全部人民、经济力量和资源，军人与平民之间的界线变得模糊的战争。第一次世界大战被视为第一场总体战：工厂只为前线生产，妇女在工作岗位上接替男人，封锁使平民陷入饥饿。宣传和审查旨在保证坚持到底的意志。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "schlacht-um-verdun",
+      "novemberrevolution-1918",
+      "kaethe-kollwitz"
+    ]
+  },
+  {
+    "id": "tragoedie",
+    "term": "悲剧",
+    "definition": "一种严肃的戏剧，公元前5世纪在雅典由祭祀狄奥尼索斯的合唱歌队发展而来。埃斯库罗斯、索福克勒斯和欧里庇得斯的悲剧展现来自神话和历史的英雄与诸神、法律和命运的冲突，并在竞赛中面向数千名公民上演。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "aischylos-und-die-tragoedie",
+      "tyrannis-der-peisistratiden"
+    ]
+  },
+  {
+    "id": "tyrannis",
+    "term": "僭主政治",
+    "definition": "一人没有任何法律依据而夺取权力的独裁统治，通常凭借武力，或借助民众的支持对抗贵族。公元前7世纪和6世纪，僭主统治着许多希腊城市，往往促进经济和艺术；这一词后来才成为暴虐专制的代名词。",
+    "epochId": "antike-griechenland",
+    "related": [
+      "tyrannis-der-peisistratiden",
+      "reformen-des-kleisthenes"
+    ]
+  },
+  {
+    "id": "vernichtungskrieg",
+    "term": "灭绝战争",
+    "definition": "指1941年起德国对苏联的战争，它从一开始的目标就不仅是军事胜利，而是摧毁国家、杀害犹太人和共产党干部，并使数百万平民和战俘饿死。《政委命令》等命令使战争法失效。德国国防军直接参与其中。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "angriff-auf-die-sowjetunion",
+      "schlacht-von-stalingrad",
+      "hitler-stalin-pakt"
+    ]
+  },
+  {
+    "id": "voelkerbundsmandat",
+    "term": "国际联盟托管地",
+    "definition": "第一次世界大战后从德国或奥斯曼帝国的属地中划出的领土，由某个战胜国代表国际联盟进行管理，名义上直到其能够独立为止。英国获得巴勒斯坦、伊拉克和外约旦，法国获得叙利亚和黎巴嫩；德国的殖民地则归英国、法国、比利时、日本等国。实际上，托管地与殖民地几乎没有区别。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "balfour-erklaerung",
+      "gruendung-voelkerbund",
+      "gruendung-tuerkische-republik"
+    ]
+  },
+  {
+    "id": "voelkerwanderung",
+    "term": "民族大迁徙",
+    "definition": "从约375年匈人入侵到约568年的时期，哥特人、汪达尔人、法兰克人和伦巴第人等日耳曼民族涌入罗马帝国，并在那里建立自己的王国。它导致476年西罗马帝国灭亡，并促成了欧洲中世纪国家的形成；其原因是寻找土地、人口压力以及匈人的压迫。",
+    "epochId": "rom",
+    "related": [
+      "pluenderung-roms-410",
+      "attila-und-die-hunnen",
+      "ende-westroms"
+    ]
+  },
+  {
+    "id": "volkssouveraenitaet",
+    "term": "人民主权",
+    "definition": "一切国家权力来自人民、统治者仅作为人民的代理人行使权力的原则。它由卢梭阐述，于1776年写入美国《独立宣言》，1789年写入《人权和公民权宣言》，取代了君权神授。人民主权至今仍是民主宪法的基础。",
+    "epochId": "revolutionen",
+    "related": [
+      "amerikanische-unabhaengigkeitserklaerung",
+      "erklaerung-der-menschen-und-buergerrechte",
+      "verfassung-der-usa"
+    ]
+  },
+  {
+    "id": "vormaerz",
+    "term": "三月革命前时期",
+    "definition": "德国在1815年维也纳会议与1848年三月革命之间的时期，其间自由主义和民族运动尽管受到审查和迫害仍不断壮大。大学生社团、哈姆巴赫节、海涅和毕希纳等作家以及西里西亚织工起义等事件标志着这些年份。这一名称是从1848年革命回望此前的时代。",
+    "epochId": "revolutionen",
+    "related": [
+      "hambacher-fest",
+      "maerzrevolution-1848",
+      "wiener-kongress"
+    ]
+  },
+  {
+    "id": "weimarer-republik",
+    "term": "魏玛共和国",
+    "definition": "1918年至1933年德国国家的名称，得名于魏玛市，国民议会于1919年在那里通过了宪法。第一个德国民主制度从一开始就处于《凡尔赛条约》、通货膨胀、政变企图和政治暴力的压力之下。在“黄金二十年代”的短暂稳定之后，它在大萧条中瓦解，随着希特勒被任命为帝国总理而终结。",
+    "epochId": "erster-weltkrieg-zwischenkriegszeit",
+    "related": [
+      "weimarer-verfassung",
+      "friedrich-ebert",
+      "gustav-stresemann",
+      "krisenjahr-1923"
+    ]
+  },
+  {
+    "id": "wettlauf-um-afrika",
+    "term": "瓜分非洲",
+    "definition": "约1880年至1914年间，欧洲殖民列强迅速瓜分了几乎整个非洲大陆。1884/85年的柏林会议确定了游戏规则，没有任何非洲人参加。边界是在图板上划定的，许多至今仍然存在。",
+    "epochId": "industrialisierung-imperialismus",
+    "related": [
+      "berliner-konferenz-afrika",
+      "kongo-freistaat",
+      "voelkermord-herero-nama"
+    ]
+  },
+  {
+    "id": "widerstand",
+    "term": "抵抗运动",
+    "definition": "对纳粹政权一切形式反对行为的统称，从拒绝行希特勒礼、散发传单、藏匿受迫害者，到暗杀企图和政变计划。参与者有共产党人和社会民主党人、基督徒、大学生、军官以及格奥尔格·埃尔泽这样的单独行动者，但始终只是少数。在被占领国家，游击队和法国抵抗运动等地下组织与德国的统治作战。",
+    "epochId": "zweiter-weltkrieg",
+    "related": [
+      "attentat-vom-20-juli-1944",
+      "sophie-scholl",
+      "claus-von-stauffenberg",
+      "aufstand-im-warschauer-ghetto"
+    ]
+  },
+  {
+    "id": "zikkurat",
+    "term": "金字形神塔",
+    "definition": "美索不达米亚的阶梯形泥砖神庙塔，塔顶设有城市守护神的圣所。约公元前2100年的乌尔金字形神塔保存最好；《圣经》中的巴别塔可追溯到巴比伦的金字形神塔。",
+    "epochId": "fruehe-hochkulturen",
+    "related": [
+      "stadtstaaten-sumers-und-ur-standarte",
+      "sumerische-keilschrift"
+    ]
+  },
+  {
+    "id": "transsaharahandel",
+    "term": "跨撒哈拉贸易",
+    "definition": "北非与西非之间由骆驼商队穿越撒哈拉的长途贸易。从南方运来的主要是黄金、象牙和奴隶，从北方运来的则是盐、马匹、布料和书籍；伊斯兰教也随商人一起传播。这种贸易是加纳、马里和桑海诸帝国的基础。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "al-bakri-beschreibt-ghana",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "griot",
+    "term": "格里奥",
+    "definition": "西非世袭的歌手、说书人和乐师，以口头方式传承家谱、赞歌和统治家族的历史。格里奥在宫廷中担任顾问，至今仍保存着松迪亚塔史诗等史诗。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "sundiata-keita",
+      "sundiata-schlacht-von-kirina"
+    ]
+  },
+  {
+    "id": "mansa",
+    "term": "曼萨",
+    "definition": "马里帝国统治者在马林凯语中的称号，大致可译为国王或皇帝。曼萨位于由各省和纳贡诸侯组成的联盟之首；这一称号最著名的持有者是曼萨·穆萨。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "mansa-musa",
+      "sundiata-keita"
+    ]
+  },
+  {
+    "id": "swahili",
+    "term": "斯瓦希里",
+    "definition": "东非海岸索马里与莫桑比克之间商业城市的班图语言和文化。它在与阿拉伯、波斯和印度商人的交往中，从非洲本土根基发展而来，深受伊斯兰教影响，吸收了许多阿拉伯语借词。斯瓦希里语如今是非洲使用最广泛的语言之一。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "bluete-von-kilwa",
+      "sansibar-wird-sultanssitz",
+      "grosssimbabwe"
+    ]
+  },
+  {
+    "id": "oba",
+    "term": "奥巴",
+    "definition": "贝宁王国和若干约鲁巴国家国王的称号。贝宁的奥巴被视为神圣的统治者，对土地和人民拥有权威，其祖先以黄铜纪念头像和浮雕板得到尊崇。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "oba-ewuare-erneuert-benin",
+      "koepfe-von-ife"
+    ]
+  },
+  {
+    "id": "geez",
+    "term": "吉兹语",
+    "definition": "埃塞俄比亚古老的闪米特语言和文字，自阿克苏姆时代起就有文献可考。吉兹语在中世纪不再作为口语使用，但直到今天仍是埃塞俄比亚东正教的礼拜语言；阿姆哈拉语和提格里尼亚语的字母由其文字发展而来。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "ezana-christianisierung-aksum",
+      "yekuno-amlak-salomonische-dynastie"
+    ]
+  },
+  {
+    "id": "goldener-stuhl",
+    "term": "金凳",
+    "definition": "阿散蒂帝国的神圣象征，据传统说法在奥塞·图图时期从天而降，体现着人民的灵魂。任何人都不得坐在上面；阿散蒂赫内的登基仪式在它之上举行。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "osei-tutu",
+      "osei-tutu-gruendet-asante"
+    ]
+  },
+  {
+    "id": "mfecane",
+    "term": "姆菲卡尼",
+    "definition": "指约1815年至1840年间南部非洲的战争、逃亡和建国，在恩古尼语中这个词的意思大致是“压碎”。其原因和范围在历史学家中存在争议。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "mfecane-im-suedlichen-afrika",
+      "shaka",
+      "shaka-gruendet-zulu-reich"
+    ]
+  },
+  {
+    "id": "mesoamerika",
+    "term": "中美洲",
+    "definition": "包括墨西哥南部和中部、危地马拉、伯利兹以及洪都拉斯和萨尔瓦多部分地区的文化区域。尽管语言各异，其民族共享玉米种植、金字塔神庙、球赛、260天的仪式历法和许多神祇。其中包括奥尔梅克人、萨波特克人、玛雅人、特奥蒂瓦坎、托尔特克人和阿兹特克人。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "olmeken-in-mesoamerika",
+      "teotihuacan-metropole",
+      "aztekischer-dreibund",
+      "amerika-vorkolumbisch"
+    ]
+  },
+  {
+    "id": "lange-zaehlung",
+    "term": "长纪历",
+    "definition": "一种中美洲的计时系统，从公元前3114年的一个神话起点开始计算天数。它使用1、20、360、7200和144000天的单位，使数百年间精确到日的纪年成为可能。玛雅人约从3世纪到10世纪初在石碑上使用它。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "stele-2-von-chiapa-de-corzo",
+      "stele-29-von-tikal",
+      "kollaps-der-klassischen-maya"
+    ]
+  },
+  {
+    "id": "mesoamerikanisches-ballspiel",
+    "term": "中美洲球赛",
+    "definition": "一种使用沉重橡胶球的团体游戏，通常只能用臀部、髋部和大腿击球。三千多年来，它在整个中美洲的两侧有墙的长形球场上进行。这种游戏既是体育运动，也是宗教仪式，有时是以献祭告终的政治典礼的一部分。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "aufstieg-von-chichen-itza",
+      "gruendung-von-monte-alban",
+      "olmeken-in-mesoamerika"
+    ]
+  },
+  {
+    "id": "chinampa",
+    "term": "奇南帕",
+    "definition": "在浅湖和沼泽中人工筑起的长方形园圃，周围环绕着水渠。淤泥和植物残余保持土壤肥沃，因而一年可多次收获。墨西哥谷的奇南帕养活了大城特诺奇蒂特兰，今天在霍奇米尔科仍有人耕种。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "gruendung-tenochtitlans",
+      "aztekischer-dreibund",
+      "nezahualcoyotl"
+    ]
+  },
+  {
+    "id": "quipu",
+    "term": "奇普",
+    "definition": "安第斯山区用棉或羊毛绳打结以记录信息的工具。许多下垂的细绳挂在一根主绳上，其绳结以十进制表示居民数、赋税和库存等数字。称为“奇普卡马约”的专职人员读取和制作奇普；它们是否也记录语言，至今尚无定论。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "pachacutec-und-das-inka-reich",
+      "wari-reich",
+      "qhapaq-nan-strassennetz-der-inka"
+    ]
+  },
+  {
+    "id": "ayllu",
+    "term": "艾柳",
+    "definition": "安第斯山区的亲属和村社共同体，其成员追溯到共同的祖先。艾柳共同持有土地，分配给各家庭，并组织农活和盖房时的互助。在印加帝国，它是征派赋役和劳役的基本单位；在安第斯的许多村庄中，它至今仍然存在。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "pachacutec-und-das-inka-reich",
+      "qhapaq-nan-strassennetz-der-inka",
+      "bau-von-machu-picchu"
+    ]
+  },
+  {
+    "id": "tlatoani",
+    "term": "特拉托阿尼",
+    "definition": "墨西哥中部各城邦统治者的称号；这个纳瓦特尔语词的意思是“发言者”。特诺奇蒂特兰的特拉托阿尼由议事会从统治家族的男子中选出，是最高统帅、法官和与诸神沟通的中介。作为“胡埃·特拉托阿尼”，即大发言者，他位居三国同盟之首。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "itzcoatl",
+      "moctezuma-i",
+      "ahuitzotl",
+      "aztekischer-dreibund"
+    ]
+  },
+  {
+    "id": "erdhuegelkulturen",
+    "term": "土丘文化（筑丘人）",
+    "definition": "北美洲土著文化的统称，他们数千年来为墓葬、神庙和仪式堆筑土丘和土堤。其中包括贫困角、阿迪纳和霍普韦尔文化，以及有卡霍基亚的密西西比文化。19世纪，白人美国人常常错误地把这些建筑归于一个消失的外来民族，而没有归功于土著民族的祖先。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "erdwerke-von-poverty-point",
+      "hopewell-kultur",
+      "cahokia-mississippi-kultur"
+    ]
+  },
+  {
+    "id": "pax-mongolica",
+    "term": "蒙古和平",
+    "definition": "指13、14世纪蒙古帝国统治欧亚大陆大部分地区、旅行者和商人可以相对安全地从中国前往东欧的时期。驿站、统一的统治和通行证促进了货物、知识和宗教的交流，也促进了鼠疫的传播。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "dschingis-khan",
+      "kublai-khan",
+      "marco-polos-reise-nach-china",
+      "kublai-khan-gruendet-die-yuan-dynastie"
+    ]
+  },
+  {
+    "id": "goldene-horde",
+    "term": "金帐汗国",
+    "definition": "位于黑海和里海以北草原上的蒙古继承国，由拔都在约1242年蒙古入侵之后建立，都城为伏尔加河畔的萨莱。俄罗斯诸侯必须向其纳贡，并由大汗确认其统治权；这种依附关系到1480年结束。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "mongolensturm-in-osteuropa",
+      "dschingis-khan"
+    ]
+  },
+  {
+    "id": "shogunat",
+    "term": "幕府",
+    "definition": "日本以征夷大将军为首的军事政权，将军由天皇任命为最高统帅。从1192年到1868年，镰仓幕府、室町幕府和江户幕府先后执政，而京都的天皇主要履行宗教和礼仪职责。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "minamoto-no-yoritomo-wird-shogun",
+      "schlacht-von-sekigahara",
+      "tokugawa-ieyasu"
+    ]
+  },
+  {
+    "id": "samurai",
+    "term": "武士",
+    "definition": "日本武士阶层的成员，最初作为武装家臣侍奉领主。在江户时代，他们构成四个身份等级中最高的一级，是唯一可以佩刀的人，在和平时期常常担任官吏；其特权于1876年被废除。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "oda-nobunaga",
+      "toyotomi-hideyoshi",
+      "schlacht-von-sekigahara"
+    ]
+  },
+  {
+    "id": "hangeul",
+    "term": "谚文",
+    "definition": "朝鲜文字母，由世宗大王于1443年创制，1446年颁布。其字母表示单个音素，并组合成音节块，因此比汉字容易学得多。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "koenig-sejong-verkuendet-hangeul",
+      "sejong-der-grosse"
+    ]
+  },
+  {
+    "id": "tributsystem",
+    "term": "朝贡体系",
+    "definition": "中国与邻国之间的关系框架，外国统治者派遣使节携礼物前往朝廷，从而在形式上承认皇帝为宗主。作为回报，他们获得贵重的赏赐、贸易权利和保护；朝鲜、越南和满剌加等国基本保持独立。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "fahrten-des-zheng-he",
+      "aufstieg-des-sultanats-malakka",
+      "macartney-gesandtschaft"
+    ]
+  },
+  {
+    "id": "acht-banner",
+    "term": "八旗",
+    "definition": "满族的军事和社会组织，所有家庭被编入以旗帜颜色命名的八个单位。八旗军于1644年征服中国，此后作为大城市中享有特权的驻防部队，成为清朝统治的支柱。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "mandschu-erobern-peking",
+      "kangxi"
+    ]
+  },
+  {
+    "id": "mansab-system",
+    "term": "曼萨布制度",
+    "definition": "阿克巴在莫卧儿帝国推行的官员品级制度。每位曼萨布达尔获得一个品级，决定其薪俸以及须为统治者提供的骑兵数量；品级不得世袭，并把穆斯林和印度教的拉其普特人都与宫廷联系在一起。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "akbar",
+      "akbar-mogulreich",
+      "herrschaft-aurangzebs"
+    ]
+  },
+  {
+    "id": "europaeische-union",
+    "term": "欧洲联盟",
+    "definition": "欧洲国家的联盟，1993年随《马斯特里赫特条约》由欧洲共同体发展而来。其成员共享单一市场，以及议会、委员会和法院等共同机构，大部分还使用欧元。经过数次扩大和英国退出之后，欧盟现有27个成员国。",
+    "epochId": "gegenwart",
+    "related": [
+      "vertrag-von-maastricht",
+      "eu-osterweiterung-2004",
+      "brexit",
+      "einfuehrung-euro-bargeld"
+    ]
+  },
+  {
+    "id": "digitalisierung",
+    "term": "数字化",
+    "definition": "将信息转化为数字数据，并在生活各领域越来越多地使用计算机、互联网和联网设备。自1990年代以来，它从根本上改变了工作、贸易、通信、教育和政治。其弊端包括监控、数据滥用以及对少数大公司的依赖。",
+    "epochId": "gegenwart",
+    "related": [
+      "world-wide-web-1991",
+      "vorstellung-des-iphone",
+      "tim-berners-lee",
+      "steve-jobs"
+    ]
+  },
+  {
+    "id": "soziale-medien",
+    "term": "社交媒体",
+    "definition": "用户自己发布、分享和评论文字、图片和视频的互联网平台。它们把数十亿人联系在一起，使快速动员成为可能，例如在阿拉伯之春或“我也是”（MeToo）运动中。与此同时，仇恨言论和虚假信息也通过它们传播，其算法被认为应对社会的两极分化负部分责任。",
+    "epochId": "gegenwart",
+    "related": [
+      "arabischer-fruehling",
+      "metoo-bewegung",
+      "greta-thunberg"
+    ]
+  },
+  {
+    "id": "kuenstliche-intelligenz",
+    "term": "人工智能",
+    "definition": "能够解决以往需要人类思维才能完成的任务的计算机系统，例如理解语言、识别图像或准备决策。现代方法从大量数据中学习，而不是遵循固定编写的规则。自2022年以来，ChatGPT等生成式程序已经普及，并引发了关于工作、版权和管控的讨论。",
+    "epochId": "gegenwart",
+    "related": [
+      "chatgpt-und-generative-ki",
+      "alan-turing"
+    ]
+  },
+  {
+    "id": "klimawandel",
+    "term": "气候变化",
+    "definition": "由人类活动引起的地球变暖，主要源于燃烧煤、石油和天然气所释放的二氧化碳和其他温室气体。其后果是海平面上升，热浪、干旱和强降雨增多。通过2015年的《巴黎协定》，各国旨在把升温控制在远低于两度的水平。",
+    "epochId": "gegenwart",
+    "related": [
+      "pariser-klimaabkommen",
+      "greta-thunberg",
+      "wangari-maathai"
+    ]
+  },
+  {
+    "id": "islamismus",
+    "term": "伊斯兰主义",
+    "definition": "力图依据自己对伊斯兰教和沙里亚的解释来规范国家和社会的政治运动。它们既包括参加选举的政党，也包括基地组织或所谓“伊斯兰国”这样的恐怖组织。该术语指的是一种政治意识形态，而不是伊斯兰教这一宗教，绝大多数穆斯林都反对暴力。",
+    "epochId": "gegenwart",
+    "related": [
+      "anschlaege-11-september",
+      "osama-bin-laden",
+      "krieg-in-afghanistan",
+      "iranische-revolution-1979"
+    ]
+  },
+  {
+    "id": "populismus",
+    "term": "民粹主义",
+    "definition": "一种政治风格，把一个所谓统一的“真正的人民”与腐败的精英对立起来，并声称只有自己代表人民的意志。民粹主义者既有右翼，也有左翼；如今他们常常反对移民、全球化和国际机构。批评者认为它危及少数群体的权利、权力分立和独立媒体。",
+    "epochId": "gegenwart",
+    "related": [
+      "brexit",
+      "fluchtbewegung-nach-europa-2015",
+      "wladimir-putin"
+    ]
+  },
+  {
+    "id": "pandemie",
+    "term": "大流行病",
+    "definition": "跨越国家和大陆传播、影响极多人口的传染病。著名的例子有14世纪的黑死病、1918至1920年的西班牙流感以及2020年起的新冠肺炎大流行。全球旅行会加速其传播，而疫苗和卫生措施则能遏制它。",
+    "epochId": "gegenwart",
+    "related": [
+      "covid-19-pandemie",
+      "ebola-epidemie-westafrika",
+      "spanische-grippe",
+      "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "encomienda",
+    "term": "监护征赋制",
+    "definition": "西班牙殖民制度，王室将一群土著居民“托付”给某个西班牙人，他们须向其缴纳贡赋并提供劳役。作为回报，监护人应保护他们，并让他们接受基督教信仰的教导。实际上，监护征赋制导致了严重的剥削，在1542年《新法》之后逐渐被废止。",
+    "epochId": "lateinamerika",
+    "related": [
+      "gesetze-von-burgos",
+      "neue-gesetze-1542",
+      "bartolome-de-las-casas"
+    ]
+  },
+  {
+    "id": "mita",
+    "term": "米塔制",
+    "definition": "原为印加帝国的劳役，被西班牙人变成强制劳动制度。土著村庄必须轮流派出一定比例的男子前往波托西等矿山或从事其他劳动。米塔制是殖民时代最令人痛恨的负担之一，直到独立过程中才被废除。",
+    "epochId": "lateinamerika",
+    "related": [
+      "silberberg-von-potosi",
+      "aufstand-tupac-amaru-ii"
+    ]
+  },
+  {
+    "id": "vizekoenigreich",
+    "term": "总督辖区",
+    "definition": "西班牙殖民帝国最大的行政单位，由作为国王私人代表的总督领导。最先设立的是新西班牙（1535年）和秘鲁（1542年），18世纪又增设了新格拉纳达和拉普拉塔河。后来葡萄牙也为巴西任命总督。",
+    "epochId": "lateinamerika",
+    "related": [
+      "vizekoenigreich-neuspanien",
+      "mairevolution-buenos-aires"
+    ]
+  },
+  {
+    "id": "kreolen",
+    "term": "克里奥尔人",
+    "definition": "西属美洲指在殖民地出生的欧洲人后裔。他们往往拥有土地、矿山和商行，但高级官职却被出生于西班牙的人占据。西蒙·玻利瓦尔和何塞·德·圣马丁等克里奥尔人领导了独立运动。",
+    "epochId": "lateinamerika",
+    "related": [
+      "simon-bolivar",
+      "jose-de-san-martin",
+      "mairevolution-buenos-aires"
+    ]
+  },
+  {
+    "id": "mestizen",
+    "term": "梅斯蒂索人",
+    "definition": "殖民时期拉丁美洲指具有欧洲和土著血统的人。殖民当局按这类出身范畴对人口分类，这决定着权利、税收和地位。在19和20世纪，墨西哥等国把混血宣布为民族认同的一部分。",
+    "epochId": "lateinamerika",
+    "related": [
+      "malinche",
+      "aufstand-tupac-amaru-ii"
+    ]
+  },
+  {
+    "id": "quilombo",
+    "term": "基伦博",
+    "definition": "巴西指逃亡奴隶的聚居地，常位于难以到达的森林或山区。基伦博从小营地到帕尔马雷斯这样拥有自己的农业和防御的大型社区不等。西属美洲类似的社区称为“帕伦克”。",
+    "epochId": "lateinamerika",
+    "related": [
+      "quilombo-dos-palmares",
+      "zumbi-dos-palmares"
+    ]
+  },
+  {
+    "id": "jesuitenreduktion",
+    "term": "耶稣会传教区",
+    "definition": "由耶稣会士管理的传教村庄，土著居民，尤其是瓜拉尼人被安置于此，接受基督教化并免受奴隶掠夺者和殖民者的侵害。传教区设有教堂、作坊和公共田地，部分实行自治。1767年耶稣会士被驱逐后，它们衰落了。",
+    "epochId": "lateinamerika",
+    "related": [
+      "jesuitenreduktionen-in-paraguay",
+      "vertreibung-der-jesuiten-1767"
+    ]
+  },
+  {
+    "id": "caudillo",
+    "term": "考迪罗",
+    "definition": "指依靠私人追随者（常常是武装骑手和依附的农村劳动者）的政治和军事领袖。独立之后，考迪罗塑造着许多拉丁美洲国家的政治，并常常无视宪法。直到今天，这个词仍代表为某一个人量身打造的威权统治。",
+    "epochId": "lateinamerika",
+    "related": [
+      "paraguay-krieg",
+      "beginn-der-mexikanischen-revolution"
+    ]
+  },
+  {
+    "id": "janitscharen",
+    "term": "近卫军团",
+    "definition": "奥斯曼苏丹的精锐步兵，其名称意为“新军”。他们产生于14世纪，通过德米舍梅（征召男童）招募，定期领取薪饷，很早就配备火器，因而成为欧洲第一支常备步兵。后来近卫军团变成了一个强大的、敌视改革的集团，直到马哈茂德二世于1826年将其解散。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "aufloesung-der-janitscharen",
+      "mahmud-ii",
+      "nizam-i-cedid",
+      "schlacht-bei-mohacs"
+    ]
+  },
+  {
+    "id": "devsirme",
+    "term": "德米舍梅（征召男童）",
+    "definition": "为苏丹效力而定期征召基督徒男童，主要来自巴尔干的村庄。这些男童被改宗伊斯兰教，培养成近卫军或在宫中接受训练；有些人升任大维齐尔，建筑师希南也是以这种方式进入国家服务的。17世纪，这一征召失去重要性并被放弃。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "mimar-sinan",
+      "bau-der-sueleymaniye-moschee",
+      "osmanisches-reich"
+    ]
+  },
+  {
+    "id": "millet",
+    "term": "米勒特",
+    "definition": "奥斯曼帝国对希腊东正教徒、亚美尼亚人和犹太人等得到承认的宗教社群的称呼。在其宗教首领领导下，他们在很大程度上自行管理婚姻、继承、教育和福利，并对苏丹负责赋税和秩序。米勒特秩序主要在19世纪被塑造成固定的制度。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "fall-konstantinopels",
+      "mehmed-ii",
+      "tanzimat-edikt-von-guelhane"
+    ]
+  },
+  {
+    "id": "grosswesir",
+    "term": "大维齐尔",
+    "definition": "奥斯曼帝国的最高大臣和苏丹的代理人，掌管苏丹的印玺。他主持御前会议和行政事务，并常常在战场上统率军队。他的官邸“崇高之门”成了欧洲人对整个奥斯曼政府的称呼。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "belagerung-wiens-1683",
+      "tulpenzeit",
+      "midhat-pascha"
+    ]
+  },
+  {
+    "id": "timar",
+    "term": "蒂马尔",
+    "definition": "一种封赏，骑兵（西帕希）获得若干村庄的税收，作为回报须携带装备和随从出征。土地仍属国家所有，不得世袭。自16世纪晚期起，蒂马尔制失去重要性，日益被包税制取代。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "osmanen-fassen-fuss-in-europa",
+      "schlacht-auf-dem-amselfeld",
+      "tanzimat-edikt-von-guelhane"
+    ]
+  },
+  {
+    "id": "harem",
+    "term": "后宫",
+    "definition": "穆斯林家庭受保护的私人区域，尤指托普卡帕宫中苏丹家族的居住区。苏丹之母、他的妻妾、子女和女仆住在那里，女性也在那里接受教育。与欧洲人的幻想相反，后宫是一个政治权力中心，其中苏丹之母“瓦利德苏丹”施加着巨大的影响。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "bau-des-topkapi-palastes",
+      "huerrem-sultan",
+      "koesem-sultan",
+      "koesem-sultan-regentschaft"
+    ]
+  },
+  {
+    "id": "kapitulationen",
+    "term": "特许条款",
+    "definition": "苏丹授予欧洲国家的贸易特权，例如1569年授予法国、1580年授予英国。它们允许外国商人享有低关税、宗教自由和本国领事的司法管辖。19世纪，它们成了欧洲施加影响的工具；奥斯曼帝国于1914年单方面废除了它们。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "sueleyman-der-praechtige",
+      "osmanischer-staatsbankrott",
+      "krimkrieg"
+    ]
+  },
+  {
+    "id": "jungtuerken",
+    "term": "青年土耳其党人",
+    "definition": "由军官、官员和知识分子组成的运动，自1890年代起反对阿卜杜勒哈米德二世的专制统治，争取宪法。其最重要的组织统一与进步委员会于1908年迫使恢复宪法，并自1913年起主导国家。其政府把帝国带入第一次世界大战，并对亚美尼亚种族灭绝负有责任。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "jungtuerkische-revolution",
+      "balkankriege",
+      "voelkermord-an-den-armeniern"
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+Zielsprache: SPANISCH (neutral, für Spanien und Lateinamerika). Namen in spanischer Form (Carlomagno, Londres, la guerra de los Cien Años). „BC“ → „a. C.“, „AD“ → „d. C.“, „c.“ → „c.“/„hacia“. Zahlen: 12 000.

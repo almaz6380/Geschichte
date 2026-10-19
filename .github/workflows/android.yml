@@ -20,7 +20,11 @@ on:
       notes:
         description: 'Was-ist-neu-Text (de-DE, max. 500 Zeichen)'
         type: string
-        default: 'Großes Update: Duelle gegen Freunde, Tägliche Challenge, neue Spielmodi, sechs neue Epochen und über 1.000 Quizfragen. Die App startet jetzt in der Sprache deines Geräts.'
+        default: 'Weltgeschichte gibt es jetzt in neun Sprachen: dazu Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch und Chinesisch. Neu im Quiz: der 50:50-Joker. Die App bleibt kostenlos und wird durch Werbung finanziert; personalisierte Werbung nur mit deiner Zustimmung, änderbar unter „Mehr“.'
+      texte:
+        description: 'Store-Texte (Kurzbeschreibung, Beschreibung) aus store/store-texte.json setzen'
+        type: boolean
+        default: true
       version_code:
         description: 'versionCode (leer = Laufnummer). Nur setzen, wenn Play eine höhere Zahl verlangt.'
         type: string
@@ -108,6 +112,7 @@ jobs:
           TRACK: ${{ inputs.track }}
           ROLLOUT: ${{ inputs.rollout }}
           NOTES: ${{ inputs.notes }}
+          TEXTE: ${{ inputs.texte }}
         run: |
           if [ -z "$PLAY_KEY_JSON" ]; then
             echo "::warning::Secret PLAY_SERVICE_ACCOUNT_JSON fehlt in diesem Repo – nichts hochgeladen, das AAB liegt als Artefakt bereit."
@@ -124,8 +129,12 @@ jobs:
           "$PY" scripts/play-upload.py --status --track "$TRACK" || true
           if [ "$ROLLOUT" = "complete" ]; then ARG="--complete"; else ARG="--fraction $ROLLOUT"; fi
           "$PY" scripts/play-upload.py --aab android/app/build/outputs/bundle/release/app-release.aab \
-            --track "$TRACK" $ARG --notes "${NOTES:0:500}"
+            --track "$TRACK" $ARG --notes "${NOTES:0:500}" --notes-file "store/whatsnew-$(node -p "require('./package.json').version").json"
           echo "## Google Play: hochgeladen ($TRACK, $ROLLOUT)" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$TEXTE" = "true" ]; then
+            "$PY" scripts/play-upload.py --texte store/store-texte.json
+            echo "Store-Texte aus store/store-texte.json gesetzt." >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Hinweis
         if: ${{ steps.keystore.outputs.path == '' }}

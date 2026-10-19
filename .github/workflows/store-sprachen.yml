@@ -1,0 +1,68 @@
+name: Store-Sprachen
+
+# Store-Einträge in allen Sprachen aus store/store-texte.json, Screenshots aus
+# docs/screenshots/<sprache>/, Standardsprache Englisch, alle Länder (Apple).
+# schreiben=false ist ein reiner Probelauf. Apple nur, solange keine Prüfung läuft.
+on:
+  workflow_dispatch:
+    inputs:
+      ziel:
+        description: 'Welcher Store'
+        type: choice
+        default: 'beide'
+        options: ['beide', 'apple', 'play', 'status']
+      schreiben:
+        description: 'Wirklich ändern? (aus = Probelauf)'
+        type: boolean
+        default: false
+      ersetzen:
+        description: 'Apple: vorhandene Screenshots ersetzen'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  sprachen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Abhängigkeiten
+        run: |
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install --quiet pyjwt cryptography
+      - name: Apple
+        if: ${{ inputs.ziel != 'play' }}
+        env:
+          ASC_KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+          ASC_ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+          ASC_KEY_P8: ${{ secrets.APPSTORE_PRIVATE_KEY }}
+          ZIEL: ${{ inputs.ziel }}
+          SCHREIBEN: ${{ inputs.schreiben }}
+          ERSETZEN: ${{ inputs.ersetzen }}
+        run: |
+          set -euo pipefail
+          PY="$RUNNER_TEMP/venv/bin/python"
+          if [ "$ZIEL" = "status" ]; then "$PY" scripts/asc-store.py --status; exit 0; fi
+          ARGS=(--sprachen --screenshots --standardsprache en-US --alle-laender)
+          [ "$ERSETZEN" = "true" ] && ARGS+=(--ersetzen)
+          [ "$SCHREIBEN" = "true" ] && ARGS+=(--schreiben)
+          "$PY" scripts/asc-store.py "${ARGS[@]}"
+          "$PY" scripts/asc-store.py --status
+      - name: Google Play
+        if: ${{ inputs.ziel == 'beide' || inputs.ziel == 'play' }}
+        env:
+          PLAY_KEY_JSON: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+          PLAY_PACKAGE: de.almaz.weltgeschichte
+          SCHREIBEN: ${{ inputs.schreiben }}
+        run: |
+          set -euo pipefail
+          printf '%s' "$PLAY_KEY_JSON" > "$RUNNER_TEMP/play-key.json"
+          export PLAY_KEY="$RUNNER_TEMP/play-key.json"
+          ARGS=(--store-sprachen store/store-texte.json --standardsprache en-US)
+          [ "$SCHREIBEN" = "true" ] || ARGS+=(--dry-run)
+          "$RUNNER_TEMP/venv/bin/python" scripts/play-upload.py "${ARGS[@]}"
+      - name: Aufräumen
+        if: always()
+        run: rm -f "$RUNNER_TEMP/play-key.json"

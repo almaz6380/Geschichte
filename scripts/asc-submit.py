@@ -127,6 +127,7 @@ def main():
     ap.add_argument('--version', help='z. B. 1.1.0')
     ap.add_argument('--build', help='Build-Nummer; leer = neuester VALID-Build dieser Version')
     ap.add_argument('--notes-file', help='JSON: {"de-DE": "…", "en-US": "…"}')
+    ap.add_argument('--texte-file', help='JSON wie store/store-texte.json: Beschreibung und Werbetext je Sprache setzen')
     ap.add_argument('--submit', action='store_true', help='wirklich schreiben und einreichen')
     ap.add_argument('--zurueckziehen', action='store_true', help='laufende Einreichung zurückziehen (mit --submit echt)')
     args = ap.parse_args()
@@ -141,6 +142,10 @@ def main():
         sys.exit('--version und --notes-file sind nötig (oder --status).')
     with open(args.notes_file, encoding='utf-8') as fh:
         notes = json.load(fh)
+    texte = {}
+    if args.texte_file:
+        with open(args.texte_file, encoding='utf-8') as fh:
+            texte = {k: v for k, v in json.load(fh).items() if not k.startswith('_')}
     write = args.submit
     tag = '' if write else '  [Probelauf, nichts geschrieben]'
 
@@ -205,15 +210,24 @@ def main():
     # --- „Was ist neu" (bei der allerersten Version verbietet Apple das Feld) ---
     locs = call(tok, 'GET', f'/v1/appStoreVersions/{vid}/appStoreVersionLocalizations?limit=50')['data']
     print(f'Sprachen an der Version: {[l["attributes"]["locale"] for l in locs]}')
-    if not erste:
-        for loc in locs:
-            code = loc['attributes']['locale']
-            text = notes.get(code) or notes.get(code.split('-')[0]) or notes.get('en-US') or notes['de-DE']
-            print(f'  whatsNew {code}: {text[:60]}…{tag}')
-            if write:
-                call(tok, 'PATCH', f'/v1/appStoreVersionLocalizations/{loc["id"]}', {
-                    'data': {'type': 'appStoreVersionLocalizations', 'id': loc['id'],
-                             'attributes': {'whatsNew': text}}})
+    for loc in locs:
+        code = loc['attributes']['locale']
+        attrs = {}
+        if not erste:
+            # Apple-Codes (it, ja, zh-Hans, es-MX, en-GB) auf die Schlüssel der Datei (it-IT, …) abbilden.
+            pre = code.split('-')[0] + '-'
+            attrs['whatsNew'] = (notes.get(code) or next((v for k, v in notes.items() if k.startswith(pre)), None)
+                                 or notes.get('en-US') or notes['de-DE'])
+        # Beschreibung/Werbetext: en-GB, en-AU … bekommen die englischen Texte.
+        t = texte.get(code) or next((v for k, v in texte.items() if k.startswith(code.split('-')[0] + '-')), None)
+        if t:
+            attrs['description'] = t['description']
+            attrs['promotionalText'] = t['promo']
+        for k, v in attrs.items():
+            print(f'  {k} {code}: {v[:60]!r}…{tag}')
+        if write and attrs:
+            call(tok, 'PATCH', f'/v1/appStoreVersionLocalizations/{loc["id"]}', {
+                'data': {'type': 'appStoreVersionLocalizations', 'id': loc['id'], 'attributes': attrs}})
 
     # --- Build zuweisen ---
     print(f'Build zuweisen …{tag}')
