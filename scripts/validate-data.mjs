@@ -9,7 +9,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SLUG = /^[a-z0-9-]+$/;
 const SECTION_IDS = ['herrschaft', 'gesellschaft', 'kultur', 'wirtschaft'];
 
-export const LANGS = ['de', 'en', 'fr', 'es', 'it', 'pt'];
+export const LANGS = ['de', 'en', 'fr', 'es', 'it', 'pt', 'ru', 'ja', 'zh'];
 export const REF_LANG = 'de';
 
 export function langDir(lang) { return path.join(ROOT, 'data', lang); }

@@ -214,9 +214,12 @@ def main():
         code = loc['attributes']['locale']
         attrs = {}
         if not erste:
-            attrs['whatsNew'] = notes.get(code) or notes.get(code.split('-')[0]) or notes.get('en-US') or notes['de-DE']
+            # Apple-Codes (it, ja, zh-Hans, es-MX, en-GB) auf die Schlüssel der Datei (it-IT, …) abbilden.
+            pre = code.split('-')[0] + '-'
+            attrs['whatsNew'] = (notes.get(code) or next((v for k, v in notes.items() if k.startswith(pre)), None)
+                                 or notes.get('en-US') or notes['de-DE'])
         # Beschreibung/Werbetext: en-GB, en-AU … bekommen die englischen Texte.
-        t = texte.get(code) or (texte.get('en-US') if code.startswith('en') else None)
+        t = texte.get(code) or next((v for k, v in texte.items() if k.startswith(code.split('-')[0] + '-')), None)
         if t:
             attrs['description'] = t['description']
             attrs['promotionalText'] = t['promo']

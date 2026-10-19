@@ -1,5 +1,5 @@
 /* Service Worker: Precache aller App-Dateien, cache-first mit Netz-Fallback. */
-const VERSION = 'wg-v11';
+const VERSION = 'wg-v12';
 const PRECACHE = [
   './',
   './index.html',
@@ -57,6 +57,9 @@ const PRECACHE = [
   './js/strings/es.js',
   './js/strings/it.js',
   './js/strings/pt.js',
+  './js/strings/ru.js',
+  './js/strings/ja.js',
+  './js/strings/zh.js',
   // Inhalte aller freigeschalteten Sprachen, damit ein Sprachwechsel auch offline klappt.
   './data/de/regions.json',
   './data/de/epochs.json',

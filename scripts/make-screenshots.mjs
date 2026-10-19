@@ -17,10 +17,13 @@ const PORT = Number(process.env.PORT || 8769);
 const BASE = `http://127.0.0.1:${PORT}/`;
 const LANG = process.env.SHOT_LANG || 'de';
 const OUT = LANG === 'de' ? path.join(ROOT, 'docs', 'screenshots') : path.join(ROOT, 'docs', 'screenshots', LANG);
+// Texte der Vorstellungsgrafik: de/en hier, alle weiteren Sprachen aus store/store-texte.json (Feld feature).
+const STORE = JSON.parse(readFileSync(path.join(ROOT, 'store', 'store-texte.json'), 'utf8'));
 const FEATURE = {
   de: { title: 'Weltgeschichte', line1: 'Epochen · Themen · Zeitleiste · Quiz', line2: 'Von der Steinzeit bis heute. Komplett offline.' },
   en: { title: 'World History', line1: 'Epochs · Themes · Timeline · Quiz', line2: 'From the Stone Age to today. Fully offline.' },
-}[LANG];
+}[LANG] || Object.entries(STORE).find(([k]) => k.startsWith(`${LANG}-`))?.[1]?.feature;
+if (!FEATURE) throw new Error(`Keine Texte für die Vorstellungsgrafik in ${LANG} (store/store-texte.json, Feld feature)`);
 
 function loadPlaywright() {
   const require = createRequire(import.meta.url);
@@ -54,7 +57,7 @@ const browser = await chromium.launch();
 try {
   for (const d of DEVICES) {
     mkdirSync(path.join(OUT, d.dir), { recursive: true });
-    const ctx = await browser.newContext({ viewport: { width: d.width, height: d.height }, deviceScaleFactor: d.scale, isMobile: d.width < 700, hasTouch: true, locale: LANG === 'en' ? 'en-US' : 'de-DE' });
+    const ctx = await browser.newContext({ viewport: { width: d.width, height: d.height }, deviceScaleFactor: d.scale, isMobile: d.width < 700, hasTouch: true, locale: { de: 'de-DE', en: 'en-US', pt: 'pt-BR', zh: 'zh-CN' }[LANG] || `${LANG}-${LANG.toUpperCase()}` });
     const page = await ctx.newPage();
     // Native Optik: kein Installieren-Button
     await page.addInitScript((lang) => {

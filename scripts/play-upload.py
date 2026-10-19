@@ -324,6 +324,70 @@ def setze_texte(tok, datei, dry_run=False):
         print()
 
 
+# Sprachschluessel in store/store-texte.json -> Play-Sprachen und Screenshot-Ordner
+# (docs/screenshots/<ordner>/, Deutsch liegt direkt darin). es-419 = Lateinamerika.
+PLAY_SPRACHEN = {
+    'de-DE': (['de-DE'], ''), 'en-US': (['en-US'], 'en'), 'fr-FR': (['fr-FR'], 'fr'),
+    'es-ES': (['es-ES', 'es-419'], 'es'), 'it-IT': (['it-IT'], 'it'), 'pt-BR': (['pt-BR'], 'pt'),
+    'ru-RU': (['ru-RU'], 'ru'), 'ja-JP': (['ja-JP'], 'ja'), 'zh-CN': (['zh-CN'], 'zh'),
+}
+
+
+def store_sprachen(tok, datei, standard, dry_run=False):
+    """Alle Sprachfassungen des Store-Eintrags in EINER Edit-Transaktion: Texte,
+    Telefon- und Tablet-Screenshots, Vorstellungsgrafik, dazu die Standardsprache.
+
+    Play verlangt fuer die Standardsprache Screenshots im Eintrag (sonst 403
+    „too few screenshots“, Mahjong 10.10.2026) — deshalb alles in einem Commit.
+    """
+    with open(datei, encoding='utf-8') as fh:
+        quelle = {k: v for k, v in json.load(fh).items() if not k.startswith('_')}
+    eid = call(tok, 'POST', f'{API}/applications/{PKG}/edits')['id']
+    vorhanden = {l['language'] for l in call(tok, 'GET', f'{API}/applications/{PKG}/edits/{eid}/listings').get('listings', [])}
+    print(f'Vorhandene Sprachen: {", ".join(sorted(vorhanden))}')
+    for key, t in quelle.items():
+        langs, ordner = PLAY_SPRACHEN[key]
+        wurzel = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'docs', 'screenshots', ordner)
+        for lang in langs:
+            daten = {'language': lang, 'shortDescription': t['short'], 'fullDescription': t['description']}
+            # Den Titel nur fuer neue Sprachen — vorhandene behalten ihren.
+            if lang not in vorhanden:
+                daten['title'] = t['play_title']
+            for feld, grenze in LISTING_LIMITS.items():
+                if feld in daten and len(daten[feld]) > grenze:
+                    sys.exit(f'{lang} {feld}: {len(daten[feld])} Zeichen, erlaubt {grenze}')
+            print(f'[{lang}] {"neu" if lang not in vorhanden else "aktualisieren"}: {daten.get("title", "(Titel bleibt)")}')
+            if dry_run:
+                continue
+            url = f'{API}/applications/{PKG}/edits/{eid}/listings/{lang}'
+            call(tok, 'PUT' if lang not in vorhanden else 'PATCH', url, data=daten)
+            for typ, unter in (('phoneScreenshots', 'android'), ('sevenInchScreenshots', 'android-tablet'), ('tenInchScreenshots', 'android-tablet')):
+                bilder = sorted(glob.glob(os.path.join(wurzel, unter, '[0-9]*.png')))
+                if not bilder:
+                    sys.exit(f'Keine Bilder in {os.path.join(wurzel, unter)}')
+                base = f'applications/{PKG}/edits/{eid}/listings/{lang}/{typ}'
+                call(tok, 'DELETE', f'{API}/{base}')
+                for b in bilder:
+                    with open(b, 'rb') as fh:
+                        call(tok, 'POST', f'{UPLOAD}/{base}?uploadType=media', data=fh.read(), ctype='image/png')
+            grafik = os.path.join(wurzel, 'feature-graphic.png')
+            base = f'applications/{PKG}/edits/{eid}/listings/{lang}/featureGraphic'
+            call(tok, 'DELETE', f'{API}/{base}')
+            with open(grafik, 'rb') as fh:
+                call(tok, 'POST', f'{UPLOAD}/{base}?uploadType=media', data=fh.read(), ctype='image/png')
+            print('   Texte, Screenshots, Vorstellungsgrafik')
+    if standard:
+        details = call(tok, 'GET', f'{API}/applications/{PKG}/edits/{eid}/details')
+        print(f'Standardsprache: {details.get("defaultLanguage")} -> {standard}')
+        if not dry_run and details.get('defaultLanguage') != standard:
+            call(tok, 'PATCH', f'{API}/applications/{PKG}/edits/{eid}/details', data={'defaultLanguage': standard})
+    if dry_run:
+        call(tok, 'DELETE', f'{API}/applications/{PKG}/edits/{eid}')
+        print('\n--dry-run: Edit verworfen, nichts geaendert.')
+        return
+    commit_edit(tok, eid)
+
+
 def zeige_status(tok, track='production'):
     eid = call(tok, 'POST', f'{API}/applications/{PKG}/edits')['id']
     tr = call(tok, 'GET', f'{API}/applications/{PKG}/edits/{eid}/tracks/{track}')
@@ -339,6 +403,7 @@ def main():
     p.add_argument('--fraction', type=float, help='Anteil der Nutzer, z. B. 0.2')
     p.add_argument('--complete', action='store_true', help='an alle ausrollen')
     p.add_argument('--notes', default='', help='Was-ist-neu-Text (de-DE)')
+    p.add_argument('--notes-file', help='Was-ist-neu je Sprache (store/whatsnew-<version>.json), ergaenzt --notes')
     p.add_argument('--status', action='store_true', help='nur den Track anzeigen')
     p.add_argument('--screenshots', metavar='VERZEICHNIS',
                    help='Store-Eintrag-Screenshots ersetzen (z. B. store-assets/android)')
@@ -350,6 +415,9 @@ def main():
                    help='App-Symbol im Store-Eintrag ersetzen (512x512)')
     p.add_argument('--feature', metavar='PNG',
                    help='Vorstellungsgrafik ersetzen (1024x500)')
+    p.add_argument('--store-sprachen', metavar='JSON',
+                   help='alle Sprachen (Texte, Screenshots, Grafik) aus store/store-texte.json')
+    p.add_argument('--standardsprache', help='Standardsprache des Eintrags setzen, z. B. en-US')
     p.add_argument('--lang', default='de-DE', help='Sprache des Eintrags (Standard: de-DE)')
     p.add_argument('--dry-run', action='store_true',
                    help='nur auflisten, nichts hochladen — das Listing ist oeffentlich')
@@ -359,7 +427,7 @@ def main():
     a = p.parse_args()
 
     if not (a.aab or a.promote or a.status or a.screenshots or a.listing
-            or a.texte or a.icon or a.feature):
+            or a.texte or a.icon or a.feature or a.store_sprachen):
         p.error('--aab, --promote, --status, --screenshots, --listing, '
                 '--texte, --icon oder --feature angeben')
     if a.aab and not a.complete and a.fraction is None:
@@ -370,6 +438,8 @@ def main():
         return zeige_status(tok, a.track)
     if a.screenshots:
         return lade_screenshots(tok, a.screenshots, a.lang, a.dry_run)
+    if a.store_sprachen:
+        return store_sprachen(tok, a.store_sprachen, a.standardsprache, a.dry_run)
     if a.texte:
         return setze_texte(tok, a.texte, a.dry_run)
     if a.listing:
@@ -412,8 +482,17 @@ def main():
     else:
         release['status'] = 'inProgress'
         release['userFraction'] = a.fraction
+    notes = {}
+    if a.notes_file:
+        with open(a.notes_file, encoding='utf-8') as fh:
+            datei = json.load(fh)
+        for key, text in datei.items():
+            for lang in PLAY_SPRACHEN.get(key, ([key], ''))[0]:
+                notes[lang] = text[:500]
     if a.notes:
-        release['releaseNotes'] = [{'language': 'de-DE', 'text': a.notes}]
+        notes['de-DE'] = a.notes[:500]
+    if notes:
+        release['releaseNotes'] = [{'language': l, 'text': t} for l, t in notes.items()]
 
     call(tok, 'PUT', f'{API}/applications/{PKG}/edits/{eid}/tracks/{a.track}',
          data={'track': a.track, 'releases': [release]})

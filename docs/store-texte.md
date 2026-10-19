@@ -49,7 +49,7 @@ SUCHE UND LESEZEICHEN
 Volltextsuche über alle Inhalte, Lesezeichen für Epochen, Ereignisse und Personen.
 
 KOSTENLOS
-Kostenlos und durch Werbung finanziert. Offline nutzbar, keine Anmeldung, keine In-App-Käufe. Helles und dunkles Farbschema. Auf Deutsch und Englisch.
+Kostenlos und durch Werbung finanziert. Offline nutzbar, keine Anmeldung, keine In-App-Käufe. Helles und dunkles Farbschema. In neun Sprachen: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch und Chinesisch.
 
 UMFANG
 20 Epochen · 8 Themen · 514 Ereignisse · 256 Personen · 160 Begriffe · 1.040 Quizfragen
@@ -62,7 +62,7 @@ UMFANG
 ## Versionshinweise (Release Notes) für 1.2.0
 
 ```
-Neu: 50:50-Joker im Quiz. Weltgeschichte bleibt kostenlos und wird ab dieser Version durch Werbung finanziert; personalisierte Werbung gibt es nur mit deiner Zustimmung, änderbar unter „Mehr“.
+Weltgeschichte gibt es jetzt in neun Sprachen: dazu Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch und Chinesisch. Neu im Quiz: der 50:50-Joker. Die App bleibt kostenlos und wird durch Werbung finanziert; personalisierte Werbung nur mit deiner Zustimmung, änderbar unter „Mehr“.
 ```
 
 Texte: `store/whatsnew-1.2.0.json` (de-DE, en-US). Ab 1.2.0 setzen die Workflows auch Beschreibung und Werbetext aus `store/store-texte.json` – bei Änderungen hier dort mitziehen.
@@ -152,7 +152,7 @@ SEARCH AND BOOKMARKS
 Full-text search across all content, bookmarks for epochs, events and people.
 
 FREE
-Free and supported by ads. Works offline, no sign-up, no in-app purchases. Light and dark mode. In English and German.
+Free and supported by ads. Works offline, no sign-up, no in-app purchases. Light and dark mode. In nine languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese and Chinese.
 
 AT A GLANCE
 20 epochs · 8 themes · 514 events · 256 people · 160 terms · 1,040 quiz questions
@@ -171,7 +171,7 @@ Big update: duels with friends by link or on one device, daily challenge with st
 ## Release notes 1.0.0
 
 ```
-First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, search and bookmarks. Works fully offline. In English and German.
+First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, search and bookmarks. Works fully offline. In nine languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese and Chinese.
 ```
 
 ## URLs
