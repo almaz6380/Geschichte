@@ -7,8 +7,8 @@ import { STRINGS } from './strings.js';
 export const LANGS = [
   { code: 'de', name: 'Deutsch', locale: 'de-DE', ready: true },
   { code: 'en', name: 'English', locale: 'en-US', ready: true },
-  { code: 'fr', name: 'Français', locale: 'fr-FR', ready: false },
-  { code: 'es', name: 'Español', locale: 'es-ES', ready: false },
+  { code: 'fr', name: 'Français', locale: 'fr-FR', ready: true },
+  { code: 'es', name: 'Español', locale: 'es-ES', ready: true },
   { code: 'it', name: 'Italiano', locale: 'it-IT', ready: false },
   { code: 'pt', name: 'Português', locale: 'pt-BR', ready: false },
   { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: false },

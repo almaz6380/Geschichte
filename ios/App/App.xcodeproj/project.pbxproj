@@ -38,6 +38,8 @@
 		A1D0AD0130A0000178828396 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A1D0AD0130A0000135066665 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt-BR; path = pt-BR.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A1D0AD0130A0000151906072 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A1D0AD0130A0000110223025 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A1D0AD0130A0000172019103 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh-Hans; path = zh-Hans.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,8 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				"zh-Hans",
+				ja,
 				ru,
 				"pt-BR",
 				it,
@@ -203,6 +207,8 @@
 			children = (
 				A1D0AD0130A0000100000003 /* de */,
 				A1D0AD0130A0000100000004 /* en */,
+				A1D0AD0130A0000172019103 /* zh-Hans */,
+				A1D0AD0130A0000110223025 /* ja */,
 				A1D0AD0130A0000151906072 /* ru */,
 				A1D0AD0130A0000135066665 /* pt-BR */,
 				A1D0AD0130A0000178828396 /* it */,
