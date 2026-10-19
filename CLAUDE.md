@@ -54,9 +54,12 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
-- **1.2.0 (in Arbeit, Branch `claude/werbung`):** 9 Sprachen, Werbung (Banner, Vollbild nach Runden, Video für den
+- **1.2.0 (19.10.2026):** 9 Sprachen, Werbung (Banner, Vollbild nach Runden, Video für den
   50:50-Joker), DSGVO-Einwilligung, iOS-Tracking-Abfrage, Datenschutzerklärung und Store-Texte angepasst.
-  AdMob-IDs eingetragen (19.10.2026). Wartet auf die Angaben in Play Console/App Store Connect (`docs/WERBUNG.md`).
+  Web live. Android **versionCode 15 in Produktion (an alle)**, Versionshinweise in allen Sprachen.
+  iOS **Build 24 eingereicht** (reviewSubmission `c2c88419-…`). Store-Einträge in 9 Sprachen
+  (Workflow `store-sprachen.yml`), Standardsprache **en-US** bei Play und Apple, Apple alle 175 Länder.
+  Offen (optional): AdSense im Web (`docs/WERBUNG.md` Abschnitt 6).
   **WellApps-Intro** (19.10.2026): ~3,4 s beim Start der Store-Apps (im Browser mit `?intro`), Bild
   `brand/wellapps-intro.jpg` (768×1376, nicht zuschneiden – der SVG-Pfad des W passt nur dazu), CSS/Skript
   inline in `index.html` (Klasse `wa-intro`, weil `.intro` schon belegt ist). Nativer Splash dafür nur noch
