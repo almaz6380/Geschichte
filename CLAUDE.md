@@ -57,9 +57,10 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 - **1.2.0 (in Arbeit, Branch `claude/werbung`):** 9 Sprachen, Werbung (Banner, Vollbild nach Runden, Video für den
   50:50-Joker), DSGVO-Einwilligung, iOS-Tracking-Abfrage, Datenschutzerklärung und Store-Texte angepasst.
   AdMob-IDs eingetragen (19.10.2026). Wartet auf die Angaben in Play Console/App Store Connect (`docs/WERBUNG.md`).
-  **⚠ VOR dem Einreichen von 1.2.0:** Startbild (Splash) mit dem **WellApps-Logo** des Nutzers ersetzen
-  (Wunsch vom 19.10.2026). Logo-Datei liegt noch nicht im Repo — beim Nutzer anfragen; danach
-  `assets/splash*` neu und `npm run assets` (capacitor-assets) für iOS und Android.
+  **WellApps-Intro** (19.10.2026): ~3,4 s beim Start der Store-Apps (im Browser mit `?intro`), Bild
+  `brand/wellapps-intro.jpg` (768×1376, nicht zuschneiden – der SVG-Pfad des W passt nur dazu), CSS/Skript
+  inline in `index.html` (Klasse `wa-intro`, weil `.intro` schon belegt ist). Nativer Splash dafür nur noch
+  dunkel `#020814` ohne Logo (iOS `Splash.imageset`, Android `drawable*/splash.png`, `capacitor.config.json`).
 - **1.1.1 (11.10.2026):** Startsprache = Gerätesprache. 1.1.0 vor der Freigabe zurückgezogen
   (neu: `ios-submit.yml` Eingabe `zurueckziehen`). Android versionCode 12 in Produktion (an alle),
   iOS Build 21 eingereicht (reviewSubmission `2d556df3-…`). iOS hat 1.1.0 damit nie bekommen.
