@@ -1,0 +1,1 @@
+Zielsprache: RUSSISCH. Namen in der im Russischen üblichen Form (Карл Великий, Лондон, Столетняя война). „BC“ → „до н. э.“, „AD“ → „н. э.“, „c.“ → „ок.“. Zahlen: 12 000. Jahrhunderte römisch (V век до н. э.).
