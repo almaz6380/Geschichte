@@ -87,7 +87,16 @@ App „Weltgeschichte: Epochen & Quiz“ → **App-Datenschutz** → Bearbeiten:
 
 Altersfreigabe bleibt 4+.
 
-### 6. Web: AdSense (optional, getrennt von den Apps)
+### 6. Web: AdSense (getrennt von den Apps)
+
+**Stand 19.10.2026:** AdSense-Konto für Websites erweitert, `almaz6380.github.io` per Meta-Tag bestätigt und
+**zur Prüfung eingereicht**. `ads.txt` und `<meta name="google-adsense-account">` liegen online.
+**Nach der Freigabe (Nutzerentscheidung):** Anzeigen auf Weltgeschichte, der Hauptseite almaz6380.github.io,
+watten/index.html + watten/support.html und Mahjong im Web (mahjong.almaz6380.workers.dev, braucht eine eigene
+Website in AdSense). **Keine** Werbung auf wellbooked und auf reinen Rechtstexten (Datenschutz/Impressum).
+Je Seite mit Werbung die Datenschutzerklärung um AdSense ergänzen.
+
+Ursprüngliche Anleitung:
 
 AdSense prüft nur ganze Domains, hier also `almaz6380.github.io`. Das Repo dafür gibt es schon (dort liegt `app-ads.txt`).
 
