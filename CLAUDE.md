@@ -7,14 +7,14 @@ Sprache im Projekt und mit dem Nutzer: **Deutsch**. Überblick über Inhalte und
 ## Befehle
 
 - `npm start` — lokaler Server (http://localhost:8080)
-- `npm run validate` — Daten prüfen (`data/{de,en}/*.json`, gleiche IDs in beiden Sprachen)
+- `npm run validate` — Daten prüfen (`data/<sprache>/*.json`, gleiche IDs in allen Sprachen)
 - `npm test` — node:test (Daten, Quiz, Spielmodi, Versionsgleichheit)
 - `npm run smoke` — Playwright-Durchlauf aller Routen auf DE und EN
 
 ## Architektur (kurz)
 
 - `js/app.js` Router, `js/views/*` Bildschirme, `js/store.js` localStorage (Präfix `wg.`),
-  `js/strings/{de,en}.js` Texte, `sw.js` Precache — **bei neuen Dateien `PRECACHE` ergänzen und
+  `js/strings/<sprache>.js` Texte, `sw.js` Precache — **bei neuen Dateien `PRECACHE` ergänzen und
   `VERSION` erhöhen**.
 - Spiellogik ohne DOM: `js/quiz.js`, `duel.js` (Duell per Link, Seed + Antworten im Link, kein
   Server), `hotseat.js`, `games.js`, `daily.js`, `cards.js` (Leitner); Teilen über `js/share.js`
@@ -54,7 +54,7 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
-- **1.2.0 (in Arbeit, Branch `claude/werbung`):** Werbung (Banner, Vollbild nach Runden, Video für den
+- **1.2.0 (in Arbeit, Branch `claude/werbung`):** 9 Sprachen, Werbung (Banner, Vollbild nach Runden, Video für den
   50:50-Joker), DSGVO-Einwilligung, iOS-Tracking-Abfrage, Datenschutzerklärung und Store-Texte angepasst.
   Wartet auf die AdMob-IDs und die Angaben in Play Console/App Store Connect (`docs/WERBUNG.md`).
 - **1.1.1 (11.10.2026):** Startsprache = Gerätesprache. 1.1.0 vor der Freigabe zurückgezogen
@@ -73,4 +73,14 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 - Die Vercel-Integration wurde am 11.10.2026 deinstalliert. Der alte rote Status
   „Vercel – Account is blocked“ an früheren Commits ist bedeutungslos.
-- `i18n/fr` ist veraltet, Französisch ist nicht freigeschaltet.
+- **9 Sprachen** (seit 1.2.0): de, en, fr, es, it, pt (pt-BR), ru, ja, zh (Kurzzeichen). Inhalte wurden aus
+  `data/en` übersetzt: `translate/src` (Vorlage in Blöcken), `translate/<sprache>/` (Übersetzung),
+  `node translate/check.mjs <sprache>` und `node translate/lint.mjs <sprache>` prüfen, dann
+  `node scripts/i18n-apply.mjs <sprache> translate/<sprache>`. **Ändert sich ein deutscher/englischer Text,
+  muss er in allen Sprachen nachgezogen werden** (Block neu extrahieren und übersetzen).
+  Store-Texte je Sprache: `store/store-texte.json` (aus `translate/store-<sprache>.json` per
+  `python3 translate/merge-store.py`, das auch App-Namen in iOS-`*.lproj` und Android-`values-*` schreibt).
+  Pluralformen über `Intl.PluralRules` (Russisch: *.one/*.few/*.other). Suche versteht Kyrillisch und CJK.
+- Store-Sprachen, Screenshots je Sprache, Standardsprache en-US und alle Länder (Apple): Workflow
+  `store-sprachen.yml` (`scripts/asc-store.py`, `scripts/play-upload.py --store-sprachen`). Bei Google Play
+  lassen sich Länder nicht per API freischalten (Play Console → Produktion → Länder/Regionen).

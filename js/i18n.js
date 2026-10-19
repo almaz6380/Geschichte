@@ -12,8 +12,8 @@ export const LANGS = [
   { code: 'it', name: 'Italiano', locale: 'it-IT', ready: true },
   { code: 'pt', name: 'Português', locale: 'pt-BR', ready: true },
   { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: true },
-  { code: 'ja', name: '日本語', locale: 'ja-JP', ready: false },
-  { code: 'zh', name: '中文', locale: 'zh-CN', ready: false },
+  { code: 'ja', name: '日本語', locale: 'ja-JP', ready: true },
+  { code: 'zh', name: '中文', locale: 'zh-CN', ready: true },
 ];
 
 export const DEFAULT_LANG = 'de';
