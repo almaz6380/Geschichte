@@ -87,8 +87,14 @@ export function t(key, vars) {
 }
 
 // Zählbare Angabe, z. B. plural(3, 'unit.event') -> "3 Ereignisse".
+// Die Form kommt aus den Pluralregeln der Sprache: Russisch kennt one/few/many
+// (1 событие, 2 события, 5 событий); fehlt eine Form, gilt *.other.
 export function plural(n, key) {
-  return `${n} ${t(`${key}.${n === 1 ? 'one' : 'other'}`)}`;
+  let cat = n === 1 ? 'one' : 'other';
+  try { cat = new Intl.PluralRules(getLocale()).select(n); } catch { /* alte Engine */ }
+  const dict = STRINGS[current] || {};
+  const form = dict[`${key}.${cat}`] !== undefined ? cat : (cat === 'one' ? 'one' : 'other');
+  return `${n} ${t(`${key}.${form}`)}`;
 }
 
 export function compare(a, b) {
