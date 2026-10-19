@@ -27,8 +27,40 @@
       if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
     } catch (e) {}
   </script>
+  <style>
+    /* WellApps-Intro (nur in den Store-Apps, im Browser mit ?intro): das W wird als Neonlinie
+       geschrieben, dann blendet das ganze Logo ein. Der SVG-Pfad
+       passt nur zu genau diesem Bild (768×1376, slice) – Bild nicht zuschneiden oder skalieren. */
+    .wa-intro { position: fixed; inset: 0; z-index: 1000; background: #020814; transition: opacity 0.5s ease; }
+    .wa-intro img, .wa-intro svg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+    .wa-intro img { opacity: 0; transition: opacity 0.7s ease; }
+    .wa-intro svg { transition: opacity 0.8s ease 0.2s; }
+    .wa-intro path { fill: none; stroke: #8ff7ff; stroke-width: 9; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1;
+      filter: drop-shadow(0 0 5px #3fe8ff) drop-shadow(0 0 14px #2a9dff); animation: wdraw 1.15s cubic-bezier(0.55, 0.05, 0.35, 1) 0.25s forwards; }
+    @keyframes wdraw { to { stroke-dashoffset: 0; } }
+    .wa-intro.lit img { opacity: 1; }
+    .wa-intro.lit svg { opacity: 0; }
+    .wa-intro.out { opacity: 0; pointer-events: none; }
+    @media (prefers-reduced-motion: reduce) { .wa-intro path { animation: none; stroke-dashoffset: 0; } }
+  </style>
 </head>
 <body>
+  <div class="wa-intro" id="wa-intro" hidden aria-hidden="true">
+    <img src="./brand/wellapps-intro.jpg" alt="">
+    <svg viewBox="0 0 768 1376" preserveAspectRatio="xMidYMid slice"><path pathLength="1" d="M260 535 L325 690 L385 557 L442 690 L507 535"/></svg>
+  </div>
+  <script>
+    // Nur in den Store-Apps (oder mit ?intro zum Testen): gut 3 s, dann die App.
+    (function () {
+      var cap = window.Capacitor, el = document.getElementById('wa-intro');
+      var nativ = (cap && cap.isNativePlatform && cap.isNativePlatform()) || document.documentElement.dataset.native === '1';
+      if (!(nativ || /[?&]intro\b/.test(location.search))) { el.remove(); return; }
+      el.hidden = false;
+      setTimeout(function () { el.classList.add('lit'); }, 1450);
+      setTimeout(function () { el.classList.add('out'); }, 2900);
+      setTimeout(function () { el.remove(); }, 3450);
+    })();
+  </script>
   <a class="skip-link" href="#view" data-i18n="app.skipToContent">Zum Inhalt springen</a>
   <header class="app-header">
     <a class="brand" href="#/" data-i18n-aria="app.brandAria" aria-label="Weltgeschichte – Startseite">

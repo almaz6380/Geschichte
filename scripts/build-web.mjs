@@ -25,7 +25,7 @@ import path from 'node:path';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'web');
 
-const ORDNER = ['css', 'js', 'data', 'icons'];
+const ORDNER = ['css', 'js', 'data', 'icons', 'brand'];
 const DATEIEN = [
   'index.html',
   'manifest.webmanifest',
