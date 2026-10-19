@@ -9,9 +9,9 @@ export const LANGS = [
   { code: 'en', name: 'English', locale: 'en-US', ready: true },
   { code: 'fr', name: 'Français', locale: 'fr-FR', ready: true },
   { code: 'es', name: 'Español', locale: 'es-ES', ready: true },
-  { code: 'it', name: 'Italiano', locale: 'it-IT', ready: false },
-  { code: 'pt', name: 'Português', locale: 'pt-BR', ready: false },
-  { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: false },
+  { code: 'it', name: 'Italiano', locale: 'it-IT', ready: true },
+  { code: 'pt', name: 'Português', locale: 'pt-BR', ready: true },
+  { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: true },
   { code: 'ja', name: '日本語', locale: 'ja-JP', ready: false },
   { code: 'zh', name: '中文', locale: 'zh-CN', ready: false },
 ];
