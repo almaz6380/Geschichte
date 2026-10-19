@@ -370,7 +370,7 @@ def store_sprachen(tok, datei, standard, dry_run=False):
                         call(tok, 'POST', f'{UPLOAD}/{base}?uploadType=media', data=fh.read(), ctype='image/png')
             # Play verlangt je Sprache ein hochaufloesendes Symbol (512×512), sonst 403 beim :validate
             # („no high resolution icon set for language …“). Es ist in allen Sprachen dasselbe.
-            symbol = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'icons', 'icon-512.png')
+            symbol = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'store', 'play-icon-512.png')  # 32-Bit-PNG mit Alpha, wie Play es verlangt
             base = f'applications/{PKG}/edits/{eid}/listings/{lang}/icon'
             call(tok, 'DELETE', f'{API}/{base}')
             with open(symbol, 'rb') as fh:
