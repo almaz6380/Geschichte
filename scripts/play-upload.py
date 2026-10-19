@@ -350,13 +350,11 @@ def store_sprachen(tok, datei, standard, dry_run=False):
         wurzel = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'docs', 'screenshots', ordner)
         for lang in langs:
             daten = {'language': lang, 'shortDescription': t['short'], 'fullDescription': t['description']}
-            # Den Titel nur fuer neue Sprachen — vorhandene behalten ihren.
-            if lang not in vorhanden:
-                daten['title'] = t['play_title']
+            daten['title'] = t['play_title']
             for feld, grenze in LISTING_LIMITS.items():
                 if feld in daten and len(daten[feld]) > grenze:
                     sys.exit(f'{lang} {feld}: {len(daten[feld])} Zeichen, erlaubt {grenze}')
-            print(f'[{lang}] {"neu" if lang not in vorhanden else "aktualisieren"}: {daten.get("title", "(Titel bleibt)")}')
+            print(f'[{lang}] {"neu" if lang not in vorhanden else "aktualisieren"}: {daten["title"]}')
             if dry_run:
                 continue
             url = f'{API}/applications/{PKG}/edits/{eid}/listings/{lang}'
