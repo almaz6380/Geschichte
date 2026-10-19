@@ -9,7 +9,7 @@
 import { showToast, esc } from './ui.js';
 import { t } from './i18n.js';
 
-const USE_TEST_ADS = true;
+const USE_TEST_ADS = false;
 
 // Googles öffentliche Test-Anzeigenblöcke.
 const TEST = {
@@ -27,8 +27,8 @@ const TEST = {
 
 // Anzeigenblöcke der App „Weltgeschichte“ im AdMob-Konto pub-8860791993288062.
 const PROD = {
-  android: { banner: '', interstitial: '', rewarded: '' },
-  ios: { banner: '', interstitial: '', rewarded: '' },
+  android: { banner: 'ca-app-pub-8860791993288062/7254378838', interstitial: 'ca-app-pub-8860791993288062/6712376797', rewarded: 'ca-app-pub-8860791993288062/5399295127' },
+  ios: { banner: 'ca-app-pub-8860791993288062/5729544172', interstitial: 'ca-app-pub-8860791993288062/9146968445', rewarded: 'ca-app-pub-8860791993288062/7043549288' },
 };
 
 // Web-Fassung (AdSense). Leer = keine Werbung im Web.
