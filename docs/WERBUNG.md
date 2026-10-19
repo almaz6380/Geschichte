@@ -17,6 +17,18 @@ Einwilligung: Google UMP (DSGVO-Dialog) beim Start, auf iOS zusätzlich die Trac
 `false` mit Test-App-IDs oder leeren Anzeigenblöcken ausgeliefert wird. Echte Anzeigen nie selbst antippen
 (gleiches AdMob-Konto wie Mahjong Royale, eine Sperre träfe beide Apps).
 
+## AdMob-IDs (Konto pub-8860791993288062, eingetragen am 19.10.2026)
+
+| | Android | iOS |
+|---|---|---|
+| App-ID | `ca-app-pub-8860791993288062~8295997761` | `ca-app-pub-8860791993288062~7042625840` |
+| Banner („Banner“) | `…/7254378838` | `…/5729544172` |
+| Interstitial („Quiz-Ende“) | `…/6712376797` | `…/9146968445` |
+| Prämie („Joker“) | `…/5399295127` | `…/7043549288` |
+
+In AdMob gibt es eine versehentlich doppelt angelegte Android-App ohne Anzeigenblöcke
+(umbenannt in „NICHT VERWENDEN – doppelt“) — nicht benutzen.
+
 ## Was der Nutzer einmalig tun muss
 
 ### 1. AdMob: Apps und Anzeigenblöcke anlegen (Konto 63almaz80@gmail.com, pub-8860791993288062)
