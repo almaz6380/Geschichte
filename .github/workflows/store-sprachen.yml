@@ -45,7 +45,7 @@ jobs:
           set -euo pipefail
           PY="$RUNNER_TEMP/venv/bin/python"
           if [ "$ZIEL" = "status" ]; then "$PY" scripts/asc-store.py --status; exit 0; fi
-          ARGS=(--sprachen --screenshots --standardsprache en-US --alle-laender)
+          ARGS=(--sprachen --screenshots --standardsprache en-US --alle-laender --version "$(node -p "require('./package.json').version")")
           [ "$ERSETZEN" = "true" ] && ARGS+=(--ersetzen)
           [ "$SCHREIBEN" = "true" ] && ARGS+=(--schreiben)
           "$PY" scripts/asc-store.py "${ARGS[@]}"

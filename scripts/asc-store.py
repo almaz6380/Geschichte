@@ -93,9 +93,20 @@ def alle(tok, url):
     return out
 
 
-def bearbeitbare_version(tok, app_id):
+VERSION = None  # --version: fehlt eine bearbeitbare Version, wird sie mit dieser Nummer angelegt
+
+
+def bearbeitbare_version(tok, app_id, schreiben=False):
     vers = call(tok, 'GET', f'/v1/apps/{app_id}/appStoreVersions?limit=10')['data']
     v = next((v for v in vers if v['attributes']['appStoreState'] in sub.EDITABLE), None)
+    if not v and VERSION:
+        print(f'Version {VERSION} anlegen' + ('' if schreiben else ' [Probelauf]'))
+        if not schreiben:
+            sys.exit(0)
+        return call(tok, 'POST', '/v1/appStoreVersions', {
+            'data': {'type': 'appStoreVersions',
+                     'attributes': {'platform': 'IOS', 'versionString': VERSION, 'releaseType': 'AFTER_APPROVAL'},
+                     'relationships': {'app': {'data': {'type': 'apps', 'id': app_id}}}}})['data']
     if not v:
         zust = ', '.join(f"{x['attributes']['versionString']}={x['attributes']['appStoreState']}" for x in vers)
         sys.exit(f'Keine bearbeitbare Version ({zust}). Erst Version anlegen (asc-submit.py ohne --submit legt sie nicht an) oder Prüfung abwarten.')
@@ -130,7 +141,7 @@ def status(tok, app_id):
 
 def sprachen(tok, app_id, schreiben):
     texte = lade_texte()
-    v = bearbeitbare_version(tok, app_id)
+    v = bearbeitbare_version(tok, app_id, schreiben)
     print(f"Version {v['attributes']['versionString']} ({v['attributes']['appStoreState']})")
     locs = {l['attributes']['locale']: l for l in
             call(tok, 'GET', f"/v1/appStoreVersions/{v['id']}/appStoreVersionLocalizations?limit=50")['data']}
@@ -160,6 +171,16 @@ def sprachen(tok, app_id, schreiben):
                 call(tok, 'PATCH', f"/v1/appInfoLocalizations/{il[loc]['id']}",
                      {'data': {'type': 'appInfoLocalizations', 'id': il[loc]['id'],
                                'attributes': {'subtitle': t['subtitle'], **priv}}})
+            # Namen nur, wenn er abweicht, und in einem eigenen Aufruf: Apple prüft ihn gegen alle
+            # Konten und antwortet bei Kollision 409 — das darf den Rest nicht aufhalten.
+            if il[loc]['attributes'].get('name') != t['name']:
+                print(f'  [{loc}] App-Info: Name {il[loc]["attributes"].get("name")!r} → {t["name"]!r}')
+                if schreiben:
+                    try:
+                        call(tok, 'PATCH', f"/v1/appInfoLocalizations/{il[loc]['id']}",
+                             {'data': {'type': 'appInfoLocalizations', 'id': il[loc]['id'], 'attributes': {'name': t['name']}}})
+                    except RuntimeError as e:
+                        print(f'    Name nicht geändert: {e}')
         else:
             print(f'  [{loc}] App-Info: anlegen ({t["name"]!r} / {t["subtitle"]!r})')
             if schreiben:
@@ -171,7 +192,7 @@ def sprachen(tok, app_id, schreiben):
 
 def screenshots(tok, app_id, schreiben, ersetzen):
     texte = lade_texte()
-    v = bearbeitbare_version(tok, app_id)
+    v = bearbeitbare_version(tok, app_id, schreiben)
     locs = call(tok, 'GET', f"/v1/appStoreVersions/{v['id']}/appStoreVersionLocalizations?limit=50")['data']
     for l in locs:
         loc = l['attributes']['locale']
@@ -247,7 +268,10 @@ def main():
     ap.add_argument('--standardsprache')
     ap.add_argument('--alle-laender', action='store_true')
     ap.add_argument('--schreiben', action='store_true')
+    ap.add_argument('--version', help='Versionsnummer, falls noch keine bearbeitbare Version existiert')
     a = ap.parse_args()
+    global VERSION
+    VERSION = a.version
     tok = sub.token()
     app_id = sub.find_app(tok)
     if not a.schreiben and not a.status:
