@@ -9,6 +9,17 @@ const bad = { fr: [CJK, CYR], es: [CJK, CYR], it: [CJK, CYR], pt: [CJK, CYR], ru
 let n = 0;
 for (const f of readdirSync(`translate/${lang}`).filter((x) => x.endsWith('.json') && !x.startsWith('.'))) {
   const d = JSON.parse(readFileSync(`translate/${lang}/${f}`, 'utf8'));
-  for (const [k, v] of Object.entries(d)) if (bad.some((r) => r.test(v))) { n++; console.log(`${f} ${k}: ${v.slice(0, 120)}`); }
+  const src = JSON.parse(readFileSync(`translate/src/${f}`, 'utf8'));
+  for (const [k, v] of Object.entries(d)) {
+    let why = bad.some((r) => r.test(v)) ? 'fremde Schrift' : '';
+    // Geschweifte Klammern nur, wo die Vorlage sie hat.
+    if (!why && /[{}]/.test(v) && !/[{}]/.test(src[k] || '')) why = 'Klammer';
+    // Russisch, Japanisch, Chinesisch: englische Restwörter (klein geschrieben, keine Namen).
+    if (!why && ['ru', 'ja', 'zh'].includes(lang)) {
+      const w = (v.match(/\b[a-z]{5,}\b/g) || []).filter((x) => !(src[k] || '').includes(x) || true);
+      if (w.length) why = `englisch? ${w.slice(0, 3).join(' ')}`;
+    }
+    if (why) { n++; console.log(`${f} ${k} [${why}]: ${v.slice(0, 100)}`); }
+  }
 }
 console.log(`${lang}: ${n} Auffälligkeiten`);
