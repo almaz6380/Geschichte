@@ -1,0 +1,39 @@
+/* Entwurf B „Dunkel & edel“: Nachtblau wie das WellApps-Intro, Türkis/Gold als Leuchtakzente, Glas-Karten. */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600&display=swap');
+:root, :root[data-theme] {
+  color-scheme: dark;
+  --bg: #060d1f; --bg-elev: rgba(255, 255, 255, .06); --bg-muted: rgba(255, 255, 255, .09);
+  --text: #eef3ff; --text-muted: #94a3c4; --border: rgba(148, 197, 255, .14);
+  --accent: #3fe8ff; --accent-contrast: #031019; --link: #7dd3fc;
+  --gold: #f5c66b;
+  --shadow: 0 10px 30px rgba(0, 0, 0, .35);
+  --radius: 20px; --radius-sm: 12px;
+  --font: "Inter", system-ui, sans-serif; --font-serif: "Cormorant Garamond", Georgia, serif;
+}
+body { background: radial-gradient(1200px 600px at 50% -10%, #12305a 0%, #060d1f 55%) fixed, #060d1f; }
+.app-header { background: rgba(6, 13, 31, .7); backdrop-filter: blur(18px); border-bottom: 1px solid var(--border); }
+.brand { font-family: "Montserrat", sans-serif; font-weight: 700; color: #fff; }
+.brand-icon { color: var(--accent); filter: drop-shadow(0 0 6px #3fe8ff); }
+h1, h2, .section-title { font-family: "Montserrat", sans-serif; font-weight: 800; letter-spacing: -0.02em; color: #fff; }
+h1 { background: linear-gradient(90deg, #fff, #9be9ff); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.card, .stat, .quiz-choice, .btn { backdrop-filter: blur(14px); }
+.card { border: 1px solid var(--border); background: linear-gradient(160deg, rgba(255,255,255,.08), rgba(255,255,255,.03)); }
+.stat b { font-family: "Montserrat", sans-serif; color: var(--gold); text-shadow: 0 0 12px rgba(245, 198, 107, .35); }
+.btn { background: rgba(255, 255, 255, .07); color: var(--text); border: 1px solid var(--border); }
+.btn-primary { background: linear-gradient(135deg, #3fe8ff, #2a9dff); color: #031019; border: 0; box-shadow: 0 0 22px rgba(63, 232, 255, .35); }
+.epoch-tile, .random-card, .region-tile { border-left: 2px solid var(--epoch-color); box-shadow: -6px 0 18px -10px var(--epoch-color), var(--shadow); }
+.epoch-tile .epoch-num { opacity: .5; color: var(--gold); }
+.chip { background: rgba(255, 255, 255, .08); color: var(--text); }
+.hero { border: 1px solid var(--border); background: linear-gradient(135deg, color-mix(in srgb, var(--epoch-color) 70%, #060d1f), #0b1730); box-shadow: 0 0 40px -10px var(--epoch-color); }
+.hero h1 { background: none; color: #fff; }
+.article p { color: #cfd8ec; line-height: 1.75; }
+.quiz-question { font-family: "Montserrat", sans-serif; font-weight: 700; color: #fff; }
+.quiz-choice { background: rgba(255, 255, 255, .05); border: 1px solid var(--border); border-radius: 16px; color: var(--text); }
+.quiz-choice .key { background: rgba(63, 232, 255, .12); color: var(--accent); }
+.badge { background: rgba(245, 198, 107, .15); color: var(--gold); }
+.progress { background: rgba(255, 255, 255, .08); }
+.progress > * { background: linear-gradient(90deg, #2a9dff, #3fe8ff); box-shadow: 0 0 10px #3fe8ff; }
+.bottom-nav { background: rgba(6, 13, 31, .85); backdrop-filter: blur(18px); border-top: 1px solid var(--border); }
+.bottom-nav a { color: #7d8bab; }
+.bottom-nav a[aria-current="page"] { color: var(--accent); filter: drop-shadow(0 0 6px rgba(63, 232, 255, .6)); }
+.lang-picker select { color: var(--text); }
