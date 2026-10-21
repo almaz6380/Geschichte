@@ -27,6 +27,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidBecomeActive(_ application: UIApplication) {
+        // Mit Szenen (SceneDelegate) ruft iOS das hier NICHT auf – der eigentliche
+        // Ausloeser ist sceneDidBecomeActive im SceneDelegate. Bleibt als Rueckfall.
         planeTrackingAbfrage()
     }
 
@@ -39,11 +41,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     //  permission request“). Gefragt wird eine Sekunde nach didBecomeActive (frueher
     //  verwirft iOS die Anfrage gern stillschweigend), mit bis zu drei Versuchen.
     //  js/ads.js wartet auf die Antwort, bevor AdMob startet.
+    //  ⚠ Die App laeuft mit UIScene: Ausgeloest wird aus SceneDelegate.sceneDidBecomeActive.
+    //  Build 24 (1.2.0) hing nur an applicationDidBecomeActive, das mit Szenen nie kommt –
+    //  Apple fand den Dialog deshalb nicht (Ablehnung 2.1 am 21.10.2026).
     private var abfrageGeplant = false
     private var abfrageLaeuft = false
     private var versuche = 0
 
-    private func planeTrackingAbfrage() {
+    func planeTrackingAbfrage() {
         guard !abfrageGeplant, versuche < 3 else { return }
         guard ATTrackingManager.trackingAuthorizationStatus == .notDetermined else { return }
         abfrageGeplant = true

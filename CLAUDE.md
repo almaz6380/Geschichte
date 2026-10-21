@@ -74,6 +74,11 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Bekannt
 
+- **iOS-Tracking-Abfrage (ATT):** Die App nutzt UIScene (`SceneDelegate.swift`). Damit kommt
+  `applicationDidBecomeActive` im AppDelegate **nie** an — ausgelöst wird `planeTrackingAbfrage()` aus
+  `sceneDidBecomeActive`. Build 24 (1.2.0) hing nur am AppDelegate und wurde am 21.10.2026 nach 2.1
+  abgelehnt („unable to locate the App Tracking Transparency permission request“).
+
 - Startsprache (seit 11.10.2026): gespeicherte Wahl, sonst Gerätesprache (de/en), sonst
   **Englisch** (`detectLang` in `js/i18n.js`). `DEFAULT_LANG` bleibt `de` — es ist die
   Textquelle und der Rückfall für fehlende Schlüssel, nicht die Startsprache.

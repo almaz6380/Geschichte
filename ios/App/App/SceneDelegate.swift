@@ -14,6 +14,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         SceneDelegateProxy.shared.scene(scene, willConnectTo: session, options: connectionOptions)
     }
 
+    func sceneDidBecomeActive(_ scene: UIScene) {
+        // Tracking-Abfrage (ATT): mit Szenen kommt applicationDidBecomeActive nicht an.
+        (UIApplication.shared.delegate as? AppDelegate)?.planeTrackingAbfrage()
+    }
+
     func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
         SceneDelegateProxy.shared.scene(scene, openURLContexts: URLContexts)
     }
