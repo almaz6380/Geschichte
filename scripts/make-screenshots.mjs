@@ -57,7 +57,7 @@ const browser = await chromium.launch();
 try {
   for (const d of DEVICES) {
     mkdirSync(path.join(OUT, d.dir), { recursive: true });
-    const ctx = await browser.newContext({ viewport: { width: d.width, height: d.height }, deviceScaleFactor: d.scale, isMobile: d.width < 700, hasTouch: true, locale: { de: 'de-DE', en: 'en-US', pt: 'pt-BR', zh: 'zh-CN' }[LANG] || `${LANG}-${LANG.toUpperCase()}` });
+    const ctx = await browser.newContext({ viewport: { width: d.width, height: d.height }, deviceScaleFactor: d.scale, isMobile: d.width < 700, hasTouch: true, locale: { de: 'de-DE', en: 'en-US', pt: 'pt-BR', zh: 'zh-CN', ko: 'ko-KR', id: 'id-ID' }[LANG] || `${LANG}-${LANG.toUpperCase()}` });
     const page = await ctx.newPage();
     // Native Optik: kein Installieren-Button
     await page.addInitScript((lang) => {

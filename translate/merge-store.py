@@ -6,10 +6,11 @@ import json, os, re
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LANGS = {'fr': ('fr-FR', 'fr', 'fr'), 'es': ('es-ES', 'es', 'es'), 'it': ('it-IT', 'it', 'it'),
          'pt': ('pt-BR', 'pt-BR', 'pt'), 'ru': ('ru-RU', 'ru', 'ru'), 'ja': ('ja-JP', 'ja', 'ja'),
-         'zh': ('zh-CN', 'zh-Hans', 'zh')}
+         'zh': ('zh-CN', 'zh-Hans', 'zh'), 'ko': ('ko-KR', 'ko', 'ko'), 'tr': ('tr-TR', 'tr', 'tr'),
+         'pl': ('pl-PL', 'pl', 'pl'), 'nl': ('nl-NL', 'nl', 'nl'), 'id': ('id', 'id', 'in')}
 FIXED = {'de': ('Weltgeschichte', 'Deine Zustimmung erlaubt uns, dir passendere Werbung zu zeigen. Die App bleibt so oder so kostenlos.'),
          'en': ('World History', 'Your permission lets us show you more relevant ads. The app stays free either way.')}
-texte_p = f'{R}/store/store-texte.json'; wn_p = f'{R}/store/whatsnew-1.2.0.json'
+texte_p = f'{R}/store/store-texte.json'; wn_p = f'{R}/store/whatsnew-' + json.load(open(f'{R}/package.json'))['version'] + '.json'
 texte = json.load(open(texte_p)); wn = json.load(open(wn_p))
 native = {'de': ('de', 'de', FIXED['de']), 'en': ('en', 'en', FIXED['en'])}
 for l, (key, lproj, android) in LANGS.items():
