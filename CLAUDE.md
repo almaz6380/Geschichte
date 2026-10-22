@@ -22,7 +22,7 @@ Sprache im Projekt und mit dem Nutzer: **Deutsch**. Überblick über Inhalte und
 - Werbung: `js/ads.js` (AdMob über `window.Capacitor.Plugins.AdMob`, AdSense im Web), Regeln und
   Einrichtung in `docs/WERBUNG.md`. `USE_TEST_ADS` erst auf `false`, wenn echte IDs in `js/ads.js`,
   `AndroidManifest.xml` und `Info.plist` stehen (`test/ads.test.mjs` prüft das).
-- Inhalte: 20 Epochen, 1.040 Quizfragen (≥ 50 je Epoche, Tests erzwingen das).
+- Inhalte: 25 Epochen, 1.300 Quizfragen (≥ 50 je Epoche, Tests erzwingen das).
 
 ## Version
 

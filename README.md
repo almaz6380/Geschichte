@@ -8,11 +8,11 @@ Die Inhalte sind entlang von drei Achsen geordnet, die überall miteinander verl
 
 | Achse | Was sie bietet |
 |-------|----------------|
-| **Epochen** (20) | Chronologisch von der Steinzeit bis heute, mit eigenen Epochen für Amerika, Afrika, Asien und das Osmanische Reich. Jede Epoche hat „Auf einen Blick“, Überblick, vier Themenabschnitte (Herrschaft und Politik · Gesellschaft und Alltag · Kultur, Religion und Wissen · Wirtschaft und Technik), Schlüsselereignisse nach Jahrhunderten, Personen, Begriffe und Folgen. |
+| **Epochen** (25) | Chronologisch von der Steinzeit bis heute, mit eigenen Epochen für Amerika, Ozeanien, Afrika, Südostasien, Byzanz, die Wikinger, Russland und Osteuropa, Asien und das Osmanische Reich. Jede Epoche hat „Auf einen Blick“, Überblick, vier Themenabschnitte (Herrschaft und Politik · Gesellschaft und Alltag · Kultur, Religion und Wissen · Wirtschaft und Technik), Schlüsselereignisse nach Jahrhunderten, Personen, Begriffe und Folgen. |
 | **Querschnittsthemen** (8) | Rote Linien durch alle Epochen: Religionen, Wissenschaft und Technik, Krieg und Frieden, Handel und Globalisierung, Herrschaft und Demokratie, Frauen in der Geschichte, Migration, Kunst und Bildung. |
 | **Regionen** (7) | Geschichte nach Kontinenten mit Ereignissen je Epoche und Personen. |
 
-Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, Thema und Meilensteinen), das **Glossar** (alphabetisch, mit Verweisen auf Ereignisse und Personen), das **Quiz** (über 1.000 Fragen; 10 pro Epoche oder 20 gemischt, mit Erklärungen und Bestwerten), die **Volltextsuche** über alle Inhaltsarten und **Lesezeichen**.
+Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, Thema und Meilensteinen), das **Glossar** (alphabetisch, mit Verweisen auf Ereignisse und Personen), das **Quiz** (1.300 Fragen; 10 pro Epoche oder 20 gemischt, mit Erklärungen und Bestwerten), die **Volltextsuche** über alle Inhaltsarten und **Lesezeichen**.
 
 ### Spielmodi
 
