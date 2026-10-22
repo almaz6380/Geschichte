@@ -261,9 +261,94 @@
     ]
   },
   {
+    "id": "ozeanien-pazifik",
+    "title": "A Oceania e o Pacífico",
+    "order": 4,
+    "start": -1500,
+    "end": 1901,
+    "color": "#0f766e",
+    "regions": [
+      "ozeanien",
+      "europa"
+    ],
+    "summary": "Ao longo de três milênios, os navegadores Lapita e seus descendentes polinésios povoaram as ilhas do maior oceano da Terra, onde surgiram sociedades próprias ao lado das culturas muito mais antigas dos aborígines australianos, até que navegadores, missionários e colonos europeus colonizaram a região no século XIX.",
+    "overview": [
+      "A Austrália e a Nova Guiné haviam sido povoadas pelo menos 50.000 anos antes por pessoas cujos descendentes são os aborígines australianos e os povos da Melanésia. As ilhas mais remotas do Pacífico, ao contrário, permaneceram desabitadas por muito tempo. Por volta de 1500 a.C., a cultura Lapita surgiu no Arquipélago de Bismarck; seus portadores falavam línguas austronésias, e seus antepassados tinham vindo da região de Taiwan e do Sudeste Asiático. Em poucos séculos, navegaram em canoas de flutuador por Vanuatu e Nova Caledônia até Fiji, Tonga e Samoa, que alcançaram entre cerca de 1000 e 800 a.C.",
+      "Em Tonga e Samoa, a cultura polinésia tomou forma ao longo de mais de mil anos. A partir do século XI, aproximadamente, navegadores polinésios avançaram para o leste numa rápida expansão e povoaram as Ilhas da Sociedade, as Marquesas, o Havaí e Rapa Nui; por volta de 1250 a 1300 chegaram à Nova Zelândia, a última grande massa de terra a ser povoada. Sem instrumentos, navegavam milhares de quilômetros guiando-se pelas estrelas, pelas ondulações do mar e pelo voo das aves. Nas ilhas surgiram chefaturas e reinos, como o dos Tuʻi Tonga; em Rapa Nui foram esculpidas as grandes estátuas moai, e na Nova Zelândia desenvolveu-se a cultura maori, com seus pā fortificados.",
+      "Os aborígines australianos viviam em centenas de grupos linguísticos como caçadores, coletores e pescadores, que manejavam a terra com o fogo e trocavam ocre, machados de pedra e conchas ao longo de extensas rotas comerciais; sua visão de mundo, o Sonho (Dreaming), ligava-os à sua terra. No Estreito de Torres, os ilhéus praticavam a horticultura e o comércio marítimo com a Nova Guiné, e na costa norte os aborígines encontraram, o mais tardar a partir do século XVIII, pescadores de trepang vindos de Makassar. Os europeus chegaram de início apenas como visitantes: Magalhães atravessou o Pacífico em 1520/21, Abel Tasman avistou a Tasmânia e a Nova Zelândia em 1642, e James Cook mapeou muitas costas e ilhas entre 1768 e 1779.",
+      "Em 1788, com a chegada da Primeira Frota a Sydney, a Grã-Bretanha fundou uma colônia penal e tomou posse das terras aborígines sem nenhum tratado. Doenças trazidas de fora, violência e a perda de terras fizeram a população indígena cair drasticamente. Comerciantes, baleeiros e missionários também transformaram as ilhas: a partir de 1797, missionários protestantes difundiram o cristianismo a partir do Taiti, Kamehameha I unificou o Havaí com armas europeias, e na Nova Zelândia as Guerras dos Mosquetes entre tribos maoris custaram muitas vidas. Em 1840, funcionários britânicos e chefes maoris firmaram o Tratado de Waitangi, cujas duas versões ainda hoje são entendidas de maneiras diferentes.",
+      "No final do século XIX, as potências coloniais repartiram entre si quase todas as ilhas: a França dominava o Taiti e a Nova Caledônia, a Alemanha adquiriu o nordeste da Nova Guiné em 1884, e em 1899 Samoa foi dividida entre a Alemanha e os Estados Unidos. Na Nova Zelândia, os maoris perderam grande parte de suas terras após as Guerras da Nova Zelândia; na Austrália, as descobertas de ouro atraíram centenas de milhares de imigrantes; e Tonga garantiu sua independência com a constituição de 1875. Em 1893, empresários americanos derrubaram a rainha havaiana Liliʻuokalani, e em 1898 os Estados Unidos anexaram as ilhas. Em 1º de janeiro de 1901, as colônias australianas uniram-se na Comunidade da Austrália, uma federação dentro do Império Britânico na qual, porém, os povos indígenas tiveram por muito tempo poucos direitos."
+    ],
+    "consequences": [
+      "Línguas polinésias como o maori, o havaiano, o samoano e o tonganês são estreitamente aparentadas e ainda testemunham a origem comum dos povos insulares na cultura Lapita.",
+      "O renascimento da navegação tradicional, por exemplo com a canoa de casco duplo Hōkūleʻa, que em 1976 navegou sem instrumentos do Havaí ao Taiti, tornou-se símbolo da autoconfiança polinésia.",
+      "O Tratado de Waitangi é considerado o documento fundador da Nova Zelândia; desde 1975, o Tribunal de Waitangi investiga perdas de terras e reivindicações de tribos maoris, o que levou a numerosos acordos.",
+      "A tomada da Austrália sem tratado marca os debates sobre os direitos dos povos aborígines e das ilhas do Estreito de Torres, desde o reconhecimento do título nativo na decisão Mabo de 1992 até a disputa sobre o 26 de janeiro como data nacional.",
+      "A Austrália e a Nova Zelândia tornaram-se sociedades de imigrantes com instituições de modelo britânico que, por muito tempo, seguiram políticas de exclusão de imigrantes da Ásia e do Pacífico.",
+      "A anexação do Havaí fez dos Estados Unidos uma potência do Pacífico; o movimento de soberania havaiano ainda invoca a derrubada de 1893, pela qual o Congresso dos EUA pediu desculpas formalmente em 1993."
+    ],
+    "tags": [
+      "oceania",
+      "polinésios",
+      "navegação",
+      "aborígines australianos",
+      "maoris",
+      "havaí",
+      "austrália",
+      "colonialismo"
+    ],
+    "keyFacts": [
+      "Por volta de 1500 a.C., a cultura Lapita surge no Arquipélago de Bismarck; entre cerca de 1000 e 800 a.C., seus navegadores chegam a Fiji, Tonga e Samoa.",
+      "Aproximadamente entre os séculos XI e XIII, os polinésios povoam a Polinésia Oriental, incluindo o Havaí e Rapa Nui, e por fim a Nova Zelândia, por volta de 1250–1300.",
+      "Em 1521, Magalhães chega a Guam após a primeira travessia europeia do Pacífico; em 1642, Abel Tasman avista a Tasmânia e a Nova Zelândia.",
+      "De 1768 a 1779, James Cook mapeia o Pacífico em três viagens; em 26 de janeiro de 1788, a Primeira Frota funda a colônia penal de Nova Gales do Sul em Sydney Cove.",
+      "Até 1810, Kamehameha I conclui a unificação do Havaí; em 1819, o sistema kapu é abolido.",
+      "Em 6 de fevereiro de 1840 é assinado o Tratado de Waitangi; seguem-se as Guerras da Nova Zelândia, de 1845 a 1872.",
+      "Em 1893, a rainha Liliʻuokalani é derrubada, e em 1898 os Estados Unidos anexam o Havaí; em 1º de janeiro de 1901 é fundada a Comunidade da Austrália."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Poder e política",
+        "paragraphs": [
+          "Na Polinésia, a autoridade baseava-se na ascendência: os chefes, chamados rangatira entre os maoris e aliʻi no Havaí, remontavam sua linhagem a deuses e antepassados e possuíam, por isso, mana. Quanto maiores as ilhas e mais densa a população, mais marcada era a hierarquia. Em Tonga, o sagrado Tuʻi Tonga estava no topo, embora a partir do século XV tenha deixado o poder secular a outras linhagens; no Havaí, vários chefes supremos disputaram a supremacia até que Kamehameha I unificou as ilhas. Na Nova Zelândia, ao contrário, as tribos (iwi) e subtribos (hapū) permaneceram independentes e só formavam alianças conforme a ocasião exigia.",
+          "Os aborígines australianos não tinham nem Estados nem reis. Suas comunidades eram orientadas por homens e mulheres mais velhos, que detinham o conhecimento sobre a terra, a lei e as cerimônias; sistemas de parentesco determinavam quem podia casar com quem e que obrigações cada um tinha para com os outros. As fronteiras entre os territórios dos grupos linguísticos eram conhecidas, e a entrada na terra de outro grupo era negociada.",
+          "A colonização europeia seguiu caminhos diferentes. A Austrália tornou-se colônia britânica em 1788 sem tratado; no século XIX surgiram ali seis colônias com parlamentos próprios, que em 1901 se uniram numa federação. Na Nova Zelândia, a Grã-Bretanha invocou o Tratado de Waitangi, mas impôs seu domínio pela guerra. O Havaí e Tonga, como reinos, adotaram constituições segundo modelos ocidentais, mas só Tonga conseguiu se manter; quase todos os outros grupos de ilhas haviam se tornado, até 1900, colônias ou protetorados da Grã-Bretanha, da França, da Alemanha ou dos Estados Unidos."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Sociedade e cotidiano",
+        "paragraphs": [
+          "A maioria dos polinésios vivia em aldeias e povoados costeiros, cultivava taro, inhame, fruta-pão, banana e batata-doce, criava porcos, cães e galinhas e pescava nas lagoas e em mar aberto. A terra pertencia a grupos de parentesco, e os chefes redistribuíam os produtos em festas. O tapu regulava o que era sagrado e proibido, por exemplo a separação das refeições de homens e mulheres no Havaí. Na Nova Zelândia, onde muitas plantas tropicais não prosperavam, a batata-doce, kūmara, tornou-se a cultura mais importante, e pā fortificados protegiam aldeias e depósitos de alimentos.",
+          "Os aborígines australianos viviam em pequenos grupos que se deslocavam ao longo do ano entre acampamentos fixos. As mulheres coletavam plantas, sementes e pequenos animais, os homens caçavam cangurus e emas; nas costas e nos rios, a pesca tinha grande importância, como atestam as armadilhas para enguias de Budj Bim, no atual estado de Victoria. Eles manejavam a paisagem por meio de queimadas intencionais. Os ilhéus do Estreito de Torres, ao contrário, viviam como horticultores e pescadores em aldeias permanentes.",
+          "A colonização mudou radicalmente as condições de vida. Varíola, gripe, sarampo e doenças venéreas atingiram pessoas sem imunidade; a população do Havaí caiu no século XIX a uma fração do que fora, e na Austrália o número de aborígines e seus meios de subsistência diminuíram fortemente por causa de doenças, violência e perda de terras. Ao mesmo tempo, surgiram na Austrália e na Nova Zelândia sociedades de colonos formadas por condenados, imigrantes livres e garimpeiros, cujo número logo superou o dos povos indígenas."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Cultura, religião e conhecimento",
+        "paragraphs": [
+          "O conhecimento dos povos do Pacífico era transmitido oralmente: em genealogias que remontavam a dezenas de gerações, em cantos, danças e histórias de deuses como Tangaroa e de heróis como Māui. Os navegadores memorizavam rotas estelares, padrões de ondulação e pontos de referência; nas Ilhas Marshall, cartas de varetas feitas de nervuras de palmeira e conchas serviam como material didático. A escultura em madeira, a tatuagem, o tecido de casca de árvore (tapa) e os mantos de penas dos aliʻi havaianos exibiam posição e linhagem.",
+          "Para os aborígines australianos, o Sonho era o fundamento da lei e da religião. As linhas de canto (songlines) descreviam os caminhos dos seres ancestrais pela terra e serviam também como guias em longas distâncias. A arte rupestre na Terra de Arnhem e em Kimberley, a pintura em casca de árvore e as cerimônias mantinham vivo esse conhecimento.",
+          "Os missionários trouxeram o cristianismo, que se impôs em quase todas as ilhas no século XIX, muitas vezes promovido por governantes como Pōmare II no Taiti, Kaʻahumanu no Havaí e George Tupou I em Tonga. Os missionários criaram línguas escritas, traduziram a Bíblia e fundaram escolas, de modo que a alfabetização se difundiu rapidamente em muitas ilhas. Ao mesmo tempo, reprimiram danças, a tatuagem e formas de crença mais antigas, muitas das quais só foram revividas no século XX."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Economia e técnica",
+        "paragraphs": [
+          "O povoamento do Pacífico baseou-se na construção naval e na navegação: canoas de casco duplo e de flutuador, com velas de esteira de pândano, transportavam colonos, plantas cultivadas e animais por milhares de quilômetros. Redes de troca ligavam as ilhas e faziam circular obsidiana, basalto para enxós de pedra, esteiras, penas e cerâmica; no anel Kula, ao largo da ponta oriental da Nova Guiné, colares e braceletes de conchas circulavam num sistema fixo de trocas. No Havaí, os habitantes construíram grandes viveiros de peixes e campos de taro irrigados.",
+          "Também os aborígines australianos estavam ligados por rotas comerciais que cruzavam todo o continente, ao longo das quais se trocavam ocre, machados de pedra, madrepérola do norte e o estimulante pituri. A partir do final do século XVIII chegaram baleeiros, caçadores de focas e comerciantes europeus e americanos, que compravam sândalo, pepinos-do-mar e óleo de coco em troca de objetos de ferro, tecidos, álcool e armas de fogo.",
+          "No século XIX, a Austrália e a Nova Zelândia tornaram-se exportadoras de lã, ouro, trigo e, mais tarde, carne congelada, enquanto o Havaí e Fiji se tornaram ilhas açucareiras com trabalhadores vindos da Ásia. Dezenas de milhares de melanésios foram recrutados para as plantações de Queensland, Fiji e Samoa, muitas vezes por meio de engano ou força; esse \"blackbirding\" é hoje considerado uma forma de sequestro. Navios a vapor, telégrafos e, a partir de cerca de 1880, navios frigoríficos ligaram a região mais estreitamente à economia mundial."
+        ]
+      }
+    ]
+  },
+  {
     "id": "antike-griechenland",
     "title": "A Grécia Antiga e o Período Helenístico",
-    "order": 4,
+    "order": 5,
     "start": -800,
     "end": -30,
     "color": "#0ea5e9",
@@ -348,7 +433,7 @@
   {
     "id": "rom",
     "title": "O Império Romano",
-    "order": 5,
+    "order": 6,
     "start": -753,
     "end": 476,
     "color": "#dc2626",
@@ -432,7 +517,7 @@
   {
     "id": "asien-altertum",
     "title": "Os impérios da Ásia: Pérsia, Índia, China, Japão",
-    "order": 6,
+    "order": 7,
     "start": -550,
     "end": 1200,
     "color": "#e11d48",
@@ -516,7 +601,7 @@
   {
     "id": "afrikanische-reiche",
     "title": "Reinos e culturas africanos",
-    "order": 7,
+    "order": 8,
     "start": 100,
     "end": 1880,
     "color": "#ca8a04",
@@ -604,9 +689,178 @@
     ]
   },
   {
+    "id": "suedostasien",
+    "title": "Sudeste Asiático: de Funan à era colonial",
+    "order": 9,
+    "start": 100,
+    "end": 1900,
+    "color": "#16a34a",
+    "regions": [
+      "asien",
+      "europa"
+    ],
+    "summary": "Entre a Índia e a China, ao longo dos rios, estreitos e costas do Sudeste Asiático, surgiram impérios comerciais, cidades-templo e sultanatos como Funan, Srivijaya, Angkor, Pagan, Đại Việt, Majapahit e Malaca, até que companhias e potências coloniais europeias submeteram toda a região, exceto o Sião, ao seu domínio até 1900.",
+    "overview": [
+      "O Sudeste Asiático abrange o continente entre a Índia e a China, com os grandes rios Irrawaddy, Chao Phraya, Mekong e Vermelho, e o mundo insular de Sumatra às Filipinas. Os ventos das monções levavam os navios num ritmo regular entre o Oceano Índico e o Mar do Sul da China, de modo que a região cedo se tornou um centro do comércio marítimo. A partir do século I d.C., aproximadamente, está atestado no delta do Mekong o reino de Funan, com seu porto de Óc Eo, onde se encontravam comerciantes da Índia, da China e até do mundo mediterrâneo. Na costa do atual centro do Vietnã surgiu Champa, que fontes chinesas mencionam a partir do final do século II.",
+      "Por meio de mercadores, brâmanes e monges, escritas indianas, o sânscrito, o hinduísmo e o budismo chegaram à região; os governantes locais adotaram-nos por escolha própria e os mesclaram com suas próprias tradições. A partir do final do século VII, Srivijaya, com sede em Palembang, em Sumatra, dominou o Estreito de Malaca e foi um centro de saber budista. Em Java, as dinastias Shailendra e Mataram construíram Borobudur e Prambanan nos séculos VIII e IX. Em 802, Jayavarman II fundou o Império Khmer, cuja capital, Angkor, com Angkor Wat e o Bayon, foi durante séculos uma das maiores cidades do mundo pré-industrial.",
+      "No atual norte do Vietnã, a vitória de Ngô Quyền no rio Bạch Đằng, em 938, encerrou cerca de mil anos de domínio chinês; o posterior Estado de Đại Việt, no entanto, adotou da China a escrita, o confucionismo e a administração. Na Birmânia, Anawrahta unificou o reino de Pagan a partir de 1044, e na atual Tailândia surgiram Sukhothai, por volta de 1238, e Ayutthaya, em 1351. Com esses reinos, o budismo Theravada tornou-se predominante no continente. Em Java, Majapahit ascendeu após 1293 a Estado mais poderoso do arquipélago, enquanto o islã se difundia pelas rotas comerciais a partir do final do século XIII e, por volta de 1400, o Sultanato de Malaca se tornava o porto mais importante da região.",
+      "Em 1511, os portugueses conquistaram Malaca; em 1571, os espanhóis fizeram de Manila a capital de sua colônia nas Filipinas; e em 1619 a Companhia Holandesa das Índias Orientais fundou Batávia, em Java, de onde procurou controlar o comércio de especiarias. Por muito tempo, porém, os europeus ficaram restritos a portos e ilhas. No continente, Estados locais fortes se mantiveram: a dinastia birmanesa Konbaung destruiu Ayutthaya em 1767, no Sião Rama I fundou a dinastia Chakri em Bangcoc em 1782, e em 1802 Gia Long unificou o Vietnã sob a dinastia Nguyễn.",
+      "No século XIX, a industrialização e o imperialismo alteraram o equilíbrio de forças. A Grã-Bretanha estabeleceu um entreposto comercial em Singapura em 1819, conquistou a Birmânia em três guerras que terminaram em 1885 e colocou os sultanatos malaios sob sua influência. Após a Guerra de Java, os holandeses obrigaram os camponeses, a partir de 1830, a cultivar produtos de exportação, e em 1887 a França reuniu o Vietnã e o Camboja na Indochina Francesa, à qual o Laos foi acrescentado em 1893. Somente o Sião, sob Mongkut e Chulalongkorn, permaneceu independente como Estado-tampão. Nas Filipinas, o Katipunan levantou-se contra a Espanha em 1896; a independência proclamada em 1898, porém, deu lugar ao domínio dos Estados Unidos."
+    ],
+    "consequences": [
+      "Angkor, Borobudur, Prambanan, Pagan, Mỹ Sơn e Ayutthaya são hoje Patrimônio Mundial da UNESCO e tornaram-se símbolos nacionais dos Estados em que se encontram.",
+      "O mapa religioso da região data desse período: budismo Theravada no continente, um Vietnã marcado pelo confucionismo e pelo budismo, islã na Indonésia, na Malásia e em Brunei, catolicismo nas Filipinas e hinduísmo em Bali.",
+      "As fronteiras dos atuais Estados do Sudeste Asiático seguem em grande parte as dos impérios coloniais traçadas por britânicos, holandeses, franceses, espanhóis e americanos no século XIX.",
+      "O Estreito de Malaca, que já enriquecera Srivijaya e Malaca, continua sendo uma das rotas marítimas mais movimentadas do mundo; graças a ele, Singapura tornou-se um dos maiores portos.",
+      "Migrantes chineses, indianos e europeus que chegaram com o comércio e a economia colonial ainda hoje marcam as sociedades diversas da Malásia, de Singapura, da Indonésia e das Filipinas.",
+      "A experiência do domínio colonial, do cultivo forçado e da exploração alimentou os movimentos de independência do século XX, do Vietnã à Indonésia, e marca a cultura de memória da região."
+    ],
+    "tags": [
+      "sudeste asiático",
+      "khmer",
+      "angkor",
+      "srivijaya",
+      "majapahit",
+      "comércio de especiarias",
+      "colonialismo"
+    ],
+    "keyFacts": [
+      "A partir do século I d.C., aproximadamente, o reino de Funan, com seu porto de Óc Eo, está atestado no delta do Mekong e liga rotas comerciais entre a Índia e a China.",
+      "Em 682, uma inscrição perto de Palembang registra a ascensão de Srivijaya; por volta de 800, o templo-montanha budista de Borobudur é construído em Java.",
+      "Em 802, Jayavarman II funda o Império Khmer; por volta de 1150 é construído Angkor Wat, e em 1181 Jayavarman VII sobe ao trono e constrói Angkor Thom com o Bayon.",
+      "Em 938, Ngô Quyền derrota uma frota chinesa no rio Bạch Đằng e encerra cerca de mil anos de domínio chinês sobre o norte do Vietnã; em 1044, Anawrahta inicia seu reinado em Pagan.",
+      "Em 1293, Majapahit é fundado em Java; por volta de 1400 surge Malaca, e por volta de 1431 os reis khmer abandonam Angkor.",
+      "Em 1511, os portugueses conquistam Malaca, em 1571 os espanhóis fundam Manila, e em 1619 a Companhia Holandesa das Índias Orientais funda Batávia.",
+      "Em 1885, a Birmânia torna-se britânica, em 1887 é criada a Indochina Francesa, e em 1898 as Filipinas proclamam a independência; o Sião continua sendo o único país independente da região."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Poder e política",
+        "paragraphs": [
+          "Os primeiros Estados do Sudeste Asiático raramente tinham fronteiras fixas. Os historiadores muitas vezes os descrevem como mandalas: em torno de um rei e de sua capital havia círculos de príncipes e portos que pagavam tributo enquanto o governante fosse forte e generoso, e que se voltavam para outro centro quando ele se enfraquecia. O poder dependia menos da terra do que das pessoas, que podiam ser vinculadas ao governante, assentadas ou levadas na guerra. Reinos como Srivijaya, Champa ou Majapahit mudavam, por isso, rapidamente de extensão, e seu tamanho é muitas vezes controverso entre os estudiosos.",
+          "Os reis fundamentavam seu poder em ideias religiosas da Índia. Em Angkor, os governantes khmer associavam seu cargo a Shiva, Vishnu ou ao Buda e construíam templos de Estado como imagens da montanha cósmica Meru; os reis budistas do continente viam-se como soberanos universais justos e protetores da ordem monástica. O Đại Việt, ao contrário, inspirava-se na corte imperial chinesa, adotou exames para o funcionalismo e códigos de leis e reconhecia formalmente a suserania chinesa para permanecer independente internamente. Nos sultanatos das ilhas, a dignidade do governante combinava o islã com ideias malaias mais antigas de honra e lealdade.",
+          "Os europeus trouxeram um novo tipo de poder: entrepostos comerciais fortificados, companhias armadas e, mais tarde, administrações coloniais com fronteiras fixas, mapas e registros fiscais. Por muito tempo, portugueses, espanhóis e holandeses dependeram de alianças com príncipes locais. No século XIX, a Grã-Bretanha, a França e os Países Baixos impuseram seu domínio por meio de guerras, tratados de protetorado e funcionários nomeados. O Sião manteve a independência porque seus reis firmaram tratados com todas as potências, cederam territórios periféricos e modernizaram o Estado segundo o modelo europeu."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Sociedade e cotidiano",
+        "paragraphs": [
+          "A maioria das pessoas vivia como rizicultores em aldeias ao longo dos rios e nas planícies, como pescadores nas costas ou como agricultores itinerantes nas terras altas. A base era o cultivo de arroz irrigado, que exigia muito trabalho coletivo em diques, canais e campos. Nobres, sacerdotes, monges, artesãos e dançarinos viviam nas cortes e nas cidades-templo; inscrições de Angkor enumeram milhares de servos vinculados a templos individuais. Dependentes e pessoas não livres, muitas vezes devedores ou prisioneiros de guerra, eram numerosos em quase todos os reinos, porque a mão de obra era mais escassa que a terra.",
+          "Na opinião de muitos historiadores, as mulheres no Sudeste Asiático tinham uma posição comparativamente forte. Trabalhavam nos campos e dirigiam mercados e o comércio, e em muitas sociedades os bens eram herdados por meio de ambos os pais. Viajantes europeus espantavam-se com as comerciantes nos portos, e havia governantes mulheres, como as rainhas de Aceh no século XVII. Com a difusão do confucionismo, do islã e do cristianismo, e sob o direito colonial, essas liberdades foram restringidas mais rigidamente em muitos lugares.",
+          "Os grandes portos eram muito mistos: em Malaca, Batávia, Manila ou Ayutthaya viviam lado a lado, em bairros próprios, malaios, javaneses, chineses, indianos, árabes, persas, japoneses e europeus. Mercadores e artesãos chineses tornaram-se um grupo importante, mas também foram vítimas de violência, por exemplo nos massacres de Manila em 1603 e de Batávia em 1740. No século XIX, centenas de milhares de chineses e indianos chegaram como trabalhadores às minas de estanho e às plantações da Malásia britânica, enquanto o cultivo forçado e novos impostos mudavam duramente a vida camponesa em Java e na Indochina."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Cultura, religião e conhecimento",
+        "paragraphs": [
+          "Da Índia, as elites do Sudeste Asiático adotaram o sânscrito, escritas, epopeias como o Ramayana e o Mahabharata, além do hinduísmo e do budismo, mas os transformaram segundo suas próprias ideias. O resultado foi uma série de monumentos únicos: o templo-montanha budista de Borobudur, os templos de Shiva de Prambanan, os templos de Mỹ Sơn em Champa, Angkor Wat e as torres com rostos do Bayon, e os milhares de pagodes da planície de Pagan. A história do Ramayana vive até hoje na dança, nos relevos e no teatro de sombras, de Java à Tailândia.",
+          "A partir do século XI, o budismo Theravada vindo do Sri Lanka impôs-se no continente, e seus mosteiros serviam também de escolas para os meninos das aldeias. O Vietnã combinou o budismo Mahayana com o saber confuciano e os caracteres chineses, e desenvolveu também uma escrita própria, o Chữ Nôm. A partir do final do século XIII, o islã difundiu-se pelas ilhas por meio de comerciantes, eruditos e sufis; o malaio escrito em alfabeto árabe tornou-se a língua do comércio, da religião e da literatura de corte. Nas Filipinas, frades espanhóis fizeram do catolicismo a religião da maioria.",
+          "No século XIX, a imprensa, os jornais e as escolas trouxeram novas ideias. Eruditos e funcionários no Sião e no Vietnã dedicaram-se à ciência europeia, e a própria corte siamesa promoveu a educação e as traduções. Nas Filipinas, José Rizal escreveu romances que denunciavam o domínio colonial e o poder das ordens religiosas, e em Java o romance holandês Max Havelaar, de Multatuli, tornou amplamente conhecido em 1860 o sofrimento causado pelo cultivo forçado. Ao mesmo tempo, estudiosos europeus começaram a estudar os antigos templos e a decifrar suas inscrições."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Economia e técnica",
+        "paragraphs": [
+          "Os ventos das monções fizeram do Sudeste Asiático o ponto de encontro natural do comércio marítimo entre o Oceano Índico e a China. Portos como Óc Eo, Palembang e Malaca prosperaram porque os navios tinham de esperar ali a mudança dos ventos. Comerciavam-se tecidos de algodão indianos, seda e porcelana chinesas, ouro, estanho, madeiras nobres, resinas e sobretudo especiarias: pimenta de Sumatra e de Java, cravo das Molucas do norte e noz-moscada das Ilhas Banda, que por muito tempo não crescia em nenhum outro lugar.",
+          "No continente, a riqueza baseava-se no arroz. Em torno de Angkor, os khmer construíram enormes reservatórios, canais e diques, embora os estudiosos discordem sobre seu papel na irrigação; levantamentos aéreos e varreduras a laser mostraram que Angkor era uma vasta paisagem urbana dispersa. O Đại Việt protegeu o delta do rio Vermelho com diques, e a Birmânia e o Sião exportaram mais tarde arroz em grandes quantidades. A fundição de bronze, a construção naval e a cerâmica atingiram um alto nível de perícia; a cerâmica de Sukhothai e do Vietnã era comercializada até o Japão e o Oriente Médio.",
+          "Os europeus tentaram controlar o comércio de especiarias pela força: a Companhia Holandesa das Índias Orientais impôs monopólios nas Molucas e mandou destruir as árvores de especiarias fora de suas plantações. A partir de 1565, o galeão de Manila trocava prata americana por mercadorias chinesas, ligando a Ásia às Américas. No século XIX, os governantes coloniais transformaram regiões inteiras em economias de exportação de café, açúcar, tabaco, estanho e, mais tarde, borracha; navios a vapor, o Canal de Suez a partir de 1869, ferrovias e telégrafos ligaram estreitamente o Sudeste Asiático ao mercado mundial."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "byzanz",
+    "title": "O Império Bizantino",
+    "order": 10,
+    "start": 330,
+    "end": 1453,
+    "color": "#9333ea",
+    "regions": [
+      "europa",
+      "naher-osten",
+      "afrika"
+    ],
+    "summary": "O Império Romano do Oriente, cristão e de língua grega, com capital em Constantinopla, sobreviveu quase mil anos à queda do Ocidente, resistiu a persas e árabes, preservou a herança da Antiguidade e marcou o mundo ortodoxo da Grécia à Rússia.",
+    "overview": [
+      "Em 11 de maio de 330, o imperador Constantino, o Grande, inaugurou sua nova capital, Constantinopla, no local da cidade grega de Bizâncio, onde o Bósforo liga a Europa e a Ásia. Após a morte de Teodósio I em 395, o Império Romano foi dividido entre seus filhos, e o Oriente desenvolveu-se cada vez mais por caminhos próprios. Protegido pelas maciças Muralhas de Teodósio e apoiado nas ricas províncias da Ásia Menor, da Síria e do Egito, sobreviveu ao período das migrações, enquanto o Império Romano do Ocidente chegou ao fim em 476. Seus habitantes continuaram a chamar-se romanos; o termo \"Império Bizantino\" só foi cunhado por estudiosos do início da Idade Moderna.",
+      "Justiniano I (527–565) propôs-se restaurar o Império Romano em suas antigas fronteiras. Depois de reprimir brutalmente a Revolta de Nika em 532, seus generais, sobretudo Belisário e Narses, conquistaram o reino vândalo no norte da África e o reino ostrogodo na Itália; acrescentou-se ainda uma faixa costeira no sul da Espanha. Ao mesmo tempo, mandou compilar o direito romano na obra mais tarde conhecida como Corpus Juris Civilis e construiu a Santa Sofia. Mas as guerras, uma onda de peste a partir de 541 e a pressão dos persas esgotaram os recursos do império, e em 568 os lombardos invadiram a Itália.",
+      "No século VII, o império lutou pela sobrevivência. Após uma longa guerra, o imperador Heráclio derrotou os persas sassânidas em 627/628, mas depois da derrota no Yarmuk, em 636, o império perdeu a Síria, a Palestina e logo o Egito para os árabes. Constantinopla resistiu a vários ataques árabes, em parte graças ao fogo grego, e o grego substituiu o latim como língua da corte e da administração. Nos séculos VIII e IX, a controvérsia iconoclasta sobre a veneração dos ícones dividiu a Igreja e a sociedade, até que a veneração das imagens foi definitivamente restabelecida em 843.",
+      "Já sob Miguel III, os missionários Cirilo e Metódio levaram o cristianismo aos eslavos, e a Bulgária adotou a fé ortodoxa. Sob a dinastia macedônica (867–1056), o império voltou a florescer: a Rus de Kiev tornou-se cristã, e Basílio II submeteu o Império Búlgaro até 1018. O ano de 1054 é considerado o momento da separação entre as Igrejas do Oriente e do Ocidente. Após a derrota para os seljúcidas em Manzikert, em 1071, grandes partes da Ásia Menor foram perdidas; os imperadores da casa dos Comnenos estabilizaram o império e pediram ajuda ao Ocidente, o que contribuiu para a Primeira Cruzada.",
+      "Em 1204, os exércitos da Quarta Cruzada tomaram e saquearam Constantinopla e fundaram um Império Latino, enquanto surgiam Estados sucessores gregos como Niceia, Epiro e Trebizonda. Miguel VIII Paleólogo recuperou a capital em 1261, mas o império restaurado continuou pequeno, enfraquecido por guerras civis e dependente das cidades comerciais de Veneza e Gênova. A partir do século XIV, perdeu território pouco a pouco para os otomanos, até que Constantinopla ficou cercada apenas por algumas poucas terras remanescentes. Com a conquista da cidade por Mehmed II em 1453, o Império Bizantino chegou ao fim."
+    ],
+    "consequences": [
+      "O direito romano compilado sob Justiniano voltou a ser estudado em Bolonha a partir do século XI e ainda constitui uma base do direito civil em muitos países da Europa e de fora dela.",
+      "As Igrejas ortodoxas da Grécia, dos Bálcãs, da Ucrânia, da Rússia e do Cáucaso remontam às missões e à organização eclesiástica de Bizâncio; depois de 1453, a Rússia considerou Moscou a \"Terceira Roma\".",
+      "O alfabeto cirílico, que nasceu da missão de Cirilo e Metódio, é usado hoje para o russo, o ucraniano, o búlgaro, o sérvio e muitas outras línguas.",
+      "Estudiosos bizantinos preservaram e comentaram as obras da Antiguidade grega; com os manuscritos e mestres que chegaram à Itália, contribuíram para o Renascimento.",
+      "Ícones, igrejas com cúpula e mosaicos dourados na tradição bizantina marcam a arte do mundo ortodoxo, e Santa Sofia também influenciou as grandes mesquitas dos otomanos.",
+      "A separação entre as Igrejas do Oriente e do Ocidente e o saque de Constantinopla em 1204 ainda pesam hoje nas relações entre cristãos católicos e ortodoxos."
+    ],
+    "tags": [
+      "bizâncio",
+      "constantinopla",
+      "roma oriental",
+      "ortodoxia",
+      "imperador",
+      "ícones",
+      "justiniano"
+    ],
+    "keyFacts": [
+      "Em 330, Constantino, o Grande, consagra Constantinopla como sua nova capital; em 395, o império é dividido em uma metade ocidental e uma oriental.",
+      "Justiniano I manda compilar o direito romano em 529–534, consagra Santa Sofia em 537 e reconquista o Norte da África e a Itália.",
+      "Em 636, o exército bizantino é derrotado pelos árabes no Yarmuk; a Síria, a Palestina e o Egito são perdidos.",
+      "Em 726 ou 730, começa a controvérsia iconoclasta sob Leão III; ela só termina em 843, com o restabelecimento definitivo da veneração das imagens.",
+      "Em 863, Cirilo e Metódio partem em missão aos eslavos da Grande Morávia; em 1014, Basílio II derrota os búlgaros no desfiladeiro de Kleidion.",
+      "Em 1054, legados papais e o patriarca de Constantinopla excomungam-se mutuamente; em 1071, os seljúcidas vencem em Manzikert.",
+      "Em 1204, cruzados saqueiam Constantinopla; em 1261, Miguel VIII Paleólogo recupera a cidade, que cai nas mãos dos otomanos em 1453."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Poder e política",
+        "paragraphs": [
+          "No topo do império estava o imperador, em grego basileus, que se via como sucessor dos imperadores romanos e como governante instituído por Deus sobre o mundo cristão. Não havia uma regra fixa de sucessão: um imperador era legítimo se fosse reconhecido pelo Senado, pelo exército e pelo povo e, em regra, coroado pelo patriarca. Muitos imperadores ascenderam como generais ou cortesãos; outros foram derrubados, cegados ou banidos para mosteiros. Dinastias como a dos macedônios, dos Comnenos e dos Paleólogos tentaram manter o trono na família por meio de coimperadores e alianças matrimoniais.",
+          "O império era governado a partir de Constantinopla por uma grande administração que trabalhava por escrito e era chefiada por altos dignitários do palácio. A partir do século VII, o império foi dividido em temas, distritos militares em que um comandante também assumia funções civis; como e quando esse sistema surgiu é debatido entre os historiadores. A diplomacia era um dos pontos fortes dos imperadores: eles negociavam com ouro, títulos, recepções suntuosas e casamentos, jogavam povos vizinhos uns contra os outros e vinculavam príncipes estrangeiros a si por meio do batismo e de títulos honoríficos.",
+          "O império estava quase sempre ameaçado em várias frentes: no leste por persas, árabes e mais tarde seljúcidas, no norte por ávaros, búlgaros e rus, no oeste por normandos e cruzados. Ao lado dos exércitos dos temas, os mercenários tiveram um papel crescente, entre eles a Guarda Varegue, formada por escandinavos e rus. A partir do século XI, grandes famílias aristocráticas ganharam poder, e os imperadores concediam rendas de terras, a pronoia, em troca de serviço militar. Depois de 1204, e sobretudo no período dos Paleólogos, guerras civis e a dependência de Veneza e Gênova enfraqueceram decisivamente o império."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Sociedade e vida cotidiana",
+        "paragraphs": [
+          "Durante séculos, Constantinopla foi uma das maiores e mais ricas cidades do mundo; no século VI, tinha, segundo estimativas, várias centenas de milhares de habitantes. A vida pública acontecia nas igrejas, nos mercados e no Hipódromo, onde se realizavam corridas de bigas e o povo podia aclamar ou vaiar o imperador. As facções do circo, os Azuis e os Verdes, eram ao mesmo tempo torcidas e grupos políticos. A grande maioria da população, porém, vivia como camponeses em aldeias, pagava impostos e fornecia soldados.",
+          "A sociedade era marcada pelo cristianismo, mas era multilíngue: além de gregos, viviam no império armênios, sírios, eslavos, judeus e muitos outros, e pessoas de todos esses grupos podiam ascender no exército e na administração. Igrejas, mosteiros e fundações mantinham hospitais, asilos para pobres e orfanatos. Os mosteiros possuíam grandes propriedades, e os monges gozavam de grande prestígio; a partir do século X, o Monte Athos tornou-se o centro do monaquismo ortodoxo.",
+          "As mulheres eram juridicamente subordinadas aos homens, mas podiam possuir bens e herdar, e na camada superior algumas exerceram grande poder. Imperatrizes como Teodora, Irene, que em 797 chegou a governar sozinha como imperador, e Zoé ajudaram a moldar a política, e no século XII Ana Comnena escreveu uma importante obra de história. A instrução era mais difundida na cidade do que no Ocidente medieval; funcionários, clérigos e muitos comerciantes sabiam ler e escrever."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Cultura, religião e saber",
+        "paragraphs": [
+          "O cristianismo era o fundamento do império. Os imperadores convocavam os grandes concílios em que se definia a doutrina sobre Cristo, por exemplo em Calcedônia, em 451; quem rejeitava suas decisões, como muitos cristãos no Egito e na Síria, era considerado dissidente. Igreja e imperador estavam estreitamente ligados, mas a controvérsia iconoclasta mostrou que monges e bispos também podiam se opor ao governante. Com o tempo, a Igreja grega e a Igreja latina de Roma se afastaram por causa de questões como o primado do papa e o Filioque no Credo.",
+          "A arte bizantina servia sobretudo à fé. Os ícones, imagens pintadas de Cristo, de Maria e dos santos, eram venerados e vistos como janelas para o mundo celestial. Os mosaicos de fundo dourado em Santa Sofia, em Ravena, em Tessalônica ou na Igreja de Chora, em Constantinopla, exibem uma linguagem visual solene e sobrenatural. A igreja com cúpula sobre planta em forma de cruz tornou-se modelo para igrejas de Veneza a Kiev.",
+          "Bizâncio preservou o saber da Antiguidade: estudiosos copiaram e comentaram as obras de Homero, Platão, Aristóteles e dos médicos e matemáticos gregos, e muitos textos antigos só sobreviveram em manuscritos bizantinos. Historiadores como Procópio, Miguel Pselo e Ana Comnena deram continuidade à tradição clássica. Nos séculos XIV e XV, eruditos como Manuel Crisoloras e Bessarion levaram a língua grega e livros gregos à Itália, contribuindo assim para o humanismo do Renascimento."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Economia e técnica",
+        "paragraphs": [
+          "A moeda de ouro conhecida como soldo (solidus), em grego nomisma, introduzida por Constantino, o Grande, permaneceu estável até o século XI e era cobiçada em todo o Mediterrâneo. Só no século XI seu teor de ouro foi fortemente reduzido, até que Aleixo I Comneno criou em 1092 uma nova moeda de ouro, o hipérpiro. O Estado cobrava impostos principalmente da população rural, impunha taxas sobre o comércio e com elas financiava o exército, a administração, as construções e os tributos pagos aos vizinhos.",
+          "Constantinopla ficava no cruzamento das rotas comerciais entre o mar Negro e o Mediterrâneo, entre a Europa e a Ásia. A seda era especialmente valiosa: segundo Procópio, os bichos-da-seda chegaram ao império sob Justiniano, e oficinas imperiais produziam tecidos preciosos cuja exportação era rigorosamente controlada. O Livro do Eparca, do século X, determinava como as corporações de comerciantes de seda, ourives e padeiros podiam atuar. A partir do século XI, Veneza e mais tarde Pisa e Gênova receberam privilégios comerciais que prejudicaram os próprios mercadores do império.",
+          "Na técnica, os bizantinos impressionaram com construções como a cúpula de Santa Sofia, as Muralhas de Teodósio e as cisternas que abasteciam Constantinopla de água. Na guerra, obtiveram vantagem no mar com o fogo grego, uma arma incendiária cuja composição exata era mantida em segredo e continua desconhecida até hoje. Manuais militares como o Strategikon descreviam táticas, a arte do cerco e a maneira de lidar com diferentes inimigos."
+        ]
+      }
+    ]
+  },
+  {
     "id": "mittelalter",
     "title": "A Idade Média europeia",
-    "order": 8,
+    "order": 11,
     "start": 500,
     "end": 1500,
     "color": "#7c3aed",
@@ -692,7 +946,7 @@
   {
     "id": "islamische-welt",
     "title": "O mundo islâmico",
-    "order": 9,
+    "order": 12,
     "start": 610,
     "end": 1500,
     "color": "#059669",
@@ -776,9 +1030,177 @@
     ]
   },
   {
+    "id": "wikinger-nordeuropa",
+    "title": "Os vikings e o norte da Europa",
+    "order": 13,
+    "start": 793,
+    "end": 1397,
+    "color": "#0369a1",
+    "regions": [
+      "europa",
+      "amerika"
+    ],
+    "summary": "Do ataque a Lindisfarne em 793 à União de Kalmar de 1397, os povos da Escandinávia surgiram como saqueadores, comerciantes e colonos entre a América do Norte e Bizâncio, tornaram-se cristãos e formaram os reinos da Dinamarca, da Noruega e da Suécia.",
+    "overview": [
+      "No fim do século VIII, a Dinamarca, a Noruega e a Suécia abrigavam comunidades camponesas sob chefes e pequenos reis, ligadas ao resto da Europa pela navegação e pelo comércio. O ataque ao mosteiro de Lindisfarne em 793 abriu a Era Viking, em que navegadores escandinavos atacaram costas e rios da Irlanda ao Mediterrâneo. Por que os ataques começaram justamente nessa época é debatido: os historiadores apontam a riqueza de mosteiros e entrepostos comerciais desprotegidos, lutas de poder na terra natal que levavam jovens a buscar saque e fama, talvez a falta de terras e, sobretudo, o drakkar, rápido e apto a navegar em alto-mar.",
+      "No século IX, ataques isolados transformaram-se em campanhas e ocupação de terras. Os vikings saquearam Paris em 845, fundaram em 841 a base de Dublin, na Irlanda, e a partir de 865 o Grande Exército Pagão conquistou a maior parte dos reinos anglo-saxões. Só Wessex, sob Alfredo, o Grande, resistiu; o leste da Inglaterra foi colonizado por escandinavos como Danelaw. Em 911, o rei franco-ocidental Carlos, o Simples, cedeu ao chefe Rollo a região em torno de Rouen, da qual surgiu a Normandia.",
+      "Ao mesmo tempo, escandinavos atravessaram o Atlântico Norte. A partir de cerca de 870, colonizaram a Islândia, onde em 930 surgiu o Althing como assembleia comum. Érico, o Vermelho, levou colonos à Groenlândia por volta de 985, e seu filho Leif Eriksson chegou à América do Norte por volta de 1000; o sítio de L’Anse aux Meadows, na Terra Nova, confirma os relatos das sagas sobre viagens nórdicas à América. No leste, varegues suecos percorreram os rios russos até Bizâncio e o Califado e contribuíram para a ascensão da Rus de Quieve.",
+      "Nos séculos X e XI, os reinos da Dinamarca, da Noruega e da Suécia tornaram-se mais sólidos e cristãos. Haroldo Dente-Azul gabou-se na pedra rúnica de Jelling de ter tornado os dinamarqueses cristãos, Olavo Tryggvason e Santo Olavo impuseram o cristianismo na Noruega, e a Islândia o adotou por volta de 1000 por decisão do Althing. Por volta de 1028, Canuto, o Grande, governou a Inglaterra, a Dinamarca e a Noruega em um Império do Mar do Norte. Quando o rei norueguês Haroldo Hardrada caiu em Stamford Bridge em 1066, terminou a era das grandes expedições vikings; menos de três semanas depois, o normando Guilherme venceu em Hastings.",
+      "Na Baixa Idade Média e no fim da Idade Média, os reinos nórdicos passaram a se parecer com o resto da Europa, com arcebispados, mosteiros, castelos e cidades. Na Islândia, eruditos como Snorri Sturluson registraram por escrito as sagas e a Edda, e em 1262 a ilha submeteu-se ao rei norueguês. O comércio do Báltico era dominado pela Liga Hanseática alemã, com a qual a Dinamarca entrou em guerra depois de tomar Visby em 1361, tendo de assinar a Paz de Stralsund em 1370. Em 1397, a rainha Margarida I uniu a Dinamarca, a Noruega e a Suécia na União de Kalmar, que durou até 1523."
+    ],
+    "consequences": [
+      "Os vikings mudaram o mapa da Europa: Dublin, a Normandia, o Danelaw na Inglaterra e os assentamentos na Islândia e nas Ilhas Faroé remontam a seus ataques e ocupações de terra.",
+      "Os normandos, descendentes dos vikings na Normandia, conquistaram a Inglaterra em 1066 e o sul da Itália e a Sicília no século XI, marcando a história da Europa ocidental e do Mediterrâneo.",
+      "O Althing da Islândia é considerado uma das assembleias mais antigas da Europa; os nomes de parlamentos como o Storting norueguês e o Folketing dinamarquês ainda remontam ao thing.",
+      "As sagas islandesas, a Edda e as pedras rúnicas são as fontes mais importantes sobre os deuses nórdicos e continuam a inspirar literatura, música, filmes e jogos.",
+      "L’Anse aux Meadows prova que europeus estiveram na América cerca de 500 anos antes de Colombo, embora o assentamento tenha sido de curta duração e sem consequências duradouras.",
+      "A União de Kalmar e sua dissolução lançaram as bases dos futuros Estados da Dinamarca, da Noruega e da Suécia, cujos laços estreitos ainda se mostram hoje na cooperação nórdica."
+    ],
+    "tags": [
+      "vikings",
+      "escandinávia",
+      "normandos",
+      "drakkar",
+      "islândia",
+      "sagas",
+      "liga hanseática",
+      "união de kalmar"
+    ],
+    "keyFacts": [
+      "Em 793, vikings atacam o mosteiro de Lindisfarne; em 845, saqueiam Paris.",
+      "Em 865, o Grande Exército Pagão desembarca na Inglaterra; após a vitória de Alfredo em Edington, em 878, forma-se o Danelaw.",
+      "Em 911, Rollo recebe de Carlos, o Simples, as terras em torno de Rouen, o núcleo da Normandia.",
+      "Em 930, o Althing reúne-se pela primeira vez na Islândia; por volta de 1000, a ilha adota o cristianismo.",
+      "Por volta de 985, Érico, o Vermelho, coloniza a Groenlândia; por volta de 1000, Leif Eriksson chega à Vinlândia, na América do Norte.",
+      "Em 1016, Canuto, o Grande, torna-se rei da Inglaterra; em 1066, Haroldo Hardrada cai em Stamford Bridge.",
+      "Em 1370, a Liga Hanseática garante seus privilégios na Paz de Stralsund; em 1397, forma-se a União de Kalmar sob Margarida I."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Poder e política",
+        "paragraphs": [
+          "No início da Era Viking, a Escandinávia tinha muitos pequenos reis, jarls e chefes cujo poder se baseava em seguidores, terras e saques. Um líder precisava prender seus guerreiros a si com presentes, banquetes e partes do butim; quem tinha sucesso atraía mais homens. Decisões importantes eram tomadas no thing, a assembleia dos homens livres, que fazia justiça, resolvia disputas e reconhecia reis. Na Islândia, que não tinha rei, o Althing tornou-se a autoridade máxima da ilha a partir de 930.",
+          "A partir do século X, famílias reais se firmaram na Dinamarca, na Noruega e na Suécia, unificaram o território e promoveram o cristianismo. Haroldo Dente-Azul mandou construir fortalezas circulares e pontes na Dinamarca, Canuto, o Grande, governou por algum tempo a Inglaterra, a Dinamarca e a Noruega, e na Noruega Olavo Haraldsson foi venerado após sua morte, em 1030, como o rei eterno do país. Ainda assim, as disputas pelo trono continuaram frequentes, sobretudo na Noruega, onde longas guerras civis devastaram o país no século XII.",
+          "Na Baixa Idade Média e no fim da Idade Média, os reis, com a ajuda da Igreja, ampliaram a administração, as leis e os impostos e disputaram o poder com a nobreza. A Islândia e a Groenlândia submeteram-se ao rei norueguês entre 1261 e 1264. Por meio de casamentos e heranças, as casas reais foram se entrelaçando, até que em 1397 Margarida I uniu os três reinos na União de Kalmar sob seu sobrinho-neto Érico da Pomerânia; a união desfez-se definitivamente em 1523, quando a Suécia saiu sob Gustavo Vasa."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Sociedade e vida cotidiana",
+        "paragraphs": [
+          "A maioria das pessoas no Norte era camponesa: cultivava cereais, criava gado, pescava e caçava em sítios isolados ou em pequenas aldeias. A sociedade dividia-se, grosso modo, em chefes e nobres, camponeses livres, que tinham direito de portar armas e participar do thing, e os não livres, os thralls. Os escravos eram um prêmio importante dos ataques vikings e eram vendidos em mercados como Hedeby, Dublin ou no Volga. A família e a honra importavam muito; as disputas eram muitas vezes resolvidas com indenizações, mas também podiam se transformar em longas vinganças de sangue.",
+          "As mulheres administravam a economia doméstica, guardavam as chaves como sinal de seu status e podiam possuir bens, herdar e se divorciar. Túmulos ricos, como o enterro no navio de Oseberg, na Noruega, mostram a posição elevada de algumas mulheres. Até que ponto as próprias mulheres participavam dos ataques é debatido; a análise de DNA de um túmulo de guerreiro ricamente equipado em Birka reacendeu a discussão. A maioria dos escandinavos nunca saiu de sua terra, mas dezenas de milhares emigraram para a Inglaterra, a Irlanda, a Islândia ou a Normandia."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Cultura, religião e saber",
+        "paragraphs": [
+          "Antes da cristianização, os escandinavos adoravam muitos deuses, como Odin, Thor, Freyr e Freyja, faziam sacrifícios e enterravam os mortos com oferendas funerárias, às vezes em navios. O que sabemos desse mundo dos deuses vem sobretudo de fontes cristãs do século XIII, principalmente da Edda, e por isso deve ser lido com cautela. Escrevia-se com runas, cujo alfabeto mais recente tinha 16 sinais; milhares de pedras rúnicas lembram os mortos e viagens à Inglaterra ou ao Oriente.",
+          "A cristianização levou cerca de três séculos. Depois de missões iniciais, como a de Ansgar em Birka por volta de 830, os reis converteram-se nos séculos X e XI e impuseram a fé de cima para baixo. Em 1103 ou 1104, Lund recebeu um arcebispado próprio para o Norte, seguido mais tarde por Nidaros (Trondheim) e Uppsala. A Igreja trouxe o alfabeto latino, mosteiros e escolas; na Islândia, surgiu no século XIII uma literatura única em língua vernácula, incluindo as sagas dos islandeses e as histórias dos reis de Snorri Sturluson."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Economia e técnica",
+        "paragraphs": [
+          "A base de seu sucesso era o drakkar: um barco estreito, de tábuas sobrepostas, com quilha, vela quadrada e remos, capaz de cruzar o mar aberto e, graças ao calado raso, penetrar fundo pelos rios. Ao lado dele havia navios de carga mais largos, como o knarr, nos quais os colonos levavam gado e provisões para a Islândia e a Groenlândia. Achados como os navios de Oseberg e Gokstad ou os navios de Skuldelev, do fiorde de Roskilde, mostram a habilidade dos construtores navais da época.",
+          "Os vikings não eram apenas saqueadores, mas também comerciantes. Mercados como Hedeby, Birka e Kaupang ligavam a Europa ocidental ao Oriente; por eles, peles, âmbar, marfim de morsa e escravos eram trocados por prata, seda e vinho. Dezenas de milhares de moedas de prata árabes em tesouros enterrados, sobretudo em Gotland, atestam o comércio com o Califado. A prata era muitas vezes negociada pelo peso e, para isso, cortada em pedaços; além disso, governantes ingleses e francos pagavam grandes tributos, o Danegeld.",
+          "Na Baixa Idade Média e no fim da Idade Média, a Liga Hanseática alemã, com suas cocas, assumiu o comércio de longa distância no Báltico. Visby, em Gotland, foi um dos primeiros centros, os mercadores hanseáticos mantinham um entreposto em Bergen para o comércio de bacalhau seco, e a pesca de arenque na costa da Escânia era um dos negócios mais importantes da região. A dependência do comércio hanseático levou a conflitos com os reis nórdicos, sobretudo com Valdemar IV da Dinamarca."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "russland-osteuropa",
+    "title": "A Rússia e o Leste Europeu",
+    "order": 14,
+    "start": 862,
+    "end": 1917,
+    "color": "#1d4ed8",
+    "regions": [
+      "europa",
+      "asien"
+    ],
+    "summary": "Da Rus de Quieve, passando pela Horda Dourada, pela ascensão de Moscou e pela república dupla da Polônia-Lituânia, até o império czarista dos Romanov, Estados eslavos orientais, bálticos e poloneses marcaram o leste da Europa por mais de mil anos, até que a Revolução de Fevereiro de 1917 pôs fim à monarquia.",
+    "overview": [
+      "No século IX, a Rus de Quieve formou-se ao longo dos rios entre o Báltico e o mar Negro. Segundo a tradição da Crônica de Nestor, o varegue Rurik foi convidado a Novgorod em 862; seu seguidor Oleg fez de Kiev, por volta de 882, o centro de um reino frouxo de guerreiros escandinavos e tribos eslavas que vivia do comércio com Bizâncio. A princesa Olga foi batizada em Constantinopla, seu neto Vladimir tornou o cristianismo ortodoxo a religião da Rus em 988, e sob Iaroslau, o Sábio, Kiev floresceu com a Catedral de Santa Sofia e o código de leis conhecido como Russkaya Pravda. A Rus é considerada a raiz comum da Ucrânia, da Rússia e da Belarus.",
+      "Após a morte de Iaroslau em 1054, a Rus dividiu-se em principados rivais, como Vladimir-Suzdal, Galícia-Volínia e a república urbana de Novgorod. Entre 1237 e 1240, os mongóis sob Batu conquistaram a maioria deles e destruíram Kiev; os príncipes tiveram de pagar tributo à Horda Dourada, no Volga, e obter do cã a confirmação de seu governo. Novgorod foi poupada, e seu príncipe Alexandre Nevski repeliu os suecos em 1240 e a Ordem Livônia em 1242. No século XIV, as terras ocidentais da Rus passaram ao ascendente Grão-Ducado da Lituânia e à Polônia.",
+      "Moscou, um lugar insignificante no século XIII, tornou-se sob Ivã I Kalita a sede do metropolita e a coletora de impostos da Horda. Dmitri Donskoi derrotou um exército da Horda no campo de Kulikovo em 1380, e Ivã III submeteu Novgorod, pôs fim à dependência dos tártaros após o Grande Confronto no rio Ugra em 1480 e intitulou-se soberano de toda a Rus. No oeste, a Polônia e a Lituânia uniram-se na União de Krewo em 1385, derrotaram a Ordem Teutônica em Grunwald em 1410 e, em 1569, fundiram-se pela União de Lublin na República das Duas Nações, um Estado da nobreza com rei eletivo.",
+      "Ivã IV foi coroado czar em 1547, conquistou Kazan e Astracã e espalhou o terror em seu próprio país com a oprichnina. Depois da extinção de sua dinastia, fome, lutas pelo trono e exércitos estrangeiros mergulharam o reino no Tempo das Dificuldades, até que uma assembleia da terra elegeu Miguel Romanov em 1613. Os cossacos da Ucrânia rebelaram-se contra a Polônia-Lituânia sob Bohdan Khmelnytsky em 1648 e colocaram-se sob a proteção do czar em 1654. Pedro, o Grande, derrotou a Suécia em Poltava em 1709, fundou São Petersburgo e reorganizou o Estado e o exército segundo modelos ocidentais; Catarina, a Grande, conquistou a Crimeia e, junto com a Prússia e a Áustria, partilhou entre 1772 e 1795 a Polônia-Lituânia, que desapareceu do mapa apesar da Constituição de 3 de maio de 1791.",
+      "No século XIX, o império czarista estendia-se da Polônia ao Pacífico e, por algum tempo, até o Alasca. Na revolta dezembrista de 1825, oficiais exigiram uma constituição, a Polônia rebelou-se em vão em 1830 e 1863, e a derrota na Guerra da Crimeia levou à abolição da servidão sob Alexandre II em 1861. A indústria e as ferrovias cresceram, enquanto o Estado intensificava a russificação de poloneses, ucranianos, lituanos e bielorrussos e a discriminação contra os judeus. A Revolução de 1905 forçou a criação de um parlamento, a Duma; na Primeira Guerra Mundial, a monarquia perdeu seu apoio, e em março de 1917 Nicolau II abdicou."
+    ],
+    "consequences": [
+      "Ucranianos, russos e bielorrussos remontam sua história à Rus de Quieve; a quem pertence esse legado continua sendo até hoje uma questão politicamente disputada.",
+      "O cristianismo ortodoxo, o alfabeto cirílico e a arquitetura religiosa vinda de Bizâncio marcam até hoje a cultura dos países eslavos orientais.",
+      "A experiência das partilhas e das revoltas fez da Constituição de 3 de maio de 1791 e da luta pela liberdade pilares da identidade nacional polonesa e lituana.",
+      "A expansão pela Sibéria até o Pacífico criou o maior Estado da Terra e um império multiétnico cujas fronteiras e questões de minorias ainda têm efeitos hoje.",
+      "A abolição tardia da servidão e a pobreza rural pesaram sobre a Rússia até o século XX e prepararam o terreno para as revoluções de 1905 e 1917.",
+      "A literatura, a música e a pintura do século XIX, de Púchkin e Chevtchenko a Tolstói e Tchaikovsky, tornaram-se parte duradoura da cultura mundial."
+    ],
+    "tags": [
+      "rus de quieve",
+      "rússia czarista",
+      "polônia-lituânia",
+      "ucrânia",
+      "moscou",
+      "ortodoxia",
+      "servidão",
+      "mongóis"
+    ],
+    "keyFacts": [
+      "Em 862, segundo a Crônica de Nestor, o varegue Rurik é convidado a Novgorod; por volta de 882, Oleg faz de Kiev o centro da Rus.",
+      "Em 988, o grão-príncipe Vladimir é batizado; sob Iaroslau, o Sábio (1019–1054), é compilada a Russkaya Pravda.",
+      "Em 1237–1240, os mongóis conquistam a Rus e destroem Kiev; em 1380, Dmitri Donskoi vence no campo de Kulikovo.",
+      "Em 1480, o Grande Confronto no rio Ugra põe fim ao domínio da Horda Dourada sobre Moscou; em 1547, Ivã IV é coroado czar.",
+      "Em 1569, a Polônia e a Lituânia unem-se na União de Lublin; em 1613, uma assembleia da terra elege Miguel Romanov czar.",
+      "Em 1648, os cossacos rebelam-se sob Khmelnytsky; em 1703, Pedro, o Grande, funda São Petersburgo e, em 1709, vence em Poltava.",
+      "Em 1772–1795, a Polônia-Lituânia é partilhada três vezes; em 1861, Alexandre II abole a servidão, e em março de 1917 Nicolau II abdica."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Poder e política",
+        "paragraphs": [
+          "A Rus de Quieve não era um Estado de fronteiras fixas, mas uma federação de principados governados por membros da dinastia ruríquida. O grão-príncipe de Kiev estava no topo, mas a sucessão por antiguidade, em que irmãos e sobrinhos avançavam por idade, levava sempre de novo a guerras entre irmãos. Além dos príncipes, seu séquito, a druzhina, e os boiardos tinham grande peso; em Novgorod, a assembleia popular, o veche, chegava a eleger o prefeito e o arcebispo e a destituir príncipes.",
+          "Sob o domínio da Horda Dourada, os príncipes russos permaneceram no cargo, mas tinham de pagar tributo e obter do cã a confirmação de sua posição por meio de uma carta, o iarlik. Moscou ascendeu porque seus príncipes cooperavam com a Horda, adquiriam terras por compra e por casamento e atraíam a Igreja para o seu lado. Ivã III e Ivã IV transformaram isso em autocracia: o czar reivindicava um poder ilimitado concedido por Deus, assembleias da terra como o Zemsky Sobor só o aconselhavam ocasionalmente, e a nobreza de serviço recebia terras em troca de serviço militar.",
+          "A Polônia-Lituânia tinha uma constituição bem diferente. Na República das Duas Nações, a nobreza, a szlachta, elegia o rei a partir de 1573 e o vinculava por meio de contratos; o parlamento, o Sejm, podia ser paralisado pela objeção de um único deputado, o liberum veto. Na Rússia, Pedro, o Grande, substituiu a duma dos boiardos por um Senado e colégios especializados e subordinou a Igreja a um Sínodo estatal; após as partilhas da Polônia, o czar passou a governar também milhões de poloneses, lituanos, bielorrussos e ucranianos. Só a Revolução de 1905 o obrigou a admitir uma Duma eleita, cujos poderes ele, no entanto, manteve estreitamente limitados."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Sociedade e vida cotidiana",
+        "paragraphs": [
+          "A grande maioria das pessoas vivia como camponeses em pequenas aldeias de casas de madeira, cultivando centeio, aveia e linho em solos pobres e suportando longos invernos. Na Rússia, os camponeses foram gradualmente presos à terra a partir do fim do século XVI; o código de leis de 1649 tornou a servidão hereditária. Os servos podiam ser vendidos, hipotecados e entregues para o serviço militar, e no século XVIII os nobres muitas vezes possuíam centenas ou milhares deles. Muitas aldeias administravam terras e obrigações em conjunto na comuna aldeã, o mir.",
+          "A partir do século XV, camponeses e aventureiros fugiram para as vastas estepes do sul e formaram as comunidades cossacas no Dniepre, no Don e no Iaik. Elegiam seus próprios chefes, serviam a reis poloneses e a czares como guardas de fronteira, mas também se rebelaram em grandes revoltas, como as de Khmelnytsky, Stenka Razin e Pugachev. A Polônia-Lituânia era uma república multiétnica em que viviam poloneses, lituanos, rutenos, alemães, armênios, tártaros e a maior comunidade judaica da Europa; a nobreza representava, segundo estimativas, de seis a dez por cento da população, uma parcela incomumente grande.",
+          "Após as partilhas da Polônia, os judeus do império czarista só podiam viver em uma Zona de Assentamento no oeste, e depois do assassinato de Alexandre II em 1881 pogroms abalaram as comunidades, e milhões emigraram para a América. A abolição da servidão em 1861 tornou os camponeses pessoalmente livres, mas os onerou com pesados pagamentos de resgate. Com a industrialização no fim do século XIX, cresceram bairros operários em São Petersburgo, Moscou, Łódź e na bacia do Donets, onde longas jornadas de trabalho, moradias apertadas e greves marcavam o cotidiano."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Cultura, religião e saber",
+        "paragraphs": [
+          "Com o batismo de Vladimir em 988, chegaram de Bizâncio à Rus sacerdotes, ícones, a arquitetura religiosa e o alfabeto cirílico. Mosteiros como o Mosteiro das Grutas de Kiev tornaram-se centros de saber onde monges escreviam crônicas como a Crônica de Nestor. Após a queda de Constantinopla em 1453, a Igreja de Moscou passou a se ver como guardiã da verdadeira fé, e no século XVI um monge formulou a ideia de Moscou como a \"Terceira Roma\". No século XVII, as reformas do patriarca Nikon dividiram a Igreja, e os Velhos Crentes foram perseguidos durante gerações.",
+          "Na parte ocidental da região, o catolicismo e a Reforma marcaram a vida intelectual. A Universidade de Cracóvia, fundada em 1364 e refundada em 1400, tornou-se um centro de estudos onde também estudou Nicolau Copérnico. Francysk Skaryna, de Polotsk, imprimiu em Praga, em 1517, livros bíblicos em uma língua literária eslava oriental, e em 1596 a União de Brest colocou parte da Igreja Ortodoxa da Polônia-Lituânia sob a autoridade do papa. Centros de ensino como a Academia Mohyla de Kiev combinavam a tradição ortodoxa com a formação ocidental.",
+          "Pedro, o Grande, mandou imprimir livros em uma escrita simplificada e fundou a Academia de Ciências em São Petersburgo, onde trabalharam estudiosos como Mikhail Lomonosov. No século XIX, Alexandre Púchkin, Liev Tolstói e Fiódor Dostoiévski criaram uma literatura de nível mundial, e compositores como Mikhail Glinka e Piotr Tchaikovsky, uma linguagem musical própria. Ao mesmo tempo, poetas como Adam Mickiewicz e Taras Chevtchenko moldaram a consciência nacional de poloneses, lituanos e ucranianos, muitas vezes contra a censura e a política de russificação do império czarista."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Economia e técnica",
+        "paragraphs": [
+          "A Rus de Quieve devia sua riqueza ao comércio pela rota fluvial \"dos varegues aos gregos\", pelo Dniepre e pelo mar Negro: peles, cera, mel e escravos iam para Bizâncio e para o mundo islâmico, enquanto seda, vinho e prata voltavam. Novgorod comerciava com a Liga Hanseática, que mantinha ali um entreposto, e fornecia peles e cera ao Ocidente. O domínio mongol destruiu muitas cidades e ofícios e onerou o país com tributos durante séculos.",
+          "Nos séculos XVI e XVII, a Polônia-Lituânia tornou-se o celeiro da Europa: os nobres mandavam camponeses dependentes cultivar cereais em suas propriedades e os enviavam pelo Vístula até Gdańsk e, de lá, para os Países Baixos. O império czarista vivia da agricultura, do comércio de peles da Sibéria e, mais tarde, do ferro das siderúrgicas dos Urais, que Pedro, o Grande, ampliou para sua frota e seu exército. No século XVIII, a Rússia era um dos maiores produtores de ferro do mundo, mas grande parte do trabalho dependia de camponeses designados à força para essa tarefa.",
+          "Depois de 1861, e sobretudo a partir da década de 1890, a Rússia recuperou o atraso na industrialização com capital estrangeiro e apoio estatal sob o ministro das Finanças Serguei Witte. O carvão e o ferro da bacia do Donets, o petróleo de Baku e as fábricas têxteis de Moscou e Łódź cresceram rapidamente, e a Ferrovia Transiberiana ligou Moscou ao Pacífico. Ainda assim, o império continuou predominantemente agrário, e as colheitas dos camponeses ficaram bem abaixo das da Europa Ocidental."
+        ]
+      }
+    ]
+  },
+  {
     "id": "asiatische-grossreiche",
     "title": "Grandes impérios asiáticos (1200–1800)",
-    "order": 10,
+    "order": 15,
     "start": 1200,
     "end": 1800,
     "color": "#be185d",
@@ -864,7 +1286,7 @@
   {
     "id": "osmanisches-reich",
     "title": "O Império Otomano",
-    "order": 11,
+    "order": 16,
     "start": 1299,
     "end": 1922,
     "color": "#c2410c",
@@ -949,7 +1371,7 @@
   {
     "id": "renaissance-entdeckungen",
     "title": "Renascimento, Descobrimentos e Reforma",
-    "order": 12,
+    "order": 17,
     "start": 1400,
     "end": 1600,
     "color": "#f59e0b",
@@ -1035,7 +1457,7 @@
   {
     "id": "lateinamerika",
     "title": "América Latina: época colonial e independência",
-    "order": 13,
+    "order": 18,
     "start": 1492,
     "end": 1910,
     "color": "#65a30d",
@@ -1121,7 +1543,7 @@
   {
     "id": "absolutismus-aufklaerung",
     "title": "Absolutismo e Iluminismo",
-    "order": 14,
+    "order": 19,
     "start": 1600,
     "end": 1789,
     "color": "#6366f1",
@@ -1205,7 +1627,7 @@
   {
     "id": "revolutionen",
     "title": "A era das revoluções",
-    "order": 15,
+    "order": 20,
     "start": 1776,
     "end": 1848,
     "color": "#ef4444",
@@ -1288,7 +1710,7 @@
   {
     "id": "industrialisierung-imperialismus",
     "title": "Industrialização, Estados nacionais e imperialismo",
-    "order": 16,
+    "order": 21,
     "start": 1780,
     "end": 1914,
     "color": "#475569",
@@ -1373,7 +1795,7 @@
   {
     "id": "erster-weltkrieg-zwischenkriegszeit",
     "title": "Primeira Guerra Mundial e Entreguerras",
-    "order": 17,
+    "order": 22,
     "start": 1914,
     "end": 1939,
     "color": "#b45309",
@@ -1459,7 +1881,7 @@
   {
     "id": "zweiter-weltkrieg",
     "title": "Segunda Guerra Mundial e Holocausto",
-    "order": 18,
+    "order": 23,
     "start": 1933,
     "end": 1945,
     "color": "#7f1d1d",
@@ -1545,7 +1967,7 @@
   {
     "id": "kalter-krieg-gegenwart",
     "title": "Guerra Fria e descolonização",
-    "order": 19,
+    "order": 24,
     "start": 1945,
     "end": 1991,
     "color": "#2563eb",
@@ -1632,7 +2054,7 @@
   {
     "id": "gegenwart",
     "title": "Um mundo globalizado: de 1991 aos dias de hoje",
-    "order": 20,
+    "order": 25,
     "start": 1991,
     "end": 2026,
     "color": "#0891b2",

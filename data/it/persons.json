@@ -39,7 +39,7 @@
     "born": 1672,
     "died": 1725,
     "approx": false,
-    "epochId": "absolutismus-aufklaerung",
+    "epochId": "russland-osteuropa",
     "regionId": "europa",
     "role": "Zar e primo imperatore di Russia",
     "summary": "Lo zar riformatore che modernizzò con la forza la Russia secondo il modello occidentale.",
@@ -1404,7 +1404,7 @@
     "born": 1729,
     "died": 1796,
     "approx": false,
-    "epochId": "absolutismus-aufklaerung",
+    "epochId": "russland-osteuropa",
     "regionId": "europa",
     "role": "Imperatrice di Russia",
     "summary": "La principessa tedesca che con un colpo di Stato divenne zarina, ingrandì la Russia e si presentò come sovrana illuminata.",
@@ -2342,7 +2342,7 @@
     "born": 482,
     "died": 565,
     "approx": true,
-    "epochId": "mittelalter",
+    "epochId": "byzanz",
     "regionId": "europa",
     "role": "Imperatore romano d'Oriente",
     "summary": "L'imperatore bizantino che codificò il diritto romano, costruì Santa Sofia e tentò di riconquistare l'Occidente.",
@@ -2360,7 +2360,7 @@
     "born": 500,
     "died": 548,
     "approx": true,
-    "epochId": "mittelalter",
+    "epochId": "byzanz",
     "regionId": "europa",
     "role": "Imperatrice romana d'Oriente",
     "summary": "L'attrice che salì a donna più potente di Bisanzio e rafforzò i diritti delle donne.",
@@ -4521,6 +4521,1208 @@
       "donne",
       "letteratura",
       "istruzione"
+    ]
+  },
+  {
+    "id": "tupaia",
+    "name": "Tupaia",
+    "born": 1725,
+    "died": 1770,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Sacerdote e navigatore di Raʻiātea",
+    "summary": "Lo studioso polinesiano che accompagnò James Cook e la cui carta documentò le conoscenze geografiche dei Polinesiani.",
+    "text": "Tupaia era un sacerdote di alto rango del dio ʻOro a Raʻiātea che, dopo un attacco da Bora Bora, fuggì a Tahiti e divenne consigliere dei capi locali. Nel 1769 si unì all'Endeavour di James Cook e disegnò una carta di circa 70 isole che mostra le vaste conoscenze dei navigatori polinesiani. In Nuova Zelanda riuscì a comunicare con i Māori perché le loro lingue erano strettamente imparentate, e fece da mediatore negli incontri. Morì di malattia a Batavia alla fine del 1770.",
+    "tags": [
+      "navigazione",
+      "polinesiani",
+      "cook"
+    ]
+  },
+  {
+    "id": "abel-tasman",
+    "name": "Abel Tasman",
+    "born": 1603,
+    "died": 1659,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "europa",
+    "role": "Navigatore olandese",
+    "summary": "Il capitano della Compagnia delle Indie orientali che fu il primo europeo conosciuto a raggiungere la Tasmania, la Nuova Zelanda e le Figi, e che visitò anche Tonga.",
+    "text": "Tasman era originario di Lutjegast, nella provincia di Groninga, ed entrò al servizio della Compagnia olandese delle Indie orientali a Batavia. Nel viaggio del 1642/43 avvistò la Terra di Van Diemen, l'odierna Tasmania, e la costa occidentale della Nuova Zelanda; in una baia all'estremità settentrionale dell'Isola del Sud uno scontro sanguinoso con i Māori impedì lo sbarco. Visitò poi Tonga e le Figi. Nel 1644 esplorò la costa settentrionale dell'Australia. Poiché i suoi viaggi non portarono occasioni commerciali redditizie, la Compagnia li considerò un fallimento; oggi la Tasmania e il Mar di Tasman portano il suo nome. Morì a Batavia nel 1659.",
+    "tags": [
+      "esplorazione",
+      "paesi bassi",
+      "navigazione"
+    ]
+  },
+  {
+    "id": "james-cook",
+    "name": "James Cook",
+    "born": 1728,
+    "died": 1779,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "europa",
+    "role": "Navigatore e cartografo britannico",
+    "summary": "Il capitano che in tre viaggi cartografò gran parte del Pacifico, aprendo la strada alla colonizzazione britannica dell'Australia.",
+    "text": "Cook nacque nello Yorkshire, imparò il mestiere del mare sulle navi carboniere e divenne noto come cartografo della Royal Navy a Terranova. Tra il 1768 e il 1779 guidò tre viaggi nel Pacifico durante i quali circumnavigò la Nuova Zelanda, cartografò la costa orientale dell'Australia e visitò molte isole. Il 14 febbraio 1779 fu ucciso nella baia di Kealakekua, alle Hawaiʻi, durante un alterco con la popolazione locale. In Gran Bretagna fu a lungo celebrato come eroe della scienza; per molte persone in Australia e nel Pacifico il suo nome rappresenta oggi l'inizio della colonizzazione.",
+    "tags": [
+      "esplorazione",
+      "gran bretagna",
+      "navigazione"
+    ]
+  },
+  {
+    "id": "arthur-phillip",
+    "name": "Arthur Phillip",
+    "born": 1738,
+    "died": 1814,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Primo governatore del Nuovo Galles del Sud",
+    "summary": "L'ufficiale di marina che guidò la First Fleet in Australia e costruì la colonia penale di Sydney.",
+    "text": "Phillip, esperto ufficiale della Royal Navy, guidò in Australia nel 1787/88 le undici navi della First Fleet e nel gennaio 1788 fondò la colonia a Sydney Cove. Nei primi anni l'insediamento lottò contro la fame finché non arrivarono i rifornimenti. Phillip cercò un rapporto pacifico con gli Eora, ma fece catturare uomini come Arabanoo e Bennelong per imparare la loro lingua; quando nel 1790 fu ferito da una lancia a Manly, proibì le rappresaglie. Nel 1792 tornò in Inghilterra in cattive condizioni di salute e vi morì nel 1814.",
+    "tags": [
+      "australia",
+      "colonialismo",
+      "governatore"
+    ]
+  },
+  {
+    "id": "bennelong",
+    "name": "Bennelong",
+    "born": 1764,
+    "died": 1813,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Uomo wangal e intermediario nella prima colonia",
+    "summary": "L'aborigeno che fece da mediatore tra gli Eora e i coloni britannici e si recò in Inghilterra con Arthur Phillip.",
+    "text": "Bennelong apparteneva ai Wangal, un gruppo eora della baia di Sydney. Nel novembre 1789 il governatore Phillip lo fece catturare; dopo essere fuggito l'anno seguente, Bennelong cercò il contatto di sua iniziativa e divenne un importante intermediario, per il quale fu costruita una capanna sulla baia nel luogo oggi chiamato Bennelong Point, dove sorge l'Opera House. Nel 1792 si recò con Phillip in Inghilterra e tornò nel 1795. Visse poi di nuovo tra la sua gente e morì nel 1813.",
+    "tags": [
+      "aborigeni australiani",
+      "sydney",
+      "intermediario"
+    ]
+  },
+  {
+    "id": "pemulwuy",
+    "name": "Pemulwuy",
+    "born": 1750,
+    "died": 1802,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Capo della resistenza bidjigal",
+    "summary": "L'uomo bidjigal che per oltre un decennio guidò la resistenza armata aborigena contro la colonia di Sydney.",
+    "text": "Pemulwuy apparteneva ai Bidjigal, nella zona degli odierni sobborghi occidentali di Sydney. Nel 1790 ferì mortalmente con una lancia il guardiacaccia del governatore e dal 1792 guidò incursioni contro fattorie e bestiame nei pressi di Parramatta e sul fiume Hawkesbury. Nel 1797 fu gravemente ferito e catturato durante combattimenti a Parramatta, ma riuscì a fuggire. Il governatore King lo fece dichiarare fuorilegge nel 1801; nel 1802 fu ucciso a colpi d'arma da fuoco e la sua testa fu inviata a Joseph Banks in Inghilterra. Oggi è considerato un simbolo della resistenza aborigena.",
+    "tags": [
+      "aborigeni australiani",
+      "resistenza",
+      "sydney"
+    ]
+  },
+  {
+    "id": "kamehameha-i",
+    "name": "Kamehameha I",
+    "born": 1758,
+    "died": 1819,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Fondatore del regno delle Hawaiʻi",
+    "summary": "Il capo che con lunghe guerre unì le isole Hawaii in un regno.",
+    "text": "Kamehameha proveniva dal nord dell'isola di Hawaiʻi; il suo anno di nascita è incerto e viene di solito indicato intorno al 1758. Da giovane guerriero fu testimone della visita di James Cook e in seguito si servì di armi e consiglieri europei come i marinai John Young e Isaac Davis. Dopo la vittoria di Nuʻuanu nel 1795 dominò la maggior parte delle isole, e nel 1810 si sottomise anche Kauaʻi. Promosse il commercio del legno di sandalo, ma conservò l'antica religione e il sistema kapu. Dopo la sua morte nel 1819 gli succedette il figlio Liholiho come Kamehameha II.",
+    "tags": [
+      "hawaii",
+      "re",
+      "fondatore"
+    ]
+  },
+  {
+    "id": "kaahumanu",
+    "name": "Kaʻahumanu",
+    "born": 1768,
+    "died": 1832,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Coreggente (kuhina nui) del regno delle Hawaiʻi",
+    "summary": "La moglie più influente di Kamehameha I, che dopo la sua morte abolì il sistema kapu e favorì il cristianesimo.",
+    "text": "Kaʻahumanu proveniva da una famiglia di capi di Maui e divenne la moglie più influente di Kamehameha I. Dopo la sua morte nel 1819 annunciò che egli l'aveva nominata coreggente, e come kuhina nui esercitò un grande potere accanto ai giovani re Kamehameha II e III. Nello stesso anno ottenne l'abolizione del sistema kapu. In seguito si avvicinò ai missionari americani, fu battezzata nel 1825 ed emanò leggi basate su principi cristiani. Morì a Honolulu nel 1832.",
+    "tags": [
+      "hawaii",
+      "donne",
+      "reggente"
+    ]
+  },
+  {
+    "id": "liliuokalani",
+    "name": "Liliʻuokalani",
+    "born": 1838,
+    "died": 1917,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Ultima regina delle Hawaiʻi",
+    "summary": "La regina che nel 1893 fu rovesciata da uomini d'affari americani e si oppose all'annessione delle Hawaiʻi da parte degli Stati Uniti.",
+    "text": "Liliʻuokalani succedette al fratello Kalākaua sul trono nel 1891. Cercò di sostituire con una nuova la costituzione del 1887, che aveva ridotto il potere della corona e tolto il diritto di voto a molti hawaiani. Uomini d'affari americani la rovesciarono allora nel gennaio 1893 con l'appoggio dei marines statunitensi. Dopo una rivolta fallita dei suoi sostenitori, nel 1895 fu confinata nel palazzo e costretta ad abdicare. Continuò a lottare contro l'annessione, scrisse le sue memorie e molte canzoni, tra cui «Aloha ʻOe», e morì a Honolulu nel 1917.",
+    "tags": [
+      "hawaii",
+      "regina",
+      "donne"
+    ]
+  },
+  {
+    "id": "hongi-hika",
+    "name": "Hongi Hika",
+    "born": 1772,
+    "died": 1828,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Capo guerriero dei Ngāpuhi",
+    "summary": "Il capo māori che protesse i missionari, si recò in Inghilterra e guidò le campagne più devastanti delle guerre dei moschetti.",
+    "text": "Hongi Hika era un rangatira dei Ngāpuhi nella Nuova Zelanda settentrionale. Nel 1814 sostenne la fondazione della prima stazione missionaria e nel 1820 si recò con il missionario Thomas Kendall in Inghilterra, dove a Cambridge contribuì alla redazione di una grammatica della lingua māori e incontrò il re Giorgio IV. Nel viaggio di ritorno acquistò a Sydney grandi quantità di moschetti. Dal 1821 guidò grandi campagne contro le tribù delle regioni intorno ad Auckland, Rotorua e al Waikato. Nel 1827 fu ferito in battaglia e morì nel 1828.",
+    "tags": [
+      "maori",
+      "nuova zelanda",
+      "guerra"
+    ]
+  },
+  {
+    "id": "william-hobson",
+    "name": "William Hobson",
+    "born": 1792,
+    "died": 1842,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Primo governatore della Nuova Zelanda",
+    "summary": "L'ufficiale di marina britannico che nel 1840 negoziò il Trattato di Waitangi e divenne il primo governatore della colonia della Nuova Zelanda.",
+    "text": "Hobson era originario di Waterford, in Irlanda, e prestò servizio nella Royal Navy. Nel 1837 visitò la Nuova Zelanda e raccomandò misure per proteggere gli interessi britannici; nel 1839 ricevette l'incarico di ottenere il consenso dei capi māori al dominio britannico. Fece redigere il Trattato di Waitangi, firmato il 6 febbraio 1840, e nel maggio 1840 proclamò la sovranità britannica su tutta la Nuova Zelanda. Scelse Auckland come capitale e nel 1841 divenne governatore della nuova colonia. Morì nel 1842 dopo diversi ictus.",
+    "tags": [
+      "nuova zelanda",
+      "governatore",
+      "colonialismo"
+    ]
+  },
+  {
+    "id": "george-tupou-i",
+    "name": "Giorgio Tupou I",
+    "born": 1797,
+    "died": 1893,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Re di Tonga",
+    "summary": "Il sovrano che unificò Tonga, le diede una costituzione e la preservò dalla colonizzazione.",
+    "text": "Tāufaʻāhau era un capo di Haʻapai che nel 1831 fu battezzato da missionari metodisti e prese il nome di George. Si impose nelle guerre civili e nel 1845 divenne sovrano di tutta Tonga come Tuʻi Kanokupolu; l'ultimo Tuʻi Tonga perse la sua posizione. Con codici di leggi, l'emancipazione dei popolani nel 1862 e la costituzione del 1875 creò uno Stato moderno, consigliato dal controverso missionario Shirley Baker. Regnò per quasi cinque decenni e morì nel 1893 in età molto avanzata.",
+    "tags": [
+      "tonga",
+      "re",
+      "costituzione"
+    ]
+  },
+  {
+    "id": "edmund-barton",
+    "name": "Edmund Barton",
+    "born": 1849,
+    "died": 1920,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "role": "Primo primo ministro dell'Australia",
+    "summary": "L'avvocato e politico di Sydney che fu uno dei principali sostenitori della federazione e nel 1901 divenne il primo primo ministro.",
+    "text": "Barton nacque a Sydney, studiò giurisprudenza e sedette nel parlamento del Nuovo Galles del Sud. Negli anni '90 dell'Ottocento si batté instancabilmente per l'unione delle colonie e diresse i lavori sul progetto di costituzione. Il 1º gennaio 1901 divenne il primo primo ministro del Commonwealth d'Australia; tra le altre misure, il suo governo approvò l'Immigration Restriction Act. Nel 1903 passò come giudice alla nuova Alta Corte d'Australia, dove rimase fino alla morte nel 1920.",
+    "tags": [
+      "australia",
+      "federazione",
+      "primo ministro"
+    ]
+  },
+  {
+    "id": "belisar",
+    "name": "Belisario",
+    "born": 500,
+    "died": 565,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Generale di Giustiniano",
+    "summary": "Il generale di maggior successo di Giustiniano, che riconquistò all'impero il Nordafrica e gran parte dell'Italia.",
+    "text": "Belisario proveniva dai Balcani e fece carriera da giovane ufficiale nella guardia del corpo di Giustiniano. Combatté contro i Persiani, contribuì a reprimere la rivolta di Nika nel 532, conquistò il regno dei Vandali nel 533/534 e dal 535 gran parte dell'Italia, comprese Roma e Ravenna. Poiché l'imperatore temeva la sua fama, fu richiamato più volte; nel 559 salvò ancora una volta Costantinopoli da un attacco dei Kutriguri. La leggenda successiva secondo cui sarebbe stato accecato e morto da mendicante è considerata non storica.",
+    "tags": [
+      "bisanzio",
+      "generale",
+      "giustiniano",
+      "riconquista"
+    ]
+  },
+  {
+    "id": "prokop-von-caesarea",
+    "name": "Procopio di Cesarea",
+    "born": 500,
+    "died": 565,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "naher-osten",
+    "role": "Storico",
+    "summary": "Il più importante storico dell'età di Giustiniano, che ne descrisse le guerre e le opere edilizie e, in un'opera segreta, anche il lato più oscuro.",
+    "text": "Procopio proveniva da Cesarea in Palestina e accompagnò Belisario come consigliere nelle sue campagne contro Persiani, Vandali e Ostrogoti. Nelle «Guerre» descrisse queste campagne da testimone oculare e negli «Edifici» lodò il programma edilizio di Giustiniano. Nella «Storia segreta», divenuta nota solo dopo la sua morte, ritrasse Giustiniano e Teodora in modo ostile e malevolo. Le sue opere sono la fonte principale per il periodo, ma a causa dei suoi atteggiamenti mutevoli vanno lette in modo critico.",
+    "tags": [
+      "bisanzio",
+      "storico",
+      "giustiniano",
+      "fonti"
+    ]
+  },
+  {
+    "id": "herakleios",
+    "name": "Eraclio",
+    "born": 575,
+    "died": 641,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Imperatore bizantino",
+    "summary": "L'imperatore che sconfisse i Persiani ma perse gran parte dell'Oriente a vantaggio degli Arabi.",
+    "text": "Eraclio era figlio del governatore di Cartagine e nel 610 rovesciò l'imperatore Foca. Prese in mano un impero che i Persiani stavano invadendo dalla Siria all'Egitto, riorganizzò esercito e finanze e nel 627 sconfisse i Persiani presso Ninive. Nel 630 portò a Gerusalemme la Vera Croce recuperata. Pochi anni dopo, in seguito alla sconfitta dello Yarmuk nel 636, perse la Siria e la Palestina a vantaggio degli Arabi, che poco dopo la sua morte avevano conquistato anche l'Egitto. Durante il suo regno il greco si affermò definitivamente come lingua dello Stato e basileus divenne il titolo imperiale ufficiale.",
+    "tags": [
+      "bisanzio",
+      "imperatore",
+      "persiani",
+      "arabi"
+    ]
+  },
+  {
+    "id": "leon-iii",
+    "name": "Leone III",
+    "born": 685,
+    "died": 741,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Imperatore bizantino",
+    "summary": "L'imperatore che difese Costantinopoli dagli Arabi nel 717/718 e diede inizio alla lotta iconoclasta.",
+    "text": "Leone proveniva da Germanicea, nelle terre di confine con la Siria, e salì al trono come generale nel 717, poco prima che un enorme esercito e una flotta araba assediassero Costantinopoli. Con il fuoco greco, le mura possenti e l'aiuto dei Bulgari la città fu salvata nel 718. Leone fece riassumere il diritto nell'Ecloga e si schierò contro il culto delle immagini sacre. Fino a che punto si siano spinte davvero le sue misure contro le icone è discusso, poiché le fonti provengono quasi interamente dai suoi avversari.",
+    "tags": [
+      "bisanzio",
+      "imperatore",
+      "iconoclastia",
+      "arabi"
+    ]
+  },
+  {
+    "id": "irene-von-athen",
+    "name": "Irene d'Atene",
+    "born": 752,
+    "died": 803,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Imperatrice bizantina",
+    "summary": "La prima donna a governare da sola l'impero bizantino e restauratrice del culto delle immagini.",
+    "text": "Irene era originaria di Atene e sposò l'imperatore Leone IV. Dopo la sua morte nel 780 governò per il figlio Costantino VI e nel 787 fece ripristinare il culto delle immagini con il secondo concilio di Nicea. In una lotta di potere con il figlio lo fece accecare nel 797 e poi governò da sola, definendosi nei documenti basileus, imperatore. In Occidente il trono imperiale fu perciò considerato vacante, e questa fu una delle giustificazioni per l'incoronazione di Carlo Magno nell'800. Nell'802 Irene fu rovesciata e morì in esilio a Lesbo.",
+    "tags": [
+      "bisanzio",
+      "imperatrice",
+      "donne",
+      "icone"
+    ]
+  },
+  {
+    "id": "kyrill",
+    "name": "Cirillo",
+    "born": 826,
+    "died": 869,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Studioso e apostolo degli Slavi",
+    "summary": "Lo studioso di Salonicco che creò la prima scrittura slava e con il fratello Metodio evangelizzò gli Slavi.",
+    "text": "Cirillo si chiamava in origine Costantino e assunse il nome di Cirillo solo come monaco, poco prima della morte. Studiò a Costantinopoli, vi insegnò filosofia e compì missioni diplomatiche presso gli Arabi e i Cazari. Dall'863 operò con il fratello Metodio nella Grande Moravia, creò l'alfabeto glagolitico e tradusse testi liturgici in slavo. Nell'867 i fratelli si recarono a Roma, dove papa Adriano II approvò la liturgia slava; Cirillo vi morì nell'869. L'alfabeto cirillico porta il suo nome, ma fu sviluppato solo dai suoi discepoli.",
+    "tags": [
+      "bisanzio",
+      "missione",
+      "slavi",
+      "scrittura"
+    ]
+  },
+  {
+    "id": "method",
+    "name": "Metodio",
+    "born": 815,
+    "died": 885,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Arcivescovo e apostolo degli Slavi",
+    "summary": "Il fratello maggiore di Cirillo, che come arcivescovo costruì la Chiesa slava in Moravia e Pannonia.",
+    "text": "Metodio fu dapprima funzionario in una provincia abitata da Slavi e poi divenne monaco. Insieme a Cirillo si recò nella Grande Moravia nell'863; dopo la morte del fratello il papa lo consacrò arcivescovo per la Pannonia e la Moravia. Vescovi franchi che rivendicavano la regione per sé lo fecero imprigionare per diversi anni. Fino alla sua morte nell'885 lui e i suoi discepoli tradussero gran parte della Bibbia. In seguito i suoi discepoli furono cacciati dalla Moravia e proseguirono la loro opera in Bulgaria. Nel 1980 papa Giovanni Paolo II proclamò Cirillo e Metodio compatroni d'Europa.",
+    "tags": [
+      "bisanzio",
+      "missione",
+      "slavi",
+      "chiesa"
+    ]
+  },
+  {
+    "id": "basileios-ii",
+    "name": "Basilio II",
+    "born": 958,
+    "died": 1025,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Imperatore bizantino",
+    "summary": "L'imperatore che sottomise la Bulgaria e portò l'impero all'apice della sua potenza medievale.",
+    "text": "Basilio II della dinastia macedone divenne imperatore nel 976 e regnò per quasi 50 anni, più a lungo di quasi ogni altro sovrano bizantino. Nei primi anni dovette affermarsi contro potenti aristocratici; lo aiutò il gran principe Vladimiro di Kiev con un esercito da cui nacque la Guardia variaga, e in cambio Vladimiro ricevette in moglie Anna, la sorella di Basilio. In decenni di campagne sconfisse lo zar bulgaro Samuele e incorporò la Bulgaria nell'impero entro il 1018. Alla sua morte l'impero si estendeva dal Danubio all'Armenia e all'Italia meridionale, e il tesoro era ben fornito.",
+    "tags": [
+      "bisanzio",
+      "imperatore",
+      "bulgaria",
+      "dinastia macedone"
+    ]
+  },
+  {
+    "id": "alexios-i-komnenos",
+    "name": "Alessio I Comneno",
+    "born": 1057,
+    "died": 1118,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Imperatore bizantino",
+    "summary": "Il fondatore della dinastia dei Comneni, che stabilizzò l'impero dopo Manzicerta e chiese aiuto all'Occidente.",
+    "text": "Alessio salì al potere con un colpo di Stato nel 1081, quando l'impero era sull'orlo del baratro dopo la perdita dell'Asia Minore e sotto l'attacco dei Normanni. Sconfisse i Normanni e i Peceneghi, creò nel 1092 una nuova moneta d'oro stabile, l'iperpero, e legò le grandi famiglie aristocratiche alla casa imperiale con matrimoni e titoli. La sua richiesta di aiuto militare contribuì alla prima crociata, i cui capi egli fece giurare di restituire i territori imperiali conquistati. Sua figlia Anna Comnena descrisse la sua vita nell'Alessiade.",
+    "tags": [
+      "bisanzio",
+      "imperatore",
+      "comneni",
+      "crociata"
+    ]
+  },
+  {
+    "id": "anna-komnene",
+    "name": "Anna Comnena",
+    "born": 1083,
+    "died": 1153,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Principessa e storica",
+    "summary": "La figlia dell'imperatore che scrisse l'Alessiade, una delle più importanti opere storiche del Medioevo.",
+    "text": "Anna era la figlia maggiore di Alessio I e ricevette un'educazione approfondita in letteratura, filosofia e medicina. Dopo la morte del padre nel 1118 avrebbe cercato di tenere lontano dal trono il fratello Giovanni II a favore del marito, e in seguito si ritirò in un convento. Lì scrisse l'Alessiade, una storia del regno del padre in un greco elaborato. L'opera è una fonte principale per la prima crociata e mostra quanto estranei e minacciosi apparissero i crociati ai Bizantini.",
+    "tags": [
+      "bisanzio",
+      "storica",
+      "donne",
+      "comneni"
+    ]
+  },
+  {
+    "id": "enrico-dandolo",
+    "name": "Enrico Dandolo",
+    "born": 1107,
+    "died": 1205,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Doge di Venezia",
+    "summary": "L'anziano doge quasi cieco che diresse la quarta crociata verso Costantinopoli.",
+    "text": "Dandolo fu eletto doge di Venezia nel 1192 in età avanzata ed era già quasi cieco. Quando i crociati non riuscirono a pagare le navi ordinate, prese egli stesso la croce e usò l'esercito anzitutto per conquistare Zara. Ebbe un ruolo guida nella spedizione verso Costantinopoli e nella conquista della città nel 1204, dopo la quale Venezia ottenne porti importanti e un ampio quartiere della città. Quanto deliberatamente abbia orchestrato la deviazione della crociata è discusso tra gli storici. Morì a Costantinopoli nel 1205 e fu sepolto in Santa Sofia.",
+    "tags": [
+      "venezia",
+      "doge",
+      "crociata",
+      "1204"
+    ]
+  },
+  {
+    "id": "michael-viii-palaiologos",
+    "name": "Michele VIII Paleologo",
+    "born": 1224,
+    "died": 1282,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "role": "Imperatore bizantino",
+    "summary": "L'imperatore che riconquistò Costantinopoli nel 1261 e fondò l'ultima dinastia bizantina.",
+    "text": "Michele Paleologo proveniva da una famiglia aristocratica dell'impero di Nicea e nel 1259 divenne co-imperatore del bambino Giovanni IV Lascaris. Dopo la riconquista di Costantinopoli nel 1261 fece accecare il ragazzo e governò da solo, per cui il patriarca lo scomunicò. Per scongiurare un attacco di Carlo d'Angiò accettò un'unione con Roma al concilio di Lione del 1274, che incontrò una forte resistenza a Bisanzio. La sua diplomazia respinse i pericoli provenienti dall'Occidente, ma trascurò la frontiera orientale in Asia Minore.",
+    "tags": [
+      "bisanzio",
+      "imperatore",
+      "paleologi",
+      "1261"
+    ]
+  },
+  {
+    "id": "olga-von-kiew",
+    "name": "Olga di Kiev",
+    "born": null,
+    "died": 969,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Principessa e reggente della Rus' di Kiev",
+    "summary": "La vedova del principe Igor, che governò la Rus' per il figlio e fu la prima sovrana della Rus' ad abbracciare il cristianesimo.",
+    "text": "Le origini di Olga sono incerte; la cronaca la indica come moglie del principe Igor di Kiev, ucciso dalla tribù dei Drevljani intorno al 945 mentre riscuoteva i tributi. La cronaca racconta a lungo come Olga vendicò crudelmente il marito; i racconti hanno tratti leggendari. Come reggente per il figlio Svjatoslav stabilì luoghi e importi fissi per il pagamento dei tributi. Intorno al 957 si recò a Costantinopoli, dove la ricevette l'imperatore Costantino VII, e fu battezzata. Suo figlio rimase pagano, ma il nipote Vladimiro introdusse il cristianesimo. La Chiesa ortodossa venera Olga come santa.",
+    "tags": [
+      "rus' di kiev",
+      "reggente",
+      "cristianesimo"
+    ]
+  },
+  {
+    "id": "wladimir-i",
+    "name": "Vladimiro I di Kiev",
+    "born": 958,
+    "died": 1015,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Gran principe di Kiev",
+    "summary": "Il gran principe che nel 988 ricevette il battesimo e fece del cristianesimo ortodosso la religione della Rus' di Kiev.",
+    "text": "Vladimiro, in ucraino Volodymyr e in russo Vladimir, era figlio del principe Svjatoslav e regnò dapprima a Novgorod. Con l'aiuto di guerrieri variaghi conquistò Kiev intorno al 978 e vi fece erigere statue di divinità pagane, come il dio del tuono Perun. Nel 988 fu battezzato, sposò Anna, sorella dell'imperatore bizantino Basilio II, e fece battezzare gli abitanti di Kiev nel Dnepr. Costruì la chiesa della Decima, fece venire da Bisanzio sacerdoti e costruttori e protesse il paese dai popoli della steppa con linee di fortificazioni. Dopo la sua morte nel 1015 i suoi figli si contesero la successione. La Chiesa ortodossa lo venera come santo.",
+    "tags": [
+      "rus' di kiev",
+      "battesimo",
+      "ortodossia"
+    ]
+  },
+  {
+    "id": "jaroslaw-der-weise",
+    "name": "Jaroslav il Saggio",
+    "born": 978,
+    "died": 1054,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Gran principe di Kiev",
+    "summary": "Il gran principe sotto il quale Kiev divenne una delle città più splendide d'Europa e nacque il primo codice di leggi della Rus'.",
+    "text": "Jaroslav, figlio di Vladimiro I, regnò dapprima a Novgorod e dopo la morte del padre si impose sul fratello Svjatopolk; dal 1019 al 1054 fu gran principe di Kiev. Fortificò Kiev, costruì la cattedrale di Santa Sofia e fece tradurre libri dal greco, e nel 1051 insediò Ilarione come primo metropolita nato nel paese. La versione più antica del codice di leggi Russkaja Pravda risale a lui. Le sue figlie si sposarono in case reali: Anna divenne regina di Francia, Elisabetta regina di Norvegia e Anastasia regina d'Ungheria. Il suo sarcofago si trova ancora nella cattedrale di Santa Sofia a Kiev.",
+    "tags": [
+      "rus' di kiev",
+      "diritto",
+      "kiev"
+    ]
+  },
+  {
+    "id": "alexander-newski",
+    "name": "Aleksandr Nevskij",
+    "born": 1221,
+    "died": 1263,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Principe di Novgorod e gran principe di Vladimir",
+    "summary": "Il principe che respinse Svedesi e cavalieri crociati ma si sottomise all'Orda d'Oro e in seguito divenne un eroe nazionale.",
+    "text": "Aleksandr, figlio del gran principe Jaroslav II, divenne principe di Novgorod da giovane. Nel 1240 sconfisse gli Svedesi sulla Neva e nel 1242 l'Ordine livoniano sul lago Peipus. Nei confronti dei Mongoli puntò sulla collaborazione: si recò più volte presso l'Orda, nel 1252 divenne gran principe di Vladimir e contribuì a imporre a Novgorod un censimento dell'Orda contro la resistenza dei cittadini. Morì nel 1263 sulla via del ritorno dall'Orda. La Chiesa lo canonizzò nel 1547 e Pietro il Grande ne fece portare le spoglie a San Pietroburgo. Se sia stato soprattutto un difensore o un vassallo dei Mongoli è giudicato in modo diverso.",
+    "tags": [
+      "novgorod",
+      "santo",
+      "mongoli"
+    ]
+  },
+  {
+    "id": "dmitri-donskoi",
+    "name": "Dmitrij Donskoj",
+    "born": 1350,
+    "died": 1389,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Gran principe di Mosca e di Vladimir",
+    "summary": "Il gran principe di Mosca che nel 1380 sconfisse l'Orda nella piana di Kulikovo e fece di Mosca la potenza guida della Rus'.",
+    "text": "Dmitrij divenne principe di Mosca all'età di nove anni; durante la sua infanzia governò di fatto il metropolita Aleksij. Negli anni '60 del Trecento fece fortificare il Cremlino con mura di calcare bianco e si impose su Tver' e sulla Lituania. Nel 1380 sconfisse il signore della guerra Mamaj sul Don, da cui gli venne il soprannome, ma nel 1382 il khan Toqtamış devastò Mosca e Dmitrij dovette pagare di nuovo il tributo. Nel suo testamento lasciò il granducato al figlio Vasilij come se fosse un possesso ereditario moscovita. La Chiesa ortodossa lo canonizzò nel 1988.",
+    "tags": [
+      "mosca",
+      "orda d'oro",
+      "gran principe"
+    ]
+  },
+  {
+    "id": "jogaila",
+    "name": "Jogaila (Ladislao II Jagellone)",
+    "born": 1362,
+    "died": 1434,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Granduca di Lituania e re di Polonia",
+    "summary": "Il granduca lituano che fu battezzato, divenne re di Polonia e fondò la dinastia degli Jagelloni.",
+    "text": "Jogaila divenne nel 1377 granduca di Lituania, un regno che si estendeva dal Baltico al Mar Nero. Con l'Unione di Krewo del 1385 si impegnò a ricevere il battesimo e a sposare la regina Edvige di Polonia; nel 1386 fu incoronato re come Ladislao II. Fece battezzare i Lituani, rifondò l'Università di Cracovia nel 1400 e, insieme al cugino Vytautas, sconfisse l'Ordine teutonico a Grunwald nel 1410. Lasciò in gran parte la Lituania a Vytautas come granduca. I suoi discendenti, gli Jagelloni, regnarono sulla Polonia-Lituania fino al 1572 e per certi periodi anche sulla Boemia e sull'Ungheria.",
+    "tags": [
+      "lituania",
+      "polonia",
+      "jagelloni"
+    ]
+  },
+  {
+    "id": "iwan-iii",
+    "name": "Ivan III",
+    "born": 1440,
+    "died": 1505,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Gran principe di Mosca",
+    "summary": "Il gran principe che unì i principati russi intorno a Mosca e pose fine all'obbligo di pagare tributi all'Orda.",
+    "text": "Ivan III regnò dal 1462 al 1505 e triplicò il territorio di Mosca: sottomise Novgorod, Tver' e altri principati e si fece chiamare «sovrano di tutta la Rus'». Nel 1472 sposò Sofia Paleologa, nipote dell'ultimo imperatore bizantino, e adottò come emblema l'aquila bicipite. Dopo il grande confronto sull'Ugra nel 1480 Mosca non pagò più tributi all'Orda. Sotto di lui architetti italiani costruirono le attuali mura del Cremlino e la cattedrale della Dormizione, e nel 1497 emanò un codice di leggi, il Sudebnik. È considerato il vero fondatore dello Stato moscovita.",
+    "tags": [
+      "mosca",
+      "gran principe",
+      "cremlino"
+    ]
+  },
+  {
+    "id": "iwan-iv",
+    "name": "Ivan IV (il Terribile)",
+    "born": 1530,
+    "died": 1584,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Primo zar incoronato di Russia",
+    "summary": "Il primo zar incoronato, che conquistò Kazan' e Astrachan' e instaurò un regime di terrore con l'opričnina.",
+    "text": "Ivan divenne gran principe nel 1533 all'età di tre anni e fu incoronato zar nel 1547. Nei primi anni riformò diritto, esercito e amministrazione e conquistò Kazan' nel 1552 e Astrachan' nel 1556; sotto di lui iniziò anche l'avanzata in Siberia. La lunga guerra di Livonia per l'accesso al Baltico, invece, si concluse con sconfitte. Dal 1565 perseguitò presunti traditori con l'opričnina, fece uccidere migliaia di persone e nel 1570 fece devastare Novgorod. Nel 1581, in un accesso d'ira, colpì e uccise il figlio maggiore Ivan. Il suo soprannome Groznyj significa «il Temibile» o «colui che incute timore reverenziale» più che «il Terribile».",
+    "tags": [
+      "zar",
+      "opričnina",
+      "mosca"
+    ]
+  },
+  {
+    "id": "francysk-skaryna",
+    "name": "Francysk Skaryna",
+    "born": 1490,
+    "died": 1551,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Studioso, medico e tipografo di Polack",
+    "summary": "L'umanista di Polack che stampò libri biblici in una lingua letteraria slava orientale ed è considerato il fondatore della stampa bielorussa.",
+    "text": "Skaryna era originario di Polack, nel Granducato di Lituania, studiò a Cracovia e nel 1512 conseguì a Padova il dottorato in medicina. Dal 1517 al 1519 stampò a Praga un Salterio e altri libri della Bibbia in una versione rutena dello slavo ecclesiastico, con prefazioni e xilografie proprie. Intorno al 1522 allestì una tipografia a Vilnius, dove furono prodotti un libro di preghiere per i viaggiatori e gli Atti degli Apostoli. Voleva che le persone potessero leggere la Sacra Scrittura in una lingua comprensibile. In Bielorussia è considerato il fondatore della stampa e una figura simbolo della cultura nazionale.",
+    "tags": [
+      "bielorussia",
+      "stampa",
+      "umanesimo"
+    ]
+  },
+  {
+    "id": "bohdan-chmelnyzkyj",
+    "name": "Bohdan Chmel'nyc'kyj",
+    "born": 1595,
+    "died": 1657,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Etmano dei cosacchi zaporoghi",
+    "summary": "Il capo cosacco che nel 1648 guidò una rivolta contro la Polonia-Lituania e fondò l'Etmanato ucraino.",
+    "text": "Chmel'nyc'kyj era un ufficiale istruito dei cosacchi registrati al servizio del re di Polonia. Dopo che un nobile polacco aveva assalito la sua tenuta e lui aveva invano cercato giustizia, nel 1647 fuggì presso i cosacchi zaporoghi e ne divenne l'etmano. Alleato dei Tatari di Crimea, nel 1648 sconfisse gli eserciti polacchi e creò in Ucraina uno Stato cosacco con una propria amministrazione. Nel 1654 a Perejaslav si pose sotto la protezione dello zar. In Ucraina è considerato il padre fondatore di uno Stato proprio, nella memoria ebraica il suo nome rappresenta i massacri di Ebrei durante la rivolta, e in Polonia fu a lungo visto come un ribelle.",
+    "tags": [
+      "ucraina",
+      "cosacchi",
+      "etmano"
+    ]
+  },
+  {
+    "id": "tadeusz-kosciuszko",
+    "name": "Tadeusz Kościuszko",
+    "born": 1746,
+    "died": 1817,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Ingegnere militare e capo della rivolta del 1794",
+    "summary": "L'ufficiale che combatté nella guerra d'indipendenza americana e nel 1794 guidò la rivolta contro le potenze che spartivano la Polonia-Lituania.",
+    "text": "Kościuszko proveniva da una famiglia della piccola nobiltà della regione di Brest, nell'attuale Bielorussia, e si formò come ufficiale a Varsavia e a Parigi. Nella guerra d'indipendenza americana progettò fortificazioni a Saratoga e West Point. Nel 1794 proclamò a Cracovia la rivolta contro Russia e Prussia, vinse a Racławice con l'aiuto di contadini armati di falci e promise ai contadini un alleggerimento dei loro oneri. A ottobre fu ferito e catturato a Maciejowice. Morì nel 1817 a Soletta, in Svizzera, ed è onorato in Polonia, Lituania, Bielorussia e negli Stati Uniti.",
+    "tags": [
+      "polonia",
+      "rivolta",
+      "indipendenza"
+    ]
+  },
+  {
+    "id": "taras-schewtschenko",
+    "name": "Taras Ševčenko",
+    "born": 1814,
+    "died": 1861,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Poeta e pittore",
+    "summary": "Il poeta, nato servo della gleba, la cui raccolta di poesie «Kobzar» divenne la pietra angolare della moderna letteratura ucraina.",
+    "text": "Ševčenko nacque servo della gleba in un villaggio a sud di Kiev. Il suo talento artistico lo portò a San Pietroburgo, dove nel 1838 artisti e scrittori ne riscattarono la libertà mettendo in lotteria un ritratto. Nel 1840 apparve la sua raccolta «Kobzar», che celebrava in lingua ucraina la storia dei cosacchi e le sofferenze dei contadini. Per la sua appartenenza a una società segreta e per poesie critiche verso il governo, nel 1847 fu esiliato come soldato semplice nella steppa kazaka, con il divieto di scrivere e dipingere, e fu graziato solo nel 1857. Morì a San Pietroburgo nel 1861 e fu sepolto presso Kaniv sul Dnepr.",
+    "tags": [
+      "ucraina",
+      "letteratura",
+      "servitù della gleba"
+    ]
+  },
+  {
+    "id": "alexander-ii",
+    "name": "Alessandro II",
+    "born": 1818,
+    "died": 1881,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Imperatore di Russia",
+    "summary": "Lo zar delle grandi riforme, che abolì la servitù della gleba nel 1861 e fu ucciso da una bomba nel 1881.",
+    "text": "Alessandro II salì al trono nel 1855, durante la guerra di Crimea. Nel 1861 abolì la servitù della gleba, introdusse tribunali indipendenti con giurie, l'autogoverno locale negli zemstvo e il servizio militare obbligatorio per tutti, e allentò la censura. Allo stesso tempo fece reprimere l'insurrezione polacca di gennaio del 1863, vietò nel 1876 la stampa in ucraino ed espanse l'impero in Asia centrale e nel Caucaso. Nel 1867 vendette l'Alaska agli Stati Uniti. Dopo diversi attentati, una bomba lanciata dal gruppo rivoluzionario Narodnaja Volja lo uccise a San Pietroburgo il 1º marzo 1881 secondo il calendario giuliano.",
+    "tags": [
+      "zar",
+      "riforme",
+      "servitù della gleba"
+    ]
+  },
+  {
+    "id": "nikolaus-ii",
+    "name": "Nicola II",
+    "born": 1868,
+    "died": 1918,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "role": "Ultimo imperatore di Russia",
+    "summary": "L'ultimo zar, che si aggrappò all'autocrazia, dovette concedere una Duma nel 1905 e abdicò nel 1917.",
+    "text": "Nicola II salì al trono nel 1894 e rimase fedele al principio dell'autocrazia illimitata. Sotto di lui l'industria crebbe, ma la sconfitta contro il Giappone nel 1905 e la domenica di sangue scatenarono una rivoluzione che lo costrinse a emanare il Manifesto di ottobre e ad ammettere una Duma. La sua famiglia ripose le proprie speranze nel santone errante Grigorij Rasputin, perché sembrava alleviare l'emofilia dell'erede al trono Aleksej. Nella prima guerra mondiale Nicola assunse personalmente il comando supremo nel 1915 e fu ritenuto responsabile delle sconfitte. Dopo la rivoluzione di febbraio abdicò nel marzo 1917; nel luglio 1918 i bolscevichi fucilarono lui e la sua famiglia a Ekaterinburg.",
+    "tags": [
+      "zar",
+      "romanov",
+      "rivoluzione"
+    ]
+  },
+  {
+    "id": "jayavarman-ii",
+    "name": "Jayavarman II",
+    "born": 770,
+    "died": 835,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Fondatore dell'impero khmer di Angkor",
+    "summary": "Il re che unificò i khmer e nell'802 si fece consacrare monarca universale sul Phnom Kulen.",
+    "text": "Ciò che sappiamo di Jayavarman II proviene soprattutto da un'iscrizione redatta circa 250 anni dopo la sua epoca. Secondo questa, egli tornò da «Giava», sottomise i principati khmer in lunghe lotte e nell'802 fu consacrato chakravartin sul monte Kulen. Con ciò rinunciò a una sovranità straniera e fondò un culto regale che accompagnò per secoli i sovrani di Angkor. Risiedette in diversi luoghi, da ultimo a Hariharalaya, vicino al lago Tonle Sap. Le sue date sono incerte; come anno di morte si indicano l'835 o l'850.",
+    "tags": [
+      "khmer",
+      "cambogia",
+      "re"
+    ]
+  },
+  {
+    "id": "ngo-quyen",
+    "name": "Ngô Quyền",
+    "born": 897,
+    "died": 944,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Generale e primo re del Vietnam indipendente",
+    "summary": "Il generale che nel 938 sconfisse la flotta cinese sul fiume Bạch Đằng e stabilì così l'indipendenza del Vietnam.",
+    "text": "Ngô Quyền era un comandante militare nel delta del Fiume Rosso, allora sotto dominio cinese. Quando nel 938 il regno degli Han meridionali inviò una flotta, fece piantare pali con la punta di ferro alla foce del Bạch Đằng e sfruttò le maree per distruggere le navi nemiche. Nel 939 si proclamò re e scelse come capitale l'antica cittadella di Cổ Loa. Dopo la sua morte nel 944 il paese si frammentò per alcuni anni sotto il dominio di signori locali. In Vietnam è ancora considerato un eroe nazionale.",
+    "tags": [
+      "vietnam",
+      "indipendenza",
+      "generale"
+    ]
+  },
+  {
+    "id": "anawrahta",
+    "name": "Anawrahta",
+    "born": 1014,
+    "died": 1077,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Re di Pagan",
+    "summary": "Il re che dal 1044 creò il primo regno nell'attuale Myanmar e promosse il buddhismo Theravada.",
+    "text": "Anawrahta regnò a Pagan dal 1044 ed estese il suo potere con campagne militari su ampie parti della valle dell'Irrawaddy. Secondo la tradizione conquistò nel 1057 la città mon di Thaton e portò a Pagan monaci e testi del buddhismo Theravada, sostenuto dal monaco Shin Arahan. Fece ampliare le opere di irrigazione presso Kyaukse, assicurando l'approvvigionamento di riso, e iniziò la costruzione della pagoda Shwezigon. Le sue date seguono le cronache birmane e non sono del tutto certe. In Myanmar è considerato il fondatore della nazione.",
+    "tags": [
+      "birmania",
+      "pagan",
+      "theravada"
+    ]
+  },
+  {
+    "id": "jayavarman-vii",
+    "name": "Jayavarman VII",
+    "born": 1122,
+    "died": 1218,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Re dei khmer",
+    "summary": "Il re khmer buddhista che costruì Angkor Thom e il Bayon e sotto il quale l'impero raggiunse la sua massima estensione.",
+    "text": "Jayavarman VII liberò Angkor dai Cham, che avevano saccheggiato la città nel 1177, e fu incoronato nel 1181. Era un buddhista Mahayana e costruì più di qualsiasi altro re khmer: la città di Angkor Thom con il Bayon, i templi-monastero di Ta Prohm e Preah Khan, e ospedali e case di sosta lungo le strade. Le sue campagne portarono per un certo tempo il Champa sotto il dominio khmer. Alcuni studiosi vedono nei volti del Bayon il suo ritratto o quello di un bodhisattva. Dopo la sua morte, intorno al 1218, sovrani successivi fecero rimuovere molte immagini buddhiste.",
+    "tags": [
+      "khmer",
+      "angkor",
+      "buddhismo"
+    ]
+  },
+  {
+    "id": "ramkhamhaeng",
+    "name": "Ramkhamhaeng",
+    "born": null,
+    "died": 1298,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Re di Sukhothai",
+    "summary": "Il re di Sukhothai venerato in Thailandia come creatore della scrittura thai e modello di sovrano giusto.",
+    "text": "Ramkhamhaeng regnò dal 1279 circa ed estese l'influenza di Sukhothai molto a sud e a ovest. Promosse il buddhismo Theravada e inviò ambascerie in Cina. La celebre iscrizione del 1292, trovata nel 1833 dal futuro re Mongkut, lo ritrae come un re paterno a cui ogni suddito poteva rivolgersi con una richiesta, e gli attribuisce la scrittura thai. Dagli anni Ottanta alcuni studiosi dubitano che l'iscrizione risalga davvero alla sua epoca. Il suo anno di nascita è sconosciuto, e anche l'anno della morte non è certo.",
+    "tags": [
+      "thailandia",
+      "sukhothai",
+      "re"
+    ]
+  },
+  {
+    "id": "gajah-mada",
+    "name": "Gajah Mada",
+    "born": null,
+    "died": 1364,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Primo ministro del regno di Majapahit",
+    "summary": "Il potente ministro sotto il quale Majapahit divenne nel XIV secolo la potenza dominante dell'arcipelago indonesiano.",
+    "text": "Gajah Mada passò da ufficiale della guardia reale a patih, primo ministro di Majapahit. Secondo la tradizione giavanese pronunciò il giuramento di Palapa, rinunciando ai piaceri mondani finché l'arcipelago non fosse stato unito sotto Majapahit. Sotto di lui e il re Hayam Wuruk il regno estese la sua influenza a Bali, Sumatra, Borneo e all'est dell'arcipelago. Nel 1357 il tentativo di combinare un matrimonio con una principessa di Giava occidentale finì in uno scontro sanguinoso che indebolì la sua influenza. Nell'Indonesia di oggi è un simbolo dell'unità nazionale; il suo anno di nascita e le sue origini sono sconosciuti.",
+    "tags": [
+      "majapahit",
+      "giava",
+      "indonesia"
+    ]
+  },
+  {
+    "id": "parameswara",
+    "name": "Parameswara",
+    "born": 1344,
+    "died": 1414,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Fondatore e primo sovrano di Malacca",
+    "summary": "Il principe di Palembang che fondò Malacca intorno al 1400 e la pose sotto la protezione della dinastia Ming.",
+    "text": "Parameswara proveniva dalla casa principesca di Palembang, su Sumatra, che rivendicava l'eredità di Srivijaya. Dopo conflitti con Majapahit fuggì a Temasek, l'odierna Singapore, e intorno al 1400 fondò Malacca sulla costa occidentale della penisola malese. Cercò la protezione della Cina contro il Siam e Majapahit, accolse le flotte di Zheng He e nel 1411 si recò di persona alla corte dell'imperatore Yongle. Se egli stesso si sia convertito all'islam è controverso tra gli studiosi; i suoi successori erano musulmani al più tardi. Le sue date sono note solo approssimativamente.",
+    "tags": [
+      "malacca",
+      "sultanato",
+      "commercio"
+    ]
+  },
+  {
+    "id": "afonso-de-albuquerque",
+    "name": "Afonso de Albuquerque",
+    "born": 1453,
+    "died": 1515,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "europa",
+    "role": "Comandante portoghese e governatore dell'India",
+    "summary": "Il comandante portoghese che conquistò Goa, Malacca e Hormuz e fondò l'impero marittimo del Portogallo in Asia.",
+    "text": "Albuquerque fu governatore dell'India portoghese dal 1509. Perseguì il piano di controllare le principali rotte marittime dell'Oceano Indiano tramite basi fortificate: conquistò Goa nel 1510, Malacca nel 1511 e Hormuz sul Golfo Persico nel 1515. A Malacca fece costruire la fortezza A Famosa e inviò ambasciatori nel Siam e navi alle Molucche. La sua condotta di guerra fu spesso spietata, per esempio verso la popolazione musulmana di Goa. Morì nel 1515 durante il viaggio di ritorno a Goa, poco dopo aver saputo di essere stato sostituito.",
+    "tags": [
+      "portogallo",
+      "malacca",
+      "colonialismo"
+    ]
+  },
+  {
+    "id": "miguel-lopez-de-legazpi",
+    "name": "Miguel López de Legazpi",
+    "born": 1502,
+    "died": 1572,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "europa",
+    "role": "Conquistatore spagnolo e primo governatore generale delle Filippine",
+    "summary": "Il funzionario e navigatore spagnolo che conquistò le Filippine per la Spagna e fondò Manila nel 1571.",
+    "text": "Legazpi proveniva dai Paesi Baschi e visse per molti anni come funzionario in Messico prima che il re Filippo II gli affidasse la guida di una spedizione attraverso il Pacifico. Nel 1565 sbarcò a Cebu e fondò il primo insediamento spagnolo permanente nelle isole. Con trattati, alleanze e la forza estese il dominio spagnolo, e nel 1571 conquistò Maynila, dove fondò la capitale della colonia. Come governatore generale pose le basi dell'amministrazione spagnola e del commercio dei galeoni con il Messico. Morì a Manila nel 1572.",
+    "tags": [
+      "spagna",
+      "filippine",
+      "manila"
+    ]
+  },
+  {
+    "id": "jan-pieterszoon-coen",
+    "name": "Jan Pieterszoon Coen",
+    "born": 1587,
+    "died": 1629,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "europa",
+    "role": "Governatore generale della Compagnia olandese delle Indie orientali",
+    "summary": "Il governatore generale della VOC che fondò Batavia nel 1619 e impose il monopolio delle spezie con grande violenza.",
+    "text": "Coen proveniva da Hoorn, in Olanda, e fece rapidamente carriera nella VOC. Come governatore generale conquistò Jayakarta nel 1619 e fondò Batavia come quartier generale della compagnia in Asia. Nel 1621 fece sottomettere le Isole Banda per imporre il monopolio della noce moscata; gran parte della popolazione locale fu uccisa, ridotta in schiavitù o cacciata, e le piantagioni furono poi lavorate da persone schiavizzate. Nei Paesi Bassi fu a lungo onorato come fondatore dell'impero coloniale; oggi è criticato per questa violenza. Morì a Batavia nel 1629, mentre la città era assediata dal Sultanato di Mataram.",
+    "tags": [
+      "voc",
+      "paesi bassi",
+      "batavia"
+    ]
+  },
+  {
+    "id": "stamford-raffles",
+    "name": "Stamford Raffles",
+    "born": 1781,
+    "died": 1826,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "europa",
+    "role": "Funzionario coloniale britannico e fondatore di Singapore",
+    "summary": "Il funzionario coloniale britannico che governò Giava e fondò Singapore come porto franco nel 1819.",
+    "text": "Raffles lavorava per la Compagnia britannica delle Indie orientali e dal 1811 al 1816 fu governatore di Giava, occupata dai britannici. Lì introdusse riforme dell'imposta fondiaria, fece riportare alla luce il Borobudur e scrisse una storia di Giava. Nel 1819 acquisì l'isola di Singapore con un trattato con un principe di Johor e ne fece un porto franco, che crebbe rapidamente fino a diventare uno dei porti più importanti dell'Asia. Collezionava piante e animali e, dopo il suo ritorno, fondò la Zoological Society di Londra. Morì in Inghilterra nel 1826.",
+    "tags": [
+      "singapore",
+      "gran bretagna",
+      "giava"
+    ]
+  },
+  {
+    "id": "gia-long",
+    "name": "Gia Long (Nguyễn Ánh)",
+    "born": 1762,
+    "died": 1820,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Primo imperatore della dinastia Nguyễn",
+    "summary": "Il principe che nel 1802, dopo decenni di guerra contro i Tây Sơn, unificò tutto il Vietnam e fondò la dinastia Nguyễn.",
+    "text": "Nguyễn Ánh apparteneva ai signori Nguyễn, che i Tây Sơn avevano quasi completamente sterminato. Fuggì per un certo tempo nel Siam e cercò sostegno in Francia tramite il vescovo francese Pigneau de Behaine; armi e alcuni ufficiali francesi lo aiutarono a riconquistare il sud. Nel 1802 conquistò il nord e assunse come imperatore il nome di Gia Long. Governò da Huế, riorganizzò amministrazione e diritto secondo il modello cinese e fece costruire strade e fortezze. Nonostante il loro aiuto, non concesse ai francesi alcun diritto speciale.",
+    "tags": [
+      "vietnam",
+      "nguyen",
+      "imperatore"
+    ]
+  },
+  {
+    "id": "chulalongkorn",
+    "name": "Chulalongkorn (Rama V)",
+    "born": 1853,
+    "died": 1910,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Re del Siam",
+    "summary": "Il re del Siam che modernizzò il suo paese e lo preservò come unico Stato del Sud-est asiatico libero dal dominio coloniale.",
+    "text": "Chulalongkorn salì al trono da adolescente nel 1868 e regnò per più di 42 anni. Abolì l'obbligo di prostrarsi davanti al re, pose fine gradualmente alla schiavitù e al lavoro forzato e dal 1892 creò ministeri secondo il modello europeo. Sotto di lui furono istituiti scuole, un esercito moderno, un servizio postale, telegrafi e le prime ferrovie. In politica estera mise britannici e francesi l'uno contro l'altro e cedette territori periferici per salvare il cuore del paese. Viaggiò in Europa nel 1897 e nel 1907. In Thailandia è ancora venerato come un grande riformatore.",
+    "tags": [
+      "siam",
+      "thailandia",
+      "riforme"
+    ]
+  },
+  {
+    "id": "jose-rizal",
+    "name": "José Rizal",
+    "born": 1861,
+    "died": 1896,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Scrittore, medico ed eroe nazionale delle Filippine",
+    "summary": "Il medico e scrittore i cui romanzi denunciarono il dominio coloniale spagnolo e la cui esecuzione nel 1896 alimentò la rivoluzione.",
+    "text": "Rizal studiò medicina e filosofia a Manila, Madrid e Heidelberg e parlava molte lingue. A Berlino pubblicò nel 1887 il romanzo Noli Me Tángere, seguito nel 1891 da El Filibusterismo; entrambi descrivono l'arbitrio dei funzionari coloniali e l'abuso di potere degli ordini religiosi. Chiedeva riforme e parità di diritti, non una rivolta armata. Nel 1892 fondò la Liga Filipina e poco dopo fu esiliato a Dapitan, su Mindanao. Dopo lo scoppio della rivoluzione fu processato e fucilato a Manila il 30 dicembre 1896; quel giorno è oggi festa nazionale.",
+    "tags": [
+      "filippine",
+      "letteratura",
+      "eroe nazionale"
+    ]
+  },
+  {
+    "id": "emilio-aguinaldo",
+    "name": "Emilio Aguinaldo",
+    "born": 1869,
+    "died": 1964,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "role": "Capo rivoluzionario e primo presidente delle Filippine",
+    "summary": "Il capo rivoluzionario che nel 1898 proclamò l'indipendenza delle Filippine e divenne il primo presidente della repubblica.",
+    "text": "Aguinaldo era sindaco a Cavite e nella rivoluzione del 1896 divenne il capo militare di maggior successo del Katipunan. Prevalse nella lotta di potere con Andrés Bonifacio, che fu giustiziato nel 1897. Dopo un accordo con la Spagna Aguinaldo andò in esilio a Hong Kong, tornò nel 1898 con il sostegno americano e proclamò l'indipendenza a Kawit il 12 giugno. Nel 1899 divenne presidente della Prima Repubblica filippina e guidò la guerra contro gli Stati Uniti finché non fu catturato nel 1901. Morì a Quezon City, vicino a Manila, nel 1964.",
+    "tags": [
+      "filippine",
+      "rivoluzione",
+      "presidente"
+    ]
+  },
+  {
+    "id": "ansgar",
+    "name": "Ansgario",
+    "born": 801,
+    "died": 865,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Missionario e arcivescovo di Amburgo-Brema",
+    "summary": "Il monaco franco che, come «apostolo del Nord», intraprese i primi viaggi missionari in Danimarca e in Svezia.",
+    "text": "Ansgario proveniva dalla Francia settentrionale e fu educato nei monasteri di Corbie e Corvey. Intorno all'826 accompagnò al Nord il re danese battezzato Harald Klak, e intorno all'830 predicò a Birka. Nell'831 divenne il primo arcivescovo di Amburgo; dopo che i vichinghi la distrussero nell'845, guidò la missione da Brema e fondò chiese a Hedeby e a Ribe. Un successo duraturo gli sfuggì, ma la Chiesa lo venera come santo e patrono della Scandinavia.",
+    "tags": [
+      "missione",
+      "cristianesimo",
+      "santo"
+    ]
+  },
+  {
+    "id": "alfred-der-grosse",
+    "name": "Alfredo il Grande",
+    "born": 848,
+    "died": 899,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Re del Wessex",
+    "summary": "Il re anglosassone che da solo resistette ai vichinghi e pose le basi per un'Inghilterra unita.",
+    "text": "Alfredo divenne re del Wessex nell'871, nel pieno della guerra contro il Grande Esercito Pagano. Dopo una sconfitta all'inizio dell'878 radunò nuove forze da Athelney e sconfisse Guthrum a Edington. Fece poi costruire una rete di luoghi fortificati, i burh, migliorò la leva e costruì navi. Promosse la cultura, fece tradurre opere latine in inglese antico, e la Cronaca anglosassone nacque probabilmente alla sua corte. È l'unico re anglosassone a portare l'epiteto «il Grande».",
+    "tags": [
+      "inghilterra",
+      "wessex",
+      "re"
+    ]
+  },
+  {
+    "id": "rollo",
+    "name": "Rollone",
+    "born": null,
+    "died": 930,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Capo vichingo e primo sovrano della Normandia",
+    "summary": "Il vichingo a cui il re dei Franchi occidentali cedette nel 911 la terra sul basso corso della Senna, fondando così la Normandia.",
+    "text": "Le fonti non concordano sulle origini di Rollone: i cronisti normanni ne fanno un danese, le saghe islandesi lo identificano con il norvegese Gange-Hrolf. È certo che intorno al 900 guidava una banda vichinga sulla Senna e nel 911 si accordò con Carlo il Semplice. Fu battezzato, prese il nome di Roberto e governò da Rouen; solo i suoi successori portarono il titolo di duca. Morì intorno al 930. Suo discendente alla quinta generazione fu Guglielmo il Conquistatore.",
+    "tags": [
+      "normandia",
+      "normanni",
+      "vichinghi"
+    ]
+  },
+  {
+    "id": "harald-blauzahn",
+    "name": "Harald Dente Azzurro",
+    "born": null,
+    "died": 986,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Re di Danimarca",
+    "summary": "Il re danese che si fece battezzare intorno al 965 e si vantò sulla pietra runica di Jelling di aver unificato la Danimarca e reso cristiani i danesi.",
+    "text": "Harald, figlio di Gorm il Vecchio, regnò dal 958 circa fino al 986 circa. Fece ampliare il complesso funerario di Jelling ed erigervi la grande pietra runica; sotto di lui furono costruite anche le fortezze circolari come Trelleborg e Fyrkat e il ponte di Ravning Enge. Per un certo tempo governò anche parti della Norvegia. Intorno al 986 una rivolta del figlio Sweyn Barbaforcuta lo cacciò, e morì poco dopo. La tecnologia senza fili Bluetooth prende il nome da lui, e il suo logo unisce le sue iniziali in rune.",
+    "tags": [
+      "danimarca",
+      "cristianizzazione",
+      "jelling"
+    ]
+  },
+  {
+    "id": "erik-der-rote",
+    "name": "Erik il Rosso",
+    "born": 950,
+    "died": 1003,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "amerika",
+    "role": "Esploratore e fondatore degli insediamenti in Groenlandia",
+    "summary": "Il navigatore di origine norvegese, bandito dall'Islanda, che intorno al 985 fondò l'insediamento norreno in Groenlandia.",
+    "text": "Erik Thorvaldsson, detto «il Rosso» per i suoi capelli rossi, giunse da bambino in Islanda con il padre, dopo che questi era stato bandito dalla Norvegia per alcuni omicidi. Anche Erik fu messo al bando per omicidio e sfruttò i suoi tre anni di esilio per esplorare la Groenlandia. Intorno al 985 vi condusse dei coloni e si stabilì nella fattoria di Brattahlíð, nel sud, dove visse come l'uomo più rispettato della colonia. Secondo le saghe rimase fedele all'antica fede, a differenza della moglie Thjodhild.",
+    "tags": [
+      "groenlandia",
+      "esploratore",
+      "saghe"
+    ]
+  },
+  {
+    "id": "leif-eriksson",
+    "name": "Leif Eriksson",
+    "born": 970,
+    "died": 1020,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "amerika",
+    "role": "Navigatore e scopritore del Vinland",
+    "summary": "Il figlio di Erik il Rosso che intorno al 1000 fu uno dei primi europei a raggiungere la costa del Nord America.",
+    "text": "Leif crebbe in Islanda e in Groenlandia. Secondo la Saga di Erik il Rosso fu battezzato in Norvegia alla corte di Olaf Tryggvason e doveva portare il cristianesimo in Groenlandia. Intorno al 1000 navigò verso ovest, avvistò l'Helluland e il Markland e svernò nel Vinland, che avrebbe chiamato così per l'uva trovata lì. Le due saghe descrivono il suo viaggio in modo diverso, e molto resta incerto. Dopo il ritorno rilevò la fattoria del padre a Brattahlíð; negli Stati Uniti il Leif Erikson Day si celebra il 9 ottobre.",
+    "tags": [
+      "vinland",
+      "esploratore",
+      "nord america"
+    ]
+  },
+  {
+    "id": "gudrid-thorbjarnardottir",
+    "name": "Gudrid Thorbjarnardóttir",
+    "born": null,
+    "died": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "amerika",
+    "role": "Viaggiatrice e colona nel Vinland",
+    "summary": "La donna islandese che secondo le saghe si stabilì nel Vinland con Thorfinn Karlsefni e vi diede alla luce un figlio.",
+    "text": "Gudrid visse intorno all'anno 1000 ed è nota solo dalle saghe del Vinland. Dall'Islanda giunse in Groenlandia, sposò Thorfinn Karlsefni dopo la morte del primo marito e lo accompagnò nel suo tentativo di insediamento nel Vinland. Lì nacque suo figlio Snorri, secondo la tradizione il primo bambino di genitori europei in America. In seguito visse in Islanda e da vedova avrebbe compiuto un pellegrinaggio a Roma. È considerata una delle donne più viaggiatrici del suo tempo, ma molti dettagli della sua vita sono incerti.",
+    "tags": [
+      "vinland",
+      "saghe",
+      "donne"
+    ]
+  },
+  {
+    "id": "olav-tryggvason",
+    "name": "Olaf Tryggvason",
+    "born": null,
+    "died": 1000,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Re di Norvegia",
+    "summary": "Il re norvegese che cercò di imporre il cristianesimo con la forza e morì intorno al 1000 nella battaglia navale di Svolder.",
+    "text": "Secondo la tradizione Olaf crebbe in esilio, tra l'altro nella Rus' di Kiev, e negli anni Novanta del X secolo guidò razzie vichinghe in Inghilterra, dove fu battezzato. Nel 995 tornò in Norvegia e divenne re. Nel suo breve regno costrinse capi e contadini al battesimo, distrusse santuari ed esercitò pressioni sull'Islanda, la Groenlandia, le Fær Øer e le Orcadi. Intorno al 1000 fu sconfitto dai suoi nemici a Svolder. Le saghe successive ne fecero un eroe, ma i racconti della sua giovinezza sono in gran parte leggendari.",
+    "tags": [
+      "norvegia",
+      "cristianizzazione",
+      "re"
+    ]
+  },
+  {
+    "id": "knut-der-grosse",
+    "name": "Canuto il Grande",
+    "born": 995,
+    "died": 1035,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Re d'Inghilterra, Danimarca e Norvegia",
+    "summary": "Il re danese che unì Inghilterra, Danimarca e Norvegia in un impero del Mare del Nord.",
+    "text": "Canuto, figlio di Sweyn Barbaforcuta, conquistò l'Inghilterra nel 1016 e la governò per quasi vent'anni in pace con i magnati anglosassoni e danesi. Ereditò la Danimarca intorno al 1018 e conquistò la Norvegia nel 1028. Come re cristiano favorì la Chiesa, fece donazioni ai monasteri e nel 1027 si recò a Roma per l'incoronazione imperiale di Corrado II. La nota storia secondo cui avrebbe ordinato alle onde di ritirarsi risale solo al XII secolo. Dopo la sua morte nel 1035 il suo impero si dissolse sotto i figli.",
+    "tags": [
+      "inghilterra",
+      "danimarca",
+      "impero del mare del nord"
+    ]
+  },
+  {
+    "id": "olav-der-heilige",
+    "name": "Sant'Olaf",
+    "born": 995,
+    "died": 1030,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Re di Norvegia e santo patrono del paese",
+    "summary": "Il re norvegese Olaf Haraldsson, caduto a Stiklestad nel 1030 e diventato come santo il «re eterno della Norvegia».",
+    "text": "Da giovane Olaf Haraldsson partecipò a spedizioni vichinghe in Inghilterra e in Francia e fu probabilmente battezzato in Normandia. Nel 1015 tornò in Norvegia, divenne re e impose il cristianesimo con leggi ecclesiastiche e mano ferma. Nel 1028 dovette fuggire davanti a Canuto il Grande e cadde a Stiklestad al suo ritorno nel 1030. Presto i miracoli presso la sua tomba a Nidaros furono considerati prova della sua santità. Il suo culto contribuì in modo significativo a fare della Norvegia un regno cristiano.",
+    "tags": [
+      "norvegia",
+      "santo",
+      "nidaros"
+    ]
+  },
+  {
+    "id": "harald-hardrada",
+    "name": "Harald Hardrada",
+    "born": 1015,
+    "died": 1066,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Re di Norvegia",
+    "summary": "Il re norvegese Harald Sigurdsson, detto «il Sovrano severo», che servì a Bisanzio e cadde a Stamford Bridge nel 1066.",
+    "text": "Da ragazzo Harald combatté a Stiklestad nel 1030 accanto al fratellastro Olaf e poi fuggì nella Rus' di Kiev. Più tardi servì nella Guardia variaga dell'imperatore bizantino e combatté, tra l'altro, in Sicilia e in Bulgaria. Tornò intorno al 1045 con grandi ricchezze, divenne co-re nel 1046 e dal 1047 unico sovrano della Norvegia. Per anni condusse guerra contro la Danimarca. Nel 1066 rivendicò l'Inghilterra e cadde a Stamford Bridge; la sua morte è considerata la fine dell'età vichinga.",
+    "tags": [
+      "norvegia",
+      "guardia variaga",
+      "stamford bridge"
+    ]
+  },
+  {
+    "id": "snorri-sturluson",
+    "name": "Snorri Sturluson",
+    "born": 1179,
+    "died": 1241,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Studioso, poeta e politico islandese",
+    "summary": "L'autore dell'Edda in prosa e dell'Heimskringla, il più importante storico del Nord medievale.",
+    "text": "Snorri proveniva dalla potente famiglia degli Sturlunghi, crebbe nel centro di cultura di Oddi e divenne uno degli uomini più ricchi d'Islanda; per due volte fu dicitore della legge dell'Althing. Intorno al 1220 scrisse l'Edda in prosa e intorno al 1230 l'Heimskringla, una storia dei re norvegesi dalle origini leggendarie al 1177; gli viene spesso attribuita anche la Saga di Egill. Coinvolto nelle lotte di potere tra le famiglie islandesi e il re norvegese, fu ucciso nel 1241 nella sua fattoria di Reykholt, probabilmente con l'approvazione del re Haakon IV.",
+    "tags": [
+      "islanda",
+      "edda",
+      "saghe"
+    ]
+  },
+  {
+    "id": "waldemar-iv-atterdag",
+    "name": "Valdemaro IV Atterdag",
+    "born": 1320,
+    "died": 1375,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Re di Danimarca",
+    "summary": "Il re danese che ricostituì il suo regno frammentato, conquistò Visby e fu sconfitto nella guerra contro la Lega anseatica.",
+    "text": "Quando Valdemaro divenne re nel 1340, la Danimarca era quasi interamente impegnata ai conti di Holstein. Passo dopo passo riacquistò e riconquistò il paese, vendendo a questo scopo l'Estonia all'Ordine teutonico nel 1346, e nel 1360 recuperò la Scania dalla Svezia. Nel 1361 conquistò Gotland e Visby, il che portò alla guerra con la Lega anseatica, che lo costrinse nel 1370 alla pace di Stralsund. Il suo soprannome Atterdag significa probabilmente «un altro giorno». Sua figlia Margherita divenne dopo la sua morte, nel 1375, la sovrana dominante del Nord.",
+    "tags": [
+      "danimarca",
+      "lega anseatica",
+      "visby"
+    ]
+  },
+  {
+    "id": "margarete-i",
+    "name": "Margherita I",
+    "born": 1353,
+    "died": 1412,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "role": "Regina e reggente di Danimarca, Norvegia e Svezia",
+    "summary": "La figlia del re danese che portò tutti e tre i regni nordici sotto il suo dominio e fondò l'Unione di Kalmar nel 1397.",
+    "text": "Margherita, figlia di Valdemaro IV, fu data in sposa a dieci anni al re Haakon VI di Norvegia. Dopo la morte del padre assicurò nel 1376 il trono danese al figlio Olaf, che nel 1380 ereditò anche la Norvegia. Quando Olaf morì nel 1387, si fece riconoscere sovrana in entrambi i regni, sconfisse nel 1389 il re Alberto di Svezia e governò così l'intero Nord. Nel 1397 fece incoronare a Kalmar il pronipote Erik di Pomerania, ma mantenne il potere fino alla sua morte a Flensburg nel 1412. È sepolta nella cattedrale di Roskilde.",
+    "tags": [
+      "unione di kalmar",
+      "danimarca",
+      "regina"
+    ]
+  },
+  {
+    "id": "franz-von-assisi",
+    "name": "Francesco d'Assisi",
+    "born": 1181,
+    "died": 1226,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "Fondatore di un ordine e santo",
+    "summary": "Il figlio di un mercante di Assisi che rinunciò ai suoi beni, visse in povertà e fondò l'ordine francescano.",
+    "text": "Francesco, nato nel 1181 o 1182 come figlio di un ricco mercante di stoffe, dopo guerra, prigionia e malattia voltò le spalle alla vita precedente e rinunciò pubblicamente al padre. Predicò penitenza, povertà e pace e radunò compagni da cui nacque l'Ordine dei Frati Minori; con Chiara d'Assisi sorse un ordine femminile. Nel 1219, durante la quinta crociata, si recò in Egitto e vi incontrò il sultano al-Kamil. Il suo «Cantico di Frate Sole» è considerato una delle prime poesie in lingua italiana. Morì nel 1226 e fu canonizzato già nel 1228.",
+    "tags": [
+      "santo",
+      "ordine",
+      "italia"
+    ]
+  },
+  {
+    "id": "jan-hus",
+    "name": "Jan Hus",
+    "born": 1370,
+    "died": 1415,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "role": "Teologo e riformatore della Chiesa a Praga",
+    "summary": "Il predicatore boemo che denunciò gli abusi nella Chiesa e fu bruciato come eretico al Concilio di Costanza nel 1415.",
+    "text": "Hus nacque intorno al 1370 a Husinec, nella Boemia meridionale, insegnò all'Università di Praga e dal 1402 predicò in ceco nella cappella di Betlemme. Influenzato dagli scritti dell'inglese John Wycliffe, criticò la ricchezza della Chiesa e la vendita delle indulgenze e pose la Bibbia al di sopra dell'autorità del papa. Nel 1414 si recò a Costanza con un salvacondotto del re Sigismondo, ma vi fu arrestato e, poiché non volle ritrattare, fu bruciato il 6 luglio 1415. Nella Repubblica Ceca è considerato un eroe nazionale; le sue dottrine influenzarono la Riforma del XVI secolo.",
+    "tags": [
+      "riformatore",
+      "boemia",
+      "concilio"
     ]
   }
 ]

@@ -20,7 +20,7 @@ on:
       notes:
         description: 'Was-ist-neu-Text (de-DE, max. 500 Zeichen)'
         type: string
-        default: 'Weltgeschichte gibt es jetzt in neun Sprachen: dazu Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch und Chinesisch. Neu im Quiz: der 50:50-Joker. Die App bleibt kostenlos und wird durch Werbung finanziert; personalisierte Werbung nur mit deiner Zustimmung, änderbar unter „Mehr“.'
+        default: 'Fünf neue Epochen: Ozeanien und der Pazifik, das Byzantinische Reich, Südostasien, Wikinger und Nordeuropa sowie Russland und Osteuropa. Insgesamt jetzt 25 Epochen mit 644 Ereignissen, 326 Personen, 200 Begriffen und 1.300 Quizfragen.'
       texte:
         description: 'Store-Texte (Kurzbeschreibung, Beschreibung) aus store/store-texte.json setzen'
         type: boolean

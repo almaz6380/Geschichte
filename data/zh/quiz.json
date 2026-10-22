@@ -4368,6 +4368,734 @@
     "difficulty": 3
   },
   {
+    "id": "q-byzanz-01",
+    "epochId": "byzanz",
+    "question": "330年，君士坦丁大帝在哪座希腊城市的旧址上为他的新都举行了落成典礼？",
+    "choices": [
+      "卡尔西顿",
+      "拜占庭",
+      "尼科米底亚",
+      "士麦那"
+    ],
+    "answer": 1,
+    "explanation": "君士坦丁堡建在博斯普鲁斯海峡畔古代拜占庭的旧址上，这个帝国后来因此被称为“拜占庭帝国”。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-02",
+    "epochId": "byzanz",
+    "question": "君士坦丁堡在哪一年作为新都举行落成典礼？",
+    "choices": [
+      "313年",
+      "325年",
+      "330年",
+      "395年"
+    ],
+    "answer": 2,
+    "explanation": "君士坦丁大帝于330年5月11日为这座城市举行了落成典礼。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-03",
+    "epochId": "byzanz",
+    "question": "拜占庭帝国的居民怎样称呼自己？",
+    "choices": [
+      "罗马伊人，即罗马人",
+      "拜占庭人",
+      "希伦人",
+      "亚该亚人"
+    ],
+    "answer": 0,
+    "explanation": "拜占庭人自视为罗马人；“拜占庭帝国”这一名称是近代早期的学者才创造出来的。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-04",
+    "epochId": "byzanz",
+    "question": "7世纪时，哪种语言成为宫廷和行政语言？",
+    "choices": [
+      "拉丁语",
+      "亚美尼亚语",
+      "叙利亚语",
+      "希腊语"
+    ],
+    "answer": 3,
+    "explanation": "在希拉克略治下，东方多数人使用的希腊语最终取代拉丁语成为官方语言。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-05",
+    "epochId": "byzanz",
+    "question": "395年狄奥多西一世皇帝去世后发生了什么？",
+    "choices": [
+      "基督教被禁止",
+      "帝国在他的儿子们之间分为西部和东部两半",
+      "君士坦丁堡被哥特人攻占",
+      "罗马重新成为唯一的都城"
+    ],
+    "answer": 1,
+    "explanation": "阿卡狄乌斯得到东部，霍诺留得到西部；此后帝国的两半渐行渐远。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-06",
+    "epochId": "byzanz",
+    "question": "476年西部帝国灭亡后，东罗马帝国大约又存续了多久？",
+    "choices": [
+      "约200年",
+      "约500年",
+      "近1000年",
+      "1500多年"
+    ],
+    "answer": 2,
+    "explanation": "东罗马帝国一直存续到1453年君士坦丁堡被攻占，比西部多存在了近一千年。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-07",
+    "epochId": "byzanz",
+    "question": "从5世纪起，哪道防御工事在陆地一侧保护着君士坦丁堡？",
+    "choices": [
+      "哈德良长城",
+      "奥勒良城墙",
+      "塞尔维乌斯城墙",
+      "狄奥多西城墙"
+    ],
+    "answer": 3,
+    "explanation": "约413年在狄奥多西二世治下建成的陆墙，一千多年间没有被任何进攻者强攻下来。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-08",
+    "epochId": "byzanz",
+    "question": "451年的卡尔西顿公会议作出了什么决定？",
+    "choices": [
+      "教皇对所有主教的首席权",
+      "基督是具有两种本性的真神和真人",
+      "禁止宗教画像",
+      "把帝国划分为军区"
+    ],
+    "answer": 1,
+    "explanation": "公会议宣布基督具有两种本性，二者不相混淆、不相分离；埃及和叙利亚的许多基督徒拒绝接受这一点。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-09",
+    "epochId": "byzanz",
+    "question": "532年尼卡暴动的名称从何而来？",
+    "choices": [
+      "来自战斗口号“尼卡！”，意为“胜利！”",
+      "来自暴动开始的城市尼西亚",
+      "来自其领导人尼古拉奥斯",
+      "来自被推倒雕像的胜利女神"
+    ],
+    "answer": 0,
+    "explanation": "暴动者高喊“尼卡！”即“胜利！”，这是竞技场里通常为战车御手助威的口号。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-10",
+    "epochId": "byzanz",
+    "question": "在尼卡暴动中，哪两个赛车派别联合起来反对皇帝？",
+    "choices": [
+      "贵族和平民",
+      "归尔甫派和吉伯林派",
+      "蓝党和绿党",
+      "贵族派和平民派"
+    ],
+    "answer": 2,
+    "explanation": "蓝党和绿党是竞技场中赛车队的支持者，同时也是有影响力的政治团体。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-11",
+    "epochId": "byzanz",
+    "question": "533/534年，哪位将领为查士丁尼征服了北非的汪达尔王国？",
+    "choices": [
+      "纳尔塞斯",
+      "斯提里科",
+      "埃提乌斯",
+      "贝利撒留"
+    ],
+    "answer": 3,
+    "explanation": "贝利撒留于533年在北非登陆，攻占迦太基，并于534年迫使国王盖利默投降。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-12",
+    "epochId": "byzanz",
+    "question": "535年至554年，拜占庭与哪个民族争夺意大利？",
+    "choices": [
+      "东哥特人",
+      "伦巴第人",
+      "西哥特人",
+      "法兰克人"
+    ],
+    "answer": 0,
+    "explanation": "贝利撒留和纳尔塞斯经过一场漫长的战争从东哥特人手中夺回了意大利；568年，伦巴第人随即入侵。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-13",
+    "epochId": "byzanz",
+    "question": "从541年起，哪种疾病袭击了拜占庭帝国？",
+    "choices": [
+      "霍乱",
+      "鼠疫",
+      "天花",
+      "麻风病"
+    ],
+    "answer": 1,
+    "explanation": "查士丁尼瘟疫是已知的第一次鼠疫大流行；DNA发现已确认其病原体为鼠疫耶尔森菌。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-14",
+    "epochId": "byzanz",
+    "question": "据普罗柯比记载，蚕是怎样传入拜占庭帝国的？",
+    "choices": [
+      "作为中国皇帝的礼物",
+      "通过与波斯签订的和约",
+      "修士们把蚕卵藏在空心手杖里偷运进来",
+      "阿拉伯商人在亚历山大港出售"
+    ],
+    "answer": 2,
+    "explanation": "约552年，修士们秘密地把蚕卵带到君士坦丁堡，此后帝国发展起了自己的丝绸生产。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-15",
+    "epochId": "byzanz",
+    "question": "查士丁尼法律汇编中的哪一部分收录了罗马法学家著作的摘录？",
+    "choices": [
+      "《新律》",
+      "《法学阶梯》",
+      "《法典》",
+      "《学说汇纂》"
+    ],
+    "answer": 3,
+    "explanation": "533年颁布的《学说汇纂》又称《潘德克顿》，汇集了古典时期罗马法学家著作的摘录。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-16",
+    "epochId": "byzanz",
+    "question": "哪位史学家描述了查士丁尼的战争，还写了一部恶意攻击这位皇帝的《秘史》？",
+    "choices": [
+      "凯撒利亚的普罗柯比",
+      "凯撒利亚的优西比乌",
+      "阿米亚努斯·马塞利努斯",
+      "米海尔·普塞洛斯"
+    ],
+    "answer": 0,
+    "explanation": "普罗柯比在官方著作中赞颂查士丁尼，却在后来才为人所知的《秘史》中猛烈抨击他和狄奥多拉。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-17",
+    "epochId": "byzanz",
+    "question": "627年，哪位皇帝在尼尼微附近击败了波斯军队？",
+    "choices": [
+      "查士丁尼一世",
+      "希拉克略",
+      "利奥三世",
+      "巴西尔二世"
+    ],
+    "answer": 1,
+    "explanation": "希拉克略率军大胆深入波斯腹地，并于628年迫使萨珊王朝接受和约。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-18",
+    "epochId": "byzanz",
+    "question": "战胜波斯人后，希拉克略于630年把哪件圣物送回了耶路撒冷？",
+    "choices": [
+      "使徒彼得的遗骨",
+      "基督的裹尸布",
+      "真十字架",
+      "约柜"
+    ],
+    "answer": 2,
+    "explanation": "波斯人于614年从耶路撒冷掠走了十字架；630年，希拉克略隆重地将其送回。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-19",
+    "epochId": "byzanz",
+    "question": "636年，拜占庭军队在哪场战役中被阿拉伯人击败，从而失去了叙利亚？",
+    "choices": [
+      "克莱迪翁山口战役",
+      "曼齐刻尔特战役",
+      "密列奥塞法隆战役",
+      "雅穆克河战役"
+    ],
+    "answer": 3,
+    "explanation": "在约旦河支流雅穆克河畔战败后，希拉克略放弃了叙利亚。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-20",
+    "epochId": "byzanz",
+    "question": "640年至642年间，阿拉伯人征服了哪个作为君士坦丁堡粮仓的行省？",
+    "choices": [
+      "埃及",
+      "西西里",
+      "亚美尼亚",
+      "色雷斯"
+    ],
+    "answer": 0,
+    "explanation": "失去埃及，帝国就失去了最富庶的行省和都城最重要的粮食来源。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-21",
+    "epochId": "byzanz",
+    "question": "“希腊火”是什么？",
+    "choices": [
+      "博斯普鲁斯海峡上的一座灯塔",
+      "一种在水面上也能继续燃烧的燃烧武器",
+      "一种用火炬传递信号的系统",
+      "圣索菲亚大教堂里的长明火"
+    ],
+    "answer": 1,
+    "explanation": "这种液体从管子中喷出，能点燃敌船，而且几乎无法扑灭。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-22",
+    "epochId": "byzanz",
+    "question": "传统上认为希腊火是谁发明的？",
+    "choices": [
+      "特拉勒斯的安提莫斯",
+      "阿基米德",
+      "来自叙利亚的建筑师卡利尼科斯",
+      "凯撒利亚的普罗柯比"
+    ],
+    "answer": 2,
+    "explanation": "据编年史家塞奥法尼斯记载，卡利尼科斯约在672年把这种武器带到君士坦丁堡；其成分一直是秘密。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-23",
+    "epochId": "byzanz",
+    "question": "拜占庭的圣像破坏之争是围绕什么问题展开的？",
+    "choices": [
+      "在钱币上描绘皇帝的权利",
+      "修建新教堂",
+      "墓室的绘画",
+      "宗教画像是否可以受到崇拜"
+    ],
+    "answer": 3,
+    "explanation": "圣像的反对者认为崇拜圣像是偶像崇拜，而其支持者则把圣像视为通往神圣的道路。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-24",
+    "epochId": "byzanz",
+    "question": "8世纪的圣像破坏之争始于哪位皇帝治下？",
+    "choices": [
+      "利奥三世",
+      "希拉克略",
+      "米海尔八世",
+      "阿历克塞一世"
+    ],
+    "answer": 0,
+    "explanation": "利奥三世约在726/730年反对圣像崇拜；他走到了什么程度，尚有争议。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-25",
+    "epochId": "byzanz",
+    "question": "787年，哪次公会议重新允许崇拜圣像？",
+    "choices": [
+      "卡尔西顿公会议",
+      "第二次尼西亚公会议",
+      "以弗所公会议",
+      "康斯坦茨公会议"
+    ],
+    "answer": 1,
+    "explanation": "在女皇伊琳娜的推动下，第二次尼西亚公会议宣布圣像崇拜是合法的。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-26",
+    "epochId": "byzanz",
+    "question": "哪位女皇于797年下令刺瞎自己的儿子，随后独自执政？",
+    "choices": [
+      "狄奥多拉",
+      "佐伊",
+      "伊琳娜",
+      "安娜·科穆宁娜"
+    ],
+    "answer": 2,
+    "explanation": "伊琳娜下令刺瞎君士坦丁六世，直到802年，她是第一位独自统治帝国的女性。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-27",
+    "epochId": "byzanz",
+    "question": "东正教会以哪个节日纪念843年圣像破坏运动的结束？",
+    "choices": [
+      "举荣圣架节",
+      "棕枝主日",
+      "主显圣容节",
+      "正教主日"
+    ],
+    "answer": 3,
+    "explanation": "在大斋期的第一个星期日，东正教会庆祝女皇狄奥多拉恢复圣像崇拜。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-28",
+    "epochId": "byzanz",
+    "question": "863年，西里尔和美多德前往哪个国家传教？",
+    "choices": [
+      "大摩拉维亚",
+      "基辅罗斯",
+      "波兰",
+      "匈牙利"
+    ],
+    "answer": 0,
+    "explanation": "大摩拉维亚的拉斯季斯拉夫公曾请求皇帝派遣能用斯拉夫语布道的教师。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-29",
+    "epochId": "byzanz",
+    "question": "西里尔本人为斯拉夫语创制了哪种文字？",
+    "choices": [
+      "西里尔字母",
+      "格拉哥里字母",
+      "如尼文",
+      "欧甘文"
+    ],
+    "answer": 1,
+    "explanation": "西里尔创制了格拉哥里字母；以他命名的西里尔字母是后来才在他在保加利亚的弟子之间产生的。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-30",
+    "epochId": "byzanz",
+    "question": "西里尔和美多德用哪种语言为摩拉维亚人举行礼仪？",
+    "choices": [
+      "拉丁语",
+      "希腊语",
+      "斯拉夫语",
+      "阿拉米语"
+    ],
+    "answer": 2,
+    "explanation": "兄弟二人把礼仪文本译成斯拉夫语，这遭到了法兰克神职人员的激烈反对。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-31",
+    "epochId": "byzanz",
+    "question": "“斯拉夫人的使徒”西里尔和美多德来自哪座城市？",
+    "choices": [
+      "雅典",
+      "安条克",
+      "君士坦丁堡",
+      "塞萨洛尼基"
+    ],
+    "answer": 3,
+    "explanation": "塞萨洛尼基周围地区生活着许多斯拉夫人，因此兄弟二人从小就懂这种语言。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-32",
+    "epochId": "byzanz",
+    "question": "哪位保加利亚统治者约在864年受洗，从拜占庭接受了基督教？",
+    "choices": [
+      "鲍里斯一世",
+      "克鲁姆",
+      "西美昂",
+      "萨穆伊尔"
+    ],
+    "answer": 0,
+    "explanation": "鲍里斯受洗时取了他的教父米海尔三世的名字，后来把西里尔和美多德的弟子请到了自己的国家。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-33",
+    "epochId": "byzanz",
+    "question": "巴西尔二世皇帝以什么绰号闻名？",
+    "choices": [
+      "智者",
+      "保加利亚人屠夫",
+      "大帝",
+      "大胡子"
+    ],
+    "answer": 1,
+    "explanation": "巴西尔二世经过数十年战争征服了保加利亚帝国；这个绰号是后来才见于记载的。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-34",
+    "epochId": "byzanz",
+    "question": "据编年史家斯基里茨记载，1014年克莱迪翁战役后，巴西尔二世怎样处置保加利亚俘虏？",
+    "choices": [
+      "把他们招募为雇佣兵",
+      "把他们安置在小亚细亚",
+      "下令刺瞎他们",
+      "收取赎金后释放他们"
+    ],
+    "answer": 2,
+    "explanation": "据斯基里茨记载，约1.5万名俘虏被刺瞎后送回沙皇萨穆伊尔那里；这个数字可能有所夸大。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-35",
+    "epochId": "byzanz",
+    "question": "由斯堪的纳维亚人和罗斯人组成的拜占庭皇帝卫队叫什么名字？",
+    "choices": [
+      "禁卫军",
+      "耶尼切里",
+      "马穆鲁克",
+      "瓦良格卫队"
+    ],
+    "answer": 3,
+    "explanation": "瓦良格卫队产生于10世纪末，源自基辅的弗拉基米尔派给巴西尔二世的一支军队。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-36",
+    "epochId": "byzanz",
+    "question": "867年至1056年，哪个王朝统治着拜占庭帝国？",
+    "choices": [
+      "马其顿王朝",
+      "科穆宁王朝",
+      "伊苏里亚王朝",
+      "巴列奥略王朝"
+    ],
+    "answer": 0,
+    "explanation": "巴西尔一世创建的马其顿王朝带领帝国进入了一个新的黄金时代。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-37",
+    "epochId": "byzanz",
+    "question": "哪一年被视为东西方教会分裂的象征？",
+    "choices": [
+      "1071年",
+      "1054年",
+      "1095年",
+      "1204年"
+    ],
+    "answer": 1,
+    "explanation": "1054年，教皇使节与君士坦丁堡牧首互相开除对方教籍。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-38",
+    "epochId": "byzanz",
+    "question": "哪个争议问题是1054年教会分裂的原因之一？",
+    "choices": [
+      "赎罪券买卖",
+      "婴儿洗礼",
+      "信经中的“和子”句",
+      "皇帝的封圣"
+    ],
+    "answer": 2,
+    "explanation": "拉丁教会在信经中加入了“Filioque”（“和子”）一词，东方教会拒绝接受。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-39",
+    "epochId": "byzanz",
+    "question": "1054年相互的绝罚是在何时撤销的？",
+    "choices": [
+      "1439年",
+      "1870年",
+      "2000年",
+      "1965年"
+    ],
+    "answer": 3,
+    "explanation": "1965年，教皇保禄六世和牧首阿特纳哥拉撤销了绝罚；但教会的分离依然存在。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-40",
+    "epochId": "byzanz",
+    "question": "1071年，谁在曼齐刻尔特击败了拜占庭皇帝罗曼努斯四世？",
+    "choices": [
+      "塞尔柱人",
+      "奥斯曼人",
+      "蒙古人",
+      "诺曼人"
+    ],
+    "answer": 0,
+    "explanation": "苏丹阿尔普·阿尔斯兰俘虏了皇帝；此后突厥人群体深入小亚细亚。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-41",
+    "epochId": "byzanz",
+    "question": "1071年，诺曼人攻占了意大利南部的哪座城市——拜占庭在意大利的最后据点？",
+    "choices": [
+      "那不勒斯",
+      "巴里",
+      "巴勒莫",
+      "拉文纳"
+    ],
+    "answer": 1,
+    "explanation": "随着巴里在曼齐刻尔特之战的同一年陷落，拜占庭在意大利的统治宣告结束。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-42",
+    "epochId": "byzanz",
+    "question": "哪位拜占庭皇帝向西方请求军事援助，从而促成了第一次十字军东征？",
+    "choices": [
+      "巴西尔二世",
+      "希拉克略",
+      "阿历克塞一世·科穆宁",
+      "米海尔八世·巴列奥略"
+    ],
+    "answer": 2,
+    "explanation": "阿历克塞一世请求派遣雇佣兵对抗塞尔柱人；作为回应，教皇乌尔班二世于1095年号召十字军东征。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-43",
+    "epochId": "byzanz",
+    "question": "安娜·科穆宁娜描述她父亲统治时期的史学著作叫什么名字？",
+    "choices": [
+      "《战略》",
+      "《秘史》",
+      "《编年史》",
+      "《阿历克塞传》"
+    ],
+    "answer": 3,
+    "explanation": "关于阿历克塞一世的《阿历克塞传》是从拜占庭视角了解第一次十字军东征的主要史料。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-44",
+    "epochId": "byzanz",
+    "question": "通过阿历克塞一世的特许状，威尼斯商人获得了什么权利？",
+    "choices": [
+      "在帝国几乎所有港口免税贸易",
+      "在帝国境内铸造自己的钱币",
+      "独占克里特岛",
+      "在皇帝议事会中拥有席位"
+    ],
+    "answer": 0,
+    "explanation": "作为在海上帮助对抗诺曼人的回报，威尼斯人可以免税经商，并在君士坦丁堡获得了自己的街区。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-45",
+    "epochId": "byzanz",
+    "question": "1204年，第四次十字军攻占并洗劫了哪座城市？",
+    "choices": [
+      "大马士革",
+      "君士坦丁堡",
+      "开罗",
+      "安条克"
+    ],
+    "answer": 1,
+    "explanation": "十字军没有前往圣地，而是进军君士坦丁堡，洗劫了这座基督教都城。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-46",
+    "epochId": "byzanz",
+    "question": "哪位威尼斯总督在第四次十字军东征中起了主导作用？",
+    "choices": [
+      "弗朗切斯科·福斯卡里",
+      "彼得罗二世·奥尔塞奥洛",
+      "恩里科·丹多洛",
+      "塞巴斯蒂亚诺·齐亚尼"
+    ],
+    "answer": 2,
+    "explanation": "年迈且几乎失明的恩里科·丹多洛随军出征，为威尼斯争得了大部分战利品。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-47",
+    "epochId": "byzanz",
+    "question": "1204年，威尼斯人把君士坦丁堡竞技场中的哪些著名艺术品运到了威尼斯？",
+    "choices": [
+      "赫拉克勒斯之柱",
+      "巨像雕像",
+      "蛇柱",
+      "四匹青铜马"
+    ],
+    "answer": 3,
+    "explanation": "这四匹马长期装饰着圣马可大教堂的正立面；原件如今陈列在该教堂的博物馆中。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-48",
+    "epochId": "byzanz",
+    "question": "1261年，君士坦丁堡是被哪个希腊继承国家收复的？",
+    "choices": [
+      "尼西亚帝国",
+      "特拉布宗帝国",
+      "伊庇鲁斯君主国",
+      "摩里亚君主国"
+    ],
+    "answer": 0,
+    "explanation": "尼西亚皇帝米海尔八世·巴列奥略的军队于1261年7月攻占了该城。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-49",
+    "epochId": "byzanz",
+    "question": "1261年至1453年，哪个王朝统治着拜占庭帝国？",
+    "choices": [
+      "科穆宁王朝",
+      "巴列奥略王朝",
+      "安格洛斯王朝",
+      "拉斯卡里斯王朝"
+    ],
+    "answer": 1,
+    "explanation": "米海尔八世创建的巴列奥略王朝是帝国的最后一个王朝。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-50",
+    "epochId": "byzanz",
+    "question": "1439年的费拉拉-佛罗伦萨公会议作出了什么决定？",
+    "choices": [
+      "联合进行一次前往耶路撒冷的十字军东征",
+      "废黜牧首",
+      "东西方教会合一，但这在拜占庭基本遭到拒绝",
+      "归还1204年被掠夺的珍宝"
+    ],
+    "answer": 2,
+    "explanation": "约翰八世皇帝希望合一能带来对抗奥斯曼人的援助，但神职人员和民众基本拒绝了它。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-51",
+    "epochId": "byzanz",
+    "question": "哪种金币几个世纪以来一直是拜占庭帝国的稳定货币？",
+    "choices": [
+      "第纳尔",
+      "弗罗林",
+      "第纳里乌斯",
+      "索利都斯"
+    ],
+    "answer": 3,
+    "explanation": "君士坦丁引入的索利都斯直到11世纪一直保持含金量，在整个地中海地区备受青睐。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-52",
+    "epochId": "byzanz",
+    "question": "从10世纪起，希腊北部的哪座山成为东正教隐修制度的中心？",
+    "choices": [
+      "阿索斯山",
+      "奥林匹斯山",
+      "帕纳索斯山",
+      "西奈山"
+    ],
+    "answer": 0,
+    "explanation": "963年，大拉夫拉修道院在阿索斯山建立；直到今天，修士们仍生活在那里的约二十座修道院中。",
+    "difficulty": 2
+  },
+  {
     "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "question": "1914年夏天，哪一事件引发了第一次世界大战？",
@@ -10920,6 +11648,734 @@
     "difficulty": 3
   },
   {
+    "id": "q-ozeanien-pazifik-01",
+    "epochId": "ozeanien-pazifik",
+    "question": "拉皮塔文化得名的遗址位于今天的哪个地区？",
+    "choices": [
+      "萨摩亚",
+      "新喀里多尼亚",
+      "斐济",
+      "新几内亚"
+    ],
+    "answer": 1,
+    "explanation": "拉皮塔文化以新喀里多尼亚的一处遗址命名，那里发现了这种文化特有的陶器。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-02",
+    "epochId": "ozeanien-pazifik",
+    "question": "考古学家主要凭借什么特征识别拉皮塔文化？",
+    "choices": [
+      "巨大的石像",
+      "青铜工具",
+      "金字塔形的神庙",
+      "带压印纹饰的陶器"
+    ],
+    "answer": 3,
+    "explanation": "拉皮塔文化的标志是带有精细压印几何纹样的陶器。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-03",
+    "epochId": "ozeanien-pazifik",
+    "question": "约公元前1000年至公元前800年间，拉皮塔航海者到达了哪些群岛？",
+    "choices": [
+      "斐济、汤加和萨摩亚",
+      "夏威夷和马克萨斯群岛",
+      "新西兰和查塔姆群岛",
+      "拉帕努伊和皮特凯恩"
+    ],
+    "answer": 0,
+    "explanation": "斐济、汤加和萨摩亚构成了波利尼西亚的西缘，波利尼西亚文化随后就在那里发展起来。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-04",
+    "epochId": "ozeanien-pazifik",
+    "question": "波利尼西亚人大约在什么时候到达新西兰？",
+    "choices": [
+      "约公元前1500年",
+      "约公元500年",
+      "约1250年至1300年",
+      "约1642年"
+    ],
+    "answer": 2,
+    "explanation": "放射性碳测年表明，东波利尼西亚的移民约在1250年至1300年间到达新西兰。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-05",
+    "epochId": "ozeanien-pazifik",
+    "question": "太平洋的名字是谁起的？",
+    "choices": [
+      "詹姆斯·库克",
+      "阿贝尔·塔斯曼",
+      "斐迪南·麦哲伦",
+      "瓦斯科·努涅斯·德·巴尔沃亚"
+    ],
+    "answer": 2,
+    "explanation": "1520年在风暴中穿过麦哲伦海峡之后，麦哲伦把这片大洋称为“太平洋”，即平静的海洋。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-06",
+    "epochId": "ozeanien-pazifik",
+    "question": "拉帕努伊岛上的大型石像叫什么？",
+    "choices": [
+      "摩艾",
+      "提基",
+      "马拉埃",
+      "普卡奥"
+    ],
+    "answer": 0,
+    "explanation": "摩艾代表受尊崇的祖先；普卡奥是一些石像头顶上红色发髻的名称。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-07",
+    "epochId": "ozeanien-pazifik",
+    "question": "大多数摩艾的石料来自哪个火山口？",
+    "choices": [
+      "拉诺考",
+      "冒纳凯阿",
+      "哈莱阿卡拉",
+      "拉诺拉拉库"
+    ],
+    "answer": 3,
+    "explanation": "大多数摩艾由拉诺拉拉库火山口的凝灰岩雕成，那里至今仍躺着许多未完成的石像。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-08",
+    "epochId": "ozeanien-pazifik",
+    "question": "横渡太平洋之后，麦哲伦的船队于1521年3月到达了哪座岛屿？",
+    "choices": [
+      "塔希提",
+      "关岛",
+      "斐济",
+      "夏威夷"
+    ],
+    "answer": 1,
+    "explanation": "在海上航行了三个多月之后，船队于1521年3月6日到达马里亚纳群岛的关岛。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-09",
+    "epochId": "ozeanien-pazifik",
+    "question": "1642年11月，阿贝尔·塔斯曼望见了哪座岛屿，并将其命名为“范迪门地”？",
+    "choices": [
+      "新几内亚",
+      "新喀里多尼亚",
+      "新西兰南岛",
+      "塔斯马尼亚"
+    ],
+    "answer": 3,
+    "explanation": "塔斯曼以东印度公司总督的名字为这座岛屿命名；后来它改用了他自己的名字。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-10",
+    "epochId": "ozeanien-pazifik",
+    "question": "1642年，阿贝尔·塔斯曼受谁委托出航？",
+    "choices": [
+      "英国皇家学会",
+      "荷兰东印度公司",
+      "西班牙王室",
+      "法国科学院"
+    ],
+    "answer": 1,
+    "explanation": "东印度公司派塔斯曼从巴达维亚出发，去探索那片假想中的南方大陆。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-11",
+    "epochId": "ozeanien-pazifik",
+    "question": "图帕伊亚是谁？",
+    "choices": [
+      "参与谈判《怀唐伊条约》的一位毛利酋长",
+      "汤加的第一位国王",
+      "来自赖阿特阿岛、随库克航行的祭司和领航员",
+      "随阿瑟·菲利普前往英国的一名原住民"
+    ],
+    "answer": 2,
+    "explanation": "图帕伊亚从1769年起陪同库克，绘制了一张约70座岛屿的海图，并在新西兰担任翻译。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-12",
+    "epochId": "ozeanien-pazifik",
+    "question": "第一舰队在哪一年到达澳大利亚？",
+    "choices": [
+      "1788年",
+      "1770年",
+      "1801年",
+      "1840年"
+    ],
+    "answer": 0,
+    "explanation": "第一舰队的十一艘船于1788年1月到达植物学湾，并在悉尼湾建立了殖民地。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-13",
+    "epochId": "ozeanien-pazifik",
+    "question": "谁是新南威尔士的第一任总督？",
+    "choices": [
+      "阿瑟·菲利普",
+      "詹姆斯·库克",
+      "威廉·霍布森",
+      "约瑟夫·班克斯"
+    ],
+    "answer": 0,
+    "explanation": "阿瑟·菲利普率领第一舰队前往澳大利亚，并治理殖民地直到1792年。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-14",
+    "epochId": "ozeanien-pazifik",
+    "question": "1788年1月26日，阿瑟·菲利普在哪里升起了英国国旗？",
+    "choices": [
+      "植物学湾",
+      "霍巴特",
+      "杰克逊港的悉尼湾",
+      "菲利普港"
+    ],
+    "answer": 2,
+    "explanation": "由于植物学湾看起来不合适，舰队继续驶往杰克逊港，并在那里建立了悉尼。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-15",
+    "epochId": "ozeanien-pazifik",
+    "question": "新南威尔士殖民地起初主要用于什么目的？",
+    "choices": [
+      "作为香料贸易的据点",
+      "作为关押已决犯的流放地",
+      "作为面向太平洋诸岛的传教站",
+      "作为采金定居点"
+    ],
+    "answer": 1,
+    "explanation": "失去美洲殖民地后，英国把囚犯流放到澳大利亚。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-16",
+    "epochId": "ozeanien-pazifik",
+    "question": "1789年4月，什么给悉尼周围的埃奥拉人带来了特别沉重的打击？",
+    "choices": [
+      "一次火山爆发",
+      "一场伴有丛林大火的干旱",
+      "第二支舰队的到来",
+      "一场天花疫情"
+    ],
+    "answer": 3,
+    "explanation": "这场通常被认定为天花的疫情使该地区约一半的原住民丧生；其来源尚有争议。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-17",
+    "epochId": "ozeanien-pazifik",
+    "question": "本尼朗是谁？",
+    "choices": [
+      "帕拉马塔附近武装抵抗的一位领袖",
+      "在埃奥拉人与殖民者之间进行调解的一名旺加尔人",
+      "伦敦传道会的一名传教士",
+      "第一个发现黄金的囚犯"
+    ],
+    "answer": 1,
+    "explanation": "本尼朗于1789年被抓获，后来成为重要的中间人，并于1792年随菲利普前往英国。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-18",
+    "epochId": "ozeanien-pazifik",
+    "question": "约从1790年起，哪位比吉加尔人领导了悉尼附近反抗殖民者的斗争？",
+    "choices": [
+      "本尼朗",
+      "阿拉巴努",
+      "洪吉·希卡",
+      "佩穆尔维"
+    ],
+    "answer": 3,
+    "explanation": "佩穆尔维领导了对帕拉马塔附近和霍克斯伯里河沿岸农场的袭击，持续了十多年，直到1802年被枪杀。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-19",
+    "epochId": "ozeanien-pazifik",
+    "question": "来自望加锡的航海者在澳大利亚北部海岸寻找什么？",
+    "choices": [
+      "海参",
+      "黄金",
+      "运往欧洲的珍珠",
+      "檀香木"
+    ],
+    "answer": 0,
+    "explanation": "望加锡人采集并晒干海参，海参在中国被视为珍馐和药材。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-20",
+    "epochId": "ozeanien-pazifik",
+    "question": "原住民认为祖先神灵创造了大地，这种世界观在英语中通常叫什么？",
+    "choices": [
+      "祖先时代",
+      "创世之夜",
+      "梦幻时代",
+      "星辰之路"
+    ],
+    "answer": 2,
+    "explanation": "梦幻时代不是已经结束的过去，而是存在于地点、歌曲和仪式之中。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-21",
+    "epochId": "ozeanien-pazifik",
+    "question": "“歌之版图”是什么？",
+    "choices": [
+      "望加锡航海者的贸易路线",
+      "塔希提岛上传教士的赞美诗",
+      "描述祖先神灵穿越大地之路的组歌",
+      "用棕榈叶脉和贝壳制成的海图"
+    ],
+    "answer": 2,
+    "explanation": "歌之版图把梦幻时代的歌曲、地点和故事联系在一起，也是长途跋涉时的向导。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-22",
+    "epochId": "ozeanien-pazifik",
+    "question": "托雷斯海峡的“光明降临”节纪念的是什么？",
+    "choices": [
+      "1871年基督教传教士的到来",
+      "1879年并入昆士兰",
+      "1770年库克的登陆",
+      "采珠贝潜水的结束"
+    ],
+    "answer": 0,
+    "explanation": "1871年7月1日，伦敦传道会的传教士在埃鲁布岛登陆；这一天至今仍被庆祝。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-23",
+    "epochId": "ozeanien-pazifik",
+    "question": "毛利人的设防聚落叫什么？",
+    "choices": [
+      "马拉埃",
+      "黑奥",
+      "阿胡",
+      "帕"
+    ],
+    "answer": 3,
+    "explanation": "帕通常建在山丘或岬角上，由壕沟、土墙和木栅栏保护；马拉埃则是集会场所。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-24",
+    "epochId": "ozeanien-pazifik",
+    "question": "新西兰的第一批定居者把哪种巨大的不会飞的鸟猎杀到灭绝？",
+    "choices": [
+      "几维鸟",
+      "恐鸟",
+      "鸮鹦鹉",
+      "鸸鹋"
+    ],
+    "answer": 1,
+    "explanation": "在人类到达后大约一到两个世纪内，恐鸟就被消灭殆尽。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-25",
+    "epochId": "ozeanien-pazifik",
+    "question": "在毛利人的传说中，他们祖先的故乡叫什么名字？",
+    "choices": [
+      "奥特亚罗瓦",
+      "拉帕努伊",
+      "特怀波纳穆",
+      "哈瓦基"
+    ],
+    "answer": 3,
+    "explanation": "传说讲述了乘坐塔伊努伊和特阿拉瓦等独木舟从哈瓦基出发的航行；奥特亚罗瓦是新西兰的毛利语名称。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-26",
+    "epochId": "ozeanien-pazifik",
+    "question": "哪种来自南美洲的作物被视为波利尼西亚人与南美洲早期接触的证据？",
+    "choices": [
+      "芋头",
+      "甘薯",
+      "面包果",
+      "椰子树"
+    ],
+    "answer": 1,
+    "explanation": "甘薯原产于南美洲，在欧洲人到来之前就已在波利尼西亚广泛种植；接触的具体情况尚有争议。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-27",
+    "epochId": "ozeanien-pazifik",
+    "question": "谁把夏威夷群岛统一成一个王国？",
+    "choices": [
+      "利留卡拉尼",
+      "卡拉卡瓦",
+      "卡美哈梅哈一世",
+      "利霍利霍"
+    ],
+    "answer": 2,
+    "explanation": "卡美哈梅哈一世于1795年征服了大部分岛屿；1810年考艾岛也归顺了。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-28",
+    "epochId": "ozeanien-pazifik",
+    "question": "1810年，哪位统治者不战而归顺了卡美哈梅哈？",
+    "choices": [
+      "考艾岛的考穆阿利伊",
+      "夏威夷岛的卡拉尼奥普乌",
+      "毛伊岛的卡赫基利",
+      "塔希提的波马雷二世"
+    ],
+    "answer": 0,
+    "explanation": "考艾岛和尼豪岛的统治者考穆阿利伊于1810年承认了卡美哈梅哈的宗主地位，统一由此完成。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-29",
+    "epochId": "ozeanien-pazifik",
+    "question": "1819年，哪位女性促成了夏威夷“卡普”制度的废除？",
+    "choices": [
+      "卡阿胡马努",
+      "利留卡拉尼",
+      "埃玛",
+      "凯埃利科拉尼"
+    ],
+    "answer": 0,
+    "explanation": "卡阿胡马努是卡美哈梅哈一世最有影响力的妻子，她说服年轻的国王当众打破饮食禁忌。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-30",
+    "epochId": "ozeanien-pazifik",
+    "question": "1819年，利霍利霍国王当众打破了哪项禁令，以结束“卡普”制度？",
+    "choices": [
+      "禁止进入神圣火山的禁令",
+      "禁止在产卵季节捕鱼的禁令",
+      "禁止男女同食的禁令",
+      "禁止穿羽毛斗篷的禁令"
+    ],
+    "answer": 2,
+    "explanation": "利霍利霍在一次宴会上与女性一起进食；随后他下令摧毁神庙、焚烧神像。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-31",
+    "epochId": "ozeanien-pazifik",
+    "question": "1893年，夏威夷哪位女王被推翻？",
+    "choices": [
+      "卡阿胡马努",
+      "利留卡拉尼",
+      "波马雷四世",
+      "萨洛特·图普三世"
+    ],
+    "answer": 1,
+    "explanation": "1893年1月，利留卡拉尼被得到美国海军陆战队支持的美国商人推翻。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-32",
+    "epochId": "ozeanien-pazifik",
+    "question": "美国在哪一年吞并了夏威夷？",
+    "choices": [
+      "1867年",
+      "1893年",
+      "1959年",
+      "1898年"
+    ],
+    "answer": 3,
+    "explanation": "国会于1898年7月批准吞并；1959年夏威夷成为第50个州。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-33",
+    "epochId": "ozeanien-pazifik",
+    "question": "1893年，谁推翻了夏威夷君主制？",
+    "choices": [
+      "来自新西兰的英国军队",
+      "得到美国海军陆战队支持的美国商人和种植园主",
+      "日本移民",
+      "夏威夷酋长们的起义"
+    ],
+    "answer": 1,
+    "explanation": "在美国海军陆战队登岸之后，一个由商人组成的“安全委员会”宣布成立临时政府。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-34",
+    "epochId": "ozeanien-pazifik",
+    "question": "哪首歌是利留卡拉尼女王创作的？",
+    "choices": [
+      "《夏威夷之子》",
+      "《丛林流浪》",
+      "《天佑新西兰》",
+      "《珍重再见》"
+    ],
+    "answer": 3,
+    "explanation": "利留卡拉尼创作了许多歌曲，其中包括《珍重再见》（Aloha ʻOe）；《夏威夷之子》的歌词则出自她的哥哥卡拉卡瓦之手。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-35",
+    "epochId": "ozeanien-pazifik",
+    "question": "《怀唐伊条约》是在哪一年签署的？",
+    "choices": [
+      "1840年",
+      "1788年",
+      "1814年",
+      "1865年"
+    ],
+    "answer": 0,
+    "explanation": "1840年2月6日，威廉·霍布森与毛利酋长们在怀唐伊签署了这项条约。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-36",
+    "epochId": "ozeanien-pazifik",
+    "question": "谁代表英国王室签署了《怀唐伊条约》？",
+    "choices": [
+      "阿瑟·菲利普",
+      "詹姆斯·库克",
+      "威廉·霍布森",
+      "乔治·格雷"
+    ],
+    "answer": 2,
+    "explanation": "霍布森奉命争取酋长们同意英国的统治，并于1841年成为总督。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-37",
+    "epochId": "ozeanien-pazifik",
+    "question": "《怀唐伊条约》的毛利文本以“tino rangatiratanga”保证了什么？",
+    "choices": [
+      "把全部主权让与王室",
+      "在英国议会中的席位",
+      "对土地、村庄和珍宝的完全权威",
+      "皈依基督教"
+    ],
+    "answer": 2,
+    "explanation": "根据毛利文本，酋长们只让出了“kāwanatanga”（治理权），保留了“tino rangatiratanga”（完全权威）；这正是关于该条约争议的核心。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-38",
+    "epochId": "ozeanien-pazifik",
+    "question": "哪位恩加普希部落酋长于1820年前往英国，此后用滑膛枪发动征战？",
+    "choices": [
+      "洪吉·希卡",
+      "霍内·赫凯",
+      "特库提",
+      "波塔陶·特费罗费罗"
+    ],
+    "answer": 0,
+    "explanation": "洪吉·希卡在英国见到了国王乔治四世，并在归途中于悉尼购得了大批滑膛枪。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-39",
+    "epochId": "ozeanien-pazifik",
+    "question": "19世纪初毛利部落之间首次使用火器的战争叫什么？",
+    "choices": [
+      "新西兰战争",
+      "旗杆战争",
+      "怀卡托战争",
+      "滑膛枪战争"
+    ],
+    "answer": 3,
+    "explanation": "在滑膛枪战争中，毛利部落相互争斗；而新西兰战争则是毛利人与英国军队之间的战争。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-40",
+    "epochId": "ozeanien-pazifik",
+    "question": "从1844年起，哪位酋长多次砍倒科罗拉雷卡的英国旗杆？",
+    "choices": [
+      "洪吉·希卡",
+      "霍内·赫凯",
+      "特劳帕拉哈",
+      "维雷穆·塔米哈纳"
+    ],
+    "answer": 1,
+    "explanation": "霍内·赫凯对英国统治的抗议于1845年引发了新西兰战争中的第一场战争。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-41",
+    "epochId": "ozeanien-pazifik",
+    "question": "1858年，谁被推选为第一位毛利国王？",
+    "choices": [
+      "洪吉·希卡",
+      "塔菲奥",
+      "特库提",
+      "波塔陶·特费罗费罗"
+    ],
+    "answer": 3,
+    "explanation": "毛利王运动推选这位年迈的怀卡托酋长，以保护土地不被出售；1860年，他的儿子塔菲奥继位。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-42",
+    "epochId": "ozeanien-pazifik",
+    "question": "1863/64年怀卡托战争之后，许多毛利部落的土地遭遇了什么？",
+    "choices": [
+      "政府按市场价格购买了这些土地",
+      "政府没收了这些土地",
+      "这些土地被置于毛利王运动的保护之下",
+      "这些土地被交给了传教团"
+    ],
+    "answer": 1,
+    "explanation": "根据1863年的一项法律，政府没收了一百多万公顷毛利人的土地。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-43",
+    "epochId": "ozeanien-pazifik",
+    "question": "1851年，是什么引发了向澳大利亚的大规模移民？",
+    "choices": [
+      "停止流放囚犯",
+      "联邦的成立",
+      "在新南威尔士和维多利亚发现黄金",
+      "修建横贯大陆的铁路"
+    ],
+    "answer": 2,
+    "explanation": "在巴瑟斯特、巴拉瑞特和本迪戈发现黄金之后，维多利亚的人口在十年内增至50多万。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-44",
+    "epochId": "ozeanien-pazifik",
+    "question": "1854年的尤里卡栅栏起义反对的是什么？",
+    "choices": [
+      "金矿区昂贵的采矿执照",
+      "流放囚犯",
+      "各殖民地的联邦化",
+      "羊毛出口税"
+    ],
+    "answer": 0,
+    "explanation": "巴拉瑞特的矿工对执照费愤慨不已；起义被镇压，但带来了改革。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-45",
+    "epochId": "ozeanien-pazifik",
+    "question": "澳大利亚联邦是何时成立的？",
+    "choices": [
+      "1901年1月1日",
+      "1788年1月26日",
+      "1840年2月6日",
+      "1871年7月1日"
+    ],
+    "answer": 0,
+    "explanation": "1901年1月1日，澳大利亚的六个殖民地联合为一个联邦。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-46",
+    "epochId": "ozeanien-pazifik",
+    "question": "谁是澳大利亚的第一任总理？",
+    "choices": [
+      "亨利·帕克斯",
+      "阿尔弗雷德·迪金",
+      "埃德蒙·巴顿",
+      "阿瑟·菲利普"
+    ],
+    "answer": 2,
+    "explanation": "埃德蒙·巴顿于1901年至1903年领导第一届联邦政府，随后成为高等法院法官。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-47",
+    "epochId": "ozeanien-pazifik",
+    "question": "1901年的《移民限制法》确立了哪项政策？",
+    "choices": [
+      "鼓励亚洲移民",
+      "“白澳”政策",
+      "把土地归还原住民",
+      "停止流放囚犯"
+    ],
+    "answer": 1,
+    "explanation": "这部法律主要旨在把来自亚洲和太平洋地区的移民拒之门外，经修改后沿用了数十年。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-48",
+    "epochId": "ozeanien-pazifik",
+    "question": "1875年，哪位国王为汤加制定了宪法？",
+    "choices": [
+      "卡美哈梅哈一世",
+      "波马雷二世",
+      "卡科鲍",
+      "乔治·图普一世"
+    ],
+    "answer": 3,
+    "explanation": "乔治·图普一世于1845年统一了汤加；他在1875年制定的宪法帮助该国避免了被殖民。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-49",
+    "epochId": "ozeanien-pazifik",
+    "question": "据传说世系始于10世纪的汤加神圣国王叫什么？",
+    "choices": [
+      "阿利伊努伊",
+      "图伊汤加",
+      "阿里基毛",
+      "图伊马努阿"
+    ],
+    "answer": 1,
+    "explanation": "图伊汤加被视为天神坦加罗亚的后裔；从15世纪起，他们把世俗权力交给了其他世系。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-50",
+    "epochId": "ozeanien-pazifik",
+    "question": "1797年，哪个传教会用“达夫号”船把传教士送到了塔希提？",
+    "choices": [
+      "耶稣会",
+      "摩拉维亚弟兄会",
+      "美国海外传教部",
+      "伦敦传道会"
+    ],
+    "answer": 3,
+    "explanation": "1797年，伦敦传道会在塔希提开始了新教在波利尼西亚的传教。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-51",
+    "epochId": "ozeanien-pazifik",
+    "question": "“黑鸟贸易”（blackbirding）一词指的是什么？",
+    "choices": [
+      "以欺骗或强迫手段招募太平洋岛民劳工",
+      "猎捕黑天鹅",
+      "传教士禁止文身",
+      "为制作斗篷而进行的鸟羽贸易"
+    ],
+    "answer": 0,
+    "explanation": "数以万计的美拉尼西亚人以这种方式被招募到昆士兰、斐济和萨摩亚的种植园。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-52",
+    "epochId": "ozeanien-pazifik",
+    "question": "“禁忌”（taboo）一词来自哪些语言？",
+    "choices": [
+      "来自拉丁语",
+      "来自阿拉伯语",
+      "来自波利尼西亚诸语言",
+      "来自澳大利亚原住民语言"
+    ],
+    "answer": 2,
+    "explanation": "詹姆斯·库克把“tapu”一词从汤加带到了欧洲；它指神圣而被禁止的事物。",
+    "difficulty": 1
+  },
+  {
     "id": "q-renaissance-entdeckungen-01",
     "epochId": "renaissance-entdeckungen",
     "question": "1450年前后，哪项发明被归功于约翰内斯·古腾堡？",
@@ -13104,6 +14560,1462 @@
     "difficulty": 3
   },
   {
+    "id": "q-russland-osteuropa-01",
+    "epochId": "russland-osteuropa",
+    "question": "据《往年纪事》记载，862年诺夫哥罗德周围的部落邀请谁来统治他们？",
+    "choices": [
+      "拔都汗",
+      "瓦良格人留里克",
+      "巴西尔二世皇帝",
+      "梅什科公"
+    ],
+    "answer": 1,
+    "explanation": "12世纪初的《往年纪事》讲述了邀请留里克的故事；其中有多少是史实并不确定。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-02",
+    "epochId": "russland-osteuropa",
+    "question": "约882年，奥列格使哪座城市成为罗斯的中心？",
+    "choices": [
+      "莫斯科",
+      "诺夫哥罗德",
+      "斯摩棱斯克",
+      "基辅"
+    ],
+    "answer": 3,
+    "explanation": "奥列格从诺夫哥罗德沿第聂伯河南下，征服了基辅，据编年史记载，他称之为“罗斯诸城之母”。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-03",
+    "epochId": "russland-osteuropa",
+    "question": "哪位公主曾为她的儿子斯维亚托斯拉夫摄政，并约在957年于君士坦丁堡受洗？",
+    "choices": [
+      "奥尔加",
+      "安娜",
+      "雅德维加",
+      "索菲娅"
+    ],
+    "answer": 0,
+    "explanation": "伊戈尔公的遗孀奥尔加是第一位接受基督教的罗斯统治者。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-04",
+    "epochId": "russland-osteuropa",
+    "question": "988年受洗之际，弗拉基米尔一世娶了谁？",
+    "choices": [
+      "波兰女王雅德维加",
+      "奥托二世皇帝的遗孀狄奥法努",
+      "拜占庭皇帝巴西尔二世的妹妹安娜",
+      "瑞典国王的女儿英格格尔德"
+    ],
+    "answer": 2,
+    "explanation": "与皇帝的妹妹安娜的婚姻使基辅罗斯与拜占庭紧密相连。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-05",
+    "epochId": "russland-osteuropa",
+    "question": "罗斯最古老的法典叫什么名字？它的第一个版本可追溯到“智者”雅罗斯拉夫。",
+    "choices": [
+      "《律书》",
+      "《治家格言》",
+      "《罗斯法典》",
+      "《会议法典》"
+    ],
+    "answer": 2,
+    "explanation": "《罗斯法典》限制了血亲复仇，并规定了对犯罪的罚金。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-06",
+    "epochId": "russland-osteuropa",
+    "question": "“智者”雅罗斯拉夫的哪个女儿成为了法国王后？",
+    "choices": [
+      "安娜",
+      "伊丽莎白",
+      "阿纳斯塔西娅",
+      "奥尔加"
+    ],
+    "answer": 0,
+    "explanation": "安娜于1051年嫁给法国国王亨利一世；她的姐妹们分别成为挪威王后和匈牙利王后。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-07",
+    "epochId": "russland-osteuropa",
+    "question": "蒙古人在哪一年征服并摧毁了基辅？",
+    "choices": [
+      "1223年",
+      "1380年",
+      "1480年",
+      "1240年"
+    ],
+    "answer": 3,
+    "explanation": "1240年12月，基辅落入拔都的军队之手；此后这座城市长期失去了重要地位。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-08",
+    "epochId": "russland-osteuropa",
+    "question": "金帐汗国的都城在哪里？",
+    "choices": [
+      "蒙古的哈拉和林",
+      "伏尔加河下游的萨莱",
+      "伏尔加河中游的喀山",
+      "克里米亚的巴赫奇萨赖"
+    ],
+    "answer": 1,
+    "explanation": "伏尔加河下游的萨莱是大汗的驻地，俄罗斯王公们必须前往那里。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-09",
+    "epochId": "russland-osteuropa",
+    "question": "“雅尔利克”是什么？",
+    "choices": [
+      "只由诺夫哥罗德商人缴纳的一种税",
+      "罗斯北部农民的木屋",
+      "第聂伯河哥萨克的选举机构",
+      "大汗颁发的确认王公职位的诏书"
+    ],
+    "answer": 3,
+    "explanation": "没有金帐汗国颁发的“雅尔雷克”（册封诏书），任何罗斯王公都无法统治；莫斯科的王公们尤其善于获取它。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-10",
+    "epochId": "russland-osteuropa",
+    "question": "1242年，亚历山大·涅夫斯基在冰封的楚德湖上与谁作战？",
+    "choices": [
+      "金帐汗国",
+      "利沃尼亚骑士团",
+      "瑞典王国",
+      "立陶宛大公国"
+    ],
+    "answer": 1,
+    "explanation": "亚历山大击败了条顿骑士团的分支利沃尼亚骑士团的军队；1240年他已在涅瓦河畔打败了瑞典人。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-11",
+    "epochId": "russland-osteuropa",
+    "question": "在诺夫哥罗德，选举市长并召请王公的民众大会叫什么？",
+    "choices": [
+      "瑟姆（议会）",
+      "杜马",
+      "维彻",
+      "拉达"
+    ],
+    "answer": 2,
+    "explanation": "维彻使诺夫哥罗德成为城市共和国，直到1478年伊凡三世下令把它的大钟运往莫斯科。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-12",
+    "epochId": "russland-osteuropa",
+    "question": "诺夫哥罗德人把日常书信写在什么上面？考古学家自1951年以来一直在地下发现这些书信。",
+    "choices": [
+      "写在桦树皮上",
+      "写在纸莎草上",
+      "写在泥板上",
+      "写在丝绸上"
+    ],
+    "answer": 0,
+    "explanation": "一千多份桦树皮文书表明，诺夫哥罗德的商人、工匠和妇女也能读会写。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-13",
+    "epochId": "russland-osteuropa",
+    "question": "哪位莫斯科王公的绰号是“卡利塔”，意为“钱袋”？",
+    "choices": [
+      "伊凡一世",
+      "伊凡三世",
+      "德米特里·顿斯科伊",
+      "瓦西里二世"
+    ],
+    "answer": 0,
+    "explanation": "伊凡一世为汗国征收贡赋，大量收购土地，并把都主教迎到了莫斯科。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-14",
+    "epochId": "russland-osteuropa",
+    "question": "1380年，哪位大公在库利科沃原野击败了汗国的军队？",
+    "choices": [
+      "亚历山大·涅夫斯基",
+      "伊凡四世",
+      "莫斯科的德米特里",
+      "智者雅罗斯拉夫"
+    ],
+    "answer": 2,
+    "explanation": "在顿河畔取胜后，德米特里获得了“顿斯科伊”的称号。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-15",
+    "epochId": "russland-osteuropa",
+    "question": "1380年在库利科沃原野，是谁率领汗国的军队？",
+    "choices": [
+      "拔都汗",
+      "军阀马麦",
+      "阿合马汗",
+      "帖木儿"
+    ],
+    "answer": 1,
+    "explanation": "马麦当时控制着汗国的西部；两年后，脱脱迷失汗蹂躏了莫斯科。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-16",
+    "epochId": "russland-osteuropa",
+    "question": "1385年的克雷沃联合约定了什么？",
+    "choices": [
+      "波兰和立陶宛沿第聂伯河瓜分乌克兰",
+      "莫斯科不再向汗国纳贡",
+      "立陶宛把萨莫吉希亚割让给条顿骑士团",
+      "约盖拉受洗并迎娶波兰女王雅德维加"
+    ],
+    "answer": 3,
+    "explanation": "这一联合使波兰和立陶宛结成共主邦联，并开启了立陶宛的基督教化。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-17",
+    "epochId": "russland-osteuropa",
+    "question": "1410年在格伦瓦尔德战役（坦能堡战役）中，是谁击败了条顿骑士团？",
+    "choices": [
+      "莫斯科和诺夫哥罗德的军队",
+      "波兰和立陶宛的军队",
+      "瑞典和丹麦的军队",
+      "金帐汗国的军队"
+    ],
+    "answer": 1,
+    "explanation": "国王瓦迪斯瓦夫二世·雅盖沃和维陶塔斯大公取得了胜利；大团长乌尔里希·冯·容金根阵亡。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-18",
+    "epochId": "russland-osteuropa",
+    "question": "1480年乌格拉河对峙时发生了什么？",
+    "choices": [
+      "伊凡四世经过长期围攻攻占了喀山城",
+      "立陶宛和波兰合并为一个共同的国家",
+      "蒙古人首次击败了罗斯王公们的军队",
+      "经过数周对峙，可汗撤退，莫斯科停止纳贡"
+    ],
+    "answer": 3,
+    "explanation": "没有经过大规模战斗，莫斯科对汗国的依附就宣告结束；后来的历史学家把“鞑靼枷锁”的终结定在这一时刻。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-19",
+    "epochId": "russland-osteuropa",
+    "question": "1472年，伊凡三世娶了末代拜占庭皇帝的哪位侄女？",
+    "choices": [
+      "索菲娅·帕列奥罗格",
+      "安娜·科穆宁娜",
+      "狄奥多拉·坎塔库泽娜",
+      "伊琳娜·杜凯娜"
+    ],
+    "answer": 0,
+    "explanation": "这桩婚姻突显了莫斯科对拜占庭遗产的继承要求；双头鹰也是在伊凡三世时期开始使用的。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-20",
+    "epochId": "russland-osteuropa",
+    "question": "1478年，哪个城市共和国不得不彻底臣服于伊凡三世？",
+    "choices": [
+      "普斯科夫",
+      "格但斯克",
+      "诺夫哥罗德",
+      "里加"
+    ],
+    "answer": 2,
+    "explanation": "伊凡三世下令把诺夫哥罗德的维彻钟运到莫斯科，并迁走了许多波雅尔家族。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-21",
+    "epochId": "russland-osteuropa",
+    "question": "伊凡四世在哪一年加冕为沙皇？",
+    "choices": [
+      "1480年",
+      "1613年",
+      "1547年",
+      "1721年"
+    ],
+    "answer": 2,
+    "explanation": "1547年1月16日，都主教马卡里在克里姆林宫为他加冕，他成为第一位拥有沙皇称号的俄罗斯统治者。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-22",
+    "epochId": "russland-osteuropa",
+    "question": "1552年，伊凡四世征服了伏尔加河畔的哪个汗国？",
+    "choices": [
+      "喀山",
+      "克里米亚",
+      "西伯利亚",
+      "希瓦"
+    ],
+    "answer": 0,
+    "explanation": "得到喀山以及四年后的阿斯特拉罕后，莫斯科控制了整条伏尔加河。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-23",
+    "epochId": "russland-osteuropa",
+    "question": "红场上的哪座建筑是为纪念征服喀山而建的？",
+    "choices": [
+      "圣索菲亚大教堂",
+      "圣以撒大教堂",
+      "彼得保罗大教堂",
+      "圣瓦西里大教堂"
+    ],
+    "answer": 3,
+    "explanation": "色彩缤纷的圣瓦西里大教堂建于1555年至1561年，是为感谢这次胜利而修建的教堂。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-24",
+    "epochId": "russland-osteuropa",
+    "question": "特辖制是什么？",
+    "choices": [
+      "1613年选举新沙皇的缙绅会议",
+      "伊凡四世的特别领地，他的亲卫队从那里迫害所谓的叛徒",
+      "沙皇帝国村庄中的农民自治",
+      "扎波罗热哥萨克在第聂伯河一座岛上的驻地"
+    ],
+    "answer": 1,
+    "explanation": "1565年至1572年，特辖军恐吓波雅尔、神职人员乃至整座城市。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-25",
+    "epochId": "russland-osteuropa",
+    "question": "1570年初，伊凡四世让特辖军蹂躏了哪座城市？",
+    "choices": [
+      "喀山",
+      "特维尔",
+      "基辅",
+      "诺夫哥罗德"
+    ],
+    "answer": 3,
+    "explanation": "伊凡怀疑诺夫哥罗德叛国；数千名居民被杀，确切数字不得而知。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-26",
+    "epochId": "russland-osteuropa",
+    "question": "1598年，随着哪位沙皇的去世，留里克王朝的莫斯科一支绝嗣？",
+    "choices": [
+      "伊凡四世",
+      "费奥多尔一世",
+      "鲍里斯·戈杜诺夫",
+      "米哈伊尔·罗曼诺夫"
+    ],
+    "answer": 1,
+    "explanation": "无子的费奥多尔一世去世后，混乱时期开始了。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-27",
+    "epochId": "russland-osteuropa",
+    "question": "1612年，是谁领导民军把波兰-立陶宛占领者赶出了莫斯科？",
+    "choices": [
+      "斯坚卡·拉辛和叶梅利扬·普加乔夫",
+      "鲍里斯·戈杜诺夫和牧首菲拉列特",
+      "库兹马·米宁和德米特里·波扎尔斯基公爵",
+      "亚历山大·涅夫斯基和德米特里·顿斯科伊"
+    ],
+    "answer": 2,
+    "explanation": "来自下诺夫哥罗德的商人米宁和波扎尔斯基公爵于1612年秋解放了克里姆林宫。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-28",
+    "epochId": "russland-osteuropa",
+    "question": "1613年，哪个会议选举米哈伊尔·罗曼诺夫为沙皇？",
+    "choices": [
+      "缙绅会议",
+      "神圣宗教会议",
+      "维彻",
+      "瑟姆（议会）"
+    ],
+    "answer": 0,
+    "explanation": "缙绅会议是由贵族、神职人员、城市和哥萨克代表组成的全国会议。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-29",
+    "epochId": "russland-osteuropa",
+    "question": "1569年的卢布林联合创建了哪个国家？",
+    "choices": [
+      "两族共和国（波兰-立陶宛）",
+      "莫斯科大公国",
+      "哥萨克盖特曼国",
+      "加利西亚王国"
+    ],
+    "answer": 0,
+    "explanation": "波兰和立陶宛有了共同的国王和议会，但保留了各自的官职和法律。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-30",
+    "epochId": "russland-osteuropa",
+    "question": "在波兰-立陶宛议会中，自由否决权意味着什么？",
+    "choices": [
+      "国王可以不说明理由否决任何法律",
+      "农民可以在法庭上起诉地主",
+      "一名议员提出反对就能阻止决议通过",
+      "每个贵族都可以自由选择自己的教派"
+    ],
+    "answer": 2,
+    "explanation": "全体一致原则在17世纪和18世纪使共和国陷入瘫痪，直到1791年宪法将其废除。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-31",
+    "epochId": "russland-osteuropa",
+    "question": "1596年的布列斯特联合产生了什么？",
+    "choices": [
+      "波兰-立陶宛与瑞典结成反对莫斯科的同盟",
+      "承认教宗并保留东方礼仪的希腊礼天主教会",
+      "立陶宛大公国的第一所大学",
+      "哥萨克与克里米亚鞑靼人之间的和约"
+    ],
+    "answer": 1,
+    "explanation": "波兰-立陶宛的部分东正教主教归附罗马；他们的教会至今仍广泛分布，尤其是在乌克兰西部。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-32",
+    "epochId": "russland-osteuropa",
+    "question": "1517年，来自波洛茨克的弗朗齐斯克·斯卡里纳在哪座城市印刷了他的《诗篇》？",
+    "choices": [
+      "克拉科夫",
+      "莫斯科",
+      "威尼斯",
+      "布拉格"
+    ],
+    "answer": 3,
+    "explanation": "1517年至1519年，斯卡里纳在布拉格用一种东斯拉夫书面语印刷了《圣经》各卷，后来又在维尔纽斯工作。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-33",
+    "epochId": "russland-osteuropa",
+    "question": "1648年，是谁领导了反抗波兰-立陶宛的哥萨克大起义？",
+    "choices": [
+      "伊万·马泽帕",
+      "博赫丹·赫梅利尼茨基",
+      "斯坚卡·拉辛",
+      "叶尔马克"
+    ],
+    "answer": 1,
+    "explanation": "取得最初的胜利后，赫梅利尼茨基在乌克兰建立了盖特曼国。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-34",
+    "epochId": "russland-osteuropa",
+    "question": "1654年，赫梅利尼茨基在什么地方归附了沙皇？",
+    "choices": [
+      "波尔塔瓦",
+      "安德鲁索沃",
+      "巴图林",
+      "佩列亚斯拉夫"
+    ],
+    "answer": 3,
+    "explanation": "乌克兰和俄罗斯的历史学家至今对佩列亚斯拉夫协议仍有不同的解读。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-35",
+    "epochId": "russland-osteuropa",
+    "question": "扎波罗热哥萨克在第聂伯河下游的设防中心叫什么？",
+    "choices": [
+      "谢契",
+      "克里姆林",
+      "波萨德",
+      "奥斯特罗格"
+    ],
+    "answer": 0,
+    "explanation": "扎波罗热谢契位于第聂伯河险滩之外，因此得名“扎波罗热”，意为“险滩之外”。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-36",
+    "epochId": "russland-osteuropa",
+    "question": "17世纪，哪位牧首的教会改革引发了俄罗斯教会的分裂？",
+    "choices": [
+      "菲拉列特",
+      "马卡里",
+      "尼康",
+      "伊拉里翁"
+    ],
+    "answer": 2,
+    "explanation": "尼康下令按照希腊范本修改礼仪书和仪式；1666/67年的宗教会议确认了这些改革。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-37",
+    "epochId": "russland-osteuropa",
+    "question": "拒绝接受17世纪教会改革的信徒被称为什么？",
+    "choices": [
+      "东仪天主教徒",
+      "胡斯派",
+      "旧礼仪派",
+      "再洗礼派"
+    ],
+    "answer": 2,
+    "explanation": "旧礼仪派坚持旧的仪式，例如用两指画十字，并长期遭受迫害。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-38",
+    "epochId": "russland-osteuropa",
+    "question": "1709年，彼得大帝在今天乌克兰的哪座城镇附近击败了查理十二世的军队？",
+    "choices": [
+      "波尔塔瓦",
+      "纳尔瓦",
+      "基辅",
+      "亚速"
+    ],
+    "answer": 0,
+    "explanation": "波尔塔瓦的胜利结束了瑞典在北方的霸权，使俄国成为大国。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-39",
+    "epochId": "russland-osteuropa",
+    "question": "在大北方战争期间，哪位哥萨克盖特曼投靠了查理十二世？",
+    "choices": [
+      "博赫丹·赫梅利尼茨基",
+      "彼得罗·多罗申科",
+      "皮利普·奥尔利克",
+      "伊万·马泽帕"
+    ],
+    "answer": 3,
+    "explanation": "马泽帕希望瑞典能保障盖特曼国的独立，波尔塔瓦战役后他随查理逃往奥斯曼帝国。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-40",
+    "epochId": "russland-osteuropa",
+    "question": "1791年5月3日，波兰-立陶宛议会通过了什么？",
+    "choices": [
+      "把立陶宛割让给俄国",
+      "一部废除自由否决权的宪法",
+      "选举一位俄国大公为国王",
+      "解除与立陶宛的联合"
+    ],
+    "answer": 1,
+    "explanation": "5月3日宪法被视为欧洲第一部现代成文宪法；这一天是波兰的国庆节日。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-41",
+    "epochId": "russland-osteuropa",
+    "question": "1794年，是谁领导了反抗俄国和普鲁士的起义？",
+    "choices": [
+      "约瑟夫·毕苏斯基",
+      "亚当·密茨凯维奇",
+      "斯坦尼斯瓦夫·奥古斯特·波尼亚托夫斯基",
+      "塔德乌什·科希丘什科"
+    ],
+    "answer": 3,
+    "explanation": "科希丘什科在拉茨瓦维采取胜，但于1794年10月在马切约维采被俘。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-42",
+    "epochId": "russland-osteuropa",
+    "question": "随着第三次瓜分，波兰-立陶宛在哪一年从地图上消失？",
+    "choices": [
+      "1772年",
+      "1795年",
+      "1793年",
+      "1815年"
+    ],
+    "answer": 1,
+    "explanation": "1795年，俄国、普鲁士和奥地利瓜分了剩余的领土。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-43",
+    "epochId": "russland-osteuropa",
+    "question": "1741年，哪位为俄国效力的航海家到达了阿拉斯加海岸？",
+    "choices": [
+      "詹姆斯·库克",
+      "谢苗·杰日尼奥夫",
+      "维图斯·白令",
+      "亚当·约翰·冯·克鲁森施滕"
+    ],
+    "answer": 2,
+    "explanation": "丹麦人维图斯·白令领导了大北方考察；1741年，他在后来以他的名字命名的岛上去世。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-44",
+    "epochId": "russland-osteuropa",
+    "question": "1867年，俄国把阿拉斯加卖给了哪个国家？",
+    "choices": [
+      "美国",
+      "英国",
+      "加拿大",
+      "日本"
+    ],
+    "answer": 0,
+    "explanation": "美国支付了720万美元；加拿大在同一年才成为自治领。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-45",
+    "epochId": "russland-osteuropa",
+    "question": "十二月党人的名称从何而来？",
+    "choices": [
+      "来自他们在1825年12月发动的起义",
+      "来自他们的十名创始成员",
+      "来自流放他们的沙皇敕令",
+      "来自他们必须在流放中度过的十年"
+    ],
+    "answer": 0,
+    "explanation": "俄语中“十二月”一词是“dekabr”；起义发生在1825年12月14日。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-46",
+    "epochId": "russland-osteuropa",
+    "question": "1861年，哪位沙皇在俄国废除了农奴制？",
+    "choices": [
+      "尼古拉一世",
+      "亚历山大一世",
+      "亚历山大二世",
+      "亚历山大三世"
+    ],
+    "answer": 2,
+    "explanation": "按儒略历1861年2月19日颁布的宣言，约2300万私人农奴获得了自由。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-47",
+    "epochId": "russland-osteuropa",
+    "question": "1864年沙皇帝国引入的“泽姆斯特沃”是什么？",
+    "choices": [
+      "与草原接壤的边境上的军屯",
+      "选举产生的地方自治机构",
+      "国家的烈酒专卖",
+      "沙皇的秘密警察机构"
+    ],
+    "answer": 1,
+    "explanation": "泽姆斯特沃负责农村的学校、医疗和道路；贵族、市民和农民都有代表参加。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-48",
+    "epochId": "russland-osteuropa",
+    "question": "1840年，塔拉斯·舍甫琴科的哪部诗集成为现代乌克兰文学的奠基之作？",
+    "choices": [
+      "《叶甫盖尼·奥涅金》",
+      "《塔德乌什先生》",
+      "《死魂灵》",
+      "《科布扎歌手》"
+    ],
+    "answer": 3,
+    "explanation": "《科布扎歌手》用乌克兰语歌颂了哥萨克的历史和农民的苦难。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-49",
+    "epochId": "russland-osteuropa",
+    "question": "1876年的《埃姆斯敕令》禁止了什么？",
+    "choices": [
+      "农民移居西伯利亚",
+      "印刷和进口大多数乌克兰语书籍",
+      "在教堂中使用波兰语",
+      "在工厂中成立工会"
+    ],
+    "answer": 1,
+    "explanation": "此后，乌克兰作家把他们的工作转移到了奥地利统治下的加利西亚。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-50",
+    "epochId": "russland-osteuropa",
+    "question": "1905年1月的哪一事件引发了俄国第一次革命？",
+    "choices": [
+      "亚历山大二世遇刺",
+      "“波将金号”战列舰起义",
+      "塞瓦斯托波尔要塞陷落",
+      "圣彼得堡的“流血星期日”"
+    ],
+    "answer": 3,
+    "explanation": "士兵向一支想要向沙皇递交请愿书的和平工人游行队伍开枪。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-51",
+    "epochId": "russland-osteuropa",
+    "question": "尼古拉二世在1905年的《十月宣言》中承诺了什么？",
+    "choices": [
+      "公民权利和一个选举产生的杜马",
+      "废除君主制",
+      "把被瓜分的土地归还波兰",
+      "立即结束对德国的战争"
+    ],
+    "answer": 0,
+    "explanation": "然而，杜马的权力有限，沙皇很快就解散了前两届杜马。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-52",
+    "epochId": "russland-osteuropa",
+    "question": "1917年二月革命后，哪位沙皇退位？",
+    "choices": [
+      "亚历山大三世",
+      "尼古拉一世",
+      "尼古拉二世",
+      "亚历山大二世"
+    ],
+    "answer": 2,
+    "explanation": "随着尼古拉二世于1917年3月退位，罗曼诺夫王朝三百多年的统治宣告结束。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-01",
+    "epochId": "suedostasien",
+    "question": "佛教神庙山婆罗浮屠位于今天的哪个国家？",
+    "choices": [
+      "柬埔寨",
+      "印度尼西亚",
+      "泰国",
+      "缅甸"
+    ],
+    "answer": 1,
+    "explanation": "婆罗浮屠位于印度尼西亚中爪哇，约建于780年至830年夏连特拉王朝时期。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-02",
+    "epochId": "suedostasien",
+    "question": "扶南王国的港口俄厄位于哪条河的三角洲？",
+    "choices": [
+      "伊洛瓦底江",
+      "湄南河",
+      "湄公河",
+      "红河"
+    ],
+    "answer": 2,
+    "explanation": "俄厄位于今天越南南部的湄公河三角洲；那里出土的文物来自印度、中国乃至罗马帝国。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-03",
+    "epochId": "suedostasien",
+    "question": "婆罗浮屠是献给哪种宗教的？",
+    "choices": [
+      "佛教",
+      "印度教",
+      "伊斯兰教",
+      "耆那教"
+    ],
+    "answer": 0,
+    "explanation": "婆罗浮屠是一座大乘佛教圣地；其浮雕展示了佛陀的生平和觉悟之路。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-04",
+    "epochId": "suedostasien",
+    "question": "室利佛逝王国从苏门答腊控制着哪个海峡？",
+    "choices": [
+      "霍尔木兹海峡",
+      "博斯普鲁斯海峡",
+      "直布罗陀海峡",
+      "马六甲海峡"
+    ],
+    "answer": 3,
+    "explanation": "室利佛逝以巨港为中心，控制着马六甲海峡和巽他海峡，印度与中国之间的海上贸易都要经过这里。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-05",
+    "epochId": "suedostasien",
+    "question": "哪位国王于802年在荔枝山被尊奉为转轮王，并建立了高棉帝国？",
+    "choices": [
+      "苏利耶跋摩二世",
+      "阇耶跋摩七世",
+      "阇耶跋摩二世",
+      "耶输跋摩一世"
+    ],
+    "answer": 2,
+    "explanation": "802年，阇耶跋摩二世宣布高棉独立，奠定了吴哥帝国的基础。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-06",
+    "epochId": "suedostasien",
+    "question": "吴权在哪一年于白藤江击败了中国舰队？",
+    "choices": [
+      "938年",
+      "1010年",
+      "1288年",
+      "1428年"
+    ],
+    "answer": 0,
+    "explanation": "938年的胜利结束了中国对今天越南北部约一千年的统治。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-07",
+    "epochId": "suedostasien",
+    "question": "吴权用什么计策赢得了白藤江之战？",
+    "choices": [
+      "他筑坝拦河，使舰队搁浅",
+      "他用燃烧的木筏攻击敌船",
+      "他让一座河上的桥梁坍塌",
+      "他在河床上打下包铁的木桩，退潮时木桩刺穿了敌船"
+    ],
+    "answer": 3,
+    "explanation": "吴权在涨潮时把舰队引诱到隐藏的木桩上方；潮水退去时，敌船被卡住并被摧毁。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-08",
+    "epochId": "suedostasien",
+    "question": "阇耶跋摩七世修建了哪座以巴戎寺为中心的都城？",
+    "choices": [
+      "诃里诃罗洛耶",
+      "吴哥城",
+      "乌栋",
+      "金边"
+    ],
+    "answer": 1,
+    "explanation": "1181年以后，阇耶跋摩七世修建了有城墙环绕的吴哥城，巴戎寺就矗立在城市中心。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-09",
+    "epochId": "suedostasien",
+    "question": "吴哥巴戎寺的塔楼以什么闻名？",
+    "choices": [
+      "石雕的巨大面像",
+      "镀金的圆顶",
+      "蓝釉瓷砖",
+      "雕花木屋顶"
+    ],
+    "answer": 0,
+    "explanation": "巴戎寺的众多塔楼上刻有朝向四面八方的巨大石雕面像。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-10",
+    "epochId": "suedostasien",
+    "question": "阇耶跋摩七世特别推崇哪种宗教？",
+    "choices": [
+      "上座部佛教",
+      "湿婆崇拜",
+      "伊斯兰教",
+      "大乘佛教"
+    ],
+    "answer": 3,
+    "explanation": "阇耶跋摩七世是大乘佛教徒，把他的许多建筑献给了佛陀和菩萨。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-11",
+    "epochId": "suedostasien",
+    "question": "从1044年起，哪位国王使蒲甘成为缅甸一个大王国的中心？",
+    "choices": [
+      "雍籍牙",
+      "阿奴律陀",
+      "莽应龙",
+      "锡袍"
+    ],
+    "answer": 1,
+    "explanation": "阿奴律陀从1044年起在位，把伊洛瓦底江流域的大部分地区统一在蒲甘的统治之下。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-12",
+    "epochId": "suedostasien",
+    "question": "爪哇普兰巴南最高的神庙供奉的是哪位神？",
+    "choices": [
+      "毗湿奴",
+      "梵天",
+      "湿婆",
+      "象头神"
+    ],
+    "answer": 2,
+    "explanation": "普兰巴南的主神庙于856年落成，供奉湿婆；旁边还有供奉毗湿奴和梵天的神庙。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-13",
+    "epochId": "suedostasien",
+    "question": "素可泰的哪位国王与泰文的创制有关？",
+    "choices": [
+      "乌通",
+      "郑信",
+      "朱拉隆功",
+      "兰甘亨"
+    ],
+    "answer": 3,
+    "explanation": "一块1292年的碑铭把泰文归功于兰甘亨，但其真实性存在争议。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-14",
+    "epochId": "suedostasien",
+    "question": "1292年的兰甘亨碑铭为什么在学者中存在争议？",
+    "choices": [
+      "因为它是用汉语写的",
+      "因为一些学者怀疑它是否真的出自13世纪",
+      "因为它在第二次世界大战中遗失了",
+      "因为它是在缅甸发现的"
+    ],
+    "answer": 1,
+    "explanation": "这块碑铭于1833年由后来的蒙固国王发现；自20世纪80年代以来，一些学者认为它是后来才制作的。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-15",
+    "epochId": "suedostasien",
+    "question": "约1238年，素可泰摆脱了哪个帝国的统治？",
+    "choices": [
+      "蒲甘",
+      "室利佛逝",
+      "高棉帝国",
+      "占婆"
+    ],
+    "answer": 2,
+    "explanation": "约1238年，泰族首领把高棉总督赶出了素可泰。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-16",
+    "epochId": "suedostasien",
+    "question": "1293年，是谁在爪哇建立了满者伯夷王国？",
+    "choices": [
+      "拉登·维查耶",
+      "加查·马达",
+      "哈奄·武禄",
+      "拜里米苏拉"
+    ],
+    "answer": 0,
+    "explanation": "拉登·维查耶借助一支蒙古舰队击败了他的对手，随后建立了满者伯夷。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-17",
+    "epochId": "suedostasien",
+    "question": "1293年，哪支外国舰队无意中帮助拉登·维查耶建立了满者伯夷？",
+    "choices": [
+      "一支葡萄牙舰队",
+      "蒙古元朝的一支舰队",
+      "朱罗帝国的一支舰队",
+      "一支日本舰队"
+    ],
+    "answer": 1,
+    "explanation": "忽必烈汗派遣了一支讨伐军前往爪哇；拉登·维查耶利用它对付自己的对手，然后把蒙古人赶走。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-18",
+    "epochId": "suedostasien",
+    "question": "根据爪哇的传统，是谁立下“帕拉帕誓言”，要在满者伯夷之下统一群岛？",
+    "choices": [
+      "加查·马达",
+      "拉登·维查耶",
+      "普拉潘查",
+      "格尔达纳卡拉"
+    ],
+    "answer": 0,
+    "explanation": "据说宰相加查·马达发誓，在群岛统一于满者伯夷之下以前，他将放弃一切享乐。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-19",
+    "epochId": "suedostasien",
+    "question": "哪部1365年的著作描述了满者伯夷的宫廷和疆域？",
+    "choices": [
+      "《爪哇国土史》",
+      "《杭·杜亚传》",
+      "《政事论》",
+      "《纳加拉克尔塔加马》"
+    ],
+    "answer": 3,
+    "explanation": "诗人普拉潘查创作的颂诗《纳加拉克尔塔加马》描述了哈奄·武禄的宫廷，并列出了附属领地。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-20",
+    "epochId": "suedostasien",
+    "question": "苏丹马利克·萨利赫在哪里统治？他1297年的墓碑被视为伊斯兰教在东南亚的早期证据。",
+    "choices": [
+      "在马六甲",
+      "在马尼拉",
+      "在苏门答腊的须文答剌-巴赛",
+      "在文莱"
+    ],
+    "answer": 2,
+    "explanation": "马利克·萨利赫统治着苏门答腊北部的须文答剌-巴赛，这是该地区最早的伊斯兰苏丹国之一。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-21",
+    "epochId": "suedostasien",
+    "question": "伊斯兰教在东南亚主要是如何传播的？",
+    "choices": [
+      "通过阿拉伯军队的征服",
+      "通过奥斯曼人的强迫改宗",
+      "通过沿贸易路线往来的商人、学者和苏非派",
+      "通过葡萄牙传教士"
+    ],
+    "answer": 2,
+    "explanation": "伊斯兰教随穆斯林商人和学者来到各港口，再从那里被统治者及其臣民接受。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-22",
+    "epochId": "suedostasien",
+    "question": "约1400年，哪位来自巨港的王子建立了马六甲？",
+    "choices": [
+      "郑和",
+      "阿方索·德·阿尔布克尔克",
+      "拉登·维查耶",
+      "拜里米苏拉"
+    ],
+    "answer": 3,
+    "explanation": "拜里米苏拉从苏门答腊出逃，经淡马锡，约于1400年在马来半岛西海岸建立了马六甲。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-23",
+    "epochId": "suedostasien",
+    "question": "葡萄牙人在哪一年征服了马六甲？",
+    "choices": [
+      "1511年",
+      "1498年",
+      "1571年",
+      "1619年"
+    ],
+    "answer": 0,
+    "explanation": "1511年8月，阿方索·德·阿尔布克尔克攻占马六甲，开启了东南亚的欧洲殖民时代。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-24",
+    "epochId": "suedostasien",
+    "question": "1511年，是谁率领葡萄牙人征服了马六甲？",
+    "choices": [
+      "瓦斯科·达·伽马",
+      "阿方索·德·阿尔布克尔克",
+      "斐迪南·麦哲伦",
+      "巴尔托洛梅乌·迪亚士"
+    ],
+    "answer": 1,
+    "explanation": "葡属印度总督阿方索·德·阿尔布克尔克以果阿为基地征服了马六甲。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-25",
+    "epochId": "suedostasien",
+    "question": "哪些香料使马鲁古群岛和班达群岛受到欧洲人的觊觎？",
+    "choices": [
+      "丁香和肉豆蔻",
+      "胡椒和肉桂",
+      "藏红花和香草",
+      "生姜和小豆蔻"
+    ],
+    "answer": 0,
+    "explanation": "长期以来，丁香只生长在北马鲁古群岛，肉豆蔻只生长在班达群岛。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-26",
+    "epochId": "suedostasien",
+    "question": "1571年，是谁建立了马尼拉作为西属菲律宾的首府？",
+    "choices": [
+      "斐迪南·麦哲伦",
+      "胡安·塞巴斯蒂安·埃尔卡诺",
+      "米格尔·洛佩斯·德·黎牙实比",
+      "埃尔南·科尔特斯"
+    ],
+    "answer": 2,
+    "explanation": "1571年，黎牙实比攻占了聚落“梅尼拉”，并把它定为殖民地的首府。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-27",
+    "epochId": "suedostasien",
+    "question": "菲律宾是以谁的名字命名的？",
+    "choices": [
+      "美男子腓力",
+      "西班牙国王腓力二世",
+      "使徒腓力",
+      "马其顿的腓力"
+    ],
+    "answer": 1,
+    "explanation": "1543年，一支西班牙远征队以王储腓力（后来的国王腓力二世）的名字为这些岛屿命名。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-28",
+    "epochId": "suedostasien",
+    "question": "7世纪，哪位中国僧人记载室利佛逝有一千多名佛教僧人？",
+    "choices": [
+      "玄奘",
+      "法显",
+      "郑和",
+      "义净"
+    ],
+    "answer": 3,
+    "explanation": "义净在前往印度的途中停留于室利佛逝，并建议求法者在那里学习梵语。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-29",
+    "epochId": "suedostasien",
+    "question": "1619年，荷兰东印度公司在爪哇建立了哪座城市？",
+    "choices": [
+      "马六甲",
+      "马尼拉",
+      "安汶",
+      "巴达维亚"
+    ],
+    "answer": 3,
+    "explanation": "扬·皮特斯佐恩·科恩在被摧毁的雅加达旧址上建立了巴达维亚，作为荷兰东印度公司的总部。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-30",
+    "epochId": "suedostasien",
+    "question": "今天的哪座首都是由荷兰的巴达维亚发展而来的？",
+    "choices": [
+      "雅加达",
+      "吉隆坡",
+      "新加坡",
+      "曼谷"
+    ],
+    "answer": 0,
+    "explanation": "巴达维亚就是今天印度尼西亚的首都雅加达。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-31",
+    "epochId": "suedostasien",
+    "question": "除了建立巴达维亚之外，扬·皮特斯佐恩·科恩还因什么而臭名昭著？",
+    "choices": [
+      "摧毁马六甲",
+      "在马尼拉与西班牙人作战",
+      "征服班达群岛，当地大部分居民被杀、被奴役或被驱逐",
+      "把英国人赶出印度"
+    ],
+    "answer": 2,
+    "explanation": "为了强制推行肉豆蔻垄断，科恩于1621年下令征服班达群岛，当地居民几乎被消灭殆尽。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-32",
+    "epochId": "suedostasien",
+    "question": "荷兰东印度公司是在哪一年成立的？",
+    "choices": [
+      "1588年",
+      "1602年",
+      "1648年",
+      "1799年"
+    ],
+    "answer": 1,
+    "explanation": "荷兰东印度公司于1602年由几家贸易公司合并而成，获得了荷兰对亚洲贸易的垄断权。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-33",
+    "epochId": "suedostasien",
+    "question": "1767年，是谁攻占并摧毁了暹罗都城阿瑜陀耶？",
+    "choices": [
+      "高棉人",
+      "缅甸贡榜王朝",
+      "一支越南军队",
+      "法国军队"
+    ],
+    "answer": 1,
+    "explanation": "孟驳国王麾下的贡榜军队于1767年4月攻占阿瑜陀耶，并焚毁了这座城市。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-34",
+    "epochId": "suedostasien",
+    "question": "1782年，拉玛一世把哪座城市定为暹罗的新都？",
+    "choices": [
+      "阿瑜陀耶",
+      "素可泰",
+      "清迈",
+      "曼谷"
+    ],
+    "answer": 3,
+    "explanation": "1782年，拉玛一世建立却克里王朝，并把都城迁到曼谷。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-35",
+    "epochId": "suedostasien",
+    "question": "1752年，是谁建立了缅甸贡榜王朝？",
+    "choices": [
+      "雍籍牙",
+      "阿奴律陀",
+      "锡袍",
+      "敏东"
+    ],
+    "answer": 0,
+    "explanation": "雍籍牙重新统一了缅甸，建立了统治到1885年的贡榜王朝。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-36",
+    "epochId": "suedostasien",
+    "question": "1802年，是谁统一了越南并建立了阮朝？",
+    "choices": [
+      "黎利",
+      "吴权",
+      "嘉隆",
+      "陈兴道"
+    ],
+    "answer": 2,
+    "explanation": "阮福映击败西山军，于1802年取年号嘉隆，统治全越南。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-37",
+    "epochId": "suedostasien",
+    "question": "哪座城市是阮朝皇帝的都城？",
+    "choices": [
+      "河内",
+      "西贡",
+      "顺化",
+      "岘港"
+    ],
+    "answer": 2,
+    "explanation": "嘉隆把越南中部的顺化定为都城，并在那里修建了一座宏大的皇城。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-38",
+    "epochId": "suedostasien",
+    "question": "1771年起，哪场起义推翻了越南的旧统治家族，并为阮朝的建立开辟了道路？",
+    "choices": [
+      "太平天国运动",
+      "西山起义",
+      "义和团运动",
+      "卡蒂普南起义"
+    ],
+    "answer": 1,
+    "explanation": "西山三兄弟推翻了阮主和郑主，后来阮福映又击败了他们。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-39",
+    "epochId": "suedostasien",
+    "question": "1819年，是谁把新加坡建立为英国的自由港？",
+    "choices": [
+      "沃伦·黑斯廷斯",
+      "罗伯特·克莱武",
+      "詹姆斯·布鲁克",
+      "斯坦福·莱佛士"
+    ],
+    "answer": 3,
+    "explanation": "1819年，斯坦福·莱佛士通过与柔佛的一位王子签订条约获得了这座岛屿。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-40",
+    "epochId": "suedostasien",
+    "question": "1826年，英国把哪三个港口合并为海峡殖民地？",
+    "choices": [
+      "槟城、马六甲和新加坡",
+      "巴达维亚、马六甲和新加坡",
+      "槟城、仰光和新加坡",
+      "马尼拉、马六甲和槟城"
+    ],
+    "answer": 0,
+    "explanation": "槟城、马六甲和新加坡组成了马六甲海峡沿岸的海峡殖民地。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-41",
+    "epochId": "suedostasien",
+    "question": "英国军队在哪一年攻占曼德勒，结束了缅甸的君主制？",
+    "choices": [
+      "1885年",
+      "1824年",
+      "1852年",
+      "1910年"
+    ],
+    "answer": 0,
+    "explanation": "在1885年的第三次英缅战争中，锡袍国王被废黜；1886年初，缅甸成为英属印度的一部分。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-42",
+    "epochId": "suedostasien",
+    "question": "1824年的哪项条约沿马六甲海峡划分了英国和荷兰的势力范围？",
+    "choices": [
+      "《托德西利亚斯条约》",
+      "《英荷伦敦条约》",
+      "《南京条约》",
+      "《扬达波条约》"
+    ],
+    "answer": 1,
+    "explanation": "根据1824年的《伦敦条约》，英国获得马来半岛，荷兰获得海峡以南的岛屿。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-43",
+    "epochId": "suedostasien",
+    "question": "法国在哪一年把其属地合并为印度支那联邦？",
+    "choices": [
+      "1858年",
+      "1862年",
+      "1887年",
+      "1907年"
+    ],
+    "answer": 2,
+    "explanation": "1887年，法属印度支那由交趾支那、安南、东京和柬埔寨组成；1893年老挝也被并入。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-44",
+    "epochId": "suedostasien",
+    "question": "哪个民族在今天越南中部的海岸建立了占婆王国？",
+    "choices": [
+      "高棉人",
+      "孟人",
+      "泰人",
+      "占人"
+    ],
+    "answer": 3,
+    "explanation": "占人讲一种南岛语，在美山修建了众多印度教神庙。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-45",
+    "epochId": "suedostasien",
+    "question": "从1868年起，暹罗的哪位国王推动了行政、学校和军队的现代化，并逐步废除了奴隶制？",
+    "choices": [
+      "郑信",
+      "兰甘亨",
+      "蒙固",
+      "朱拉隆功"
+    ],
+    "answer": 3,
+    "explanation": "朱拉隆功（拉玛五世）于1868年至1910年在位，被视为暹罗的伟大改革者。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-46",
+    "epochId": "suedostasien",
+    "question": "在英属缅甸和法属印度支那之间，暹罗扮演了什么角色？",
+    "choices": [
+      "它被两国瓜分",
+      "它成为英国的保护国",
+      "它保持独立，充当缓冲国",
+      "它成为法属印度支那的一部分"
+    ],
+    "answer": 2,
+    "explanation": "暹罗仍是东南亚唯一的独立国家，但不得不向两国割让边远领土。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-47",
+    "epochId": "suedostasien",
+    "question": "1893年北榄危机之后，暹罗不得不把哪些领土割让给法国？",
+    "choices": [
+      "首都曼谷",
+      "湄公河以东的领土，即今天的老挝",
+      "北部的马来苏丹国",
+      "清迈公国"
+    ],
+    "answer": 1,
+    "explanation": "法国炮舰驶抵曼谷后，暹罗割让了湄公河以东的领土。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-48",
+    "epochId": "suedostasien",
+    "question": "1896年，哪个秘密组织在菲律宾发动了反抗西班牙统治的起义？",
+    "choices": [
+      "卡蒂普南",
+      "菲律宾联盟",
+      "越盟",
+      "伊斯兰联盟"
+    ],
+    "answer": 0,
+    "explanation": "卡蒂普南由安德烈斯·博尼法西奥于1892年创立，旨在以武力争取独立。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-49",
+    "epochId": "suedostasien",
+    "question": "1896年12月30日，哪位作家在马尼拉被西班牙人枪决？",
+    "choices": [
+      "安德烈斯·博尼法西奥",
+      "何塞·黎刹",
+      "埃米利奥·阿奎纳多",
+      "阿波利纳里奥·马比尼"
+    ],
+    "answer": 1,
+    "explanation": "《不许犯我》的作者何塞·黎刹尽管主张和平改革，仍遭处决。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-50",
+    "epochId": "suedostasien",
+    "question": "1898年6月12日，是谁宣布了菲律宾独立？",
+    "choices": [
+      "埃米利奥·阿奎纳多",
+      "何塞·黎刹",
+      "安德烈斯·博尼法西奥",
+      "曼努埃尔·奎松"
+    ],
+    "answer": 0,
+    "explanation": "埃米利奥·阿奎纳多在甲米地的卡维特宣布独立，并于1899年成为第一菲律宾共和国总统。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-51",
+    "epochId": "suedostasien",
+    "question": "在1898年的《巴黎条约》中，西班牙把菲律宾割让给了哪个国家？",
+    "choices": [
+      "日本",
+      "英国",
+      "美国",
+      "德国"
+    ],
+    "answer": 2,
+    "explanation": "美西战争后，菲律宾归属美国，菲律宾人从1899年起与美国作战。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-52",
+    "epochId": "suedostasien",
+    "question": "从1830年起，荷兰的“强迫种植制度”要求爪哇农民做什么？",
+    "choices": [
+      "上公立学校",
+      "改信基督教",
+      "在殖民军中服役",
+      "把一部分土地或劳动用于种植咖啡、糖等出口作物"
+    ],
+    "answer": 3,
+    "explanation": "村庄必须种植由国家低价收购的出口作物；这给荷兰带来了巨额利润，却给爪哇带来了饥荒。",
+    "difficulty": 2
+  },
+  {
     "id": "q-urgeschichte-01",
     "epochId": "urgeschichte",
     "question": "现代人类智人起源于哪个大洲？",
@@ -13829,6 +16741,734 @@
     ],
     "answer": 2,
     "explanation": "先后顺序是：恰塔霍裕克约在公元前7100年，冶铜约在公元前5000年，奥兹之死约在公元前3300年，巨石阵的砂岩巨石约在公元前2500年。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-01",
+    "epochId": "wikinger-nordeuropa",
+    "question": "793年，维京人袭击了诺森布里亚沿海的哪座修道院？",
+    "choices": [
+      "林迪斯法恩",
+      "艾奥纳",
+      "克吕尼",
+      "卡西诺山"
+    ],
+    "answer": 0,
+    "explanation": "793年6月8日对林迪斯法恩的袭击被视为维京时代的开端。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-02",
+    "epochId": "wikinger-nordeuropa",
+    "question": "845年复活节，维京人洗劫了哪座城市，随后秃头查理用白银换取他们撤离？",
+    "choices": [
+      "亚琛",
+      "科隆",
+      "巴黎",
+      "罗马"
+    ],
+    "answer": 2,
+    "explanation": "一支舰队沿塞纳河而上，在得到7000磅白银后才离开。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-03",
+    "epochId": "wikinger-nordeuropa",
+    "question": "911年，哪位维京首领获得了鲁昂周围的土地，这片土地后来成为诺曼底？",
+    "choices": [
+      "古斯伦",
+      "罗洛",
+      "伊瓦尔",
+      "戈德弗雷德"
+    ],
+    "answer": 1,
+    "explanation": "罗洛与糊涂查理达成协议，在塞纳河下游建立了诺曼人的统治。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-04",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约930年在冰岛首次召开的议会叫什么？",
+    "choices": [
+      "斯托廷",
+      "帝国议会",
+      "贤人会议",
+      "阿尔庭"
+    ],
+    "answer": 3,
+    "explanation": "阿尔庭每年夏天在辛格韦德利召开，为整个冰岛制定法律。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-05",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约985年，是谁率领第一批北欧移民前往格陵兰？",
+    "choices": [
+      "红发埃里克",
+      "莱夫·埃里克松",
+      "英格尔夫·阿尔纳尔松",
+      "哈拉尔·哈德拉达"
+    ],
+    "answer": 0,
+    "explanation": "红发埃里克利用被逐出冰岛的时间探索了格陵兰，随后带着移民返回。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-06",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约1000年，哪位航海者到达了萨迦中称为“文兰”的北美土地？",
+    "choices": [
+      "红发埃里克",
+      "奥拉夫·特里格瓦松",
+      "莱夫·埃里克松",
+      "罗洛"
+    ],
+    "answer": 2,
+    "explanation": "红发埃里克之子莱夫·埃里克松从格陵兰向西航行，在文兰过冬。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-07",
+    "epochId": "wikinger-nordeuropa",
+    "question": "在纽芬兰的什么地方发现了约1000年的北欧人定居点遗迹？",
+    "choices": [
+      "詹姆斯敦",
+      "兰塞奥兹牧草地",
+      "普利茅斯",
+      "魁北克"
+    ],
+    "answer": 1,
+    "explanation": "黑尔格·英斯塔和安妮·斯蒂内·英斯塔于1960年发现了这处遗址；它如今是联合国教科文组织世界遗产。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-08",
+    "epochId": "wikinger-nordeuropa",
+    "question": "哪位丹麦国王在耶灵如尼石上夸耀自己使丹麦人皈依了基督教？",
+    "choices": [
+      "老戈姆",
+      "克努特大帝",
+      "八字胡斯韦恩",
+      "蓝牙哈拉尔"
+    ],
+    "answer": 3,
+    "explanation": "蓝牙哈拉尔为纪念父母戈姆和蒂拉竖立了耶灵大石。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-09",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约1028年，哪位国王同时统治英格兰、丹麦和挪威？",
+    "choices": [
+      "克努特大帝",
+      "阿尔弗雷德大王",
+      "哈拉尔·哈德拉达",
+      "征服者威廉"
+    ],
+    "answer": 0,
+    "explanation": "克努特大帝于1016年成为英格兰国王，继承了丹麦，并于1028年赢得挪威。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-10",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1066年，挪威国王哈拉尔·哈德拉达在哪场战役中阵亡？",
+    "choices": [
+      "黑斯廷斯",
+      "埃丁顿",
+      "斯坦福桥",
+      "斯蒂克莱斯塔德"
+    ],
+    "answer": 2,
+    "explanation": "1066年9月25日，哈拉尔·哈德拉达在斯坦福桥被英格兰国王哈罗德·戈德温森击败。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-11",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1397年，哪位女王把丹麦、挪威和瑞典统一为卡尔马联合？",
+    "choices": [
+      "克里斯蒂娜",
+      "玛格丽特一世",
+      "诺曼底的埃玛",
+      "蒂拉"
+    ],
+    "answer": 1,
+    "explanation": "玛格丽特一世让她的侄孙波美拉尼亚的埃里克在卡尔马加冕，而她本人一直统治到1412年。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-12",
+    "epochId": "wikinger-nordeuropa",
+    "question": "哪种船是维京人典型的战船？",
+    "choices": [
+      "桨帆船",
+      "柯克船",
+      "卡拉维尔帆船",
+      "长船"
+    ],
+    "answer": 3,
+    "explanation": "装有帆和桨的细长长船适于远航，还能沿河流深入内陆。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-13",
+    "epochId": "wikinger-nordeuropa",
+    "question": "维京时代斯堪的纳维亚人刻在石头上的文字叫什么？",
+    "choices": [
+      "如尼文字",
+      "象形文字",
+      "楔形文字",
+      "欧甘文字"
+    ],
+    "answer": 0,
+    "explanation": "维京时代的新弗萨克如尼字母有16个字符；有数千块如尼石保存至今。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-14",
+    "epochId": "wikinger-nordeuropa",
+    "question": "在北欧神话中，哪位神是众神之主以及智慧和诗歌之神？",
+    "choices": [
+      "托尔",
+      "洛基",
+      "奥丁",
+      "弗雷"
+    ],
+    "answer": 2,
+    "explanation": "奥丁被视为众神之父；托尔是雷神，弗雷是丰饶之神。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-15",
+    "epochId": "wikinger-nordeuropa",
+    "question": "英格兰东部由斯堪的纳维亚人定居、实行丹麦法律的地区叫什么？",
+    "choices": [
+      "威塞克斯",
+      "丹麦法区",
+      "麦西亚",
+      "斯特拉斯克莱德"
+    ],
+    "answer": 1,
+    "explanation": "878年阿尔弗雷德在埃丁顿取胜后，形成了一条边界；边界以北和以东的地区后来被称为丹麦法区。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-16",
+    "epochId": "wikinger-nordeuropa",
+    "question": "哪位盎格鲁-撒克逊国王是唯一顶住了异教徒大军的人？",
+    "choices": [
+      "诺森布里亚的埃拉",
+      "东盎格利亚的埃德蒙",
+      "麦西亚的奥法",
+      "阿尔弗雷德大王"
+    ],
+    "answer": 3,
+    "explanation": "威塞克斯的阿尔弗雷德大王于878年在埃丁顿击败了维京人。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-17",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约1220年，哪位冰岛学者撰写了《散文埃达》？",
+    "choices": [
+      "斯诺里·斯图鲁松",
+      "智者阿里",
+      "萨克索·格拉马蒂库斯",
+      "不来梅的亚当"
+    ],
+    "answer": 0,
+    "explanation": "斯诺里·斯图鲁松把《散文埃达》写成一部诗学手册，后来又撰写了《挪威列王传》。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-18",
+    "epochId": "wikinger-nordeuropa",
+    "question": "841年，挪威维京人在爱尔兰建立了一座设防营地，后来发展成哪座城镇？",
+    "choices": [
+      "科克",
+      "贝尔法斯特",
+      "都柏林",
+      "戈尔韦"
+    ],
+    "answer": 2,
+    "explanation": "利菲河畔的“朗福特”发展成为一座由斯堪的纳维亚人统治的贸易城镇。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-19",
+    "epochId": "wikinger-nordeuropa",
+    "question": "通常把哪一年视为维京时代的结束？",
+    "choices": [
+      "1016年",
+      "1066年",
+      "1100年",
+      "1262年"
+    ],
+    "answer": 1,
+    "explanation": "随着1066年哈拉尔·哈德拉达在斯坦福桥阵亡，维京人的大规模远征宣告结束。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-20",
+    "epochId": "wikinger-nordeuropa",
+    "question": "沿俄罗斯的河流前往拜占庭的斯堪的纳维亚商人和武士被称为什么？",
+    "choices": [
+      "诺曼人",
+      "文德人",
+      "哥特人",
+      "瓦良格人"
+    ],
+    "answer": 3,
+    "explanation": "在东方，他们被称为瓦良格人或罗斯人；其中一些人后来在拜占庭皇帝的卫队中服役。",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-21",
+    "epochId": "wikinger-nordeuropa",
+    "question": "异教徒大军在哪一年登陆东盎格利亚？",
+    "choices": [
+      "865年",
+      "793年",
+      "911年",
+      "991年"
+    ],
+    "answer": 0,
+    "explanation": "这支军队于865年登陆，866年攻占约克，并在随后几年征服了几个王国。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-22",
+    "epochId": "wikinger-nordeuropa",
+    "question": "866年，异教徒大军攻占了哪座城市？",
+    "choices": [
+      "伦敦",
+      "温切斯特",
+      "约克",
+      "坎特伯雷"
+    ],
+    "answer": 2,
+    "explanation": "约克（盎格鲁-撒克逊语称埃奥福维克）以“约维克”之名成为斯堪的纳维亚人在英格兰北部统治的中心。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-23",
+    "epochId": "wikinger-nordeuropa",
+    "question": "878年在埃丁顿战败后，哪位维京首领受了洗？",
+    "choices": [
+      "伊瓦尔",
+      "古斯鲁姆",
+      "哈夫丹",
+      "奥拉夫"
+    ],
+    "answer": 1,
+    "explanation": "古斯鲁姆受洗后退往东盎格利亚，并在那里作为国王进行统治。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-24",
+    "epochId": "wikinger-nordeuropa",
+    "question": "英格兰国王为促使维京军队离开而支付的贡金叫什么？",
+    "choices": [
+      "彼得便士",
+      "什一税",
+      "斯科特税",
+      "丹麦金"
+    ],
+    "answer": 3,
+    "explanation": "大笔白银作为丹麦金被支付出去，尤其是在埃塞尔雷德国王治下从991年起。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-25",
+    "epochId": "wikinger-nordeuropa",
+    "question": "据传说，谁是冰岛的第一位永久定居者？",
+    "choices": [
+      "英戈尔夫·阿尔纳松",
+      "“红发”埃里克",
+      "托尔芬·卡尔塞夫尼",
+      "“步行者”赫罗尔夫"
+    ],
+    "answer": 0,
+    "explanation": "据《定居者之书》记载，英戈尔夫·阿尔纳松约在874年在今天雷克雅未克所在地安家。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-26",
+    "epochId": "wikinger-nordeuropa",
+    "question": "阿尔庭在冰岛西南部的哪片平原上召开？",
+    "choices": [
+      "雷克霍尔特",
+      "斯卡尔霍尔特",
+      "辛格韦德利",
+      "霍拉尔"
+    ],
+    "answer": 2,
+    "explanation": "辛格韦德利位于雷克雅未克以东，如今是国家公园和联合国教科文组织世界遗产。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-27",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约1000年，冰岛是怎样接受基督教的？",
+    "choices": [
+      "通过挪威的征服",
+      "通过阿尔庭的决议",
+      "通过教皇号召的十字军",
+      "通过冰岛国王的受洗"
+    ],
+    "answer": 1,
+    "explanation": "为避免内战，法律宣讲人索尔盖尔宣布所有冰岛人都应成为基督徒。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-28",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约830年，哪位法兰克修士在瑞典的比尔卡布道？",
+    "choices": [
+      "卜尼法斯",
+      "威利布罗德",
+      "科伦巴努斯",
+      "安斯加尔"
+    ],
+    "answer": 3,
+    "explanation": "安斯加尔后来成为汉堡-不来梅大主教，被尊为“北方使徒”。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-29",
+    "epochId": "wikinger-nordeuropa",
+    "question": "哪位挪威国王于1030年在斯蒂克莱斯塔德阵亡，后来被尊为圣徒？",
+    "choices": [
+      "奥拉夫·哈拉尔松",
+      "奥拉夫·特里格维松",
+      "“好人”哈康",
+      "“好人”马格努斯"
+    ],
+    "answer": 0,
+    "explanation": "奥拉夫·哈拉尔松作为圣奥拉夫成为“挪威的永恒之王”和该国的主保圣人。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-30",
+    "epochId": "wikinger-nordeuropa",
+    "question": "圣奥拉夫葬在哪座城市？那里后来成为挪威最重要的朝圣地。",
+    "choices": [
+      "卑尔根",
+      "奥斯陆",
+      "尼达罗斯（特隆赫姆）",
+      "斯塔万格"
+    ],
+    "answer": 2,
+    "explanation": "尼达罗斯大教堂建在奥拉夫的墓上，吸引着来自整个北欧的朝圣者。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-31",
+    "epochId": "wikinger-nordeuropa",
+    "question": "哪位挪威国王约在1000年于斯沃尔德海战中溺亡？",
+    "choices": [
+      "“金发”哈拉尔",
+      "奥拉夫·特里格维松",
+      "奥拉夫·哈拉尔松",
+      "“血斧”埃里克"
+    ],
+    "answer": 1,
+    "explanation": "据传说，当他的座舰“长蛇号”被夺取时，奥拉夫·特里格维松跳入了海中。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-32",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1017年，克努特大帝为巩固在英格兰的统治娶了谁？",
+    "choices": [
+      "蒂拉",
+      "贡希尔德",
+      "北安普敦的埃尔夫吉福",
+      "诺曼底的埃玛"
+    ],
+    "answer": 3,
+    "explanation": "埃玛是埃塞尔雷德国王的遗孀；她和克努特的儿子是哈迪克努特。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-33",
+    "epochId": "wikinger-nordeuropa",
+    "question": "“无情者”哈拉尔在成为挪威国王之前曾在哪支部队中服役？",
+    "choices": [
+      "拜占庭皇帝的瓦良格卫队",
+      "诺曼底的威廉的军队",
+      "耶路撒冷城下的十字军",
+      "科尔多瓦哈里发的卫队"
+    ],
+    "answer": 0,
+    "explanation": "哈拉尔作为瓦良格人为拜占庭作战，曾在西西里等地征战，并带着大量财富返回。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-34",
+    "epochId": "wikinger-nordeuropa",
+    "question": "哪位英格兰国王于1066年在斯坦福桥击败了挪威人，但不久后在黑斯廷斯战败？",
+    "choices": [
+      "忏悔者爱德华",
+      "“决策无方者”埃塞尔雷德",
+      "哈罗德·戈德温森",
+      "“刚勇者”埃德蒙"
+    ],
+    "answer": 2,
+    "explanation": "在北方获胜后，哈罗德·戈德温森急忙南下，于1066年10月14日在黑斯廷斯阵亡。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-35",
+    "epochId": "wikinger-nordeuropa",
+    "question": "施莱湾畔的哪个贸易地是维京时代最重要的市场之一？",
+    "choices": [
+      "吕贝克",
+      "海泽比",
+      "格但斯克",
+      "卑尔根"
+    ],
+    "answer": 1,
+    "explanation": "海泽比把北海贸易与波罗的海贸易连接起来；其遗址位于石勒苏益格附近。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-36",
+    "epochId": "wikinger-nordeuropa",
+    "question": "在南方保护丹麦免受法兰克帝国侵犯的防御土墙叫什么？",
+    "choices": [
+      "利姆斯边墙",
+      "哈德良长城",
+      "奥法堤",
+      "丹麦墙"
+    ],
+    "answer": 3,
+    "explanation": "丹麦墙曾多次扩建，其中一次是约808年在国王戈德弗雷德治下。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-37",
+    "epochId": "wikinger-nordeuropa",
+    "question": "哥得兰岛维京时代窖藏中的大量白银来自哪里？",
+    "choices": [
+      "来自阿拉伯哈里发国",
+      "来自挪威的矿山",
+      "来自印加帝国",
+      "经红海来自印度"
+    ],
+    "answer": 0,
+    "explanation": "数以万计的阿拉伯迪尔汗银币经东欧的河流到达北方。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-38",
+    "epochId": "wikinger-nordeuropa",
+    "question": "在冰岛记录下来的、讲述定居时期家族的古诺尔斯语叙事作品叫什么？",
+    "choices": [
+      "恋诗",
+      "武功歌",
+      "冰岛人萨迦",
+      "编年纪"
+    ],
+    "answer": 2,
+    "explanation": "冰岛人萨迦主要于13和14世纪根据口头传统写成。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-39",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1361年，哪位丹麦国王攻占了哥得兰岛上的商业城市维斯比？",
+    "choices": [
+      "波美拉尼亚的埃里克",
+      "瓦尔德马四世·阿特达格",
+      "克里斯托弗二世",
+      "克努特六世"
+    ],
+    "answer": 1,
+    "explanation": "攻占维斯比促使汉萨城市结成了反对瓦尔德马四世的同盟。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-40",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1370年，哪项和约结束了汉萨同盟与丹麦之间的战争？",
+    "choices": [
+      "《吕贝克和约》",
+      "《卡尔马和约》",
+      "《罗斯基勒和约》",
+      "《施特拉尔松德和约》"
+    ],
+    "answer": 3,
+    "explanation": "在《施特拉尔松德和约》中，汉萨同盟获得了贸易特权，并获得斯科讷的城堡15年。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-41",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1397年，谁在卡尔马被加冕为北欧三个王国的共同国王？",
+    "choices": [
+      "波美拉尼亚的埃里克",
+      "梅克伦堡的阿尔布雷克特",
+      "奥拉夫二世",
+      "巴伐利亚的克里斯托弗"
+    ],
+    "answer": 0,
+    "explanation": "玛格丽特一世的侄孙波美拉尼亚的埃里克是联盟的国王；但直到1412年，实权都掌握在玛格丽特手中。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-42",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1262年至1264年间，哪座岛屿臣服于挪威国王？",
+    "choices": [
+      "爱尔兰",
+      "哥得兰岛",
+      "冰岛",
+      "西西里"
+    ],
+    "answer": 2,
+    "explanation": "冰岛人在《旧约》中承认了国王哈康四世；冰岛自由邦随之终结。",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-43",
+    "epochId": "wikinger-nordeuropa",
+    "question": "2021年，哪种方法证明了兰斯奥兹牧草地的木材是在1021年被砍伐的？",
+    "choices": [
+      "对骨骼进行放射性碳测年",
+      "树木年轮中一次太阳风暴的痕迹",
+      "如尼石上的铭文",
+      "阿拉伯钱币的发现"
+    ],
+    "answer": 1,
+    "explanation": "993年一次已知的太阳风暴在树木年轮中留下了碳-14峰值，从而能把砍伐时间精确测定为1021年。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-44",
+    "epochId": "wikinger-nordeuropa",
+    "question": "文兰萨迦把北欧人在美洲遇到的当地居民称为什么？",
+    "choices": [
+      "斯拉尔（奴仆）",
+      "戈迪（首领）",
+      "瓦良格人",
+      "斯克雷林人"
+    ],
+    "answer": 3,
+    "explanation": "萨迦称他们为斯克雷林人；与他们的冲突是定居尝试被放弃的原因之一。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-45",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约1000年，哪位法律宣讲人在阿尔庭上宣布接受基督教？",
+    "choices": [
+      "索尔盖尔",
+      "斯诺里·斯图鲁松",
+      "“智者”阿里",
+      "“白发”吉苏尔"
+    ],
+    "answer": 0,
+    "explanation": "当时本人仍是异教徒的索尔盖尔，经过一天一夜的思考后决定全冰岛都应成为基督徒。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-46",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1103年或1104年，哪座城市成为整个斯堪的纳维亚第一个大主教区的驻地？",
+    "choices": [
+      "乌普萨拉",
+      "罗斯基勒",
+      "隆德",
+      "尼达罗斯"
+    ],
+    "answer": 2,
+    "explanation": "斯科讷的隆德当时属于丹麦；尼达罗斯和乌普萨拉直到1152/53年和1164年才获得自己的大主教区。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-47",
+    "epochId": "wikinger-nordeuropa",
+    "question": "922年，哪位阿拉伯使节描述了伏尔加河畔的罗斯商人和一次船葬？",
+    "choices": [
+      "伊本·白图泰",
+      "伊本·法德兰",
+      "伊本·赫勒敦",
+      "伊德里西"
+    ],
+    "answer": 1,
+    "explanation": "伊本·法德兰受哈里发委派前往伏尔加保加尔人那里，留下了关于罗斯人的罕见的目击记述之一。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-48",
+    "epochId": "wikinger-nordeuropa",
+    "question": "约一百年后，哪位编年史家描述了罗洛与“糊涂者”查理达成的协议？",
+    "choices": [
+      "不来梅的亚当",
+      "科尔维的维杜金德",
+      "艾因哈德",
+      "圣康坦的杜多"
+    ],
+    "answer": 3,
+    "explanation": "911年条约的文本没有流传下来；详细的记述出自圣康坦的杜多。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-49",
+    "epochId": "wikinger-nordeuropa",
+    "question": "808年，丹麦国王戈德弗雷德摧毁了奥博德里特人的哪个贸易地？",
+    "choices": [
+      "雷里克",
+      "比尔卡",
+      "考蓬",
+      "沃林"
+    ],
+    "answer": 0,
+    "explanation": "戈德弗雷德把雷里克的商人迁到自己的王国，很可能是迁到了海泽比。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-50",
+    "epochId": "wikinger-nordeuropa",
+    "question": "斯诺里·斯图鲁松的挪威诸王史叫什么名字？",
+    "choices": [
+      "《定居者之书》",
+      "《丹麦人的业绩》",
+      "《挪威王列传》",
+      "《冰岛人之书》"
+    ],
+    "answer": 2,
+    "explanation": "《挪威王列传》约写于1230年，讲述了从传说时代的开端到1177年的历史。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-51",
+    "epochId": "wikinger-nordeuropa",
+    "question": "1346年，瓦尔德马四世为了收复丹麦，把哪块领土卖给了条顿骑士团？",
+    "choices": [
+      "斯科讷",
+      "爱沙尼亚",
+      "哥得兰岛",
+      "荷尔斯泰因"
+    ],
+    "answer": 1,
+    "explanation": "瓦尔德马用这笔收入赎回了丹麦被抵押出去的部分领土。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-52",
+    "epochId": "wikinger-nordeuropa",
+    "question": "卡尔马联盟在哪一年因瑞典退出而最终瓦解？",
+    "choices": [
+      "1412年",
+      "1448年",
+      "1500年",
+      "1523年"
+    ],
+    "answer": 3,
+    "explanation": "随着古斯塔夫·瓦萨于1523年被选为瑞典国王，三个王国的联合宣告结束。",
     "difficulty": 3
   },
   {

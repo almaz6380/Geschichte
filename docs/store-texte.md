@@ -10,7 +10,7 @@ Zum Kopieren in App Store Connect und die Google Play Console.
 
 ## Kurzbeschreibung (Google Play, max. 80 Zeichen)
 
-`Weltgeschichte: 20 Epochen, über 1.000 Quizfragen, Duelle gegen Freunde.`
+`Weltgeschichte: 25 Epochen, über 1.000 Quizfragen, Duelle gegen Freunde.`
 
 ## Werbetext (App Store, max. 170 Zeichen)
 
@@ -22,7 +22,7 @@ Zum Kopieren in App Store Connect und die Google Play Console.
 Weltgeschichte in einer App: von den ersten Menschen bis zur Gegenwart, auf allen Kontinenten. Für Schule, Studium und alle, die Zusammenhänge verstehen wollen.
 
 EPOCHEN
-20 Epochen von der Urgeschichte bis zur Gegenwart, mit eigenen Epochen für das vorkolumbische Amerika, die Reiche Afrikas, die asiatischen Großreiche, das Osmanische Reich und Lateinamerika. Jede Epoche mit „Auf einen Blick“, einem Überblick, vier Themenabschnitten (Herrschaft und Politik, Gesellschaft und Alltag, Kultur, Religion und Wissen, Wirtschaft und Technik), Schlüsselereignissen nach Jahrhunderten, wichtigen Personen, Begriffen und Folgen.
+25 Epochen von der Urgeschichte bis zur Gegenwart, mit eigenen Epochen für das vorkolumbische Amerika, Ozeanien und den Pazifik, die Reiche Afrikas, Südostasien, das Byzantinische Reich, die Wikinger, Russland und Osteuropa, die asiatischen Großreiche, das Osmanische Reich und Lateinamerika. Jede Epoche mit „Auf einen Blick“, einem Überblick, vier Themenabschnitten (Herrschaft und Politik, Gesellschaft und Alltag, Kultur, Religion und Wissen, Wirtschaft und Technik), Schlüsselereignissen nach Jahrhunderten, wichtigen Personen, Begriffen und Folgen.
 
 QUERSCHNITTSTHEMEN
 Acht rote Linien durch die Jahrtausende: Religionen und Weltanschauungen, Wissenschaft und Technik, Krieg und Frieden, Handel und Globalisierung, Herrschaft und Demokratie, Frauen in der Geschichte, Migration und Begegnung der Kulturen, Kunst, Schrift und Bildung.
@@ -52,7 +52,7 @@ KOSTENLOS
 Kostenlos und durch Werbung finanziert. Offline nutzbar, keine Anmeldung, keine In-App-Käufe. Helles und dunkles Farbschema. In neun Sprachen: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch und Chinesisch.
 
 UMFANG
-20 Epochen · 8 Themen · 514 Ereignisse · 256 Personen · 160 Begriffe · 1.040 Quizfragen
+25 Epochen · 8 Themen · 644 Ereignisse · 326 Personen · 200 Begriffe · 1.300 Quizfragen
 ```
 
 ## Schlüsselwörter (App Store, max. 100 Zeichen, durch Komma getrennt)
@@ -113,7 +113,7 @@ Die App ist vollständig auf Englisch übersetzt. In App Store Connect oben rech
 
 ## Short description (Google Play, max. 80 Zeichen)
 
-`World history: 20 epochs, over 1,000 quiz questions, duels with friends.`
+`World history: 25 epochs, over 1,000 quiz questions, duels with friends.`
 
 ## Promotional text (App Store, max. 170 Zeichen)
 
@@ -125,7 +125,7 @@ Die App ist vollständig auf Englisch übersetzt. In App Store Connect oben rech
 World history in one app: from the first humans to the present day, on every continent. For school, university and everyone who wants to understand how things connect.
 
 EPOCHS
-20 epochs from prehistory to the present, including dedicated epochs for the pre-Columbian Americas, African kingdoms, the great Asian empires, the Ottoman Empire and Latin America. Each epoch with "At a glance", an overview, four thematic sections (rule and politics, society and everyday life, culture, religion and knowledge, economy and technology), key events by century, important people, terms and consequences.
+25 epochs from prehistory to the present, including dedicated epochs for the pre-Columbian Americas, Oceania and the Pacific, African kingdoms, Southeast Asia, the Byzantine Empire, the Vikings, Russia and Eastern Europe, the great Asian empires, the Ottoman Empire and Latin America. Each epoch with "At a glance", an overview, four thematic sections (rule and politics, society and everyday life, culture, religion and knowledge, economy and technology), key events by century, important people, terms and consequences.
 
 CROSS-CUTTING THEMES
 Eight threads through the millennia: religions and worldviews, science and technology, war and peace, trade and globalisation, rule and democracy, women in history, migration and encounters between cultures, art, writing and education.
@@ -155,7 +155,7 @@ FREE
 Free and supported by ads. Works offline, no sign-up, no in-app purchases. Light and dark mode. In nine languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese and Chinese.
 
 AT A GLANCE
-20 epochs · 8 themes · 514 events · 256 people · 160 terms · 1,040 quiz questions
+25 epochs · 8 themes · 644 events · 326 people · 200 terms · 1,300 quiz questions
 ```
 
 ## Keywords (App Store, max. 100 Zeichen)
