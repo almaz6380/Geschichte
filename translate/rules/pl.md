@@ -1,0 +1,1 @@
+Zielsprache: POLNISCH. Sachlich, Lehrbuchstil. Namen in polnischer Form (Karol Wielki, Londyn, wojna stuletnia; ukrainische Orte in polnischer Schreibung, z. B. Kijów, Lwów). „BC“ → „p.n.e.“, „AD“ → „n.e.“, „c.“ → „ok.“. Zahlen: 12 000. Jahrhunderte römisch (V w. p.n.e.).

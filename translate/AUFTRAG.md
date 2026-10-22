@@ -11,11 +11,13 @@ Schleife, bis `FERTIG` kommt:
 4. Prüfe: `node translate/check.mjs <sprache> <block>` und `node translate/lint.mjs <sprache>` – Fehler beheben.
 5. Weiter mit Schritt 1.
 
+Zwischendateien NUR in einem eigenen Unterordner ablegen: /tmp/claude-0/-home-user/7011d567-98c6-5fdb-b53d-bdaa96fb1bc8/scratchpad/tr-<sprache>-<zufallszahl>/ (andere Agenten arbeiten parallel; nie gemeinsame Dateinamen im Scratchpad benutzen).
+
 Regeln:
 - Sprachregeln in `translate/rules/<sprache>.md` beachten.
 - Einheitliche Begriffe: Für Namen, Epochentitel, Orte und Fachbegriffe, die es schon gibt, die bestehende
   Übersetzung aus `translate/<sprache>/*.json` übernehmen (mit grep suchen, z. B. nach „justinian“, „konstantinopel“,
-  „Kiewer“, „angkor“, „lindisfarne“, „cook“). Epochentitel stehen in `translate/<sprache>/epochs.*.json` unter `<id>#title`.
+  „Kiewer“, „angkor“, „lindisfarne“, „cook“). Gibt es noch keine Übersetzung in deiner Sprache, sorgfältig festlegen und dann einheitlich verwenden. Epochentitel stehen in `translate/<sprache>/epochs.*.json` unter `<id>#title`.
 - Natürlich und flüssig für Lernende, sachlich, keine Zusätze, keine Auslassungen, Zahlen und Jahre unverändert.
 - Quiz: Die vier Antworten (`#choices.0`–`.3`) müssen verschieden bleiben; Erklärung muss zur Lösung passen.
 - Tags (`#tags.n`) kurz, klein geschrieben wo in der Sprache üblich.
