@@ -4549,8 +4549,8 @@
     "epochId": "ozeanien-pazifik",
     "regionId": "europa",
     "role": "Dutch navigator",
-    "summary": "The East India Company captain who was the first known European to reach Tasmania, New Zealand, Tonga and Fiji.",
-    "text": "Tasman came from Lutjegast in the province of Groningen and entered the service of the Dutch East India Company in Batavia. On his voyage of 1642/43 he sighted Van Diemen's Land, today's Tasmania, and the west coast of New Zealand, where a bloody clash with Māori prevented a landing, and then visited Tonga and Fiji. In 1644 he explored the northern coast of Australia. Because his voyages yielded no profitable trading opportunities, the Company considered them a failure; today Tasmania and the Tasman Sea bear his name. He died in Batavia in 1659.",
+    "summary": "The East India Company captain who was the first known European to reach Tasmania, New Zealand and Fiji, and who also visited Tonga.",
+    "text": "Tasman came from Lutjegast in the province of Groningen and entered the service of the Dutch East India Company in Batavia. On his voyage of 1642/43 he sighted Van Diemen's Land, today's Tasmania, and the west coast of New Zealand; in a bay at the northern end of the South Island a bloody clash with Māori prevented a landing. He then visited Tonga and Fiji. In 1644 he explored the northern coast of Australia. Because his voyages yielded no profitable trading opportunities, the Company considered them a failure; today Tasmania and the Tasman Sea bear his name. He died in Batavia in 1659.",
     "tags": [
       "exploration",
       "netherlands",
@@ -4696,7 +4696,7 @@
   {
     "id": "william-hobson",
     "name": "William Hobson",
-    "born": 1793,
+    "born": 1792,
     "died": 1842,
     "approx": false,
     "epochId": "ozeanien-pazifik",
@@ -4766,7 +4766,7 @@
     "id": "prokop-von-caesarea",
     "name": "Procopius of Caesarea",
     "born": 500,
-    "died": 560,
+    "died": 565,
     "approx": true,
     "epochId": "byzanz",
     "regionId": "naher-osten",
@@ -5446,7 +5446,7 @@
     "regionId": "asien",
     "role": "Revolutionary leader and first president of the Philippines",
     "summary": "The revolutionary leader who proclaimed the independence of the Philippines in 1898 and became the first president of the republic.",
-    "text": "Aguinaldo was a mayor in Cavite and in the revolution of 1896 became the most successful military leader of the Katipunan. He prevailed in the power struggle with Andrés Bonifacio, who was executed in 1897. After an agreement with Spain Aguinaldo went into exile in Hong Kong, returned in 1898 with American support and proclaimed independence at Kawit on 12 June. In 1899 he became president of the First Philippine Republic and led the war against the United States until he was captured in 1901. He died in Manila in 1964.",
+    "text": "Aguinaldo was a mayor in Cavite and in the revolution of 1896 became the most successful military leader of the Katipunan. He prevailed in the power struggle with Andrés Bonifacio, who was executed in 1897. After an agreement with Spain Aguinaldo went into exile in Hong Kong, returned in 1898 with American support and proclaimed independence at Kawit on 12 June. In 1899 he became president of the First Philippine Republic and led the war against the United States until he was captured in 1901. He died in Quezon City near Manila in 1964.",
     "tags": [
       "philippines",
       "revolution",
@@ -5480,7 +5480,7 @@
     "regionId": "europa",
     "role": "King of Wessex",
     "summary": "The Anglo-Saxon king who alone held out against the Vikings and laid the foundations for a united England.",
-    "text": "Alfred became king of Wessex in 871, in the middle of the war against the Great Heathen Army. After a defeat early in 878 he gathered new forces from Athelney and defeated Guthrum at Edington. He then had a network of fortified places, the burhs, built, improved the levy and built ships. He promoted learning, had Latin works translated into Old English, and the Anglo-Saxon Chronicle probably originated at his court. He is the only English king to bear the epithet “the Great”.",
+    "text": "Alfred became king of Wessex in 871, in the middle of the war against the Great Heathen Army. After a defeat early in 878 he gathered new forces from Athelney and defeated Guthrum at Edington. He then had a network of fortified places, the burhs, built, improved the levy and built ships. He promoted learning, had Latin works translated into Old English, and the Anglo-Saxon Chronicle probably originated at his court. He is the only Anglo-Saxon king to bear the epithet “the Great”.",
     "tags": [
       "england",
       "wessex",
@@ -5530,7 +5530,7 @@
     "epochId": "wikinger-nordeuropa",
     "regionId": "amerika",
     "role": "Explorer and founder of the Greenland settlements",
-    "summary": "The seafarer, banished from Norway and later from Iceland, who founded the Norse settlement of Greenland around 985.",
+    "summary": "The Norwegian-born seafarer, banished from Iceland, who founded the Norse settlement of Greenland around 985.",
     "text": "Erik Thorvaldsson, called “the Red” after his red hair, came to Iceland as a child with his father after the latter had been banished from Norway for killings. Erik too was outlawed for killings and used his three years of banishment to explore Greenland. Around 985 he led settlers there and made his home at the farm of Brattahlíð in the south, where he lived as the most respected man of the colony. According to the sagas he remained true to the old faith, unlike his wife Thjodhild.",
     "tags": [
       "greenland",

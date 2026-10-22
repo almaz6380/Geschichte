@@ -4549,8 +4549,8 @@
     "epochId": "ozeanien-pazifik",
     "regionId": "europa",
     "role": "Niederländischer Seefahrer",
-    "summary": "Der Kapitän der Ostindien-Kompanie, der als erster bekannter Europäer Tasmanien, Neuseeland, Tonga und Fidschi erreichte.",
-    "text": "Tasman stammte aus Lutjegast in der Provinz Groningen und trat in den Dienst der Niederländischen Ostindien-Kompanie in Batavia. Auf seiner Reise 1642/43 sichtete er Van-Diemens-Land, das heutige Tasmanien, und die Westküste Neuseelands, wo ein blutiger Zusammenstoß mit Māori eine Landung verhinderte, und besuchte danach Tonga und Fidschi. 1644 erkundete er die Nordküste Australiens. Weil seine Fahrten keine gewinnbringenden Handelsmöglichkeiten erbrachten, galten sie der Kompanie als Fehlschlag; heute tragen Tasmanien und die Tasmansee seinen Namen. Er starb 1659 in Batavia.",
+    "summary": "Der Kapitän der Ostindien-Kompanie, der als erster bekannter Europäer Tasmanien, Neuseeland und Fidschi erreichte und danach auch Tonga besuchte.",
+    "text": "Tasman stammte aus Lutjegast in der Provinz Groningen und trat in den Dienst der Niederländischen Ostindien-Kompanie in Batavia. Auf seiner Reise 1642/43 sichtete er Van-Diemens-Land, das heutige Tasmanien, und die Westküste Neuseelands; in einer Bucht im Norden der Südinsel verhinderte ein blutiger Zusammenstoß mit Māori eine Landung. Danach besuchte er Tonga und Fidschi. 1644 erkundete er die Nordküste Australiens. Weil seine Fahrten keine gewinnbringenden Handelsmöglichkeiten erbrachten, galten sie der Kompanie als Fehlschlag; heute tragen Tasmanien und die Tasmansee seinen Namen. Er starb 1659 in Batavia.",
     "tags": [
       "entdeckungen",
       "niederlande",
@@ -4696,7 +4696,7 @@
   {
     "id": "william-hobson",
     "name": "William Hobson",
-    "born": 1793,
+    "born": 1792,
     "died": 1842,
     "approx": false,
     "epochId": "ozeanien-pazifik",
@@ -4766,7 +4766,7 @@
     "id": "prokop-von-caesarea",
     "name": "Prokop von Caesarea",
     "born": 500,
-    "died": 560,
+    "died": 565,
     "approx": true,
     "epochId": "byzanz",
     "regionId": "naher-osten",
@@ -5446,7 +5446,7 @@
     "regionId": "asien",
     "role": "Revolutionsführer und erster Präsident der Philippinen",
     "summary": "Der Revolutionsführer, der 1898 die Unabhängigkeit der Philippinen ausrief und erster Präsident der Republik wurde.",
-    "text": "Aguinaldo war Bürgermeister in Cavite und wurde in der Revolution von 1896 zum erfolgreichsten Heerführer der Katipunan. Im Machtkampf mit Andrés Bonifacio setzte er sich durch; Bonifacio wurde 1897 hingerichtet. Nach einem Abkommen mit Spanien ging Aguinaldo nach Hongkong ins Exil, kehrte 1898 mit Unterstützung der USA zurück und rief am 12. Juni in Kawit die Unabhängigkeit aus. 1899 wurde er Präsident der Ersten Philippinischen Republik und führte den Krieg gegen die Vereinigten Staaten, bis er 1901 gefangen genommen wurde. Er starb 1964 in Manila.",
+    "text": "Aguinaldo war Bürgermeister in Cavite und wurde in der Revolution von 1896 zum erfolgreichsten Heerführer der Katipunan. Im Machtkampf mit Andrés Bonifacio setzte er sich durch; Bonifacio wurde 1897 hingerichtet. Nach einem Abkommen mit Spanien ging Aguinaldo nach Hongkong ins Exil, kehrte 1898 mit Unterstützung der USA zurück und rief am 12. Juni in Kawit die Unabhängigkeit aus. 1899 wurde er Präsident der Ersten Philippinischen Republik und führte den Krieg gegen die Vereinigten Staaten, bis er 1901 gefangen genommen wurde. Er starb 1964 in Quezon City bei Manila.",
     "tags": [
       "philippinen",
       "revolution",
@@ -5480,7 +5480,7 @@
     "regionId": "europa",
     "role": "König von Wessex",
     "summary": "Der angelsächsische König, der als Einziger den Wikingern standhielt und die Grundlagen für ein geeintes England legte.",
-    "text": "Alfred wurde 871 König von Wessex, mitten im Krieg gegen das Große Heidnische Heer. Nach einer Niederlage Anfang 878 sammelte er von Athelney aus neue Kräfte und siegte bei Edington über Guthrum. Danach ließ er ein Netz befestigter Orte, der Burhs, anlegen, verbesserte das Aufgebot und baute Schiffe. Er förderte die Bildung, ließ lateinische Werke ins Altenglische übersetzen, und an seinem Hof entstand wohl die Angelsächsische Chronik. Als einziger englischer König trägt er den Beinamen „der Große“.",
+    "text": "Alfred wurde 871 König von Wessex, mitten im Krieg gegen das Große Heidnische Heer. Nach einer Niederlage Anfang 878 sammelte er von Athelney aus neue Kräfte und siegte bei Edington über Guthrum. Danach ließ er ein Netz befestigter Orte, der Burhs, anlegen, verbesserte das Aufgebot und baute Schiffe. Er förderte die Bildung, ließ lateinische Werke ins Altenglische übersetzen, und an seinem Hof entstand wohl die Angelsächsische Chronik. Als einziger angelsächsischer König trägt er den Beinamen „der Große“.",
     "tags": [
       "england",
       "wessex",
@@ -5530,7 +5530,7 @@
     "epochId": "wikinger-nordeuropa",
     "regionId": "amerika",
     "role": "Entdecker und Begründer der Siedlungen auf Grönland",
-    "summary": "Der aus Norwegen und später aus Island verbannte Seefahrer, der um 985 die nordische Besiedlung Grönlands begründete.",
+    "summary": "Der in Norwegen geborene, aus Island verbannte Seefahrer, der um 985 die nordische Besiedlung Grönlands begründete.",
     "text": "Erik Thorvaldsson, nach seinem roten Haar „der Rote“ genannt, kam als Kind mit seinem Vater nach Island, nachdem dieser wegen Totschlags aus Norwegen verbannt worden war. Auch Erik wurde wegen Totschlags geächtet und nutzte seine dreijährige Verbannung, um Grönland zu erkunden. Um 985 führte er Siedler dorthin und ließ sich auf dem Hof Brattahlíð im Süden nieder, wo er als angesehenster Mann der Kolonie lebte. Nach den Sagas blieb er im Gegensatz zu seiner Frau Thjodhild dem alten Glauben treu.",
     "tags": [
       "grönland",
