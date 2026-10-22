@@ -119,8 +119,8 @@
   },
   {
     "id": "auslegerkanu",
-    "term": "Auslegerkanu",
-    "definition": "Kanu mit einem seitlich am Rumpf befestigten Schwimmer, dem Ausleger, der das Boot gegen das Kentern stabilisiert. Für die Besiedlung des Pazifiks nutzten die Seefahrer auch große Doppelrumpfkanus mit Segeln aus Pandanusmatten, die Menschen, Tiere und Pflanzen über Tausende Kilometer tragen konnten. Navigiert wurde ohne Instrumente nach Sternen, Dünung, Wolken und Vogelflug.",
+    "term": "舷外浮杆独木舟",
+    "definition": "一种在船体侧面装有浮杆（即舷外浮杆）以防止倾覆的独木舟。为了在太平洋上定居，航海者还使用带有露兜树叶编织帆的大型双体独木舟，它们能载着人、动物和植物横渡数千公里。他们不借助仪器，凭借星辰、海浪涌动、云彩和鸟类的飞行来导航。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "lapita-besiedlung-pazifik",
@@ -141,8 +141,8 @@
   },
   {
     "id": "baray",
-    "term": "Baray",
-    "definition": "Khmer-Bezeichnung für die großen rechteckigen Wasserbecken, die die Könige von Angkor anlegen ließen; der Westliche Baray misst etwa acht mal zwei Kilometer. Sie dienten der Wasserversorgung und hatten zugleich religiöse Bedeutung als Abbild des Urozeans um den Weltenberg Meru. Wie stark sie zur Bewässerung der Reisfelder beitrugen, wird in der Forschung unterschiedlich beurteilt.",
+    "term": "巴莱",
+    "definition": "高棉语术语，指吴哥诸王修建的长方形大型蓄水池；西巴莱约长八公里、宽两公里。它们用于供水，同时具有宗教意义，象征环绕宇宙之山须弥山的原初之海。它们对稻田灌溉究竟贡献了多少，学者们的评价不一。",
     "epochId": "suedostasien",
     "related": [
       "angkor-wat",
@@ -152,8 +152,8 @@
   },
   {
     "id": "basileus",
-    "term": "Basileus",
-    "definition": "Griechisches Wort für „König“, das seit Kaiser Herakleios amtlich als Titel des byzantinischen Kaisers diente. Der Basileus verstand sich als Nachfolger der römischen Kaiser und als von Gott eingesetzter Herrscher der Christenheit. Den Anspruch westlicher Herrscher wie Karls des Großen auf den Kaisertitel erkannte Byzanz nur widerwillig an.",
+    "term": "巴西琉斯",
+    "definition": "希腊语中的“国王”一词，从希拉克略皇帝时代起正式用作拜占庭皇帝的称号。巴西琉斯自视为罗马皇帝的继承者，是上帝所立的基督教世界的统治者。拜占庭对查理曼等西方统治者对皇帝称号的要求，只是勉强予以承认。",
     "epochId": "byzanz",
     "related": [
       "herakleios",
@@ -185,8 +185,8 @@
   },
   {
     "id": "bilderstreit",
-    "term": "Bilderstreit (Ikonoklasmus)",
-    "definition": "Die Auseinandersetzung in Byzanz zwischen etwa 726/730 und 843 darüber, ob religiöse Bilder verehrt werden dürfen. Die Ikonoklasten („Bilderzerstörer“) lehnten das als Götzendienst ab, die Ikonodulen („Bilderverehrer“) verteidigten es. Nach zwei Phasen der Bilderfeindschaft wurde die Bilderverehrung 843 endgültig wiederhergestellt; da die meisten Quellen von den Siegern stammen, ist das Ausmaß der Verfolgungen umstritten.",
+    "term": "圣像破坏运动",
+    "definition": "约726/730年至843年间拜占庭关于宗教画像是否可以受到崇拜的争论。圣像破坏者（“打破圣像的人”）斥之为偶像崇拜，而圣像崇拜者（“热爱圣像的人”）则为之辩护。经过两个敌视圣像的阶段之后，圣像崇拜于843年最终得以恢复；由于大部分史料出自胜利者之手，迫害的规模尚有争议。",
     "epochId": "byzanz",
     "related": [
       "beginn-des-bilderstreits",
@@ -209,8 +209,8 @@
   },
   {
     "id": "bojaren",
-    "term": "Bojaren",
-    "definition": "Die adelige Oberschicht in der Kiewer Rus, im Moskauer Reich und in den Donaufürstentümern. Sie besaßen großen Grundbesitz, berieten den Fürsten in der Bojarenduma und besetzten hohe Ämter in Heer und Verwaltung. Iwan IV. verfolgte sie in der Opritschnina, Peter der Große schaffte den Rang ab und ersetzte ihn durch die Rangtabelle.",
+    "term": "波雅尔",
+    "definition": "基辅罗斯、莫斯科国家以及多瑙河诸公国中的贵族上层。他们拥有大片地产，在波雅尔杜马中为王公出谋划策，并在军队和行政机构中担任要职。伊凡四世在特辖制中迫害他们，彼得大帝废除了这一等级，代之以官秩表。",
     "epochId": "russland-osteuropa",
     "related": [
       "opritschnina",
@@ -273,8 +273,8 @@
   },
   {
     "id": "danegeld",
-    "term": "Danegeld",
-    "definition": "Tributzahlungen, mit denen englische und fränkische Herrscher Wikingerheere zum Abzug bewegten oder Angriffe abwenden wollten. In England zahlte König Æthelred ab 991 immer höhere Summen in Silber, die als Steuer vom ganzen Land eingezogen wurden. Die Zahlungen machten die Raubzüge lohnend und erklären die vielen englischen Münzen in skandinavischen Schatzfunden.",
+    "term": "丹麦金",
+    "definition": "英格兰和法兰克统治者为促使维京军队撤退或避免遭到袭击而支付的贡金。在英格兰，埃塞尔雷德国王从991年起以白银支付越来越大的数额，这些白银作为赋税向全国征收。这些支付使劫掠有利可图，也解释了斯堪的纳维亚窖藏中为何有大量英格兰钱币。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "wikinger-pluendern-paris",
@@ -284,8 +284,8 @@
   },
   {
     "id": "danelag",
-    "term": "Danelag",
-    "definition": "Das Gebiet im Norden und Osten Englands, das im späten 9. Jahrhundert von Skandinaviern besiedelt wurde und in dem dänisches Recht galt. Die Bezeichnung (englisch Danelaw) kam erst im 11. Jahrhundert auf. Ortsnamen auf -by und -thorpe sowie skandinavische Lehnwörter wie „sky“ oder „egg“ erinnern bis heute daran.",
+    "term": "丹麦法区",
+    "definition": "英格兰北部和东部在9世纪末由斯堪的纳维亚人定居、适用丹麦法律的地区。这个名称直到11世纪才开始使用。以-by和-thorpe结尾的地名以及“sky”（天空）或“egg”（蛋）等斯堪的纳维亚借词至今仍让人想起它。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "grosses-heidnisches-heer",
@@ -318,8 +318,8 @@
   },
   {
     "id": "devaraja",
-    "term": "Devaraja",
-    "definition": "Sanskrit für „Gott-König“; Bezeichnung für einen Königskult, den Jayavarman II. 802 im Khmer-Reich einführte. Er verband die Herrschaft des Königs eng mit einer Gottheit, meist Shiva, und wurde von einer Priesterfamilie gepflegt. Was der Kult genau bedeutete und ob der König selbst als Gott galt, ist in der Forschung umstritten.",
+    "term": "提婆罗阇",
+    "definition": "梵语意为“神王”；802年阇耶跋摩二世在高棉帝国引入的一种王室崇拜的名称。它把国王的统治与一位神祇——通常是湿婆——紧密联系起来，并由一个祭司家族维持。这种崇拜的确切含义是什么，国王本人是否被视为神，学者们尚有争议。",
     "epochId": "suedostasien",
     "related": [
       "jayavarman-ii-begruendet-khmer-reich",
@@ -415,8 +415,8 @@
   },
   {
     "id": "edda",
-    "term": "Edda",
-    "definition": "Name zweier isländischer Werke des 13. Jahrhunderts, die wichtigste Quelle für die nordische Mythologie. Die Prosa-Edda des Snorri Sturluson ist ein Lehrbuch der Dichtkunst, das die Göttersagen nacherzählt; die Lieder-Edda ist eine Sammlung älterer Götter- und Heldenlieder. Da beide von Christen aufgeschrieben wurden, ist umstritten, wie genau sie den vorchristlichen Glauben wiedergeben.",
+    "term": "埃达",
+    "definition": "13世纪两部冰岛著作的名称，是北欧神话最重要的史料。斯诺里·斯图鲁松的《散文埃达》是一部重述神话的诗学手册；《诗体埃达》是一部关于神祇和英雄的较古老诗歌集。由于两者都由基督徒记录下来，它们在多大程度上忠实反映了基督教之前的信仰，尚有争论。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "snorri-schreibt-die-edda",
@@ -586,8 +586,8 @@
   },
   {
     "id": "gewuerzinseln",
-    "term": "Gewürzinseln (Molukken)",
-    "definition": "Inselgruppe im Osten des heutigen Indonesien, auf der lange als einzigem Ort der Welt Gewürznelken wuchsen; Muskatnuss kam nur von den nahen Banda-Inseln. Der Wunsch, diesen Handel zu beherrschen, trieb Portugiesen, Spanier, Engländer und Niederländer nach Südostasien. Die Niederländische Ostindien-Kompanie erzwang im 17. Jahrhundert mit großer Gewalt ein Monopol.",
+    "term": "香料群岛（摩鹿加群岛）",
+    "definition": "位于今天印度尼西亚东部的一个群岛，长期以来是世界上唯一出产丁香的地方；肉豆蔻则只产于附近的班达群岛。控制这一贸易的欲望驱使葡萄牙人、西班牙人、英国人和荷兰人来到东南亚。17世纪，荷兰东印度公司以极大的暴力强行实行了垄断。",
     "epochId": "suedostasien",
     "related": [
       "portugiesen-erobern-malakka",
@@ -661,8 +661,8 @@
   },
   {
     "id": "griechisches-feuer",
-    "term": "Griechisches Feuer",
-    "definition": "Eine Brandwaffe, die die byzantinische Flotte seit dem 7. Jahrhundert aus Rohren gegen feindliche Schiffe spritzte und die auch auf dem Wasser weiterbrannte. Ihre Zusammensetzung war ein streng gehütetes Staatsgeheimnis und ist bis heute nicht sicher bekannt; vermutlich enthielt sie Erdöl. Sie trug entscheidend zur Abwehr der arabischen Belagerungen Konstantinopels bei.",
+    "term": "希腊火",
+    "definition": "一种燃烧武器，从7世纪起拜占庭海军用管子把它喷向敌船，它甚至在水面上也能继续燃烧。其成分是严格保守的国家机密，至今仍无法确知；其中可能含有石油。它在击退阿拉伯人对君士坦丁堡的围攻中起了决定性作用。",
     "epochId": "byzanz",
     "related": [
       "einsatz-des-griechischen-feuers",
@@ -824,8 +824,8 @@
   },
   {
     "id": "ikone",
-    "term": "Ikone",
-    "definition": "Ein meist auf Holz gemaltes Bild Christi, Marias oder eines Heiligen, das in der orthodoxen Kirche verehrt wird. Nach orthodoxer Lehre gilt die Verehrung nicht dem Bild selbst, sondern dem Dargestellten; die Ikone wird als Fenster zur himmlischen Welt verstanden. Um die Berechtigung dieser Verehrung tobte im 8. und 9. Jahrhundert der Bilderstreit.",
+    "term": "圣像",
+    "definition": "基督、马利亚或圣徒的画像，通常画在木板上，在东正教会中受到崇敬。按照东正教的教义，崇敬的对象不是画像本身，而是画中的人物；圣像被理解为通往天上世界的窗口。这种崇敬的合法性在8和9世纪的圣像破坏运动中曾引起激烈争夺。",
     "epochId": "byzanz",
     "related": [
       "beginn-des-bilderstreits",
@@ -901,8 +901,8 @@
   },
   {
     "id": "jarl",
-    "term": "Jarl",
-    "definition": "Ein hoher skandinavischer Adelstitel, der einen mächtigen Häuptling oder einen Statthalter des Königs bezeichnete. Die Jarle von Lade beherrschten im 10. Jahrhundert weite Teile Norwegens, und die Jarle von Orkney regierten die Inseln nördlich von Schottland. Der englische Adelstitel „Earl“ ist mit dem Wort verwandt und übernahm unter Knut dem Großen dessen Bedeutung.",
+    "term": "雅尔",
+    "definition": "斯堪的纳维亚的一种高级贵族称号，指有权势的酋长或代表国王的总督。10世纪，拉德的雅尔统治着挪威的大部分地区，奥克尼的雅尔则治理着苏格兰以北的群岛。英语贵族称号“earl”（伯爵）与这个词同源，并在克努特大帝时期获得了它的含义。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "schlacht-bei-svolder",
@@ -979,8 +979,8 @@
   },
   {
     "id": "katipunan",
-    "term": "Katipunan",
-    "definition": "Geheimbund, den Andrés Bonifacio 1892 in Manila gründete, um die Unabhängigkeit der Philippinen von Spanien mit Waffengewalt zu erkämpfen. Sein Name ist eine Kurzform für eine Tagalog-Bezeichnung, die etwa „Höchste und ehrwürdigste Gesellschaft der Kinder des Volkes“ bedeutet. Mit seiner Entdeckung im August 1896 begann die Philippinische Revolution.",
+    "term": "卡蒂普南",
+    "definition": "安德烈斯·博尼法西奥于1892年在马尼拉创建的秘密社团，旨在通过武装斗争赢得菲律宾脱离西班牙的独立。它的名称是一个他加禄语称号的简称，意思大致是“国民子弟最崇高、最可敬的协会”。1896年8月它被发现，标志着菲律宾革命的开始。",
     "epochId": "suedostasien",
     "related": [
       "philippinische-revolution",
@@ -1066,8 +1066,8 @@
   },
   {
     "id": "kosaken",
-    "term": "Kosaken",
-    "definition": "Freie, militärisch organisierte Gemeinschaften in den Steppen der heutigen Ukraine und Südrusslands, die seit dem 15. Jahrhundert aus geflohenen Bauern und Abenteurern entstanden. Sie wählten ihre Anführer, die Atamane oder Hetmane, selbst und dienten polnischen Königen und Zaren als Grenztruppen. Zugleich führten sie große Aufstände an und trugen die Eroberung Sibiriens.",
+    "term": "哥萨克",
+    "definition": "自15世纪起由逃亡农民和冒险者在今天乌克兰和俄罗斯南部草原上形成的自由的军事化社群。他们选举自己的首领，即阿塔曼或盖特曼，作为边防部队为波兰国王和沙皇效力。与此同时，他们也领导过大规模起义，并承担了对西伯利亚的征服。",
     "epochId": "russland-osteuropa",
     "related": [
       "chmelnyzkyj-aufstand",
@@ -1100,8 +1100,8 @@
   },
   {
     "id": "kultursystem",
-    "term": "Kultursystem",
-    "definition": "Niederländisch „cultuurstelsel“; das 1830 auf Java eingeführte Zwangsanbausystem. Die Dörfer mussten einen Teil ihres Landes oder ihrer Arbeitskraft für Exportpflanzen wie Kaffee, Zucker und Indigo einsetzen, die der Kolonialstaat zu niedrigen Preisen aufkaufte. Es brachte den Niederlanden hohe Gewinne, führte auf Java aber zu Not und Hungersnöten und wurde ab 1870 schrittweise abgeschafft.",
+    "term": "强迫种植制度",
+    "definition": "荷兰语为“cultuurstelsel”；1830年在爪哇推行的强制种植制度。各村必须把部分土地或劳力用于种植咖啡、甘蔗和靛蓝等出口作物，由殖民政府以低价收购。它给荷兰带来了巨额利润，却在爪哇造成了困苦和饥荒，从1870年起逐步被废除。",
     "epochId": "suedostasien",
     "related": [
       "java-krieg-und-kultursystem",
@@ -1131,8 +1131,8 @@
   },
   {
     "id": "kyrillische-schrift",
-    "term": "Kyrillische Schrift",
-    "definition": "Ein aus dem griechischen Alphabet entwickeltes Schriftsystem für slawische Sprachen, das im späten 9. und frühen 10. Jahrhundert unter den Schülern Kyrills und Methods im Bulgarischen Reich entstand und nach Kyrill benannt ist. Kyrill selbst hatte zuvor die glagolitische Schrift geschaffen. Heute schreiben unter anderem Russisch, Ukrainisch, Belarussisch, Bulgarisch, Serbisch und Mazedonisch kyrillisch.",
+    "term": "西里尔字母",
+    "definition": "一种由希腊字母发展而来、用于斯拉夫语言的文字，9世纪末10世纪初产生于保加利亚帝国中西里尔和美多德的弟子之间，并以西里尔的名字命名。西里尔本人此前创制了格拉哥里字母。今天，俄语、乌克兰语、白俄罗斯语、保加利亚语、塞尔维亚语和马其顿语等都用西里尔字母书写。",
     "epochId": "byzanz",
     "related": [
       "kyrill",
@@ -1154,8 +1154,8 @@
   },
   {
     "id": "langschiff",
-    "term": "Langschiff",
-    "definition": "Das schlanke Kriegsschiff der Wikinger, in Klinkerbauweise aus sich überlappenden Planken gebaut, mit Kiel, Rahsegel und Ruderbänken. Es war hochseetüchtig und hatte so wenig Tiefgang, dass es weit in Flüsse vordringen und an flachen Stränden landen konnte. Funde wie die Schiffe von Gokstad und Skuldelev zeigen Längen von etwa 20 bis 30 Metern.",
+    "term": "长船",
+    "definition": "维京人细长的战船，用相互搭接的木板以搭接法建造，有龙骨、横帆和划桨座。它适于远航，吃水又很浅，能沿河深入内陆并在平坦的海滩上登陆。科克斯塔德船和斯库勒莱乌船等发现显示其长度约为20至30米。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "ueberfall-auf-lindisfarne",
@@ -1165,8 +1165,8 @@
   },
   {
     "id": "lapita-kultur",
-    "term": "Lapita-Kultur",
-    "definition": "Archäologische Kultur, benannt nach einem Fundort in Neukaledonien, die in der zweiten Hälfte des 2. Jahrtausends v. Chr. im Bismarck-Archipel auftrat. Kennzeichen ist Keramik mit fein gestempelten geometrischen Mustern. Ihre Träger sprachen austronesische Sprachen, besiedelten innerhalb weniger Jahrhunderte die Inseln bis Tonga und Samoa und gelten als Vorfahren der Polynesier.",
+    "term": "拉皮塔文化",
+    "definition": "一种以新喀里多尼亚的一处遗址命名的考古学文化，于公元前2千纪后半期出现在俾斯麦群岛。其标志是带有精细压印几何纹样的陶器。其承载者讲南岛语系语言，在几个世纪之内定居到远至汤加和萨摩亚的岛屿，被视为波利尼西亚人的祖先。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "lapita-besiedlung-pazifik",
@@ -1208,8 +1208,8 @@
   },
   {
     "id": "leibeigenschaft",
-    "term": "Leibeigenschaft",
-    "definition": "Die rechtliche Bindung von Bauern an den Boden und an einen Herrn, dem sie Arbeit und Abgaben schuldeten. In Russland wurde sie seit dem späten 16. Jahrhundert verschärft und 1649 erblich; Leibeigene konnten verkauft und zum Militär abgegeben werden. Alexander II. hob sie 1861 auf, in den Ostseeprovinzen war sie schon zwischen 1816 und 1819 beendet worden.",
+    "term": "农奴制",
+    "definition": "农民在法律上被束缚于土地和领主，须为领主服劳役并缴纳贡赋。在俄国，农奴制从16世纪末起不断加强，1649年成为世袭；农奴可以被出售，也可以被交给军队。亚历山大二世于1861年废除了农奴制；在波罗的海诸省，它早在1816年至1819年间就已结束。",
     "epochId": "russland-osteuropa",
     "related": [
       "aufhebung-der-leibeigenschaft-in-russland",
@@ -1252,8 +1252,8 @@
   },
   {
     "id": "mana",
-    "term": "Mana",
-    "definition": "Polynesischer Begriff für eine übernatürliche Kraft, Autorität und Ansehen, die Menschen, Ahnen, Orte und Gegenstände besitzen können. Häuptlinge und Könige leiteten ihr Mana von göttlichen Vorfahren ab; Erfolge im Krieg vermehrten es, Niederlagen oder Verstöße gegen das Tapu konnten es mindern. Der Begriff spielt in den Kulturen Polynesiens bis heute eine große Rolle.",
+    "term": "玛纳",
+    "definition": "波利尼西亚的一个概念，指人、祖先、地点和物品可以拥有的超自然力量、权威和威望。酋长和国王的玛纳来自神圣的祖先；战争中的胜利会使它增加，而失败或触犯禁忌（塔布）则会使它减少。这一概念至今在波利尼西亚文化中仍起着重要作用。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "tui-tonga-reich",
@@ -1263,8 +1263,8 @@
   },
   {
     "id": "mandala-staat",
-    "term": "Mandala (Herrschaftsordnung)",
-    "definition": "Modell, mit dem Historiker die frühen Reiche Südostasiens beschreiben: Ein Machtzentrum war von Kreisen abhängiger Fürsten und Häfen umgeben, deren Treue sich nach Stärke und Ansehen des Herrschers richtete. Grenzen waren unscharf, und dieselben Gebiete konnten mehreren Zentren zugleich Tribut leisten. Der Begriff erklärt, warum Reiche wie Srivijaya oder Majapahit rasch wachsen und schrumpfen konnten.",
+    "term": "曼荼罗（政治秩序）",
+    "definition": "史学家用来描述东南亚早期国家的一种模式：一个权力中心被一圈圈依附的王公和港口所环绕，它们的忠诚取决于统治者的实力和威望。边界模糊，同一片领土可能同时向几个中心纳贡。这一概念解释了室利佛逝或满者伯夷等王国为何能如此迅速地扩张和收缩。",
     "epochId": "suedostasien",
     "related": [
       "aufstieg-von-srivijaya",
@@ -1391,8 +1391,8 @@
   },
   {
     "id": "moai",
-    "term": "Moai",
-    "definition": "Die großen Steinfiguren von Rapa Nui (Osterinsel), von denen fast 900 bekannt sind. Sie stellen Ahnen dar und standen meist auf zeremoniellen Plattformen, den Ahu, mit dem Blick ins Inselinnere. Die meisten wurden aus Tuffstein im Krater Rano Raraku gehauen; einige trugen Kopfaufsätze aus rotem Schlackenstein, die Pukao.",
+    "term": "摩艾",
+    "definition": "拉帕努伊（复活节岛）上的大型石像，已知的有近900尊。它们代表祖先，大多立在名为“阿胡”的祭祀平台上，面朝内陆。大多数石像由拉诺拉拉库火山口的凝灰岩雕成；有些头顶戴着用红色火山渣制成的发髻，即“普卡奥”。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "moai-auf-rapa-nui",
@@ -1465,8 +1465,8 @@
   },
   {
     "id": "orthodoxe-kirche",
-    "term": "Orthodoxe Kirche",
-    "definition": "Die aus der Reichskirche von Byzanz hervorgegangene Gemeinschaft östlicher Kirchen; „orthodox“ bedeutet „rechtgläubig“. Sie besteht aus selbstständigen Landeskirchen, unter denen der Patriarch von Konstantinopel einen Ehrenvorrang hat, und erkennt den Papst nicht als Oberhaupt an. Kennzeichen sind die Liturgie in überlieferten Kirchensprachen wie Griechisch und Kirchenslawisch statt Latein, die Verehrung von Ikonen und ein starkes Mönchtum.",
+    "term": "东正教会",
+    "definition": "由拜占庭帝国教会发展而来的东方教会共同体；“正教”意为“信仰正确”。它由各自治的民族教会组成，其中君士坦丁堡牧首享有荣誉上的首席地位，它不承认教皇为其首领。其特点包括使用希腊语和教会斯拉夫语等传统教会语言而非拉丁语举行礼仪、崇敬圣像以及强大的隐修传统。",
     "epochId": "byzanz",
     "related": [
       "morgenlaendisches-schisma",
@@ -1487,8 +1487,8 @@
   },
   {
     "id": "pa-festung",
-    "term": "Pā",
-    "definition": "Befestigte Siedlung der Māori, meist auf Hügeln, Bergspornen oder Landzungen gelegen und mit Gräben, Erdwällen und Palisaden geschützt. Viele Tausend Pā sind archäologisch nachgewiesen; sie sicherten Dörfer und Vorräte in Zeiten von Konflikten. In den Neuseelandkriegen bauten Māori Pā mit Schützengräben und Unterständen, die dem britischen Artilleriebeschuss erstaunlich gut standhielten.",
+    "term": "帕",
+    "definition": "毛利人的设防聚落，通常位于山丘、山脊或岬角上，由壕沟、土墙和木栅栏保护。考古学上已确认了成千上万个帕；在冲突时期，它们保护着村庄和粮食储备。在新西兰战争中，毛利人修建了带有堑壕和掩体的帕，它们出色地经受住了英国炮火的轰击。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "besiedlung-neuseelands",
@@ -1645,8 +1645,8 @@
   },
   {
     "id": "runen",
-    "term": "Runen",
-    "definition": "Die Schriftzeichen der germanischen Völker, die vor allem in Stein, Holz und Metall geritzt wurden. Die ältere Runenreihe, nach ihren ersten Zeichen Futhark genannt, hatte 24 Zeichen; in der Wikingerzeit war in Skandinavien eine jüngere Reihe mit 16 Zeichen in Gebrauch. Die meisten der erhaltenen Runensteine stehen in Schweden und erinnern an Verstorbene oder an Fahrten in die Fremde.",
+    "term": "如尼文",
+    "definition": "日耳曼各民族的文字符号，主要刻在石头、木头和金属上。较早的如尼字母表按其最初几个字母称为“弗萨克”，有24个符号；在维京时代，斯堪的纳维亚使用的是一种只有16个符号的较晚字母表。现存的如尼石大多立在瑞典，用来纪念死者或出国的旅程。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "runenstein-von-jelling",
@@ -1656,8 +1656,8 @@
   },
   {
     "id": "saga",
-    "term": "Saga",
-    "definition": "Eine Prosaerzählung in altnordischer Sprache, wie sie vor allem auf Island im 13. und 14. Jahrhundert niedergeschrieben wurde. Die Isländersagas erzählen von Familien der Siedlungszeit, ihren Fehden und Fahrten, die Königssagas von den Herrschern Norwegens. Sie beruhen auf mündlicher Überlieferung, entstanden aber Generationen nach den Ereignissen und sind deshalb nur mit Vorsicht als Geschichtsquelle zu nutzen.",
+    "term": "萨迦",
+    "definition": "一种古诺尔斯语的散文叙事作品，主要于13和14世纪在冰岛被记录下来。冰岛人萨迦讲述定居时期的家族、他们的世仇和航行，诸王萨迦则讲述挪威的统治者。它们以口头传统为基础，但成书时距事件已过去了几代人，因此作为历史史料必须审慎使用。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "leif-eriksson-erreicht-vinland",
@@ -1719,8 +1719,8 @@
   },
   {
     "id": "semstwo",
-    "term": "Semstwo",
-    "definition": "Gewähltes Organ der ländlichen Selbstverwaltung, das Alexander II. 1864 auf Ebene der Gouvernements und Kreise einführte. Die Semstwa unterhielten Schulen, Krankenhäuser und Straßen und beschäftigten Ärzte, Lehrer und Agronomen. Sie wurden zu einem Sammelbecken liberaler Kräfte, die eine Verfassung forderten.",
+    "term": "地方自治局（泽姆斯特沃）",
+    "definition": "亚历山大二世于1864年在省和县两级设立的、经选举产生的农村自治机构。地方自治局维持学校、医院和道路，雇用医生、教师和农艺师。它们成为要求制定宪法的自由派力量的聚集点。",
     "epochId": "russland-osteuropa",
     "related": [
       "aufhebung-der-leibeigenschaft-in-russland",
@@ -1752,8 +1752,8 @@
   },
   {
     "id": "solidus",
-    "term": "Solidus",
-    "definition": "Die Goldmünze, die Konstantin der Große Anfang des 4. Jahrhunderts einführte; 72 Stück wurden aus einem römischen Pfund Gold geprägt. Im griechischen Osten Nomisma genannt, blieb sie bis ins 11. Jahrhundert wertbeständig und war im ganzen Mittelmeerraum ein begehrtes Zahlungsmittel. Nach einer Zeit der Verschlechterung ersetzte Alexios I. sie 1092 durch das Hyperpyron.",
+    "term": "索利都斯",
+    "definition": "君士坦丁大帝于4世纪初引入的金币，每罗马磅黄金铸造72枚。它在希腊语的东方称为“诺米斯玛”，直到11世纪一直保持币值，是整个地中海地区备受青睐的货币。经过一段成色下降的时期后，阿历克塞一世于1092年用希佩皮隆取代了它。",
     "epochId": "byzanz",
     "related": [
       "konstantin-der-grosse",
@@ -1871,8 +1871,8 @@
   },
   {
     "id": "szlachta",
-    "term": "Szlachta",
-    "definition": "Der Adel Polen-Litauens, der mit nach Schätzungen sechs bis zehn Prozent der Bevölkerung ungewöhnlich zahlreich war und vom reichen Magnaten bis zum landlosen Kleinadligen reichte. Seine Mitglieder galten als rechtlich gleich, wählten seit 1573 den König und beherrschten den Reichstag. Ihre „goldene Freiheit“ schützte vor königlicher Willkür, schwächte aber den Staat.",
+    "term": "什拉赫塔",
+    "definition": "波兰-立陶宛的贵族，人数异常众多，据估计占人口的百分之六到十，从富有的权贵到没有土地的小贵族不等。其成员在法律上被视为平等，从1573年起选举国王，并主导着议会。他们的“黄金自由”保护他们免受国王的专断，却削弱了国家。",
     "epochId": "russland-osteuropa",
     "related": [
       "union-von-lublin",
@@ -1882,8 +1882,8 @@
   },
   {
     "id": "tapu",
-    "term": "Tapu",
-    "definition": "Polynesischer Begriff für das Heilige und Verbotene, von dem das Wort „Tabu“ stammt; auf Hawaiʻi lautet er „kapu“. Tapu lag auf Personen, Orten und Dingen, die mit Göttern oder Mana verbunden waren, und wer es verletzte, musste mit Unglück oder Strafe rechnen. James Cook brachte das Wort aus Tonga nach Europa.",
+    "term": "塔布",
+    "definition": "波利尼西亚的一个概念，指神圣而被禁止的事物，“禁忌”（taboo）一词即源于此；在夏威夷称为“kapu”。塔布附着在与神祇或玛纳相关的人、地点和事物上，触犯者会遭遇不幸或惩罚。詹姆斯·库克把这个词从汤加带到了欧洲。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "aufhebung-des-kapu",
@@ -1893,8 +1893,8 @@
   },
   {
     "id": "terra-nullius",
-    "term": "Terra nullius",
-    "definition": "Lateinisch für „Niemandsland“: die Rechtsvorstellung, ein Gebiet gehöre niemandem und dürfe deshalb ohne Vertrag in Besitz genommen werden. Der Begriff kam erst später in Gebrauch, beschreibt aber die Grundlage der britischen Inbesitznahme Australiens ab 1788, bei der das Land der Aborigines ohne Abkommen und Entschädigung der Krone zugeschlagen wurde. 1992 verwarf der Oberste Gerichtshof Australiens im Mabo-Urteil diese Annahme und erkannte erstmals Landrechte der Ureinwohner an.",
+    "term": "无主地",
+    "definition": "拉丁语“terra nullius”，意为“无人之地”：一种法律观念，认为某片领土不属于任何人，因此可以不经条约而占取。这个术语本身是后来才开始使用的，但它描述了英国从1788年起占取澳大利亚的依据，原住民的土地在没有协议或补偿的情况下被并入王室。1992年，澳大利亚高等法院在马博案判决中否定了这一假定，首次承认了原住民土地所有权。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "ankunft-der-first-fleet",
@@ -1904,8 +1904,8 @@
   },
   {
     "id": "themenverfassung",
-    "term": "Themen",
-    "definition": "Die Militärbezirke, in die das Byzantinische Reich seit dem 7. Jahrhundert gegliedert wurde. An ihrer Spitze stand ein Stratege, der zugleich militärische und zivile Gewalt ausübte; die Soldaten stammten oft aus dem jeweiligen Bezirk. Wann und wie diese Ordnung entstand, ob unter Herakleios oder schrittweise danach, ist in der Forschung umstritten.",
+    "term": "军区制",
+    "definition": "拜占庭帝国从7世纪起所划分的军事区，即“塞姆”。每个军区由一名将军（斯特拉特戈斯）领导，他同时行使军事和民政权力；士兵往往来自军区本身。这一制度是何时、如何产生的——是在希拉克略治下，还是此后逐渐形成——史学界尚有争论。",
     "epochId": "byzanz",
     "related": [
       "herakleios",
@@ -1915,8 +1915,8 @@
   },
   {
     "id": "theravada",
-    "term": "Theravada-Buddhismus",
-    "definition": "„Lehre der Älteren“; die Richtung des Buddhismus, die sich auf den Pali-Kanon stützt und das Mönchtum in den Mittelpunkt stellt. Sie gelangte vor allem aus Sri Lanka nach Südostasien und wurde ab dem 11. Jahrhundert in Pagan, später in Sukhothai, Ayutthaya, Laos und Kambodscha vorherrschend. Bis heute ist sie die wichtigste Religion in Myanmar, Thailand, Laos und Kambodscha.",
+    "term": "上座部佛教",
+    "definition": "“长老之教”；以巴利三藏为基础、以僧侣生活为中心的佛教派别。它主要从斯里兰卡传入东南亚，从11世纪起在蒲甘占据主导地位，后来又在素可泰、阿瑜陀耶、老挝和柬埔寨占据主导地位。今天它仍是缅甸、泰国、老挝和柬埔寨的主要宗教。",
     "epochId": "suedostasien",
     "related": [
       "anawrahta-eint-pagan",
@@ -1927,8 +1927,8 @@
   },
   {
     "id": "thing",
-    "term": "Thing",
-    "definition": "Die Versammlung der freien Männer in den germanischen und skandinavischen Gesellschaften, auf der Recht gesprochen, Streit geschlichtet und über gemeinsame Angelegenheiten beschlossen wurde. Es gab örtliche Things und große Landesversammlungen wie das isländische Althing oder das norwegische Gulating. Das Wort lebt in Parlamentsnamen wie Storting, Folketing und Alþingi weiter.",
+    "term": "庭",
+    "definition": "日耳曼和斯堪的纳维亚社会中自由人的集会，在会上审理案件、调解纠纷并决定共同事务。既有地方性的庭，也有大型的地区性集会，如冰岛的阿尔庭或挪威的古拉庭。这个词至今仍保留在斯托丁、弗尔克廷和阿尔庭（Alþingi）等议会的名称中。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "gruendung-des-althing",
@@ -1993,8 +1993,8 @@
   },
   {
     "id": "traumzeit",
-    "term": "Traumzeit",
-    "definition": "Übersetzung (englisch „Dreaming“) für die Weltdeutungen der Aborigines, nach denen Ahnenwesen in einer Schöpfungszeit Landschaft, Lebewesen, Gesetze und Bräuche schufen. Diese Zeit gilt nicht als abgeschlossene Vergangenheit, sondern ist in Orten, Liedern, Tänzen und Zeremonien gegenwärtig. Sie verbindet Menschen mit bestimmten Landstücken, für die sie Verantwortung tragen; die einzelnen Sprachgruppen haben dafür eigene Begriffe wie „Jukurrpa“ bei den Warlpiri.",
+    "term": "梦幻时代",
+    "definition": "英语中对澳大利亚原住民世界观的通常称呼，按照这种世界观，祖先神灵在创世时期创造了地貌、生物、法则和习俗。这个时代并不被视为已经结束的过去，而是存在于地点、歌曲、舞蹈和仪式之中。它把人们与他们负有责任的特定地域联系在一起；各语言群体对它有自己的称呼，例如瓦尔皮里人称之为“Jukurrpa”。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "besiedlung-australiens",
@@ -2046,8 +2046,8 @@
   },
   {
     "id": "voc",
-    "term": "VOC (Niederländische Ostindien-Kompanie)",
-    "definition": "Die Vereinigte Ostindische Kompanie, 1602 gegründet, war eine Handelsgesellschaft mit dem niederländischen Monopol für den Asienhandel und dem Recht, Festungen zu bauen, Soldaten zu halten und Verträge zu schließen. Von Batavia aus beherrschte sie den Gewürzhandel und große Teile Javas. Sie gilt als eine der ersten Aktiengesellschaften und wurde 1799 aufgelöst.",
+    "term": "VOC（荷兰东印度公司）",
+    "definition": "联合东印度公司成立于1602年，是一家拥有荷兰对亚洲贸易垄断权以及修建要塞、维持军队和缔结条约之权的贸易公司。它以巴达维亚为基地，主导着香料贸易和爪哇的大部分地区。它被视为最早的股份公司之一，于1799年解散。",
     "epochId": "suedostasien",
     "related": [
       "voc-gruendet-batavia",
@@ -2101,8 +2101,8 @@
   },
   {
     "id": "waraeger",
-    "term": "Waräger",
-    "definition": "Ostslawische und byzantinische Bezeichnung für skandinavische Händler und Krieger, die im 9. und 10. Jahrhundert die Flusswege zwischen Ostsee und Schwarzem Meer befuhren. Sie spielten bei der Entstehung der Kiewer Rus eine wichtige Rolle und dienten in Byzanz als kaiserliche Leibgarde. Wie groß ihr Anteil an der Staatsbildung war, ist umstritten.",
+    "term": "瓦良格人",
+    "definition": "东斯拉夫人和拜占庭人对9和10世纪往来于波罗的海与黑海之间河道上的斯堪的纳维亚商人和战士的称呼。他们在基辅罗斯的形成中发挥了重要作用，并在拜占庭充当皇帝的卫队。他们在国家形成中所占的分量有多大，尚有争议。",
     "epochId": "russland-osteuropa",
     "related": [
       "rjurik-und-die-berufung-der-waraeger",
@@ -2124,8 +2124,8 @@
   },
   {
     "id": "wetsche",
-    "term": "Wetsche",
-    "definition": "Die Volksversammlung der freien Männer in Städten der Rus, besonders in Nowgorod und Pskow. In Nowgorod wählte das Wetsche Bürgermeister und Erzbischof, entschied über Krieg und Frieden und konnte Fürsten berufen und absetzen. Mit der Unterwerfung Nowgorods durch Moskau 1478 wurde es abgeschafft.",
+    "term": "维切",
+    "definition": "罗斯城市中自由人的集会，尤其是在诺夫哥罗德和普斯科夫。在诺夫哥罗德，维切选举市长和大主教，决定战争与和平，并能召请和废黜王公。1478年莫斯科征服诺夫哥罗德时，它被废除。",
     "epochId": "russland-osteuropa",
     "related": [
       "moskau-unterwirft-nowgorod",
@@ -2158,8 +2158,8 @@
   },
   {
     "id": "zar",
-    "term": "Zar",
-    "definition": "Herrschertitel, abgeleitet vom lateinischen „Caesar“, den in Russland erstmals Iwan IV. 1547 bei seiner Krönung führte. Er stellte den Moskauer Herrscher auf eine Stufe mit dem byzantinischen Kaiser und betonte seine unbeschränkte, von Gott verliehene Macht. Seit 1721 lautete der offizielle Titel Kaiser, doch der Begriff Zar blieb bis 1917 gebräuchlich.",
+    "term": "沙皇",
+    "definition": "源自拉丁语“Caesar”（恺撒）的一种统治者称号，在俄国首先由伊凡四世在1547年加冕时使用。它使莫斯科的统治者与拜占庭皇帝平起平坐，并强调他那上帝赋予的无限权力。从1721年起，正式称号为皇帝，但“沙皇”一词直到1917年仍被普遍使用。",
     "epochId": "russland-osteuropa",
     "related": [
       "iwan-iv-wird-zar",

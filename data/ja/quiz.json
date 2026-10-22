@@ -4370,729 +4370,729 @@
   {
     "id": "q-byzanz-01",
     "epochId": "byzanz",
-    "question": "An der Stelle welcher griechischen Stadt weihte Konstantin der Große 330 seine neue Hauptstadt ein?",
+    "question": "330年、コンスタンティヌス大帝はどのギリシア都市の跡に新しい首都を献じたか。",
     "choices": [
-      "Chalkedon",
-      "Byzantion",
-      "Nikomedia",
-      "Smyrna"
+      "カルケドン",
+      "ビザンティオン",
+      "ニコメディア",
+      "スミルナ"
     ],
     "answer": 1,
-    "explanation": "Konstantinopel entstand an der Stelle des alten Byzantion am Bosporus, nach dem das Reich später „Byzantinisches Reich“ genannt wurde.",
+    "explanation": "コンスタンティノープルはボスポラス海峡に面した古代のビザンティオンの跡に建てられ、帝国はのちにこれにちなんで「ビザンツ帝国」と呼ばれた。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-02",
     "epochId": "byzanz",
-    "question": "In welchem Jahr wurde Konstantinopel als neue Hauptstadt eingeweiht?",
+    "question": "コンスタンティノープルが新しい首都として献じられたのは何年か。",
     "choices": [
-      "313",
-      "325",
-      "330",
-      "395"
+      "313年",
+      "325年",
+      "330年",
+      "395年"
     ],
     "answer": 2,
-    "explanation": "Konstantin der Große weihte die Stadt am 11. Mai 330 ein.",
+    "explanation": "コンスタンティヌス大帝は330年5月11日にこの都市を献じた。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-03",
     "epochId": "byzanz",
-    "question": "Wie bezeichneten sich die Bewohner des Byzantinischen Reiches selbst?",
+    "question": "ビザンツ帝国の住民は自らを何と呼んでいたか。",
     "choices": [
-      "Als Rhomäer, also Römer",
-      "Als Byzantiner",
-      "Als Hellenen",
-      "Als Achäer"
+      "ロマイオイ、すなわちローマ人",
+      "ビザンツ人",
+      "ヘレネス",
+      "アカイア人"
     ],
     "answer": 0,
-    "explanation": "Die Byzantiner verstanden sich als Römer; der Name „Byzantinisches Reich“ wurde erst von Gelehrten der Neuzeit geprägt.",
+    "explanation": "ビザンツの人々は自らをローマ人とみなしていた。「ビザンツ帝国」という呼び名は、近世の学者によって初めてつくられた。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-04",
     "epochId": "byzanz",
-    "question": "Welche Sprache setzte sich im 7. Jahrhundert als Sprache von Hof und Verwaltung durch?",
+    "question": "7世紀に宮廷と行政の言語となったのはどの言語か。",
     "choices": [
-      "Latein",
-      "Armenisch",
-      "Syrisch",
-      "Griechisch"
+      "ラテン語",
+      "アルメニア語",
+      "シリア語",
+      "ギリシア語"
     ],
     "answer": 3,
-    "explanation": "Unter Herakleios löste Griechisch, die Sprache der Mehrheit im Osten, das Latein als Amtssprache endgültig ab.",
+    "explanation": "ヘラクレイオスのもとで、東方の多数派の言語であるギリシア語が、ラテン語に代わって最終的に公用語となった。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-05",
     "epochId": "byzanz",
-    "question": "Was geschah 395 nach dem Tod Kaiser Theodosius’ I.?",
+    "question": "395年、皇帝テオドシウス1世の死後に何が起こったか。",
     "choices": [
-      "Das Christentum wurde verboten",
-      "Das Reich wurde zwischen seinen Söhnen in eine West- und eine Osthälfte geteilt",
-      "Konstantinopel wurde von den Goten erobert",
-      "Rom wurde wieder alleinige Hauptstadt"
+      "キリスト教が禁止された",
+      "帝国が息子たちのあいだで西半分と東半分に分割された",
+      "コンスタンティノープルがゴート人に占領された",
+      "ローマが再び唯一の首都となった"
     ],
     "answer": 1,
-    "explanation": "Arcadius erhielt den Osten, Honorius den Westen; die beiden Reichsteile entwickelten sich danach immer stärker auseinander.",
+    "explanation": "アルカディウスが東を、ホノリウスが西を受け継いだ。その後、帝国の二つの半分はしだいに離れていった。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-06",
     "epochId": "byzanz",
-    "question": "Wie lange bestand das Oströmische Reich ungefähr noch nach dem Ende Westroms 476?",
+    "question": "476年に西ローマ帝国が終わったのち、東ローマ帝国はおよそどれくらい存続したか。",
     "choices": [
-      "Rund 200 Jahre",
-      "Rund 500 Jahre",
-      "Fast 1000 Jahre",
-      "Über 1500 Jahre"
+      "約200年",
+      "約500年",
+      "ほぼ1000年",
+      "1500年以上"
     ],
     "answer": 2,
-    "explanation": "Das Oströmische Reich bestand bis zur Eroberung Konstantinopels 1453, also fast tausend Jahre länger als Westrom.",
+    "explanation": "東ローマ帝国は1453年のコンスタンティノープル征服まで存続し、西方よりほぼ1000年長く続いた。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-07",
     "epochId": "byzanz",
-    "question": "Welche Befestigung schützte Konstantinopel seit dem 5. Jahrhundert auf der Landseite?",
+    "question": "5世紀から、コンスタンティノープルを陸側で守った防壁はどれか。",
     "choices": [
-      "Der Hadrianswall",
-      "Die Aurelianische Mauer",
-      "Die Servianische Mauer",
-      "Die Theodosianischen Mauern"
+      "ハドリアヌスの長城",
+      "アウレリアヌスの城壁",
+      "セルウィウスの城壁",
+      "テオドシウスの城壁"
     ],
     "answer": 3,
-    "explanation": "Die unter Theodosius II. um 413 vollendeten Landmauern wurden über tausend Jahre lang von keinem Angreifer im Sturm genommen.",
+    "explanation": "413年頃にテオドシウス2世のもとで完成した陸の城壁は、1000年以上にわたってどの攻撃者にも強襲で落とされなかった。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-08",
     "epochId": "byzanz",
-    "question": "Was legte das Konzil von Chalkedon 451 fest?",
+    "question": "451年のカルケドン公会議は何を決定したか。",
     "choices": [
-      "Den Vorrang des Papstes über alle Bischöfe",
-      "Dass Christus in zwei Naturen wahrer Gott und wahrer Mensch ist",
-      "Das Verbot religiöser Bilder",
-      "Die Teilung des Reiches in Themen"
+      "すべての司教に対する教皇の首位権",
+      "キリストが二つの本性において真の神であり真の人であること",
+      "宗教的な像の禁止",
+      "帝国のテマへの区分"
     ],
     "answer": 1,
-    "explanation": "Das Konzil lehrte zwei Naturen Christi, unvermischt und ungetrennt; viele Christen in Ägypten und Syrien lehnten das ab.",
+    "explanation": "公会議は、キリストが混ざり合わず分かたれない二つの本性をもつと教えた。エジプトとシリアの多くのキリスト教徒はこれを拒んだ。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-09",
     "epochId": "byzanz",
-    "question": "Woher hat der Nika-Aufstand von 532 seinen Namen?",
+    "question": "532年の「ニカの乱」という名はどこから来ているか。",
     "choices": [
-      "Vom Schlachtruf „Nika!“, das heißt „Siege!“",
-      "Von der Stadt Nikaia, in der er begann",
-      "Vom Anführer Nikolaos",
-      "Von der Siegesgöttin, deren Statue gestürzt wurde"
+      "「勝て!」を意味する掛け声「ニカ!」から",
+      "反乱が始まった都市ニカイアから",
+      "指導者ニコラオスから",
+      "像が倒された勝利の女神から"
     ],
     "answer": 0,
-    "explanation": "Die Aufständischen riefen „Nika!“, „Siege!“, den Ruf, mit dem sonst die Wagenlenker im Hippodrom angefeuert wurden.",
+    "explanation": "暴徒たちは「ニカ!」、すなわち「勝て!」と叫んだ。これはふだん競馬場で戦車の御者を応援するときに使われた掛け声であった。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-10",
     "epochId": "byzanz",
-    "question": "Welche beiden Zirkusparteien verbündeten sich im Nika-Aufstand gegen den Kaiser?",
+    "question": "ニカの乱で皇帝に対して手を組んだ二つの競馬党派はどれか。",
     "choices": [
-      "Patrizier und Plebejer",
-      "Guelfen und Ghibellinen",
-      "Blaue und Grüne",
-      "Optimaten und Popularen"
+      "パトリキと平民",
+      "教皇派と皇帝派",
+      "青党と緑党",
+      "閥族派と民衆派"
     ],
     "answer": 2,
-    "explanation": "Die Blauen und die Grünen waren Anhänger der Rennställe im Hippodrom und zugleich einflussreiche politische Gruppen.",
+    "explanation": "青党と緑党は競馬場の戦車チームの支持者であると同時に、影響力のある政治集団でもあった。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-11",
     "epochId": "byzanz",
-    "question": "Welcher Feldherr eroberte 533/534 für Justinian das Vandalenreich in Nordafrika?",
+    "question": "533/534年にユスティニアヌスのために北アフリカのヴァンダル王国を征服した将軍は誰か。",
     "choices": [
-      "Narses",
-      "Stilicho",
-      "Aëtius",
-      "Belisar"
+      "ナルセス",
+      "スティリコ",
+      "アエティウス",
+      "ベリサリウス"
     ],
     "answer": 3,
-    "explanation": "Belisar landete 533 in Nordafrika, nahm Karthago ein und zwang 534 König Gelimer zur Kapitulation.",
+    "explanation": "ベリサリウスは533年に北アフリカに上陸してカルタゴを奪い、534年にゲリメル王を降伏させた。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-12",
     "epochId": "byzanz",
-    "question": "Gegen welches Volk führte Byzanz von 535 bis 554 Krieg um Italien?",
+    "question": "535年から554年にかけて、ビザンツはどの民族とイタリアをめぐって戦ったか。",
     "choices": [
-      "Gegen die Ostgoten",
-      "Gegen die Langobarden",
-      "Gegen die Westgoten",
-      "Gegen die Franken"
+      "東ゴート人",
+      "ランゴバルド人",
+      "西ゴート人",
+      "フランク人"
     ],
     "answer": 0,
-    "explanation": "Belisar und Narses eroberten Italien in einem langen Krieg von den Ostgoten zurück; 568 drangen dann die Langobarden ein.",
+    "explanation": "ベリサリウスとナルセスは長い戦争で東ゴート人からイタリアを奪回した。その後568年にランゴバルド人が侵入した。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-13",
     "epochId": "byzanz",
-    "question": "Welche Seuche erfasste ab 541 das Byzantinische Reich?",
+    "question": "541年以降、ビザンツ帝国を襲った病気はどれか。",
     "choices": [
-      "Die Cholera",
-      "Die Pest",
-      "Die Pocken",
-      "Die Lepra"
+      "コレラ",
+      "ペスト",
+      "天然痘",
+      "ハンセン病"
     ],
     "answer": 1,
-    "explanation": "Die Justinianische Pest war die erste bekannte Pestpandemie; DNA-Funde belegen den Erreger Yersinia pestis.",
+    "explanation": "ユスティニアヌスのペストは知られている最初のペストの世界的流行であり、DNAの発見によって病原体ペスト菌が特定された。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-14",
     "epochId": "byzanz",
-    "question": "Wie gelangten nach dem Bericht Prokops Seidenraupen in das Byzantinische Reich?",
+    "question": "プロコピオスによれば、カイコはどのようにしてビザンツ帝国に伝わったか。",
     "choices": [
-      "Als Geschenk des chinesischen Kaisers",
-      "Durch einen Friedensvertrag mit Persien",
-      "Mönche schmuggelten ihre Eier in hohlen Stäben",
-      "Arabische Händler verkauften sie in Alexandria"
+      "中国皇帝からの贈り物として",
+      "ペルシアとの講和条約によって",
+      "修道士がその卵を中空の杖に隠して密輸した",
+      "アラブ商人がアレクサンドリアで売った"
     ],
     "answer": 2,
-    "explanation": "Um 552 brachten Mönche Eier der Seidenraupe heimlich nach Konstantinopel; danach entstand eine eigene Seidenproduktion.",
+    "explanation": "552年頃、修道士がひそかにカイコの卵をコンスタンティノープルに持ち込み、その後帝国は独自の絹生産を発展させた。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-15",
     "epochId": "byzanz",
-    "question": "Welcher Teil des justinianischen Rechtswerks enthält Auszüge aus den Schriften römischer Juristen?",
+    "question": "ユスティニアヌスの法典のうち、ローマの法学者の著作からの抜粋を収めた部分はどれか。",
     "choices": [
-      "Die Novellen",
-      "Die Institutionen",
-      "Der Codex",
-      "Die Digesten"
+      "新勅法",
+      "法学提要",
+      "勅法彙纂",
+      "学説彙纂"
     ],
     "answer": 3,
-    "explanation": "Die 533 veröffentlichten Digesten, auch Pandekten genannt, sammelten Auszüge aus den Werken klassischer römischer Juristen.",
+    "explanation": "533年に公布された『学説彙纂』(パンデクテン)は、古典期ローマの法学者の著作からの抜粋を集めたものである。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-16",
     "epochId": "byzanz",
-    "question": "Welcher Geschichtsschreiber beschrieb Justinians Kriege und verfasste zugleich eine gehässige „Geheimgeschichte“ über den Kaiser?",
+    "question": "ユスティニアヌスの戦争を記述し、この皇帝についての悪意に満ちた『秘史』も書いた歴史家は誰か。",
     "choices": [
-      "Prokop von Caesarea",
-      "Eusebius von Caesarea",
-      "Ammianus Marcellinus",
-      "Michael Psellos"
+      "カイサリアのプロコピオス",
+      "カイサリアのエウセビオス",
+      "アンミアヌス・マルケリヌス",
+      "ミカエル・プセロス"
     ],
     "answer": 0,
-    "explanation": "Prokop pries Justinian in seinen offiziellen Werken, griff ihn und Theodora aber in der erst später bekannt gewordenen Geheimgeschichte scharf an.",
+    "explanation": "プロコピオスは公式の著作ではユスティニアヌスを称賛したが、のちになって知られるようになった『秘史』では、彼とテオドラを激しく攻撃した。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-17",
     "epochId": "byzanz",
-    "question": "Welcher Kaiser besiegte 627 bei Ninive das Heer der Perser?",
+    "question": "627年にニネヴェ近郊でペルシア軍を破った皇帝は誰か。",
     "choices": [
-      "Justinian I.",
-      "Herakleios",
-      "Leon III.",
-      "Basileios II."
+      "ユスティニアヌス1世",
+      "ヘラクレイオス",
+      "レオン3世",
+      "バシレイオス2世"
     ],
     "answer": 1,
-    "explanation": "Herakleios führte einen kühnen Feldzug ins persische Kernland und erzwang 628 einen Frieden mit den Sasaniden.",
+    "explanation": "ヘラクレイオスはペルシアの中心部へ大胆な遠征を行い、628年にサーサーン朝に講和を強いた。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-18",
     "epochId": "byzanz",
-    "question": "Welche Reliquie brachte Herakleios 630 nach seinem Sieg über die Perser nach Jerusalem zurück?",
+    "question": "ペルシアに勝利したのち、630年にヘラクレイオスがエルサレムに持ち帰った聖遺物は何か。",
     "choices": [
-      "Die Gebeine des Apostels Petrus",
-      "Das Grabtuch Christi",
-      "Das Kreuz Christi",
-      "Die Bundeslade"
+      "使徒ペトロの遺骨",
+      "キリストの聖骸布",
+      "聖十字架",
+      "契約の箱"
     ],
     "answer": 2,
-    "explanation": "Die Perser hatten 614 das Kreuz aus Jerusalem entführt; Herakleios brachte es 630 feierlich zurück.",
+    "explanation": "ペルシア人は614年に十字架をエルサレムから持ち去っていたが、ヘラクレイオスは630年にそれを荘厳に返還した。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-19",
     "epochId": "byzanz",
-    "question": "In welcher Schlacht unterlag ein byzantinisches Heer 636 den Arabern, sodass Syrien verloren ging?",
+    "question": "636年にビザンツ軍がアラブ軍に敗れ、シリアの喪失につながった戦いはどれか。",
     "choices": [
-      "Am Kleidion-Pass",
-      "Bei Manzikert",
-      "Bei Myriokephalon",
-      "Am Jarmuk"
+      "クレイディオン峠で",
+      "マンジケルトで",
+      "ミュリオケファロンで",
+      "ヤルムークで"
     ],
     "answer": 3,
-    "explanation": "Nach der Niederlage am Jarmuk, einem Nebenfluss des Jordan, gab Herakleios Syrien auf.",
+    "explanation": "ヨルダン川の支流ヤルムーク川での敗北ののち、ヘラクレイオスはシリアを放棄した。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-20",
     "epochId": "byzanz",
-    "question": "Welche Provinz, die Kornkammer Konstantinopels, eroberten die Araber zwischen 640 und 642?",
+    "question": "640年から642年にかけてアラブ人が征服した、コンスタンティノープルの穀倉であった属州はどれか。",
     "choices": [
-      "Ägypten",
-      "Sizilien",
-      "Armenien",
-      "Thrakien"
+      "エジプト",
+      "シチリア",
+      "アルメニア",
+      "トラキア"
     ],
     "answer": 0,
-    "explanation": "Mit Ägypten verlor das Reich seine reichste Provinz und die wichtigste Getreidequelle der Hauptstadt.",
+    "explanation": "エジプトとともに、帝国は最も豊かな属州と、首都にとって最も重要な穀物の供給源を失った。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-21",
     "epochId": "byzanz",
-    "question": "Was war das „griechische Feuer“?",
+    "question": "「ギリシア火」とは何であったか。",
     "choices": [
-      "Ein Leuchtfeuer am Bosporus",
-      "Eine Brandwaffe, die auch auf dem Wasser weiterbrannte",
-      "Ein Signalsystem aus Fackeln",
-      "Das ewige Feuer in der Hagia Sophia"
+      "ボスポラス海峡の灯台",
+      "水上でも燃え続ける焼夷兵器",
+      "松明を使った信号システム",
+      "ハギア・ソフィアの永遠の炎"
     ],
     "answer": 1,
-    "explanation": "Die aus Rohren gespritzte Flüssigkeit setzte feindliche Schiffe in Brand und war kaum zu löschen.",
+    "explanation": "筒から噴射されたこの液体は敵船に火をつけ、消すことはほとんど不可能であった。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-22",
     "epochId": "byzanz",
-    "question": "Wem schreibt die Überlieferung die Erfindung des griechischen Feuers zu?",
+    "question": "伝承はギリシア火の発明を誰に帰しているか。",
     "choices": [
-      "Anthemios von Tralleis",
-      "Archimedes",
-      "Kallinikos, einem Baumeister aus Syrien",
-      "Prokop von Caesarea"
+      "トラレスのアンテミオス",
+      "アルキメデス",
+      "シリア出身の建築家カリニコス",
+      "カイサリアのプロコピオス"
     ],
     "answer": 2,
-    "explanation": "Nach dem Chronisten Theophanes brachte Kallinikos um 672 die Waffe nach Konstantinopel; die Zusammensetzung blieb geheim.",
+    "explanation": "年代記作者テオファネスによれば、カリニコスが672年頃にこの兵器をコンスタンティノープルにもたらした。その成分は秘密のままであった。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-23",
     "epochId": "byzanz",
-    "question": "Worum ging es im byzantinischen Bilderstreit?",
+    "question": "ビザンツの聖像破壊論争は何をめぐるものであったか。",
     "choices": [
-      "Um das Recht, Kaiser auf Münzen abzubilden",
-      "Um den Bau neuer Kirchen",
-      "Um die Bemalung von Grabmälern",
-      "Um die Frage, ob religiöse Bilder verehrt werden dürfen"
+      "硬貨に皇帝を描く権利",
+      "新しい教会の建設",
+      "墓の装飾画",
+      "宗教的な像を崇敬してよいかどうか"
     ],
     "answer": 3,
-    "explanation": "Bildergegner hielten die Verehrung von Ikonen für Götzendienst, Bilderfreunde sahen in ihnen einen Weg zum Heiligen.",
+    "explanation": "像に反対する者はイコンの崇敬を偶像崇拝とみなし、支持する者はイコンを聖なるものへの道とみなした。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-24",
     "epochId": "byzanz",
-    "question": "Unter welchem Kaiser begann im 8. Jahrhundert der Bilderstreit?",
+    "question": "8世紀に聖像破壊論争が始まったのは、どの皇帝のもとであったか。",
     "choices": [
-      "Leon III.",
-      "Herakleios",
-      "Michael VIII.",
-      "Alexios I."
+      "レオン3世",
+      "ヘラクレイオス",
+      "ミカエル8世",
+      "アレクシオス1世"
     ],
     "answer": 0,
-    "explanation": "Leon III. wandte sich um 726/730 gegen die Bilderverehrung; wie weit er dabei ging, ist umstritten.",
+    "explanation": "レオン3世は726/730年頃に像の崇敬に反対する立場をとったが、彼がどこまで踏み込んだかについては議論がある。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-25",
     "epochId": "byzanz",
-    "question": "Welches Konzil erlaubte 787 die Verehrung von Bildern wieder?",
+    "question": "787年に像の崇敬を再び認めた公会議はどれか。",
     "choices": [
-      "Das Konzil von Chalkedon",
-      "Das Zweite Konzil von Nicaea",
-      "Das Konzil von Ephesos",
-      "Das Konzil von Konstanz"
+      "カルケドン公会議",
+      "第2ニカイア公会議",
+      "エフェソス公会議",
+      "コンスタンツ公会議"
     ],
     "answer": 1,
-    "explanation": "Auf Betreiben der Kaiserin Irene erklärte das Zweite Konzil von Nicaea die Verehrung von Bildern für rechtmäßig.",
+    "explanation": "女帝エイレーネーの働きかけにより、第2ニカイア公会議は像の崇敬を正当なものと宣言した。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-26",
     "epochId": "byzanz",
-    "question": "Welche Kaiserin ließ 797 ihren eigenen Sohn blenden und regierte danach allein?",
+    "question": "797年に自分の息子の目をつぶさせ、その後単独で統治した女帝は誰か。",
     "choices": [
-      "Theodora",
-      "Zoe",
-      "Irene",
-      "Anna Komnene"
+      "テオドラ",
+      "ゾエ",
+      "エイレーネー",
+      "アンナ・コムネナ"
     ],
     "answer": 2,
-    "explanation": "Irene ließ Konstantin VI. blenden und herrschte bis 802 als erste Frau allein über das Reich.",
+    "explanation": "エイレーネーはコンスタンティノス6世の目をつぶさせ、802年まで、帝国を単独で統治した最初の女性となった。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-27",
     "epochId": "byzanz",
-    "question": "Mit welchem Fest erinnert die orthodoxe Kirche an das Ende des Bilderstreits 843?",
+    "question": "正教会は、843年の聖像破壊運動の終結をどの祝日で記念しているか。",
     "choices": [
-      "Mit dem Fest der Kreuzerhöhung",
-      "Mit dem Palmsonntag",
-      "Mit dem Fest der Verklärung",
-      "Mit dem Sonntag der Orthodoxie"
+      "十字架挙栄祭",
+      "聖枝祭",
+      "主の変容祭",
+      "正教勝利の主日"
     ],
     "answer": 3,
-    "explanation": "Am ersten Sonntag der Fastenzeit feiert die orthodoxe Kirche die Wiederherstellung der Bilderverehrung durch Kaiserin Theodora.",
+    "explanation": "四旬節(大斎)の最初の日曜日に、正教会は女帝テオドラによる聖像崇敬の回復を祝う。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-28",
     "epochId": "byzanz",
-    "question": "In welches Land reisten Kyrill und Method 863 als Missionare?",
+    "question": "863年にキュリロスとメトディオスが宣教師として赴いたのはどの国か。",
     "choices": [
-      "Nach Großmähren",
-      "In die Kiewer Rus",
-      "Nach Polen",
-      "Nach Ungarn"
+      "大モラヴィア",
+      "キエフ・ルーシ",
+      "ポーランド",
+      "ハンガリー"
     ],
     "answer": 0,
-    "explanation": "Fürst Rastislav von Großmähren hatte den Kaiser um Lehrer gebeten, die in slawischer Sprache predigen konnten.",
+    "explanation": "大モラヴィアのラスチスラフ公が、スラヴ語で説教できる教師を皇帝に求めていた。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-29",
     "epochId": "byzanz",
-    "question": "Welche Schrift schuf Kyrill selbst für die slawische Sprache?",
+    "question": "キュリロス自身がスラヴ語のためにつくった文字はどれか。",
     "choices": [
-      "Die kyrillische Schrift",
-      "Die glagolitische Schrift",
-      "Die Runenschrift",
-      "Die Ogham-Schrift"
+      "キリル文字",
+      "グラゴル文字",
+      "ルーン文字",
+      "オガム文字"
     ],
     "answer": 1,
-    "explanation": "Kyrill entwickelte die glagolitische Schrift; die nach ihm benannte kyrillische Schrift entstand erst später unter seinen Schülern in Bulgarien.",
+    "explanation": "キュリロスはグラゴル文字をつくった。彼の名にちなむキリル文字は、のちにブルガリアで彼の弟子たちのあいだで生まれた。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-30",
     "epochId": "byzanz",
-    "question": "In welcher Sprache feierten Kyrill und Method mit den Mährern Gottesdienst?",
+    "question": "キュリロスとメトディオスは、モラヴィア人とともにどの言語で典礼を行ったか。",
     "choices": [
-      "Latein",
-      "Griechisch",
-      "Slawisch",
-      "Aramäisch"
+      "ラテン語",
+      "ギリシア語",
+      "スラヴ語",
+      "アラム語"
     ],
     "answer": 2,
-    "explanation": "Die Brüder übersetzten liturgische Texte ins Slawische, was fränkische Geistliche heftig ablehnten.",
+    "explanation": "兄弟は典礼文をスラヴ語に翻訳したが、フランクの聖職者はこれに激しく反対した。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-31",
     "epochId": "byzanz",
-    "question": "Aus welcher Stadt stammten die Slawenapostel Kyrill und Method?",
+    "question": "スラヴ人の使徒キュリロスとメトディオスはどの都市の出身か。",
     "choices": [
-      "Athen",
-      "Antiochia",
-      "Konstantinopel",
-      "Thessaloniki"
+      "アテネ",
+      "アンティオキア",
+      "コンスタンティノープル",
+      "テッサロニキ"
     ],
     "answer": 3,
-    "explanation": "In der Gegend um Thessaloniki lebten viele Slawen, sodass die Brüder die Sprache von Jugend an kannten.",
+    "explanation": "テッサロニキ周辺の地域には多くのスラヴ人が住んでいたので、兄弟は子どものころからその言語を知っていた。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-32",
     "epochId": "byzanz",
-    "question": "Welcher bulgarische Herrscher ließ sich um 864 taufen und nahm das Christentum aus Byzanz an?",
+    "question": "864年頃に洗礼を受け、ビザンツからキリスト教を受け入れたブルガリアの支配者は誰か。",
     "choices": [
-      "Boris I.",
-      "Krum",
-      "Simeon",
-      "Samuel"
+      "ボリス1世",
+      "クルム",
+      "シメオン",
+      "サムイル"
     ],
     "answer": 0,
-    "explanation": "Boris nahm bei der Taufe den Namen seines Paten Michael III. an und holte später die Schüler Kyrills und Methods ins Land.",
+    "explanation": "ボリスは洗礼の際に代父ミカエル3世の名を名乗り、のちにキュリロスとメトディオスの弟子たちを自国に迎えた。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-33",
     "epochId": "byzanz",
-    "question": "Welchen Beinamen trägt Kaiser Basileios II.?",
+    "question": "皇帝バシレイオス2世はどのような異名で知られているか。",
     "choices": [
-      "Der Weise",
-      "Der Bulgarentöter",
-      "Der Große",
-      "Der Bärtige"
+      "賢帝",
+      "ブルガリア人殺し",
+      "大帝",
+      "髭の帝"
     ],
     "answer": 1,
-    "explanation": "Basileios II. unterwarf in jahrzehntelangen Kriegen das Bulgarische Reich; der Beiname ist erst später belegt.",
+    "explanation": "バシレイオス2世は数十年にわたる戦争でブルガリア帝国を服属させた。この異名はのちになって初めて確認される。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-34",
     "epochId": "byzanz",
-    "question": "Was ließ Basileios II. nach dem Chronisten Skylitzes nach der Schlacht am Kleidion 1014 mit den bulgarischen Gefangenen tun?",
+    "question": "年代記作者スキュリツェスによれば、1014年のクレイディオンの戦いののち、バシレイオス2世はブルガリア人の捕虜をどうしたか。",
     "choices": [
-      "Er ließ sie als Söldner anwerben",
-      "Er ließ sie in Kleinasien ansiedeln",
-      "Er ließ sie blenden",
-      "Er ließ sie gegen Lösegeld frei"
+      "傭兵として雇った",
+      "小アジアに移住させた",
+      "目をつぶさせた",
+      "身代金と引き換えに解放した"
     ],
     "answer": 2,
-    "explanation": "Laut Skylitzes wurden rund 15.000 Gefangene geblendet und zu Zar Samuel zurückgeschickt; die Zahl gilt als wohl übertrieben.",
+    "explanation": "スキュリツェスによれば、約1万5000人の捕虜が目をつぶされ、ツァーリ、サムイルのもとへ送り返された。この数字はおそらく誇張されている。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-35",
     "epochId": "byzanz",
-    "question": "Wie hieß die Leibwache der byzantinischen Kaiser, die aus Skandinaviern und Rus bestand?",
+    "question": "スカンディナヴィア人とルーシからなるビザンツ皇帝の親衛隊は何と呼ばれたか。",
     "choices": [
-      "Prätorianergarde",
-      "Janitscharen",
-      "Mamluken",
-      "Warägergarde"
+      "近衛隊(プラエトリアニ)",
+      "イェニチェリ",
+      "マムルーク",
+      "ヴァリャーグ親衛隊"
     ],
     "answer": 3,
-    "explanation": "Die Warägergarde entstand Ende des 10. Jahrhunderts aus einem Heer, das Wladimir von Kiew Basileios II. geschickt hatte.",
+    "explanation": "ヴァリャーグ親衛隊は10世紀末、キーウのウラジーミルがバシレイオス2世に送った軍から生まれた。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-36",
     "epochId": "byzanz",
-    "question": "Welche Dynastie stellte von 867 bis 1056 die byzantinischen Kaiser?",
+    "question": "867年から1056年までビザンツ皇帝を出した王朝はどれか。",
     "choices": [
-      "Die makedonische Dynastie",
-      "Die Komnenen",
-      "Die isaurische Dynastie",
-      "Die Palaiologen"
+      "マケドニア朝",
+      "コムネノス朝",
+      "イサウリア朝",
+      "パレオロゴス朝"
     ],
     "answer": 0,
-    "explanation": "Die von Basileios I. begründete makedonische Dynastie führte das Reich zu einer neuen Blütezeit.",
+    "explanation": "バシレイオス1世が開いたマケドニア朝は、帝国を新たな黄金時代へと導いた。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-37",
     "epochId": "byzanz",
-    "question": "Welches Jahr gilt als Symbol der Trennung von Ost- und Westkirche?",
+    "question": "東西教会の分裂の象徴とみなされているのは何年か。",
     "choices": [
-      "1071",
-      "1054",
-      "1095",
-      "1204"
+      "1071年",
+      "1054年",
+      "1095年",
+      "1204年"
     ],
     "answer": 1,
-    "explanation": "1054 belegten sich päpstliche Gesandte und der Patriarch von Konstantinopel gegenseitig mit dem Bann.",
+    "explanation": "1054年、教皇特使とコンスタンティノープル総主教が互いを破門した。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-38",
     "epochId": "byzanz",
-    "question": "Welche Streitfrage gehörte zu den Ursachen des Schismas von 1054?",
+    "question": "1054年の分裂の原因の一つとなった争点はどれか。",
     "choices": [
-      "Der Ablasshandel",
-      "Die Kindertaufe",
-      "Das Filioque im Glaubensbekenntnis",
-      "Die Heiligsprechung von Kaisern"
+      "免罪符の販売",
+      "幼児洗礼",
+      "信経のフィリオクエ",
+      "皇帝の列聖"
     ],
     "answer": 2,
-    "explanation": "Die lateinische Kirche hatte dem Glaubensbekenntnis das Wort „Filioque“ („und dem Sohn“) hinzugefügt, was die Ostkirche ablehnte.",
+    "explanation": "ラテン教会は信経に「フィリオクエ」(「と子から」)という語を加えたが、東方教会はこれを拒んだ。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-39",
     "epochId": "byzanz",
-    "question": "Wann wurden die gegenseitigen Bannflüche von 1054 aufgehoben?",
+    "question": "1054年の相互破門が解かれたのはいつか。",
     "choices": [
-      "1439",
-      "1870",
-      "2000",
-      "1965"
+      "1439年",
+      "1870年",
+      "2000年",
+      "1965年"
     ],
     "answer": 3,
-    "explanation": "Papst Paul VI. und Patriarch Athenagoras hoben die Bannflüche 1965 auf; die Trennung der Kirchen besteht dennoch fort.",
+    "explanation": "教皇パウロ6世と総主教アテナゴラスは1965年に破門を解いたが、教会の分離はなお続いている。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-40",
     "epochId": "byzanz",
-    "question": "Wer besiegte 1071 bei Manzikert den byzantinischen Kaiser Romanos IV.?",
+    "question": "1071年にマンジケルトでビザンツ皇帝ロマノス4世を破ったのは誰か。",
     "choices": [
-      "Die Seldschuken",
-      "Die Osmanen",
-      "Die Mongolen",
-      "Die Normannen"
+      "セルジューク朝",
+      "オスマン帝国",
+      "モンゴル",
+      "ノルマン人"
     ],
     "answer": 0,
-    "explanation": "Sultan Alp Arslan nahm den Kaiser gefangen; danach drangen türkische Gruppen tief nach Kleinasien vor.",
+    "explanation": "スルタン、アルプ・アルスラーンは皇帝を捕虜にした。その後、トルコ系の集団が小アジアの奥深くまで進出した。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-41",
     "epochId": "byzanz",
-    "question": "Welche süditalienische Stadt, den letzten byzantinischen Stützpunkt in Italien, eroberten die Normannen 1071?",
+    "question": "1071年にノルマン人が占領した、イタリアにおけるビザンツ最後の拠点であった南イタリアの都市はどれか。",
     "choices": [
-      "Neapel",
-      "Bari",
-      "Palermo",
-      "Ravenna"
+      "ナポリ",
+      "バーリ",
+      "パレルモ",
+      "ラヴェンナ"
     ],
     "answer": 1,
-    "explanation": "Mit dem Fall Baris im selben Jahr wie Manzikert endete die byzantinische Herrschaft in Italien.",
+    "explanation": "マンジケルトと同じ年のバーリ陥落によって、イタリアにおけるビザンツの支配は終わった。",
     "difficulty": 3
   },
   {
     "id": "q-byzanz-42",
     "epochId": "byzanz",
-    "question": "Welcher byzantinische Kaiser bat den Westen um militärische Hilfe und trug so zum Ersten Kreuzzug bei?",
+    "question": "西方に軍事援助を求め、それによって第1回十字軍のきっかけをつくったビザンツ皇帝は誰か。",
     "choices": [
-      "Basileios II.",
-      "Herakleios",
-      "Alexios I. Komnenos",
-      "Michael VIII. Palaiologos"
+      "バシレイオス2世",
+      "ヘラクレイオス",
+      "アレクシオス1世コムネノス",
+      "ミカエル8世パレオロゴス"
     ],
     "answer": 2,
-    "explanation": "Alexios I. bat um Söldner gegen die Seldschuken; Papst Urban II. rief 1095 daraufhin zum Kreuzzug auf.",
+    "explanation": "アレクシオス1世はセルジューク朝に対抗するため傭兵を求めた。これに応えて、教皇ウルバヌス2世が1095年に十字軍を呼びかけた。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-43",
     "epochId": "byzanz",
-    "question": "Wie heißt das Geschichtswerk, in dem Anna Komnene die Regierung ihres Vaters beschrieb?",
+    "question": "アンナ・コムネナが父の治世を記述した歴史書の名は何か。",
     "choices": [
-      "Strategikon",
-      "Geheimgeschichte",
-      "Chronographia",
-      "Alexias"
+      "『ストラテギコン』",
+      "『秘史』",
+      "『年代記(クロノグラフィア)』",
+      "『アレクシアス』"
     ],
     "answer": 3,
-    "explanation": "Die Alexias über Alexios I. ist eine Hauptquelle für den Ersten Kreuzzug aus byzantinischer Sicht.",
+    "explanation": "アレクシオス1世を扱った『アレクシアス』は、ビザンツの視点から見た第1回十字軍の主要な史料である。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-44",
     "epochId": "byzanz",
-    "question": "Welches Recht erhielten venezianische Kaufleute durch das Privileg Alexios’ I.?",
+    "question": "アレクシオス1世の特権によって、ヴェネツィア商人はどのような権利を得たか。",
     "choices": [
-      "Zollfreien Handel in fast allen Häfen des Reiches",
-      "Das Recht, eigene Münzen im Reich zu prägen",
-      "Den Alleinbesitz der Insel Kreta",
-      "Einen Sitz im kaiserlichen Rat"
+      "帝国のほぼすべての港での関税なしの交易",
+      "帝国内で独自の貨幣を鋳造する権利",
+      "クレタ島の単独の領有",
+      "皇帝評議会の席"
     ],
     "answer": 0,
-    "explanation": "Für ihre Flottenhilfe gegen die Normannen durften die Venezianer abgabenfrei handeln und erhielten ein eigenes Viertel in Konstantinopel.",
+    "explanation": "ノルマン人に対する海軍の援助と引き換えに、ヴェネツィア人は関税なしで交易でき、コンスタンティノープルに独自の居留区を得た。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-45",
     "epochId": "byzanz",
-    "question": "Welche Stadt eroberten und plünderten die Teilnehmer des Vierten Kreuzzugs 1204?",
+    "question": "1204年に第4回十字軍の軍勢が占領し略奪した都市はどれか。",
     "choices": [
-      "Damaskus",
-      "Konstantinopel",
-      "Kairo",
-      "Antiochia"
+      "ダマスクス",
+      "コンスタンティノープル",
+      "カイロ",
+      "アンティオキア"
     ],
     "answer": 1,
-    "explanation": "Statt ins Heilige Land zog das Kreuzfahrerheer nach Konstantinopel und plünderte die christliche Hauptstadt.",
+    "explanation": "十字軍は聖地へ向かう代わりにコンスタンティノープルへ進軍し、キリスト教の首都を略奪した。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-46",
     "epochId": "byzanz",
-    "question": "Welcher Doge von Venedig spielte beim Vierten Kreuzzug eine führende Rolle?",
+    "question": "第4回十字軍で主導的な役割を果たしたヴェネツィアのドージェは誰か。",
     "choices": [
-      "Francesco Foscari",
-      "Pietro II. Orseolo",
-      "Enrico Dandolo",
-      "Sebastiano Ziani"
+      "フランチェスコ・フォスカリ",
+      "ピエトロ2世オルセオロ",
+      "エンリコ・ダンドロ",
+      "セバスティアーノ・ツィアーニ"
     ],
     "answer": 2,
-    "explanation": "Der hochbetagte und fast blinde Enrico Dandolo begleitete das Heer und sicherte Venedig große Teile der Beute.",
+    "explanation": "高齢でほとんど目の見えなかったエンリコ・ダンドロは軍に同行し、ヴェネツィアのために戦利品の大きな分け前を確保した。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-47",
     "epochId": "byzanz",
-    "question": "Welche berühmten Kunstwerke brachten die Venezianer 1204 aus dem Hippodrom von Konstantinopel nach Venedig?",
+    "question": "1204年にヴェネツィア人がコンスタンティノープルの競馬場からヴェネツィアへ持ち去った有名な美術品は何か。",
     "choices": [
-      "Die Säulen des Herkules",
-      "Die Statue des Koloss",
-      "Die Schlangensäule",
-      "Vier bronzene Pferde"
+      "ヘラクレスの柱",
+      "巨像",
+      "蛇の柱",
+      "4頭の青銅の馬"
     ],
     "answer": 3,
-    "explanation": "Die vier Pferde schmückten lange die Fassade des Markusdoms; die Originale stehen heute in dessen Museum.",
+    "explanation": "4頭の馬は長くサン・マルコ大聖堂の正面を飾っていた。原物は現在、大聖堂の博物館にある。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-48",
     "epochId": "byzanz",
-    "question": "Von welchem griechischen Nachfolgestaat aus wurde Konstantinopel 1261 zurückerobert?",
+    "question": "1261年、どのギリシア人の後継国家からコンスタンティノープルが奪回されたか。",
     "choices": [
-      "Vom Kaiserreich Nikaia",
-      "Vom Kaiserreich Trapezunt",
-      "Vom Despotat Epirus",
-      "Vom Despotat Morea"
+      "ニカイア帝国",
+      "トレビゾンド帝国",
+      "エペイロス専制公国",
+      "モレアス専制公国"
     ],
     "answer": 0,
-    "explanation": "Truppen Michaels VIII. Palaiologos, des Kaisers von Nikaia, nahmen die Stadt im Juli 1261 ein.",
+    "explanation": "ニカイア皇帝ミカエル8世パレオロゴスの軍が、1261年7月にこの都市を奪った。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-49",
     "epochId": "byzanz",
-    "question": "Welche Dynastie regierte das Byzantinische Reich von 1261 bis 1453?",
+    "question": "1261年から1453年までビザンツ帝国を支配した王朝はどれか。",
     "choices": [
-      "Die Komnenen",
-      "Die Palaiologen",
-      "Die Angeloi",
-      "Die Laskariden"
+      "コムネノス朝",
+      "パレオロゴス朝",
+      "アンゲロス朝",
+      "ラスカリス朝"
     ],
     "answer": 1,
-    "explanation": "Die von Michael VIII. begründete Dynastie der Palaiologen war die letzte des Reiches.",
+    "explanation": "ミカエル8世が開いたパレオロゴス朝は、帝国最後の王朝であった。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-50",
     "epochId": "byzanz",
-    "question": "Was beschloss das Konzil von Ferrara und Florenz 1439?",
+    "question": "1439年のフェラーラ・フィレンツェ公会議は何を決定したか。",
     "choices": [
-      "Einen gemeinsamen Kreuzzug nach Jerusalem",
-      "Die Absetzung des Patriarchen",
-      "Eine Union von Ost- und Westkirche, die in Byzanz weitgehend abgelehnt wurde",
-      "Die Rückgabe der 1204 geraubten Schätze"
+      "エルサレムへの共同十字軍",
+      "総主教の罷免",
+      "東西教会の合同。ただしビザンツではほとんど拒否された",
+      "1204年に略奪された宝物の返還"
     ],
     "answer": 2,
-    "explanation": "Kaiser Johannes VIII. erhoffte von der Union Hilfe gegen die Osmanen, doch Klerus und Volk wiesen sie größtenteils zurück.",
+    "explanation": "皇帝ヨハネス8世は合同がオスマン帝国に対する援助をもたらすことを期待したが、聖職者と民衆の大部分はそれを拒んだ。",
     "difficulty": 2
   },
   {
     "id": "q-byzanz-51",
     "epochId": "byzanz",
-    "question": "Welche Goldmünze war über Jahrhunderte die stabile Währung des Byzantinischen Reiches?",
+    "question": "何世紀にもわたってビザンツ帝国の安定した通貨であった金貨はどれか。",
     "choices": [
-      "Der Dinar",
-      "Der Florin",
-      "Der Denar",
-      "Der Solidus"
+      "ディナール金貨",
+      "フローリン金貨",
+      "デナリウス銀貨",
+      "ソリドゥス金貨"
     ],
     "answer": 3,
-    "explanation": "Der von Konstantin eingeführte Solidus behielt bis ins 11. Jahrhundert seinen Goldgehalt und war im ganzen Mittelmeerraum begehrt.",
+    "explanation": "コンスタンティヌスが導入したソリドゥス金貨は、11世紀まで金の含有量を保ち、地中海全域で求められた。",
     "difficulty": 1
   },
   {
     "id": "q-byzanz-52",
     "epochId": "byzanz",
-    "question": "Welcher Berg in Nordgriechenland wurde seit dem 10. Jahrhundert zum Zentrum des orthodoxen Mönchtums?",
+    "question": "10世紀から正教の修道生活の中心となった、ギリシア北部の山はどれか。",
     "choices": [
-      "Der Athos",
-      "Der Olymp",
-      "Der Parnass",
-      "Der Sinai"
+      "アトス山",
+      "オリンポス山",
+      "パルナッソス山",
+      "シナイ山"
     ],
     "answer": 0,
-    "explanation": "963 wurde auf dem Athos das Kloster Megisti Lavra gegründet; bis heute leben dort Mönche in rund zwanzig Klöstern.",
+    "explanation": "963年にアトス山に大ラヴラ修道院が創設された。今日もそこでは約20の修道院で修道士が暮らしている。",
     "difficulty": 2
   },
   {
@@ -11650,729 +11650,729 @@
   {
     "id": "q-ozeanien-pazifik-01",
     "epochId": "ozeanien-pazifik",
-    "question": "In welchem heutigen Gebiet liegt der Fundort, nach dem die Lapita-Kultur benannt ist?",
+    "question": "ラピタ文化の名の由来となった遺跡は、現在のどの地域にあるか。",
     "choices": [
-      "Samoa",
-      "Neukaledonien",
-      "Fidschi",
-      "Neuguinea"
+      "サモア",
+      "ニューカレドニア",
+      "フィジー",
+      "ニューギニア"
     ],
     "answer": 1,
-    "explanation": "Die Lapita-Kultur ist nach einem Fundort in Neukaledonien benannt, an dem ihre typische Keramik entdeckt wurde.",
+    "explanation": "ラピタ文化は、その特徴的な土器が見つかったニューカレドニアの遺跡にちなんで名づけられている。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-02",
     "epochId": "ozeanien-pazifik",
-    "question": "Woran erkennen Archäologen die Lapita-Kultur vor allem?",
+    "question": "考古学者がラピタ文化を見分ける主な特徴は何か。",
     "choices": [
-      "An großen Steinfiguren",
-      "An Bronzewerkzeugen",
-      "An pyramidenförmigen Tempeln",
-      "An gestempelter, verzierter Keramik"
+      "大きな石像",
+      "青銅の道具",
+      "ピラミッド型の神殿",
+      "押捺文様で飾られた土器"
     ],
     "answer": 3,
-    "explanation": "Kennzeichen der Lapita-Kultur ist Keramik mit fein gestempelten geometrischen Mustern.",
+    "explanation": "ラピタ文化の特徴は、細かく押捺された幾何学文様をもつ土器である。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-03",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Inselgruppen erreichten Lapita-Seefahrer etwa zwischen 1000 und 800 v. Chr.?",
+    "question": "紀元前1000年頃から紀元前800年頃のあいだに、ラピタの航海者が到達した諸島はどれか。",
     "choices": [
-      "Fidschi, Tonga und Samoa",
-      "Hawaiʻi und die Marquesas",
-      "Neuseeland und die Chathaminseln",
-      "Rapa Nui und Pitcairn"
+      "フィジー、トンガ、サモア",
+      "ハワイとマルキーズ諸島",
+      "ニュージーランドとチャタム諸島",
+      "ラパ・ヌイとピトケアン"
     ],
     "answer": 0,
-    "explanation": "Fidschi, Tonga und Samoa bildeten den Westrand Polynesiens, wo sich danach die polynesische Kultur entwickelte.",
+    "explanation": "フィジー、トンガ、サモアはポリネシアの西端をなし、そこでポリネシア文化が発展した。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-04",
     "epochId": "ozeanien-pazifik",
-    "question": "Um welche Zeit erreichten Polynesier Neuseeland?",
+    "question": "ポリネシア人がニュージーランドに到達したのはいつ頃か。",
     "choices": [
-      "Um 1500 v. Chr.",
-      "Um 500 n. Chr.",
-      "Um 1250 bis 1300",
-      "Um 1642"
+      "紀元前1500年頃",
+      "500年頃",
+      "1250年から1300年頃",
+      "1642年頃"
     ],
     "answer": 2,
-    "explanation": "Radiokarbondaten zeigen, dass ostpolynesische Siedler Neuseeland um 1250 bis 1300 erreichten.",
+    "explanation": "放射性炭素年代は、東ポリネシアからの入植者が1250年から1300年頃にニュージーランドに到達したことを示している。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-05",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer gab dem Pazifischen Ozean seinen Namen?",
+    "question": "太平洋に名前をつけたのは誰か。",
     "choices": [
-      "James Cook",
-      "Abel Tasman",
-      "Ferdinand Magellan",
-      "Vasco Núñez de Balboa"
+      "ジェームズ・クック",
+      "アベル・タスマン",
+      "フェルディナンド・マゼラン",
+      "バスコ・ヌーニェス・デ・バルボア"
     ],
     "answer": 2,
-    "explanation": "Magellan nannte das Meer nach der stürmischen Durchfahrt der Magellanstraße 1520 „Pazifik“, das ruhige Meer.",
+    "explanation": "1520年に嵐のマゼラン海峡を抜けたのち、マゼランはこの大洋を「平和な海」、すなわち太平洋と呼んだ。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-06",
     "epochId": "ozeanien-pazifik",
-    "question": "Wie heißen die großen Steinfiguren auf Rapa Nui?",
+    "question": "ラパ・ヌイの大きな石像は何と呼ばれるか。",
     "choices": [
-      "Moai",
-      "Tiki",
-      "Marae",
-      "Pukao"
+      "モアイ",
+      "ティキ",
+      "マラエ",
+      "プカオ"
     ],
     "answer": 0,
-    "explanation": "Die Moai stellen verehrte Ahnen dar; Pukao heißen die roten Kopfaufsätze mancher Figuren.",
+    "explanation": "モアイは崇敬された祖先を表している。プカオは、一部の石像に載せられた赤い髷の呼び名である。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-07",
     "epochId": "ozeanien-pazifik",
-    "question": "Aus welchem Krater stammt der Stein der meisten Moai?",
+    "question": "大部分のモアイの石はどの火口から来ているか。",
     "choices": [
-      "Rano Kau",
-      "Mauna Kea",
-      "Haleakalā",
-      "Rano Raraku"
+      "ラノ・カウ",
+      "マウナ・ケア",
+      "ハレアカラ",
+      "ラノ・ララク"
     ],
     "answer": 3,
-    "explanation": "Die meisten Moai wurden aus dem Tuffstein des Kraters Rano Raraku gehauen, wo noch viele unvollendete Figuren liegen.",
+    "explanation": "大部分のモアイはラノ・ララク火口の凝灰岩から彫り出され、そこには今も多くの未完成の石像が横たわっている。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-08",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Insel erreichten Magellans Schiffe im März 1521 nach der Pazifiküberquerung?",
+    "question": "太平洋を横断したのち、1521年3月にマゼランの船団が到達した島はどれか。",
     "choices": [
-      "Tahiti",
-      "Guam",
-      "Fidschi",
-      "Hawaiʻi"
+      "タヒチ",
+      "グアム",
+      "フィジー",
+      "ハワイ"
     ],
     "answer": 1,
-    "explanation": "Am 6. März 1521 erreichte die Flotte Guam in den Marianen, nach über drei Monaten auf See.",
+    "explanation": "3か月以上の航海ののち、船団は1521年3月6日にマリアナ諸島のグアムに到達した。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-09",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Insel sichtete Abel Tasman im November 1642 und nannte sie Van-Diemens-Land?",
+    "question": "1642年11月にアベル・タスマンが目にし、ヴァン・ディーメンズ・ランドと名づけた島はどれか。",
     "choices": [
-      "Neuguinea",
-      "Neukaledonien",
-      "Die Südinsel Neuseelands",
-      "Tasmanien"
+      "ニューギニア",
+      "ニューカレドニア",
+      "ニュージーランドの南島",
+      "タスマニア"
     ],
     "answer": 3,
-    "explanation": "Tasman benannte die Insel nach dem Generalgouverneur der Ostindien-Kompanie; später erhielt sie seinen eigenen Namen.",
+    "explanation": "タスマンはこの島を東インド会社の総督にちなんで名づけたが、のちに彼自身の名がつけられた。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-10",
     "epochId": "ozeanien-pazifik",
-    "question": "In wessen Auftrag segelte Abel Tasman 1642?",
+    "question": "1642年、アベル・タスマンは誰の委託を受けて航海したか。",
     "choices": [
-      "Der britischen Royal Society",
-      "Der Niederländischen Ostindien-Kompanie",
-      "Der spanischen Krone",
-      "Der Französischen Akademie der Wissenschaften"
+      "イギリス王立協会",
+      "オランダ東インド会社",
+      "スペイン王室",
+      "フランス科学アカデミー"
     ],
     "answer": 1,
-    "explanation": "Die Ostindien-Kompanie schickte Tasman von Batavia aus, um das vermutete Südland zu erkunden.",
+    "explanation": "東インド会社は、想定されていた南方大陸を探検させるため、タスマンをバタヴィアから送り出した。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-11",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer war Tupaia?",
+    "question": "トゥパイアとは誰か。",
     "choices": [
-      "Ein Māori-Häuptling, der den Vertrag von Waitangi aushandelte",
-      "Der erste König von Tonga",
-      "Ein Priester und Navigator aus Raʻiātea, der mit Cook reiste",
-      "Ein Aborigine, der mit Arthur Phillip nach England reiste"
+      "ワイタンギ条約の交渉を行ったマオリの首長",
+      "トンガの初代の王",
+      "クックとともに航海したライアテア島出身の祭司・航海者",
+      "アーサー・フィリップとともにイングランドへ渡ったアボリジニの男性"
     ],
     "answer": 2,
-    "explanation": "Tupaia begleitete Cook ab 1769, zeichnete eine Karte mit rund 70 Inseln und dolmetschte in Neuseeland.",
+    "explanation": "トゥパイアは1769年からクックに同行し、約70の島を記した海図を描き、ニュージーランドでは通訳を務めた。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-12",
     "epochId": "ozeanien-pazifik",
-    "question": "In welchem Jahr erreichte die First Fleet Australien?",
+    "question": "第一船団がオーストラリアに到達したのは何年か。",
     "choices": [
-      "1788",
-      "1770",
-      "1801",
-      "1840"
+      "1788年",
+      "1770年",
+      "1801年",
+      "1840年"
     ],
     "answer": 0,
-    "explanation": "Die elf Schiffe der First Fleet erreichten im Januar 1788 die Botany Bay und gründeten die Kolonie in Sydney Cove.",
+    "explanation": "第一船団の11隻の船は1788年1月にボタニー湾に到達し、シドニー・コーヴに植民地を築いた。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-13",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer war der erste Gouverneur von New South Wales?",
+    "question": "ニューサウスウェールズの初代総督は誰か。",
     "choices": [
-      "Arthur Phillip",
-      "James Cook",
-      "William Hobson",
-      "Joseph Banks"
+      "アーサー・フィリップ",
+      "ジェームズ・クック",
+      "ウィリアム・ホブソン",
+      "ジョゼフ・バンクス"
     ],
     "answer": 0,
-    "explanation": "Arthur Phillip führte die First Fleet nach Australien und leitete die Kolonie bis 1792.",
+    "explanation": "アーサー・フィリップは第一船団をオーストラリアへ導き、1792年まで植民地を統治した。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-14",
     "epochId": "ozeanien-pazifik",
-    "question": "Wo ließ Arthur Phillip am 26. Januar 1788 die britische Flagge hissen?",
+    "question": "1788年1月26日、アーサー・フィリップはどこでイギリスの旗を掲げさせたか。",
     "choices": [
-      "In der Botany Bay",
-      "In Hobart",
-      "In Sydney Cove in Port Jackson",
-      "In Port Phillip"
+      "ボタニー湾で",
+      "ホバートで",
+      "ポート・ジャクソンのシドニー・コーヴで",
+      "ポート・フィリップで"
     ],
     "answer": 2,
-    "explanation": "Weil die Botany Bay ungeeignet erschien, zog die Flotte nach Port Jackson weiter; dort entstand Sydney.",
+    "explanation": "ボタニー湾は適していないと思われたため、船団はポート・ジャクソンへ移り、そこにシドニーが築かれた。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-15",
     "epochId": "ozeanien-pazifik",
-    "question": "Wozu diente die Kolonie New South Wales zunächst vor allem?",
+    "question": "ニューサウスウェールズ植民地は、当初主に何のためのものであったか。",
     "choices": [
-      "Als Stützpunkt für den Gewürzhandel",
-      "Als Strafkolonie für verurteilte Straftäter",
-      "Als Missionsstation für die Pazifikinseln",
-      "Als Goldgräbersiedlung"
+      "香辛料交易の拠点として",
+      "有罪判決を受けた犯罪者の流刑植民地として",
+      "太平洋の島々のための伝道拠点として",
+      "金採掘の入植地として"
     ],
     "answer": 1,
-    "explanation": "Nach dem Verlust der amerikanischen Kolonien deportierte Großbritannien Sträflinge nach Australien.",
+    "explanation": "アメリカの植民地を失ったのち、イギリスは囚人をオーストラリアへ送った。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-16",
     "epochId": "ozeanien-pazifik",
-    "question": "Was traf im April 1789 die Eora rund um Sydney besonders schwer?",
+    "question": "1789年4月、シドニー周辺のエオラの人々をとりわけ激しく襲ったのは何か。",
     "choices": [
-      "Ein Vulkanausbruch",
-      "Eine Dürre mit Buschbränden",
-      "Die Ankunft einer zweiten Flotte",
-      "Eine Pockenepidemie"
+      "火山の噴火",
+      "山火事を伴う干ばつ",
+      "第二船団の到着",
+      "天然痘の流行"
     ],
     "answer": 3,
-    "explanation": "Die Epidemie, meist als Pocken gedeutet, tötete etwa die Hälfte der Aborigines im Umland; ihre Herkunft ist umstritten.",
+    "explanation": "通常は天然痘とされるこの流行病は、この地域のアボリジニの約半数の命を奪った。その起源については議論がある。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-17",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer war Bennelong?",
+    "question": "ベネロングとは誰か。",
     "choices": [
-      "Ein Anführer des bewaffneten Widerstands bei Parramatta",
-      "Ein Wangal-Mann, der zwischen Eora und Kolonisten vermittelte",
-      "Ein Missionar der London Missionary Society",
-      "Ein Sträfling, der als Erster Gold fand"
+      "パラマッタ近くでの武装抵抗の指導者",
+      "エオラと入植者のあいだを仲介したワンガル族の男性",
+      "ロンドン伝道協会の宣教師",
+      "最初に金を発見した囚人"
     ],
     "answer": 1,
-    "explanation": "Bennelong wurde 1789 gefangen genommen, wurde später ein wichtiger Vermittler und reiste 1792 mit Phillip nach England.",
+    "explanation": "ベネロングは1789年に捕らえられ、のちに重要な仲介者となり、1792年にフィリップとともにイングランドへ渡った。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-18",
     "epochId": "ozeanien-pazifik",
-    "question": "Welcher Bidjigal-Mann führte ab etwa 1790 den Widerstand gegen die Kolonisten bei Sydney an?",
+    "question": "1790年頃からシドニー近郊で入植者に対する抵抗を率いたビジガル族の男性は誰か。",
     "choices": [
-      "Bennelong",
-      "Arabanoo",
-      "Hongi Hika",
-      "Pemulwuy"
+      "ベネロング",
+      "アラバヌー",
+      "ホンギ・ヒカ",
+      "ペムルワイ"
     ],
     "answer": 3,
-    "explanation": "Pemulwuy führte über ein Jahrzehnt Überfälle auf Farmen bei Parramatta und am Hawkesbury River an, bis er 1802 erschossen wurde.",
+    "explanation": "ペムルワイは、1802年に射殺されるまで10年以上にわたり、パラマッタ近くやホークスベリー川沿いの農場への襲撃を率いた。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-19",
     "epochId": "ozeanien-pazifik",
-    "question": "Wonach suchten Seeleute aus Makassar an der Nordküste Australiens?",
+    "question": "マカッサルの航海者はオーストラリア北部の海岸で何を求めていたか。",
     "choices": [
-      "Nach Trepang (Seegurken)",
-      "Nach Gold",
-      "Nach Perlen für Europa",
-      "Nach Sandelholz"
+      "トレパン(ナマコ)",
+      "金",
+      "ヨーロッパ向けの真珠",
+      "白檀"
     ],
     "answer": 0,
-    "explanation": "Die Makassaren sammelten und trockneten Trepang, der in China als Delikatesse und Heilmittel begehrt war.",
+    "explanation": "マカッサル人はナマコを採って乾燥させた。それは中国で珍味や薬として珍重された。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-20",
     "epochId": "ozeanien-pazifik",
-    "question": "Wie wird die Weltdeutung der Aborigines, nach der Ahnenwesen das Land schufen, im Deutschen meist genannt?",
+    "question": "祖先の存在が大地をつくったとするアボリジニの世界観を指す一般的な英語の呼び名は何か。",
     "choices": [
-      "Ahnenzeit",
-      "Schöpfungsnacht",
-      "Traumzeit",
-      "Sternenweg"
+      "祖先の時代",
+      "創造の夜",
+      "ドリーミング",
+      "星の道"
     ],
     "answer": 2,
-    "explanation": "Die Traumzeit („Dreaming“) ist keine abgeschlossene Vergangenheit, sondern in Orten, Liedern und Zeremonien gegenwärtig.",
+    "explanation": "ドリーミングは閉じた過去ではなく、場所、歌、儀礼のなかに現在している。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-21",
     "epochId": "ozeanien-pazifik",
-    "question": "Was sind „Songlines“?",
+    "question": "ソングラインとは何か。",
     "choices": [
-      "Handelsrouten der makassarischen Seeleute",
-      "Kirchenlieder der Missionare auf Tahiti",
-      "Gesangslinien, die die Wege der Ahnenwesen durch das Land beschreiben",
-      "Seekarten aus Palmrippen und Muscheln"
+      "マカッサルの航海者の交易路",
+      "タヒチの宣教師の賛美歌",
+      "祖先の存在が大地を旅した道筋を語る歌の連なり",
+      "ヤシの葉脈と貝殻でつくった海図"
     ],
     "answer": 2,
-    "explanation": "Songlines verbinden Lieder, Orte und Erzählungen der Traumzeit und dienten auch als Wegweiser über weite Strecken.",
+    "explanation": "ソングラインはドリーミングの歌、場所、物語を結びつけ、長い距離を移動するときの道しるべにもなった。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-22",
     "epochId": "ozeanien-pazifik",
-    "question": "Woran erinnert das Fest „Coming of the Light“ in der Torres-Straße?",
+    "question": "トレス海峡の「光の到来」の祭りは何を記念しているか。",
     "choices": [
-      "An die Ankunft christlicher Missionare 1871",
-      "An den Anschluss an Queensland 1879",
-      "An Cooks Landung 1770",
-      "An das Ende des Perlmuttfangs"
+      "1871年のキリスト教宣教師の到来",
+      "1879年のクイーンズランドへの併合",
+      "1770年のクックの上陸",
+      "真珠貝の潜水漁の終わり"
     ],
     "answer": 0,
-    "explanation": "Am 1. Juli 1871 landeten Missionare der London Missionary Society auf Erub; der Tag wird bis heute gefeiert.",
+    "explanation": "1871年7月1日、ロンドン伝道協会の宣教師がエルブ島に上陸した。この日は今も祝われている。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-23",
     "epochId": "ozeanien-pazifik",
-    "question": "Wie heißen die befestigten Siedlungen der Māori?",
+    "question": "マオリの要塞化した集落は何と呼ばれるか。",
     "choices": [
-      "Marae",
-      "Heiau",
-      "Ahu",
-      "Pā"
+      "マラエ",
+      "ヘイアウ",
+      "アフ",
+      "パー"
     ],
     "answer": 3,
-    "explanation": "Pā lagen meist auf Hügeln oder Landzungen und waren mit Gräben, Wällen und Palisaden geschützt; ein Marae ist ein Versammlungsplatz.",
+    "explanation": "パーはたいてい丘や岬の上にあり、堀、土塁、柵で守られていた。マラエは集会の場である。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-24",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche flugunfähigen Riesenvögel jagten die ersten Siedler Neuseelands bis zur Ausrottung?",
+    "question": "ニュージーランドの最初の入植者が狩り尽くして絶滅させた、飛べない巨大な鳥はどれか。",
     "choices": [
-      "Kiwi",
-      "Moa",
-      "Kākāpō",
-      "Emu"
+      "キーウィ",
+      "モア",
+      "カカポ",
+      "エミュー"
     ],
     "answer": 1,
-    "explanation": "Die Moa wurden innerhalb von etwa ein bis zwei Jahrhunderten nach der Ankunft der Menschen ausgerottet.",
+    "explanation": "モアは人間の到来から約1〜2世紀のうちに絶滅した。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-25",
     "epochId": "ozeanien-pazifik",
-    "question": "Wie heißt in der Überlieferung der Māori das Herkunftsland ihrer Vorfahren?",
+    "question": "マオリの伝承で、祖先の故郷は何と呼ばれているか。",
     "choices": [
-      "Aotearoa",
-      "Rapa Nui",
-      "Te Waipounamu",
-      "Hawaiki"
+      "アオテアロア",
+      "ラパ・ヌイ",
+      "テ・ワイポウナム",
+      "ハワイキ"
     ],
     "answer": 3,
-    "explanation": "Die Überlieferung erzählt von der Fahrt aus Hawaiki in Kanus wie Tainui und Te Arawa; Aotearoa ist der Māori-Name Neuseelands.",
+    "explanation": "伝承は、タイヌイやテ・アラワといったカヌーによるハワイキからの航海を語っている。アオテアロアはニュージーランドのマオリ語名である。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-26",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Nutzpflanze aus Südamerika gilt als Hinweis auf frühe Kontakte zwischen Polynesiern und Südamerika?",
+    "question": "ポリネシア人と南アメリカの早い時期の接触の証拠とみなされている、南アメリカ原産の作物はどれか。",
     "choices": [
-      "Der Taro",
-      "Die Süßkartoffel",
-      "Die Brotfrucht",
-      "Die Kokospalme"
+      "タロイモ",
+      "サツマイモ",
+      "パンノキ",
+      "ココヤシ"
     ],
     "answer": 1,
-    "explanation": "Die Süßkartoffel stammt aus Südamerika und war in Polynesien schon vor der Ankunft der Europäer verbreitet; Einzelheiten der Kontakte sind umstritten.",
+    "explanation": "サツマイモは南アメリカ原産で、ヨーロッパ人の到来以前にすでにポリネシアに広まっていた。接触の詳細については議論がある。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-27",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer vereinigte die Hawaiʻi-Inseln zu einem Königreich?",
+    "question": "ハワイ諸島を一つの王国に統一したのは誰か。",
     "choices": [
-      "Liliʻuokalani",
-      "Kalākaua",
-      "Kamehameha I.",
-      "Liholiho"
+      "リリウオカラニ",
+      "カラカウア",
+      "カメハメハ1世",
+      "リホリホ"
     ],
     "answer": 2,
-    "explanation": "Kamehameha I. eroberte 1795 die meisten Inseln; 1810 unterwarf sich auch Kauaʻi.",
+    "explanation": "カメハメハ1世は1795年に大部分の島を征服し、1810年にはカウアイ島も服属した。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-28",
     "epochId": "ozeanien-pazifik",
-    "question": "Welcher Herrscher unterwarf sich Kamehameha 1810 ohne Kampf?",
+    "question": "1810年に戦わずしてカメハメハに服属した支配者は誰か。",
     "choices": [
-      "Kaumualiʻi von Kauaʻi",
-      "Kalaniʻōpuʻu von Hawaiʻi",
-      "Kahekili von Maui",
-      "Pōmare II. von Tahiti"
+      "カウアイのカウムアリイ",
+      "ハワイ島のカラニオプウ",
+      "マウイのカヘキリ",
+      "タヒチのポマレ2世"
     ],
     "answer": 0,
-    "explanation": "Kaumualiʻi, der Herrscher von Kauaʻi und Niʻihau, erkannte 1810 Kamehamehas Oberherrschaft an und vollendete damit die Einigung.",
+    "explanation": "カウアイとニイハウの支配者カウムアリイは、1810年にカメハメハの宗主権を認め、これによって統一が完成した。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-29",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Frau setzte 1819 die Abschaffung des Kapu-Systems auf Hawaiʻi durch?",
+    "question": "1819年にハワイのカプ制度の廃止をもたらした女性は誰か。",
     "choices": [
-      "Kaʻahumanu",
-      "Liliʻuokalani",
-      "Emma",
-      "Keʻelikōlani"
+      "カアフマヌ",
+      "リリウオカラニ",
+      "エマ",
+      "ケエリコラニ"
     ],
     "answer": 0,
-    "explanation": "Kaʻahumanu, die einflussreichste Frau Kamehamehas I., brachte den jungen König dazu, öffentlich die Speisegebote zu brechen.",
+    "explanation": "カメハメハ1世の最も影響力のある妻であったカアフマヌは、若い王を説得して公の場で食事の禁忌を破らせた。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-30",
     "epochId": "ozeanien-pazifik",
-    "question": "Welches Verbot brach König Liholiho 1819 öffentlich, um das Kapu-System zu beenden?",
+    "question": "カプ制度を終わらせるため、1819年にリホリホ王が公の場で破った禁止事項はどれか。",
     "choices": [
-      "Das Verbot, heilige Vulkane zu betreten",
-      "Das Verbot, in der Laichzeit zu fischen",
-      "Das Verbot, dass Männer und Frauen gemeinsam essen",
-      "Das Verbot, Federmäntel zu tragen"
+      "神聖な火山に立ち入ることの禁止",
+      "産卵期に漁をすることの禁止",
+      "男性と女性が一緒に食事をすることの禁止",
+      "羽毛のマントを身につけることの禁止"
     ],
     "answer": 2,
-    "explanation": "Liholiho aß bei einem Festmahl mit Frauen; danach ließ er Tempel zerstören und Götterbilder verbrennen.",
+    "explanation": "リホリホは祝宴で女性たちと食事をし、その後、神殿を破壊させ、神々の像を焼かせた。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-31",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Königin wurde 1893 in Hawaiʻi gestürzt?",
+    "question": "1893年にハワイで退位させられた女王は誰か。",
     "choices": [
-      "Kaʻahumanu",
-      "Liliʻuokalani",
-      "Pōmare IV.",
-      "Sālote Tupou III."
+      "カアフマヌ",
+      "リリウオカラニ",
+      "ポマレ4世",
+      "サローテ・トゥポウ3世"
     ],
     "answer": 1,
-    "explanation": "Liliʻuokalani wurde im Januar 1893 von amerikanischen Geschäftsleuten mit Rückendeckung von US-Marinesoldaten gestürzt.",
+    "explanation": "リリウオカラニは1893年1月、アメリカ海兵隊に支援されたアメリカの実業家たちによって退位させられた。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-32",
     "epochId": "ozeanien-pazifik",
-    "question": "In welchem Jahr annektierten die USA Hawaiʻi?",
+    "question": "アメリカ合衆国がハワイを併合したのは何年か。",
     "choices": [
-      "1867",
-      "1893",
-      "1959",
-      "1898"
+      "1867年",
+      "1893年",
+      "1959年",
+      "1898年"
     ],
     "answer": 3,
-    "explanation": "Der Kongress beschloss die Annexion im Juli 1898; 1959 wurde Hawaiʻi der 50. Bundesstaat.",
+    "explanation": "議会は1898年7月に併合を承認した。1959年、ハワイは50番目の州となった。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-33",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer stürzte 1893 die hawaiische Monarchie?",
+    "question": "1893年にハワイの王政を転覆させたのは誰か。",
     "choices": [
-      "Britische Truppen aus Neuseeland",
-      "Amerikanische Geschäftsleute und Pflanzer mit Rückendeckung von US-Marinesoldaten",
-      "Japanische Einwanderer",
-      "Ein Aufstand hawaiischer Häuptlinge"
+      "ニュージーランドから来たイギリス軍",
+      "アメリカ海兵隊に支援されたアメリカの実業家と農園主",
+      "日本人移民",
+      "ハワイの首長たちの蜂起"
     ],
     "answer": 1,
-    "explanation": "Ein „Sicherheitskomitee“ aus Geschäftsleuten rief eine provisorische Regierung aus, nachdem US-Marinesoldaten an Land gegangen waren.",
+    "explanation": "実業家たちの「治安委員会」が、アメリカ海兵隊の上陸ののちに臨時政府の樹立を宣言した。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-34",
     "epochId": "ozeanien-pazifik",
-    "question": "Welches Lied stammt von Königin Liliʻuokalani?",
+    "question": "女王リリウオカラニが作った歌はどれか。",
     "choices": [
-      "„Hawaiʻi Ponoʻī“",
-      "„Waltzing Matilda“",
-      "„God Defend New Zealand“",
-      "„Aloha ʻOe“"
+      "「ハワイ・ポノイ」",
+      "「ウォルシング・マチルダ」",
+      "「ゴッド・ディフェンド・ニュージーランド」",
+      "「アロハ・オエ」"
     ],
     "answer": 3,
-    "explanation": "Liliʻuokalani schrieb zahlreiche Lieder, darunter „Aloha ʻOe“; der Text von „Hawaiʻi Ponoʻī“ stammt von ihrem Bruder Kalākaua.",
+    "explanation": "リリウオカラニは「アロハ・オエ」をはじめ多くの歌を作った。「ハワイ・ポノイ」の歌詞は兄のカラカウアが書いた。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-35",
     "epochId": "ozeanien-pazifik",
-    "question": "In welchem Jahr wurde der Vertrag von Waitangi unterzeichnet?",
+    "question": "ワイタンギ条約が調印されたのは何年か。",
     "choices": [
-      "1840",
-      "1788",
-      "1814",
-      "1865"
+      "1840年",
+      "1788年",
+      "1814年",
+      "1865年"
     ],
     "answer": 0,
-    "explanation": "Am 6. Februar 1840 unterzeichneten William Hobson und Māori-Häuptlinge den Vertrag in Waitangi.",
+    "explanation": "1840年2月6日、ウィリアム・ホブソンとマオリの首長たちがワイタンギで条約に署名した。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-36",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer unterzeichnete den Vertrag von Waitangi für die britische Krone?",
+    "question": "イギリス王室を代表してワイタンギ条約に署名したのは誰か。",
     "choices": [
-      "Arthur Phillip",
-      "James Cook",
-      "William Hobson",
-      "George Grey"
+      "アーサー・フィリップ",
+      "ジェームズ・クック",
+      "ウィリアム・ホブソン",
+      "ジョージ・グレイ"
     ],
     "answer": 2,
-    "explanation": "Hobson war beauftragt, die Zustimmung der Häuptlinge zur britischen Herrschaft einzuholen, und wurde 1841 Gouverneur.",
+    "explanation": "ホブソンはイギリスの支配について首長たちの同意を得るよう命じられており、1841年に総督となった。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-37",
     "epochId": "ozeanien-pazifik",
-    "question": "Was sicherte die Māori-Fassung des Vertrags von Waitangi mit „tino rangatiratanga“ zu?",
+    "question": "ワイタンギ条約のマオリ語版は、「ティノ・ランガティラタンガ」によって何を保障したか。",
     "choices": [
-      "Die Abtretung aller Souveränität an die Krone",
-      "Sitze im britischen Parlament",
-      "Die volle Herrschaft über Land, Dörfer und Schätze",
-      "Die Bekehrung zum Christentum"
+      "すべての主権の王室への譲渡",
+      "イギリス議会の議席",
+      "土地、村、宝に対する完全な権限",
+      "キリスト教への改宗"
     ],
     "answer": 2,
-    "explanation": "Nach der Māori-Fassung traten die Häuptlinge nur „kāwanatanga“ ab und behielten „tino rangatiratanga“; darin liegt der Kern des Streits um den Vertrag.",
+    "explanation": "マオリ語版では、首長たちが譲ったのは「カワナタンガ」だけで、「ティノ・ランガティラタンガ」は保持した。これが条約をめぐる争いの核心にある。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-38",
     "epochId": "ozeanien-pazifik",
-    "question": "Welcher Ngāpuhi-Häuptling reiste 1820 nach England und führte danach Kriegszüge mit Musketen?",
+    "question": "1820年にイングランドへ渡り、その後マスケット銃を使って遠征を行ったンガプヒ族の首長は誰か。",
     "choices": [
-      "Hongi Hika",
-      "Hōne Heke",
-      "Te Kooti",
-      "Pōtatau Te Wherowhero"
+      "ホンギ・ヒカ",
+      "ホネ・ヘケ",
+      "テ・クーティ",
+      "ポタタウ・テ・ウェロウェロ"
     ],
     "answer": 0,
-    "explanation": "Hongi Hika traf in England König Georg IV. und erwarb auf der Rückreise in Sydney zahlreiche Musketen.",
+    "explanation": "ホンギ・ヒカはイングランドで国王ジョージ4世に会い、帰路のシドニーで大量のマスケット銃を手に入れた。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-39",
     "epochId": "ozeanien-pazifik",
-    "question": "Wie nennt man die Kriege zwischen Māori-Stämmen im frühen 19. Jahrhundert, in denen erstmals Feuerwaffen eingesetzt wurden?",
+    "question": "19世紀初めに、初めて銃器が使われたマオリの部族間の戦争は何と呼ばれるか。",
     "choices": [
-      "Neuseelandkriege",
-      "Flaggenmastkrieg",
-      "Waikato-Krieg",
-      "Musketenkriege"
+      "ニュージーランド戦争",
+      "旗竿戦争",
+      "ワイカト戦争",
+      "マスケット銃戦争"
     ],
     "answer": 3,
-    "explanation": "In den Musketenkriegen kämpften Māori-Stämme gegeneinander; die Neuseelandkriege führten Māori dagegen gegen britische Truppen.",
+    "explanation": "マスケット銃戦争ではマオリの部族どうしが戦った。これに対してニュージーランド戦争は、マオリがイギリス軍と戦ったものである。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-40",
     "epochId": "ozeanien-pazifik",
-    "question": "Welcher Häuptling fällte ab 1844 mehrfach den britischen Fahnenmast bei Kororāreka?",
+    "question": "1844年以降、コロラレカのイギリスの旗竿を繰り返し切り倒した首長は誰か。",
     "choices": [
-      "Hongi Hika",
-      "Hōne Heke",
-      "Te Rauparaha",
-      "Wiremu Tāmihana"
+      "ホンギ・ヒカ",
+      "ホネ・ヘケ",
+      "テ・ラウパラハ",
+      "ウィレム・ターミハナ"
     ],
     "answer": 1,
-    "explanation": "Hōne Hekes Protest gegen die britische Herrschaft führte 1845 zum ersten der Neuseelandkriege.",
+    "explanation": "イギリスの支配に対するホネ・ヘケの抗議は、1845年に最初のニュージーランド戦争を引き起こした。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-41",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer wurde 1858 zum ersten Māori-König gewählt?",
+    "question": "1858年に最初のマオリ王に選ばれたのは誰か。",
     "choices": [
-      "Hongi Hika",
-      "Tāwhiao",
-      "Te Kooti",
-      "Pōtatau Te Wherowhero"
+      "ホンギ・ヒカ",
+      "タフィアオ",
+      "テ・クーティ",
+      "ポタタウ・テ・ウェロウェロ"
     ],
     "answer": 3,
-    "explanation": "Die Königsbewegung wählte den betagten Waikato-Häuptling, um Land vor dem Verkauf zu schützen; sein Sohn Tāwhiao folgte ihm 1860.",
+    "explanation": "キング運動は土地を売却から守るため、年老いたワイカトの首長を選んだ。1860年には息子のタフィアオが跡を継いだ。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-42",
     "epochId": "ozeanien-pazifik",
-    "question": "Was geschah nach dem Waikato-Krieg 1863/64 mit dem Land vieler Māori-Stämme?",
+    "question": "1863/64年のワイカト戦争ののち、多くのマオリ部族の土地はどうなったか。",
     "choices": [
-      "Die Regierung kaufte es zu Marktpreisen",
-      "Die Regierung beschlagnahmte es",
-      "Es wurde unter den Schutz der Königsbewegung gestellt",
-      "Es wurde den Missionen übergeben"
+      "政府が市場価格で買い取った",
+      "政府が没収した",
+      "キング運動の保護下に置かれた",
+      "伝道団に引き渡された"
     ],
     "answer": 1,
-    "explanation": "Auf Grundlage eines Gesetzes von 1863 beschlagnahmte die Regierung über eine Million Hektar Māori-Land.",
+    "explanation": "1863年の法律に基づいて、政府は100万ヘクタールを超えるマオリの土地を没収した。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-43",
     "epochId": "ozeanien-pazifik",
-    "question": "Was löste 1851 eine Masseneinwanderung nach Australien aus?",
+    "question": "1851年にオーストラリアへの大量移民を引き起こしたものは何か。",
     "choices": [
-      "Das Ende der Sträflingstransporte",
-      "Die Gründung des Bundesstaates",
-      "Goldfunde in New South Wales und Victoria",
-      "Der Bau einer Eisenbahn quer durch den Kontinent"
+      "囚人移送の終了",
+      "連邦の成立",
+      "ニューサウスウェールズとビクトリアでの金の発見",
+      "大陸横断鉄道の建設"
     ],
     "answer": 2,
-    "explanation": "Nach den Funden bei Bathurst, Ballarat und Bendigo stieg die Bevölkerung Victorias in zehn Jahren auf über eine halbe Million.",
+    "explanation": "バサースト、バララット、ベンディゴでの発見ののち、ビクトリアの人口は10年のうちに50万人以上に増えた。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-44",
     "epochId": "ozeanien-pazifik",
-    "question": "Wogegen richtete sich der Aufstand an der Eureka-Palisade 1854?",
+    "question": "1854年のユーリカ砦の反乱は何に向けられたものか。",
     "choices": [
-      "Gegen teure Schürflizenzen auf den Goldfeldern",
-      "Gegen die Sträflingstransporte",
-      "Gegen die Föderation der Kolonien",
-      "Gegen Ausfuhrzölle auf Wolle"
+      "金鉱地の高額な採掘許可料",
+      "囚人の移送",
+      "植民地の連邦化",
+      "羊毛の輸出関税"
     ],
     "answer": 0,
-    "explanation": "Die Goldsucher bei Ballarat empörten sich über die Lizenzgebühren; der Aufstand wurde niedergeschlagen, brachte aber Reformen.",
+    "explanation": "バララットの鉱夫たちは許可料に憤慨した。反乱は鎮圧されたが、改革につながった。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-45",
     "epochId": "ozeanien-pazifik",
-    "question": "Wann entstand der Australische Bund (Commonwealth of Australia)?",
+    "question": "オーストラリア連邦が成立したのはいつか。",
     "choices": [
-      "Am 1. Januar 1901",
-      "Am 26. Januar 1788",
-      "Am 6. Februar 1840",
-      "Am 1. Juli 1871"
+      "1901年1月1日",
+      "1788年1月26日",
+      "1840年2月6日",
+      "1871年7月1日"
     ],
     "answer": 0,
-    "explanation": "Am 1. Januar 1901 schlossen sich die sechs australischen Kolonien zu einem Bundesstaat zusammen.",
+    "explanation": "1901年1月1日、オーストラリアの6つの植民地が連邦として統合された。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-46",
     "epochId": "ozeanien-pazifik",
-    "question": "Wer war der erste Premierminister Australiens?",
+    "question": "オーストラリアの初代首相は誰か。",
     "choices": [
-      "Henry Parkes",
-      "Alfred Deakin",
-      "Edmund Barton",
-      "Arthur Phillip"
+      "ヘンリー・パークス",
+      "アルフレッド・ディーキン",
+      "エドマンド・バートン",
+      "アーサー・フィリップ"
     ],
     "answer": 2,
-    "explanation": "Edmund Barton führte die erste Bundesregierung von 1901 bis 1903 und wurde danach Richter am High Court.",
+    "explanation": "エドマンド・バートンは1901年から1903年まで最初の連邦政府を率い、その後高等裁判所の判事となった。",
     "difficulty": 1
   },
   {
     "id": "q-ozeanien-pazifik-47",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Politik begründete der Immigration Restriction Act von 1901?",
+    "question": "1901年の移民制限法が確立した政策はどれか。",
     "choices": [
-      "Die Förderung asiatischer Einwanderung",
-      "Die „White Australia“-Politik",
-      "Die Rückgabe von Land an die Aborigines",
-      "Das Ende der Sträflingstransporte"
+      "アジアからの移民の奨励",
+      "「白豪主義」政策",
+      "アボリジニへの土地の返還",
+      "囚人移送の終了"
     ],
     "answer": 1,
-    "explanation": "Das Gesetz sollte vor allem Einwanderer aus Asien und dem Pazifik fernhalten und blieb in abgewandelter Form jahrzehntelang in Kraft.",
+    "explanation": "この法律は主にアジアと太平洋からの移民を締め出すことを目的とし、形を変えながら数十年にわたって効力をもち続けた。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-48",
     "epochId": "ozeanien-pazifik",
-    "question": "Welcher König gab Tonga 1875 eine Verfassung?",
+    "question": "1875年にトンガに憲法を与えた王は誰か。",
     "choices": [
-      "Kamehameha I.",
-      "Pōmare II.",
-      "Cakobau",
-      "George Tupou I."
+      "カメハメハ1世",
+      "ポマレ2世",
+      "ザコンバウ",
+      "ジョージ・トゥポウ1世"
     ],
     "answer": 3,
-    "explanation": "George Tupou I. einte Tonga 1845; seine Verfassung von 1875 half dem Land, einer Kolonisierung zu entgehen.",
+    "explanation": "ジョージ・トゥポウ1世は1845年にトンガを統一した。彼の1875年の憲法は、国が植民地化を免れる助けとなった。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-49",
     "epochId": "ozeanien-pazifik",
-    "question": "Wie hießen die heiligen Könige Tongas, deren Linie der Überlieferung nach im 10. Jahrhundert begann?",
+    "question": "伝承によれば10世紀に家系が始まった、トンガの神聖王は何と呼ばれたか。",
     "choices": [
-      "Aliʻi nui",
-      "Tuʻi Tonga",
-      "Ariki mau",
-      "Tuʻi Manuʻa"
+      "アリイ・ヌイ",
+      "トゥイ・トンガ",
+      "アリキ・マウ",
+      "トゥイ・マヌア"
     ],
     "answer": 1,
-    "explanation": "Die Tuʻi Tonga galten als Nachfahren des Gottes Tangaloa; ab dem 15. Jahrhundert überließen sie die weltliche Macht anderen Linien.",
+    "explanation": "トゥイ・トンガは神タンガロアの子孫とみなされていた。15世紀からは世俗の権力をほかの家系に委ねた。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-50",
     "epochId": "ozeanien-pazifik",
-    "question": "Welche Missionsgesellschaft schickte 1797 mit dem Schiff „Duff“ Missionare nach Tahiti?",
+    "question": "1797年に船ダフ号で宣教師をタヒチに送った伝道協会はどれか。",
     "choices": [
-      "Die Jesuiten",
-      "Die Herrnhuter Brüdergemeine",
-      "Das American Board of Commissioners for Foreign Missions",
-      "Die London Missionary Society"
+      "イエズス会",
+      "モラヴィア兄弟団",
+      "アメリカン・ボード(米国海外伝道委員会)",
+      "ロンドン伝道協会"
     ],
     "answer": 3,
-    "explanation": "Die London Missionary Society begann 1797 auf Tahiti die protestantische Mission in Polynesien.",
+    "explanation": "ロンドン伝道協会は1797年にタヒチでポリネシアにおけるプロテスタントの伝道を始めた。",
     "difficulty": 2
   },
   {
     "id": "q-ozeanien-pazifik-51",
     "epochId": "ozeanien-pazifik",
-    "question": "Was bezeichnet der Begriff „Blackbirding“?",
+    "question": "「ブラックバーディング」という言葉は何を指しているか。",
     "choices": [
-      "Die Anwerbung pazifischer Arbeiter durch Täuschung oder Zwang",
-      "Die Jagd auf Trauerschwäne",
-      "Das Verbot von Tätowierungen durch Missionare",
-      "Den Handel mit Vogelfedern für Mäntel"
+      "欺瞞や強制による太平洋の労働者の徴募",
+      "黒鳥の狩猟",
+      "宣教師による入れ墨の禁止",
+      "マント用の鳥の羽毛の交易"
     ],
     "answer": 0,
-    "explanation": "Zehntausende Melanesier wurden so für Plantagen in Queensland, Fidschi und Samoa angeworben.",
+    "explanation": "この方法で数万人のメラネシア人が、クイーンズランド、フィジー、サモアのプランテーションのために集められた。",
     "difficulty": 3
   },
   {
     "id": "q-ozeanien-pazifik-52",
     "epochId": "ozeanien-pazifik",
-    "question": "Aus welchen Sprachen stammt das Wort „Tabu“?",
+    "question": "「タブー」という言葉はどの言語から来ているか。",
     "choices": [
-      "Aus dem Lateinischen",
-      "Aus dem Arabischen",
-      "Aus polynesischen Sprachen",
-      "Aus den Sprachen der Aborigines"
+      "ラテン語から",
+      "アラビア語から",
+      "ポリネシア諸語から",
+      "アボリジニの言語から"
     ],
     "answer": 2,
-    "explanation": "James Cook brachte das Wort „tapu“ aus Tonga nach Europa; es bezeichnet das Heilige und Verbotene.",
+    "explanation": "ジェームズ・クックが「タプ」という語をトンガからヨーロッパにもたらした。それは神聖なもの、禁じられたものを指す。",
     "difficulty": 1
   },
   {
@@ -14562,1457 +14562,1457 @@
   {
     "id": "q-russland-osteuropa-01",
     "epochId": "russland-osteuropa",
-    "question": "Wen riefen nach der Nestorchronik die Stämme um Nowgorod im Jahr 862 als Herrscher ins Land?",
+    "question": "『原初年代記』によれば、862年にノヴゴロド周辺の部族は誰を支配者として招いたか。",
     "choices": [
-      "Den Khan Batu",
-      "Den Waräger Rjurik",
-      "Den Kaiser Basileios II.",
-      "Den Fürsten Mieszko"
+      "バトゥ・ハン",
+      "ヴァリャーグのリューリク",
+      "皇帝バシレイオス2世",
+      "ミェシュコ公"
     ],
     "answer": 1,
-    "explanation": "Die Nestorchronik aus dem frühen 12. Jahrhundert erzählt von der Berufung Rjuriks; wie viel davon historisch ist, ist ungewiss.",
+    "explanation": "12世紀初めの『原初年代記』はリューリクの招聘を語っているが、そのどこまでが史実かは不確かである。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-02",
     "epochId": "russland-osteuropa",
-    "question": "Welche Stadt machte Oleg um 882 zum Zentrum der Rus?",
+    "question": "882年頃、オレグがルーシの中心としたのはどの都市か。",
     "choices": [
-      "Moskau",
-      "Nowgorod",
-      "Smolensk",
-      "Kiew"
+      "モスクワ",
+      "ノヴゴロド",
+      "スモレンスク",
+      "キーウ"
     ],
     "answer": 3,
-    "explanation": "Oleg zog von Nowgorod den Dnjepr hinab, eroberte Kiew und nannte es nach der Chronik die „Mutter der Städte der Rus“.",
+    "explanation": "オレグはノヴゴロドからドニエプル川を下ってキーウを征服し、年代記によれば、これを「ルーシの諸都市の母」と呼んだ。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-03",
     "epochId": "russland-osteuropa",
-    "question": "Welche Fürstin regierte für ihren Sohn Swjatoslaw und ließ sich um 957 in Konstantinopel taufen?",
+    "question": "息子スヴャトスラフのために統治し、957年頃にコンスタンティノープルで洗礼を受けた公妃は誰か。",
     "choices": [
-      "Olga",
-      "Anna",
-      "Jadwiga",
-      "Sophia"
+      "オリガ",
+      "アンナ",
+      "ヤドヴィガ",
+      "ソフィア"
     ],
     "answer": 0,
-    "explanation": "Olga, die Witwe des Fürsten Igor, nahm als erste Herrscherin der Rus das Christentum an.",
+    "explanation": "イーゴリ公の未亡人オリガは、キリスト教を受け入れた最初のルーシの支配者であった。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-04",
     "epochId": "russland-osteuropa",
-    "question": "Wen heiratete Wladimir I. im Zusammenhang mit seiner Taufe 988?",
+    "question": "988年の洗礼に関連して、ヴォロディーミル1世(ウラジーミル1世)は誰と結婚したか。",
     "choices": [
-      "Jadwiga, die Königin von Polen",
-      "Theophanu, die Witwe Kaiser Ottos II.",
-      "Anna, die Schwester des byzantinischen Kaisers Basileios II.",
-      "Ingegerd, die Tochter des schwedischen Königs"
+      "ポーランド女王ヤドヴィガ",
+      "皇帝オットー2世の未亡人テオファヌ",
+      "ビザンツ皇帝バシレイオス2世の妹アンナ",
+      "スウェーデン王の娘インゲゲルド"
     ],
     "answer": 2,
-    "explanation": "Die Heirat mit der Kaiserschwester Anna verband die Kiewer Rus eng mit Byzanz.",
+    "explanation": "皇帝の妹アンナとの結婚は、キエフ・ルーシをビザンツと密接に結びつけた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-05",
     "epochId": "russland-osteuropa",
-    "question": "Wie heißt das älteste Rechtsbuch der Rus, dessen erste Fassung auf Jaroslaw den Weisen zurückgeht?",
+    "question": "最初の版が賢公ヤロスラフにさかのぼる、ルーシ最古の法典の名は何か。",
     "choices": [
-      "Sudebnik",
-      "Domostroi",
-      "Russkaja Prawda",
-      "Uloschenije"
+      "スデブニク",
+      "ドモストロイ",
+      "ルースカヤ・プラウダ",
+      "ウロジェニエ"
     ],
     "answer": 2,
-    "explanation": "Die Russkaja Prawda begrenzte die Blutrache und legte Bußgelder für Verbrechen fest.",
+    "explanation": "『ルースカヤ・プラウダ』は血の復讐を制限し、犯罪に対する罰金を定めた。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-06",
     "epochId": "russland-osteuropa",
-    "question": "Welche Tochter Jaroslaws des Weisen wurde Königin von Frankreich?",
+    "question": "フランス王妃となった賢公ヤロスラフの娘は誰か。",
     "choices": [
-      "Anna",
-      "Elisabeth",
-      "Anastasia",
-      "Olga"
+      "アンナ",
+      "エリザヴェータ",
+      "アナスタシア",
+      "オリガ"
     ],
     "answer": 0,
-    "explanation": "Anna heiratete 1051 König Heinrich I. von Frankreich; ihre Schwestern wurden Königinnen von Norwegen und Ungarn.",
+    "explanation": "アンナは1051年にフランス王アンリ1世と結婚した。彼女の姉妹たちはノルウェーとハンガリーの王妃となった。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-07",
     "epochId": "russland-osteuropa",
-    "question": "In welchem Jahr eroberten und zerstörten die Mongolen Kiew?",
+    "question": "モンゴルがキーウを征服し破壊したのは何年か。",
     "choices": [
-      "1223",
-      "1380",
-      "1480",
-      "1240"
+      "1223年",
+      "1380年",
+      "1480年",
+      "1240年"
     ],
     "answer": 3,
-    "explanation": "Im Dezember 1240 fiel Kiew an das Heer Batus; die Stadt verlor danach für lange Zeit ihre Bedeutung.",
+    "explanation": "1240年12月、キーウはバトゥの軍によって陥落した。その後、この都市は長く重要性を失った。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-08",
     "epochId": "russland-osteuropa",
-    "question": "Wo lag die Hauptstadt der Goldenen Horde?",
+    "question": "ジョチ・ウルス(キプチャク・ハン国)の首都はどこにあったか。",
     "choices": [
-      "In Karakorum in der Mongolei",
-      "In Sarai an der unteren Wolga",
-      "In Kasan an der mittleren Wolga",
-      "In Bachtschyssarai auf der Krim"
+      "モンゴルのカラコルム",
+      "ヴォルガ川下流のサライ",
+      "ヴォルガ川中流のカザン",
+      "クリミアのバフチサライ"
     ],
     "answer": 1,
-    "explanation": "Sarai an der unteren Wolga war Residenz der Khane, zu denen die russischen Fürsten reisen mussten.",
+    "explanation": "ヴォルガ川下流のサライはハンの居所であり、ロシアの諸公はそこへ赴かなければならなかった。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-09",
     "epochId": "russland-osteuropa",
-    "question": "Was war ein Jarlyk?",
+    "question": "ヤルリクとは何であったか。",
     "choices": [
-      "Eine Steuer, die nur Kaufleute in Nowgorod zahlten",
-      "Ein Bauernhaus aus Holz in der nördlichen Rus",
-      "Ein Wahlgremium der Kosaken am Dnjepr",
-      "Eine Urkunde des Khans, die einen Fürsten in seinem Amt bestätigte"
+      "ノヴゴロドの商人だけが納めた税",
+      "北ルーシの木造の農家",
+      "ドニエプル川のコサックの選挙機関",
+      "公をその地位に任じることを確認するハンの勅許状"
     ],
     "answer": 3,
-    "explanation": "Ohne Jarlyk der Goldenen Horde durfte kein russischer Fürst regieren; Moskaus Fürsten erwarben ihn besonders geschickt.",
+    "explanation": "ジョチ・ウルスのヤルリクがなければ、ロシアのどの公も統治できなかった。モスクワの諸公はとりわけ巧みにこれを手に入れた。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-10",
     "epochId": "russland-osteuropa",
-    "question": "Gegen wen kämpfte Alexander Newski 1242 auf dem zugefrorenen Peipussee?",
+    "question": "1242年、アレクサンドル・ネフスキーが凍結したペイプス湖で戦った相手は誰か。",
     "choices": [
-      "Gegen die Goldene Horde",
-      "Gegen den Livländischen Orden",
-      "Gegen das Königreich Schweden",
-      "Gegen das Großfürstentum Litauen"
+      "ジョチ・ウルス",
+      "リヴォニア騎士団",
+      "スウェーデン王国",
+      "リトアニア大公国"
     ],
     "answer": 1,
-    "explanation": "Alexander besiegte ein Heer des Livländischen Ordens, eines Zweigs des Deutschen Ordens; die Schweden hatte er schon 1240 an der Newa geschlagen.",
+    "explanation": "アレクサンドルはドイツ騎士団の分枝であるリヴォニア騎士団の軍を破った。彼はすでに1240年にネヴァ川でスウェーデン人を破っていた。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-11",
     "epochId": "russland-osteuropa",
-    "question": "Wie hieß die Volksversammlung, die in Nowgorod Bürgermeister wählte und Fürsten berief?",
+    "question": "ノヴゴロドで市長を選び、公を招いた民会は何と呼ばれたか。",
     "choices": [
-      "Sejm",
-      "Duma",
-      "Wetsche",
-      "Rada"
+      "セイム",
+      "ドゥーマ",
+      "ヴェーチェ",
+      "ラーダ"
     ],
     "answer": 2,
-    "explanation": "Das Wetsche machte Nowgorod zu einer Stadtrepublik, bis Iwan III. 1478 seine Glocke nach Moskau bringen ließ.",
+    "explanation": "ヴェーチェによってノヴゴロドは都市共和国であったが、1478年にイヴァン3世がその鐘をモスクワへ運ばせた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-12",
     "epochId": "russland-osteuropa",
-    "question": "Worauf schrieben die Menschen in Nowgorod die Alltagsbriefe, die Archäologen seit 1951 im Boden finden?",
+    "question": "1951年以来、考古学者が地中から発見しているノヴゴロドの人々の日常の手紙は、何に書かれていたか。",
     "choices": [
-      "Auf Birkenrinde",
-      "Auf Papyrus",
-      "Auf Tontafeln",
-      "Auf Seide"
+      "白樺の樹皮",
+      "パピルス",
+      "粘土板",
+      "絹"
     ],
     "answer": 0,
-    "explanation": "Über tausend Birkenrindenurkunden zeigen, dass in Nowgorod auch Händler, Handwerker und Frauen lesen und schreiben konnten.",
+    "explanation": "1000点を超える白樺文書は、ノヴゴロドの商人、職人、女性も読み書きができたことを示している。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-13",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Moskauer Fürst trug den Beinamen Kalita, „Geldbeutel“?",
+    "question": "「金袋」を意味するカリタの異名を持つモスクワ公は誰か。",
     "choices": [
-      "Iwan I.",
-      "Iwan III.",
-      "Dmitri Donskoi",
-      "Wassili II."
+      "イヴァン1世",
+      "イヴァン3世",
+      "ドミトリー・ドンスコイ",
+      "ヴァシーリー2世"
     ],
     "answer": 0,
-    "explanation": "Iwan I. zog für die Horde die Tribute ein, kaufte Land auf und holte den Metropoliten nach Moskau.",
+    "explanation": "イヴァン1世はオルダのために貢納を集め、土地を買い集め、府主教をモスクワに迎えた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-14",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Großfürst besiegte 1380 auf dem Kulikowo-Feld ein Heer der Horde?",
+    "question": "1380年、クリコヴォの野でオルダの軍を破った大公は誰か。",
     "choices": [
-      "Alexander Newski",
-      "Iwan IV.",
-      "Dmitri von Moskau",
-      "Jaroslaw der Weise"
+      "アレクサンドル・ネフスキー",
+      "イヴァン4世",
+      "モスクワのドミトリー",
+      "賢公ヤロスラフ"
     ],
     "answer": 2,
-    "explanation": "Nach dem Sieg am Don erhielt Dmitri den Beinamen Donskoi.",
+    "explanation": "ドン川での勝利ののち、ドミトリーはドンスコイの異名を得た。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-15",
     "epochId": "russland-osteuropa",
-    "question": "Wer führte das Heer der Horde 1380 auf dem Kulikowo-Feld?",
+    "question": "1380年、クリコヴォの野でオルダの軍を率いたのは誰か。",
     "choices": [
-      "Khan Batu",
-      "Der Heerführer Mamai",
-      "Khan Achmat",
-      "Timur"
+      "バトゥ・ハン",
+      "武将ママイ",
+      "アフマド・ハン",
+      "ティムール"
     ],
     "answer": 1,
-    "explanation": "Mamai beherrschte damals den westlichen Teil der Horde; zwei Jahre später verwüstete Khan Toktamysch Moskau.",
+    "explanation": "ママイは当時オルダの西部を支配していた。2年後、トクタミシュ・ハンがモスクワを荒廃させた。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-16",
     "epochId": "russland-osteuropa",
-    "question": "Was wurde 1385 in der Union von Krewo vereinbart?",
+    "question": "1385年のクレヴォ合同では何が取り決められたか。",
     "choices": [
-      "Polen und Litauen teilten die Ukraine entlang des Dnjepr",
-      "Moskau zahlte künftig keinen Tribut mehr an die Horde",
-      "Litauen trat Samogitien an den Deutschen Orden ab",
-      "Jogaila sollte sich taufen lassen und die polnische Königin Jadwiga heiraten"
+      "ポーランドとリトアニアがドニエプル川に沿ってウクライナを分割すること",
+      "モスクワがもはやオルダに貢納しないこと",
+      "リトアニアがジェマイティヤをドイツ騎士団に割譲すること",
+      "ヨガイラが洗礼を受け、ポーランド女王ヤドヴィガと結婚すること"
     ],
     "answer": 3,
-    "explanation": "Die Union verband Polen und Litauen in Personalunion und leitete die Christianisierung Litauens ein.",
+    "explanation": "この合同はポーランドとリトアニアを同君連合で結びつけ、リトアニアのキリスト教化を始めた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-17",
     "epochId": "russland-osteuropa",
-    "question": "Wer besiegte 1410 in der Schlacht bei Grunwald (Tannenberg) den Deutschen Orden?",
+    "question": "1410年のグルンヴァルトの戦い（タンネンベルクの戦い）でドイツ騎士団を破ったのは誰か。",
     "choices": [
-      "Ein Heer Moskaus und Nowgorods",
-      "Ein Heer Polens und Litauens",
-      "Ein Heer Schwedens und Dänemarks",
-      "Ein Heer der Goldenen Horde"
+      "モスクワとノヴゴロドの軍",
+      "ポーランドとリトアニアの軍",
+      "スウェーデンとデンマークの軍",
+      "ジョチ・ウルスの軍"
     ],
     "answer": 1,
-    "explanation": "König Władysław II. Jagiełło und Großfürst Vytautas siegten; der Hochmeister Ulrich von Jungingen fiel.",
+    "explanation": "国王ヴワディスワフ2世ヤギェウォとヴィタウタス大公が勝利し、騎士団総長ウルリッヒ・フォン・ユンギンゲンが戦死した。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-18",
     "epochId": "russland-osteuropa",
-    "question": "Was geschah 1480 beim Stehen an der Ugra?",
+    "question": "1480年のウグラ河畔の対峙では何が起こったか。",
     "choices": [
-      "Iwan IV. eroberte nach langer Belagerung die Stadt Kasan",
-      "Litauen und Polen schlossen sich zu einem gemeinsamen Staat zusammen",
-      "Die Mongolen besiegten erstmals ein Heer der russischen Fürsten",
-      "Der Khan zog nach wochenlangem Gegenüberstehen ab, und Moskau zahlte keinen Tribut mehr"
+      "イヴァン4世が長い包囲の末にカザンを攻略した",
+      "リトアニアとポーランドが共通の国家に統合された",
+      "モンゴルが初めてロシア諸公の軍を破った",
+      "数週間の対峙の末にハンが撤退し、モスクワは貢納をやめた"
     ],
     "answer": 3,
-    "explanation": "Ohne große Schlacht endete die Abhängigkeit Moskaus von der Horde; spätere Geschichtsschreiber setzten hier das Ende des „Tatarenjochs“.",
+    "explanation": "大きな戦闘のないまま、モスクワのオルダへの従属は終わった。後世の歴史家は、ここに「タタールのくびき」の終わりを置いた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-19",
     "epochId": "russland-osteuropa",
-    "question": "Welche Nichte des letzten byzantinischen Kaisers heiratete Iwan III. im Jahr 1472?",
+    "question": "1472年にイヴァン3世が結婚した、最後のビザンツ皇帝の姪は誰か。",
     "choices": [
-      "Sophia Palaiologa",
-      "Anna Komnena",
-      "Theodora Kantakuzene",
-      "Irene Dukaina"
+      "ソフィア・パレオロギナ",
+      "アンナ・コムネナ",
+      "テオドラ・カンタクゼネ",
+      "エイレーネー・ドゥーカイナ"
     ],
     "answer": 0,
-    "explanation": "Die Heirat unterstrich Moskaus Anspruch auf das Erbe von Byzanz; unter Iwan III. kam auch der Doppeladler in Gebrauch.",
+    "explanation": "この結婚はビザンツの遺産に対するモスクワの要求を強調するものであった。双頭の鷲もイヴァン3世のもとで用いられるようになった。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-20",
     "epochId": "russland-osteuropa",
-    "question": "Welche Stadtrepublik musste sich 1478 endgültig Iwan III. unterwerfen?",
+    "question": "1478年にイヴァン3世に最終的に服属せざるをえなかった都市共和国はどれか。",
     "choices": [
-      "Pskow",
-      "Danzig",
-      "Nowgorod",
-      "Riga"
+      "プスコフ",
+      "グダニスク",
+      "ノヴゴロド",
+      "リガ"
     ],
     "answer": 2,
-    "explanation": "Iwan III. ließ die Wetsche-Glocke Nowgorods nach Moskau bringen und viele Bojarenfamilien umsiedeln.",
+    "explanation": "イヴァン3世はノヴゴロドのヴェーチェの鐘をモスクワへ運ばせ、多くのボヤールの家族を移住させた。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-21",
     "epochId": "russland-osteuropa",
-    "question": "In welchem Jahr ließ sich Iwan IV. zum Zaren krönen?",
+    "question": "イヴァン4世がツァーリとして戴冠したのは何年か。",
     "choices": [
-      "1480",
-      "1613",
-      "1547",
-      "1721"
+      "1480年",
+      "1613年",
+      "1547年",
+      "1721年"
     ],
     "answer": 2,
-    "explanation": "Am 16. Januar 1547 krönte Metropolit Makari ihn im Kreml als ersten russischen Herrscher zum Zaren.",
+    "explanation": "1547年1月16日、府主教マカリーがクレムリンで彼を戴冠させた。ツァーリの称号を帯びた最初のロシアの支配者である。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-22",
     "epochId": "russland-osteuropa",
-    "question": "Welches Khanat an der Wolga eroberte Iwan IV. im Jahr 1552?",
+    "question": "1552年にイヴァン4世が征服したヴォルガ川のハン国はどれか。",
     "choices": [
-      "Kasan",
-      "Krim",
-      "Sibir",
-      "Chiwa"
+      "カザン",
+      "クリミア",
+      "シビル",
+      "ヒヴァ"
     ],
     "answer": 0,
-    "explanation": "Mit Kasan und vier Jahre später Astrachan kontrollierte Moskau die ganze Wolga.",
+    "explanation": "カザンと、4年後のアストラハンによって、モスクワはヴォルガ川の全域を支配した。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-23",
     "epochId": "russland-osteuropa",
-    "question": "Welches Bauwerk am Roten Platz erinnert an die Eroberung Kasans?",
+    "question": "赤の広場にある、カザン征服を記念する建物はどれか。",
     "choices": [
-      "Die Sophienkathedrale",
-      "Die Isaakskathedrale",
-      "Die Peter-und-Paul-Kathedrale",
-      "Die Basilius-Kathedrale"
+      "聖ソフィア大聖堂",
+      "聖イサアク大聖堂",
+      "ペトロパヴロフスク大聖堂",
+      "聖ワシリイ大聖堂"
     ],
     "answer": 3,
-    "explanation": "Die farbenprächtige Basilius-Kathedrale wurde von 1555 bis 1561 als Dankeskirche für den Sieg errichtet.",
+    "explanation": "色鮮やかな聖ワシリイ大聖堂は、勝利への感謝の教会として1555年から1561年にかけて建てられた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-24",
     "epochId": "russland-osteuropa",
-    "question": "Was war die Opritschnina?",
+    "question": "オプリーチニナとは何か。",
     "choices": [
-      "Eine Landesversammlung, die 1613 den neuen Zaren wählte",
-      "Ein Sondergebiet Iwans IV., von dem aus seine Leibgarde vermeintliche Verräter verfolgte",
-      "Die Selbstverwaltung der Bauern in den Dörfern des Zarenreichs",
-      "Der Sitz der Saporoger Kosaken auf einer Insel im Dnjepr"
+      "1613年に新しいツァーリを選んだ全国会議",
+      "イヴァン4世の特別領で、そこから彼の親衛隊が裏切り者とされた人々を迫害した",
+      "ツァーリ帝国の村々における農民の自治",
+      "ドニエプル川の島にあったザポロージャ・コサックの本拠"
     ],
     "answer": 1,
-    "explanation": "Von 1565 bis 1572 terrorisierten die Opritschniki Bojaren, Geistliche und ganze Städte.",
+    "explanation": "1565年から1572年まで、オプリーチニキはボヤール、聖職者、さらには町全体を恐怖に陥れた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-25",
     "epochId": "russland-osteuropa",
-    "question": "Welche Stadt ließ Iwan IV. Anfang 1570 von den Opritschniki verwüsten?",
+    "question": "1570年初め、イヴァン4世がオプリーチニキに荒廃させた都市はどれか。",
     "choices": [
-      "Kasan",
-      "Twer",
-      "Kiew",
-      "Nowgorod"
+      "カザン",
+      "トヴェリ",
+      "キエフ",
+      "ノヴゴロド"
     ],
     "answer": 3,
-    "explanation": "Iwan verdächtigte Nowgorod des Verrats; Tausende Einwohner wurden getötet, genaue Zahlen sind unbekannt.",
+    "explanation": "イヴァンはノヴゴロドに裏切りの疑いをかけた。数千人の住民が殺されたが、正確な数は分かっていない。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-26",
     "epochId": "russland-osteuropa",
-    "question": "Mit dem Tod welches Zaren erlosch 1598 die Moskauer Linie der Rjurikiden?",
+    "question": "1598年、どのツァーリの死によってリューリク朝のモスクワの系統は断絶したか。",
     "choices": [
-      "Iwan IV.",
-      "Fjodor I.",
-      "Boris Godunow",
-      "Michail Romanow"
+      "イヴァン4世",
+      "フョードル1世",
+      "ボリス・ゴドゥノフ",
+      "ミハイル・ロマノフ"
     ],
     "answer": 1,
-    "explanation": "Nach dem Tod des kinderlosen Fjodor I. begann die Zeit der Wirren.",
+    "explanation": "子のないフョードル1世の死後、動乱時代が始まった。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-27",
     "epochId": "russland-osteuropa",
-    "question": "Wer führte 1612 das Volksaufgebot an, das die polnisch-litauische Besatzung aus Moskau vertrieb?",
+    "question": "1612年にポーランド・リトアニアの占領者をモスクワから追い出した国民軍を率いたのは誰か。",
     "choices": [
-      "Stenka Rasin und Jemeljan Pugatschow",
-      "Boris Godunow und Patriarch Filaret",
-      "Kusma Minin und Fürst Dmitri Poscharski",
-      "Alexander Newski und Dmitri Donskoi"
+      "ステンカ・ラージンとエメリヤン・プガチョフ",
+      "ボリス・ゴドゥノフと総主教フィラレート",
+      "クジマ・ミーニンとドミトリー・ポジャルスキー公",
+      "アレクサンドル・ネフスキーとドミトリー・ドンスコイ"
     ],
     "answer": 2,
-    "explanation": "Der Kaufmann Minin aus Nischni Nowgorod und Fürst Poscharski befreiten im Herbst 1612 den Kreml.",
+    "explanation": "ニジニ・ノヴゴロドの商人ミーニンとポジャルスキー公は、1612年秋にクレムリンを解放した。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-28",
     "epochId": "russland-osteuropa",
-    "question": "Welche Versammlung wählte 1613 Michail Romanow zum Zaren?",
+    "question": "1613年にミハイル・ロマノフをツァーリに選出した集会はどれか。",
     "choices": [
-      "Der Semski Sobor",
-      "Der Heilige Synod",
-      "Das Wetsche",
-      "Der Sejm"
+      "ゼムスキー・ソボル",
+      "聖宗務院",
+      "ヴェーチェ",
+      "セイム"
     ],
     "answer": 0,
-    "explanation": "Der Semski Sobor war eine Landesversammlung aus Vertretern von Adel, Geistlichkeit, Städten und Kosaken.",
+    "explanation": "ゼムスキー・ソボルは、貴族、聖職者、都市、コサックの代表からなる全国会議であった。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-29",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Staat entstand 1569 durch die Union von Lublin?",
+    "question": "1569年のルブリン合同によって生まれた国家はどれか。",
     "choices": [
-      "Die Republik beider Nationen (Polen-Litauen)",
-      "Das Großfürstentum Moskau",
-      "Das Kosaken-Hetmanat",
-      "Das Königreich Galizien"
+      "両国民の共和国（ポーランド・リトアニア）",
+      "モスクワ大公国",
+      "コサックのヘトマン国家",
+      "ガリツィア王国"
     ],
     "answer": 0,
-    "explanation": "Polen und Litauen erhielten einen gemeinsamen König und Reichstag, behielten aber eigene Ämter und Gesetze.",
+    "explanation": "ポーランドとリトアニアは共通の国王と議会を得たが、それぞれの官職と法は保持した。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-30",
     "epochId": "russland-osteuropa",
-    "question": "Was bedeutete das Liberum Veto im polnisch-litauischen Reichstag?",
+    "question": "ポーランド・リトアニアの議会におけるリベルム・ヴェトとは何を意味したか。",
     "choices": [
-      "Der König durfte jedes Gesetz ohne Begründung ablehnen",
-      "Bauern durften gegen ihren Gutsherrn vor Gericht klagen",
-      "Ein einzelner Abgeordneter konnte durch seinen Einspruch Beschlüsse verhindern",
-      "Jeder Adlige durfte seine Konfession frei wählen"
+      "国王が理由を示さずにあらゆる法を拒否できた",
+      "農民が領主を法廷に訴えることができた",
+      "一人の議員の異議によって決定を阻止できた",
+      "すべての貴族が宗派を自由に選べた"
     ],
     "answer": 2,
-    "explanation": "Das Einstimmigkeitsprinzip lähmte im 17. und 18. Jahrhundert die Republik, bis die Verfassung von 1791 es abschaffte.",
+    "explanation": "全会一致の原則は17～18世紀に共和国を麻痺させ、1791年の憲法によって廃止された。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-31",
     "epochId": "russland-osteuropa",
-    "question": "Was entstand 1596 durch die Union von Brest?",
+    "question": "1596年のブレスト合同によって何が生まれたか。",
     "choices": [
-      "Ein Bündnis zwischen Polen-Litauen und Schweden gegen Moskau",
-      "Die griechisch-katholische Kirche, die den Papst anerkannte und den östlichen Ritus behielt",
-      "Die erste Universität im Großfürstentum Litauen",
-      "Ein Friedensvertrag zwischen den Kosaken und den Krimtataren"
+      "モスクワに対するポーランド・リトアニアとスウェーデンの同盟",
+      "教皇を承認し東方典礼を保持するギリシア・カトリック教会",
+      "リトアニア大公国で最初の大学",
+      "コサックとクリミア・タタールの講和条約"
     ],
     "answer": 1,
-    "explanation": "Ein Teil der orthodoxen Bischöfe in Polen-Litauen unterstellte sich Rom; ihre Kirche ist besonders in der Westukraine bis heute verbreitet.",
+    "explanation": "ポーランド・リトアニアの正教会の司教の一部がローマの下に入った。その教会は今もとりわけウクライナ西部に広く根づいている。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-32",
     "epochId": "russland-osteuropa",
-    "question": "In welcher Stadt druckte Francysk Skaryna aus Polazk 1517 seinen Psalter?",
+    "question": "1517年、ポロツクのフランツィスク・スカリナが詩篇を印刷した都市はどこか。",
     "choices": [
-      "Krakau",
-      "Moskau",
-      "Venedig",
-      "Prag"
+      "クラクフ",
+      "モスクワ",
+      "ヴェネツィア",
+      "プラハ"
     ],
     "answer": 3,
-    "explanation": "Skaryna druckte von 1517 bis 1519 in Prag biblische Bücher in einer ostslawischen Schriftsprache und später in Wilna.",
+    "explanation": "1517年から1519年にかけて、スカリナはプラハで東スラヴの文章語による聖書の書物を印刷し、のちにヴィリニュスで活動した。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-33",
     "epochId": "russland-osteuropa",
-    "question": "Wer führte 1648 den großen Aufstand der Kosaken gegen Polen-Litauen an?",
+    "question": "1648年、ポーランド・リトアニアに対するコサックの大蜂起を指導したのは誰か。",
     "choices": [
-      "Iwan Mazepa",
-      "Bohdan Chmelnyzkyj",
-      "Stenka Rasin",
-      "Jermak"
+      "イヴァン・マゼーパ",
+      "ボフダン・フメリニツキー",
+      "ステンカ・ラージン",
+      "イェルマーク"
     ],
     "answer": 1,
-    "explanation": "Chmelnyzkyj errichtete nach den ersten Siegen ein Hetmanat in der Ukraine.",
+    "explanation": "最初の勝利ののち、フメリニツキーはウクライナにヘトマン国家を樹立した。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-34",
     "epochId": "russland-osteuropa",
-    "question": "In welchem Ort unterstellte sich Chmelnyzkyj 1654 dem Zaren?",
+    "question": "1654年、フメリニツキーがツァーリの保護下に入った場所はどこか。",
     "choices": [
-      "Poltawa",
-      "Andrussowo",
-      "Baturyn",
-      "Perejaslaw"
+      "ポルタヴァ",
+      "アンドルソヴォ",
+      "バトゥーリン",
+      "ペレヤスラフ"
     ],
     "answer": 3,
-    "explanation": "Die Vereinbarung von Perejaslaw deuten ukrainische und russische Historiker bis heute verschieden.",
+    "explanation": "ペレヤスラフの協定は、今もウクライナとロシアの歴史家によって異なって解釈されている。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-35",
     "epochId": "russland-osteuropa",
-    "question": "Wie hieß das befestigte Zentrum der Saporoger Kosaken am unteren Dnjepr?",
+    "question": "ドニエプル川下流にあったザポロージャ・コサックの要塞化された本拠は何と呼ばれたか。",
     "choices": [
-      "Sitsch",
-      "Kreml",
-      "Posad",
-      "Ostrog"
+      "シーチ",
+      "クレムリン",
+      "ポサード",
+      "オストログ"
     ],
     "answer": 0,
-    "explanation": "Die Saporoger Sitsch lag jenseits der Stromschnellen des Dnjepr, daher der Name „Saporoger“, „hinter den Stromschnellen“.",
+    "explanation": "ザポロージャのシーチはドニエプル川の早瀬の向こうにあった。「ザポロージャ」という名はそこに由来し、「早瀬の向こう」を意味する。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-36",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Patriarch löste mit seinen Kirchenreformen im 17. Jahrhundert die russische Kirchenspaltung aus?",
+    "question": "17世紀にロシア教会の分裂を引き起こした教会改革を行った総主教は誰か。",
     "choices": [
-      "Filaret",
-      "Makari",
-      "Nikon",
-      "Hilarion"
+      "フィラレート",
+      "マカリー",
+      "ニコン",
+      "イラリオン"
     ],
     "answer": 2,
-    "explanation": "Nikon ließ Bücher und Riten nach griechischem Vorbild ändern; das Konzil von 1666/67 bestätigte die Reformen.",
+    "explanation": "ニコンは典礼書と儀式をギリシアの模範に合わせて変更させた。1666～1667年の教会会議が改革を承認した。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-37",
     "epochId": "russland-osteuropa",
-    "question": "Wie nennt man die Gläubigen, die die Kirchenreformen des 17. Jahrhunderts ablehnten?",
+    "question": "17世紀の教会改革を拒否した信者たちは何と呼ばれるか。",
     "choices": [
-      "Unierte",
-      "Hussiten",
-      "Altgläubige",
-      "Täufer"
+      "合同派",
+      "フス派",
+      "古儀式派",
+      "再洗礼派"
     ],
     "answer": 2,
-    "explanation": "Die Altgläubigen hielten an den alten Riten fest, etwa am Kreuzzeichen mit zwei Fingern, und wurden lange verfolgt.",
+    "explanation": "古儀式派は2本の指で十字を切るといった古い儀式を守り、長く迫害された。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-38",
     "epochId": "russland-osteuropa",
-    "question": "Bei welcher Stadt in der heutigen Ukraine besiegte Peter der Große 1709 das Heer Karls XII.?",
+    "question": "1709年、ピョートル大帝がカール12世の軍を破ったのは、現在のウクライナのどの町の近くか。",
     "choices": [
-      "Poltawa",
-      "Narva",
-      "Kiew",
-      "Asow"
+      "ポルタヴァ",
+      "ナルヴァ",
+      "キエフ",
+      "アゾフ"
     ],
     "answer": 0,
-    "explanation": "Der Sieg bei Poltawa beendete Schwedens Vormacht im Norden und machte Russland zur Großmacht.",
+    "explanation": "ポルタヴァでの勝利は北方におけるスウェーデンの覇権を終わらせ、ロシアを大国にした。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-39",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Kosakenhetman lief im Großen Nordischen Krieg zu Karl XII. über?",
+    "question": "大北方戦争中にカール12世の側についたコサックのヘトマンは誰か。",
     "choices": [
-      "Bohdan Chmelnyzkyj",
-      "Petro Doroschenko",
-      "Pylyp Orlyk",
-      "Iwan Mazepa"
+      "ボフダン・フメリニツキー",
+      "ペトロ・ドロシェンコ",
+      "ピリプ・オルリク",
+      "イヴァン・マゼーパ"
     ],
     "answer": 3,
-    "explanation": "Mazepa erhoffte sich von Schweden die Selbstständigkeit des Hetmanats und floh nach Poltawa mit Karl ins Osmanische Reich.",
+    "explanation": "マゼーパはスウェーデンがヘトマン国家の独立を確保してくれると期待し、ポルタヴァの後、カールとともにオスマン帝国へ逃れた。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-40",
     "epochId": "russland-osteuropa",
-    "question": "Was beschloss der polnisch-litauische Reichstag am 3. Mai 1791?",
+    "question": "1791年5月3日、ポーランド・リトアニアの議会は何を採択したか。",
     "choices": [
-      "Die Abtretung Litauens an Russland",
-      "Eine Verfassung, die das Liberum Veto abschaffte",
-      "Die Wahl eines russischen Großfürsten zum König",
-      "Die Aufhebung der Union mit Litauen"
+      "リトアニアのロシアへの割譲",
+      "リベルム・ヴェトを廃止する憲法",
+      "ロシアの大公を国王に選ぶこと",
+      "リトアニアとの合同の解消"
     ],
     "answer": 1,
-    "explanation": "Die Verfassung vom 3. Mai gilt als erste moderne geschriebene Verfassung Europas; der Tag ist polnischer Nationalfeiertag.",
+    "explanation": "5月3日憲法はヨーロッパ初の近代的な成文憲法とされ、この日はポーランドの祝日である。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-41",
     "epochId": "russland-osteuropa",
-    "question": "Wer führte 1794 den Aufstand gegen Russland und Preußen an?",
+    "question": "1794年にロシアとプロイセンに対する蜂起を率いたのは誰か。",
     "choices": [
-      "Józef Piłsudski",
-      "Adam Mickiewicz",
-      "Stanisław August Poniatowski",
-      "Tadeusz Kościuszko"
+      "ユゼフ・ピウスツキ",
+      "アダム・ミツキェヴィチ",
+      "スタニスワフ・アウグスト・ポニャトフスキ",
+      "タデウシュ・コシチュシュコ"
     ],
     "answer": 3,
-    "explanation": "Kościuszko siegte bei Racławice, wurde aber im Oktober 1794 bei Maciejowice gefangen genommen.",
+    "explanation": "コシチュシュコはラツワヴィツェで勝利したが、1794年10月にマチェヨヴィツェで捕らえられた。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-42",
     "epochId": "russland-osteuropa",
-    "question": "In welchem Jahr verschwand Polen-Litauen mit der dritten Teilung von der Landkarte?",
+    "question": "ポーランド・リトアニアが第3次分割によって地図から消えたのは何年か。",
     "choices": [
-      "1772",
-      "1795",
-      "1793",
-      "1815"
+      "1772年",
+      "1795年",
+      "1793年",
+      "1815年"
     ],
     "answer": 1,
-    "explanation": "Russland, Preußen und Österreich teilten 1795 den verbliebenen Rest unter sich auf.",
+    "explanation": "1795年、ロシア、プロイセン、オーストリアは残りの領土を互いに分け合った。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-43",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Seefahrer in russischen Diensten erreichte 1741 die Küste Alaskas?",
+    "question": "1741年にアラスカの海岸に到達した、ロシアに仕えた航海者は誰か。",
     "choices": [
-      "James Cook",
-      "Semjon Deschnjow",
-      "Vitus Bering",
-      "Iwan Krusenstern"
+      "ジェームズ・クック",
+      "セミョン・デジニョフ",
+      "ヴィトゥス・ベーリング",
+      "アダム・ヨハン・フォン・クルーゼンシュテルン"
     ],
     "answer": 2,
-    "explanation": "Der Däne Vitus Bering leitete die Große Nordische Expedition; er starb 1741 auf der später nach ihm benannten Beringinsel.",
+    "explanation": "デンマーク人ヴィトゥス・ベーリングは大北方探検隊を率い、1741年に、のちに彼の名を冠することになる島で死去した。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-44",
     "epochId": "russland-osteuropa",
-    "question": "An welchen Staat verkaufte Russland 1867 Alaska?",
+    "question": "1867年にロシアがアラスカを売却した国はどこか。",
     "choices": [
-      "An die Vereinigten Staaten",
-      "An Großbritannien",
-      "An Kanada",
-      "An Japan"
+      "アメリカ合衆国",
+      "イギリス",
+      "カナダ",
+      "日本"
     ],
     "answer": 0,
-    "explanation": "Die USA zahlten 7,2 Millionen Dollar; Kanada wurde erst im selben Jahr ein eigenständiges Dominion.",
+    "explanation": "アメリカ合衆国は720万ドルを支払った。カナダは同じ年にようやく自治領となったばかりであった。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-45",
     "epochId": "russland-osteuropa",
-    "question": "Woher haben die Dekabristen ihren Namen?",
+    "question": "デカブリストという名はどこから来ているか。",
     "choices": [
-      "Von ihrem Aufstand im Dezember 1825",
-      "Von ihren zehn Gründungsmitgliedern",
-      "Vom Dekret des Zaren, das sie verbannte",
-      "Von der Dekade, die sie in der Verbannung verbringen mussten"
+      "1825年12月の彼らの反乱から",
+      "10人の創設メンバーから",
+      "彼らを流刑にしたツァーリの勅令から",
+      "彼らが流刑地で過ごさねばならなかった10年間から"
     ],
     "answer": 0,
-    "explanation": "Das russische Wort für Dezember ist „dekabr“; der Aufstand fand am 14. Dezember 1825 statt.",
+    "explanation": "ロシア語で12月は「デカーブリ」という。反乱は1825年12月14日に起こった。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-46",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Zar hob 1861 die Leibeigenschaft in Russland auf?",
+    "question": "1861年にロシアで農奴制を廃止したツァーリは誰か。",
     "choices": [
-      "Nikolaus I.",
-      "Alexander I.",
-      "Alexander II.",
-      "Alexander III."
+      "ニコライ1世",
+      "アレクサンドル1世",
+      "アレクサンドル2世",
+      "アレクサンドル3世"
     ],
     "answer": 2,
-    "explanation": "Mit dem Manifest vom 19. Februar 1861 nach julianischem Kalender wurden rund 23 Millionen private Leibeigene frei.",
+    "explanation": "ユリウス暦1861年2月19日の勅書によって、私有の農奴約2300万人が解放された。",
     "difficulty": 1
   },
   {
     "id": "q-russland-osteuropa-47",
     "epochId": "russland-osteuropa",
-    "question": "Was waren die Semstwa, die 1864 im Zarenreich eingeführt wurden?",
+    "question": "1864年にツァーリ帝国で導入されたゼムストヴォとは何か。",
     "choices": [
-      "Militärkolonien an der Grenze zur Steppe",
-      "Gewählte Organe der örtlichen Selbstverwaltung",
-      "Staatliche Branntweinmonopole",
-      "Geheime Polizeibehörden des Zaren"
+      "ステップとの境界に置かれた屯田植民地",
+      "選挙で選ばれる地方自治機関",
+      "酒類の国家専売",
+      "ツァーリの秘密警察機関"
     ],
     "answer": 1,
-    "explanation": "Die Semstwa kümmerten sich um Schulen, Gesundheit und Straßen auf dem Land; in ihnen waren Adel, Städter und Bauern vertreten.",
+    "explanation": "ゼムストヴォは農村の学校、保健、道路を担い、貴族、都市民、農民がそこに代表を送った。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-48",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Gedichtband Taras Schewtschenkos wurde 1840 zum Grundstein der modernen ukrainischen Literatur?",
+    "question": "1840年に近代ウクライナ文学の礎となったタラス・シェフチェンコの詩集はどれか。",
     "choices": [
-      "Eugen Onegin",
-      "Pan Tadeusz",
-      "Die toten Seelen",
-      "Kobsar"
+      "『エヴゲーニイ・オネーギン』",
+      "『パン・タデウシュ』",
+      "『死せる魂』",
+      "『コブザール』"
     ],
     "answer": 3,
-    "explanation": "Der „Kobsar“ besang in ukrainischer Sprache die Geschichte der Kosaken und das Leid der Bauern.",
+    "explanation": "『コブザール』は、ウクライナ語でコサックの歴史と農民の苦しみを歌い上げた。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-49",
     "epochId": "russland-osteuropa",
-    "question": "Was verbot der Emser Erlass von 1876?",
+    "question": "1876年のエムス法は何を禁止したか。",
     "choices": [
-      "Die Auswanderung von Bauern nach Sibirien",
-      "Den Druck und die Einfuhr der meisten Bücher in ukrainischer Sprache",
-      "Den Gebrauch der polnischen Sprache in der Kirche",
-      "Die Gründung von Gewerkschaften in den Fabriken"
+      "農民のシベリアへの移住",
+      "ウクライナ語の書物の大部分の印刷と輸入",
+      "教会でのポーランド語の使用",
+      "工場での労働組合の結成"
     ],
     "answer": 1,
-    "explanation": "Ukrainische Autoren wichen daraufhin nach Galizien unter österreichischer Herrschaft aus.",
+    "explanation": "そのためウクライナの作家たちは、活動の場をオーストリア支配下のガリツィアに移した。",
     "difficulty": 3
   },
   {
     "id": "q-russland-osteuropa-50",
     "epochId": "russland-osteuropa",
-    "question": "Welches Ereignis vom Januar 1905 löste die erste russische Revolution aus?",
+    "question": "1905年1月、ロシア第一革命の引き金となった出来事はどれか。",
     "choices": [
-      "Die Ermordung Alexanders II.",
-      "Die Meuterei auf dem Panzerkreuzer Potemkin",
-      "Der Fall der Festung Sewastopol",
-      "Der Blutsonntag in St. Petersburg"
+      "アレクサンドル2世の暗殺",
+      "戦艦ポチョムキンの反乱",
+      "セヴァストポリ要塞の陥落",
+      "サンクトペテルブルクの血の日曜日事件"
     ],
     "answer": 3,
-    "explanation": "Soldaten schossen auf einen friedlichen Zug von Arbeitern, die dem Zaren eine Bittschrift überbringen wollten.",
+    "explanation": "ツァーリに請願書を届けようとした労働者の平和的な行進に、兵士たちが発砲した。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-51",
     "epochId": "russland-osteuropa",
-    "question": "Was versprach Nikolaus II. im Oktobermanifest von 1905?",
+    "question": "1905年の十月宣言でニコライ2世は何を約束したか。",
     "choices": [
-      "Grundrechte und eine gewählte Duma",
-      "Die Abschaffung der Monarchie",
-      "Die Rückgabe der Teilungsgebiete an Polen",
-      "Das sofortige Ende des Kriegs gegen Deutschland"
+      "市民的権利と選挙によるドゥーマ",
+      "君主制の廃止",
+      "分割された領土のポーランドへの返還",
+      "ドイツとの戦争の即時終結"
     ],
     "answer": 0,
-    "explanation": "Die Duma hatte jedoch begrenzte Rechte, und der Zar löste die ersten beiden rasch wieder auf.",
+    "explanation": "しかしドゥーマの権限は限られており、ツァーリは最初の二つのドゥーマをまもなく解散した。",
     "difficulty": 2
   },
   {
     "id": "q-russland-osteuropa-52",
     "epochId": "russland-osteuropa",
-    "question": "Welcher Zar dankte nach der Februarrevolution 1917 ab?",
+    "question": "1917年の二月革命の後に退位したツァーリは誰か。",
     "choices": [
-      "Alexander III.",
-      "Nikolaus I.",
-      "Nikolaus II.",
-      "Alexander II."
+      "アレクサンドル3世",
+      "ニコライ1世",
+      "ニコライ2世",
+      "アレクサンドル2世"
     ],
     "answer": 2,
-    "explanation": "Mit der Abdankung Nikolaus’ II. im März 1917 endete die Herrschaft der Romanows nach über 300 Jahren.",
+    "explanation": "1917年3月のニコライ2世の退位によって、300年以上続いたロマノフ家の支配は終わった。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-01",
     "epochId": "suedostasien",
-    "question": "In welchem heutigen Staat liegt der buddhistische Tempelberg Borobudur?",
+    "question": "仏教の寺院山ボロブドゥールは現在のどの国にあるか。",
     "choices": [
-      "Kambodscha",
-      "Indonesien",
-      "Thailand",
-      "Myanmar"
+      "カンボジア",
+      "インドネシア",
+      "タイ",
+      "ミャンマー"
     ],
     "answer": 1,
-    "explanation": "Borobudur liegt in Zentraljava in Indonesien und wurde um 780 bis 830 unter der Dynastie der Shailendra errichtet.",
+    "explanation": "ボロブドゥールはインドネシアの中部ジャワにあり、シャイレーンドラ朝のもとで780年頃から830年頃にかけて建てられた。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-02",
     "epochId": "suedostasien",
-    "question": "In welchem Flussdelta lag Óc Eo, der Hafen des Reiches Funan?",
+    "question": "扶南の港オケオはどの川のデルタにあったか。",
     "choices": [
-      "Irrawaddy",
-      "Chao Phraya",
-      "Mekong",
-      "Roter Fluss"
+      "エーヤワディー川",
+      "チャオプラヤー川",
+      "メコン川",
+      "紅河"
     ],
     "answer": 2,
-    "explanation": "Óc Eo lag im Mekongdelta im heutigen Südvietnam; Funde von dort stammen aus Indien, China und sogar dem Römischen Reich.",
+    "explanation": "オケオは現在のベトナム南部のメコン・デルタにあった。そこでの出土品はインド、中国、さらにはローマ帝国に由来する。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-03",
     "epochId": "suedostasien",
-    "question": "Welcher Religion war der Borobudur gewidmet?",
+    "question": "ボロブドゥールはどの宗教に捧げられたか。",
     "choices": [
-      "Buddhismus",
-      "Hinduismus",
-      "Islam",
-      "Jainismus"
+      "仏教",
+      "ヒンドゥー教",
+      "イスラーム",
+      "ジャイナ教"
     ],
     "answer": 0,
-    "explanation": "Borobudur ist ein buddhistisches Heiligtum des Mahayana; seine Reliefs zeigen das Leben des Buddha und den Weg zur Erleuchtung.",
+    "explanation": "ボロブドゥールは大乗仏教の聖域であり、その浮彫はブッダの生涯と悟りへの道を表している。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-04",
     "epochId": "suedostasien",
-    "question": "Welche Meerenge kontrollierte das Reich Srivijaya von Sumatra aus?",
+    "question": "シュリーヴィジャヤ王国がスマトラから支配した海峡はどれか。",
     "choices": [
-      "Straße von Hormus",
-      "Bosporus",
-      "Straße von Gibraltar",
-      "Straße von Malakka"
+      "ホルムズ海峡",
+      "ボスポラス海峡",
+      "ジブラルタル海峡",
+      "マラッカ海峡"
     ],
     "answer": 3,
-    "explanation": "Srivijaya beherrschte von Palembang aus die Straße von Malakka und die Sundastraße, über die der Seehandel zwischen Indien und China lief.",
+    "explanation": "パレンバンを拠点に、シュリーヴィジャヤはインドと中国の間の海上交易が通るマラッカ海峡とスンダ海峡を支配した。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-05",
     "epochId": "suedostasien",
-    "question": "Welcher König ließ sich 802 auf dem Phnom Kulen zum Weltenherrscher weihen und begründete das Khmer-Reich?",
+    "question": "802年にプノン・クーレンで転輪聖王として聖別され、クメール王国を創始した王は誰か。",
     "choices": [
-      "Suryavarman II.",
-      "Jayavarman VII.",
-      "Jayavarman II.",
-      "Yasovarman I."
+      "スーリヤヴァルマン2世",
+      "ジャヤーヴァルマン7世",
+      "ジャヤーヴァルマン2世",
+      "ヤショーヴァルマン1世"
     ],
     "answer": 2,
-    "explanation": "Jayavarman II. erklärte 802 die Unabhängigkeit der Khmer und legte den Grundstein des Reiches von Angkor.",
+    "explanation": "802年、ジャヤーヴァルマン2世はクメールの独立を宣言し、アンコール王国の基礎を築いた。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-06",
     "epochId": "suedostasien",
-    "question": "In welchem Jahr besiegte Ngô Quyền die chinesische Flotte am Bạch-Đằng-Fluss?",
+    "question": "ゴ・クエンが白藤江で中国の艦隊を破ったのは何年か。",
     "choices": [
-      "938",
-      "1010",
-      "1288",
-      "1428"
+      "938年",
+      "1010年",
+      "1288年",
+      "1428年"
     ],
     "answer": 0,
-    "explanation": "Der Sieg von 938 beendete rund tausend Jahre chinesischer Herrschaft über das heutige Nordvietnam.",
+    "explanation": "938年の勝利は、現在のベトナム北部に対する約1000年にわたる中国の支配を終わらせた。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-07",
     "epochId": "suedostasien",
-    "question": "Mit welcher List gewann Ngô Quyền die Schlacht am Bạch Đằng?",
+    "question": "ゴ・クエンは白藤江の戦いに勝つためにどんな策略を用いたか。",
     "choices": [
-      "Er staute den Fluss und ließ die Flotte auf Grund laufen",
-      "Er schickte brennende Flöße gegen die Schiffe",
-      "Er ließ eine Brücke über den Fluss einstürzen",
-      "Er ließ eisenbeschlagene Pfähle ins Flussbett rammen, auf denen sich die Schiffe bei Ebbe aufspießten"
+      "川をせき止めて艦隊を座礁させた",
+      "燃える筏を船に向けて流した",
+      "川に架かる橋を崩落させた",
+      "鉄の先端をつけた杭を川底に打ち込み、引き潮で船を突き刺させた"
     ],
     "answer": 3,
-    "explanation": "Ngô Quyền lockte die Flotte bei Flut über die verborgenen Pfähle; als das Wasser fiel, saßen die Schiffe fest und wurden vernichtet.",
+    "explanation": "ゴ・クエンは満潮時に艦隊を隠された杭の上へ誘い込んだ。水が引くと船は動けなくなり、撃破された。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-08",
     "epochId": "suedostasien",
-    "question": "Welche Hauptstadt mit dem Bayon in ihrer Mitte ließ Jayavarman VII. errichten?",
+    "question": "ジャヤーヴァルマン7世が建設した、中心にバイヨンを持つ都はどれか。",
     "choices": [
-      "Hariharalaya",
-      "Angkor Thom",
-      "Oudong",
-      "Phnom Penh"
+      "ハリハラーラヤ",
+      "アンコール・トム",
+      "ウドン",
+      "プノンペン"
     ],
     "answer": 1,
-    "explanation": "Jayavarman VII. baute nach 1181 die ummauerte Stadt Angkor Thom, in deren Zentrum der Bayon steht.",
+    "explanation": "1181年以後、ジャヤーヴァルマン7世は城壁に囲まれた都アンコール・トムを建設し、その中心にバイヨンが立つ。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-09",
     "epochId": "suedostasien",
-    "question": "Wofür sind die Türme des Bayon in Angkor berühmt?",
+    "question": "アンコールのバイヨンの塔は何で有名か。",
     "choices": [
-      "Für riesige in Stein gemeißelte Gesichter",
-      "Für vergoldete Kuppeln",
-      "Für blau glasierte Porzellanfliesen",
-      "Für geschnitzte Holzdächer"
+      "石に彫られた巨大な顔",
+      "金箔を施したドーム",
+      "青い釉薬の磁器タイル",
+      "彫刻を施した木造の屋根"
     ],
     "answer": 0,
-    "explanation": "Die zahlreichen Türme des Bayon tragen große steinerne Gesichter, die in alle Himmelsrichtungen blicken.",
+    "explanation": "バイヨンの多くの塔には、四方を見渡す大きな石の顔が刻まれている。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-10",
     "epochId": "suedostasien",
-    "question": "Welche Religion förderte Jayavarman VII. besonders?",
+    "question": "ジャヤーヴァルマン7世がとりわけ振興した宗教はどれか。",
     "choices": [
-      "Theravada-Buddhismus",
-      "Den Kult des Shiva",
-      "Den Islam",
-      "Den Mahayana-Buddhismus"
+      "上座部仏教",
+      "シヴァ崇拝",
+      "イスラーム",
+      "大乗仏教"
     ],
     "answer": 3,
-    "explanation": "Jayavarman VII. war Mahayana-Buddhist und weihte viele seiner Bauten dem Buddha und Bodhisattvas.",
+    "explanation": "ジャヤーヴァルマン7世は大乗仏教徒であり、建造物の多くをブッダと菩薩に捧げた。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-11",
     "epochId": "suedostasien",
-    "question": "Welcher König machte Pagan ab 1044 zum Zentrum eines großen Reiches in Birma?",
+    "question": "1044年からパガンをビルマの大王国の中心とした王は誰か。",
     "choices": [
-      "Alaungpaya",
-      "Anawrahta",
-      "Bayinnaung",
-      "Thibaw"
+      "アラウンパヤー",
+      "アノーヤター",
+      "バインナウン",
+      "ティーボー"
     ],
     "answer": 1,
-    "explanation": "Anawrahta regierte ab 1044 und einte große Teile des Irrawaddy-Tals unter der Herrschaft Pagans.",
+    "explanation": "アノーヤターは1044年から統治し、エーヤワディー川流域の広い地域をパガンの支配下に統一した。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-12",
     "epochId": "suedostasien",
-    "question": "Welchem Gott ist der höchste Tempel von Prambanan auf Java geweiht?",
+    "question": "ジャワのプランバナンで最も高い寺院はどの神に捧げられているか。",
     "choices": [
-      "Vishnu",
-      "Brahma",
-      "Shiva",
-      "Ganesha"
+      "ヴィシュヌ",
+      "ブラフマー",
+      "シヴァ",
+      "ガネーシャ"
     ],
     "answer": 2,
-    "explanation": "Der Haupttempel von Prambanan, der 856 geweiht wurde, ist Shiva gewidmet; daneben stehen Tempel für Vishnu und Brahma.",
+    "explanation": "856年に奉献されたプランバナンの主寺院はシヴァに捧げられ、その脇にヴィシュヌとブラフマーの寺院が立つ。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-13",
     "epochId": "suedostasien",
-    "question": "Welcher König von Sukhothai wird mit der Schaffung der Thai-Schrift verbunden?",
+    "question": "タイ文字の創出と結びつけられているスコータイの王は誰か。",
     "choices": [
-      "U Thong",
-      "Taksin",
-      "Chulalongkorn",
-      "Ramkhamhaeng"
+      "ウートーン",
+      "タークシン",
+      "チュラロンコーン",
+      "ラームカムヘーン"
     ],
     "answer": 3,
-    "explanation": "Eine Inschrift von 1292 schreibt Ramkhamhaeng die Thai-Schrift zu, ihre Echtheit ist allerdings umstritten.",
+    "explanation": "1292年の碑文はタイ文字をラームカムヘーンに帰しているが、その真正性には異論がある。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-14",
     "epochId": "suedostasien",
-    "question": "Warum ist die Ramkhamhaeng-Inschrift von 1292 in der Forschung umstritten?",
+    "question": "1292年のラームカムヘーン碑文は、なぜ研究者の間で議論されているのか。",
     "choices": [
-      "Weil sie in chinesischer Sprache verfasst ist",
-      "Weil einige Forscher bezweifeln, dass sie wirklich aus dem 13. Jahrhundert stammt",
-      "Weil sie im Zweiten Weltkrieg verloren ging",
-      "Weil sie in Birma gefunden wurde"
+      "中国語で書かれているから",
+      "一部の研究者が、本当に13世紀のものか疑っているから",
+      "第二次世界大戦で失われたから",
+      "ビルマで発見されたから"
     ],
     "answer": 1,
-    "explanation": "Die Inschrift wurde 1833 vom späteren König Mongkut gefunden; seit den 1980er-Jahren halten manche Forscher sie für jünger.",
+    "explanation": "碑文は1833年、のちの国王モンクットによって発見された。1980年代以降、一部の研究者はこれを後世のものと考えている。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-15",
     "epochId": "suedostasien",
-    "question": "Von welchem Reich machte sich Sukhothai um 1238 unabhängig?",
+    "question": "1238年頃、スコータイはどの国から独立したか。",
     "choices": [
-      "Pagan",
-      "Srivijaya",
-      "Khmer-Reich",
-      "Champa"
+      "パガン",
+      "シュリーヴィジャヤ",
+      "クメール王国",
+      "チャンパ"
     ],
     "answer": 2,
-    "explanation": "Thai-Fürsten vertrieben um 1238 den Statthalter der Khmer aus Sukhothai.",
+    "explanation": "1238年頃、タイ人の首長たちがクメールの総督をスコータイから追い出した。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-16",
     "epochId": "suedostasien",
-    "question": "Wer gründete 1293 auf Java das Reich Majapahit?",
+    "question": "1293年にジャワでマジャパヒト王国を建てたのは誰か。",
     "choices": [
-      "Raden Wijaya",
-      "Gajah Mada",
-      "Hayam Wuruk",
-      "Parameswara"
+      "ラデン・ウィジャヤ",
+      "ガジャ・マダ",
+      "ハヤム・ウルク",
+      "パラメスワラ"
     ],
     "answer": 0,
-    "explanation": "Raden Wijaya besiegte mit Hilfe einer mongolischen Flotte seinen Rivalen und gründete danach Majapahit.",
+    "explanation": "モンゴルの艦隊の助けを借りてラデン・ウィジャヤは対立者を破り、その後マジャパヒトを建てた。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-17",
     "epochId": "suedostasien",
-    "question": "Welche fremde Flotte half Raden Wijaya 1293 ungewollt bei der Gründung Majapahits?",
+    "question": "1293年、意図せずにラデン・ウィジャヤのマジャパヒト建国を助けた外国の艦隊はどれか。",
     "choices": [
-      "Eine portugiesische Flotte",
-      "Eine Flotte der mongolischen Yuan-Dynastie",
-      "Eine Flotte des Chola-Reiches",
-      "Eine japanische Flotte"
+      "ポルトガルの艦隊",
+      "モンゴルの元朝の艦隊",
+      "チョーラ朝の艦隊",
+      "日本の艦隊"
     ],
     "answer": 1,
-    "explanation": "Kublai Khan hatte eine Strafexpedition nach Java geschickt; Raden Wijaya nutzte sie gegen seinen Rivalen und vertrieb die Mongolen danach.",
+    "explanation": "クビライ・ハンはジャワに懲罰遠征軍を送っていた。ラデン・ウィジャヤはこれを対立者に対して利用し、その後モンゴル軍を追い出した。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-18",
     "epochId": "suedostasien",
-    "question": "Wer leistete nach javanischer Überlieferung den Palapa-Eid, den Archipel unter Majapahit zu einen?",
+    "question": "ジャワの伝承によれば、群島をマジャパヒトのもとに統一するためパラパの誓いを立てたのは誰か。",
     "choices": [
-      "Gajah Mada",
-      "Raden Wijaya",
-      "Prapanca",
-      "Kertanegara"
+      "ガジャ・マダ",
+      "ラデン・ウィジャヤ",
+      "プラパンチャ",
+      "クルタナガラ"
     ],
     "answer": 0,
-    "explanation": "Der Minister Gajah Mada soll geschworen haben, auf Genüsse zu verzichten, bis der Archipel unter Majapahit vereint sei.",
+    "explanation": "宰相ガジャ・マダは、群島がマジャパヒトのもとに統一されるまで快楽を断つと誓ったといわれる。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-19",
     "epochId": "suedostasien",
-    "question": "Welches Werk von 1365 beschreibt den Hof und die Ausdehnung Majapahits?",
+    "question": "マジャパヒトの宮廷と版図を描いた1365年の作品はどれか。",
     "choices": [
-      "Babad Tanah Jawi",
-      "Hikayat Hang Tuah",
-      "Arthashastra",
-      "Nagarakretagama"
+      "『ババッド・タナ・ジャウィ』",
+      "『ヒカヤット・ハン・トゥア』",
+      "『アルタシャーストラ』",
+      "『ナーガラクルターガマ』"
     ],
     "answer": 3,
-    "explanation": "Das Lobgedicht Nagarakretagama des Dichters Prapanca schildert den Hof Hayam Wuruks und zählt abhängige Gebiete auf.",
+    "explanation": "詩人プラパンチャの頌詩『ナーガラクルターガマ』は、ハヤム・ウルクの宮廷を描き、従属する地域を列挙している。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-20",
     "epochId": "suedostasien",
-    "question": "Wo herrschte Sultan Malik al-Salih, dessen Grabstein von 1297 als frühes Zeugnis des Islam in Südostasien gilt?",
+    "question": "1297年の墓碑が東南アジアにおけるイスラームの初期の証拠とされるスルタン、マリク・アッサーリフはどこを支配したか。",
     "choices": [
-      "In Malakka",
-      "In Manila",
-      "In Samudera Pasai auf Sumatra",
-      "In Brunei"
+      "マラッカ",
+      "マニラ",
+      "スマトラのサムドラ・パサイ",
+      "ブルネイ"
     ],
     "answer": 2,
-    "explanation": "Malik al-Salih regierte Samudera Pasai in Nordsumatra, das zu den ersten islamischen Sultanaten der Region gehörte.",
+    "explanation": "マリク・アッサーリフは、この地域で最初のイスラームのスルタン国の一つであるスマトラ北部のサムドラ・パサイを支配した。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-21",
     "epochId": "suedostasien",
-    "question": "Auf welchem Weg verbreitete sich der Islam in Südostasien vor allem?",
+    "question": "イスラームは東南アジアに主としてどのように広まったか。",
     "choices": [
-      "Durch die Eroberung arabischer Heere",
-      "Durch Zwangsbekehrungen der Osmanen",
-      "Über Kaufleute, Gelehrte und Sufis entlang der Handelswege",
-      "Über portugiesische Missionare"
+      "アラブ軍の征服によって",
+      "オスマン帝国による強制改宗によって",
+      "交易路に沿った商人、学者、スーフィーによって",
+      "ポルトガルの宣教師によって"
     ],
     "answer": 2,
-    "explanation": "Der Islam kam mit muslimischen Händlern und Gelehrten in die Häfen und wurde von dort aus von Herrschern und Bevölkerung angenommen.",
+    "explanation": "イスラームはムスリムの商人や学者とともに港に到来し、そこから支配者やその民に受け入れられた。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-22",
     "epochId": "suedostasien",
-    "question": "Welcher Fürst aus Palembang gründete um 1400 Malakka?",
+    "question": "1400年頃にマラッカを建てた、パレンバン出身の王子は誰か。",
     "choices": [
-      "Zheng He",
-      "Afonso de Albuquerque",
-      "Raden Wijaya",
-      "Parameswara"
+      "鄭和",
+      "アフォンソ・デ・アルブケルケ",
+      "ラデン・ウィジャヤ",
+      "パラメスワラ"
     ],
     "answer": 3,
-    "explanation": "Parameswara floh von Sumatra über Temasek und gründete um 1400 Malakka an der Westküste der Malaiischen Halbinsel.",
+    "explanation": "パラメスワラはスマトラからテマセクを経て逃れ、1400年頃にマレー半島西岸にマラッカを建てた。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-23",
     "epochId": "suedostasien",
-    "question": "In welchem Jahr eroberten die Portugiesen Malakka?",
+    "question": "ポルトガルがマラッカを征服したのは何年か。",
     "choices": [
-      "1511",
-      "1498",
-      "1571",
-      "1619"
+      "1511年",
+      "1498年",
+      "1571年",
+      "1619年"
     ],
     "answer": 0,
-    "explanation": "Afonso de Albuquerque nahm Malakka im August 1511 ein; damit begann die europäische Kolonialzeit in Südostasien.",
+    "explanation": "アフォンソ・デ・アルブケルケは1511年8月にマラッカを攻略し、東南アジアにおけるヨーロッパの植民地時代の幕を開けた。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-24",
     "epochId": "suedostasien",
-    "question": "Wer führte die Portugiesen 1511 bei der Eroberung Malakkas?",
+    "question": "1511年のマラッカ征服でポルトガル軍を率いたのは誰か。",
     "choices": [
-      "Vasco da Gama",
-      "Afonso de Albuquerque",
-      "Ferdinand Magellan",
-      "Bartolomeu Dias"
+      "ヴァスコ・ダ・ガマ",
+      "アフォンソ・デ・アルブケルケ",
+      "フェルディナンド・マゼラン",
+      "バルトロメウ・ディアス"
     ],
     "answer": 1,
-    "explanation": "Afonso de Albuquerque, Gouverneur des portugiesischen Indiens, eroberte Malakka von Goa aus.",
+    "explanation": "ポルトガル領インド総督アフォンソ・デ・アルブケルケは、拠点ゴアからマラッカを征服した。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-25",
     "epochId": "suedostasien",
-    "question": "Welche Gewürze machten die Molukken und die Banda-Inseln für Europäer so begehrt?",
+    "question": "モルッカ諸島とバンダ諸島をヨーロッパ人にとって垂涎の的にした香辛料はどれか。",
     "choices": [
-      "Gewürznelken und Muskatnuss",
-      "Pfeffer und Zimt",
-      "Safran und Vanille",
-      "Ingwer und Kardamom"
+      "クローブとナツメグ",
+      "コショウとシナモン",
+      "サフランとバニラ",
+      "ショウガとカルダモン"
     ],
     "answer": 0,
-    "explanation": "Gewürznelken wuchsen lange nur auf den nördlichen Molukken, Muskatnuss nur auf den Banda-Inseln.",
+    "explanation": "長いあいだクローブはモルッカ諸島北部でしか、ナツメグはバンダ諸島でしか育たなかった。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-26",
     "epochId": "suedostasien",
-    "question": "Wer gründete 1571 Manila als Hauptstadt der spanischen Philippinen?",
+    "question": "1571年にスペイン領フィリピンの首都としてマニラを建設したのは誰か。",
     "choices": [
-      "Ferdinand Magellan",
-      "Juan Sebastián Elcano",
-      "Miguel López de Legazpi",
-      "Hernán Cortés"
+      "フェルディナンド・マゼラン",
+      "フアン・セバスティアン・エルカーノ",
+      "ミゲル・ロペス・デ・レガスピ",
+      "エルナン・コルテス"
     ],
     "answer": 2,
-    "explanation": "Legazpi eroberte 1571 die Siedlung Maynila und machte sie zur Hauptstadt der Kolonie.",
+    "explanation": "1571年、レガスピは集落マイニラを攻略し、植民地の首都とした。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-27",
     "epochId": "suedostasien",
-    "question": "Nach wem sind die Philippinen benannt?",
+    "question": "フィリピンは誰にちなんで名づけられたか。",
     "choices": [
-      "Nach Philipp dem Schönen",
-      "Nach dem spanischen König Philipp II.",
-      "Nach dem Apostel Philippus",
-      "Nach Philipp von Makedonien"
+      "美公フィリップ",
+      "スペイン王フェリペ2世",
+      "使徒フィリポ",
+      "マケドニアのフィリッポス"
     ],
     "answer": 1,
-    "explanation": "Eine spanische Expedition benannte die Inseln 1543 nach dem Thronfolger Philipp, dem späteren König Philipp II.",
+    "explanation": "1543年、スペインの遠征隊が島々を王位継承者フェリペ、のちの国王フェリペ2世にちなんで名づけた。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-28",
     "epochId": "suedostasien",
-    "question": "Welcher chinesische Mönch berichtete im 7. Jahrhundert von über tausend buddhistischen Mönchen in Srivijaya?",
+    "question": "7世紀にシュリーヴィジャヤに1000人を超える仏教僧がいたと報告した中国の僧は誰か。",
     "choices": [
-      "Xuanzang",
-      "Faxian",
-      "Zheng He",
-      "Yijing"
+      "玄奘",
+      "法顕",
+      "鄭和",
+      "義浄"
     ],
     "answer": 3,
-    "explanation": "Yijing hielt sich auf seiner Reise nach Indien in Srivijaya auf und empfahl Pilgern, dort Sanskrit zu lernen.",
+    "explanation": "義浄はインドへの旅の途中でシュリーヴィジャヤに滞在し、巡礼者にそこでサンスクリットを学ぶよう勧めた。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-29",
     "epochId": "suedostasien",
-    "question": "Welche Stadt gründete die Niederländische Ostindien-Kompanie 1619 auf Java?",
+    "question": "1619年にオランダ東インド会社がジャワに建設した都市はどれか。",
     "choices": [
-      "Malakka",
-      "Manila",
-      "Ambon",
-      "Batavia"
+      "マラッカ",
+      "マニラ",
+      "アンボン",
+      "バタヴィア"
     ],
     "answer": 3,
-    "explanation": "Jan Pieterszoon Coen gründete Batavia an der Stelle des zerstörten Jayakarta als Hauptquartier der VOC.",
+    "explanation": "ヤン・ピーテルスゾーン・クーンは、破壊したジャヤカルタの跡地にVOCの本拠としてバタヴィアを建設した。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-30",
     "epochId": "suedostasien",
-    "question": "Welche heutige Hauptstadt ging aus dem niederländischen Batavia hervor?",
+    "question": "オランダのバタヴィアから発展した現在の首都はどれか。",
     "choices": [
-      "Jakarta",
-      "Kuala Lumpur",
-      "Singapur",
-      "Bangkok"
+      "ジャカルタ",
+      "クアラルンプール",
+      "シンガポール",
+      "バンコク"
     ],
     "answer": 0,
-    "explanation": "Batavia ist das heutige Jakarta, die Hauptstadt Indonesiens.",
+    "explanation": "バタヴィアは現在のジャカルタであり、インドネシアの首都である。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-31",
     "epochId": "suedostasien",
-    "question": "Wofür ist Jan Pieterszoon Coen neben der Gründung Batavias berüchtigt?",
+    "question": "バタヴィアの建設のほかに、ヤン・ピーテルスゾーン・クーンは何で悪名高いか。",
     "choices": [
-      "Für die Zerstörung Malakkas",
-      "Für einen Krieg gegen die Spanier in Manila",
-      "Für die Eroberung der Banda-Inseln, bei der ein großer Teil der Bevölkerung getötet, versklavt oder vertrieben wurde",
-      "Für die Vertreibung der Engländer aus Indien"
+      "マラッカの破壊",
+      "マニラでのスペインとの戦争",
+      "住民の多くが殺され、奴隷にされ、あるいは追放されたバンダ諸島の征服",
+      "インドからのイギリス人の駆逐"
     ],
     "answer": 2,
-    "explanation": "Um das Muskatmonopol durchzusetzen, ließ Coen 1621 die Banda-Inseln erobern und ihre Bevölkerung weitgehend auslöschen.",
+    "explanation": "ナツメグの独占を貫くため、クーンは1621年にバンダ諸島を征服させ、その住民をほぼ根絶やしにした。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-32",
     "epochId": "suedostasien",
-    "question": "In welchem Jahr wurde die Niederländische Ostindien-Kompanie (VOC) gegründet?",
+    "question": "オランダ東インド会社（VOC）が設立されたのは何年か。",
     "choices": [
-      "1588",
-      "1602",
-      "1648",
-      "1799"
+      "1588年",
+      "1602年",
+      "1648年",
+      "1799年"
     ],
     "answer": 1,
-    "explanation": "Die VOC entstand 1602 als Zusammenschluss mehrerer Handelsgesellschaften und erhielt das niederländische Monopol für den Asienhandel.",
+    "explanation": "VOCは1602年に複数の貿易会社の合併によって設立され、オランダのアジア貿易の独占権を得た。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-33",
     "epochId": "suedostasien",
-    "question": "Wer eroberte und zerstörte 1767 die siamesische Hauptstadt Ayutthaya?",
+    "question": "1767年にシャムの都アユタヤを攻略し破壊したのは誰か。",
     "choices": [
-      "Die Khmer",
-      "Die birmanische Konbaung-Dynastie",
-      "Ein vietnamesisches Heer",
-      "Französische Truppen"
+      "クメール人",
+      "ビルマのコンバウン朝",
+      "ベトナム軍",
+      "フランス軍"
     ],
     "answer": 1,
-    "explanation": "Truppen der Konbaung unter König Hsinbyushin nahmen Ayutthaya im April 1767 ein und brannten die Stadt nieder.",
+    "explanation": "シンビューシン王率いるコンバウン朝の軍が1767年4月にアユタヤを攻略し、都を焼き払った。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-34",
     "epochId": "suedostasien",
-    "question": "Welche Stadt machte Rama I. 1782 zur neuen Hauptstadt Siams?",
+    "question": "1782年にラーマ1世がシャムの新しい都とした都市はどこか。",
     "choices": [
-      "Ayutthaya",
-      "Sukhothai",
-      "Chiang Mai",
-      "Bangkok"
+      "アユタヤ",
+      "スコータイ",
+      "チェンマイ",
+      "バンコク"
     ],
     "answer": 3,
-    "explanation": "Rama I. begründete 1782 die Chakri-Dynastie und verlegte die Hauptstadt nach Bangkok.",
+    "explanation": "1782年、ラーマ1世はチャクリー朝を開き、都をバンコクに移した。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-35",
     "epochId": "suedostasien",
-    "question": "Wer begründete 1752 die birmanische Konbaung-Dynastie?",
+    "question": "1752年にビルマのコンバウン朝を開いたのは誰か。",
     "choices": [
-      "Alaungpaya",
-      "Anawrahta",
-      "Thibaw",
-      "Mindon"
+      "アラウンパヤー",
+      "アノーヤター",
+      "ティーボー",
+      "ミンドン"
     ],
     "answer": 0,
-    "explanation": "Alaungpaya einte Birma wieder und begründete die Konbaung-Dynastie, die bis 1885 regierte.",
+    "explanation": "アラウンパヤーはビルマを再統一し、1885年まで続いたコンバウン朝を開いた。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-36",
     "epochId": "suedostasien",
-    "question": "Wer einte 1802 Vietnam und begründete die Nguyễn-Dynastie?",
+    "question": "1802年にベトナムを統一し、阮朝を開いたのは誰か。",
     "choices": [
-      "Lê Lợi",
-      "Ngô Quyền",
-      "Gia Long",
-      "Trần Hưng Đạo"
+      "黎利",
+      "ゴ・クエン",
+      "嘉隆帝",
+      "陳興道"
     ],
     "answer": 2,
-    "explanation": "Nguyễn Ánh besiegte die Tây Sơn, nahm 1802 den Kaisernamen Gia Long an und herrschte über ganz Vietnam.",
+    "explanation": "阮福暎は西山朝を破り、1802年に嘉隆の帝号を名乗ってベトナム全土を支配した。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-37",
     "epochId": "suedostasien",
-    "question": "Welche Stadt war die Hauptstadt der Nguyễn-Kaiser?",
+    "question": "阮朝の皇帝たちの都はどこか。",
     "choices": [
-      "Hanoi",
-      "Saigon",
-      "Huế",
-      "Đà Nẵng"
+      "ハノイ",
+      "サイゴン",
+      "フエ",
+      "ダナン"
     ],
     "answer": 2,
-    "explanation": "Gia Long machte Huế in Zentralvietnam zur Hauptstadt und ließ dort eine große Zitadelle bauen.",
+    "explanation": "嘉隆帝はベトナム中部のフエを都とし、そこに大きな城塞を築かせた。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-38",
     "epochId": "suedostasien",
-    "question": "Welcher Aufstand stürzte ab 1771 die alten Fürstenhäuser Vietnams und ging der Nguyễn-Dynastie voraus?",
+    "question": "1771年から起こり、ベトナムの旧来の支配家門を倒して阮朝に先立った反乱はどれか。",
     "choices": [
-      "Der Taiping-Aufstand",
-      "Der Tây-Sơn-Aufstand",
-      "Der Boxeraufstand",
-      "Der Aufstand der Katipunan"
+      "太平天国の乱",
+      "西山党の乱",
+      "義和団事件",
+      "カティプーナンの蜂起"
     ],
     "answer": 1,
-    "explanation": "Die Brüder von Tây Sơn stürzten die Fürstenhäuser Nguyễn und Trịnh, bevor Nguyễn Ánh sie besiegte.",
+    "explanation": "西山の兄弟は阮氏と鄭氏を倒したが、その後阮福暎に敗れた。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-39",
     "epochId": "suedostasien",
-    "question": "Wer gründete 1819 Singapur als britischen Freihafen?",
+    "question": "1819年にシンガポールをイギリスの自由港として建設したのは誰か。",
     "choices": [
-      "Warren Hastings",
-      "Robert Clive",
-      "James Brooke",
-      "Stamford Raffles"
+      "ウォーレン・ヘースティングズ",
+      "ロバート・クライヴ",
+      "ジェームズ・ブルック",
+      "スタンフォード・ラッフルズ"
     ],
     "answer": 3,
-    "explanation": "Stamford Raffles erwarb die Insel 1819 durch einen Vertrag mit einem Prinzen von Johor.",
+    "explanation": "スタンフォード・ラッフルズは1819年、ジョホールの王子との条約によってこの島を獲得した。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-40",
     "epochId": "suedostasien",
-    "question": "Welche drei Häfen fassten die Briten 1826 zu den Straits Settlements zusammen?",
+    "question": "1826年にイギリスが海峡植民地としてまとめた三つの港はどれか。",
     "choices": [
-      "Penang, Malakka und Singapur",
-      "Batavia, Malakka und Singapur",
-      "Penang, Rangun und Singapur",
-      "Manila, Malakka und Penang"
+      "ペナン、マラッカ、シンガポール",
+      "バタヴィア、マラッカ、シンガポール",
+      "ペナン、ラングーン、シンガポール",
+      "マニラ、マラッカ、ペナン"
     ],
     "answer": 0,
-    "explanation": "Penang, Malakka und Singapur bildeten die Straits Settlements an der Straße von Malakka.",
+    "explanation": "ペナン、マラッカ、シンガポールが、マラッカ海峡に面した海峡植民地を構成した。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-41",
     "epochId": "suedostasien",
-    "question": "In welchem Jahr nahmen britische Truppen Mandalay ein und beendeten das birmanische Königtum?",
+    "question": "イギリス軍がマンダレーを占領し、ビルマの王政を終わらせたのは何年か。",
     "choices": [
-      "1885",
-      "1824",
-      "1852",
-      "1910"
+      "1885年",
+      "1824年",
+      "1852年",
+      "1910年"
     ],
     "answer": 0,
-    "explanation": "Im Dritten Anglo-Birmanischen Krieg 1885 wurde König Thibaw abgesetzt; Anfang 1886 wurde Birma Teil Britisch-Indiens.",
+    "explanation": "1885年の第3次英緬戦争で国王ティーボーは廃位され、1886年初めにビルマはイギリス領インドの一部となった。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-42",
     "epochId": "suedostasien",
-    "question": "Welcher Vertrag von 1824 teilte die Interessengebiete Großbritanniens und der Niederlande an der Straße von Malakka?",
+    "question": "マラッカ海峡に沿ってイギリスとオランダの勢力圏を分けた1824年の条約はどれか。",
     "choices": [
-      "Der Vertrag von Tordesillas",
-      "Der britisch-niederländische Vertrag von London",
-      "Der Vertrag von Nanking",
-      "Der Vertrag von Yandabo"
+      "トルデシリャス条約",
+      "英蘭ロンドン条約",
+      "南京条約",
+      "ヤンダボ条約"
     ],
     "answer": 1,
-    "explanation": "Im Londoner Vertrag von 1824 erhielten die Briten die Malaiische Halbinsel, die Niederländer die Inseln südlich der Meerenge.",
+    "explanation": "1824年のロンドン条約により、イギリスはマレー半島を、オランダは海峡以南の島々を得た。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-43",
     "epochId": "suedostasien",
-    "question": "In welchem Jahr fasste Frankreich seine Besitzungen zur Indochinesischen Union zusammen?",
+    "question": "フランスが領土をフランス領インドシナ連邦にまとめたのは何年か。",
     "choices": [
-      "1858",
-      "1862",
-      "1887",
-      "1907"
+      "1858年",
+      "1862年",
+      "1887年",
+      "1907年"
     ],
     "answer": 2,
-    "explanation": "1887 entstand Französisch-Indochina aus Cochinchina, Annam, Tonkin und Kambodscha; 1893 kam Laos hinzu.",
+    "explanation": "フランス領インドシナは1887年にコーチシナ、アンナン、トンキン、カンボジアから作られ、1893年にラオスが加わった。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-44",
     "epochId": "suedostasien",
-    "question": "Welches Volk gründete an der Küste des heutigen Zentralvietnam das Reich Champa?",
+    "question": "現在のベトナム中部の沿岸にチャンパ王国を建てた民族はどれか。",
     "choices": [
-      "Die Khmer",
-      "Die Mon",
-      "Die Thai",
-      "Die Cham"
+      "クメール人",
+      "モン人",
+      "タイ人",
+      "チャム人"
     ],
     "answer": 3,
-    "explanation": "Die Cham sprachen eine austronesische Sprache und errichteten in Mỹ Sơn zahlreiche hinduistische Tempel.",
+    "explanation": "チャム人はオーストロネシア語族の言語を話し、ミーソンに多数のヒンドゥー教寺院を建てた。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-45",
     "epochId": "suedostasien",
-    "question": "Welcher König von Siam modernisierte ab 1868 Verwaltung, Schulen und Armee und schaffte die Sklaverei schrittweise ab?",
+    "question": "1868年から行政、学校、軍を近代化し、奴隷制を段階的に廃止したシャムの王は誰か。",
     "choices": [
-      "Taksin",
-      "Ramkhamhaeng",
-      "Mongkut",
-      "Chulalongkorn"
+      "タークシン",
+      "ラームカムヘーン",
+      "モンクット",
+      "チュラロンコーン"
     ],
     "answer": 3,
-    "explanation": "Chulalongkorn (Rama V.) regierte von 1868 bis 1910 und gilt als großer Reformer Siams.",
+    "explanation": "チュラロンコーン（ラーマ5世）は1868年から1910年まで在位し、シャムの偉大な改革者とされる。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-46",
     "epochId": "suedostasien",
-    "question": "Welche Rolle spielte Siam zwischen Britisch-Birma und Französisch-Indochina?",
+    "question": "イギリス領ビルマとフランス領インドシナの間で、シャムはどのような役割を果たしたか。",
     "choices": [
-      "Es wurde zwischen beiden Mächten aufgeteilt",
-      "Es wurde britisches Protektorat",
-      "Es blieb unabhängig und diente als Pufferstaat",
-      "Es wurde Teil Französisch-Indochinas"
+      "両国によって分割された",
+      "イギリスの保護国となった",
+      "独立を保ち、緩衝国の役割を果たした",
+      "フランス領インドシナの一部となった"
     ],
     "answer": 2,
-    "explanation": "Siam blieb als einziger Staat Südostasiens unabhängig, musste aber Randgebiete an beide Mächte abtreten.",
+    "explanation": "シャムは東南アジアで唯一の独立国であり続けたが、周辺の領土を両国に割譲しなければならなかった。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-47",
     "epochId": "suedostasien",
-    "question": "Welche Gebiete musste Siam nach der Paknam-Krise 1893 an Frankreich abtreten?",
+    "question": "1893年のパクナム事件の後、シャムがフランスに割譲しなければならなかった領土はどれか。",
     "choices": [
-      "Die Hauptstadt Bangkok",
-      "Die Gebiete östlich des Mekong, das heutige Laos",
-      "Die nördlichen malaiischen Sultanate",
-      "Das Fürstentum Chiang Mai"
+      "首都バンコク",
+      "メコン川以東の地域、現在のラオス",
+      "北部のマレー系スルタン国",
+      "チェンマイ侯国"
     ],
     "answer": 1,
-    "explanation": "Nachdem französische Kanonenboote bis vor Bangkok gefahren waren, trat Siam die Gebiete östlich des Mekong ab.",
+    "explanation": "フランスの砲艦がバンコクまで遡航したのち、シャムはメコン川以東の地域を割譲した。",
     "difficulty": 3
   },
   {
     "id": "q-suedostasien-48",
     "epochId": "suedostasien",
-    "question": "Welcher Geheimbund begann 1896 den Aufstand gegen die spanische Herrschaft auf den Philippinen?",
+    "question": "1896年にフィリピンでスペインの支配に対する蜂起を始めた秘密結社はどれか。",
     "choices": [
-      "Katipunan",
-      "Liga Filipina",
-      "Việt Minh",
-      "Sarekat Islam"
+      "カティプーナン",
+      "フィリピン民族同盟",
+      "ベトミン",
+      "イスラーム同盟"
     ],
     "answer": 0,
-    "explanation": "Die 1892 von Andrés Bonifacio gegründete Katipunan wollte die Unabhängigkeit mit Waffengewalt erkämpfen.",
+    "explanation": "1892年にアンドレス・ボニファシオが創設したカティプーナンは、武力による独立の達成を目指した。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-49",
     "epochId": "suedostasien",
-    "question": "Welcher Schriftsteller wurde am 30. Dezember 1896 in Manila von den Spaniern erschossen?",
+    "question": "1896年12月30日にマニラでスペインによって銃殺された作家は誰か。",
     "choices": [
-      "Andrés Bonifacio",
-      "José Rizal",
-      "Emilio Aguinaldo",
-      "Apolinario Mabini"
+      "アンドレス・ボニファシオ",
+      "ホセ・リサール",
+      "エミリオ・アギナルド",
+      "アポリナリオ・マビニ"
     ],
     "answer": 1,
-    "explanation": "José Rizal, Autor von „Noli me tangere“, wurde trotz seines Eintretens für friedliche Reformen hingerichtet.",
+    "explanation": "『ノリ・メ・タンヘレ』の著者ホセ・リサールは、平和的な改革を唱えていたにもかかわらず処刑された。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-50",
     "epochId": "suedostasien",
-    "question": "Wer rief am 12. Juni 1898 die Unabhängigkeit der Philippinen aus?",
+    "question": "1898年6月12日にフィリピンの独立を宣言したのは誰か。",
     "choices": [
-      "Emilio Aguinaldo",
-      "José Rizal",
-      "Andrés Bonifacio",
-      "Manuel Quezon"
+      "エミリオ・アギナルド",
+      "ホセ・リサール",
+      "アンドレス・ボニファシオ",
+      "マヌエル・ケソン"
     ],
     "answer": 0,
-    "explanation": "Emilio Aguinaldo verkündete die Unabhängigkeit in Kawit und wurde 1899 Präsident der Ersten Philippinischen Republik.",
+    "explanation": "エミリオ・アギナルドはカウィットで独立を宣言し、1899年に第一共和国の大統領となった。",
     "difficulty": 2
   },
   {
     "id": "q-suedostasien-51",
     "epochId": "suedostasien",
-    "question": "An welchen Staat trat Spanien die Philippinen im Frieden von Paris 1898 ab?",
+    "question": "1898年のパリ条約で、スペインがフィリピンを割譲した国はどこか。",
     "choices": [
-      "Japan",
-      "Großbritannien",
-      "Die Vereinigten Staaten",
-      "Deutschland"
+      "日本",
+      "イギリス",
+      "アメリカ合衆国",
+      "ドイツ"
     ],
     "answer": 2,
-    "explanation": "Nach dem Spanisch-Amerikanischen Krieg gingen die Philippinen an die USA, gegen die die Filipinos ab 1899 kämpften.",
+    "explanation": "米西戦争ののちフィリピンはアメリカ合衆国の手に渡り、フィリピン人は1899年からアメリカと戦った。",
     "difficulty": 1
   },
   {
     "id": "q-suedostasien-52",
     "epochId": "suedostasien",
-    "question": "Was verlangte das niederländische Kultursystem ab 1830 von den Bauern Javas?",
+    "question": "1830年からオランダの強制栽培制度はジャワの農民に何を求めたか。",
     "choices": [
-      "Den Besuch staatlicher Schulen",
-      "Den Übertritt zum Christentum",
-      "Den Dienst in der Kolonialarmee",
-      "Einen Teil ihres Landes oder ihrer Arbeit für Exportpflanzen wie Kaffee und Zucker zu verwenden"
+      "国立学校に通うこと",
+      "キリスト教に改宗すること",
+      "植民地軍に服務すること",
+      "土地や労働の一部をコーヒーや砂糖などの輸出作物に充てること"
     ],
     "answer": 3,
-    "explanation": "Die Dörfer mussten Exportpflanzen anbauen, die der Staat billig aufkaufte; das brachte den Niederlanden große Gewinne und Java Hungersnöte.",
+    "explanation": "村々は国家が安く買い上げる輸出作物を栽培しなければならなかった。これはオランダに莫大な利益を、ジャワに飢饉をもたらした。",
     "difficulty": 2
   },
   {
@@ -16746,729 +16746,729 @@
   {
     "id": "q-wikinger-nordeuropa-01",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welches Kloster vor der Küste Northumbrias überfielen Wikinger im Jahr 793?",
+    "question": "793年にヴァイキングが襲撃した、ノーサンブリア沖の修道院はどれか。",
     "choices": [
-      "Lindisfarne",
-      "Iona",
-      "Cluny",
-      "Monte Cassino"
+      "リンディスファーン",
+      "アイオナ",
+      "クリュニー",
+      "モンテ・カッシーノ"
     ],
     "answer": 0,
-    "explanation": "Der Überfall auf Lindisfarne am 8. Juni 793 gilt als Beginn der Wikingerzeit.",
+    "explanation": "793年6月8日のリンディスファーン襲撃は、ヴァイキング時代の始まりとされる。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-02",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welche Stadt plünderten Wikinger zu Ostern 845, bevor Karl der Kahle ihren Abzug mit Silber erkaufte?",
+    "question": "845年の復活祭にヴァイキングが略奪し、シャルル禿頭王が銀で撤退を買い取った都市はどこか。",
     "choices": [
-      "Aachen",
-      "Köln",
-      "Paris",
-      "Rom"
+      "アーヘン",
+      "ケルン",
+      "パリ",
+      "ローマ"
     ],
     "answer": 2,
-    "explanation": "Eine Flotte fuhr die Seine hinauf und zog erst nach Zahlung von 7000 Pfund Silber wieder ab.",
+    "explanation": "艦隊はセーヌ川をさかのぼり、銀7000ポンドを支払われてようやく去った。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-03",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Wikingeranführer erhielt 911 das Land um Rouen, aus dem die Normandie wurde?",
+    "question": "911年に、のちのノルマンディーとなるルーアン周辺の地を得たヴァイキングの首領は誰か。",
     "choices": [
-      "Guthrum",
-      "Rollo",
-      "Ivar",
-      "Göttrik"
+      "グスルム",
+      "ロロ",
+      "イーヴァル",
+      "ゴズフレズ"
     ],
     "answer": 1,
-    "explanation": "Rollo einigte sich mit Karl dem Einfältigen und begründete die Herrschaft der Normannen an der unteren Seine.",
+    "explanation": "ロロはシャルル単純王と協定を結び、セーヌ川下流にノルマン人の支配を築いた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-04",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie heißt die Versammlung, die um 930 auf Island erstmals zusammentrat?",
+    "question": "930年頃にアイスランドで初めて開かれた集会は何と呼ばれたか。",
     "choices": [
-      "Storting",
-      "Reichstag",
-      "Witenagemot",
-      "Althing"
+      "ストーティング",
+      "帝国議会",
+      "ウィテナゲモット",
+      "アルシング"
     ],
     "answer": 3,
-    "explanation": "Das Althing tagte jeden Sommer in Þingvellir und beschloss Gesetze für ganz Island.",
+    "explanation": "アルシングは毎年夏にシングヴェトリルで開かれ、アイスランド全体のための法を定めた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-05",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wer führte um 985 die ersten nordischen Siedler nach Grönland?",
+    "question": "985年頃、最初のノース人入植者をグリーンランドへ導いたのは誰か。",
     "choices": [
-      "Erik der Rote",
-      "Leif Eriksson",
-      "Ingólfr Arnarson",
-      "Harald Hardrada"
+      "赤毛のエイリーク",
+      "レイフ・エリクソン",
+      "インゴールヴル・アルナルソン",
+      "ハーラル苛烈王"
     ],
     "answer": 0,
-    "explanation": "Erik der Rote nutzte seine Verbannung aus Island, um Grönland zu erkunden, und kehrte dann mit Siedlern zurück.",
+    "explanation": "赤毛のエイリークはアイスランドからの追放を機にグリーンランドを探検し、その後入植者を連れて戻った。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-06",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Seefahrer erreichte um 1000 das von den Sagas „Vinland“ genannte Land in Nordamerika?",
+    "question": "1000年頃、サガで「ヴィンランド」と呼ばれる北アメリカの地に到達した航海者は誰か。",
     "choices": [
-      "Erik der Rote",
-      "Olav Tryggvason",
-      "Leif Eriksson",
-      "Rollo"
+      "赤毛のエイリーク",
+      "オーラヴ・トリュグヴァソン",
+      "レイフ・エリクソン",
+      "ロロ"
     ],
     "answer": 2,
-    "explanation": "Leif Eriksson, der Sohn Eriks des Roten, segelte von Grönland nach Westen und überwinterte in Vinland.",
+    "explanation": "赤毛のエイリークの息子レイフ・エリクソンは、グリーンランドから西へ航海し、ヴィンランドで冬を越した。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-07",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wo auf Neufundland wurden Reste einer nordischen Siedlung aus der Zeit um 1000 gefunden?",
+    "question": "1000年頃のノース人の入植地の遺構が見つかったのは、ニューファンドランドのどこか。",
     "choices": [
-      "Jamestown",
-      "L’Anse aux Meadows",
-      "Plymouth",
-      "Québec"
+      "ジェームズタウン",
+      "ランス・オ・メドー",
+      "プリマス",
+      "ケベック"
     ],
     "answer": 1,
-    "explanation": "Helge und Anne Stine Ingstad entdeckten die Fundstätte 1960; sie ist heute UNESCO-Welterbe.",
+    "explanation": "ヘルゲ・イングスタッドとアンネ・スティーネ・イングスタッドが1960年にこの遺跡を発見した。現在はユネスコの世界遺産である。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-08",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher dänische König rühmte sich auf dem Runenstein von Jelling, die Dänen zu Christen gemacht zu haben?",
+    "question": "イェリングのルーン石碑で、デーン人をキリスト教徒にしたと誇ったデンマーク王は誰か。",
     "choices": [
-      "Gorm der Alte",
-      "Knut der Große",
-      "Sven Gabelbart",
-      "Harald Blauzahn"
+      "老ゴーム",
+      "クヌート大王",
+      "スヴェン双髭王",
+      "ハーラル青歯王"
     ],
     "answer": 3,
-    "explanation": "Harald Blauzahn ließ den großen Jellingstein zu Ehren seiner Eltern Gorm und Thyra errichten.",
+    "explanation": "ハーラル青歯王は、両親ゴームとテューラをたたえて大きなイェリング石を建てさせた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-09",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher König beherrschte um 1028 England, Dänemark und Norwegen zugleich?",
+    "question": "1028年頃、イングランド、デンマーク、ノルウェーを同時に支配した王は誰か。",
     "choices": [
-      "Knut der Große",
-      "Alfred der Große",
-      "Harald Hardrada",
-      "Wilhelm der Eroberer"
+      "クヌート大王",
+      "アルフレッド大王",
+      "ハーラル苛烈王",
+      "征服王ウィリアム"
     ],
     "answer": 0,
-    "explanation": "Knut der Große wurde 1016 König von England, erbte Dänemark und gewann 1028 Norwegen.",
+    "explanation": "クヌート大王は1016年にイングランド王となり、デンマークを相続し、1028年にノルウェーを手に入れた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-10",
     "epochId": "wikinger-nordeuropa",
-    "question": "In welcher Schlacht fiel 1066 der norwegische König Harald Hardrada?",
+    "question": "1066年、ノルウェー王ハーラル苛烈王が戦死した戦いはどれか。",
     "choices": [
-      "Hastings",
-      "Edington",
-      "Stamford Bridge",
-      "Stiklestad"
+      "ヘイスティングズ",
+      "エディントン",
+      "スタンフォード・ブリッジ",
+      "スティクレスタ"
     ],
     "answer": 2,
-    "explanation": "Harald Hardrada unterlag am 25. September 1066 bei Stamford Bridge dem englischen König Harald Godwinson.",
+    "explanation": "ハーラル苛烈王は1066年9月25日、スタンフォード・ブリッジでイングランド王ハロルド・ゴドウィンソンに敗れた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-11",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welche Königin vereinte 1397 Dänemark, Norwegen und Schweden in der Kalmarer Union?",
+    "question": "1397年にデンマーク、ノルウェー、スウェーデンをカルマル同盟で統合した女王は誰か。",
     "choices": [
-      "Christina",
-      "Margarete I.",
-      "Emma von der Normandie",
-      "Thyra"
+      "クリスティーナ",
+      "マルグレーテ1世",
+      "ノルマンディーのエマ",
+      "テューラ"
     ],
     "answer": 1,
-    "explanation": "Margarete I. ließ ihren Großneffen Erik von Pommern in Kalmar krönen und regierte selbst bis 1412.",
+    "explanation": "マルグレーテ1世は大甥のポンメルン公エーリクをカルマルで戴冠させ、自らは1412年まで統治した。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-12",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Schiffstyp war das typische Kriegsschiff der Wikinger?",
+    "question": "ヴァイキングの典型的な軍船はどの種類の船か。",
     "choices": [
-      "Galeere",
-      "Kogge",
-      "Karavelle",
-      "Langschiff"
+      "ガレー船",
+      "コグ船",
+      "キャラベル船",
+      "ロングシップ"
     ],
     "answer": 3,
-    "explanation": "Das schlanke Langschiff mit Segel und Rudern war hochseetüchtig und konnte weit in Flüsse vordringen.",
+    "explanation": "帆と櫂を備えた細身のロングシップは外洋航海に耐え、川を遠くまでさかのぼることもできた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-13",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie nennt man die Schriftzeichen, die die Skandinavier in der Wikingerzeit in Steine ritzten?",
+    "question": "ヴァイキング時代にスカンディナヴィア人が石に刻んだ文字は何と呼ばれるか。",
     "choices": [
-      "Runen",
-      "Hieroglyphen",
-      "Keilschrift",
-      "Ogham"
+      "ルーン文字",
+      "ヒエログリフ",
+      "楔形文字",
+      "オガム文字"
     ],
     "answer": 0,
-    "explanation": "Die jüngere Runenreihe der Wikingerzeit umfasste 16 Zeichen; Tausende Runensteine sind erhalten.",
+    "explanation": "ヴァイキング時代の新しいルーン字母は16文字であった。数千のルーン石碑が残っている。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-14",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Gott war in der nordischen Mythologie der Herr der Götter und Gott der Weisheit und Dichtkunst?",
+    "question": "北欧神話で神々の主であり、知恵と詩の神であったのはどの神か。",
     "choices": [
-      "Thor",
-      "Loki",
-      "Odin",
-      "Freyr"
+      "トール",
+      "ロキ",
+      "オーディン",
+      "フレイ"
     ],
     "answer": 2,
-    "explanation": "Odin galt als Göttervater; Thor war der Donnergott, Freyr ein Gott der Fruchtbarkeit.",
+    "explanation": "オーディンは神々の父とされた。トールは雷神、フレイは豊穣の神であった。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-15",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie hieß das skandinavisch besiedelte Gebiet im Osten Englands, in dem dänisches Recht galt?",
+    "question": "デンマークの法が適用された、スカンディナヴィア人が入植したイングランド東部の地域は何と呼ばれたか。",
     "choices": [
-      "Wessex",
-      "Danelag",
-      "Mercia",
-      "Strathclyde"
+      "ウェセックス",
+      "デーンロウ",
+      "マーシア",
+      "ストラスクライド"
     ],
     "answer": 1,
-    "explanation": "Nach Alfreds Sieg bei Edington 878 entstand eine Grenze; das Gebiet nördlich und östlich davon hieß später Danelag.",
+    "explanation": "878年のエディントンでのアルフレッドの勝利ののち境界が生まれ、その北と東の地域はのちにデーンロウと呼ばれた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-16",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher angelsächsische König hielt als einziger dem Großen Heidnischen Heer stand?",
+    "question": "大異教軍に唯一持ちこたえたアングロ・サクソンの王は誰か。",
     "choices": [
-      "Ælla von Northumbria",
-      "Edmund von East Anglia",
-      "Offa von Mercia",
-      "Alfred der Große"
+      "ノーサンブリアのエラ",
+      "イースト・アングリアのエドマンド",
+      "マーシアのオファ",
+      "アルフレッド大王"
     ],
     "answer": 3,
-    "explanation": "Alfred der Große von Wessex besiegte die Wikinger 878 bei Edington.",
+    "explanation": "ウェセックスのアルフレッド大王は878年にエディントンでヴァイキングを破った。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-17",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher isländische Gelehrte schrieb um 1220 die Prosa-Edda?",
+    "question": "1220年頃に『散文エッダ』を著したアイスランドの学者は誰か。",
     "choices": [
-      "Snorri Sturluson",
-      "Ari der Weise",
-      "Saxo Grammaticus",
-      "Adam von Bremen"
+      "スノッリ・ストゥルルソン",
+      "賢者アリ",
+      "サクソ・グラマティクス",
+      "ブレーメンのアダム"
     ],
     "answer": 0,
-    "explanation": "Snorri Sturluson verfasste die Prosa-Edda als Lehrbuch der Dichtkunst und später die Heimskringla.",
+    "explanation": "スノッリ・ストゥルルソンは詩学の手引書として『散文エッダ』を書き、のちに『ヘイムスクリングラ』を著した。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-18",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welche Stadt gründeten norwegische Wikinger 841 als befestigtes Lager in Irland?",
+    "question": "841年にノルウェーのヴァイキングがアイルランドに防備された野営地として建てた町はどれか。",
     "choices": [
-      "Cork",
-      "Belfast",
-      "Dublin",
-      "Galway"
+      "コーク",
+      "ベルファスト",
+      "ダブリン",
+      "ゴールウェイ"
     ],
     "answer": 2,
-    "explanation": "Aus dem Longphort an der Liffey entwickelte sich eine skandinavisch beherrschte Handelsstadt.",
+    "explanation": "リフィー川のロングフォートは、スカンディナヴィア人が支配する交易都市へと発展した。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-19",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welches Jahr gilt meist als Ende der Wikingerzeit?",
+    "question": "ヴァイキング時代の終わりとして通常挙げられるのは何年か。",
     "choices": [
-      "1016",
-      "1066",
-      "1100",
-      "1262"
+      "1016年",
+      "1066年",
+      "1100年",
+      "1262年"
     ],
     "answer": 1,
-    "explanation": "Mit dem Tod Harald Hardradas bei Stamford Bridge 1066 endeten die großen Wikingerzüge.",
+    "explanation": "1066年のスタンフォード・ブリッジでのハーラル苛烈王の戦死によって、大規模なヴァイキング遠征は終わった。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-20",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie nannte man die skandinavischen Händler und Krieger, die über die russischen Flüsse nach Byzanz zogen?",
+    "question": "ロシアの河川をたどってビザンツまで旅したスカンディナヴィアの商人と戦士は何と呼ばれたか。",
     "choices": [
-      "Normannen",
-      "Wenden",
-      "Goten",
-      "Waräger"
+      "ノルマン人",
+      "ヴェンド人",
+      "ゴート人",
+      "ヴァリャーグ"
     ],
     "answer": 3,
-    "explanation": "Im Osten hießen sie Waräger oder Rus; manche dienten später in der Leibgarde des byzantinischen Kaisers.",
+    "explanation": "東方では彼らはヴァリャーグまたはルーシと呼ばれた。一部はのちにビザンツ皇帝の親衛隊に仕えた。",
     "difficulty": 1
   },
   {
     "id": "q-wikinger-nordeuropa-21",
     "epochId": "wikinger-nordeuropa",
-    "question": "In welchem Jahr landete das Große Heidnische Heer in East Anglia?",
+    "question": "大異教軍がイースト・アングリアに上陸したのは何年か。",
     "choices": [
-      "865",
-      "793",
-      "911",
-      "991"
+      "865年",
+      "793年",
+      "911年",
+      "991年"
     ],
     "answer": 0,
-    "explanation": "Das Heer ging 865 an Land, nahm 866 York ein und eroberte in den folgenden Jahren mehrere Königreiche.",
+    "explanation": "この軍は865年に上陸し、866年にヨークを奪い、その後の数年でいくつもの王国を征服した。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-22",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welche Stadt nahm das Große Heidnische Heer 866 ein?",
+    "question": "866年に大異教軍が攻略した都市はどれか。",
     "choices": [
-      "London",
-      "Winchester",
-      "York",
-      "Canterbury"
+      "ロンドン",
+      "ウィンチェスター",
+      "ヨーク",
+      "カンタベリー"
     ],
     "answer": 2,
-    "explanation": "York, angelsächsisch Eoforwic, wurde unter dem Namen Jórvík zum Zentrum skandinavischer Herrschaft in Nordengland.",
+    "explanation": "アングロ・サクソン名でエオフォルウィークと呼ばれたヨークは、ヨールヴィークの名でイングランド北部におけるスカンディナヴィア人支配の中心となった。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-23",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Wikingeranführer ließ sich nach seiner Niederlage bei Edington 878 taufen?",
+    "question": "878年にエディントンで敗れたのち洗礼を受けたヴァイキングの首領は誰か。",
     "choices": [
-      "Ivar",
-      "Guthrum",
-      "Halfdan",
-      "Olav"
+      "イーヴァル",
+      "グスルム",
+      "ハールヴダン",
+      "オーラヴ"
     ],
     "answer": 1,
-    "explanation": "Guthrum wurde getauft, zog sich nach East Anglia zurück und herrschte dort als König.",
+    "explanation": "グスルムは洗礼を受け、イースト・アングリアに退いてそこで王として統治した。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-24",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie nannte man die Tribute, mit denen englische Könige Wikingerheere zum Abzug bewegten?",
+    "question": "イングランドの王たちがヴァイキングの軍勢を立ち去らせるために支払った貢納金は何と呼ばれたか。",
     "choices": [
-      "Peterspfennig",
-      "Zehnt",
-      "Schoss",
-      "Danegeld"
+      "ペテロ献金",
+      "十分の一税",
+      "スコット税",
+      "デーンゲルド"
     ],
     "answer": 3,
-    "explanation": "Besonders unter König Æthelred wurden ab 991 große Summen Silber als Danegeld gezahlt.",
+    "explanation": "とりわけ991年からのエゼルレッド王のもとで、多額の銀がデーンゲルドとして支払われた。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-25",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wer gilt nach der Überlieferung als erster dauerhafter Siedler Islands?",
+    "question": "伝承によれば、アイスランドに最初に定住したのは誰か。",
     "choices": [
-      "Ingólfr Arnarson",
-      "Erik der Rote",
-      "Thorfinn Karlsefni",
-      "Gange-Hrolf"
+      "インゴールヴル・アルナルソン",
+      "赤毛のエイリーク",
+      "トルフィン・カルルセヴニ",
+      "徒歩のフロールヴ"
     ],
     "answer": 0,
-    "explanation": "Nach dem Landnahmebuch ließ sich Ingólfr Arnarson um 874 an der Stelle des heutigen Reykjavík nieder.",
+    "explanation": "『植民の書』によれば、インゴールヴル・アルナルソンは874年頃、現在のレイキャヴィークの地に住みついた。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-26",
     "epochId": "wikinger-nordeuropa",
-    "question": "Auf welcher Ebene im Südwesten Islands tagte das Althing?",
+    "question": "アルシングが開かれたのは、アイスランド南西部のどの平原か。",
     "choices": [
-      "Reykholt",
-      "Skálholt",
-      "Þingvellir",
-      "Hólar"
+      "レイクホルト",
+      "スカウルホルト",
+      "シングヴェトリル",
+      "ホウラル"
     ],
     "answer": 2,
-    "explanation": "Þingvellir liegt östlich von Reykjavík und ist heute Nationalpark und UNESCO-Welterbe.",
+    "explanation": "シングヴェトリルはレイキャヴィークの東にあり、今日では国立公園であり、ユネスコの世界遺産である。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-27",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie entschied sich Island um das Jahr 1000 für das Christentum?",
+    "question": "1000年頃、アイスランドはどのようにしてキリスト教を受け入れたか。",
     "choices": [
-      "Durch eine Eroberung aus Norwegen",
-      "Durch einen Beschluss des Althings",
-      "Durch einen Kreuzzug des Papstes",
-      "Durch die Taufe des isländischen Königs"
+      "ノルウェーからの征服によって",
+      "アルシングの決定によって",
+      "教皇が呼びかけた十字軍によって",
+      "アイスランド王の洗礼によって"
     ],
     "answer": 1,
-    "explanation": "Der Gesetzessprecher Þorgeir verkündete, dass alle Isländer Christen werden sollten, um einen Bürgerkrieg zu vermeiden.",
+    "explanation": "法の宣言者ソルゲイルは、内戦を避けるため、すべてのアイスランド人がキリスト教徒になるべきだと宣言した。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-28",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher fränkische Mönch predigte um 830 im schwedischen Birka?",
+    "question": "830年頃、スウェーデンのビルカで説教したフランクの修道士は誰か。",
     "choices": [
-      "Bonifatius",
-      "Willibrord",
-      "Columban",
-      "Ansgar"
+      "ボニファティウス",
+      "ウィリブロルド",
+      "コルンバヌス",
+      "アンスガル"
     ],
     "answer": 3,
-    "explanation": "Ansgar, später Erzbischof von Hamburg-Bremen, wird als „Apostel des Nordens“ verehrt.",
+    "explanation": "のちにハンブルク=ブレーメン大司教となったアンスガルは、「北方の使徒」として崇敬されている。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-29",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher norwegische König fiel 1030 bei Stiklestad und wurde danach als Heiliger verehrt?",
+    "question": "1030年にスティクレスタで倒れ、その後聖人として崇敬されたノルウェー王は誰か。",
     "choices": [
-      "Olav Haraldsson",
-      "Olav Tryggvason",
-      "Håkon der Gute",
-      "Magnus der Gute"
+      "オーラヴ・ハーラルソン",
+      "オーラヴ・トリュグヴァソン",
+      "善王ホーコン",
+      "善王マグヌス"
     ],
     "answer": 0,
-    "explanation": "Olav Haraldsson wurde als Olav der Heilige zum „ewigen König Norwegens“ und Schutzpatron des Landes.",
+    "explanation": "オーラヴ・ハーラルソンは聖オーラヴとして「ノルウェーの永遠の王」となり、国の守護聖人となった。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-30",
     "epochId": "wikinger-nordeuropa",
-    "question": "In welcher Stadt wurde der heilige Olav begraben, die zum wichtigsten Pilgerort Norwegens wurde?",
+    "question": "聖オーラヴが葬られ、ノルウェーで最も重要な巡礼地となった都市はどこか。",
     "choices": [
-      "Bergen",
-      "Oslo",
-      "Nidaros (Trondheim)",
-      "Stavanger"
+      "ベルゲン",
+      "オスロ",
+      "ニダロス(トロンハイム)",
+      "スタヴァンゲル"
     ],
     "answer": 2,
-    "explanation": "Über Olavs Grab entstand der Dom von Nidaros, Ziel von Pilgern aus ganz Nordeuropa.",
+    "explanation": "ニダロス大聖堂はオーラヴの墓の上に建てられ、北ヨーロッパ各地から巡礼者を集めた。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-31",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher norwegische König ertrank um 1000 in der Seeschlacht bei Svolder?",
+    "question": "1000年頃、スヴォルドの海戦で溺死したノルウェー王は誰か。",
     "choices": [
-      "Harald Schönhaar",
-      "Olav Tryggvason",
-      "Olav Haraldsson",
-      "Erik Blutaxt"
+      "ハーラル美髪王",
+      "オーラヴ・トリュグヴァソン",
+      "オーラヴ・ハーラルソン",
+      "血斧王エイリーク"
     ],
     "answer": 1,
-    "explanation": "Olav Tryggvason sprang nach der Überlieferung über Bord, als sein Schiff „Langer Wurm“ erobert wurde.",
+    "explanation": "伝承によれば、オーラヴ・トリュグヴァソンは自らの船「長蛇号」が奪われたとき、海に飛び込んだ。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-32",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wen heiratete Knut der Große 1017, um seine Herrschaft in England zu festigen?",
+    "question": "イングランドでの支配を固めるため、クヌート大王が1017年に結婚した相手は誰か。",
     "choices": [
-      "Thyra",
-      "Gunhild",
-      "Ælfgifu von Northampton",
-      "Emma von der Normandie"
+      "テューラ",
+      "グンヒルド",
+      "ノーサンプトンのエルフギフ",
+      "ノルマンディーのエマ"
     ],
     "answer": 3,
-    "explanation": "Emma war die Witwe König Æthelreds; ihr gemeinsamer Sohn war Hardiknut.",
+    "explanation": "エマはエゼルレッド王の未亡人であり、二人の息子がハーデクヌーズである。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-33",
     "epochId": "wikinger-nordeuropa",
-    "question": "In welchem Heer diente Harald Hardrada, bevor er König von Norwegen wurde?",
+    "question": "ハーラル苛烈王はノルウェー王になる前、どの部隊に仕えていたか。",
     "choices": [
-      "In der Warägergarde des byzantinischen Kaisers",
-      "Im Heer Wilhelms von der Normandie",
-      "Im Kreuzfahrerheer vor Jerusalem",
-      "In der Leibwache des Kalifen von Córdoba"
+      "ビザンツ皇帝のヴァリャーグ親衛隊",
+      "ノルマンディーのウィリアムの軍",
+      "エルサレム前面の十字軍",
+      "コルドバのカリフの親衛隊"
     ],
     "answer": 0,
-    "explanation": "Harald kämpfte als Waräger für Byzanz unter anderem auf Sizilien und kehrte mit großem Reichtum zurück.",
+    "explanation": "ハーラルはヴァリャーグとしてシチリアなどでビザンツのために戦い、莫大な富をもって帰国した。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-34",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher englische König besiegte 1066 die Norweger bei Stamford Bridge, verlor aber kurz darauf bei Hastings?",
+    "question": "1066年にスタンフォード・ブリッジでノルウェー軍を破ったが、その直後にヘイスティングズで敗れたイングランド王は誰か。",
     "choices": [
-      "Eduard der Bekenner",
-      "Æthelred der Unberatene",
-      "Harald Godwinson",
-      "Edmund Eisenseite"
+      "懺悔王エドワード",
+      "無策王エゼルレッド",
+      "ハロルド・ゴドウィンソン",
+      "剛勇王エドマンド"
     ],
     "answer": 2,
-    "explanation": "Harald Godwinson eilte nach dem Sieg im Norden nach Süden und fiel am 14. Oktober 1066 bei Hastings.",
+    "explanation": "北部での勝利ののち、ハロルド・ゴドウィンソンは南へ急ぎ、1066年10月14日にヘイスティングズで倒れた。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-35",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Handelsplatz an der Schlei war einer der wichtigsten Märkte der Wikingerzeit?",
+    "question": "シュライ湾に面した、ヴァイキング時代で最も重要な市場の一つであった交易地はどこか。",
     "choices": [
-      "Lübeck",
-      "Haithabu",
-      "Danzig",
-      "Bergen"
+      "リューベック",
+      "ヘーゼビュー",
+      "グダンスク",
+      "ベルゲン"
     ],
     "answer": 1,
-    "explanation": "Haithabu verband Nord- und Ostseehandel; seine Reste liegen bei Schleswig.",
+    "explanation": "ヘーゼビューは北海とバルト海の交易を結んでいた。その遺跡はシュレースヴィヒの近くにある。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-36",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie heißt der Grenzwall, der Dänemark im Süden gegen das Frankenreich schützte?",
+    "question": "南でフランク王国からデンマークを守った防塁の名は何か。",
     "choices": [
-      "Limes",
-      "Hadrianswall",
-      "Offa’s Dyke",
-      "Danewerk"
+      "リーメス",
+      "ハドリアヌスの長城",
+      "オファの防塁",
+      "ダーネヴィアケ"
     ],
     "answer": 3,
-    "explanation": "Das Danewerk wurde mehrfach ausgebaut, unter anderem um 808 unter König Göttrik.",
+    "explanation": "ダーネヴィアケは、808年頃のゴズフレズ王のもとでなど、何度も拡張された。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-37",
     "epochId": "wikinger-nordeuropa",
-    "question": "Woher stammte ein großer Teil des Silbers in den Schatzfunden der Wikingerzeit auf Gotland?",
+    "question": "ゴットランドのヴァイキング時代の埋蔵品に含まれる銀の多くは、どこから来たか。",
     "choices": [
-      "Aus dem arabischen Kalifat",
-      "Aus Bergwerken in Norwegen",
-      "Aus dem Inkareich",
-      "Aus Indien über das Rote Meer"
+      "アラブのカリフ国から",
+      "ノルウェーの鉱山から",
+      "インカ帝国から",
+      "紅海経由でインドから"
     ],
     "answer": 0,
-    "explanation": "Zehntausende arabische Dirhams gelangten über die Flüsse Osteuropas in den Norden.",
+    "explanation": "数万枚のアラブのディルハム銀貨が、東ヨーロッパの河川を経て北方に届いた。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-38",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie heißen die Erzählungen in altnordischer Sprache, die auf Island über Familien der Siedlungszeit niedergeschrieben wurden?",
+    "question": "植民時代の家族について、アイスランドで書き記された古ノルド語の物語は何と呼ばれるか。",
     "choices": [
-      "Minnelieder",
-      "Chansons de geste",
-      "Isländersagas",
-      "Annalen"
+      "ミンネザング",
+      "武勲詩",
+      "アイスランド人のサガ",
+      "年代記"
     ],
     "answer": 2,
-    "explanation": "Die Isländersagas entstanden vor allem im 13. und 14. Jahrhundert aus mündlicher Überlieferung.",
+    "explanation": "アイスランド人のサガは、主に13世紀と14世紀に口承をもとに書かれた。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-39",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher dänische König eroberte 1361 die Handelsstadt Visby auf Gotland?",
+    "question": "1361年にゴットランドの交易都市ヴィスビューを征服したデンマーク王は誰か。",
     "choices": [
-      "Erik von Pommern",
-      "Waldemar IV. Atterdag",
-      "Christoph II.",
-      "Knut VI."
+      "ポンメルン公エーリク",
+      "ヴァルデマー4世再興王",
+      "クリストファ2世",
+      "クヌーズ6世"
     ],
     "answer": 1,
-    "explanation": "Die Eroberung Visbys trug dazu bei, dass sich die Hansestädte gegen Waldemar IV. verbündeten.",
+    "explanation": "ヴィスビューの征服は、ハンザ都市がヴァルデマー4世に対抗する同盟を結ぶきっかけの一つとなった。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-40",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Frieden beendete 1370 den Krieg zwischen der Hanse und Dänemark?",
+    "question": "1370年にハンザ同盟とデンマークの戦争を終わらせた和約はどれか。",
     "choices": [
-      "Frieden von Lübeck",
-      "Frieden von Kalmar",
-      "Frieden von Roskilde",
-      "Frieden von Stralsund"
+      "リューベックの和約",
+      "カルマルの和約",
+      "ロスキレの和約",
+      "シュトラールズントの和約"
     ],
     "answer": 3,
-    "explanation": "Im Frieden von Stralsund erhielt die Hanse Handelsvorrechte und für 15 Jahre die Burgen Schonens.",
+    "explanation": "シュトラールズントの和約で、ハンザ同盟は通商特権と、15年間にわたるスコーネの城を得た。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-41",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wer wurde 1397 in Kalmar zum gemeinsamen König der drei nordischen Reiche gekrönt?",
+    "question": "1397年にカルマルで北欧三王国の共同の王として戴冠したのは誰か。",
     "choices": [
-      "Erik von Pommern",
-      "Albrecht von Mecklenburg",
-      "Olav II.",
-      "Christoph von Bayern"
+      "ポンメルン公エーリク",
+      "メクレンブルクのアルブレクト",
+      "オーラヴ2世",
+      "バイエルンのクリストファ"
     ],
     "answer": 0,
-    "explanation": "Erik von Pommern, Großneffe Margaretes I., war König der Union; die tatsächliche Macht lag bis 1412 bei Margarete.",
+    "explanation": "マルグレーテ1世の大甥ポンメルン公エーリクが同盟の王となったが、1412年まで実権はマルグレーテが握っていた。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-42",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welche Insel unterstellte sich zwischen 1262 und 1264 dem norwegischen König?",
+    "question": "1262年から1264年にかけてノルウェー王に服属した島はどれか。",
     "choices": [
-      "Irland",
-      "Gotland",
-      "Island",
-      "Sizilien"
+      "アイルランド",
+      "ゴットランド",
+      "アイスランド",
+      "シチリア"
     ],
     "answer": 2,
-    "explanation": "Im Alten Vertrag erkannten die Isländer König Håkon IV. an; der isländische Freistaat endete.",
+    "explanation": "「古い契約」によってアイスランド人はホーコン4世王を認め、アイスランドの共和政は終わった。",
     "difficulty": 2
   },
   {
     "id": "q-wikinger-nordeuropa-43",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welche Methode zeigte 2021, dass in L’Anse aux Meadows im Jahr 1021 Holz geschlagen wurde?",
+    "question": "2021年、ランス・オ・メドーで木が1021年に伐採されたことを示したのはどの方法か。",
     "choices": [
-      "Radiokarbondatierung von Knochen",
-      "Spuren eines Sonnensturms in den Jahresringen",
-      "Inschriften auf Runensteinen",
-      "Funde arabischer Münzen"
+      "骨の放射性炭素年代測定",
+      "年輪に残る太陽嵐の痕跡",
+      "ルーン石碑の碑文",
+      "アラブ貨幣の出土"
     ],
     "answer": 1,
-    "explanation": "Ein bekannter Sonnensturm von 993 hinterließ einen Kohlenstoff-14-Ausschlag in den Jahresringen, über den die Fällung genau auf 1021 datiert werden konnte.",
+    "explanation": "993年の既知の太陽嵐が年輪に炭素14の急増を残しており、それによって伐採を1021年と正確に年代決定できた。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-44",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie hießen in den Vinland-Sagas die Einheimischen, auf die die Nordleute in Amerika trafen?",
+    "question": "ヴィンランドのサガは、ノルド人がアメリカで出会った先住民を何と呼んでいるか。",
     "choices": [
-      "Thralle",
-      "Goden",
-      "Waräger",
-      "Skrælingar"
+      "スレール(奴隷)",
+      "ゴジ",
+      "ヴァリャーグ",
+      "スクレリング"
     ],
     "answer": 3,
-    "explanation": "Die Sagas nennen sie Skrælingar; Konflikte mit ihnen trugen dazu bei, dass die Siedlungsversuche aufgegeben wurden.",
+    "explanation": "サガは彼らをスクレリングと呼んでいる。彼らとの衝突が、入植の試みが放棄される一因となった。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-45",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Gesetzessprecher verkündete um 1000 auf dem Althing die Annahme des Christentums?",
+    "question": "1000年頃、アルシングでキリスト教の受け入れを告げた法の宣言者は誰か。",
     "choices": [
-      "Þorgeir",
-      "Snorri Sturluson",
-      "Ari der Weise",
-      "Gizurr der Weiße"
+      "ソルゲイル",
+      "スノッリ・ストゥルルソン",
+      "賢者アリ",
+      "白のギズル"
     ],
     "answer": 0,
-    "explanation": "Þorgeir, selbst noch Heide, entschied nach einem Tag und einer Nacht des Nachdenkens, dass ganz Island christlich werden sollte.",
+    "explanation": "自身はまだ異教徒であったソルゲイルは、一昼夜考え抜いたのち、アイスランド全体がキリスト教徒になるべきだと決定した。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-46",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welche Stadt wurde 1103 oder 1104 Sitz des ersten Erzbistums für ganz Skandinavien?",
+    "question": "1103年か1104年に、全スカンディナヴィアのための最初の大司教座が置かれた都市はどこか。",
     "choices": [
-      "Uppsala",
-      "Roskilde",
-      "Lund",
-      "Nidaros"
+      "ウプサラ",
+      "ロスキレ",
+      "ルンド",
+      "ニダロス"
     ],
     "answer": 2,
-    "explanation": "Lund in Schonen gehörte damals zu Dänemark; Nidaros und Uppsala erhielten erst 1152/53 und 1164 eigene Erzbistümer.",
+    "explanation": "スコーネのルンドは当時デンマークに属していた。ニダロスとウプサラがそれぞれ独自の大司教座を得たのは、1152/53年と1164年になってからである。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-47",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher arabische Gesandte beschrieb 922 Händler der Rus und eine Schiffsbestattung an der Wolga?",
+    "question": "922年にヴォルガ川のルーシの商人と船葬を記述したアラブの使節は誰か。",
     "choices": [
-      "Ibn Battuta",
-      "Ibn Fadlan",
-      "Ibn Khaldun",
-      "al-Idrisi"
+      "イブン・バットゥータ",
+      "イブン・ファドラーン",
+      "イブン・ハルドゥーン",
+      "イドリーシー"
     ],
     "answer": 1,
-    "explanation": "Ibn Fadlan reiste im Auftrag des Kalifen zu den Wolgabulgaren und hinterließ einen der seltenen Augenzeugenberichte über die Rus.",
+    "explanation": "イブン・ファドラーンはカリフの命でヴォルガ・ブルガールのもとへ旅し、ルーシについての数少ない目撃証言の一つを残した。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-48",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welcher Chronist schilderte rund hundert Jahre später die Einigung Rollos mit Karl dem Einfältigen?",
+    "question": "約100年後に、ロロとシャルル単純王の協定を記述した年代記作者は誰か。",
     "choices": [
-      "Adam von Bremen",
-      "Widukind von Corvey",
-      "Einhard",
-      "Dudo von Saint-Quentin"
+      "ブレーメンのアダム",
+      "コルヴァイのヴィドゥキント",
+      "アインハルト",
+      "サン=カンタンのデュドン"
     ],
     "answer": 3,
-    "explanation": "Ein Vertragstext von 911 ist nicht erhalten; die ausführliche Darstellung stammt von Dudo von Saint-Quentin.",
+    "explanation": "911年の条約の本文は残っていない。詳しい記述はサン=カンタンのデュドンによるものである。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-49",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welchen Handelsplatz der Abodriten zerstörte der dänische König Göttrik 808?",
+    "question": "808年にデンマーク王ゴズフレズが破壊したオボトリート人の交易地はどれか。",
     "choices": [
-      "Reric",
-      "Birka",
-      "Kaupang",
-      "Wollin"
+      "レーリク",
+      "ビルカ",
+      "カウパング",
+      "ヴォリン"
     ],
     "answer": 0,
-    "explanation": "Göttrik brachte die Kaufleute aus Reric in sein Reich, vermutlich nach Haithabu.",
+    "explanation": "ゴズフレズはレーリクの商人を自らの王国、おそらくヘーゼビューに移した。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-50",
     "epochId": "wikinger-nordeuropa",
-    "question": "Wie heißt Snorri Sturlusons Geschichte der norwegischen Könige?",
+    "question": "スノッリ・ストゥルルソンによるノルウェー王の歴史の名は何か。",
     "choices": [
-      "Landnámabók",
-      "Gesta Danorum",
-      "Heimskringla",
-      "Íslendingabók"
+      "『植民の書』",
+      "『デンマーク人の事績』",
+      "『ヘイムスクリングラ』",
+      "『アイスランド人の書』"
     ],
     "answer": 2,
-    "explanation": "Die Heimskringla entstand um 1230 und erzählt von den sagenhaften Anfängen bis 1177.",
+    "explanation": "『ヘイムスクリングラ』は1230年頃に書かれ、伝説的な起源から1177年までの歴史を語っている。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-51",
     "epochId": "wikinger-nordeuropa",
-    "question": "Welches Gebiet verkaufte Waldemar IV. 1346 an den Deutschen Orden, um Dänemark zurückzugewinnen?",
+    "question": "デンマークを取り戻すため、ヴァルデマー4世が1346年にドイツ騎士団に売却した領土はどれか。",
     "choices": [
-      "Schonen",
-      "Estland",
-      "Gotland",
-      "Holstein"
+      "スコーネ",
+      "エストニア",
+      "ゴットランド",
+      "ホルシュタイン"
     ],
     "answer": 1,
-    "explanation": "Mit dem Erlös löste Waldemar verpfändete Teile Dänemarks aus.",
+    "explanation": "その売却益で、ヴァルデマーは抵当に入っていたデンマークの各地を買い戻した。",
     "difficulty": 3
   },
   {
     "id": "q-wikinger-nordeuropa-52",
     "epochId": "wikinger-nordeuropa",
-    "question": "In welchem Jahr zerbrach die Kalmarer Union endgültig durch den Austritt Schwedens?",
+    "question": "スウェーデンの離脱によってカルマル同盟が最終的に解体したのは何年か。",
     "choices": [
-      "1412",
-      "1448",
-      "1500",
-      "1523"
+      "1412年",
+      "1448年",
+      "1500年",
+      "1523年"
     ],
     "answer": 3,
-    "explanation": "Mit der Wahl Gustav Vasas zum schwedischen König 1523 endete die Union der drei Reiche.",
+    "explanation": "1523年にグスタフ・ヴァーサがスウェーデン王に選ばれたことで、三王国の同盟は終わった。",
     "difficulty": 3
   },
   {

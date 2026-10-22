@@ -119,8 +119,8 @@
   },
   {
     "id": "auslegerkanu",
-    "term": "Auslegerkanu",
-    "definition": "Kanu mit einem seitlich am Rumpf befestigten Schwimmer, dem Ausleger, der das Boot gegen das Kentern stabilisiert. Für die Besiedlung des Pazifiks nutzten die Seefahrer auch große Doppelrumpfkanus mit Segeln aus Pandanusmatten, die Menschen, Tiere und Pflanzen über Tausende Kilometer tragen konnten. Navigiert wurde ohne Instrumente nach Sternen, Dünung, Wolken und Vogelflug.",
+    "term": "アウトリガー・カヌー",
+    "definition": "転覆を防ぐために、船体の横に浮き材(アウトリガー)を取り付けたカヌー。太平洋への移住には、タコノキの葉で編んだ帆をもつ大型の双胴カヌーも使われ、人、動物、植物を数千キロメートル先まで運ぶことができた。航海者は計器を使わず、星、うねり、雲、鳥の飛び方を頼りに航海した。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "lapita-besiedlung-pazifik",
@@ -141,8 +141,8 @@
   },
   {
     "id": "baray",
-    "term": "Baray",
-    "definition": "Khmer-Bezeichnung für die großen rechteckigen Wasserbecken, die die Könige von Angkor anlegen ließen; der Westliche Baray misst etwa acht mal zwei Kilometer. Sie dienten der Wasserversorgung und hatten zugleich religiöse Bedeutung als Abbild des Urozeans um den Weltenberg Meru. Wie stark sie zur Bewässerung der Reisfelder beitrugen, wird in der Forschung unterschiedlich beurteilt.",
+    "term": "バライ",
+    "definition": "アンコールの王たちが築いた大きな長方形の貯水池を指すクメール語。西バライは約8キロメートル×2キロメートルの大きさである。水の供給に役立つと同時に、宇宙の山メルを取り巻く原初の海の姿として宗教的な意味ももっていた。水田の灌漑にどれほど寄与したかについては、研究者のあいだで評価が分かれている。",
     "epochId": "suedostasien",
     "related": [
       "angkor-wat",
@@ -152,8 +152,8 @@
   },
   {
     "id": "basileus",
-    "term": "Basileus",
-    "definition": "Griechisches Wort für „König“, das seit Kaiser Herakleios amtlich als Titel des byzantinischen Kaisers diente. Der Basileus verstand sich als Nachfolger der römischen Kaiser und als von Gott eingesetzter Herrscher der Christenheit. Den Anspruch westlicher Herrscher wie Karls des Großen auf den Kaisertitel erkannte Byzanz nur widerwillig an.",
+    "term": "バシレウス",
+    "definition": "「王」を意味するギリシア語で、皇帝ヘラクレイオスの時代からビザンツ皇帝の公式の称号として用いられた。バシレウスは自らをローマ皇帝の後継者、神に任じられたキリスト教世界の支配者とみなしていた。ビザンツは、カール大帝のような西方の支配者が皇帝の称号を名乗ることを、しぶしぶとしか認めなかった。",
     "epochId": "byzanz",
     "related": [
       "herakleios",
@@ -185,8 +185,8 @@
   },
   {
     "id": "bilderstreit",
-    "term": "Bilderstreit (Ikonoklasmus)",
-    "definition": "Die Auseinandersetzung in Byzanz zwischen etwa 726/730 und 843 darüber, ob religiöse Bilder verehrt werden dürfen. Die Ikonoklasten („Bilderzerstörer“) lehnten das als Götzendienst ab, die Ikonodulen („Bilderverehrer“) verteidigten es. Nach zwei Phasen der Bilderfeindschaft wurde die Bilderverehrung 843 endgültig wiederhergestellt; da die meisten Quellen von den Siegern stammen, ist das Ausmaß der Verfolgungen umstritten.",
+    "term": "聖像破壊運動",
+    "definition": "726/730年頃から843年まで、宗教的な像を崇敬してよいかどうかをめぐってビザンツで起きた争い。イコノクラスト(「像を壊す者」)はこれを偶像崇拝として退け、イコノドゥール(「像を愛する者」)はこれを擁護した。像に敵対的な二つの時期を経て、843年に聖像崇敬が最終的に回復された。史料の大部分は勝者の側から伝わるため、迫害の規模については議論がある。",
     "epochId": "byzanz",
     "related": [
       "beginn-des-bilderstreits",
@@ -209,8 +209,8 @@
   },
   {
     "id": "bojaren",
-    "term": "Bojaren",
-    "definition": "Die adelige Oberschicht in der Kiewer Rus, im Moskauer Reich und in den Donaufürstentümern. Sie besaßen großen Grundbesitz, berieten den Fürsten in der Bojarenduma und besetzten hohe Ämter in Heer und Verwaltung. Iwan IV. verfolgte sie in der Opritschnina, Peter der Große schaffte den Rang ab und ersetzte ihn durch die Rangtabelle.",
+    "term": "ボヤール",
+    "definition": "キエフ・ルーシ、モスクワ国家、ドナウ諸公国における貴族の上層階級。彼らは広大な所領をもち、ボヤール会議で公に助言し、軍と行政の高官を務めた。イヴァン4世はオプリーチニナで彼らを迫害し、ピョートル大帝はこの身分を廃止して官等表に置き換えた。",
     "epochId": "russland-osteuropa",
     "related": [
       "opritschnina",
@@ -273,8 +273,8 @@
   },
   {
     "id": "danegeld",
-    "term": "Danegeld",
-    "definition": "Tributzahlungen, mit denen englische und fränkische Herrscher Wikingerheere zum Abzug bewegten oder Angriffe abwenden wollten. In England zahlte König Æthelred ab 991 immer höhere Summen in Silber, die als Steuer vom ganzen Land eingezogen wurden. Die Zahlungen machten die Raubzüge lohnend und erklären die vielen englischen Münzen in skandinavischen Schatzfunden.",
+    "term": "デーンゲルド",
+    "definition": "イングランドとフランクの支配者が、ヴァイキングの軍勢を撤退させたり襲撃を防いだりするために支払った貢納金。イングランドではエゼルレッド王が991年以降ますます多額の銀を支払い、それは全国から税として徴収された。この支払いは略奪を割に合うものにし、スカンディナヴィアの埋蔵品に多くのイングランド貨幣が含まれている理由ともなっている。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "wikinger-pluendern-paris",
@@ -284,8 +284,8 @@
   },
   {
     "id": "danelag",
-    "term": "Danelag",
-    "definition": "Das Gebiet im Norden und Osten Englands, das im späten 9. Jahrhundert von Skandinaviern besiedelt wurde und in dem dänisches Recht galt. Die Bezeichnung (englisch Danelaw) kam erst im 11. Jahrhundert auf. Ortsnamen auf -by und -thorpe sowie skandinavische Lehnwörter wie „sky“ oder „egg“ erinnern bis heute daran.",
+    "term": "デーンロー",
+    "definition": "9世紀後半にスカンディナヴィア人が入植し、デンマークの法が通用したイングランド北部と東部の地域。この名称が使われるようになったのは11世紀になってからである。-by や -thorpe で終わる地名や、「sky」や「egg」のようなスカンディナヴィア語からの借用語が、今もその名残をとどめている。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "grosses-heidnisches-heer",
@@ -318,8 +318,8 @@
   },
   {
     "id": "devaraja",
-    "term": "Devaraja",
-    "definition": "Sanskrit für „Gott-König“; Bezeichnung für einen Königskult, den Jayavarman II. 802 im Khmer-Reich einführte. Er verband die Herrschaft des Königs eng mit einer Gottheit, meist Shiva, und wurde von einer Priesterfamilie gepflegt. Was der Kult genau bedeutete und ob der König selbst als Gott galt, ist in der Forschung umstritten.",
+    "term": "デーヴァラージャ",
+    "definition": "サンスクリット語で「神王」を意味し、802年にジャヤーヴァルマン2世がクメール王国に導入した王の祭祀の名称。王の支配を神、たいていはシヴァと密接に結びつけ、ある祭司の家系によって維持された。この祭祀が正確に何を意味していたのか、また王自身が神とみなされていたのかについては、研究者のあいだで議論がある。",
     "epochId": "suedostasien",
     "related": [
       "jayavarman-ii-begruendet-khmer-reich",
@@ -415,8 +415,8 @@
   },
   {
     "id": "edda",
-    "term": "Edda",
-    "definition": "Name zweier isländischer Werke des 13. Jahrhunderts, die wichtigste Quelle für die nordische Mythologie. Die Prosa-Edda des Snorri Sturluson ist ein Lehrbuch der Dichtkunst, das die Göttersagen nacherzählt; die Lieder-Edda ist eine Sammlung älterer Götter- und Heldenlieder. Da beide von Christen aufgeschrieben wurden, ist umstritten, wie genau sie den vorchristlichen Glauben wiedergeben.",
+    "term": "エッダ",
+    "definition": "13世紀のアイスランドの二つの作品の名称で、北欧神話の最も重要な史料。スノッリ・ストゥルルソンの『散文のエッダ』は神々の神話を語り直す詩作の手引書であり、『詩のエッダ』は神々と英雄についての古い詩の集成である。どちらもキリスト教徒によって書き記されたため、キリスト教以前の信仰をどこまで忠実に伝えているかについては議論がある。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "snorri-schreibt-die-edda",
@@ -586,8 +586,8 @@
   },
   {
     "id": "gewuerzinseln",
-    "term": "Gewürzinseln (Molukken)",
-    "definition": "Inselgruppe im Osten des heutigen Indonesien, auf der lange als einzigem Ort der Welt Gewürznelken wuchsen; Muskatnuss kam nur von den nahen Banda-Inseln. Der Wunsch, diesen Handel zu beherrschen, trieb Portugiesen, Spanier, Engländer und Niederländer nach Südostasien. Die Niederländische Ostindien-Kompanie erzwang im 17. Jahrhundert mit großer Gewalt ein Monopol.",
+    "term": "香料諸島(モルッカ諸島)",
+    "definition": "現在のインドネシア東部にある諸島で、長いあいだ世界で唯一丁子が育つ場所であった。ナツメグは近くのバンダ諸島でしか採れなかった。この交易を支配したいという欲望が、ポルトガル人、スペイン人、イギリス人、オランダ人を東南アジアへと駆り立てた。17世紀には、オランダ東インド会社が激しい暴力によって独占を押しつけた。",
     "epochId": "suedostasien",
     "related": [
       "portugiesen-erobern-malakka",
@@ -661,8 +661,8 @@
   },
   {
     "id": "griechisches-feuer",
-    "term": "Griechisches Feuer",
-    "definition": "Eine Brandwaffe, die die byzantinische Flotte seit dem 7. Jahrhundert aus Rohren gegen feindliche Schiffe spritzte und die auch auf dem Wasser weiterbrannte. Ihre Zusammensetzung war ein streng gehütetes Staatsgeheimnis und ist bis heute nicht sicher bekannt; vermutlich enthielt sie Erdöl. Sie trug entscheidend zur Abwehr der arabischen Belagerungen Konstantinopels bei.",
+    "term": "ギリシア火",
+    "definition": "7世紀からビザンツ海軍が筒から敵船に噴射した焼夷兵器で、水上でも燃え続けた。その成分は厳重に守られた国家機密であり、今も確かなことは分かっていないが、おそらく石油を含んでいた。アラブによるコンスタンティノープル包囲の撃退に決定的な役割を果たした。",
     "epochId": "byzanz",
     "related": [
       "einsatz-des-griechischen-feuers",
@@ -824,8 +824,8 @@
   },
   {
     "id": "ikone",
-    "term": "Ikone",
-    "definition": "Ein meist auf Holz gemaltes Bild Christi, Marias oder eines Heiligen, das in der orthodoxen Kirche verehrt wird. Nach orthodoxer Lehre gilt die Verehrung nicht dem Bild selbst, sondern dem Dargestellten; die Ikone wird als Fenster zur himmlischen Welt verstanden. Um die Berechtigung dieser Verehrung tobte im 8. und 9. Jahrhundert der Bilderstreit.",
+    "term": "イコン",
+    "definition": "キリスト、マリア、あるいは聖人の姿を、たいていは板に描いた像で、正教会で崇敬される。正教の教えによれば、崇敬は像そのものではなく描かれた人物に向けられ、イコンは天上の世界への窓と理解される。この崇敬の正当性は、8世紀と9世紀の聖像破壊運動で争われた。",
     "epochId": "byzanz",
     "related": [
       "beginn-des-bilderstreits",
@@ -901,8 +901,8 @@
   },
   {
     "id": "jarl",
-    "term": "Jarl",
-    "definition": "Ein hoher skandinavischer Adelstitel, der einen mächtigen Häuptling oder einen Statthalter des Königs bezeichnete. Die Jarle von Lade beherrschten im 10. Jahrhundert weite Teile Norwegens, und die Jarle von Orkney regierten die Inseln nördlich von Schottland. Der englische Adelstitel „Earl“ ist mit dem Wort verwandt und übernahm unter Knut dem Großen dessen Bedeutung.",
+    "term": "ヤール",
+    "definition": "有力な首長や王の代理としての総督を指す、スカンディナヴィアの高位の貴族称号。10世紀にはラーデのヤールがノルウェーの大部分を支配し、オークニーのヤールはスコットランド北方の島々を治めた。イングランドの貴族称号「アール(伯)」はこの語と同系であり、クヌート大王のもとでその意味を帯びるようになった。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "schlacht-bei-svolder",
@@ -979,8 +979,8 @@
   },
   {
     "id": "katipunan",
-    "term": "Katipunan",
-    "definition": "Geheimbund, den Andrés Bonifacio 1892 in Manila gründete, um die Unabhängigkeit der Philippinen von Spanien mit Waffengewalt zu erkämpfen. Sein Name ist eine Kurzform für eine Tagalog-Bezeichnung, die etwa „Höchste und ehrwürdigste Gesellschaft der Kinder des Volkes“ bedeutet. Mit seiner Entdeckung im August 1896 begann die Philippinische Revolution.",
+    "term": "カティプナン",
+    "definition": "1892年にアンドレス・ボニファシオがマニラで結成した秘密結社で、武力によってフィリピンのスペインからの独立を勝ち取ることを目指した。その名は、おおよそ「祖国の子らの至高にして最も尊き結社」を意味するタガログ語の名称の略である。1896年8月にその存在が発覚したことが、フィリピン革命の始まりとなった。",
     "epochId": "suedostasien",
     "related": [
       "philippinische-revolution",
@@ -1066,8 +1066,8 @@
   },
   {
     "id": "kosaken",
-    "term": "Kosaken",
-    "definition": "Freie, militärisch organisierte Gemeinschaften in den Steppen der heutigen Ukraine und Südrusslands, die seit dem 15. Jahrhundert aus geflohenen Bauern und Abenteurern entstanden. Sie wählten ihre Anführer, die Atamane oder Hetmane, selbst und dienten polnischen Königen und Zaren als Grenztruppen. Zugleich führten sie große Aufstände an und trugen die Eroberung Sibiriens.",
+    "term": "コサック",
+    "definition": "15世紀以降、逃亡農民や冒険者から生まれた、現在のウクライナと南ロシアの草原地帯の自由な軍事共同体。彼らは自らの指導者であるアタマンやヘトマンを選び、国境警備隊としてポーランド王やツァーリに仕えた。同時に彼らは大規模な反乱を起こし、シベリア征服の担い手ともなった。",
     "epochId": "russland-osteuropa",
     "related": [
       "chmelnyzkyj-aufstand",
@@ -1100,8 +1100,8 @@
   },
   {
     "id": "kultursystem",
-    "term": "Kultursystem",
-    "definition": "Niederländisch „cultuurstelsel“; das 1830 auf Java eingeführte Zwangsanbausystem. Die Dörfer mussten einen Teil ihres Landes oder ihrer Arbeitskraft für Exportpflanzen wie Kaffee, Zucker und Indigo einsetzen, die der Kolonialstaat zu niedrigen Preisen aufkaufte. Es brachte den Niederlanden hohe Gewinne, führte auf Java aber zu Not und Hungersnöten und wurde ab 1870 schrittweise abgeschafft.",
+    "term": "強制栽培制度",
+    "definition": "オランダ語で「カルチュールステルセル」。1830年にジャワに導入された強制栽培の制度である。村々は土地や労働力の一部をコーヒー、砂糖、藍などの輸出作物にあてなければならず、植民地国家がそれを安い価格で買い上げた。オランダに大きな利益をもたらしたが、ジャワには困窮と飢饉を引き起こし、1870年から段階的に廃止された。",
     "epochId": "suedostasien",
     "related": [
       "java-krieg-und-kultursystem",
@@ -1131,8 +1131,8 @@
   },
   {
     "id": "kyrillische-schrift",
-    "term": "Kyrillische Schrift",
-    "definition": "Ein aus dem griechischen Alphabet entwickeltes Schriftsystem für slawische Sprachen, das im späten 9. und frühen 10. Jahrhundert unter den Schülern Kyrills und Methods im Bulgarischen Reich entstand und nach Kyrill benannt ist. Kyrill selbst hatte zuvor die glagolitische Schrift geschaffen. Heute schreiben unter anderem Russisch, Ukrainisch, Belarussisch, Bulgarisch, Serbisch und Mazedonisch kyrillisch.",
+    "term": "キリル文字",
+    "definition": "ギリシア文字から発展したスラヴ諸語のための文字体系で、9世紀末から10世紀初めにブルガリア帝国のキュリロスとメトディオスの弟子たちのあいだで生まれ、キュリロスにちなんで名づけられた。キュリロス自身はそれ以前にグラゴル文字をつくっていた。今日、ロシア語、ウクライナ語、ベラルーシ語、ブルガリア語、セルビア語、マケドニア語などがキリル文字で書かれている。",
     "epochId": "byzanz",
     "related": [
       "kyrill",
@@ -1154,8 +1154,8 @@
   },
   {
     "id": "langschiff",
-    "term": "Langschiff",
-    "definition": "Das schlanke Kriegsschiff der Wikinger, in Klinkerbauweise aus sich überlappenden Planken gebaut, mit Kiel, Rahsegel und Ruderbänken. Es war hochseetüchtig und hatte so wenig Tiefgang, dass es weit in Flüsse vordringen und an flachen Stränden landen konnte. Funde wie die Schiffe von Gokstad und Skuldelev zeigen Längen von etwa 20 bis 30 Metern.",
+    "term": "ロングシップ",
+    "definition": "ヴァイキングの細長い軍船で、板を重ねて張る鎧張り構造でつくられ、竜骨、横帆、漕ぎ手の座席をそなえていた。航海に耐え、喫水がきわめて浅かったため、川を深くさかのぼり、平らな浜に上陸することができた。ゴクスタ船やスクレデレウ船などの出土品は、長さが約20〜30メートルであったことを示している。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "ueberfall-auf-lindisfarne",
@@ -1165,8 +1165,8 @@
   },
   {
     "id": "lapita-kultur",
-    "term": "Lapita-Kultur",
-    "definition": "Archäologische Kultur, benannt nach einem Fundort in Neukaledonien, die in der zweiten Hälfte des 2. Jahrtausends v. Chr. im Bismarck-Archipel auftrat. Kennzeichen ist Keramik mit fein gestempelten geometrischen Mustern. Ihre Träger sprachen austronesische Sprachen, besiedelten innerhalb weniger Jahrhunderte die Inseln bis Tonga und Samoa und gelten als Vorfahren der Polynesier.",
+    "term": "ラピタ文化",
+    "definition": "ニューカレドニアの遺跡にちなんで名づけられた考古学上の文化で、紀元前2千年紀後半にビスマルク諸島に現れた。その特徴は、細かく押捺された幾何学文様をもつ土器である。その担い手はオーストロネシア語族の言語を話し、数世紀のうちにトンガやサモアまでの島々に移り住み、ポリネシア人の祖先とみなされている。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "lapita-besiedlung-pazifik",
@@ -1208,8 +1208,8 @@
   },
   {
     "id": "leibeigenschaft",
-    "term": "Leibeigenschaft",
-    "definition": "Die rechtliche Bindung von Bauern an den Boden und an einen Herrn, dem sie Arbeit und Abgaben schuldeten. In Russland wurde sie seit dem späten 16. Jahrhundert verschärft und 1649 erblich; Leibeigene konnten verkauft und zum Militär abgegeben werden. Alexander II. hob sie 1861 auf, in den Ostseeprovinzen war sie schon zwischen 1816 und 1819 beendet worden.",
+    "term": "農奴制",
+    "definition": "農民を土地と領主に法的に縛りつけ、賦役と貢租を負わせる制度。ロシアでは16世紀末から強化され、1649年に世襲化された。農奴は売られたり、軍隊に差し出されたりすることもあった。アレクサンドル2世が1861年にこれを廃止した。バルト地方の諸県では、すでに1816年から1819年のあいだに終わっていた。",
     "epochId": "russland-osteuropa",
     "related": [
       "aufhebung-der-leibeigenschaft-in-russland",
@@ -1252,8 +1252,8 @@
   },
   {
     "id": "mana",
-    "term": "Mana",
-    "definition": "Polynesischer Begriff für eine übernatürliche Kraft, Autorität und Ansehen, die Menschen, Ahnen, Orte und Gegenstände besitzen können. Häuptlinge und Könige leiteten ihr Mana von göttlichen Vorfahren ab; Erfolge im Krieg vermehrten es, Niederlagen oder Verstöße gegen das Tapu konnten es mindern. Der Begriff spielt in den Kulturen Polynesiens bis heute eine große Rolle.",
+    "term": "マナ",
+    "definition": "人、祖先、場所、物がもちうる超自然的な力、権威、威信を指すポリネシアの概念。首長や王は神々の祖先からマナを得ており、戦いでの成功はそれを増し、敗北やタプの違反はそれを減らしえた。この概念は今日もポリネシアの文化で大きな役割を果たしている。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "tui-tonga-reich",
@@ -1263,8 +1263,8 @@
   },
   {
     "id": "mandala-staat",
-    "term": "Mandala (Herrschaftsordnung)",
-    "definition": "Modell, mit dem Historiker die frühen Reiche Südostasiens beschreiben: Ein Machtzentrum war von Kreisen abhängiger Fürsten und Häfen umgeben, deren Treue sich nach Stärke und Ansehen des Herrschers richtete. Grenzen waren unscharf, und dieselben Gebiete konnten mehreren Zentren zugleich Tribut leisten. Der Begriff erklärt, warum Reiche wie Srivijaya oder Majapahit rasch wachsen und schrumpfen konnten.",
+    "term": "マンダラ(政治秩序)",
+    "definition": "歴史家が東南アジアの初期国家を説明するために用いるモデル。権力の中心の周りに、従属する諸侯や港の輪があり、その忠誠は支配者の力と威信にかかっていた。境界はあいまいで、同じ地域が同時に複数の中心に貢物を納めることもあった。この概念は、シュリーヴィジャヤやマジャパヒトのような王国がなぜあれほど急速に拡大し縮小しえたのかを説明する。",
     "epochId": "suedostasien",
     "related": [
       "aufstieg-von-srivijaya",
@@ -1391,8 +1391,8 @@
   },
   {
     "id": "moai",
-    "term": "Moai",
-    "definition": "Die großen Steinfiguren von Rapa Nui (Osterinsel), von denen fast 900 bekannt sind. Sie stellen Ahnen dar und standen meist auf zeremoniellen Plattformen, den Ahu, mit dem Blick ins Inselinnere. Die meisten wurden aus Tuffstein im Krater Rano Raraku gehauen; einige trugen Kopfaufsätze aus rotem Schlackenstein, die Pukao.",
+    "term": "モアイ",
+    "definition": "ラパ・ヌイ(イースター島)の大きな石像で、900体近くが知られている。祖先を表し、たいていはアフと呼ばれる儀礼用の基壇の上に、内陸を向いて立っていた。大部分はラノ・ララク火口の凝灰岩から彫り出され、一部は赤いスコリアの髷プカオを載せていた。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "moai-auf-rapa-nui",
@@ -1465,8 +1465,8 @@
   },
   {
     "id": "orthodoxe-kirche",
-    "term": "Orthodoxe Kirche",
-    "definition": "Die aus der Reichskirche von Byzanz hervorgegangene Gemeinschaft östlicher Kirchen; „orthodox“ bedeutet „rechtgläubig“. Sie besteht aus selbstständigen Landeskirchen, unter denen der Patriarch von Konstantinopel einen Ehrenvorrang hat, und erkennt den Papst nicht als Oberhaupt an. Kennzeichen sind die Liturgie in überlieferten Kirchensprachen wie Griechisch und Kirchenslawisch statt Latein, die Verehrung von Ikonen und ein starkes Mönchtum.",
+    "term": "正教会",
+    "definition": "ビザンツの帝国教会から発展した東方諸教会の共同体で、「オーソドックス」は「正しく信じる」を意味する。自治を行う各国の教会からなり、そのなかでコンスタンティノープル総主教が名誉上の首位をもつ。教皇を首長とは認めない。その特徴には、ラテン語ではなくギリシア語や教会スラヴ語といった伝統的な教会語による典礼、イコンの崇敬、強い修道の伝統がある。",
     "epochId": "byzanz",
     "related": [
       "morgenlaendisches-schisma",
@@ -1487,8 +1487,8 @@
   },
   {
     "id": "pa-festung",
-    "term": "Pā",
-    "definition": "Befestigte Siedlung der Māori, meist auf Hügeln, Bergspornen oder Landzungen gelegen und mit Gräben, Erdwällen und Palisaden geschützt. Viele Tausend Pā sind archäologisch nachgewiesen; sie sicherten Dörfer und Vorräte in Zeiten von Konflikten. In den Neuseelandkriegen bauten Māori Pā mit Schützengräben und Unterständen, die dem britischen Artilleriebeschuss erstaunlich gut standhielten.",
+    "term": "パー",
+    "definition": "マオリの要塞化した集落で、たいていは丘、尾根、岬の上にあり、堀、土塁、柵で守られていた。考古学的には数千ものパーが確認されており、争いの時代に村と食料庫を守った。ニュージーランド戦争では、マオリは塹壕と掩蔽壕をそなえたパーを築き、それはイギリスの砲撃に驚くほどよく耐えた。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "besiedlung-neuseelands",
@@ -1645,8 +1645,8 @@
   },
   {
     "id": "runen",
-    "term": "Runen",
-    "definition": "Die Schriftzeichen der germanischen Völker, die vor allem in Stein, Holz und Metall geritzt wurden. Die ältere Runenreihe, nach ihren ersten Zeichen Futhark genannt, hatte 24 Zeichen; in der Wikingerzeit war in Skandinavien eine jüngere Reihe mit 16 Zeichen in Gebrauch. Die meisten der erhaltenen Runensteine stehen in Schweden und erinnern an Verstorbene oder an Fahrten in die Fremde.",
+    "term": "ルーン文字",
+    "definition": "ゲルマン人の文字で、主に石、木、金属に刻まれた。古い文字列は最初の文字にちなんでフサルクと呼ばれ、24文字からなっていた。ヴァイキング時代のスカンディナヴィアでは、16文字からなる新しい文字列が使われた。現存するルーン石碑の大部分はスウェーデンにあり、死者や異国への旅を記念している。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "runenstein-von-jelling",
@@ -1656,8 +1656,8 @@
   },
   {
     "id": "saga",
-    "term": "Saga",
-    "definition": "Eine Prosaerzählung in altnordischer Sprache, wie sie vor allem auf Island im 13. und 14. Jahrhundert niedergeschrieben wurde. Die Isländersagas erzählen von Familien der Siedlungszeit, ihren Fehden und Fahrten, die Königssagas von den Herrschern Norwegens. Sie beruhen auf mündlicher Überlieferung, entstanden aber Generationen nach den Ereignissen und sind deshalb nur mit Vorsicht als Geschichtsquelle zu nutzen.",
+    "term": "サガ",
+    "definition": "古ノルド語による散文の物語で、とりわけ13世紀と14世紀のアイスランドで書き記された。アイスランド人のサガは植民時代の家族とその抗争や航海を語り、王のサガはノルウェーの支配者を扱う。口承に基づいているが、出来事から何世代ものちに書かれたため、歴史史料としては慎重に用いなければならない。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "leif-eriksson-erreicht-vinland",
@@ -1719,8 +1719,8 @@
   },
   {
     "id": "semstwo",
-    "term": "Semstwo",
-    "definition": "Gewähltes Organ der ländlichen Selbstverwaltung, das Alexander II. 1864 auf Ebene der Gouvernements und Kreise einführte. Die Semstwa unterhielten Schulen, Krankenhäuser und Straßen und beschäftigten Ärzte, Lehrer und Agronomen. Sie wurden zu einem Sammelbecken liberaler Kräfte, die eine Verfassung forderten.",
+    "term": "ゼムストヴォ",
+    "definition": "アレクサンドル2世が1864年に県と郡の段階に導入した、選挙による農村自治機関。ゼムストヴォは学校、病院、道路を維持し、医師、教師、農業技師を雇った。憲法を求める自由主義勢力の結集の場となった。",
     "epochId": "russland-osteuropa",
     "related": [
       "aufhebung-der-leibeigenschaft-in-russland",
@@ -1752,8 +1752,8 @@
   },
   {
     "id": "solidus",
-    "term": "Solidus",
-    "definition": "Die Goldmünze, die Konstantin der Große Anfang des 4. Jahrhunderts einführte; 72 Stück wurden aus einem römischen Pfund Gold geprägt. Im griechischen Osten Nomisma genannt, blieb sie bis ins 11. Jahrhundert wertbeständig und war im ganzen Mittelmeerraum ein begehrtes Zahlungsmittel. Nach einer Zeit der Verschlechterung ersetzte Alexios I. sie 1092 durch das Hyperpyron.",
+    "term": "ソリドゥス金貨",
+    "definition": "4世紀初めにコンスタンティヌス大帝が導入した金貨で、ローマ・ポンドの金1ポンドから72枚が打たれた。ギリシア語圏の東方ではノミスマと呼ばれ、11世紀まで価値を保ち、地中海全域で求められる通貨であった。品位低下の時期を経て、アレクシオス1世が1092年にヒュペルピュロン金貨に置き換えた。",
     "epochId": "byzanz",
     "related": [
       "konstantin-der-grosse",
@@ -1871,8 +1871,8 @@
   },
   {
     "id": "szlachta",
-    "term": "Szlachta",
-    "definition": "Der Adel Polen-Litauens, der mit nach Schätzungen sechs bis zehn Prozent der Bevölkerung ungewöhnlich zahlreich war und vom reichen Magnaten bis zum landlosen Kleinadligen reichte. Seine Mitglieder galten als rechtlich gleich, wählten seit 1573 den König und beherrschten den Reichstag. Ihre „goldene Freiheit“ schützte vor königlicher Willkür, schwächte aber den Staat.",
+    "term": "シュラフタ",
+    "definition": "ポーランド・リトアニアの貴族で、人口の推定6〜10パーセントと異例に多く、富裕な大貴族から土地をもたない小貴族までを含んでいた。その成員は法のもとで平等とみなされ、1573年からは国王を選び、議会を支配した。彼らの「黄金の自由」は王の恣意から身を守ったが、国家を弱めた。",
     "epochId": "russland-osteuropa",
     "related": [
       "union-von-lublin",
@@ -1882,8 +1882,8 @@
   },
   {
     "id": "tapu",
-    "term": "Tapu",
-    "definition": "Polynesischer Begriff für das Heilige und Verbotene, von dem das Wort „Tabu“ stammt; auf Hawaiʻi lautet er „kapu“. Tapu lag auf Personen, Orten und Dingen, die mit Göttern oder Mana verbunden waren, und wer es verletzte, musste mit Unglück oder Strafe rechnen. James Cook brachte das Wort aus Tonga nach Europa.",
+    "term": "タプ",
+    "definition": "神聖なもの、禁じられたものを指すポリネシアの概念で、「タブー」という語はここから来ている。ハワイでは「カプ」という。タプは神々やマナと結びついた人、場所、物に宿り、それを犯した者は不幸や罰を覚悟しなければならなかった。この語をトンガからヨーロッパにもたらしたのはジェームズ・クックである。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "aufhebung-des-kapu",
@@ -1893,8 +1893,8 @@
   },
   {
     "id": "terra-nullius",
-    "term": "Terra nullius",
-    "definition": "Lateinisch für „Niemandsland“: die Rechtsvorstellung, ein Gebiet gehöre niemandem und dürfe deshalb ohne Vertrag in Besitz genommen werden. Der Begriff kam erst später in Gebrauch, beschreibt aber die Grundlage der britischen Inbesitznahme Australiens ab 1788, bei der das Land der Aborigines ohne Abkommen und Entschädigung der Krone zugeschlagen wurde. 1992 verwarf der Oberste Gerichtshof Australiens im Mabo-Urteil diese Annahme und erkannte erstmals Landrechte der Ureinwohner an.",
+    "term": "テラ・ヌリウス(無主地)",
+    "definition": "ラテン語で「誰のものでもない土地」を意味し、ある領域は誰にも属さないので条約なしに取得してよいという法的な考え方。この用語自体が使われるようになったのはのちのことだが、1788年以降のイギリスによるオーストラリア占有の基礎を言い表している。そこではアボリジニの土地が合意も補償もなく王室に併合された。1992年、オーストラリア高等裁判所はマボ判決でこの前提を退け、初めて先住権原を認めた。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "ankunft-der-first-fleet",
@@ -1904,8 +1904,8 @@
   },
   {
     "id": "themenverfassung",
-    "term": "Themen",
-    "definition": "Die Militärbezirke, in die das Byzantinische Reich seit dem 7. Jahrhundert gegliedert wurde. An ihrer Spitze stand ein Stratege, der zugleich militärische und zivile Gewalt ausübte; die Soldaten stammten oft aus dem jeweiligen Bezirk. Wann und wie diese Ordnung entstand, ob unter Herakleios oder schrittweise danach, ist in der Forschung umstritten.",
+    "term": "テマ制",
+    "definition": "7世紀からビザンツ帝国が分けられた軍管区。それぞれの長はストラテゴスで、軍事と民政の両方の権限を行使し、兵士はしばしばその管区自体の出身であった。この制度がいつどのように生まれたのか、ヘラクレイオスのもとでか、あるいはその後しだいにかについては、歴史家のあいだで議論がある。",
     "epochId": "byzanz",
     "related": [
       "herakleios",
@@ -1915,8 +1915,8 @@
   },
   {
     "id": "theravada",
-    "term": "Theravada-Buddhismus",
-    "definition": "„Lehre der Älteren“; die Richtung des Buddhismus, die sich auf den Pali-Kanon stützt und das Mönchtum in den Mittelpunkt stellt. Sie gelangte vor allem aus Sri Lanka nach Südostasien und wurde ab dem 11. Jahrhundert in Pagan, später in Sukhothai, Ayutthaya, Laos und Kambodscha vorherrschend. Bis heute ist sie die wichtigste Religion in Myanmar, Thailand, Laos und Kambodscha.",
+    "term": "上座部仏教",
+    "definition": "「長老の教え」を意味し、パーリ語経典に基づき僧院生活を中心に置く仏教の一派。主にスリランカから東南アジアに伝わり、11世紀からはパガンで、のちにスコータイ、アユタヤ、ラオス、カンボジアで支配的となった。今日もミャンマー、タイ、ラオス、カンボジアの主要な宗教である。",
     "epochId": "suedostasien",
     "related": [
       "anawrahta-eint-pagan",
@@ -1927,8 +1927,8 @@
   },
   {
     "id": "thing",
-    "term": "Thing",
-    "definition": "Die Versammlung der freien Männer in den germanischen und skandinavischen Gesellschaften, auf der Recht gesprochen, Streit geschlichtet und über gemeinsame Angelegenheiten beschlossen wurde. Es gab örtliche Things und große Landesversammlungen wie das isländische Althing oder das norwegische Gulating. Das Wort lebt in Parlamentsnamen wie Storting, Folketing und Alþingi weiter.",
+    "term": "シング(民会)",
+    "definition": "ゲルマンとスカンディナヴィアの社会における自由民の集会で、裁判が行われ、争いが調停され、共同の事柄が決定された。地方のシングのほか、アイスランドのアルシングやノルウェーのグラシングのような大きな地域集会があった。この語は、ストーティング、フォルケティング、アルシングといった議会の名称に今も生きている。",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "gruendung-des-althing",
@@ -1993,8 +1993,8 @@
   },
   {
     "id": "traumzeit",
-    "term": "Traumzeit",
-    "definition": "Übersetzung (englisch „Dreaming“) für die Weltdeutungen der Aborigines, nach denen Ahnenwesen in einer Schöpfungszeit Landschaft, Lebewesen, Gesetze und Bräuche schufen. Diese Zeit gilt nicht als abgeschlossene Vergangenheit, sondern ist in Orten, Liedern, Tänzen und Zeremonien gegenwärtig. Sie verbindet Menschen mit bestimmten Landstücken, für die sie Verantwortung tragen; die einzelnen Sprachgruppen haben dafür eigene Begriffe wie „Jukurrpa“ bei den Warlpiri.",
+    "term": "ドリーミング",
+    "definition": "オーストラリアのアボリジニの世界観を指す一般的な英語の用語で、それによれば、祖先の存在が創造の時代に景観、生き物、掟、慣習をつくった。この時代は閉じた過去ではなく、場所、歌、踊り、儀礼のなかに現在するものとみなされる。それは人々を、自らが責任を負う特定の土地に結びつけている。個々の言語集団はそれぞれ独自の呼び名をもち、たとえばワルピリ族では「ジュクルパ」という。",
     "epochId": "ozeanien-pazifik",
     "related": [
       "besiedlung-australiens",
@@ -2046,8 +2046,8 @@
   },
   {
     "id": "voc",
-    "term": "VOC (Niederländische Ostindien-Kompanie)",
-    "definition": "Die Vereinigte Ostindische Kompanie, 1602 gegründet, war eine Handelsgesellschaft mit dem niederländischen Monopol für den Asienhandel und dem Recht, Festungen zu bauen, Soldaten zu halten und Verträge zu schließen. Von Batavia aus beherrschte sie den Gewürzhandel und große Teile Javas. Sie gilt als eine der ersten Aktiengesellschaften und wurde 1799 aufgelöst.",
+    "term": "VOC(オランダ東インド会社)",
+    "definition": "1602年に設立された連合東インド会社は、オランダのアジア貿易の独占権と、要塞を築き、兵士を置き、条約を結ぶ権利をもつ貿易会社であった。バタヴィアを拠点に香辛料交易とジャワの大部分を支配した。最初期の株式会社の一つとみなされ、1799年に解散した。",
     "epochId": "suedostasien",
     "related": [
       "voc-gruendet-batavia",
@@ -2101,8 +2101,8 @@
   },
   {
     "id": "waraeger",
-    "term": "Waräger",
-    "definition": "Ostslawische und byzantinische Bezeichnung für skandinavische Händler und Krieger, die im 9. und 10. Jahrhundert die Flusswege zwischen Ostsee und Schwarzem Meer befuhren. Sie spielten bei der Entstehung der Kiewer Rus eine wichtige Rolle und dienten in Byzanz als kaiserliche Leibgarde. Wie groß ihr Anteil an der Staatsbildung war, ist umstritten.",
+    "term": "ヴァリャーグ",
+    "definition": "9世紀と10世紀にバルト海と黒海のあいだの河川路を往来したスカンディナヴィアの商人・戦士を指す、東スラヴとビザンツでの呼び名。彼らはキエフ・ルーシの成立に重要な役割を果たし、ビザンツでは皇帝の親衛隊として仕えた。国家形成における彼らの役割がどれほど大きかったかについては議論がある。",
     "epochId": "russland-osteuropa",
     "related": [
       "rjurik-und-die-berufung-der-waraeger",
@@ -2124,8 +2124,8 @@
   },
   {
     "id": "wetsche",
-    "term": "Wetsche",
-    "definition": "Die Volksversammlung der freien Männer in Städten der Rus, besonders in Nowgorod und Pskow. In Nowgorod wählte das Wetsche Bürgermeister und Erzbischof, entschied über Krieg und Frieden und konnte Fürsten berufen und absetzen. Mit der Unterwerfung Nowgorods durch Moskau 1478 wurde es abgeschafft.",
+    "term": "ヴェーチェ(民会)",
+    "definition": "ルーシの都市、とりわけノヴゴロドとプスコフにおける自由民の集会。ノヴゴロドではヴェーチェが市長と大主教を選び、戦争と講和を決め、公を招いたり退けたりすることができた。1478年にモスクワがノヴゴロドを屈服させると廃止された。",
     "epochId": "russland-osteuropa",
     "related": [
       "moskau-unterwirft-nowgorod",
@@ -2158,8 +2158,8 @@
   },
   {
     "id": "zar",
-    "term": "Zar",
-    "definition": "Herrschertitel, abgeleitet vom lateinischen „Caesar“, den in Russland erstmals Iwan IV. 1547 bei seiner Krönung führte. Er stellte den Moskauer Herrscher auf eine Stufe mit dem byzantinischen Kaiser und betonte seine unbeschränkte, von Gott verliehene Macht. Seit 1721 lautete der offizielle Titel Kaiser, doch der Begriff Zar blieb bis 1917 gebräuchlich.",
+    "term": "ツァーリ",
+    "definition": "ラテン語の「カエサル」に由来する支配者の称号で、ロシアでは1547年の戴冠式でイヴァン4世が初めて名乗った。それはモスクワの支配者をビザンツ皇帝と同格に置き、神から与えられた無制限の権力を強調した。1721年からの公式の称号は皇帝(インペラートル)であったが、ツァーリという呼び名は1917年まで広く使われ続けた。",
     "epochId": "russland-osteuropa",
     "related": [
       "iwan-iv-wird-zar",
