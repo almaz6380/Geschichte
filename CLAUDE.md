@@ -54,6 +54,12 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
+- **1.3.0 (22.10.2026):** Fünf neue Epochen (Ozeanien und Pazifik, Byzanz, Südostasien, Wikinger und Nordeuropa,
+  Russland und Osteuropa), dazu 5 Ereignisse + 2 Personen fürs Mittelalter; passende Bestandseinträge in die neuen
+  Epochen verschoben. Jetzt 25 Epochen, 644 Ereignisse, 326 Personen, 200 Begriffe, 1.300 Fragen, alle 9 Sprachen
+  (neue Übersetzungsblöcke `translate/src/*.5x.json`). Web live, Android **versionCode 16 in Produktion (an alle)**
+  inkl. Store-Texte, iOS **Build 26 eingereicht** (reviewSubmission `f53b5d47-…`).
+  Nächster Schritt laut Nutzer: neue Sprachen (ko, tr, pl, nl, id, ar – Arabisch braucht RTL-Umbau).
 - **1.2.0 (19.10.2026):** 9 Sprachen, Werbung (Banner, Vollbild nach Runden, Video für den
   50:50-Joker), DSGVO-Einwilligung, iOS-Tracking-Abfrage, Datenschutzerklärung und Store-Texte angepasst.
   Web live. Android **versionCode 15 in Produktion (an alle)**, Versionshinweise in allen Sprachen.
