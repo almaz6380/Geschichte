@@ -4368,6 +4368,734 @@
     "difficulty": 3
   },
   {
+    "id": "q-byzanz-01",
+    "epochId": "byzanz",
+    "question": "An der Stelle welcher griechischen Stadt weihte Konstantin der Große 330 seine neue Hauptstadt ein?",
+    "choices": [
+      "Chalkedon",
+      "Byzantion",
+      "Nikomedia",
+      "Smyrna"
+    ],
+    "answer": 1,
+    "explanation": "Konstantinopel entstand an der Stelle des alten Byzantion am Bosporus, nach dem das Reich später „Byzantinisches Reich“ genannt wurde.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-02",
+    "epochId": "byzanz",
+    "question": "In welchem Jahr wurde Konstantinopel als neue Hauptstadt eingeweiht?",
+    "choices": [
+      "313",
+      "325",
+      "330",
+      "395"
+    ],
+    "answer": 2,
+    "explanation": "Konstantin der Große weihte die Stadt am 11. Mai 330 ein.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-03",
+    "epochId": "byzanz",
+    "question": "Wie bezeichneten sich die Bewohner des Byzantinischen Reiches selbst?",
+    "choices": [
+      "Als Rhomäer, also Römer",
+      "Als Byzantiner",
+      "Als Hellenen",
+      "Als Achäer"
+    ],
+    "answer": 0,
+    "explanation": "Die Byzantiner verstanden sich als Römer; der Name „Byzantinisches Reich“ wurde erst von Gelehrten der Neuzeit geprägt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-04",
+    "epochId": "byzanz",
+    "question": "Welche Sprache setzte sich im 7. Jahrhundert als Sprache von Hof und Verwaltung durch?",
+    "choices": [
+      "Latein",
+      "Armenisch",
+      "Syrisch",
+      "Griechisch"
+    ],
+    "answer": 3,
+    "explanation": "Unter Herakleios löste Griechisch, die Sprache der Mehrheit im Osten, das Latein als Amtssprache endgültig ab.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-05",
+    "epochId": "byzanz",
+    "question": "Was geschah 395 nach dem Tod Kaiser Theodosius’ I.?",
+    "choices": [
+      "Das Christentum wurde verboten",
+      "Das Reich wurde zwischen seinen Söhnen in eine West- und eine Osthälfte geteilt",
+      "Konstantinopel wurde von den Goten erobert",
+      "Rom wurde wieder alleinige Hauptstadt"
+    ],
+    "answer": 1,
+    "explanation": "Arcadius erhielt den Osten, Honorius den Westen; die beiden Reichsteile entwickelten sich danach immer stärker auseinander.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-06",
+    "epochId": "byzanz",
+    "question": "Wie lange bestand das Oströmische Reich ungefähr noch nach dem Ende Westroms 476?",
+    "choices": [
+      "Rund 200 Jahre",
+      "Rund 500 Jahre",
+      "Fast 1000 Jahre",
+      "Über 1500 Jahre"
+    ],
+    "answer": 2,
+    "explanation": "Das Oströmische Reich bestand bis zur Eroberung Konstantinopels 1453, also fast tausend Jahre länger als Westrom.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-07",
+    "epochId": "byzanz",
+    "question": "Welche Befestigung schützte Konstantinopel seit dem 5. Jahrhundert auf der Landseite?",
+    "choices": [
+      "Der Hadrianswall",
+      "Die Aurelianische Mauer",
+      "Die Servianische Mauer",
+      "Die Theodosianischen Mauern"
+    ],
+    "answer": 3,
+    "explanation": "Die unter Theodosius II. um 413 vollendeten Landmauern wurden fast tausend Jahre lang nicht von der Landseite her überwunden.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-08",
+    "epochId": "byzanz",
+    "question": "Was legte das Konzil von Chalkedon 451 fest?",
+    "choices": [
+      "Den Vorrang des Papstes über alle Bischöfe",
+      "Dass Christus in zwei Naturen wahrer Gott und wahrer Mensch ist",
+      "Das Verbot religiöser Bilder",
+      "Die Teilung des Reiches in Themen"
+    ],
+    "answer": 1,
+    "explanation": "Das Konzil lehrte zwei Naturen Christi, unvermischt und ungetrennt; viele Christen in Ägypten und Syrien lehnten das ab.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-09",
+    "epochId": "byzanz",
+    "question": "Woher hat der Nika-Aufstand von 532 seinen Namen?",
+    "choices": [
+      "Vom Schlachtruf „Nika!“, das heißt „Siege!“",
+      "Von der Stadt Nikaia, in der er begann",
+      "Vom Anführer Nikolaos",
+      "Von der Siegesgöttin, deren Statue gestürzt wurde"
+    ],
+    "answer": 0,
+    "explanation": "Die Aufständischen riefen „Nika!“, „Siege!“, den Ruf, mit dem sonst die Wagenlenker im Hippodrom angefeuert wurden.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-10",
+    "epochId": "byzanz",
+    "question": "Welche beiden Zirkusparteien verbündeten sich im Nika-Aufstand gegen den Kaiser?",
+    "choices": [
+      "Patrizier und Plebejer",
+      "Guelfen und Ghibellinen",
+      "Blaue und Grüne",
+      "Optimaten und Popularen"
+    ],
+    "answer": 2,
+    "explanation": "Die Blauen und die Grünen waren Anhänger der Rennställe im Hippodrom und zugleich einflussreiche politische Gruppen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-11",
+    "epochId": "byzanz",
+    "question": "Welcher Feldherr eroberte 533/534 für Justinian das Vandalenreich in Nordafrika?",
+    "choices": [
+      "Narses",
+      "Stilicho",
+      "Aëtius",
+      "Belisar"
+    ],
+    "answer": 3,
+    "explanation": "Belisar landete 533 in Nordafrika, nahm Karthago ein und zwang 534 König Gelimer zur Kapitulation.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-12",
+    "epochId": "byzanz",
+    "question": "Gegen welches Volk führte Byzanz von 535 bis 554 Krieg um Italien?",
+    "choices": [
+      "Gegen die Ostgoten",
+      "Gegen die Langobarden",
+      "Gegen die Westgoten",
+      "Gegen die Franken"
+    ],
+    "answer": 0,
+    "explanation": "Belisar und Narses eroberten Italien in einem langen Krieg von den Ostgoten zurück; 568 drangen dann die Langobarden ein.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-13",
+    "epochId": "byzanz",
+    "question": "Welche Seuche erfasste ab 541 das Byzantinische Reich?",
+    "choices": [
+      "Die Cholera",
+      "Die Pest",
+      "Die Pocken",
+      "Die Lepra"
+    ],
+    "answer": 1,
+    "explanation": "Die Justinianische Pest war die erste bekannte Pestpandemie; DNA-Funde belegen den Erreger Yersinia pestis.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-14",
+    "epochId": "byzanz",
+    "question": "Wie gelangten nach dem Bericht Prokops Seidenraupen in das Byzantinische Reich?",
+    "choices": [
+      "Als Geschenk des chinesischen Kaisers",
+      "Durch einen Friedensvertrag mit Persien",
+      "Mönche schmuggelten ihre Eier in hohlen Stäben",
+      "Arabische Händler verkauften sie in Alexandria"
+    ],
+    "answer": 2,
+    "explanation": "Um 552 brachten Mönche Eier der Seidenraupe heimlich nach Konstantinopel; danach entstand eine eigene Seidenproduktion.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-15",
+    "epochId": "byzanz",
+    "question": "Welcher Teil des justinianischen Rechtswerks enthält Auszüge aus den Schriften römischer Juristen?",
+    "choices": [
+      "Die Novellen",
+      "Die Institutionen",
+      "Der Codex",
+      "Die Digesten"
+    ],
+    "answer": 3,
+    "explanation": "Die 533 veröffentlichten Digesten, auch Pandekten genannt, sammelten Auszüge aus den Werken klassischer römischer Juristen.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-16",
+    "epochId": "byzanz",
+    "question": "Welcher Geschichtsschreiber beschrieb Justinians Kriege und verfasste zugleich eine gehässige „Geheimgeschichte“ über den Kaiser?",
+    "choices": [
+      "Prokop von Caesarea",
+      "Eusebius von Caesarea",
+      "Ammianus Marcellinus",
+      "Michael Psellos"
+    ],
+    "answer": 0,
+    "explanation": "Prokop pries Justinian in seinen offiziellen Werken, griff ihn und Theodora aber in der erst später bekannt gewordenen Geheimgeschichte scharf an.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-17",
+    "epochId": "byzanz",
+    "question": "Welcher Kaiser besiegte 627 bei Ninive das Heer der Perser?",
+    "choices": [
+      "Justinian I.",
+      "Herakleios",
+      "Leon III.",
+      "Basileios II."
+    ],
+    "answer": 1,
+    "explanation": "Herakleios führte einen kühnen Feldzug ins persische Kernland und erzwang 628 einen Frieden mit den Sasaniden.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-18",
+    "epochId": "byzanz",
+    "question": "Welche Reliquie brachte Herakleios 630 nach seinem Sieg über die Perser nach Jerusalem zurück?",
+    "choices": [
+      "Die Gebeine des Apostels Petrus",
+      "Das Grabtuch Christi",
+      "Das Kreuz Christi",
+      "Die Bundeslade"
+    ],
+    "answer": 2,
+    "explanation": "Die Perser hatten 614 das Kreuz aus Jerusalem entführt; Herakleios brachte es 630 feierlich zurück.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-19",
+    "epochId": "byzanz",
+    "question": "In welcher Schlacht unterlag ein byzantinisches Heer 636 den Arabern, sodass Syrien verloren ging?",
+    "choices": [
+      "Am Kleidion-Pass",
+      "Bei Manzikert",
+      "Bei Myriokephalon",
+      "Am Jarmuk"
+    ],
+    "answer": 3,
+    "explanation": "Nach der Niederlage am Jarmuk, einem Nebenfluss des Jordan, gab Herakleios Syrien auf.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-20",
+    "epochId": "byzanz",
+    "question": "Welche Provinz, die Kornkammer Konstantinopels, eroberten die Araber zwischen 640 und 642?",
+    "choices": [
+      "Ägypten",
+      "Sizilien",
+      "Armenien",
+      "Thrakien"
+    ],
+    "answer": 0,
+    "explanation": "Mit Ägypten verlor das Reich seine reichste Provinz und die wichtigste Getreidequelle der Hauptstadt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-21",
+    "epochId": "byzanz",
+    "question": "Was war das „griechische Feuer“?",
+    "choices": [
+      "Ein Leuchtfeuer am Bosporus",
+      "Eine Brandwaffe, die auch auf dem Wasser weiterbrannte",
+      "Ein Signalsystem aus Fackeln",
+      "Das ewige Feuer in der Hagia Sophia"
+    ],
+    "answer": 1,
+    "explanation": "Die aus Rohren gespritzte Flüssigkeit setzte feindliche Schiffe in Brand und war kaum zu löschen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-22",
+    "epochId": "byzanz",
+    "question": "Wem schreibt die Überlieferung die Erfindung des griechischen Feuers zu?",
+    "choices": [
+      "Anthemios von Tralleis",
+      "Archimedes",
+      "Kallinikos, einem Baumeister aus Syrien",
+      "Prokop von Caesarea"
+    ],
+    "answer": 2,
+    "explanation": "Nach dem Chronisten Theophanes brachte Kallinikos um 672 die Waffe nach Konstantinopel; die Zusammensetzung blieb geheim.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-23",
+    "epochId": "byzanz",
+    "question": "Worum ging es im byzantinischen Bilderstreit?",
+    "choices": [
+      "Um das Recht, Kaiser auf Münzen abzubilden",
+      "Um den Bau neuer Kirchen",
+      "Um die Bemalung von Grabmälern",
+      "Um die Frage, ob religiöse Bilder verehrt werden dürfen"
+    ],
+    "answer": 3,
+    "explanation": "Bildergegner hielten die Verehrung von Ikonen für Götzendienst, Bilderfreunde sahen in ihnen einen Weg zum Heiligen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-24",
+    "epochId": "byzanz",
+    "question": "Unter welchem Kaiser begann im 8. Jahrhundert der Bilderstreit?",
+    "choices": [
+      "Leon III.",
+      "Herakleios",
+      "Michael VIII.",
+      "Alexios I."
+    ],
+    "answer": 0,
+    "explanation": "Leon III. wandte sich um 726/730 gegen die Bilderverehrung; wie weit er dabei ging, ist umstritten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-25",
+    "epochId": "byzanz",
+    "question": "Welches Konzil erlaubte 787 die Verehrung von Bildern wieder?",
+    "choices": [
+      "Das Konzil von Chalkedon",
+      "Das Zweite Konzil von Nicaea",
+      "Das Konzil von Ephesos",
+      "Das Konzil von Konstanz"
+    ],
+    "answer": 1,
+    "explanation": "Auf Betreiben der Kaiserin Irene erklärte das Zweite Konzil von Nicaea die Verehrung von Bildern für rechtmäßig.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-26",
+    "epochId": "byzanz",
+    "question": "Welche Kaiserin ließ 797 ihren eigenen Sohn blenden und regierte danach allein?",
+    "choices": [
+      "Theodora",
+      "Zoe",
+      "Irene",
+      "Anna Komnene"
+    ],
+    "answer": 2,
+    "explanation": "Irene ließ Konstantin VI. blenden und herrschte bis 802 als erste Frau allein über das Reich.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-27",
+    "epochId": "byzanz",
+    "question": "Mit welchem Fest erinnert die orthodoxe Kirche an das Ende des Bilderstreits 843?",
+    "choices": [
+      "Mit dem Fest der Kreuzerhöhung",
+      "Mit dem Palmsonntag",
+      "Mit dem Fest der Verklärung",
+      "Mit dem Sonntag der Orthodoxie"
+    ],
+    "answer": 3,
+    "explanation": "Am ersten Sonntag der Fastenzeit feiert die orthodoxe Kirche die Wiederherstellung der Bilderverehrung durch Kaiserin Theodora.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-28",
+    "epochId": "byzanz",
+    "question": "In welches Land reisten Kyrill und Method 863 als Missionare?",
+    "choices": [
+      "Nach Großmähren",
+      "In die Kiewer Rus",
+      "Nach Polen",
+      "Nach Ungarn"
+    ],
+    "answer": 0,
+    "explanation": "Fürst Rastislav von Großmähren hatte den Kaiser um Lehrer gebeten, die in slawischer Sprache predigen konnten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-29",
+    "epochId": "byzanz",
+    "question": "Welche Schrift schuf Kyrill selbst für die slawische Sprache?",
+    "choices": [
+      "Die kyrillische Schrift",
+      "Die glagolitische Schrift",
+      "Die Runenschrift",
+      "Die Ogham-Schrift"
+    ],
+    "answer": 1,
+    "explanation": "Kyrill entwickelte die glagolitische Schrift; die nach ihm benannte kyrillische Schrift entstand erst später unter seinen Schülern in Bulgarien.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-30",
+    "epochId": "byzanz",
+    "question": "In welcher Sprache feierten Kyrill und Method mit den Mährern Gottesdienst?",
+    "choices": [
+      "Latein",
+      "Griechisch",
+      "Slawisch",
+      "Aramäisch"
+    ],
+    "answer": 2,
+    "explanation": "Die Brüder übersetzten liturgische Texte ins Slawische, was fränkische Geistliche heftig ablehnten.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-31",
+    "epochId": "byzanz",
+    "question": "Aus welcher Stadt stammten die Slawenapostel Kyrill und Method?",
+    "choices": [
+      "Athen",
+      "Antiochia",
+      "Konstantinopel",
+      "Thessaloniki"
+    ],
+    "answer": 3,
+    "explanation": "In der Gegend um Thessaloniki lebten viele Slawen, sodass die Brüder die Sprache von Jugend an kannten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-32",
+    "epochId": "byzanz",
+    "question": "Welcher bulgarische Herrscher ließ sich um 864 taufen und nahm das Christentum aus Byzanz an?",
+    "choices": [
+      "Boris I.",
+      "Krum",
+      "Simeon",
+      "Samuel"
+    ],
+    "answer": 0,
+    "explanation": "Boris nahm bei der Taufe den Namen seines Paten Michael III. an und holte später die Schüler Kyrills und Methods ins Land.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-33",
+    "epochId": "byzanz",
+    "question": "Welchen Beinamen trägt Kaiser Basileios II.?",
+    "choices": [
+      "Der Weise",
+      "Der Bulgarentöter",
+      "Der Große",
+      "Der Bärtige"
+    ],
+    "answer": 1,
+    "explanation": "Basileios II. unterwarf in jahrzehntelangen Kriegen das Bulgarische Reich; der Beiname ist erst später belegt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-34",
+    "epochId": "byzanz",
+    "question": "Was ließ Basileios II. nach dem Chronisten Skylitzes nach der Schlacht am Kleidion 1014 mit den bulgarischen Gefangenen tun?",
+    "choices": [
+      "Er ließ sie als Söldner anwerben",
+      "Er ließ sie in Kleinasien ansiedeln",
+      "Er ließ sie blenden",
+      "Er ließ sie gegen Lösegeld frei"
+    ],
+    "answer": 2,
+    "explanation": "Laut Skylitzes wurden rund 15.000 Gefangene geblendet und zu Zar Samuel zurückgeschickt; die Zahl gilt als wohl übertrieben.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-35",
+    "epochId": "byzanz",
+    "question": "Wie hieß die Leibwache der byzantinischen Kaiser, die aus Skandinaviern und Rus bestand?",
+    "choices": [
+      "Prätorianergarde",
+      "Janitscharen",
+      "Mamluken",
+      "Warägergarde"
+    ],
+    "answer": 3,
+    "explanation": "Die Warägergarde entstand Ende des 10. Jahrhunderts aus einem Heer, das Wladimir von Kiew Basileios II. geschickt hatte.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-36",
+    "epochId": "byzanz",
+    "question": "Welche Dynastie stellte von 867 bis 1056 die byzantinischen Kaiser?",
+    "choices": [
+      "Die makedonische Dynastie",
+      "Die Komnenen",
+      "Die isaurische Dynastie",
+      "Die Palaiologen"
+    ],
+    "answer": 0,
+    "explanation": "Die von Basileios I. begründete makedonische Dynastie führte das Reich zu einer neuen Blütezeit.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-37",
+    "epochId": "byzanz",
+    "question": "Welches Jahr gilt als Symbol der Trennung von Ost- und Westkirche?",
+    "choices": [
+      "1071",
+      "1054",
+      "1095",
+      "1204"
+    ],
+    "answer": 1,
+    "explanation": "1054 belegten sich päpstliche Gesandte und der Patriarch von Konstantinopel gegenseitig mit dem Bann.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-38",
+    "epochId": "byzanz",
+    "question": "Welche Streitfrage gehörte zu den Ursachen des Schismas von 1054?",
+    "choices": [
+      "Der Ablasshandel",
+      "Die Kindertaufe",
+      "Das Filioque im Glaubensbekenntnis",
+      "Die Heiligsprechung von Kaisern"
+    ],
+    "answer": 2,
+    "explanation": "Die lateinische Kirche hatte dem Glaubensbekenntnis das Wort „Filioque“ („und dem Sohn“) hinzugefügt, was die Ostkirche ablehnte.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-39",
+    "epochId": "byzanz",
+    "question": "Wann wurden die gegenseitigen Bannflüche von 1054 aufgehoben?",
+    "choices": [
+      "1439",
+      "1870",
+      "2000",
+      "1965"
+    ],
+    "answer": 3,
+    "explanation": "Papst Paul VI. und Patriarch Athenagoras hoben die Bannflüche 1965 auf; die Trennung der Kirchen besteht dennoch fort.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-40",
+    "epochId": "byzanz",
+    "question": "Wer besiegte 1071 bei Manzikert den byzantinischen Kaiser Romanos IV.?",
+    "choices": [
+      "Die Seldschuken",
+      "Die Osmanen",
+      "Die Mongolen",
+      "Die Normannen"
+    ],
+    "answer": 0,
+    "explanation": "Sultan Alp Arslan nahm den Kaiser gefangen; danach drangen türkische Gruppen tief nach Kleinasien vor.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-41",
+    "epochId": "byzanz",
+    "question": "Welche süditalienische Stadt, den letzten byzantinischen Stützpunkt in Italien, eroberten die Normannen 1071?",
+    "choices": [
+      "Neapel",
+      "Bari",
+      "Palermo",
+      "Ravenna"
+    ],
+    "answer": 1,
+    "explanation": "Mit dem Fall Baris im selben Jahr wie Manzikert endete die byzantinische Herrschaft in Italien.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-byzanz-42",
+    "epochId": "byzanz",
+    "question": "Welcher byzantinische Kaiser bat den Westen um militärische Hilfe und trug so zum Ersten Kreuzzug bei?",
+    "choices": [
+      "Basileios II.",
+      "Herakleios",
+      "Alexios I. Komnenos",
+      "Michael VIII. Palaiologos"
+    ],
+    "answer": 2,
+    "explanation": "Alexios I. bat um Söldner gegen die Seldschuken; Papst Urban II. rief 1095 daraufhin zum Kreuzzug auf.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-43",
+    "epochId": "byzanz",
+    "question": "Wie heißt das Geschichtswerk, in dem Anna Komnene die Regierung ihres Vaters beschrieb?",
+    "choices": [
+      "Strategikon",
+      "Geheimgeschichte",
+      "Chronographia",
+      "Alexias"
+    ],
+    "answer": 3,
+    "explanation": "Die Alexias über Alexios I. ist eine Hauptquelle für den Ersten Kreuzzug aus byzantinischer Sicht.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-44",
+    "epochId": "byzanz",
+    "question": "Welches Recht erhielten venezianische Kaufleute durch das Privileg Alexios’ I.?",
+    "choices": [
+      "Zollfreien Handel in fast allen Häfen des Reiches",
+      "Das Recht, eigene Münzen im Reich zu prägen",
+      "Den Alleinbesitz der Insel Kreta",
+      "Einen Sitz im kaiserlichen Rat"
+    ],
+    "answer": 0,
+    "explanation": "Für ihre Flottenhilfe gegen die Normannen durften die Venezianer abgabenfrei handeln und erhielten ein eigenes Viertel in Konstantinopel.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-45",
+    "epochId": "byzanz",
+    "question": "Welche Stadt eroberten und plünderten die Teilnehmer des Vierten Kreuzzugs 1204?",
+    "choices": [
+      "Damaskus",
+      "Konstantinopel",
+      "Kairo",
+      "Antiochia"
+    ],
+    "answer": 1,
+    "explanation": "Statt ins Heilige Land zog das Kreuzfahrerheer nach Konstantinopel und plünderte die christliche Hauptstadt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-46",
+    "epochId": "byzanz",
+    "question": "Welcher Doge von Venedig spielte beim Vierten Kreuzzug eine führende Rolle?",
+    "choices": [
+      "Francesco Foscari",
+      "Pietro II. Orseolo",
+      "Enrico Dandolo",
+      "Sebastiano Ziani"
+    ],
+    "answer": 2,
+    "explanation": "Der hochbetagte und fast blinde Enrico Dandolo begleitete das Heer und sicherte Venedig große Teile der Beute.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-47",
+    "epochId": "byzanz",
+    "question": "Welche berühmten Kunstwerke brachten die Venezianer 1204 aus dem Hippodrom von Konstantinopel nach Venedig?",
+    "choices": [
+      "Die Säulen des Herkules",
+      "Die Statue des Koloss",
+      "Die Schlangensäule",
+      "Vier bronzene Pferde"
+    ],
+    "answer": 3,
+    "explanation": "Die vier Pferde schmückten lange die Fassade des Markusdoms; die Originale stehen heute in dessen Museum.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-48",
+    "epochId": "byzanz",
+    "question": "Von welchem griechischen Nachfolgestaat aus wurde Konstantinopel 1261 zurückerobert?",
+    "choices": [
+      "Vom Kaiserreich Nikaia",
+      "Vom Kaiserreich Trapezunt",
+      "Vom Despotat Epirus",
+      "Vom Despotat Morea"
+    ],
+    "answer": 0,
+    "explanation": "Truppen Michaels VIII. Palaiologos, des Kaisers von Nikaia, nahmen die Stadt im Juli 1261 ein.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-49",
+    "epochId": "byzanz",
+    "question": "Welche Dynastie regierte das Byzantinische Reich von 1261 bis 1453?",
+    "choices": [
+      "Die Komnenen",
+      "Die Palaiologen",
+      "Die Angeloi",
+      "Die Laskariden"
+    ],
+    "answer": 1,
+    "explanation": "Die von Michael VIII. begründete Dynastie der Palaiologen war die letzte des Reiches.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-50",
+    "epochId": "byzanz",
+    "question": "Was beschloss das Konzil von Ferrara und Florenz 1439?",
+    "choices": [
+      "Einen gemeinsamen Kreuzzug nach Jerusalem",
+      "Die Absetzung des Patriarchen",
+      "Eine Union von Ost- und Westkirche, die in Byzanz weitgehend abgelehnt wurde",
+      "Die Rückgabe der 1204 geraubten Schätze"
+    ],
+    "answer": 2,
+    "explanation": "Kaiser Johannes VIII. erhoffte von der Union Hilfe gegen die Osmanen, doch Klerus und Volk wiesen sie größtenteils zurück.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-byzanz-51",
+    "epochId": "byzanz",
+    "question": "Welche Goldmünze war über Jahrhunderte die stabile Währung des Byzantinischen Reiches?",
+    "choices": [
+      "Der Dinar",
+      "Der Florin",
+      "Der Denar",
+      "Der Solidus"
+    ],
+    "answer": 3,
+    "explanation": "Der von Konstantin eingeführte Solidus behielt bis ins 11. Jahrhundert seinen Goldgehalt und war im ganzen Mittelmeerraum begehrt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-byzanz-52",
+    "epochId": "byzanz",
+    "question": "Welcher Berg in Nordgriechenland wurde seit dem 10. Jahrhundert zum Zentrum des orthodoxen Mönchtums?",
+    "choices": [
+      "Der Athos",
+      "Der Olymp",
+      "Der Parnass",
+      "Der Sinai"
+    ],
+    "answer": 0,
+    "explanation": "963 wurde auf dem Athos das Kloster Megisti Lavra gegründet; bis heute leben dort Mönche in rund zwanzig Klöstern.",
+    "difficulty": 2
+  },
+  {
     "id": "q-erster-weltkrieg-zwischenkriegszeit-01",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "question": "1914年夏天，哪一事件引发了第一次世界大战？",
@@ -10920,6 +11648,734 @@
     "difficulty": 3
   },
   {
+    "id": "q-ozeanien-pazifik-01",
+    "epochId": "ozeanien-pazifik",
+    "question": "In welchem heutigen Gebiet liegt der Fundort, nach dem die Lapita-Kultur benannt ist?",
+    "choices": [
+      "Samoa",
+      "Neukaledonien",
+      "Fidschi",
+      "Neuguinea"
+    ],
+    "answer": 1,
+    "explanation": "Die Lapita-Kultur ist nach einem Fundort in Neukaledonien benannt, an dem ihre typische Keramik entdeckt wurde.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-02",
+    "epochId": "ozeanien-pazifik",
+    "question": "Woran erkennen Archäologen die Lapita-Kultur vor allem?",
+    "choices": [
+      "An großen Steinfiguren",
+      "An Bronzewerkzeugen",
+      "An pyramidenförmigen Tempeln",
+      "An gestempelter, verzierter Keramik"
+    ],
+    "answer": 3,
+    "explanation": "Kennzeichen der Lapita-Kultur ist Keramik mit fein gestempelten geometrischen Mustern.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-03",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Inselgruppen erreichten Lapita-Seefahrer etwa zwischen 1000 und 800 v. Chr.?",
+    "choices": [
+      "Fidschi, Tonga und Samoa",
+      "Hawaiʻi und die Marquesas",
+      "Neuseeland und die Chathaminseln",
+      "Rapa Nui und Pitcairn"
+    ],
+    "answer": 0,
+    "explanation": "Fidschi, Tonga und Samoa bildeten den Westrand Polynesiens, wo sich danach die polynesische Kultur entwickelte.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-04",
+    "epochId": "ozeanien-pazifik",
+    "question": "Um welche Zeit erreichten Polynesier Neuseeland?",
+    "choices": [
+      "Um 1500 v. Chr.",
+      "Um 500 n. Chr.",
+      "Um 1250 bis 1300",
+      "Um 1642"
+    ],
+    "answer": 2,
+    "explanation": "Radiokarbondaten zeigen, dass ostpolynesische Siedler Neuseeland um 1250 bis 1300 erreichten.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-05",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer gab dem Pazifischen Ozean seinen Namen?",
+    "choices": [
+      "James Cook",
+      "Abel Tasman",
+      "Ferdinand Magellan",
+      "Vasco Núñez de Balboa"
+    ],
+    "answer": 2,
+    "explanation": "Magellan nannte das Meer nach der stürmischen Durchfahrt der Magellanstraße 1520 „Pazifik“, das ruhige Meer.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-06",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wie heißen die großen Steinfiguren auf Rapa Nui?",
+    "choices": [
+      "Moai",
+      "Tiki",
+      "Marae",
+      "Pukao"
+    ],
+    "answer": 0,
+    "explanation": "Die Moai stellen verehrte Ahnen dar; Pukao heißen die roten Kopfaufsätze mancher Figuren.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-07",
+    "epochId": "ozeanien-pazifik",
+    "question": "Aus welchem Krater stammt der Stein der meisten Moai?",
+    "choices": [
+      "Rano Kau",
+      "Mauna Kea",
+      "Haleakalā",
+      "Rano Raraku"
+    ],
+    "answer": 3,
+    "explanation": "Die meisten Moai wurden aus dem Tuffstein des Kraters Rano Raraku gehauen, wo noch viele unvollendete Figuren liegen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-08",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Insel erreichten Magellans Schiffe im März 1521 nach der Pazifiküberquerung?",
+    "choices": [
+      "Tahiti",
+      "Guam",
+      "Fidschi",
+      "Hawaiʻi"
+    ],
+    "answer": 1,
+    "explanation": "Am 6. März 1521 erreichte die Flotte Guam in den Marianen, nach über drei Monaten auf See.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-09",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Insel sichtete Abel Tasman im November 1642 und nannte sie Van-Diemens-Land?",
+    "choices": [
+      "Neuguinea",
+      "Neukaledonien",
+      "Die Südinsel Neuseelands",
+      "Tasmanien"
+    ],
+    "answer": 3,
+    "explanation": "Tasman benannte die Insel nach dem Generalgouverneur der Ostindien-Kompanie; später erhielt sie seinen eigenen Namen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-10",
+    "epochId": "ozeanien-pazifik",
+    "question": "In wessen Auftrag segelte Abel Tasman 1642?",
+    "choices": [
+      "Der britischen Royal Society",
+      "Der Niederländischen Ostindien-Kompanie",
+      "Der spanischen Krone",
+      "Der Französischen Akademie der Wissenschaften"
+    ],
+    "answer": 1,
+    "explanation": "Die Ostindien-Kompanie schickte Tasman von Batavia aus, um das vermutete Südland zu erkunden.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-11",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer war Tupaia?",
+    "choices": [
+      "Ein Māori-Häuptling, der den Vertrag von Waitangi aushandelte",
+      "Der erste König von Tonga",
+      "Ein Priester und Navigator aus Raʻiātea, der mit Cook reiste",
+      "Ein Aborigine, der mit Arthur Phillip nach England reiste"
+    ],
+    "answer": 2,
+    "explanation": "Tupaia begleitete Cook ab 1769, zeichnete eine Karte mit rund 70 Inseln und dolmetschte in Neuseeland.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-12",
+    "epochId": "ozeanien-pazifik",
+    "question": "In welchem Jahr erreichte die First Fleet Australien?",
+    "choices": [
+      "1788",
+      "1770",
+      "1801",
+      "1840"
+    ],
+    "answer": 0,
+    "explanation": "Die elf Schiffe der First Fleet erreichten im Januar 1788 die Botany Bay und gründeten die Kolonie in Sydney Cove.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-13",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer war der erste Gouverneur von New South Wales?",
+    "choices": [
+      "Arthur Phillip",
+      "James Cook",
+      "William Hobson",
+      "Joseph Banks"
+    ],
+    "answer": 0,
+    "explanation": "Arthur Phillip führte die First Fleet nach Australien und leitete die Kolonie bis 1792.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-14",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wo ließ Arthur Phillip am 26. Januar 1788 die britische Flagge hissen?",
+    "choices": [
+      "In der Botany Bay",
+      "In Hobart",
+      "In Sydney Cove in Port Jackson",
+      "In Port Phillip"
+    ],
+    "answer": 2,
+    "explanation": "Weil die Botany Bay ungeeignet erschien, zog die Flotte nach Port Jackson weiter; dort entstand Sydney.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-15",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wozu diente die Kolonie New South Wales zunächst vor allem?",
+    "choices": [
+      "Als Stützpunkt für den Gewürzhandel",
+      "Als Strafkolonie für verurteilte Straftäter",
+      "Als Missionsstation für die Pazifikinseln",
+      "Als Goldgräbersiedlung"
+    ],
+    "answer": 1,
+    "explanation": "Nach dem Verlust der amerikanischen Kolonien deportierte Großbritannien Sträflinge nach Australien.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-16",
+    "epochId": "ozeanien-pazifik",
+    "question": "Was traf im April 1789 die Eora rund um Sydney besonders schwer?",
+    "choices": [
+      "Ein Vulkanausbruch",
+      "Eine Dürre mit Buschbränden",
+      "Die Ankunft einer zweiten Flotte",
+      "Eine Pockenepidemie"
+    ],
+    "answer": 3,
+    "explanation": "Die Epidemie, meist als Pocken gedeutet, tötete etwa die Hälfte der Aborigines im Umland; ihre Herkunft ist umstritten.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-17",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer war Bennelong?",
+    "choices": [
+      "Ein Anführer des bewaffneten Widerstands bei Parramatta",
+      "Ein Wangal-Mann, der zwischen Eora und Kolonisten vermittelte",
+      "Ein Missionar der London Missionary Society",
+      "Ein Sträfling, der als Erster Gold fand"
+    ],
+    "answer": 1,
+    "explanation": "Bennelong wurde 1789 gefangen genommen, wurde später ein wichtiger Vermittler und reiste 1792 mit Phillip nach England.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-18",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welcher Bidjigal-Mann führte ab etwa 1790 den Widerstand gegen die Kolonisten bei Sydney an?",
+    "choices": [
+      "Bennelong",
+      "Arabanoo",
+      "Hongi Hika",
+      "Pemulwuy"
+    ],
+    "answer": 3,
+    "explanation": "Pemulwuy führte über ein Jahrzehnt Überfälle auf Farmen bei Parramatta und am Hawkesbury River an, bis er 1802 erschossen wurde.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-19",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wonach suchten Seeleute aus Makassar an der Nordküste Australiens?",
+    "choices": [
+      "Nach Trepang (Seegurken)",
+      "Nach Gold",
+      "Nach Perlen für Europa",
+      "Nach Sandelholz"
+    ],
+    "answer": 0,
+    "explanation": "Die Makassaren sammelten und trockneten Trepang, der in China als Delikatesse und Heilmittel begehrt war.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-20",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wie wird die Weltdeutung der Aborigines, nach der Ahnenwesen das Land schufen, im Deutschen meist genannt?",
+    "choices": [
+      "Ahnenzeit",
+      "Schöpfungsnacht",
+      "Traumzeit",
+      "Sternenweg"
+    ],
+    "answer": 2,
+    "explanation": "Die Traumzeit („Dreaming“) ist keine abgeschlossene Vergangenheit, sondern in Orten, Liedern und Zeremonien gegenwärtig.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-21",
+    "epochId": "ozeanien-pazifik",
+    "question": "Was sind „Songlines“?",
+    "choices": [
+      "Handelsrouten der makassarischen Seeleute",
+      "Kirchenlieder der Missionare auf Tahiti",
+      "Gesangslinien, die die Wege der Ahnenwesen durch das Land beschreiben",
+      "Seekarten aus Palmrippen und Muscheln"
+    ],
+    "answer": 2,
+    "explanation": "Songlines verbinden Lieder, Orte und Erzählungen der Traumzeit und dienten auch als Wegweiser über weite Strecken.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-22",
+    "epochId": "ozeanien-pazifik",
+    "question": "Woran erinnert das Fest „Coming of the Light“ in der Torres-Straße?",
+    "choices": [
+      "An die Ankunft christlicher Missionare 1871",
+      "An den Anschluss an Queensland 1879",
+      "An Cooks Landung 1770",
+      "An das Ende des Perlmuttfangs"
+    ],
+    "answer": 0,
+    "explanation": "Am 1. Juli 1871 landeten Missionare der London Missionary Society auf Erub; der Tag wird bis heute gefeiert.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-23",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wie heißen die befestigten Siedlungen der Māori?",
+    "choices": [
+      "Marae",
+      "Heiau",
+      "Ahu",
+      "Pā"
+    ],
+    "answer": 3,
+    "explanation": "Pā lagen meist auf Hügeln oder Landzungen und waren mit Gräben, Wällen und Palisaden geschützt; ein Marae ist ein Versammlungsplatz.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-24",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche flugunfähigen Riesenvögel jagten die ersten Siedler Neuseelands bis zur Ausrottung?",
+    "choices": [
+      "Kiwi",
+      "Moa",
+      "Kākāpō",
+      "Emu"
+    ],
+    "answer": 1,
+    "explanation": "Die Moa wurden innerhalb von etwa ein bis zwei Jahrhunderten nach der Ankunft der Menschen ausgerottet.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-25",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wie heißt in der Überlieferung der Māori das Herkunftsland ihrer Vorfahren?",
+    "choices": [
+      "Aotearoa",
+      "Rapa Nui",
+      "Te Waipounamu",
+      "Hawaiki"
+    ],
+    "answer": 3,
+    "explanation": "Die Überlieferung erzählt von der Fahrt aus Hawaiki in Kanus wie Tainui und Te Arawa; Aotearoa ist der Māori-Name Neuseelands.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-26",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Nutzpflanze aus Südamerika gilt als Hinweis auf frühe Kontakte zwischen Polynesiern und Südamerika?",
+    "choices": [
+      "Der Taro",
+      "Die Süßkartoffel",
+      "Die Brotfrucht",
+      "Die Kokospalme"
+    ],
+    "answer": 1,
+    "explanation": "Die Süßkartoffel stammt aus Südamerika und war in Polynesien schon vor der Ankunft der Europäer verbreitet; Einzelheiten der Kontakte sind umstritten.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-27",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer vereinigte die Hawaiʻi-Inseln zu einem Königreich?",
+    "choices": [
+      "Liliʻuokalani",
+      "Kalākaua",
+      "Kamehameha I.",
+      "Liholiho"
+    ],
+    "answer": 2,
+    "explanation": "Kamehameha I. eroberte 1795 die meisten Inseln; 1810 unterwarf sich auch Kauaʻi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-28",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welcher Herrscher unterwarf sich Kamehameha 1810 ohne Kampf?",
+    "choices": [
+      "Kaumualiʻi von Kauaʻi",
+      "Kalaniʻōpuʻu von Hawaiʻi",
+      "Kahekili von Maui",
+      "Pōmare II. von Tahiti"
+    ],
+    "answer": 0,
+    "explanation": "Kaumualiʻi, der Herrscher von Kauaʻi und Niʻihau, erkannte 1810 Kamehamehas Oberherrschaft an und vollendete damit die Einigung.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-29",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Frau setzte 1819 die Abschaffung des Kapu-Systems auf Hawaiʻi durch?",
+    "choices": [
+      "Kaʻahumanu",
+      "Liliʻuokalani",
+      "Emma",
+      "Keʻelikōlani"
+    ],
+    "answer": 0,
+    "explanation": "Kaʻahumanu, die einflussreichste Frau Kamehamehas I., brachte den jungen König dazu, öffentlich die Speisegebote zu brechen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-30",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welches Verbot brach König Liholiho 1819 öffentlich, um das Kapu-System zu beenden?",
+    "choices": [
+      "Das Verbot, heilige Vulkane zu betreten",
+      "Das Verbot, in der Laichzeit zu fischen",
+      "Das Verbot, dass Männer und Frauen gemeinsam essen",
+      "Das Verbot, Federmäntel zu tragen"
+    ],
+    "answer": 2,
+    "explanation": "Liholiho aß bei einem Festmahl mit Frauen; danach ließ er Tempel zerstören und Götterbilder verbrennen.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-31",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Königin wurde 1893 in Hawaiʻi gestürzt?",
+    "choices": [
+      "Kaʻahumanu",
+      "Liliʻuokalani",
+      "Pōmare IV.",
+      "Sālote Tupou III."
+    ],
+    "answer": 1,
+    "explanation": "Liliʻuokalani wurde im Januar 1893 von amerikanischen Geschäftsleuten mit Rückendeckung von US-Marinesoldaten gestürzt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-32",
+    "epochId": "ozeanien-pazifik",
+    "question": "In welchem Jahr annektierten die USA Hawaiʻi?",
+    "choices": [
+      "1867",
+      "1893",
+      "1959",
+      "1898"
+    ],
+    "answer": 3,
+    "explanation": "Der Kongress beschloss die Annexion im Juli 1898; 1959 wurde Hawaiʻi der 50. Bundesstaat.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-33",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer stürzte 1893 die hawaiische Monarchie?",
+    "choices": [
+      "Britische Truppen aus Neuseeland",
+      "Amerikanische Geschäftsleute und Pflanzer mit Rückendeckung von US-Marinesoldaten",
+      "Japanische Einwanderer",
+      "Ein Aufstand hawaiischer Häuptlinge"
+    ],
+    "answer": 1,
+    "explanation": "Ein „Sicherheitskomitee“ aus Geschäftsleuten rief eine provisorische Regierung aus, nachdem US-Marinesoldaten an Land gegangen waren.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-34",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welches Lied stammt von Königin Liliʻuokalani?",
+    "choices": [
+      "„Hawaiʻi Ponoʻī“",
+      "„Waltzing Matilda“",
+      "„God Defend New Zealand“",
+      "„Aloha ʻOe“"
+    ],
+    "answer": 3,
+    "explanation": "Liliʻuokalani schrieb zahlreiche Lieder, darunter „Aloha ʻOe“; der Text von „Hawaiʻi Ponoʻī“ stammt von ihrem Bruder Kalākaua.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-35",
+    "epochId": "ozeanien-pazifik",
+    "question": "In welchem Jahr wurde der Vertrag von Waitangi unterzeichnet?",
+    "choices": [
+      "1840",
+      "1788",
+      "1814",
+      "1865"
+    ],
+    "answer": 0,
+    "explanation": "Am 6. Februar 1840 unterzeichneten William Hobson und Māori-Häuptlinge den Vertrag in Waitangi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-36",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer unterzeichnete den Vertrag von Waitangi für die britische Krone?",
+    "choices": [
+      "Arthur Phillip",
+      "James Cook",
+      "William Hobson",
+      "George Grey"
+    ],
+    "answer": 2,
+    "explanation": "Hobson war beauftragt, die Zustimmung der Häuptlinge zur britischen Herrschaft einzuholen, und wurde 1841 Gouverneur.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-37",
+    "epochId": "ozeanien-pazifik",
+    "question": "Was sicherte die Māori-Fassung des Vertrags von Waitangi mit „tino rangatiratanga“ zu?",
+    "choices": [
+      "Die Abtretung aller Souveränität an die Krone",
+      "Sitze im britischen Parlament",
+      "Die volle Herrschaft über Land, Dörfer und Schätze",
+      "Die Bekehrung zum Christentum"
+    ],
+    "answer": 2,
+    "explanation": "Nach der Māori-Fassung traten die Häuptlinge nur „kāwanatanga“ ab und behielten „tino rangatiratanga“; darin liegt der Kern des Streits um den Vertrag.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-38",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welcher Ngāpuhi-Häuptling reiste 1820 nach England und führte danach Kriegszüge mit Musketen?",
+    "choices": [
+      "Hongi Hika",
+      "Hōne Heke",
+      "Te Kooti",
+      "Pōtatau Te Wherowhero"
+    ],
+    "answer": 0,
+    "explanation": "Hongi Hika traf in England König Georg IV. und erwarb auf der Rückreise in Sydney zahlreiche Musketen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-39",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wie nennt man die Kriege zwischen Māori-Stämmen im frühen 19. Jahrhundert, in denen erstmals Feuerwaffen eingesetzt wurden?",
+    "choices": [
+      "Neuseelandkriege",
+      "Flaggenmastkrieg",
+      "Waikato-Krieg",
+      "Musketenkriege"
+    ],
+    "answer": 3,
+    "explanation": "In den Musketenkriegen kämpften Māori-Stämme gegeneinander; die Neuseelandkriege führten Māori dagegen gegen britische Truppen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-40",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welcher Häuptling fällte ab 1844 mehrfach den britischen Fahnenmast bei Kororāreka?",
+    "choices": [
+      "Hongi Hika",
+      "Hōne Heke",
+      "Te Rauparaha",
+      "Wiremu Tāmihana"
+    ],
+    "answer": 1,
+    "explanation": "Hōne Hekes Protest gegen die britische Herrschaft führte 1845 zum ersten der Neuseelandkriege.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-41",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer wurde 1858 zum ersten Māori-König gewählt?",
+    "choices": [
+      "Hongi Hika",
+      "Tāwhiao",
+      "Te Kooti",
+      "Pōtatau Te Wherowhero"
+    ],
+    "answer": 3,
+    "explanation": "Die Königsbewegung wählte den betagten Waikato-Häuptling, um Land vor dem Verkauf zu schützen; sein Sohn Tāwhiao folgte ihm 1860.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-42",
+    "epochId": "ozeanien-pazifik",
+    "question": "Was geschah nach dem Waikato-Krieg 1863/64 mit dem Land vieler Māori-Stämme?",
+    "choices": [
+      "Die Regierung kaufte es zu Marktpreisen",
+      "Die Regierung beschlagnahmte es",
+      "Es wurde unter den Schutz der Königsbewegung gestellt",
+      "Es wurde den Missionen übergeben"
+    ],
+    "answer": 1,
+    "explanation": "Auf Grundlage eines Gesetzes von 1863 beschlagnahmte die Regierung über eine Million Hektar Māori-Land.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-43",
+    "epochId": "ozeanien-pazifik",
+    "question": "Was löste 1851 eine Masseneinwanderung nach Australien aus?",
+    "choices": [
+      "Das Ende der Sträflingstransporte",
+      "Die Gründung des Bundesstaates",
+      "Goldfunde in New South Wales und Victoria",
+      "Der Bau einer Eisenbahn quer durch den Kontinent"
+    ],
+    "answer": 2,
+    "explanation": "Nach den Funden bei Bathurst, Ballarat und Bendigo stieg die Bevölkerung Victorias in zehn Jahren auf über eine halbe Million.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-44",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wogegen richtete sich der Aufstand an der Eureka-Palisade 1854?",
+    "choices": [
+      "Gegen teure Schürflizenzen auf den Goldfeldern",
+      "Gegen die Sträflingstransporte",
+      "Gegen die Föderation der Kolonien",
+      "Gegen Ausfuhrzölle auf Wolle"
+    ],
+    "answer": 0,
+    "explanation": "Die Goldsucher bei Ballarat empörten sich über die Lizenzgebühren; der Aufstand wurde niedergeschlagen, brachte aber Reformen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-45",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wann entstand der Australische Bund (Commonwealth of Australia)?",
+    "choices": [
+      "Am 1. Januar 1901",
+      "Am 26. Januar 1788",
+      "Am 6. Februar 1840",
+      "Am 1. Juli 1871"
+    ],
+    "answer": 0,
+    "explanation": "Am 1. Januar 1901 schlossen sich die sechs australischen Kolonien zu einem Bundesstaat zusammen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-46",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wer war der erste Premierminister Australiens?",
+    "choices": [
+      "Henry Parkes",
+      "Alfred Deakin",
+      "Edmund Barton",
+      "Arthur Phillip"
+    ],
+    "answer": 2,
+    "explanation": "Edmund Barton führte die erste Bundesregierung von 1901 bis 1903 und wurde danach Richter am High Court.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-ozeanien-pazifik-47",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Politik begründete der Immigration Restriction Act von 1901?",
+    "choices": [
+      "Die Förderung asiatischer Einwanderung",
+      "Die „White Australia“-Politik",
+      "Die Rückgabe von Land an die Aborigines",
+      "Das Ende der Sträflingstransporte"
+    ],
+    "answer": 1,
+    "explanation": "Das Gesetz sollte vor allem Einwanderer aus Asien und dem Pazifik fernhalten und blieb in abgewandelter Form jahrzehntelang in Kraft.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-48",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welcher König gab Tonga 1875 eine Verfassung?",
+    "choices": [
+      "Kamehameha I.",
+      "Pōmare II.",
+      "Cakobau",
+      "George Tupou I."
+    ],
+    "answer": 3,
+    "explanation": "George Tupou I. einte Tonga 1845; seine Verfassung von 1875 half dem Land, einer Kolonisierung zu entgehen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-49",
+    "epochId": "ozeanien-pazifik",
+    "question": "Wie hießen die heiligen Könige Tongas, deren Linie der Überlieferung nach im 10. Jahrhundert begann?",
+    "choices": [
+      "Aliʻi nui",
+      "Tuʻi Tonga",
+      "Ariki mau",
+      "Tuʻi Manuʻa"
+    ],
+    "answer": 1,
+    "explanation": "Die Tuʻi Tonga galten als Nachfahren des Gottes Tangaloa; ab dem 15. Jahrhundert überließen sie die weltliche Macht anderen Linien.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-50",
+    "epochId": "ozeanien-pazifik",
+    "question": "Welche Missionsgesellschaft schickte 1797 mit dem Schiff „Duff“ Missionare nach Tahiti?",
+    "choices": [
+      "Die Jesuiten",
+      "Die Herrnhuter Brüdergemeine",
+      "Das American Board of Commissioners for Foreign Missions",
+      "Die London Missionary Society"
+    ],
+    "answer": 3,
+    "explanation": "Die London Missionary Society begann 1797 auf Tahiti die protestantische Mission in Polynesien.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-ozeanien-pazifik-51",
+    "epochId": "ozeanien-pazifik",
+    "question": "Was bezeichnet der Begriff „Blackbirding“?",
+    "choices": [
+      "Die Anwerbung pazifischer Arbeiter durch Täuschung oder Zwang",
+      "Die Jagd auf Trauerschwäne",
+      "Das Verbot von Tätowierungen durch Missionare",
+      "Den Handel mit Vogelfedern für Mäntel"
+    ],
+    "answer": 0,
+    "explanation": "Zehntausende Melanesier wurden so für Plantagen in Queensland, Fidschi und Samoa angeworben.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-ozeanien-pazifik-52",
+    "epochId": "ozeanien-pazifik",
+    "question": "Aus welchen Sprachen stammt das Wort „Tabu“?",
+    "choices": [
+      "Aus dem Lateinischen",
+      "Aus dem Arabischen",
+      "Aus polynesischen Sprachen",
+      "Aus den Sprachen der Aborigines"
+    ],
+    "answer": 2,
+    "explanation": "James Cook brachte das Wort „tapu“ aus Tonga nach Europa; es bezeichnet das Heilige und Verbotene.",
+    "difficulty": 1
+  },
+  {
     "id": "q-renaissance-entdeckungen-01",
     "epochId": "renaissance-entdeckungen",
     "question": "1450年前后，哪项发明被归功于约翰内斯·古腾堡？",
@@ -13104,6 +14560,1462 @@
     "difficulty": 3
   },
   {
+    "id": "q-russland-osteuropa-01",
+    "epochId": "russland-osteuropa",
+    "question": "Wen riefen nach der Nestorchronik die Stämme um Nowgorod im Jahr 862 als Herrscher ins Land?",
+    "choices": [
+      "Den Khan Batu",
+      "Den Waräger Rjurik",
+      "Den Kaiser Basileios II.",
+      "Den Fürsten Mieszko"
+    ],
+    "answer": 1,
+    "explanation": "Die Nestorchronik aus dem frühen 12. Jahrhundert erzählt von der Berufung Rjuriks; wie viel davon historisch ist, ist ungewiss.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-02",
+    "epochId": "russland-osteuropa",
+    "question": "Welche Stadt machte Oleg um 882 zum Zentrum der Rus?",
+    "choices": [
+      "Moskau",
+      "Nowgorod",
+      "Smolensk",
+      "Kiew"
+    ],
+    "answer": 3,
+    "explanation": "Oleg zog von Nowgorod den Dnjepr hinab, eroberte Kiew und nannte es nach der Chronik die „Mutter der Städte der Rus“.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-03",
+    "epochId": "russland-osteuropa",
+    "question": "Welche Fürstin regierte für ihren Sohn Swjatoslaw und ließ sich um 957 in Konstantinopel taufen?",
+    "choices": [
+      "Olga",
+      "Anna",
+      "Jadwiga",
+      "Sophia"
+    ],
+    "answer": 0,
+    "explanation": "Olga, die Witwe des Fürsten Igor, nahm als erste Herrscherin der Rus das Christentum an.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-04",
+    "epochId": "russland-osteuropa",
+    "question": "Wen heiratete Wladimir I. im Zusammenhang mit seiner Taufe 988?",
+    "choices": [
+      "Jadwiga, die Königin von Polen",
+      "Theophanu, die Witwe Kaiser Ottos II.",
+      "Anna, die Schwester des byzantinischen Kaisers Basileios II.",
+      "Ingegerd, die Tochter des schwedischen Königs"
+    ],
+    "answer": 2,
+    "explanation": "Die Heirat mit der Kaiserschwester Anna verband die Kiewer Rus eng mit Byzanz.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-05",
+    "epochId": "russland-osteuropa",
+    "question": "Wie heißt das älteste Rechtsbuch der Rus, dessen erste Fassung auf Jaroslaw den Weisen zurückgeht?",
+    "choices": [
+      "Sudebnik",
+      "Domostroi",
+      "Russkaja Prawda",
+      "Uloschenije"
+    ],
+    "answer": 2,
+    "explanation": "Die Russkaja Prawda begrenzte die Blutrache und legte Bußgelder für Verbrechen fest.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-06",
+    "epochId": "russland-osteuropa",
+    "question": "Welche Tochter Jaroslaws des Weisen wurde Königin von Frankreich?",
+    "choices": [
+      "Anna",
+      "Elisabeth",
+      "Anastasia",
+      "Olga"
+    ],
+    "answer": 0,
+    "explanation": "Anna heiratete 1051 König Heinrich I. von Frankreich; ihre Schwestern wurden Königinnen von Norwegen und Ungarn.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-07",
+    "epochId": "russland-osteuropa",
+    "question": "In welchem Jahr eroberten und zerstörten die Mongolen Kiew?",
+    "choices": [
+      "1223",
+      "1380",
+      "1480",
+      "1240"
+    ],
+    "answer": 3,
+    "explanation": "Im Dezember 1240 fiel Kiew an das Heer Batus; die Stadt verlor danach für lange Zeit ihre Bedeutung.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-08",
+    "epochId": "russland-osteuropa",
+    "question": "Wo lag die Hauptstadt der Goldenen Horde?",
+    "choices": [
+      "In Karakorum in der Mongolei",
+      "In Sarai an der unteren Wolga",
+      "In Kasan an der mittleren Wolga",
+      "In Bachtschyssarai auf der Krim"
+    ],
+    "answer": 1,
+    "explanation": "Sarai an der unteren Wolga war Residenz der Khane, zu denen die russischen Fürsten reisen mussten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-09",
+    "epochId": "russland-osteuropa",
+    "question": "Was war ein Jarlyk?",
+    "choices": [
+      "Eine Steuer, die nur Kaufleute in Nowgorod zahlten",
+      "Ein Bauernhaus aus Holz in der nördlichen Rus",
+      "Ein Wahlgremium der Kosaken am Dnjepr",
+      "Eine Urkunde des Khans, die einen Fürsten in seinem Amt bestätigte"
+    ],
+    "answer": 3,
+    "explanation": "Ohne Jarlyk der Goldenen Horde durfte kein russischer Fürst regieren; Moskaus Fürsten erwarben ihn besonders geschickt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-10",
+    "epochId": "russland-osteuropa",
+    "question": "Gegen wen kämpfte Alexander Newski 1242 auf dem zugefrorenen Peipussee?",
+    "choices": [
+      "Gegen die Goldene Horde",
+      "Gegen den Livländischen Orden",
+      "Gegen das Königreich Schweden",
+      "Gegen das Großfürstentum Litauen"
+    ],
+    "answer": 1,
+    "explanation": "Alexander besiegte ein Heer des Livländischen Ordens, eines Zweigs des Deutschen Ordens; die Schweden hatte er schon 1240 an der Newa geschlagen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-11",
+    "epochId": "russland-osteuropa",
+    "question": "Wie hieß die Volksversammlung, die in Nowgorod Bürgermeister wählte und Fürsten berief?",
+    "choices": [
+      "Sejm",
+      "Duma",
+      "Wetsche",
+      "Rada"
+    ],
+    "answer": 2,
+    "explanation": "Das Wetsche machte Nowgorod zu einer Stadtrepublik, bis Iwan III. 1478 seine Glocke nach Moskau bringen ließ.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-12",
+    "epochId": "russland-osteuropa",
+    "question": "Worauf schrieben die Menschen in Nowgorod die Alltagsbriefe, die Archäologen seit 1951 im Boden finden?",
+    "choices": [
+      "Auf Birkenrinde",
+      "Auf Papyrus",
+      "Auf Tontafeln",
+      "Auf Seide"
+    ],
+    "answer": 0,
+    "explanation": "Über tausend Birkenrindenurkunden zeigen, dass in Nowgorod auch Händler, Handwerker und Frauen lesen und schreiben konnten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-13",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Moskauer Fürst trug den Beinamen Kalita, „Geldbeutel“?",
+    "choices": [
+      "Iwan I.",
+      "Iwan III.",
+      "Dmitri Donskoi",
+      "Wassili II."
+    ],
+    "answer": 0,
+    "explanation": "Iwan I. zog für die Horde die Tribute ein, kaufte Land auf und holte den Metropoliten nach Moskau.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-14",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Großfürst besiegte 1380 auf dem Kulikowo-Feld ein Heer der Horde?",
+    "choices": [
+      "Alexander Newski",
+      "Iwan IV.",
+      "Dmitri von Moskau",
+      "Jaroslaw der Weise"
+    ],
+    "answer": 2,
+    "explanation": "Nach dem Sieg am Don erhielt Dmitri den Beinamen Donskoi.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-15",
+    "epochId": "russland-osteuropa",
+    "question": "Wer führte das Heer der Horde 1380 auf dem Kulikowo-Feld?",
+    "choices": [
+      "Khan Batu",
+      "Der Heerführer Mamai",
+      "Khan Achmat",
+      "Timur"
+    ],
+    "answer": 1,
+    "explanation": "Mamai beherrschte damals den westlichen Teil der Horde; zwei Jahre später verwüstete Khan Toktamysch Moskau.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-16",
+    "epochId": "russland-osteuropa",
+    "question": "Was wurde 1385 in der Union von Krewo vereinbart?",
+    "choices": [
+      "Polen und Litauen teilten die Ukraine entlang des Dnjepr",
+      "Moskau zahlte künftig keinen Tribut mehr an die Horde",
+      "Litauen trat Samogitien an den Deutschen Orden ab",
+      "Jogaila sollte sich taufen lassen und die polnische Königin Jadwiga heiraten"
+    ],
+    "answer": 3,
+    "explanation": "Die Union verband Polen und Litauen in Personalunion und leitete die Christianisierung Litauens ein.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-17",
+    "epochId": "russland-osteuropa",
+    "question": "Wer besiegte 1410 in der Schlacht bei Grunwald (Tannenberg) den Deutschen Orden?",
+    "choices": [
+      "Ein Heer Moskaus und Nowgorods",
+      "Ein Heer Polens und Litauens",
+      "Ein Heer Schwedens und Dänemarks",
+      "Ein Heer der Goldenen Horde"
+    ],
+    "answer": 1,
+    "explanation": "König Władysław II. Jagiełło und Großfürst Vytautas siegten; der Hochmeister Ulrich von Jungingen fiel.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-18",
+    "epochId": "russland-osteuropa",
+    "question": "Was geschah 1480 beim Stehen an der Ugra?",
+    "choices": [
+      "Iwan IV. eroberte nach langer Belagerung die Stadt Kasan",
+      "Litauen und Polen schlossen sich zu einem gemeinsamen Staat zusammen",
+      "Die Mongolen besiegten erstmals ein Heer der russischen Fürsten",
+      "Der Khan zog nach wochenlangem Gegenüberstehen ab, und Moskau zahlte keinen Tribut mehr"
+    ],
+    "answer": 3,
+    "explanation": "Ohne große Schlacht endete die Abhängigkeit Moskaus von der Horde; spätere Geschichtsschreiber setzten hier das Ende des „Tatarenjochs“.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-19",
+    "epochId": "russland-osteuropa",
+    "question": "Welche Nichte des letzten byzantinischen Kaisers heiratete Iwan III. im Jahr 1472?",
+    "choices": [
+      "Sophia Palaiologa",
+      "Anna Komnena",
+      "Theodora Kantakuzene",
+      "Irene Dukaina"
+    ],
+    "answer": 0,
+    "explanation": "Die Heirat unterstrich Moskaus Anspruch auf das Erbe von Byzanz; unter Iwan III. kam auch der Doppeladler in Gebrauch.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-20",
+    "epochId": "russland-osteuropa",
+    "question": "Welche Stadtrepublik musste sich 1478 endgültig Iwan III. unterwerfen?",
+    "choices": [
+      "Pskow",
+      "Danzig",
+      "Nowgorod",
+      "Riga"
+    ],
+    "answer": 2,
+    "explanation": "Iwan III. ließ die Wetsche-Glocke Nowgorods nach Moskau bringen und viele Bojarenfamilien umsiedeln.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-21",
+    "epochId": "russland-osteuropa",
+    "question": "In welchem Jahr ließ sich Iwan IV. zum Zaren krönen?",
+    "choices": [
+      "1480",
+      "1613",
+      "1547",
+      "1721"
+    ],
+    "answer": 2,
+    "explanation": "Am 16. Januar 1547 krönte Metropolit Makari ihn im Kreml als ersten russischen Herrscher zum Zaren.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-22",
+    "epochId": "russland-osteuropa",
+    "question": "Welches Khanat an der Wolga eroberte Iwan IV. im Jahr 1552?",
+    "choices": [
+      "Kasan",
+      "Krim",
+      "Sibir",
+      "Chiwa"
+    ],
+    "answer": 0,
+    "explanation": "Mit Kasan und vier Jahre später Astrachan kontrollierte Moskau die ganze Wolga.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-23",
+    "epochId": "russland-osteuropa",
+    "question": "Welches Bauwerk am Roten Platz erinnert an die Eroberung Kasans?",
+    "choices": [
+      "Die Sophienkathedrale",
+      "Die Isaakskathedrale",
+      "Die Peter-und-Paul-Kathedrale",
+      "Die Basilius-Kathedrale"
+    ],
+    "answer": 3,
+    "explanation": "Die farbenprächtige Basilius-Kathedrale wurde von 1555 bis 1561 als Dankeskirche für den Sieg errichtet.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-24",
+    "epochId": "russland-osteuropa",
+    "question": "Was war die Opritschnina?",
+    "choices": [
+      "Eine Landesversammlung, die 1613 den neuen Zaren wählte",
+      "Ein Sondergebiet Iwans IV., von dem aus seine Leibgarde vermeintliche Verräter verfolgte",
+      "Die Selbstverwaltung der Bauern in den Dörfern des Zarenreichs",
+      "Der Sitz der Saporoger Kosaken auf einer Insel im Dnjepr"
+    ],
+    "answer": 1,
+    "explanation": "Von 1565 bis 1572 terrorisierten die Opritschniki Bojaren, Geistliche und ganze Städte.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-25",
+    "epochId": "russland-osteuropa",
+    "question": "Welche Stadt ließ Iwan IV. Anfang 1570 von den Opritschniki verwüsten?",
+    "choices": [
+      "Kasan",
+      "Twer",
+      "Kiew",
+      "Nowgorod"
+    ],
+    "answer": 3,
+    "explanation": "Iwan verdächtigte Nowgorod des Verrats; Tausende Einwohner wurden getötet, genaue Zahlen sind unbekannt.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-26",
+    "epochId": "russland-osteuropa",
+    "question": "Mit dem Tod welches Zaren erlosch 1598 die Moskauer Linie der Rjurikiden?",
+    "choices": [
+      "Iwan IV.",
+      "Fjodor I.",
+      "Boris Godunow",
+      "Michail Romanow"
+    ],
+    "answer": 1,
+    "explanation": "Nach dem Tod des kinderlosen Fjodor I. begann die Zeit der Wirren.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-27",
+    "epochId": "russland-osteuropa",
+    "question": "Wer führte 1612 das Volksaufgebot an, das die polnisch-litauische Besatzung aus Moskau vertrieb?",
+    "choices": [
+      "Stenka Rasin und Jemeljan Pugatschow",
+      "Boris Godunow und Patriarch Filaret",
+      "Kusma Minin und Fürst Dmitri Poscharski",
+      "Alexander Newski und Dmitri Donskoi"
+    ],
+    "answer": 2,
+    "explanation": "Der Kaufmann Minin aus Nischni Nowgorod und Fürst Poscharski befreiten im Herbst 1612 den Kreml.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-28",
+    "epochId": "russland-osteuropa",
+    "question": "Welche Versammlung wählte 1613 Michail Romanow zum Zaren?",
+    "choices": [
+      "Der Semski Sobor",
+      "Der Heilige Synod",
+      "Das Wetsche",
+      "Der Sejm"
+    ],
+    "answer": 0,
+    "explanation": "Der Semski Sobor war eine Landesversammlung aus Vertretern von Adel, Geistlichkeit, Städten und Kosaken.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-29",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Staat entstand 1569 durch die Union von Lublin?",
+    "choices": [
+      "Die Republik beider Nationen (Polen-Litauen)",
+      "Das Großfürstentum Moskau",
+      "Das Kosaken-Hetmanat",
+      "Das Königreich Galizien"
+    ],
+    "answer": 0,
+    "explanation": "Polen und Litauen erhielten einen gemeinsamen König und Reichstag, behielten aber eigene Ämter und Gesetze.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-30",
+    "epochId": "russland-osteuropa",
+    "question": "Was bedeutete das Liberum Veto im polnisch-litauischen Reichstag?",
+    "choices": [
+      "Der König durfte jedes Gesetz ohne Begründung ablehnen",
+      "Bauern durften gegen ihren Gutsherrn vor Gericht klagen",
+      "Ein einzelner Abgeordneter konnte durch seinen Einspruch Beschlüsse verhindern",
+      "Jeder Adlige durfte seine Konfession frei wählen"
+    ],
+    "answer": 2,
+    "explanation": "Das Einstimmigkeitsprinzip lähmte im 17. und 18. Jahrhundert die Republik, bis die Verfassung von 1791 es abschaffte.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-31",
+    "epochId": "russland-osteuropa",
+    "question": "Was entstand 1596 durch die Union von Brest?",
+    "choices": [
+      "Ein Bündnis zwischen Polen-Litauen und Schweden gegen Moskau",
+      "Die griechisch-katholische Kirche, die den Papst anerkannte und den östlichen Ritus behielt",
+      "Die erste Universität im Großfürstentum Litauen",
+      "Ein Friedensvertrag zwischen den Kosaken und den Krimtataren"
+    ],
+    "answer": 1,
+    "explanation": "Ein Teil der orthodoxen Bischöfe in Polen-Litauen unterstellte sich Rom; ihre Kirche ist besonders in der Westukraine bis heute verbreitet.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-32",
+    "epochId": "russland-osteuropa",
+    "question": "In welcher Stadt druckte Francysk Skaryna aus Polazk 1517 seinen Psalter?",
+    "choices": [
+      "Krakau",
+      "Moskau",
+      "Venedig",
+      "Prag"
+    ],
+    "answer": 3,
+    "explanation": "Skaryna druckte von 1517 bis 1519 in Prag biblische Bücher in einer ostslawischen Schriftsprache und später in Wilna.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-33",
+    "epochId": "russland-osteuropa",
+    "question": "Wer führte 1648 den großen Aufstand der Kosaken gegen Polen-Litauen an?",
+    "choices": [
+      "Iwan Mazepa",
+      "Bohdan Chmelnyzkyj",
+      "Stenka Rasin",
+      "Jermak"
+    ],
+    "answer": 1,
+    "explanation": "Chmelnyzkyj errichtete nach den ersten Siegen ein Hetmanat in der Ukraine.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-34",
+    "epochId": "russland-osteuropa",
+    "question": "In welchem Ort unterstellte sich Chmelnyzkyj 1654 dem Zaren?",
+    "choices": [
+      "Poltawa",
+      "Andrussowo",
+      "Baturyn",
+      "Perejaslaw"
+    ],
+    "answer": 3,
+    "explanation": "Die Vereinbarung von Perejaslaw deuten ukrainische und russische Historiker bis heute verschieden.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-35",
+    "epochId": "russland-osteuropa",
+    "question": "Wie hieß das befestigte Zentrum der Saporoger Kosaken am unteren Dnjepr?",
+    "choices": [
+      "Sitsch",
+      "Kreml",
+      "Posad",
+      "Ostrog"
+    ],
+    "answer": 0,
+    "explanation": "Die Saporoger Sitsch lag jenseits der Stromschnellen des Dnjepr, daher der Name „Saporoger“, „hinter den Stromschnellen“.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-36",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Patriarch löste mit seinen Kirchenreformen im 17. Jahrhundert die russische Kirchenspaltung aus?",
+    "choices": [
+      "Filaret",
+      "Makari",
+      "Nikon",
+      "Hilarion"
+    ],
+    "answer": 2,
+    "explanation": "Nikon ließ Bücher und Riten nach griechischem Vorbild ändern; das Konzil von 1666/67 bestätigte die Reformen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-37",
+    "epochId": "russland-osteuropa",
+    "question": "Wie nennt man die Gläubigen, die die Kirchenreformen des 17. Jahrhunderts ablehnten?",
+    "choices": [
+      "Unierte",
+      "Hussiten",
+      "Altgläubige",
+      "Täufer"
+    ],
+    "answer": 2,
+    "explanation": "Die Altgläubigen hielten an den alten Riten fest, etwa am Kreuzzeichen mit zwei Fingern, und wurden lange verfolgt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-38",
+    "epochId": "russland-osteuropa",
+    "question": "Bei welcher Stadt in der heutigen Ukraine besiegte Peter der Große 1709 das Heer Karls XII.?",
+    "choices": [
+      "Poltawa",
+      "Narva",
+      "Kiew",
+      "Asow"
+    ],
+    "answer": 0,
+    "explanation": "Der Sieg bei Poltawa beendete Schwedens Vormacht im Norden und machte Russland zur Großmacht.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-39",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Kosakenhetman lief im Großen Nordischen Krieg zu Karl XII. über?",
+    "choices": [
+      "Bohdan Chmelnyzkyj",
+      "Petro Doroschenko",
+      "Pylyp Orlyk",
+      "Iwan Mazepa"
+    ],
+    "answer": 3,
+    "explanation": "Mazepa erhoffte sich von Schweden die Selbstständigkeit des Hetmanats und floh nach Poltawa mit Karl ins Osmanische Reich.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-40",
+    "epochId": "russland-osteuropa",
+    "question": "Was beschloss der polnisch-litauische Reichstag am 3. Mai 1791?",
+    "choices": [
+      "Die Abtretung Litauens an Russland",
+      "Eine Verfassung, die das Liberum Veto abschaffte",
+      "Die Wahl eines russischen Großfürsten zum König",
+      "Die Aufhebung der Union mit Litauen"
+    ],
+    "answer": 1,
+    "explanation": "Die Verfassung vom 3. Mai gilt als erste moderne geschriebene Verfassung Europas; der Tag ist polnischer Nationalfeiertag.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-41",
+    "epochId": "russland-osteuropa",
+    "question": "Wer führte 1794 den Aufstand gegen Russland und Preußen an?",
+    "choices": [
+      "Józef Piłsudski",
+      "Adam Mickiewicz",
+      "Stanisław August Poniatowski",
+      "Tadeusz Kościuszko"
+    ],
+    "answer": 3,
+    "explanation": "Kościuszko siegte bei Racławice, wurde aber im Oktober 1794 bei Maciejowice gefangen genommen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-42",
+    "epochId": "russland-osteuropa",
+    "question": "In welchem Jahr verschwand Polen-Litauen mit der dritten Teilung von der Landkarte?",
+    "choices": [
+      "1772",
+      "1795",
+      "1793",
+      "1815"
+    ],
+    "answer": 1,
+    "explanation": "Russland, Preußen und Österreich teilten 1795 den verbliebenen Rest unter sich auf.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-43",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Seefahrer in russischen Diensten erreichte 1741 die Küste Alaskas?",
+    "choices": [
+      "James Cook",
+      "Semjon Deschnjow",
+      "Vitus Bering",
+      "Iwan Krusenstern"
+    ],
+    "answer": 2,
+    "explanation": "Der Däne Vitus Bering leitete die Große Nordische Expedition; er starb 1741 auf der später nach ihm benannten Beringinsel.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-44",
+    "epochId": "russland-osteuropa",
+    "question": "An welchen Staat verkaufte Russland 1867 Alaska?",
+    "choices": [
+      "An die Vereinigten Staaten",
+      "An Großbritannien",
+      "An Kanada",
+      "An Japan"
+    ],
+    "answer": 0,
+    "explanation": "Die USA zahlten 7,2 Millionen Dollar; Kanada wurde erst im selben Jahr ein eigenständiges Dominion.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-45",
+    "epochId": "russland-osteuropa",
+    "question": "Woher haben die Dekabristen ihren Namen?",
+    "choices": [
+      "Von ihrem Aufstand im Dezember 1825",
+      "Von ihren zehn Gründungsmitgliedern",
+      "Vom Dekret des Zaren, das sie verbannte",
+      "Von der Dekade, die sie in der Verbannung verbringen mussten"
+    ],
+    "answer": 0,
+    "explanation": "Das russische Wort für Dezember ist „dekabr“; der Aufstand fand am 14. Dezember 1825 statt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-46",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Zar hob 1861 die Leibeigenschaft in Russland auf?",
+    "choices": [
+      "Nikolaus I.",
+      "Alexander I.",
+      "Alexander II.",
+      "Alexander III."
+    ],
+    "answer": 2,
+    "explanation": "Mit dem Manifest vom 19. Februar 1861 nach julianischem Kalender wurden rund 23 Millionen private Leibeigene frei.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-russland-osteuropa-47",
+    "epochId": "russland-osteuropa",
+    "question": "Was waren die Semstwa, die 1864 im Zarenreich eingeführt wurden?",
+    "choices": [
+      "Militärkolonien an der Grenze zur Steppe",
+      "Gewählte Organe der örtlichen Selbstverwaltung",
+      "Staatliche Branntweinmonopole",
+      "Geheime Polizeibehörden des Zaren"
+    ],
+    "answer": 1,
+    "explanation": "Die Semstwa kümmerten sich um Schulen, Gesundheit und Straßen auf dem Land; in ihnen waren Adel, Städter und Bauern vertreten.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-48",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Gedichtband Taras Schewtschenkos wurde 1840 zum Grundstein der modernen ukrainischen Literatur?",
+    "choices": [
+      "Eugen Onegin",
+      "Pan Tadeusz",
+      "Die toten Seelen",
+      "Kobsar"
+    ],
+    "answer": 3,
+    "explanation": "Der „Kobsar“ besang in ukrainischer Sprache die Geschichte der Kosaken und das Leid der Bauern.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-49",
+    "epochId": "russland-osteuropa",
+    "question": "Was verbot der Emser Erlass von 1876?",
+    "choices": [
+      "Die Auswanderung von Bauern nach Sibirien",
+      "Den Druck und die Einfuhr der meisten Bücher in ukrainischer Sprache",
+      "Den Gebrauch der polnischen Sprache in der Kirche",
+      "Die Gründung von Gewerkschaften in den Fabriken"
+    ],
+    "answer": 1,
+    "explanation": "Ukrainische Autoren wichen daraufhin nach Galizien unter österreichischer Herrschaft aus.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-russland-osteuropa-50",
+    "epochId": "russland-osteuropa",
+    "question": "Welches Ereignis vom Januar 1905 löste die erste russische Revolution aus?",
+    "choices": [
+      "Die Ermordung Alexanders II.",
+      "Die Meuterei auf dem Panzerkreuzer Potemkin",
+      "Der Fall der Festung Sewastopol",
+      "Der Blutsonntag in St. Petersburg"
+    ],
+    "answer": 3,
+    "explanation": "Soldaten schossen auf einen friedlichen Zug von Arbeitern, die dem Zaren eine Bittschrift überbringen wollten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-51",
+    "epochId": "russland-osteuropa",
+    "question": "Was versprach Nikolaus II. im Oktobermanifest von 1905?",
+    "choices": [
+      "Grundrechte und eine gewählte Duma",
+      "Die Abschaffung der Monarchie",
+      "Die Rückgabe der Teilungsgebiete an Polen",
+      "Das sofortige Ende des Kriegs gegen Deutschland"
+    ],
+    "answer": 0,
+    "explanation": "Die Duma hatte jedoch begrenzte Rechte, und der Zar löste die ersten beiden rasch wieder auf.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-russland-osteuropa-52",
+    "epochId": "russland-osteuropa",
+    "question": "Welcher Zar dankte nach der Februarrevolution 1917 ab?",
+    "choices": [
+      "Alexander III.",
+      "Michail Romanow",
+      "Nikolaus II.",
+      "Alexander II."
+    ],
+    "answer": 2,
+    "explanation": "Mit der Abdankung Nikolaus’ II. im März 1917 endete die Herrschaft der Romanows nach über 300 Jahren.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-01",
+    "epochId": "suedostasien",
+    "question": "In welchem heutigen Staat liegt der buddhistische Tempelberg Borobudur?",
+    "choices": [
+      "Kambodscha",
+      "Indonesien",
+      "Thailand",
+      "Myanmar"
+    ],
+    "answer": 1,
+    "explanation": "Borobudur liegt in Zentraljava in Indonesien und wurde um 780 bis 830 unter der Dynastie der Shailendra errichtet.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-02",
+    "epochId": "suedostasien",
+    "question": "In welchem Flussdelta lag Óc Eo, der Hafen des Reiches Funan?",
+    "choices": [
+      "Irrawaddy",
+      "Chao Phraya",
+      "Mekong",
+      "Roter Fluss"
+    ],
+    "answer": 2,
+    "explanation": "Óc Eo lag im Mekongdelta im heutigen Südvietnam; Funde von dort stammen aus Indien, China und sogar dem Römischen Reich.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-03",
+    "epochId": "suedostasien",
+    "question": "Welcher Religion war der Borobudur gewidmet?",
+    "choices": [
+      "Buddhismus",
+      "Hinduismus",
+      "Islam",
+      "Jainismus"
+    ],
+    "answer": 0,
+    "explanation": "Borobudur ist ein buddhistisches Heiligtum des Mahayana; seine Reliefs zeigen das Leben des Buddha und den Weg zur Erleuchtung.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-04",
+    "epochId": "suedostasien",
+    "question": "Welche Meerenge kontrollierte das Reich Srivijaya von Sumatra aus?",
+    "choices": [
+      "Straße von Hormus",
+      "Bosporus",
+      "Straße von Gibraltar",
+      "Straße von Malakka"
+    ],
+    "answer": 3,
+    "explanation": "Srivijaya beherrschte von Palembang aus die Straße von Malakka und die Sundastraße, über die der Seehandel zwischen Indien und China lief.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-05",
+    "epochId": "suedostasien",
+    "question": "Welcher König ließ sich 802 auf dem Phnom Kulen zum Weltenherrscher weihen und begründete das Khmer-Reich?",
+    "choices": [
+      "Suryavarman II.",
+      "Jayavarman VII.",
+      "Jayavarman II.",
+      "Yasovarman I."
+    ],
+    "answer": 2,
+    "explanation": "Jayavarman II. erklärte 802 die Unabhängigkeit der Khmer und legte den Grundstein des Reiches von Angkor.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-06",
+    "epochId": "suedostasien",
+    "question": "In welchem Jahr besiegte Ngô Quyền die chinesische Flotte am Bạch-Đằng-Fluss?",
+    "choices": [
+      "938",
+      "1010",
+      "1288",
+      "1428"
+    ],
+    "answer": 0,
+    "explanation": "Der Sieg von 938 beendete rund tausend Jahre chinesischer Herrschaft über das heutige Nordvietnam.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-07",
+    "epochId": "suedostasien",
+    "question": "Mit welcher List gewann Ngô Quyền die Schlacht am Bạch Đằng?",
+    "choices": [
+      "Er staute den Fluss und ließ die Flotte auf Grund laufen",
+      "Er schickte brennende Flöße gegen die Schiffe",
+      "Er ließ eine Brücke über den Fluss einstürzen",
+      "Er ließ eisenbeschlagene Pfähle ins Flussbett rammen, auf denen sich die Schiffe bei Ebbe aufspießten"
+    ],
+    "answer": 3,
+    "explanation": "Ngô Quyền lockte die Flotte bei Flut über die verborgenen Pfähle; als das Wasser fiel, saßen die Schiffe fest und wurden vernichtet.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-08",
+    "epochId": "suedostasien",
+    "question": "Welche Hauptstadt mit dem Bayon in ihrer Mitte ließ Jayavarman VII. errichten?",
+    "choices": [
+      "Hariharalaya",
+      "Angkor Thom",
+      "Oudong",
+      "Phnom Penh"
+    ],
+    "answer": 1,
+    "explanation": "Jayavarman VII. baute nach 1181 die ummauerte Stadt Angkor Thom, in deren Zentrum der Bayon steht.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-09",
+    "epochId": "suedostasien",
+    "question": "Wofür sind die Türme des Bayon in Angkor berühmt?",
+    "choices": [
+      "Für riesige in Stein gemeißelte Gesichter",
+      "Für vergoldete Kuppeln",
+      "Für blau glasierte Porzellanfliesen",
+      "Für geschnitzte Holzdächer"
+    ],
+    "answer": 0,
+    "explanation": "Die zahlreichen Türme des Bayon tragen große steinerne Gesichter, die in alle Himmelsrichtungen blicken.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-10",
+    "epochId": "suedostasien",
+    "question": "Welche Religion förderte Jayavarman VII. besonders?",
+    "choices": [
+      "Theravada-Buddhismus",
+      "Den Kult des Shiva",
+      "Den Islam",
+      "Den Mahayana-Buddhismus"
+    ],
+    "answer": 3,
+    "explanation": "Jayavarman VII. war Mahayana-Buddhist und weihte viele seiner Bauten dem Buddha und Bodhisattvas.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-11",
+    "epochId": "suedostasien",
+    "question": "Welcher König machte Pagan ab 1044 zum Zentrum eines großen Reiches in Birma?",
+    "choices": [
+      "Alaungpaya",
+      "Anawrahta",
+      "Bayinnaung",
+      "Thibaw"
+    ],
+    "answer": 1,
+    "explanation": "Anawrahta regierte ab 1044 und einte große Teile des Irrawaddy-Tals unter der Herrschaft Pagans.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-12",
+    "epochId": "suedostasien",
+    "question": "Welchem Gott ist der höchste Tempel von Prambanan auf Java geweiht?",
+    "choices": [
+      "Vishnu",
+      "Brahma",
+      "Shiva",
+      "Ganesha"
+    ],
+    "answer": 2,
+    "explanation": "Der Haupttempel von Prambanan, der 856 geweiht wurde, ist Shiva gewidmet; daneben stehen Tempel für Vishnu und Brahma.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-13",
+    "epochId": "suedostasien",
+    "question": "Welcher König von Sukhothai wird mit der Schaffung der Thai-Schrift verbunden?",
+    "choices": [
+      "U Thong",
+      "Taksin",
+      "Chulalongkorn",
+      "Ramkhamhaeng"
+    ],
+    "answer": 3,
+    "explanation": "Eine Inschrift von 1292 schreibt Ramkhamhaeng die Thai-Schrift zu, ihre Echtheit ist allerdings umstritten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-14",
+    "epochId": "suedostasien",
+    "question": "Warum ist die Ramkhamhaeng-Inschrift von 1292 in der Forschung umstritten?",
+    "choices": [
+      "Weil sie in chinesischer Sprache verfasst ist",
+      "Weil einige Forscher bezweifeln, dass sie wirklich aus dem 13. Jahrhundert stammt",
+      "Weil sie im Zweiten Weltkrieg verloren ging",
+      "Weil sie in Birma gefunden wurde"
+    ],
+    "answer": 1,
+    "explanation": "Die Inschrift wurde 1833 vom späteren König Mongkut gefunden; seit den 1980er-Jahren halten manche Forscher sie für jünger.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-15",
+    "epochId": "suedostasien",
+    "question": "Von welchem Reich machte sich Sukhothai um 1238 unabhängig?",
+    "choices": [
+      "Pagan",
+      "Srivijaya",
+      "Khmer-Reich",
+      "Champa"
+    ],
+    "answer": 2,
+    "explanation": "Thai-Fürsten vertrieben um 1238 den Statthalter der Khmer aus Sukhothai.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-16",
+    "epochId": "suedostasien",
+    "question": "Wer gründete 1293 auf Java das Reich Majapahit?",
+    "choices": [
+      "Raden Wijaya",
+      "Gajah Mada",
+      "Hayam Wuruk",
+      "Parameswara"
+    ],
+    "answer": 0,
+    "explanation": "Raden Wijaya besiegte mit Hilfe einer mongolischen Flotte seinen Rivalen und gründete danach Majapahit.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-17",
+    "epochId": "suedostasien",
+    "question": "Welche fremde Flotte half Raden Wijaya 1293 ungewollt bei der Gründung Majapahits?",
+    "choices": [
+      "Eine portugiesische Flotte",
+      "Eine Flotte der mongolischen Yuan-Dynastie",
+      "Eine Flotte des Chola-Reiches",
+      "Eine japanische Flotte"
+    ],
+    "answer": 1,
+    "explanation": "Kublai Khan hatte eine Strafexpedition nach Java geschickt; Raden Wijaya nutzte sie gegen seinen Rivalen und vertrieb die Mongolen danach.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-18",
+    "epochId": "suedostasien",
+    "question": "Wer leistete nach javanischer Überlieferung den Palapa-Eid, den Archipel unter Majapahit zu einen?",
+    "choices": [
+      "Gajah Mada",
+      "Raden Wijaya",
+      "Prapanca",
+      "Kertanegara"
+    ],
+    "answer": 0,
+    "explanation": "Der Minister Gajah Mada soll geschworen haben, auf Genüsse zu verzichten, bis der Archipel unter Majapahit vereint sei.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-19",
+    "epochId": "suedostasien",
+    "question": "Welches Werk von 1365 beschreibt den Hof und die Ausdehnung Majapahits?",
+    "choices": [
+      "Babad Tanah Jawi",
+      "Hikayat Hang Tuah",
+      "Arthashastra",
+      "Nagarakretagama"
+    ],
+    "answer": 3,
+    "explanation": "Das Lobgedicht Nagarakretagama des Dichters Prapanca schildert den Hof Hayam Wuruks und zählt abhängige Gebiete auf.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-20",
+    "epochId": "suedostasien",
+    "question": "Wo herrschte Sultan Malik al-Salih, dessen Grabstein von 1297 als frühes Zeugnis des Islam in Südostasien gilt?",
+    "choices": [
+      "In Malakka",
+      "In Manila",
+      "In Samudera Pasai auf Sumatra",
+      "In Brunei"
+    ],
+    "answer": 2,
+    "explanation": "Malik al-Salih regierte Samudera Pasai in Nordsumatra, das zu den ersten islamischen Sultanaten der Region gehörte.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-21",
+    "epochId": "suedostasien",
+    "question": "Auf welchem Weg verbreitete sich der Islam in Südostasien vor allem?",
+    "choices": [
+      "Durch die Eroberung arabischer Heere",
+      "Durch Zwangsbekehrungen der Osmanen",
+      "Über Kaufleute, Gelehrte und Sufis entlang der Handelswege",
+      "Über portugiesische Missionare"
+    ],
+    "answer": 2,
+    "explanation": "Der Islam kam mit muslimischen Händlern und Gelehrten in die Häfen und wurde von dort aus von Herrschern und Bevölkerung angenommen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-22",
+    "epochId": "suedostasien",
+    "question": "Welcher Fürst aus Palembang gründete um 1400 Malakka?",
+    "choices": [
+      "Zheng He",
+      "Afonso de Albuquerque",
+      "Raden Wijaya",
+      "Parameswara"
+    ],
+    "answer": 3,
+    "explanation": "Parameswara floh von Sumatra über Temasek und gründete um 1400 Malakka an der Westküste der Malaiischen Halbinsel.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-23",
+    "epochId": "suedostasien",
+    "question": "In welchem Jahr eroberten die Portugiesen Malakka?",
+    "choices": [
+      "1511",
+      "1498",
+      "1571",
+      "1619"
+    ],
+    "answer": 0,
+    "explanation": "Afonso de Albuquerque nahm Malakka im August 1511 ein; damit begann die europäische Kolonialzeit in Südostasien.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-24",
+    "epochId": "suedostasien",
+    "question": "Wer führte die Portugiesen 1511 bei der Eroberung Malakkas?",
+    "choices": [
+      "Vasco da Gama",
+      "Afonso de Albuquerque",
+      "Ferdinand Magellan",
+      "Bartolomeu Dias"
+    ],
+    "answer": 1,
+    "explanation": "Afonso de Albuquerque, Gouverneur des portugiesischen Indiens, eroberte Malakka von Goa aus.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-25",
+    "epochId": "suedostasien",
+    "question": "Welche Gewürze machten die Molukken und die Banda-Inseln für Europäer so begehrt?",
+    "choices": [
+      "Gewürznelken und Muskatnuss",
+      "Pfeffer und Zimt",
+      "Safran und Vanille",
+      "Ingwer und Kardamom"
+    ],
+    "answer": 0,
+    "explanation": "Gewürznelken wuchsen lange nur auf den nördlichen Molukken, Muskatnuss nur auf den Banda-Inseln.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-26",
+    "epochId": "suedostasien",
+    "question": "Wer gründete 1571 Manila als Hauptstadt der spanischen Philippinen?",
+    "choices": [
+      "Ferdinand Magellan",
+      "Juan Sebastián Elcano",
+      "Miguel López de Legazpi",
+      "Hernán Cortés"
+    ],
+    "answer": 2,
+    "explanation": "Legazpi eroberte 1571 die Siedlung Maynila und machte sie zur Hauptstadt der Kolonie.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-27",
+    "epochId": "suedostasien",
+    "question": "Nach wem sind die Philippinen benannt?",
+    "choices": [
+      "Nach Philipp dem Schönen",
+      "Nach dem spanischen König Philipp II.",
+      "Nach dem Apostel Philippus",
+      "Nach Philipp von Makedonien"
+    ],
+    "answer": 1,
+    "explanation": "Eine spanische Expedition benannte die Inseln 1543 nach dem Thronfolger Philipp, dem späteren König Philipp II.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-28",
+    "epochId": "suedostasien",
+    "question": "Welcher chinesische Mönch berichtete im 7. Jahrhundert von über tausend buddhistischen Mönchen in Srivijaya?",
+    "choices": [
+      "Xuanzang",
+      "Faxian",
+      "Zheng He",
+      "Yijing"
+    ],
+    "answer": 3,
+    "explanation": "Yijing hielt sich auf seiner Reise nach Indien in Srivijaya auf und empfahl Pilgern, dort Sanskrit zu lernen.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-29",
+    "epochId": "suedostasien",
+    "question": "Welche Stadt gründete die Niederländische Ostindien-Kompanie 1619 auf Java?",
+    "choices": [
+      "Malakka",
+      "Manila",
+      "Ambon",
+      "Batavia"
+    ],
+    "answer": 3,
+    "explanation": "Jan Pieterszoon Coen gründete Batavia an der Stelle des zerstörten Jayakarta als Hauptquartier der VOC.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-30",
+    "epochId": "suedostasien",
+    "question": "Welche heutige Hauptstadt ging aus dem niederländischen Batavia hervor?",
+    "choices": [
+      "Jakarta",
+      "Kuala Lumpur",
+      "Singapur",
+      "Bangkok"
+    ],
+    "answer": 0,
+    "explanation": "Batavia ist das heutige Jakarta, die Hauptstadt Indonesiens.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-31",
+    "epochId": "suedostasien",
+    "question": "Wofür ist Jan Pieterszoon Coen neben der Gründung Batavias berüchtigt?",
+    "choices": [
+      "Für die Zerstörung Malakkas",
+      "Für einen Krieg gegen die Spanier in Manila",
+      "Für die Eroberung der Banda-Inseln, bei der ein großer Teil der Bevölkerung getötet, versklavt oder vertrieben wurde",
+      "Für die Vertreibung der Engländer aus Indien"
+    ],
+    "answer": 2,
+    "explanation": "Um das Muskatmonopol durchzusetzen, ließ Coen 1621 die Banda-Inseln erobern und ihre Bevölkerung weitgehend auslöschen.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-32",
+    "epochId": "suedostasien",
+    "question": "In welchem Jahr wurde die Niederländische Ostindien-Kompanie (VOC) gegründet?",
+    "choices": [
+      "1588",
+      "1602",
+      "1648",
+      "1799"
+    ],
+    "answer": 1,
+    "explanation": "Die VOC entstand 1602 als Zusammenschluss mehrerer Handelsgesellschaften und erhielt das niederländische Monopol für den Asienhandel.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-33",
+    "epochId": "suedostasien",
+    "question": "Wer eroberte und zerstörte 1767 die siamesische Hauptstadt Ayutthaya?",
+    "choices": [
+      "Die Khmer",
+      "Die birmanische Konbaung-Dynastie",
+      "Ein vietnamesisches Heer",
+      "Französische Truppen"
+    ],
+    "answer": 1,
+    "explanation": "Truppen der Konbaung unter König Hsinbyushin nahmen Ayutthaya im April 1767 ein und brannten die Stadt nieder.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-34",
+    "epochId": "suedostasien",
+    "question": "Welche Stadt machte Rama I. 1782 zur neuen Hauptstadt Siams?",
+    "choices": [
+      "Ayutthaya",
+      "Sukhothai",
+      "Chiang Mai",
+      "Bangkok"
+    ],
+    "answer": 3,
+    "explanation": "Rama I. begründete 1782 die Chakri-Dynastie und verlegte die Hauptstadt nach Bangkok.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-35",
+    "epochId": "suedostasien",
+    "question": "Wer begründete 1752 die birmanische Konbaung-Dynastie?",
+    "choices": [
+      "Alaungpaya",
+      "Anawrahta",
+      "Thibaw",
+      "Mindon"
+    ],
+    "answer": 0,
+    "explanation": "Alaungpaya einte Birma wieder und begründete die Konbaung-Dynastie, die bis 1885 regierte.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-36",
+    "epochId": "suedostasien",
+    "question": "Wer einte 1802 Vietnam und begründete die Nguyễn-Dynastie?",
+    "choices": [
+      "Lê Lợi",
+      "Ngô Quyền",
+      "Gia Long",
+      "Trần Hưng Đạo"
+    ],
+    "answer": 2,
+    "explanation": "Nguyễn Ánh besiegte die Tây Sơn, nahm 1802 den Kaisernamen Gia Long an und herrschte über ganz Vietnam.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-37",
+    "epochId": "suedostasien",
+    "question": "Welche Stadt war die Hauptstadt der Nguyễn-Kaiser?",
+    "choices": [
+      "Hanoi",
+      "Saigon",
+      "Huế",
+      "Đà Nẵng"
+    ],
+    "answer": 2,
+    "explanation": "Gia Long machte Huế in Zentralvietnam zur Hauptstadt und ließ dort eine große Zitadelle bauen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-38",
+    "epochId": "suedostasien",
+    "question": "Welcher Aufstand stürzte ab 1771 die alten Fürstenhäuser Vietnams und ging der Nguyễn-Dynastie voraus?",
+    "choices": [
+      "Der Taiping-Aufstand",
+      "Der Tây-Sơn-Aufstand",
+      "Der Boxeraufstand",
+      "Der Aufstand der Katipunan"
+    ],
+    "answer": 1,
+    "explanation": "Die Brüder von Tây Sơn stürzten die Fürstenhäuser Nguyễn und Trịnh, bevor Nguyễn Ánh sie besiegte.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-39",
+    "epochId": "suedostasien",
+    "question": "Wer gründete 1819 Singapur als britischen Freihafen?",
+    "choices": [
+      "Warren Hastings",
+      "Robert Clive",
+      "James Brooke",
+      "Stamford Raffles"
+    ],
+    "answer": 3,
+    "explanation": "Stamford Raffles erwarb die Insel 1819 durch einen Vertrag mit einem Prinzen von Johor.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-40",
+    "epochId": "suedostasien",
+    "question": "Welche drei Häfen fassten die Briten 1826 zu den Straits Settlements zusammen?",
+    "choices": [
+      "Penang, Malakka und Singapur",
+      "Batavia, Malakka und Singapur",
+      "Penang, Rangun und Singapur",
+      "Manila, Malakka und Penang"
+    ],
+    "answer": 0,
+    "explanation": "Penang, Malakka und Singapur bildeten die Straits Settlements an der Straße von Malakka.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-41",
+    "epochId": "suedostasien",
+    "question": "In welchem Jahr nahmen britische Truppen Mandalay ein und beendeten das birmanische Königtum?",
+    "choices": [
+      "1885",
+      "1824",
+      "1852",
+      "1910"
+    ],
+    "answer": 0,
+    "explanation": "Im Dritten Anglo-Birmanischen Krieg 1885 wurde König Thibaw abgesetzt; Anfang 1886 wurde Birma Teil Britisch-Indiens.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-42",
+    "epochId": "suedostasien",
+    "question": "Welcher Vertrag von 1824 teilte die Interessengebiete Großbritanniens und der Niederlande an der Straße von Malakka?",
+    "choices": [
+      "Der Vertrag von Tordesillas",
+      "Der britisch-niederländische Vertrag von London",
+      "Der Vertrag von Nanking",
+      "Der Vertrag von Yandabo"
+    ],
+    "answer": 1,
+    "explanation": "Im Londoner Vertrag von 1824 erhielten die Briten die Malaiische Halbinsel, die Niederländer die Inseln südlich der Meerenge.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-43",
+    "epochId": "suedostasien",
+    "question": "In welchem Jahr fasste Frankreich seine Besitzungen zur Indochinesischen Union zusammen?",
+    "choices": [
+      "1858",
+      "1862",
+      "1887",
+      "1907"
+    ],
+    "answer": 2,
+    "explanation": "1887 entstand Französisch-Indochina aus Cochinchina, Annam, Tonkin und Kambodscha; 1893 kam Laos hinzu.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-44",
+    "epochId": "suedostasien",
+    "question": "Welches Volk gründete an der Küste des heutigen Zentralvietnam das Reich Champa?",
+    "choices": [
+      "Die Khmer",
+      "Die Mon",
+      "Die Thai",
+      "Die Cham"
+    ],
+    "answer": 3,
+    "explanation": "Die Cham sprachen eine austronesische Sprache und errichteten in Mỹ Sơn zahlreiche hinduistische Tempel.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-45",
+    "epochId": "suedostasien",
+    "question": "Welcher König von Siam modernisierte ab 1868 Verwaltung, Schulen und Armee und schaffte die Sklaverei schrittweise ab?",
+    "choices": [
+      "Taksin",
+      "Ramkhamhaeng",
+      "Mongkut",
+      "Chulalongkorn"
+    ],
+    "answer": 3,
+    "explanation": "Chulalongkorn (Rama V.) regierte von 1868 bis 1910 und gilt als großer Reformer Siams.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-46",
+    "epochId": "suedostasien",
+    "question": "Welche Rolle spielte Siam zwischen Britisch-Birma und Französisch-Indochina?",
+    "choices": [
+      "Es wurde zwischen beiden Mächten aufgeteilt",
+      "Es wurde britisches Protektorat",
+      "Es blieb unabhängig und diente als Pufferstaat",
+      "Es wurde Teil Französisch-Indochinas"
+    ],
+    "answer": 2,
+    "explanation": "Siam blieb als einziger Staat Südostasiens unabhängig, musste aber Randgebiete an beide Mächte abtreten.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-47",
+    "epochId": "suedostasien",
+    "question": "Welche Gebiete musste Siam nach der Paknam-Krise 1893 an Frankreich abtreten?",
+    "choices": [
+      "Die Hauptstadt Bangkok",
+      "Die Gebiete östlich des Mekong, das heutige Laos",
+      "Die nördlichen malaiischen Sultanate",
+      "Das Fürstentum Chiang Mai"
+    ],
+    "answer": 1,
+    "explanation": "Nachdem französische Kanonenboote bis vor Bangkok gefahren waren, trat Siam die Gebiete östlich des Mekong ab.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-suedostasien-48",
+    "epochId": "suedostasien",
+    "question": "Welcher Geheimbund begann 1896 den Aufstand gegen die spanische Herrschaft auf den Philippinen?",
+    "choices": [
+      "Katipunan",
+      "Liga Filipina",
+      "Việt Minh",
+      "Sarekat Islam"
+    ],
+    "answer": 0,
+    "explanation": "Die 1892 von Andrés Bonifacio gegründete Katipunan wollte die Unabhängigkeit mit Waffengewalt erkämpfen.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-49",
+    "epochId": "suedostasien",
+    "question": "Welcher Schriftsteller wurde am 30. Dezember 1896 in Manila von den Spaniern erschossen?",
+    "choices": [
+      "Andrés Bonifacio",
+      "José Rizal",
+      "Emilio Aguinaldo",
+      "Apolinario Mabini"
+    ],
+    "answer": 1,
+    "explanation": "José Rizal, Autor von „Noli me tangere“, wurde trotz seines Eintretens für friedliche Reformen hingerichtet.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-50",
+    "epochId": "suedostasien",
+    "question": "Wer rief am 12. Juni 1898 die Unabhängigkeit der Philippinen aus?",
+    "choices": [
+      "Emilio Aguinaldo",
+      "José Rizal",
+      "Andrés Bonifacio",
+      "Manuel Quezon"
+    ],
+    "answer": 0,
+    "explanation": "Emilio Aguinaldo verkündete die Unabhängigkeit in Kawit und wurde 1899 Präsident der Ersten Philippinischen Republik.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-suedostasien-51",
+    "epochId": "suedostasien",
+    "question": "An welchen Staat trat Spanien die Philippinen im Frieden von Paris 1898 ab?",
+    "choices": [
+      "Japan",
+      "Großbritannien",
+      "Die Vereinigten Staaten",
+      "Deutschland"
+    ],
+    "answer": 2,
+    "explanation": "Nach dem Spanisch-Amerikanischen Krieg gingen die Philippinen an die USA, gegen die die Filipinos ab 1899 kämpften.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-suedostasien-52",
+    "epochId": "suedostasien",
+    "question": "Was verlangte das niederländische Kultursystem ab 1830 von den Bauern Javas?",
+    "choices": [
+      "Den Besuch staatlicher Schulen",
+      "Den Übertritt zum Christentum",
+      "Den Dienst in der Kolonialarmee",
+      "Einen Teil ihres Landes oder ihrer Arbeit für Exportpflanzen wie Kaffee und Zucker zu verwenden"
+    ],
+    "answer": 3,
+    "explanation": "Die Dörfer mussten Exportpflanzen anbauen, die der Staat billig aufkaufte; das brachte den Niederlanden große Gewinne und Java Hungersnöte.",
+    "difficulty": 2
+  },
+  {
     "id": "q-urgeschichte-01",
     "epochId": "urgeschichte",
     "question": "现代人类智人起源于哪个大洲？",
@@ -13829,6 +16741,734 @@
     ],
     "answer": 2,
     "explanation": "先后顺序是：恰塔霍裕克约在公元前7100年，冶铜约在公元前5000年，奥兹之死约在公元前3300年，巨石阵的砂岩巨石约在公元前2500年。",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-01",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welches Kloster vor der Küste Northumbrias überfielen Wikinger im Jahr 793?",
+    "choices": [
+      "Lindisfarne",
+      "Iona",
+      "Cluny",
+      "Monte Cassino"
+    ],
+    "answer": 0,
+    "explanation": "Der Überfall auf Lindisfarne am 8. Juni 793 gilt als Beginn der Wikingerzeit.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-02",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welche Stadt plünderten Wikinger zu Ostern 845, bevor Karl der Kahle ihren Abzug mit Silber erkaufte?",
+    "choices": [
+      "Aachen",
+      "Köln",
+      "Paris",
+      "Rom"
+    ],
+    "answer": 2,
+    "explanation": "Eine Flotte fuhr die Seine hinauf und zog erst nach Zahlung von 7000 Pfund Silber wieder ab.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-03",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Wikingeranführer erhielt 911 das Land um Rouen, aus dem die Normandie wurde?",
+    "choices": [
+      "Guthrum",
+      "Rollo",
+      "Ivar",
+      "Göttrik"
+    ],
+    "answer": 1,
+    "explanation": "Rollo einigte sich mit Karl dem Einfältigen und begründete die Herrschaft der Normannen an der unteren Seine.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-04",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie heißt die Versammlung, die um 930 auf Island erstmals zusammentrat?",
+    "choices": [
+      "Storting",
+      "Reichstag",
+      "Witenagemot",
+      "Althing"
+    ],
+    "answer": 3,
+    "explanation": "Das Althing tagte jeden Sommer in Þingvellir und beschloss Gesetze für ganz Island.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-05",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wer führte um 985 die ersten nordischen Siedler nach Grönland?",
+    "choices": [
+      "Erik der Rote",
+      "Leif Eriksson",
+      "Ingólfr Arnarson",
+      "Harald Hardrada"
+    ],
+    "answer": 0,
+    "explanation": "Erik der Rote nutzte seine Verbannung aus Island, um Grönland zu erkunden, und kehrte dann mit Siedlern zurück.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-06",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Seefahrer erreichte um 1000 das von den Sagas „Vinland“ genannte Land in Nordamerika?",
+    "choices": [
+      "Erik der Rote",
+      "Olav Tryggvason",
+      "Leif Eriksson",
+      "Rollo"
+    ],
+    "answer": 2,
+    "explanation": "Leif Eriksson, der Sohn Eriks des Roten, segelte von Grönland nach Westen und überwinterte in Vinland.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-07",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wo auf Neufundland wurden Reste einer nordischen Siedlung aus der Zeit um 1000 gefunden?",
+    "choices": [
+      "Jamestown",
+      "L’Anse aux Meadows",
+      "Plymouth",
+      "Québec"
+    ],
+    "answer": 1,
+    "explanation": "Helge und Anne Stine Ingstad entdeckten die Fundstätte 1960; sie ist heute UNESCO-Welterbe.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-08",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher dänische König rühmte sich auf dem Runenstein von Jelling, die Dänen zu Christen gemacht zu haben?",
+    "choices": [
+      "Gorm der Alte",
+      "Knut der Große",
+      "Sven Gabelbart",
+      "Harald Blauzahn"
+    ],
+    "answer": 3,
+    "explanation": "Harald Blauzahn ließ den großen Jellingstein zu Ehren seiner Eltern Gorm und Thyra errichten.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-09",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher König beherrschte um 1028 England, Dänemark und Norwegen zugleich?",
+    "choices": [
+      "Knut der Große",
+      "Alfred der Große",
+      "Harald Hardrada",
+      "Wilhelm der Eroberer"
+    ],
+    "answer": 0,
+    "explanation": "Knut der Große wurde 1016 König von England, erbte Dänemark und gewann 1028 Norwegen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-10",
+    "epochId": "wikinger-nordeuropa",
+    "question": "In welcher Schlacht fiel 1066 der norwegische König Harald Hardrada?",
+    "choices": [
+      "Hastings",
+      "Edington",
+      "Stamford Bridge",
+      "Stiklestad"
+    ],
+    "answer": 2,
+    "explanation": "Harald Hardrada unterlag am 25. September 1066 bei Stamford Bridge dem englischen König Harald Godwinson.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-11",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welche Königin vereinte 1397 Dänemark, Norwegen und Schweden in der Kalmarer Union?",
+    "choices": [
+      "Christina",
+      "Margarete I.",
+      "Emma von der Normandie",
+      "Thyra"
+    ],
+    "answer": 1,
+    "explanation": "Margarete I. ließ ihren Großneffen Erik von Pommern in Kalmar krönen und regierte selbst bis 1412.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-12",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Schiffstyp war das typische Kriegsschiff der Wikinger?",
+    "choices": [
+      "Galeere",
+      "Kogge",
+      "Karavelle",
+      "Langschiff"
+    ],
+    "answer": 3,
+    "explanation": "Das schlanke Langschiff mit Segel und Rudern war hochseetüchtig und konnte weit in Flüsse vordringen.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-13",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie nennt man die Schriftzeichen, die die Skandinavier in der Wikingerzeit in Steine ritzten?",
+    "choices": [
+      "Runen",
+      "Hieroglyphen",
+      "Keilschrift",
+      "Ogham"
+    ],
+    "answer": 0,
+    "explanation": "Die jüngere Runenreihe der Wikingerzeit umfasste 16 Zeichen; Tausende Runensteine sind erhalten.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-14",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Gott war in der nordischen Mythologie der Herr der Götter und Gott der Weisheit und Dichtkunst?",
+    "choices": [
+      "Thor",
+      "Loki",
+      "Odin",
+      "Freyr"
+    ],
+    "answer": 2,
+    "explanation": "Odin galt als Göttervater; Thor war der Donnergott, Freyr ein Gott der Fruchtbarkeit.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-15",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie hieß das skandinavisch besiedelte Gebiet im Osten Englands, in dem dänisches Recht galt?",
+    "choices": [
+      "Wessex",
+      "Danelag",
+      "Mercia",
+      "Strathclyde"
+    ],
+    "answer": 1,
+    "explanation": "Nach Alfreds Sieg bei Edington 878 entstand eine Grenze; das Gebiet nördlich und östlich davon hieß später Danelag.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-16",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher angelsächsische König hielt als einziger dem Großen Heidnischen Heer stand?",
+    "choices": [
+      "Æthelred von Wessex",
+      "Edmund von East Anglia",
+      "Offa von Mercia",
+      "Alfred der Große"
+    ],
+    "answer": 3,
+    "explanation": "Alfred der Große von Wessex besiegte die Wikinger 878 bei Edington.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-17",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher isländische Gelehrte schrieb um 1220 die Prosa-Edda?",
+    "choices": [
+      "Snorri Sturluson",
+      "Ari der Weise",
+      "Saxo Grammaticus",
+      "Adam von Bremen"
+    ],
+    "answer": 0,
+    "explanation": "Snorri Sturluson verfasste die Prosa-Edda als Lehrbuch der Dichtkunst und später die Heimskringla.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-18",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welche Stadt gründeten norwegische Wikinger 841 als befestigtes Lager in Irland?",
+    "choices": [
+      "Cork",
+      "Belfast",
+      "Dublin",
+      "Galway"
+    ],
+    "answer": 2,
+    "explanation": "Aus dem Longphort an der Liffey entwickelte sich eine skandinavisch beherrschte Handelsstadt.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-19",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welches Jahr gilt meist als Ende der Wikingerzeit?",
+    "choices": [
+      "1016",
+      "1066",
+      "1100",
+      "1262"
+    ],
+    "answer": 1,
+    "explanation": "Mit dem Tod Harald Hardradas bei Stamford Bridge 1066 endeten die großen Wikingerzüge.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-20",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie nannte man die skandinavischen Händler und Krieger, die über die russischen Flüsse nach Byzanz zogen?",
+    "choices": [
+      "Normannen",
+      "Wenden",
+      "Goten",
+      "Waräger"
+    ],
+    "answer": 3,
+    "explanation": "Im Osten hießen sie Waräger oder Rus; manche dienten später in der Leibgarde des byzantinischen Kaisers.",
+    "difficulty": 1
+  },
+  {
+    "id": "q-wikinger-nordeuropa-21",
+    "epochId": "wikinger-nordeuropa",
+    "question": "In welchem Jahr landete das Große Heidnische Heer in East Anglia?",
+    "choices": [
+      "865",
+      "793",
+      "911",
+      "991"
+    ],
+    "answer": 0,
+    "explanation": "Das Heer ging 865 an Land, nahm 866 York ein und eroberte in den folgenden Jahren mehrere Königreiche.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-22",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welche Stadt nahm das Große Heidnische Heer 866 ein?",
+    "choices": [
+      "London",
+      "Winchester",
+      "York",
+      "Canterbury"
+    ],
+    "answer": 2,
+    "explanation": "York, angelsächsisch Eoforwic, wurde unter dem Namen Jórvík zum Zentrum skandinavischer Herrschaft in Nordengland.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-23",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Wikingeranführer ließ sich nach seiner Niederlage bei Edington 878 taufen?",
+    "choices": [
+      "Ivar",
+      "Guthrum",
+      "Halfdan",
+      "Olav"
+    ],
+    "answer": 1,
+    "explanation": "Guthrum wurde getauft, zog sich nach East Anglia zurück und herrschte dort als König.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-24",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie nannte man die Tribute, mit denen englische Könige Wikingerheere zum Abzug bewegten?",
+    "choices": [
+      "Peterspfennig",
+      "Zehnt",
+      "Schoss",
+      "Danegeld"
+    ],
+    "answer": 3,
+    "explanation": "Besonders unter König Æthelred wurden ab 991 große Summen Silber als Danegeld gezahlt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-25",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wer gilt nach der Überlieferung als erster dauerhafter Siedler Islands?",
+    "choices": [
+      "Ingólfr Arnarson",
+      "Erik der Rote",
+      "Thorfinn Karlsefni",
+      "Gange-Hrolf"
+    ],
+    "answer": 0,
+    "explanation": "Nach dem Landnahmebuch ließ sich Ingólfr Arnarson um 874 an der Stelle des heutigen Reykjavík nieder.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-26",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Auf welcher Ebene im Südwesten Islands tagte das Althing?",
+    "choices": [
+      "Reykholt",
+      "Skálholt",
+      "Þingvellir",
+      "Hólar"
+    ],
+    "answer": 2,
+    "explanation": "Þingvellir liegt östlich von Reykjavík und ist heute Nationalpark und UNESCO-Welterbe.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-27",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie entschied sich Island um das Jahr 1000 für das Christentum?",
+    "choices": [
+      "Durch eine Eroberung aus Norwegen",
+      "Durch einen Beschluss des Althings",
+      "Durch einen Kreuzzug des Papstes",
+      "Durch die Taufe des isländischen Königs"
+    ],
+    "answer": 1,
+    "explanation": "Der Gesetzessprecher Þorgeir verkündete, dass alle Isländer Christen werden sollten, um einen Bürgerkrieg zu vermeiden.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-28",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher fränkische Mönch predigte um 830 im schwedischen Birka?",
+    "choices": [
+      "Bonifatius",
+      "Willibrord",
+      "Columban",
+      "Ansgar"
+    ],
+    "answer": 3,
+    "explanation": "Ansgar, später Erzbischof von Hamburg-Bremen, wird als „Apostel des Nordens“ verehrt.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-29",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher norwegische König fiel 1030 bei Stiklestad und wurde danach als Heiliger verehrt?",
+    "choices": [
+      "Olav Haraldsson",
+      "Olav Tryggvason",
+      "Håkon der Gute",
+      "Magnus der Gute"
+    ],
+    "answer": 0,
+    "explanation": "Olav Haraldsson wurde als Olav der Heilige zum „ewigen König Norwegens“ und Schutzpatron des Landes.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-30",
+    "epochId": "wikinger-nordeuropa",
+    "question": "In welcher Stadt wurde der heilige Olav begraben, die zum wichtigsten Pilgerort Norwegens wurde?",
+    "choices": [
+      "Bergen",
+      "Oslo",
+      "Nidaros (Trondheim)",
+      "Stavanger"
+    ],
+    "answer": 2,
+    "explanation": "Über Olavs Grab entstand der Dom von Nidaros, Ziel von Pilgern aus ganz Nordeuropa.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-31",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher norwegische König ertrank um 1000 in der Seeschlacht bei Svolder?",
+    "choices": [
+      "Harald Schönhaar",
+      "Olav Tryggvason",
+      "Olav Haraldsson",
+      "Erik Blutaxt"
+    ],
+    "answer": 1,
+    "explanation": "Olav Tryggvason sprang nach der Überlieferung über Bord, als sein Schiff „Langer Wurm“ erobert wurde.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-32",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wen heiratete Knut der Große 1017, um seine Herrschaft in England zu festigen?",
+    "choices": [
+      "Thyra",
+      "Gunhild",
+      "Ælfgifu von Northampton",
+      "Emma von der Normandie"
+    ],
+    "answer": 3,
+    "explanation": "Emma war die Witwe König Æthelreds; ihr gemeinsamer Sohn war Hardiknut.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-33",
+    "epochId": "wikinger-nordeuropa",
+    "question": "In welchem Heer diente Harald Hardrada, bevor er König von Norwegen wurde?",
+    "choices": [
+      "In der Warägergarde des byzantinischen Kaisers",
+      "Im Heer Wilhelms von der Normandie",
+      "Im Kreuzfahrerheer vor Jerusalem",
+      "In der Leibwache des Kalifen von Córdoba"
+    ],
+    "answer": 0,
+    "explanation": "Harald kämpfte als Waräger für Byzanz unter anderem auf Sizilien und kehrte mit großem Reichtum zurück.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-34",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher englische König besiegte 1066 die Norweger bei Stamford Bridge, verlor aber kurz darauf bei Hastings?",
+    "choices": [
+      "Eduard der Bekenner",
+      "Æthelred der Unberatene",
+      "Harald Godwinson",
+      "Edmund Eisenseite"
+    ],
+    "answer": 2,
+    "explanation": "Harald Godwinson eilte nach dem Sieg im Norden nach Süden und fiel am 14. Oktober 1066 bei Hastings.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-35",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Handelsplatz an der Schlei war einer der wichtigsten Märkte der Wikingerzeit?",
+    "choices": [
+      "Lübeck",
+      "Haithabu",
+      "Danzig",
+      "Bergen"
+    ],
+    "answer": 1,
+    "explanation": "Haithabu verband Nord- und Ostseehandel; seine Reste liegen bei Schleswig.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-36",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie heißt der Grenzwall, der Dänemark im Süden gegen das Frankenreich schützte?",
+    "choices": [
+      "Limes",
+      "Hadrianswall",
+      "Offa’s Dyke",
+      "Danewerk"
+    ],
+    "answer": 3,
+    "explanation": "Das Danewerk wurde mehrfach ausgebaut, unter anderem um 808 unter König Göttrik.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-37",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Woher stammte ein großer Teil des Silbers in den Schatzfunden der Wikingerzeit auf Gotland?",
+    "choices": [
+      "Aus dem arabischen Kalifat",
+      "Aus Bergwerken in Norwegen",
+      "Aus dem Inkareich",
+      "Aus Indien über das Rote Meer"
+    ],
+    "answer": 0,
+    "explanation": "Zehntausende arabische Dirhams gelangten über die Flüsse Osteuropas in den Norden.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-38",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie heißen die Erzählungen in altnordischer Sprache, die auf Island über Familien der Siedlungszeit niedergeschrieben wurden?",
+    "choices": [
+      "Minnelieder",
+      "Chansons de geste",
+      "Isländersagas",
+      "Annalen"
+    ],
+    "answer": 2,
+    "explanation": "Die Isländersagas entstanden vor allem im 13. und 14. Jahrhundert aus mündlicher Überlieferung.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-39",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher dänische König eroberte 1361 die Handelsstadt Visby auf Gotland?",
+    "choices": [
+      "Erik von Pommern",
+      "Waldemar IV. Atterdag",
+      "Christoph II.",
+      "Knut VI."
+    ],
+    "answer": 1,
+    "explanation": "Die Eroberung Visbys trug dazu bei, dass sich die Hansestädte gegen Waldemar IV. verbündeten.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-40",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Frieden beendete 1370 den Krieg zwischen der Hanse und Dänemark?",
+    "choices": [
+      "Frieden von Lübeck",
+      "Frieden von Kalmar",
+      "Frieden von Roskilde",
+      "Frieden von Stralsund"
+    ],
+    "answer": 3,
+    "explanation": "Im Frieden von Stralsund erhielt die Hanse Handelsvorrechte und für 15 Jahre die Burgen Schonens.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-41",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wer wurde 1397 in Kalmar zum gemeinsamen König der drei nordischen Reiche gekrönt?",
+    "choices": [
+      "Erik von Pommern",
+      "Albrecht von Mecklenburg",
+      "Olav II.",
+      "Christoph von Bayern"
+    ],
+    "answer": 0,
+    "explanation": "Erik von Pommern, Großneffe Margaretes I., war König der Union; die tatsächliche Macht lag bis 1412 bei Margarete.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-42",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welche Insel unterstellte sich zwischen 1262 und 1264 dem norwegischen König?",
+    "choices": [
+      "Irland",
+      "Gotland",
+      "Island",
+      "Sizilien"
+    ],
+    "answer": 2,
+    "explanation": "Im Alten Vertrag erkannten die Isländer König Håkon IV. an; der isländische Freistaat endete.",
+    "difficulty": 2
+  },
+  {
+    "id": "q-wikinger-nordeuropa-43",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welche Methode zeigte 2021, dass in L’Anse aux Meadows im Jahr 1021 Holz geschlagen wurde?",
+    "choices": [
+      "Radiokarbondatierung von Knochen",
+      "Spuren eines Sonnensturms in den Jahresringen",
+      "Inschriften auf Runensteinen",
+      "Funde arabischer Münzen"
+    ],
+    "answer": 1,
+    "explanation": "Ein bekannter Sonnensturm von 993 hinterließ einen Kohlenstoff-14-Ausschlag in den Jahresringen, über den die Fällung genau auf 1021 datiert werden konnte.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-44",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie hießen in den Vinland-Sagas die Einheimischen, auf die die Nordleute in Amerika trafen?",
+    "choices": [
+      "Thralle",
+      "Goden",
+      "Waräger",
+      "Skrælingar"
+    ],
+    "answer": 3,
+    "explanation": "Die Sagas nennen sie Skrælingar; Konflikte mit ihnen trugen dazu bei, dass die Siedlungsversuche aufgegeben wurden.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-45",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Gesetzessprecher verkündete um 1000 auf dem Althing die Annahme des Christentums?",
+    "choices": [
+      "Þorgeir",
+      "Snorri Sturluson",
+      "Ari der Weise",
+      "Gizurr der Weiße"
+    ],
+    "answer": 0,
+    "explanation": "Þorgeir, selbst noch Heide, entschied nach einem Tag und einer Nacht des Nachdenkens, dass ganz Island christlich werden sollte.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-46",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welche Stadt wurde 1103 oder 1104 Sitz des ersten Erzbistums für ganz Skandinavien?",
+    "choices": [
+      "Uppsala",
+      "Roskilde",
+      "Lund",
+      "Nidaros"
+    ],
+    "answer": 2,
+    "explanation": "Lund in Schonen gehörte damals zu Dänemark; Nidaros und Uppsala erhielten erst 1152/53 und 1164 eigene Erzbistümer.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-47",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher arabische Gesandte beschrieb 922 Händler der Rus und eine Schiffsbestattung an der Wolga?",
+    "choices": [
+      "Ibn Battuta",
+      "Ibn Fadlan",
+      "Ibn Khaldun",
+      "al-Idrisi"
+    ],
+    "answer": 1,
+    "explanation": "Ibn Fadlan reiste im Auftrag des Kalifen zu den Wolgabulgaren und hinterließ einen der seltenen Augenzeugenberichte über die Rus.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-48",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welcher Chronist schilderte rund hundert Jahre später die Einigung Rollos mit Karl dem Einfältigen?",
+    "choices": [
+      "Adam von Bremen",
+      "Widukind von Corvey",
+      "Einhard",
+      "Dudo von Saint-Quentin"
+    ],
+    "answer": 3,
+    "explanation": "Ein Vertragstext von 911 ist nicht erhalten; die ausführliche Darstellung stammt von Dudo von Saint-Quentin.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-49",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welchen Handelsplatz der Abodriten zerstörte der dänische König Göttrik 808?",
+    "choices": [
+      "Reric",
+      "Birka",
+      "Kaupang",
+      "Wollin"
+    ],
+    "answer": 0,
+    "explanation": "Göttrik brachte die Kaufleute aus Reric in sein Reich, vermutlich nach Haithabu.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-50",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Wie heißt Snorri Sturlusons Geschichte der norwegischen Könige?",
+    "choices": [
+      "Landnámabók",
+      "Gesta Danorum",
+      "Heimskringla",
+      "Íslendingabók"
+    ],
+    "answer": 2,
+    "explanation": "Die Heimskringla entstand um 1230 und erzählt von den sagenhaften Anfängen bis 1177.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-51",
+    "epochId": "wikinger-nordeuropa",
+    "question": "Welches Gebiet verkaufte Waldemar IV. 1346 an den Deutschen Orden, um Dänemark zurückzugewinnen?",
+    "choices": [
+      "Schonen",
+      "Estland",
+      "Gotland",
+      "Holstein"
+    ],
+    "answer": 1,
+    "explanation": "Mit dem Erlös löste Waldemar verpfändete Teile Dänemarks aus.",
+    "difficulty": 3
+  },
+  {
+    "id": "q-wikinger-nordeuropa-52",
+    "epochId": "wikinger-nordeuropa",
+    "question": "In welchem Jahr zerbrach die Kalmarer Union endgültig durch den Austritt Schwedens?",
+    "choices": [
+      "1412",
+      "1448",
+      "1500",
+      "1523"
+    ],
+    "answer": 3,
+    "explanation": "Mit der Wahl Gustav Vasas zum schwedischen König 1523 endete die Union der drei Reiche.",
     "difficulty": 3
   },
   {

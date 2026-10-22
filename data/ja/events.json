@@ -653,7 +653,7 @@
     "year": -1500,
     "endYear": null,
     "approx": true,
-    "epochId": "urgeschichte",
+    "epochId": "ozeanien-pazifik",
     "regionId": "ozeanien",
     "summary": "アウトリガーカヌーを操る海洋民が東南アジアから出発し、メラネシアとポリネシアの遠い島々に達する。",
     "text": "紀元前1500年頃、台湾やフィリピンの地域から来た集団が、ビスマルク諸島を経て、開けた太平洋へと進出した。彼らは、ニューカレドニアの遺跡ラピタにちなんで名づけられた押印文様の土器で識別され、カヌーに豚、鶏、犬、タロイモ、ヤムイモを積んでいた。数世紀のうちにフィジー、トンガ、サモアに達し、そこから彼らの子孫であるポリネシア人が、ずっとのちにハワイ、イースター島、ニュージーランドに移住した。星、うねり、鳥の飛行を頼りに数千キロメートルを航海したことは、航海史上最大の偉業の一つに数えられる。",
@@ -839,6 +839,25 @@
       "アンデス",
       "ペルー",
       "神殿"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "lapita-erreicht-tonga-und-samoa",
+    "title": "Lapita-Siedler erreichen Tonga und Samoa",
+    "year": -850,
+    "endYear": null,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Mit Fidschi, Tonga und Samoa erreichen die Lapita-Seefahrer den Westrand Polynesiens, wo sich in den folgenden Jahrhunderten die polynesische Kultur herausbildet.",
+    "text": "Nachdem die Träger der Lapita-Kultur den Bismarck-Archipel verlassen hatten, stießen sie über die Salomonen, Vanuatu und Neukaledonien weiter nach Osten vor. Zwischen etwa 1000 und 800 v. Chr. erreichten sie Fidschi, Tonga und Samoa; die ältesten Siedlungsspuren Tongas gehören zu den frühesten Belegen in Polynesien. Danach folgte eine lange Pause von weit über tausend Jahren, in der sich in Tonga und Samoa Sprache, Glaube und Gesellschaft der Polynesier entwickelten. Die Töpferei kam in Westpolynesien später außer Gebrauch, sodass die weiter östlich gelegenen Inseln ohne Keramik besiedelt wurden.",
+    "personIds": [],
+    "tags": [
+      "lapita",
+      "tonga",
+      "samoa",
+      "polynesier"
     ],
     "importance": 2
   },
@@ -1930,6 +1949,25 @@
     "importance": 2
   },
   {
+    "id": "funan-und-oc-eo",
+    "title": "Funan und der Hafen Óc Eo",
+    "year": 100,
+    "endYear": null,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Im Mekongdelta entsteht mit Funan das erste bekannte größere Reich Südostasiens, dessen Hafen Óc Eo Handelswege zwischen Indien und China verbindet.",
+    "text": "Was wir über Funan wissen, stammt vor allem aus chinesischen Quellen; der Name ist chinesisch und gibt vielleicht ein einheimisches Wort für „Berg“ wieder. Chinesische Gesandte, die das Land um die Mitte des 3. Jahrhunderts besuchten, berichteten von ummauerten Städten, Steuern in Gold und Perlen und einer indischen Schrift. Nach einer Legende heiratete ein Brahmane namens Kaundinya eine einheimische Herrscherin und begründete so die Dynastie. Ausgrabungen in Óc Eo im heutigen Südvietnam brachten Schmuck aus Indien, Spiegel aus China und römische Münzen des 2. Jahrhunderts zutage. Im 6. und 7. Jahrhundert ging Funan im Khmer-Reich Chenla auf.",
+    "personIds": [],
+    "tags": [
+      "funan",
+      "mekong",
+      "handel",
+      "vietnam"
+    ],
+    "importance": 2
+  },
+  {
     "id": "teotihuacan-metropole",
     "title": "メソアメリカの大都市テオティワカン",
     "year": 100,
@@ -2007,6 +2045,25 @@
       "国境"
     ],
     "importance": 2
+  },
+  {
+    "id": "gruendung-von-champa",
+    "title": "Anfänge Champas",
+    "year": 192,
+    "endYear": null,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "An der Küste des heutigen Zentralvietnam entsteht das Reich der Cham, das über tausend Jahre zwischen dem Khmer-Reich und Vietnam bestehen wird.",
+    "text": "Chinesische Chroniken berichten, dass sich um 192 im Süden der chinesischen Provinz Rinan ein Fürst unabhängig machte; daraus ging das Reich Linyi hervor, das als Vorläufer Champas gilt. Die Cham sprachen eine austronesische Sprache, waren erfahrene Seefahrer und lebten vom Handel mit Adlerholz, Elfenbein und anderen Waren. Ihre Herrscher übernahmen Hinduismus und Sanskrit und errichteten in Mỹ Sơn zahlreiche Tempel für Shiva. Champa bestand aus mehreren Fürstentümern, die abwechselnd mit Angkor und Đại Việt Krieg führten; 1177 plünderten die Cham sogar Angkor. Nach dem Fall der Hauptstadt Vijaya 1471 schrumpfte Champa, und 1832 gliederte Vietnam den letzten Rest ein.",
+    "personIds": [],
+    "tags": [
+      "champa",
+      "cham",
+      "vietnam",
+      "hinduismus"
+    ],
+    "importance": 1
   },
   {
     "id": "constitutio-antoniniana",
@@ -2207,6 +2264,27 @@
     "importance": 3
   },
   {
+    "id": "gruendung-konstantinopels",
+    "title": "Konstantin weiht Konstantinopel ein",
+    "year": 330,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "An der Stelle der griechischen Stadt Byzantion entsteht am Bosporus die neue Hauptstadt des Römischen Reiches.",
+    "text": "Konstantin der Große ließ das alte Byzantion ab 324 prächtig ausbauen und weihte es am 11. Mai 330 als neue Residenz ein. Die Stadt erhielt Paläste, Kirchen, ein Forum und ein großes Hippodrom und wurde später ein zweites Rom mit eigenem Senat. Ihre Lage an der Meerenge zwischen Europa und Asien, an der Schnittstelle von Handelswegen und nahe den bedrohten Grenzen an Donau und Euphrat, machte sie strategisch und wirtschaftlich bedeutend. Als Konstantinopel blieb sie mehr als elf Jahrhunderte Hauptstadt des Oströmischen Reiches.",
+    "personIds": [
+      "konstantin-der-grosse"
+    ],
+    "tags": [
+      "konstantinopel",
+      "konstantin",
+      "hauptstadt",
+      "bosporus"
+    ],
+    "importance": 3
+  },
+  {
     "id": "teotihuacan-eingriff-in-tikal",
     "title": "テオティワカンのティカルへの介入",
     "year": 378,
@@ -2284,6 +2362,25 @@
     "importance": 3
   },
   {
+    "id": "bau-der-theodosianischen-mauern",
+    "title": "Bau der Theodosianischen Mauern",
+    "year": 413,
+    "endYear": null,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Unter Kaiser Theodosius II. erhält Konstantinopel eine Landmauer, die die Stadt fast tausend Jahre lang schützt.",
+    "text": "Um 413 wurde westlich der alten Stadtgrenze eine neue Landmauer fertiggestellt, die das Stadtgebiet stark vergrößerte. Nach einem Erdbeben 447 wurde sie rasch wiederhergestellt und zu einem mehrfachen System aus Graben, Vormauer und Hauptmauer mit zahlreichen Türmen ausgebaut. Die Mauern hielten Hunnen, Awaren, Perser, Araber, Bulgaren und Rus ab. Erst die Kreuzfahrer 1204, die von der Seeseite angriffen, und die Osmanen 1453 mit ihren großen Kanonen nahmen die Stadt ein.",
+    "personIds": [],
+    "tags": [
+      "konstantinopel",
+      "festung",
+      "theodosius ii",
+      "verteidigung"
+    ],
+    "importance": 1
+  },
+  {
     "id": "attila-und-die-hunnen",
     "title": "アッティラとフン族",
     "year": 451,
@@ -2301,6 +2398,25 @@
       "アエティウス"
     ],
     "importance": 2
+  },
+  {
+    "id": "konzil-von-chalkedon",
+    "title": "Konzil von Chalkedon",
+    "year": 451,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "naher-osten",
+    "summary": "Ein Reichskonzil legt fest, dass Christus in zwei Naturen, als wahrer Gott und wahrer Mensch, existiert.",
+    "text": "Kaiser Markian berief das Konzil nach Chalkedon gegenüber Konstantinopel ein, um einen erbitterten Streit über das Wesen Christi beizulegen. Die Bischöfe beschlossen, Christus sei in zwei Naturen, unvermischt und ungetrennt, zugleich Gott und Mensch. Zudem erhielt der Bischof von Konstantinopel den zweiten Rang nach Rom. Viele Christen in Ägypten, Syrien und Armenien lehnten die Beschlüsse ab; aus dieser Spaltung entstanden Kirchen wie die koptische und die syrisch-orthodoxe, und der Streit belastete das Verhältnis dieser Provinzen zur Hauptstadt.",
+    "personIds": [],
+    "tags": [
+      "konzil",
+      "kirche",
+      "christentum",
+      "glaubensstreit"
+    ],
+    "importance": 1
   },
   {
     "id": "ende-westroms",
@@ -2397,12 +2513,101 @@
     "importance": 2
   },
   {
+    "id": "corpus-iuris-civilis",
+    "title": "Justinian lässt das römische Recht sammeln",
+    "year": 529,
+    "endYear": 534,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Eine Kommission unter Tribonian fasst das gesamte römische Recht zu einem Gesetzeswerk zusammen, das später Corpus Iuris Civilis heißt.",
+    "text": "529 erschien eine erste Sammlung der Kaisergesetze, der Codex; 533 folgten die Digesten mit Auszügen aus den Schriften römischer Juristen und die Institutionen als Lehrbuch für den Rechtsunterricht, 534 eine überarbeitete Fassung des Codex. Später kamen Justinians neue Gesetze, die Novellen, hinzu. Den Namen Corpus Iuris Civilis erhielt das Werk erst im 16. Jahrhundert. Ab dem 11. Jahrhundert wurde es in Bologna wiederentdeckt und gelehrt und wurde so zur Grundlage des Zivilrechts in weiten Teilen Europas.",
+    "personIds": [
+      "justinian-i"
+    ],
+    "tags": [
+      "recht",
+      "justinian",
+      "gesetze",
+      "rom"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "nika-aufstand",
+    "title": "Nika-Aufstand",
+    "year": 532,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Ein Aufruhr im Hippodrom bringt Justinian an den Rand des Sturzes und endet in einem Blutbad.",
+    "text": "Im Januar 532 verbündeten sich die sonst verfeindeten Zirkusparteien der Blauen und der Grünen gegen den Kaiser und seine verhassten Minister; ihr Schlachtruf „Nika!“, „Siege!“, gab dem Aufstand den Namen. Die Aufständischen setzten große Teile der Stadt in Brand, darunter die alte Hagia Sophia, und riefen einen Gegenkaiser aus. Nach dem Bericht Prokops wollte Justinian fliehen, doch Theodora überzeugte ihn zu bleiben. Truppen unter Belisar und Mundus schlossen die Menge im Hippodrom ein; nach den Quellen wurden dabei rund 30.000 Menschen getötet.",
+    "personIds": [
+      "justinian-i",
+      "theodora",
+      "belisar",
+      "prokop-von-caesarea"
+    ],
+    "tags": [
+      "aufstand",
+      "hippodrom",
+      "justinian",
+      "konstantinopel"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "vandalenkrieg-belisars",
+    "title": "Belisar erobert das Vandalenreich",
+    "year": 533,
+    "endYear": 534,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "afrika",
+    "summary": "Ein kleines byzantinisches Heer erobert in kurzer Zeit das Reich der Vandalen in Nordafrika.",
+    "text": "Justinian schickte 533 seinen Feldherrn Belisar mit einer Flotte nach Nordafrika, wo die Vandalen seit 439 ein eigenes Reich mit der Hauptstadt Karthago beherrschten. Nach Siegen bei Ad Decimum und Tricamarum zog Belisar in Karthago ein, und König Gelimer ergab sich 534. Belisar feierte in Konstantinopel einen Triumph, wie es ihn seit Jahrhunderten nicht mehr gegeben hatte. Nordafrika blieb bis zur arabischen Eroberung Karthagos 698 byzantinisch, war aber durch Aufstände der Berber oft unruhig.",
+    "personIds": [
+      "belisar",
+      "justinian-i"
+    ],
+    "tags": [
+      "vandalen",
+      "karthago",
+      "rückeroberung",
+      "nordafrika"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gotenkrieg",
+    "title": "Krieg gegen die Ostgoten in Italien",
+    "year": 535,
+    "endYear": 554,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "In einem fast zwanzigjährigen Krieg erobert Byzanz Italien von den Ostgoten zurück, verwüstet das Land dabei aber schwer.",
+    "text": "535 begann Belisar die Rückeroberung Italiens, besetzte Sizilien, Neapel und Rom und nahm 540 die gotische Hauptstadt Ravenna ein. Unter König Totila gewannen die Ostgoten jedoch große Teile Italiens zurück. Erst der Feldherr Narses besiegte sie 552 in der Schlacht von Busta Gallorum, in der Totila fiel, und brach bis 554 ihren Widerstand. Italien war nach dem langen Krieg verarmt und entvölkert, und schon 568 eroberten die Langobarden große Teile des Landes; Ravenna blieb bis 751 Sitz der byzantinischen Verwaltung.",
+    "personIds": [
+      "belisar",
+      "justinian-i"
+    ],
+    "tags": [
+      "ostgoten",
+      "italien",
+      "ravenna",
+      "rückeroberung"
+    ],
+    "importance": 1
+  },
+  {
     "id": "justinian-und-hagia-sophia",
     "title": "ユスティニアヌスによるハギア・ソフィアの献堂",
     "year": 537,
     "endYear": null,
     "approx": false,
-    "epochId": "mittelalter",
+    "epochId": "byzanz",
     "regionId": "europa",
     "summary": "コンスタンティノープルで、世界最大の教会がわずか5年で建てられ、東ローマ皇帝ユスティニアヌスの権力の象徴となる。",
     "text": "532年のニカの乱で旧教会が焼失したのち、ユスティニアヌスは数学者のトラレスのアンテミオスとミレトスのイシドロスに、直径30メートル以上のドームが浮かんでいるように見える建物を建てさせた。537年12月27日の献堂式で、彼はソロモンを超えたと叫んだと伝えられる。同じ頃、ユスティニアヌスはローマ法を『ローマ法大全』にまとめさせた。これは今日までヨーロッパの法秩序を形づくっている。また、将軍ベリサリオスとナルセスとともに北アフリカとイタリアを再征服した。ハギア・ソフィアはほぼ1000年にわたりキリスト教世界最大の教会であり、1453年にモスクとなり、今日ではイスタンブルの象徴的建造物である。",
@@ -2417,6 +2622,50 @@
       "ローマ法"
     ],
     "importance": 3
+  },
+  {
+    "id": "justinianische-pest",
+    "title": "Die Justinianische Pest",
+    "year": 541,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Die erste bekannte Pestpandemie erreicht über Ägypten das Mittelmeer und fordert 542 in Konstantinopel zahllose Opfer.",
+    "text": "Die Seuche trat 541 in Pelusion in Ägypten auf und erreichte im Frühjahr 542 Konstantinopel, wo nach Prokop zeitweise Tausende Menschen am Tag starben; auch Justinian erkrankte, überlebte aber. In den folgenden zwei Jahrhunderten kehrte die Krankheit immer wieder zurück. DNA-Untersuchungen an Skeletten haben bestätigt, dass der Pesterreger Yersinia pestis die Ursache war. Wie viele Menschen insgesamt starben und wie stark die Pest Wirtschaft und Kriegführung des Reiches schwächte, ist in der Forschung umstritten.",
+    "personIds": [
+      "justinian-i",
+      "prokop-von-caesarea"
+    ],
+    "tags": [
+      "pest",
+      "seuche",
+      "pandemie",
+      "justinian"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schmuggel-der-seidenraupen",
+    "title": "Seidenraupen gelangen nach Byzanz",
+    "year": 552,
+    "endYear": null,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Nach dem Bericht Prokops schmuggeln Mönche Eier der Seidenraupe aus Zentralasien ins Reich.",
+    "text": "Seide musste lange teuer über Persien eingeführt werden, das den Handel kontrollierte. Prokop berichtet, dass um 552 Mönche, die in einem Land namens Serinda gelebt hatten, Justinian anboten, Eier der Seidenraupe zu beschaffen, und sie in hohlen Stäben nach Konstantinopel brachten. Wo dieses Serinda lag, ist unklar; vermutet wird Zentralasien. Fortan entstand im Reich eine eigene Seidenproduktion, die unter staatlicher Aufsicht stand und kostbare Stoffe für Hof, Kirche und Diplomatie lieferte.",
+    "personIds": [
+      "justinian-i",
+      "prokop-von-caesarea"
+    ],
+    "tags": [
+      "seide",
+      "handel",
+      "wirtschaft",
+      "seidenstraße"
+    ],
+    "importance": 1
   },
   {
     "id": "wari-reich",
@@ -2541,6 +2790,48 @@
     "importance": 2
   },
   {
+    "id": "sieg-des-herakleios-ueber-die-perser",
+    "title": "Herakleios besiegt die Perser",
+    "year": 627,
+    "endYear": 628,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "naher-osten",
+    "summary": "Nach einem Vierteljahrhundert Krieg siegt Kaiser Herakleios bei Ninive über die Sasaniden und erzwingt den Frieden.",
+    "text": "Seit 602 hatten die Perser unter Chosrau II. Syrien, Jerusalem und Ägypten erobert, 614 das Kreuz Christi aus Jerusalem entführt und 626 gemeinsam mit den Awaren Konstantinopel belagert. Herakleios wagte einen Feldzug tief in persisches Gebiet und besiegte das persische Heer im Dezember 627 bei Ninive. Chosrau wurde 628 gestürzt, und die Perser gaben alle eroberten Gebiete und das Kreuz zurück, das Herakleios 630 feierlich nach Jerusalem brachte. Beide Reiche waren jedoch so erschöpft, dass sie den bald folgenden arabischen Angriffen wenig entgegensetzen konnten.",
+    "personIds": [
+      "herakleios"
+    ],
+    "tags": [
+      "perser",
+      "sasaniden",
+      "herakleios",
+      "krieg"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-am-jarmuk",
+    "title": "Schlacht am Jarmuk",
+    "year": 636,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "naher-osten",
+    "summary": "Ein arabisch-muslimisches Heer schlägt die Byzantiner am Fluss Jarmuk; Syrien und Palästina gehen verloren.",
+    "text": "Im August 636 trafen am Jarmuk, einem Nebenfluss des Jordan, die Heere des Kalifen Umar auf eine große byzantinische Armee, die Herakleios zusammengezogen hatte. Nach mehrtägigen Kämpfen wurde das byzantinische Heer vernichtend geschlagen. Herakleios gab Syrien auf, 638 fiel Jerusalem, und zwischen 640 und 642 eroberten die Araber auch Ägypten, die Kornkammer Konstantinopels. Das Reich verlor damit seine reichsten Provinzen und wurde zu einem kleineren Staat, der sich auf Kleinasien, den Balkan und Teile Italiens stützte.",
+    "personIds": [
+      "herakleios"
+    ],
+    "tags": [
+      "araber",
+      "islam",
+      "syrien",
+      "niederlage"
+    ],
+    "importance": 3
+  },
+  {
     "id": "arabische-eroberung-jerusalems",
     "title": "アラブによるエルサレム征服",
     "year": 638,
@@ -2598,6 +2889,25 @@
     "importance": 3
   },
   {
+    "id": "einsatz-des-griechischen-feuers",
+    "title": "Das griechische Feuer",
+    "year": 672,
+    "endYear": null,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Byzanz setzt eine neuartige Brandwaffe ein, die auch auf dem Wasser weiterbrennt und arabische Flotten zurückschlägt.",
+    "text": "Nach dem Chronisten Theophanes brachte um 672 ein Baumeister namens Kallinikos, ein Flüchtling aus Syrien, das Rezept nach Konstantinopel. Die Flüssigkeit wurde aus Rohren auf feindliche Schiffe gespritzt, entzündete sich und ließ sich mit Wasser kaum löschen. Sie half bei der Abwehr der arabischen Angriffe auf Konstantinopel in den 670er-Jahren und 717/718. Die Zusammensetzung war Staatsgeheimnis und ist bis heute nicht sicher bekannt; vermutlich enthielt sie Erdöl. Auch die genaue Datierung der ersten arabischen Belagerung ist umstritten.",
+    "personIds": [],
+    "tags": [
+      "waffe",
+      "flotte",
+      "araber",
+      "technik"
+    ],
+    "importance": 2
+  },
+  {
     "id": "schlacht-von-kerbela",
     "title": "カルバラーの戦い",
     "year": 680,
@@ -2616,6 +2926,25 @@
       "ウマイヤ朝"
     ],
     "importance": 3
+  },
+  {
+    "id": "aufstieg-von-srivijaya",
+    "title": "Aufstieg Srivijayas",
+    "year": 682,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Eine Inschrift bei Palembang auf Sumatra berichtet vom Heerzug eines Herrschers, der Srivijaya zur Vormacht an der Straße von Malakka macht.",
+    "text": "Die Inschrift von Kedukan Bukit aus dem Jahr 682 ist in altmalaiischer Sprache verfasst und schildert einen erfolgreichen Feldzug, mit dem Srivijaya seine Macht begründete. Von Palembang aus kontrollierte das Reich bald die Straße von Malakka und die Sundastraße, über die der Seehandel zwischen Indien und China lief. Der chinesische Mönch Yijing, der sich 671 und später erneut dort aufhielt, berichtete von über tausend buddhistischen Mönchen und empfahl Pilgern, in Srivijaya Sanskrit zu lernen. Srivijaya war wohl eher ein Bund von Häfen unter einer führenden Stadt als ein geschlossener Staat. Nach einem Angriff des südindischen Chola-Reiches 1025 verlor es an Bedeutung und zerfiel im 13. Jahrhundert.",
+    "personIds": [],
+    "tags": [
+      "srivijaya",
+      "sumatra",
+      "buddhismus",
+      "seehandel"
+    ],
+    "importance": 2
   },
   {
     "id": "frau-sechs-himmel-in-naranjo",
@@ -2700,6 +3029,27 @@
     "importance": 2
   },
   {
+    "id": "beginn-des-bilderstreits",
+    "title": "Beginn des Bilderstreits",
+    "year": 726,
+    "endYear": null,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Kaiser Leon III. wendet sich gegen die Verehrung religiöser Bilder und löst einen jahrzehntelangen Streit aus.",
+    "text": "Nach der späteren, bilderfreundlichen Überlieferung ließ Leon III. 726 ein Christusbild am Palasttor entfernen und verbot 730 die Bilderverehrung; wie weit er tatsächlich ging, ist in der Forschung umstritten. Die Gegner der Bilder, die Ikonoklasten, sahen in der Verehrung von Ikonen Götzendienst, ihre Befürworter, die Ikonodulen, verteidigten sie als Weg zum Heiligen. Leons Sohn Konstantin V. ließ die Bilderfeindschaft 754 auf einem Konzil zur Kirchenlehre erklären und verfolgte bilderfreundliche Mönche. Der Streit spaltete Kirche und Gesellschaft und entfremdete Byzanz auch vom Papst in Rom.",
+    "personIds": [
+      "leon-iii"
+    ],
+    "tags": [
+      "bilderstreit",
+      "ikonen",
+      "kirche",
+      "leon iii"
+    ],
+    "importance": 2
+  },
+  {
     "id": "schlacht-bei-tours-und-poitiers",
     "title": "トゥール・ポワティエ間の戦い",
     "year": 732,
@@ -2757,12 +3107,33 @@
     "importance": 3
   },
   {
+    "id": "zweites-konzil-von-nicaea",
+    "title": "Zweites Konzil von Nicaea",
+    "year": 787,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "naher-osten",
+    "summary": "Auf Betreiben der Kaiserin Irene erlaubt ein Konzil die Verehrung von Bildern wieder.",
+    "text": "Irene regierte für ihren minderjährigen Sohn Konstantin VI. und ließ 787 in Nicaea ein Konzil zusammentreten, an dem auch Gesandte des Papstes teilnahmen. Die Bischöfe beschlossen, dass Bilder Christi, Marias und der Heiligen verehrt, aber nicht angebetet werden dürfen; die Verehrung gelte dem Dargestellten, nicht dem Bild. Es war das letzte Konzil, das sowohl die orthodoxe als auch die katholische Kirche als ökumenisch anerkennen. 815 kehrten die Kaiser jedoch zur Bilderfeindschaft zurück.",
+    "personIds": [
+      "irene-von-athen"
+    ],
+    "tags": [
+      "konzil",
+      "ikonen",
+      "irene",
+      "bilderstreit"
+    ],
+    "importance": 1
+  },
+  {
     "id": "ueberfall-auf-lindisfarne",
     "title": "リンディスファーン襲撃 ヴァイキング時代の始まり",
     "year": 793,
     "endYear": null,
     "approx": false,
-    "epochId": "mittelalter",
+    "epochId": "wikinger-nordeuropa",
     "regionId": "europa",
     "summary": "スカンディナヴィアの航海民がイングランド沖のリンディスファーン修道院を略奪し、ヨーロッパ中に衝撃を与える。",
     "text": "793年6月8日、ヴァイキングはリンディスファーン島に上陸し、修道士を殺害し、教会の宝物を奪い、捕虜を連れ去った。この襲撃はヴァイキング時代の始まりとされ、ノルマン人は速い長船で、イングランドから地中海に至る沿岸や河川を襲った。彼らは同時に商人、探検家、移住者でもあった。ダブリンとノルマンディーを建設し、ロシアやビザンツへの交易路を押さえ、1000年頃にはアイスランド、グリーンランド、北アメリカに到達した。",
@@ -2792,6 +3163,25 @@
       "宮廷文化",
       "源氏",
       "藤原氏"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "borobudur-und-prambanan",
+    "title": "Borobudur und Prambanan auf Java",
+    "year": 800,
+    "endYear": null,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "In Zentraljava entstehen mit dem buddhistischen Borobudur und den hinduistischen Tempeln von Prambanan zwei der größten religiösen Bauwerke Asiens.",
+    "text": "Borobudur wurde etwa zwischen 780 und 830 unter der buddhistischen Dynastie der Shailendra errichtet. Der gewaltige Stufenbau umhüllt einen Hügel; Pilger umwandeln auf neun Ebenen über 2.600 Reliefs, die vom Leben des Buddha und vom Weg zur Erleuchtung erzählen, bis sie die runden Terrassen mit 72 durchbrochenen Stupas erreichen. Nur wenige Kilometer entfernt ließen Herrscher der Mataram-Dynastie Prambanan bauen, das nach einer Inschrift 856 geweiht wurde; der höchste Tempel ist Shiva gewidmet, Reliefs erzählen das Ramayana. Nachdem sich das Zentrum Javas im 10. Jahrhundert nach Osten verlagert hatte, verfielen beide Anlagen. Borobudur wurde 1814 unter britischer Verwaltung wieder freigelegt und 1973 bis 1983 mit Hilfe der UNESCO restauriert.",
+    "personIds": [],
+    "tags": [
+      "java",
+      "buddhismus",
+      "hinduismus",
+      "tempel"
     ],
     "importance": 2
   },
@@ -2836,6 +3226,46 @@
     "importance": 3
   },
   {
+    "id": "jayavarman-ii-begruendet-khmer-reich",
+    "title": "Jayavarman II. begründet das Khmer-Reich",
+    "year": 802,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Auf dem Berg Kulen lässt sich Jayavarman II. zum Weltenherrscher weihen und legt damit den Grundstein des Khmer-Reiches von Angkor.",
+    "text": "Nach einer Inschrift aus dem 11. Jahrhundert kehrte Jayavarman II. aus „Java“ zurück – ob damit die Insel oder ein anderes Reich gemeint ist, ist umstritten – und einte in jahrzehntelangen Kämpfen die Fürstentümer der Khmer. 802 ließ er sich auf dem Phnom Kulen nordöstlich des späteren Angkor in einer Zeremonie zum Chakravartin, zum Weltenherrscher, weihen und erklärte das Land für unabhängig. Damit verband sich ein Kult um den König als Gott, der Devaraja, dessen genaue Bedeutung in der Forschung diskutiert wird. Seine Nachfolger verlegten die Hauptstadt in die Ebene nördlich des Tonle-Sap-Sees, wo um 900 Yasodharapura, das spätere Angkor, entstand. Das Khmer-Reich beherrschte bis ins 13. Jahrhundert große Teile des südostasiatischen Festlands.",
+    "personIds": [
+      "jayavarman-ii"
+    ],
+    "tags": [
+      "khmer",
+      "kambodscha",
+      "angkor",
+      "devaraja"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "goettrik-zerstoert-reric",
+    "title": "König Göttrik zerstört Reric und stärkt das Danewerk",
+    "year": 808,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der dänische König Göttrik zerstört den slawischen Handelsplatz Reric, siedelt dessen Kaufleute in sein Reich um und lässt den Grenzwall gegen das Frankenreich ausbauen.",
+    "text": "Die fränkischen Reichsannalen berichten, dass Göttrik 808 den Handelsort Reric an der Ostsee im Gebiet der mit Karl dem Großen verbündeten Abodriten zerstörte und die Kaufleute in sein eigenes Reich brachte, wohl nach Haithabu an der Schlei. Zugleich ließ er die Grenze gegen die Franken durch einen Wall sichern, der als Teil des Danewerks gilt. Haithabu wurde in den folgenden zwei Jahrhunderten zu einem der wichtigsten Handelsplätze Nordeuropas. Göttriks Vorgehen zeigt, dass es in Dänemark schon um 800 Könige gab, die Handel und Grenzen gezielt kontrollierten.",
+    "personIds": [],
+    "tags": [
+      "dänemark",
+      "haithabu",
+      "danewerk",
+      "handel"
+    ],
+    "importance": 1
+  },
+  {
     "id": "al-chwarizmi-begruendet-die-algebra",
     "title": "フワーリズミー、代数学を創始する",
     "year": 820,
@@ -2855,6 +3285,27 @@
       "科学"
     ],
     "importance": 3
+  },
+  {
+    "id": "ansgar-missioniert-in-birka",
+    "title": "Ansgar missioniert in Birka",
+    "year": 830,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der fränkische Mönch Ansgar predigt um 830 im schwedischen Handelsort Birka, einer der frühesten christlichen Missionen in Skandinavien.",
+    "text": "Ansgar aus dem Kloster Corvey reiste um 829/830 mit einer Gesandtschaft Ludwigs des Frommen nach Birka am Mälarsee, wo ihm der König erlaubte zu predigen. Einige Bewohner ließen sich taufen, doch eine dauerhafte Kirche entstand nicht. 831 wurde Ansgar Erzbischof des neu gegründeten Hamburg, das 845 von Wikingern zerstört wurde; danach leitete er von Bremen aus die Mission des Nordens. Seine Lebensbeschreibung durch seinen Nachfolger Rimbert ist eine wichtige Quelle für Skandinavien im 9. Jahrhundert.",
+    "personIds": [
+      "ansgar"
+    ],
+    "tags": [
+      "mission",
+      "christentum",
+      "schweden",
+      "birka"
+    ],
+    "importance": 1
   },
   {
     "id": "haus-der-weisheit",
@@ -2878,6 +3329,44 @@
     "importance": 3
   },
   {
+    "id": "gruendung-von-dublin",
+    "title": "Wikinger gründen Dublin",
+    "year": 841,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Norwegische Wikinger legen an der Mündung der Liffey einen befestigten Schiffslager an, aus dem die Stadt Dublin hervorgeht.",
+    "text": "Die irischen Annalen melden für 841 ein befestigtes Winterlager der Wikinger, ein sogenanntes Longphort, bei Dublin. Von hier aus unternahmen die Nordmänner Raubzüge ins Landesinnere, trieben aber auch Handel, besonders mit Sklaven, die sie in Irland erbeuteten. Aus dem Lager entwickelte sich im 10. Jahrhundert eine Handelsstadt mit Werkstätten und Hafen, deren Reste Ausgrabungen im Stadtteil Wood Quay freilegten. Dublin blieb bis zur Eroberung durch anglonormannische Ritter 1170 eine skandinavisch geprägte Herrschaft.",
+    "personIds": [],
+    "tags": [
+      "irland",
+      "dublin",
+      "stadtgründung",
+      "sklavenhandel"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "ende-des-bilderstreits",
+    "title": "Ende des Bilderstreits",
+    "year": 843,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Die Kaiserin Theodora stellt die Bilderverehrung endgültig wieder her, ein Ereignis, das die orthodoxe Kirche bis heute feiert.",
+    "text": "Nach dem Tod des bilderfeindlichen Kaisers Theophilos 842 regierte seine Witwe Theodora für ihren kleinen Sohn Michael III. Im März 843 ließ sie die Beschlüsse von 787 erneuern, einen bilderfreundlichen Patriarchen einsetzen und die Ikonen feierlich in die Hagia Sophia zurückbringen. Die orthodoxe Kirche erinnert daran am ersten Sonntag der Fastenzeit, dem Sonntag der Orthodoxie. Seitdem sind Ikonen fester Bestandteil von Gottesdienst und Frömmigkeit, und die byzantinische Kunst erlebte einen neuen Aufschwung.",
+    "personIds": [],
+    "tags": [
+      "ikonen",
+      "orthodoxie",
+      "bilderstreit",
+      "kirche"
+    ],
+    "importance": 2
+  },
+  {
     "id": "vertrag-von-verdun",
     "title": "ヴェルダン条約",
     "year": 843,
@@ -2895,6 +3384,25 @@
       "ストラスブールの誓約"
     ],
     "importance": 3
+  },
+  {
+    "id": "wikinger-pluendern-paris",
+    "title": "Wikinger plündern Paris",
+    "year": 845,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Eine Wikingerflotte fährt die Seine hinauf, plündert zu Ostern 845 Paris und zieht erst nach Zahlung von 7000 Pfund Silber ab.",
+    "text": "Im Frühjahr 845 segelte eine Flotte von rund 120 Schiffen die Seine aufwärts; ihr Anführer wird in den Quellen Reginherus genannt, den manche mit dem sagenhaften Ragnar Lodbrok gleichsetzen, was aber unsicher ist. Am Ostersonntag erreichten die Wikinger Paris und plünderten die Stadt. Der westfränkische König Karl der Kahle kaufte ihren Abzug mit 7000 Pfund Silber, der ersten von vielen solchen Zahlungen im Frankenreich. Weil die Flüsse den Schiffen tiefe Vorstöße erlaubten, wurden Städte wie Paris, Rouen und Nantes in den folgenden Jahrzehnten immer wieder angegriffen.",
+    "personIds": [],
+    "tags": [
+      "frankenreich",
+      "paris",
+      "raubzug",
+      "tribut"
+    ],
+    "importance": 2
   },
   {
     "id": "aufstieg-von-chichen-itza",
@@ -2935,6 +3443,123 @@
     "importance": 2
   },
   {
+    "id": "ostroute-nach-byzanz-und-bagdad",
+    "title": "Waräger auf der Ostroute",
+    "year": 860,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Skandinavische Händler und Krieger, im Osten Waräger oder Rus genannt, befahren die Flüsse Osteuropas bis zum Schwarzen und zum Kaspischen Meer.",
+    "text": "Schon im 8. Jahrhundert entstanden am Ladogasee Handelsplätze wie Staraja Ladoga, von denen aus vor allem Skandinavier aus dem heutigen Schweden über Wolga und Dnepr nach Süden zogen. Sie trieben Handel mit Pelzen und Sklaven gegen arabisches Silber und byzantinische Waren; 860 griffen Rus erstmals Konstantinopel an. Der arabische Gesandte Ibn Fadlan beschrieb 922 an der Wolga Händler der Rus und eine Schiffsbestattung. Aus der Herrschaft warägischer Fürsten über ostslawische Gebiete ging die Kiewer Rus hervor; später dienten Skandinavier in der Warägergarde des byzantinischen Kaisers.",
+    "personIds": [],
+    "tags": [
+      "waräger",
+      "rus",
+      "handel",
+      "byzanz"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "rjurik-und-die-berufung-der-waraeger",
+    "title": "Rjurik und die Berufung der Waräger",
+    "year": 862,
+    "endYear": null,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Nach der Nestorchronik rufen die Stämme um Nowgorod den Waräger Rjurik als Herrscher ins Land; die Erzählung gilt als Gründungslegende der Rus.",
+    "text": "Die Nestorchronik, die Mönche in Kiew im frühen 12. Jahrhundert zusammenstellten, berichtet, dass slawische und finnische Stämme sich 862 nach inneren Kämpfen den Waräger Rjurik und seine Brüder als Fürsten erbaten. Wie viel davon historisch ist, lässt sich nicht sicher sagen; die Jahreszahl wurde rückblickend gesetzt. Archäologische Funde in Staraja Ladoga und Nowgorod belegen aber, dass skandinavische Händler und Krieger im 9. Jahrhundert an den Flüssen Osteuropas siedelten und sich mit der slawischen Bevölkerung vermischten. Wie groß ihr Anteil an der Staatsbildung war, ist seit dem 18. Jahrhundert umstritten. Nach Rjurik benannte sich die Dynastie der Rjurikiden, die in Moskau bis 1598 herrschte.",
+    "personIds": [],
+    "tags": [
+      "waräger",
+      "nowgorod",
+      "nestorchronik",
+      "rjurikiden"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "mission-von-kyrill-und-method",
+    "title": "Kyrill und Method missionieren die Slawen",
+    "year": 863,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Zwei Brüder aus Thessaloniki brechen nach Großmähren auf, schaffen eine slawische Schrift und feiern Gottesdienste in slawischer Sprache.",
+    "text": "Fürst Rastislav von Großmähren bat Kaiser Michael III. um Lehrer, die das Christentum in der Sprache seines Volkes verkünden konnten. Konstantin, später Kyrill genannt, und sein Bruder Method kannten die slawische Sprache aus ihrer Heimat um Thessaloniki. Kyrill entwickelte die glagolitische Schrift und übersetzte mit Method biblische und liturgische Texte. In Mähren stießen sie auf den Widerstand fränkischer Geistlicher, doch ihre Schüler setzten die Arbeit in Bulgarien fort, wo die kyrillische Schrift entstand. So wurde die slawische Kirchensprache zur Grundlage der Kultur vieler osteuropäischer Völker.",
+    "personIds": [
+      "kyrill",
+      "method"
+    ],
+    "tags": [
+      "mission",
+      "slawen",
+      "schrift",
+      "christentum"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "taufe-boris-von-bulgarien",
+    "title": "Boris I. von Bulgarien lässt sich taufen",
+    "year": 864,
+    "endYear": null,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Der bulgarische Herrscher nimmt das Christentum aus Byzanz an und führt sein Reich in die orthodoxe Welt.",
+    "text": "Um 864 oder 865 ließ sich Khan Boris taufen und nahm den Namen Michael nach seinem Taufpaten, Kaiser Michael III., an. Er schwankte zunächst zwischen Rom und Konstantinopel, bevor die bulgarische Kirche 870 der Kirche von Konstantinopel unterstellt wurde. Ab 886 nahm Boris Schüler Kyrills und Methods auf, die in Ohrid und Preslaw slawische Schulen gründeten. Bulgarien wurde so zu einem Zentrum der slawischen Schriftkultur, blieb aber zugleich ein mächtiger Rivale von Byzanz auf dem Balkan.",
+    "personIds": [],
+    "tags": [
+      "bulgarien",
+      "taufe",
+      "mission",
+      "balkan"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "grosses-heidnisches-heer",
+    "title": "Das Große Heidnische Heer landet in England",
+    "year": 865,
+    "endYear": 878,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Ein großes Wikingerheer landet in East Anglia und erobert in wenigen Jahren die angelsächsischen Königreiche Northumbria, East Anglia und große Teile Mercias.",
+    "text": "Die Angelsächsische Chronik nennt das Heer, das 865 in East Anglia an Land ging, „großes Heer“; spätere Überlieferung sieht Ivar und Halfdan, angebliche Söhne Ragnar Lodbroks, an seiner Spitze. 866 nahmen die Wikinger York ein, 869 töteten sie König Edmund von East Anglia, der danach als Heiliger verehrt wurde. Anders als frühere Räuber überwinterten sie im Land, setzten abhängige Könige ein und verteilten ab 876 Land an ihre Krieger. Nur Wessex unter Alfred dem Großen behauptete sich und besiegte das Heer 878 bei Edington.",
+    "personIds": [],
+    "tags": [
+      "england",
+      "angelsachsen",
+      "eroberung",
+      "york"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "makedonische-dynastie",
+    "title": "Beginn der makedonischen Dynastie",
+    "year": 867,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Basileios I. ermordet seinen Mitkaiser und begründet eine Dynastie, unter der das Reich fast zwei Jahrhunderte lang aufblüht.",
+    "text": "Basileios I., ein Bauernsohn aus der Gegend von Adrianopel, war als Günstling Michaels III. aufgestiegen und ließ ihn 867 ermorden. Seine Dynastie regierte bis 1056 und wird nach seiner Herkunft aus dem Thema Makedonien benannt. In dieser Zeit wurden Gesetze erneuert, Kreta, Zypern und Antiochia zurückerobert und Bulgarien unterworfen. Gleichzeitig erlebten Kunst, Gelehrsamkeit und das Hofzeremoniell eine Blüte, die als makedonische Renaissance bezeichnet wird.",
+    "personIds": [],
+    "tags": [
+      "dynastie",
+      "kaiser",
+      "aufschwung",
+      "makedonen"
+    ],
+    "importance": 1
+  },
+  {
     "id": "diamant-sutra-holztafeldruck",
     "title": "金剛般若経 年代の分かる最古の印刷本",
     "year": 868,
@@ -2952,6 +3577,65 @@
       "敦煌"
     ],
     "importance": 3
+  },
+  {
+    "id": "besiedlung-islands",
+    "title": "Beginn der Besiedlung Islands",
+    "year": 874,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Nach der Überlieferung lässt sich Ingólfr Arnarson 874 als erster dauerhafter Siedler auf Island nieder; binnen 60 Jahren wird die Insel besiedelt.",
+    "text": "Das isländische Landnahmebuch (Landnámabók) nennt Ingólfr Arnarson als ersten Siedler, der sich um 874 an der Stelle des heutigen Reykjavík niederließ; ältere Spuren deuten darauf hin, dass zuvor schon irische Mönche die Insel aufsuchten. Bis etwa 930 kamen Tausende Siedler, vor allem aus Westnorwegen, dazu Menschen aus den skandinavischen Siedlungen auf den Britischen Inseln, darunter viele irische und schottische Unfreie. Sie brachten Vieh mit und lebten von Weidewirtschaft und Fischfang. Die Rodung der Birkenwälder führte schon bald zu Bodenerosion, die das Land bis heute prägt.",
+    "personIds": [],
+    "tags": [
+      "island",
+      "landnahme",
+      "siedlung",
+      "nordatlantik"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-bei-edington",
+    "title": "Alfreds Sieg bei Edington und der Danelag",
+    "year": 878,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Alfred der Große schlägt das Wikingerheer unter Guthrum bei Edington; England wird in ein angelsächsisches und ein skandinavisch beherrschtes Gebiet geteilt.",
+    "text": "Anfang 878 überraschte Guthrums Heer den König von Wessex, der sich in die Sümpfe von Athelney zurückziehen musste. Im Mai sammelte Alfred ein neues Heer und besiegte die Wikinger bei Edington. Guthrum ließ sich taufen und zog mit seinen Leuten nach East Anglia, wo er als König herrschte. In einem späteren Vertrag legten beide eine Grenze fest; das Gebiet nördlich und östlich davon, in dem skandinavisches Recht galt, hieß später Danelag. Ortsnamen auf -by und -thorpe sowie viele Lehnwörter im Englischen erinnern bis heute an diese Besiedlung.",
+    "personIds": [
+      "alfred-der-grosse"
+    ],
+    "tags": [
+      "england",
+      "wessex",
+      "danelag",
+      "alfred"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "oleg-macht-kiew-zur-hauptstadt",
+    "title": "Oleg macht Kiew zur Hauptstadt",
+    "year": 882,
+    "endYear": null,
+    "approx": true,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Der Warägerfürst Oleg zieht von Nowgorod den Dnjepr hinab, erobert Kiew und verbindet den Norden und den Süden der Rus.",
+    "text": "Laut der Chronik regierte Oleg nach Rjuriks Tod für dessen jungen Sohn Igor. Um 882 zog er den Dnjepr abwärts, ließ die Kiewer Herrscher Askold und Dir töten und erklärte Kiew zur „Mutter der Städte der Rus“. Von dort unterwarf er benachbarte Stämme, die ihm Tribut in Pelzen, Honig und Wachs zahlen mussten. Ein Vertrag mit Byzanz von 911, dessen Text die Chronik überliefert, regelte den Handel der Rus-Kaufleute in Konstantinopel. Damit entstand an der Handelsroute zwischen Ostsee und Schwarzem Meer ein Herrschaftszentrum, das die folgenden Jahrhunderte prägte.",
+    "personIds": [],
+    "tags": [
+      "kiew",
+      "kiewer rus",
+      "dnjepr",
+      "byzanz"
+    ],
+    "importance": 1
   },
   {
     "id": "chan-chan-hauptstadt-der-chimu",
@@ -2992,6 +3676,46 @@
     "importance": 2
   },
   {
+    "id": "gruendung-des-klosters-cluny",
+    "title": "Gründung des Klosters Cluny",
+    "year": 910,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Herzog Wilhelm von Aquitanien stiftet in Burgund das Kloster Cluny und stellt es unmittelbar unter den Schutz des Papstes; es wird zum Ausgangspunkt einer großen Klosterreform.",
+    "text": "In der Stiftungsurkunde von 910 verzichtete Wilhelm der Fromme auf jede Einflussnahme und unterstellte das Kloster allein dem Papst, sodass weder Bischöfe noch weltliche Herren über es verfügen konnten. Unter tatkräftigen Äbten wie Odo, Odilo und Hugo verbreitete sich die Reform, die eine strenge Befolgung der Benediktsregel, feierliche Liturgie und Unabhängigkeit von Laien verlangte. Hunderte Klöster in ganz Europa schlossen sich Cluny an. Die Bewegung stärkte das Papsttum und bereitete den Boden für die Kirchenreform des 11. Jahrhunderts; die dritte Klosterkirche von Cluny war bis zum Neubau des Petersdoms die größte Kirche der Christenheit.",
+    "personIds": [],
+    "tags": [
+      "kloster",
+      "kirchenreform",
+      "benediktiner",
+      "burgund"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "vertrag-von-saint-clair-sur-epte",
+    "title": "Rollo erhält die Normandie",
+    "year": 911,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der westfränkische König Karl der Einfältige überlässt dem Wikingeranführer Rollo das Land um Rouen; daraus entsteht das Herzogtum Normandie.",
+    "text": "Nach einem gescheiterten Angriff auf Chartres verständigte sich Rollo der Überlieferung nach 911 in Saint-Clair-sur-Epte mit Karl dem Einfältigen: Er erhielt das Gebiet an der unteren Seine, sollte sich taufen lassen und das Land gegen andere Wikinger verteidigen. Ein Vertragstext ist nicht erhalten; die ausführliche Schilderung stammt von dem rund hundert Jahre später schreibenden Chronisten Dudo von Saint-Quentin. Rollos Nachfolger dehnten das Gebiet aus, nahmen Sprache und Religion der Franken an und wurden als Herzöge der Normandie zu einer der stärksten Mächte Frankreichs. Ihr Nachfahre Wilhelm eroberte 1066 England.",
+    "personIds": [
+      "rollo"
+    ],
+    "tags": [
+      "normandie",
+      "normannen",
+      "frankenreich",
+      "rouen"
+    ],
+    "importance": 3
+  },
+  {
     "id": "kalifat-von-cordoba",
     "title": "コルドバのカリフ国",
     "year": 929,
@@ -3011,6 +3735,46 @@
     "importance": 2
   },
   {
+    "id": "gruendung-des-althing",
+    "title": "Das Althing tritt zusammen",
+    "year": 930,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Die freien Männer Islands versammeln sich erstmals in Þingvellir zum Althing, das Gesetze beschließt und Streitfälle entscheidet.",
+    "text": "Nach der Überlieferung trat das Althing um 930 erstmals auf der Ebene von Þingvellir im Südwesten Islands zusammen. Es tagte jeden Sommer zwei Wochen lang; die Goden, Häuptlinge mit priesterlichen und politischen Aufgaben, bildeten die gesetzgebende Versammlung, und ein gewählter Gesetzessprecher trug das geltende Recht auswendig vor. Daneben gab es Gerichte, vor denen Streit und Totschlag verhandelt wurden. Eine ausführende Gewalt fehlte jedoch: Urteile mussten die Parteien selbst durchsetzen. Das Althing gilt als eine der ältesten Volksversammlungen Europas; Þingvellir ist heute UNESCO-Welterbe.",
+    "personIds": [],
+    "tags": [
+      "island",
+      "althing",
+      "thing",
+      "recht"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-am-bach-dang-938",
+    "title": "Schlacht am Bạch-Đằng-Fluss",
+    "year": 938,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Ngô Quyền vernichtet eine Flotte der südchinesischen Han-Dynastie und beendet rund tausend Jahre chinesischer Herrschaft über das heutige Nordvietnam.",
+    "text": "Seit 111 v. Chr. hatten chinesische Dynastien das Delta des Roten Flusses beherrscht, und immer wieder hatte es Aufstände gegeben, etwa unter den Schwestern Trưng. Als nach dem Ende der Tang-Dynastie das Reich der Südlichen Han eine Flotte schickte, ließ Ngô Quyền in der Mündung des Bạch Đằng eisenbeschlagene Pfähle ins Flussbett rammen. Bei Flut lockte er die Schiffe darüber, bei Ebbe spießten sie sich auf und wurden vernichtet; der feindliche Prinz fiel. 939 machte sich Ngô Quyền zum König. Nach Jahren innerer Kämpfe einte Đinh Bộ Lĩnh 968 das Land, 1010 wurde Thăng Long, das heutige Hanoi, Hauptstadt, und seit 1054 hieß der Staat Đại Việt. Mit derselben Pfahltaktik schlug Trần Hưng Đạo 1288 am Bạch Đằng die Mongolen.",
+    "personIds": [
+      "ngo-quyen"
+    ],
+    "tags": [
+      "vietnam",
+      "dai viet",
+      "china",
+      "unabhängigkeit"
+    ],
+    "importance": 3
+  },
+  {
     "id": "schlacht-auf-dem-lechfeld",
     "title": "オットー1世、レヒフェルトで勝利する",
     "year": 955,
@@ -3028,6 +3792,27 @@
       "ハンガリー人",
       "アウクスブルク",
       "帝位"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "runenstein-von-jelling",
+    "title": "Harald Blauzahn und der Runenstein von Jelling",
+    "year": 965,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der dänische König Harald Blauzahn lässt sich taufen und errichtet in Jelling einen Runenstein, der ihn als Einiger Dänemarks und Bekehrer der Dänen rühmt.",
+    "text": "Um 965 nahm Harald Blauzahn nach dem Bericht des sächsischen Chronisten Widukind das Christentum an, nachdem ein Geistlicher namens Poppo eine Feuerprobe bestanden haben soll. In Jelling ließ er zu Ehren seiner Eltern Gorm und Thyra einen großen Runenstein aufstellen, dessen Inschrift ihn als den Harald nennt, „der sich ganz Dänemark und Norwegen gewann und die Dänen zu Christen machte“. Der Stein trägt eine der ältesten Christusdarstellungen Skandinaviens und gilt als „Taufschein Dänemarks“. Die Grabhügel, Steine und die Kirche von Jelling gehören zum UNESCO-Welterbe.",
+    "personIds": [
+      "harald-blauzahn"
+    ],
+    "tags": [
+      "dänemark",
+      "christianisierung",
+      "runenstein",
+      "jelling"
     ],
     "importance": 2
   },
@@ -3074,12 +3859,33 @@
     "importance": 2
   },
   {
+    "id": "erik-der-rote-besiedelt-groenland",
+    "title": "Erik der Rote besiedelt Grönland",
+    "year": 985,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "amerika",
+    "summary": "Der aus Island verbannte Erik der Rote führt Siedler nach Grönland, wo zwei nordische Siedlungen entstehen, die fast 500 Jahre bestehen.",
+    "text": "Erik der Rote war wegen Totschlags für drei Jahre aus Island verbannt worden und erkundete in dieser Zeit die Westküste Grönlands. Um 985 oder 986 kehrte er nach den Sagas mit rund 25 Schiffen zurück, von denen nur 14 ankamen. Den Namen „Grünes Land“ soll er gewählt haben, um Siedler anzulocken. Es entstanden die Ost- und die Westsiedlung mit Höfen, Kirchen und später einem Bischofssitz; die Bewohner lebten von Viehzucht, Robbenjagd und dem Handel mit Walrosselfenbein. Die Westsiedlung wurde im 14. Jahrhundert verlassen, die Ostsiedlung im 15. Jahrhundert; die Gründe sind umstritten.",
+    "personIds": [
+      "erik-der-rote"
+    ],
+    "tags": [
+      "grönland",
+      "nordatlantik",
+      "siedlung",
+      "sagas"
+    ],
+    "importance": 2
+  },
+  {
     "id": "christianisierung-der-kiewer-rus",
     "title": "キエフ・ルーシのキリスト教化",
     "year": 988,
     "endYear": null,
     "approx": false,
-    "epochId": "mittelalter",
+    "epochId": "russland-osteuropa",
     "regionId": "europa",
     "summary": "ウラジーミル大公が洗礼を受け、ドニエプル川流域の自らの国で正教を国の宗教とする。",
     "text": "キエフ・ルーシは、9世紀にスカンディナヴィア出身の商人戦士であるヴァリャーグとスラヴ諸部族から生まれ、バルト海からビザンツに至る交易路を支配していた。ウラジーミル1世は988年に洗礼を受け、ビザンツ皇帝バシレイオス2世の妹アンナと結婚し、キエフの住民にドニエプル川で洗礼を受けさせた。信仰とともに、キリル文字、教会法、イコン画、ビザンツの建築家がもたらされた。賢公ヤロスラフのもとでは、キエフの聖ソフィア大聖堂と最初の法典が作られた。こうしてルーシは、1240年にモンゴルがキエフを破壊するまで、ロシア、ウクライナ、ベラルーシ文化の揺籃となった。",
@@ -3092,6 +3898,87 @@
       "東ヨーロッパ"
     ],
     "importance": 2
+  },
+  {
+    "id": "besiedlung-ostpolynesiens",
+    "title": "Besiedlung Ostpolynesiens",
+    "year": 1000,
+    "endYear": 1200,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "In einer erstaunlich raschen Ausbreitung erreichen polynesische Seefahrer die Gesellschaftsinseln, die Marquesas, Hawaiʻi und Rapa Nui.",
+    "text": "Nach der langen Pause in Westpolynesien stießen Seefahrer etwa ab dem 10. oder 11. Jahrhundert nach Osten vor. Neuere Radiokarbondatierungen sprechen dafür, dass die Gesellschaftsinseln um 1000 bis 1100 und die entlegensten Inseln innerhalb von etwa zwei Jahrhunderten besiedelt wurden, darunter Hawaiʻi im Norden und Rapa Nui im Südosten; ältere Forschungen hatten deutlich frühere Daten angenommen. Die Siedler brachten Taro, Brotfrucht, Kokospalmen, Schweine, Hunde und Hühner mit, doch nicht jede Art erreichte jede Insel. Funde der aus Südamerika stammenden Süßkartoffel und genetische Studien deuten auf Kontakte mit Südamerika hin; Ablauf und Zeitpunkt sind umstritten.",
+    "personIds": [],
+    "tags": [
+      "polynesier",
+      "seefahrt",
+      "hawaii",
+      "rapa nui"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "island-nimmt-das-christentum-an",
+    "title": "Island nimmt das Christentum an",
+    "year": 1000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Um einen Bürgerkrieg zwischen Heiden und Christen zu vermeiden, beschließt das Althing, dass alle Isländer Christen werden sollen.",
+    "text": "Unter dem Druck des norwegischen Königs Olav Tryggvason, der Isländer in Norwegen als Geiseln festhielt, standen sich auf dem Althing um 1000 Christen und Anhänger der alten Götter feindlich gegenüber. Beide Seiten überließen die Entscheidung dem Gesetzessprecher Þorgeir, selbst ein Heide. Nach einem Tag und einer Nacht des Nachdenkens verkündete er, dass alle Isländer sich taufen lassen müssten, denn ein Land brauche ein Gesetz. Für eine Übergangszeit blieben das Opfern im Verborgenen und alte Bräuche wie das Aussetzen von Kindern erlaubt. Die friedliche Annahme durch einen Versammlungsbeschluss war in Europa einmalig.",
+    "personIds": [],
+    "tags": [
+      "island",
+      "christianisierung",
+      "althing",
+      "religion"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "leif-eriksson-erreicht-vinland",
+    "title": "Leif Eriksson erreicht Vinland",
+    "year": 1000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "amerika",
+    "summary": "Um 1000 segelt Leif Eriksson von Grönland nach Westen und erreicht als einer der ersten Europäer Nordamerika.",
+    "text": "Nach der Grænlendinga saga und der Eiríks saga rauða entdeckte Leif Eriksson auf seiner Fahrt die Länder Helluland („Steinplattenland“), Markland („Waldland“) und Vinland, wo er überwinterte; vermutlich sind Baffin Island, Labrador und Gebiete um den Sankt-Lorenz-Golf gemeint. Weitere Fahrten folgten, darunter ein Siedlungsversuch Thorfinn Karlsefnis und Gudrids, der nach Konflikten mit den Einheimischen, in den Sagas Skrælingar genannt, aufgegeben wurde. 1960 fanden Helge und Anne Stine Ingstad in L’Anse aux Meadows auf Neufundland die Reste nordischer Häuser; Holzspuren daran wurden genau auf das Jahr 1021 datiert. Ob L’Anse aux Meadows selbst Vinland war, ist umstritten.",
+    "personIds": [
+      "leif-eriksson",
+      "gudrid-thorbjarnardottir"
+    ],
+    "tags": [
+      "vinland",
+      "nordamerika",
+      "entdeckung",
+      "neufundland"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-bei-svolder",
+    "title": "Seeschlacht bei Svolder",
+    "year": 1000,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der norwegische König Olav Tryggvason unterliegt einem Bündnis aus Dänen, Schweden und norwegischen Gegnern und kommt in der Seeschlacht ums Leben.",
+    "text": "Olav Tryggvason hatte seit 995 Norwegen beherrscht und das Christentum mit Gewalt verbreitet. Um 1000 stellten ihn der dänische König Sven Gabelbart, der schwedische König Olof Schoßkönig und der norwegische Jarl Erik Håkonsson mit ihren Flotten. Wo die Schlacht stattfand, ist unbekannt; vermutet werden der Öresund oder die Gewässer bei Rügen. Nach der Überlieferung sprang Olav, als sein Schiff „Langer Wurm“ erobert wurde, in voller Rüstung über Bord. Norwegen wurde danach unter den Siegern aufgeteilt.",
+    "personIds": [
+      "olav-tryggvason"
+    ],
+    "tags": [
+      "norwegen",
+      "seeschlacht",
+      "olav tryggvason",
+      "dänemark"
+    ],
+    "importance": 1
   },
   {
     "id": "genji-monogatari",
@@ -3112,6 +3999,111 @@
       "平安",
       "女性",
       "長編小説"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-am-kleidion",
+    "title": "Schlacht am Kleidion-Pass",
+    "year": 1014,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Basileios II. schlägt das Heer des bulgarischen Zaren Samuel und entscheidet einen jahrzehntelangen Krieg.",
+    "text": "Am 29. Juli 1014 umgingen byzantinische Truppen die Sperren der Bulgaren im Kleidion-Pass im heutigen Südwesten Bulgariens und schlugen ihr Heer. Nach dem Chronisten Johannes Skylitzes ließ Basileios II. rund 15.000 Gefangene blenden und schickte sie, geführt von je einem Einäugigen auf hundert Mann, zu Samuel zurück, der bei ihrem Anblick einen tödlichen Schlaganfall erlitten haben soll; die Zahlen gelten als wohl übertrieben. Bis 1018 wurde Bulgarien ganz dem Reich eingegliedert. Basileios erhielt später den Beinamen „Bulgarentöter“.",
+    "personIds": [
+      "basileios-ii"
+    ],
+    "tags": [
+      "bulgarien",
+      "basileios ii",
+      "schlacht",
+      "balkan"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "knut-wird-koenig-von-england",
+    "title": "Knut der Große wird König von England",
+    "year": 1016,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Nach dem Tod Edmunds Eisenseite wird der Däne Knut König von ganz England und baut in den folgenden Jahren ein Nordseereich auf.",
+    "text": "Knuts Vater Sven Gabelbart hatte England 1013 erobert, war aber 1014 gestorben. Knut kehrte 1015 mit einem Heer zurück, besiegte Edmund Eisenseite 1016 bei Assandun und wurde nach dessen Tod im November König ganz Englands. Er heiratete Emma von der Normandie, die Witwe König Æthelreds, und regierte mit angelsächsischen und dänischen Großen. 1018 oder 1019 erbte er Dänemark, 1028 gewann er Norwegen. Sein Nordseereich zerfiel nach seinem Tod 1035 rasch; 1042 kehrte in England mit Eduard dem Bekenner das angelsächsische Königshaus zurück.",
+    "personIds": [
+      "knut-der-grosse"
+    ],
+    "tags": [
+      "england",
+      "dänemark",
+      "nordseereich",
+      "knut"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "jaroslaw-der-weise-und-die-russkaja-prawda",
+    "title": "Jaroslaw der Weise und die Russkaja Prawda",
+    "year": 1019,
+    "endYear": 1054,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Unter Großfürst Jaroslaw erlebt Kiew seine Blütezeit; das Rechtsbuch Russkaja Prawda ordnet erstmals das Recht der Rus schriftlich.",
+    "text": "Nach einem blutigen Bruderkrieg setzte sich Jaroslaw 1019 in Kiew durch und herrschte bis zu seinem Tod 1054. Er ließ die Stadt mit dem Goldenen Tor befestigen und nach der Chronik 1037 die Sophienkathedrale gründen, deren Mosaiken und Fresken bis heute erhalten sind. Die älteste Fassung der Russkaja Prawda, des ersten Rechtsbuchs der Rus, geht auf ihn zurück: Sie begrenzte die Blutrache und setzte Bußgelder für Totschlag, Verletzung und Diebstahl fest; seine Söhne erweiterten sie. Durch die Heirat seiner Töchter mit den Königen von Frankreich, Norwegen und Ungarn war Kiew eng mit dem übrigen Europa verbunden. Nach Jaroslaws Tod zerfiel die Rus zunehmend in Teilfürstentümer.",
+    "personIds": [
+      "jaroslaw-der-weise"
+    ],
+    "tags": [
+      "kiew",
+      "recht",
+      "sophienkathedrale",
+      "kiewer rus"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-bei-stiklestad",
+    "title": "Schlacht bei Stiklestad",
+    "year": 1030,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "König Olav Haraldsson fällt im Kampf gegen norwegische Bauernheere; bald darauf wird er als Heiliger verehrt und zum Schutzpatron Norwegens.",
+    "text": "Olav Haraldsson hatte Norwegen ab 1015 geeint und das Christentum hart durchgesetzt, war aber 1028 vor Knut dem Großen und unzufriedenen Großen nach Kiew geflohen. Bei seiner Rückkehr stellte sich ihm am 29. Juli 1030 bei Stiklestad ein überlegenes Heer entgegen, und er wurde erschlagen. Schon 1031 wurde sein Leichnam erhoben und in Nidaros, dem heutigen Trondheim, als Reliquie verehrt; Berichte über Wunder machten ihn zum „ewigen König Norwegens“. Sein Grab im Dom von Nidaros wurde zu einem der wichtigsten Pilgerziele Nordeuropas.",
+    "personIds": [
+      "olav-der-heilige"
+    ],
+    "tags": [
+      "norwegen",
+      "heiliger",
+      "nidaros",
+      "christianisierung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "anawrahta-eint-pagan",
+    "title": "Anawrahta eint das Reich von Pagan",
+    "year": 1044,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Mit König Anawrahta wird Pagan am Irrawaddy zum Zentrum des ersten Reiches, das große Teile des heutigen Myanmar vereint.",
+    "text": "Anawrahta bestieg 1044 den Thron des Fürstentums Pagan in Zentralbirma und unterwarf in den folgenden Jahrzehnten viele Nachbargebiete. Nach der Überlieferung eroberte er 1057 die Mon-Stadt Thaton und brachte von dort Mönche, Handwerker und heilige Schriften des Theravada-Buddhismus nach Pagan. Unter ihm und seinen Nachfolgern wie Kyanzittha entstanden in der Ebene am Irrawaddy über 10.000 Tempel, Stupas und Klöster, von denen heute noch über 2.000 erhalten sind. Pagan wurde zu einem Zentrum des Theravada-Buddhismus, das mit Sri Lanka in engem Austausch stand. Nach mongolischen Angriffen Ende des 13. Jahrhunderts zerfiel das Reich in mehrere Herrschaften.",
+    "personIds": [
+      "anawrahta"
+    ],
+    "tags": [
+      "birma",
+      "pagan",
+      "theravada",
+      "buddhismus"
     ],
     "importance": 2
   },
@@ -3155,6 +4147,25 @@
     "importance": 3
   },
   {
+    "id": "morgenlaendisches-schisma",
+    "title": "Das Morgenländische Schisma",
+    "year": 1054,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Päpstliche Gesandte und der Patriarch von Konstantinopel belegen sich gegenseitig mit dem Bann; das Jahr gilt als Symbol der Trennung von Ost- und Westkirche.",
+    "text": "Im Juli 1054 legte Kardinal Humbert von Silva Candida eine Bannbulle gegen Patriarch Michael Kerullarios auf den Altar der Hagia Sophia, worauf der Patriarch die Gesandten seinerseits exkommunizierte. Gestritten wurde um den Vorrang des Papstes, das Filioque im Glaubensbekenntnis und Bräuche wie die Verwendung von ungesäuertem Brot bei der Eucharistie. Die Forschung sieht die Trennung heute als langen Prozess, den erst die Kreuzzüge und die Plünderung Konstantinopels 1204 besiegelten. Papst Paul VI. und Patriarch Athenagoras hoben die gegenseitigen Bannflüche 1965 auf.",
+    "personIds": [],
+    "tags": [
+      "kirche",
+      "schisma",
+      "papst",
+      "orthodoxie"
+    ],
+    "importance": 3
+  },
+  {
     "id": "schlacht-bei-hastings",
     "title": "ヘースティングズの戦い",
     "year": 1066,
@@ -3172,6 +4183,28 @@
       "イングランド",
       "征服",
       "バイユー"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "schlacht-bei-stamford-bridge",
+    "title": "Schlacht bei Stamford Bridge",
+    "year": 1066,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der englische König Harald Godwinson besiegt bei York ein norwegisches Invasionsheer; König Harald Hardrada fällt, und die Wikingerzeit geht zu Ende.",
+    "text": "Nach dem Tod Eduards des Bekenners Anfang 1066 erhob der norwegische König Harald Hardrada Anspruch auf England und landete im September mit Tostig, dem verbannten Bruder des neuen Königs Harald Godwinson, im Norden. Nach einem Sieg bei Fulford wurden die Norweger am 25. September bei Stamford Bridge von dem in Eilmärschen herangezogenen englischen Heer überrascht; Harald Hardrada und Tostig fielen. Nur drei Tage später landete Wilhelm von der Normandie im Süden, und am 14. Oktober unterlag Harald Godwinson bei Hastings. Stamford Bridge gilt als Ende der Wikingerzeit.",
+    "personIds": [
+      "harald-hardrada",
+      "wilhelm-der-eroberer"
+    ],
+    "tags": [
+      "england",
+      "norwegen",
+      "harald hardrada",
+      "ende der wikingerzeit"
     ],
     "importance": 3
   },
@@ -3235,6 +4268,49 @@
     "importance": 3
   },
   {
+    "id": "alexios-komnenos-wird-kaiser",
+    "title": "Alexios I. Komnenos wird Kaiser",
+    "year": 1081,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Ein Feldherr aus dem Adelshaus der Komnenen übernimmt das geschwächte Reich und rettet es in einer schweren Krise.",
+    "text": "Nach Manzikert 1071 hatten die Seldschuken große Teile Kleinasiens besetzt, im Westen griffen die Normannen unter Robert Guiscard an, und Bürgerkriege lähmten das Reich. Alexios I. Komnenos riss 1081 die Macht an sich, wehrte mit Hilfe Venedigs die Normannen ab und besiegte 1091 die Petschenegen. Seine Bitte um westliche Söldner trug zum Aufruf Papst Urbans II. zum Ersten Kreuzzug 1095 bei. Mit den Kreuzfahrern gewann er Teile Kleinasiens zurück; das Verhältnis zu ihnen blieb aber von Misstrauen geprägt, wie die Alexias seiner Tochter Anna Komnene zeigt.",
+    "personIds": [
+      "alexios-i-komnenos",
+      "anna-komnene"
+    ],
+    "tags": [
+      "komnenen",
+      "kaiser",
+      "kreuzzug",
+      "seldschuken"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "handelsprivileg-fuer-venedig",
+    "title": "Handelsprivileg für Venedig",
+    "year": 1082,
+    "endYear": null,
+    "approx": true,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Für ihre Flottenhilfe gegen die Normannen erhalten die Venezianer das Recht, im Reich zollfrei Handel zu treiben.",
+    "text": "Alexios I. brauchte die venezianische Flotte gegen die Normannen und gewährte Venedig in einer goldgesiegelten Urkunde, einem Chrysobull, weitreichende Vorrechte: Venezianische Kaufleute durften in fast allen Häfen des Reiches ohne Abgaben handeln und erhielten ein eigenes Viertel mit Landungsstellen am Goldenen Horn. Die Urkunde wird meist auf 1082 datiert, manche Forscher setzen sie auf 1092. Das Privileg machte Venedig reich und mächtig, schwächte aber die byzantinischen Kaufleute und die Staatseinnahmen; später erhielten auch Pisa und Genua ähnliche Rechte.",
+    "personIds": [
+      "alexios-i-komnenos"
+    ],
+    "tags": [
+      "venedig",
+      "handel",
+      "privileg",
+      "wirtschaft"
+    ],
+    "importance": 1
+  },
+  {
     "id": "kanem-herrscher-hume-wird-muslim",
     "title": "カネムの統治者がイスラームに改宗する",
     "year": 1085,
@@ -3294,6 +4370,25 @@
     "importance": 3
   },
   {
+    "id": "erzbistum-lund",
+    "title": "Lund wird Erzbistum des Nordens",
+    "year": 1103,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der Papst erhebt das damals dänische Lund zum Sitz eines Erzbischofs für ganz Skandinavien; die nordische Kirche löst sich von Hamburg-Bremen.",
+    "text": "Bis ins frühe 12. Jahrhundert unterstanden die Bistümer Skandinaviens dem Erzbistum Hamburg-Bremen, was den nordischen Königen zunehmend missfiel. Auf Betreiben des dänischen Königs Erik Ejegod errichtete der Papst 1103 oder 1104 in Lund in Schonen, damals ein Teil Dänemarks, ein eigenes Erzbistum für den ganzen Norden. 1152/53 erhielt Norwegen mit Nidaros und 1164 Schweden mit Uppsala eigene Erzbistümer. Der Bau des romanischen Doms von Lund begann in dieser Zeit und gehört zu den bedeutendsten Kirchenbauten Skandinaviens.",
+    "personIds": [],
+    "tags": [
+      "kirche",
+      "lund",
+      "dänemark",
+      "erzbistum"
+    ],
+    "importance": 1
+  },
+  {
     "id": "beginn-der-gotik",
     "title": "サン=ドニでのゴシック建築の始まり",
     "year": 1140,
@@ -3318,7 +4413,7 @@
     "year": 1150,
     "endYear": null,
     "approx": true,
-    "epochId": "asien-altertum",
+    "epochId": "suedostasien",
     "regionId": "asien",
     "summary": "クメール人は、現在のカンボジアに世界最大の寺院複合体を建設した。",
     "text": "12世紀前半、スーリヤヴァルマン2世は、ヒンドゥー教の神ヴィシュヌの寺院として、また自らの墓として、アンコール・ワットを建設させた。濠に囲まれた五つの塔を持つこの複合体は、ヒンドゥー教宇宙観の世界山であるメール山を再現し、長さ数キロメートルに及ぶレリーフで飾られている。クメール王国は当時、東南アジアの広い地域を支配しており、巧みな水路網で首都に水を供給した。アンコール・ワットはのちに仏教の聖地となり、今日ではカンボジアの国の象徴となっている。",
@@ -3349,6 +4444,46 @@
       "アリストテレス",
       "アンダルス",
       "コルドバ"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-von-myriokephalon",
+    "title": "Schlacht von Myriokephalon",
+    "year": 1176,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "naher-osten",
+    "summary": "Kaiser Manuel I. Komnenos erleidet gegen die Seldschuken eine Niederlage, die die Hoffnung auf die Rückgewinnung Kleinasiens beendet.",
+    "text": "Manuel I. zog 1176 mit einem großen Heer gegen Konya, die Hauptstadt der Rum-Seldschuken unter Sultan Kılıç Arslan II. In einem engen Pass bei Myriokephalon in Westanatolien geriet der Zug in einen Hinterhalt und erlitt schwere Verluste. Manuel konnte zwar einen Frieden aushandeln und sein Heer zurückführen, soll die Niederlage aber selbst mit Manzikert verglichen haben. Danach gab Byzanz den Plan auf, das Innere Kleinasiens zurückzuerobern.",
+    "personIds": [],
+    "tags": [
+      "seldschuken",
+      "anatolien",
+      "schlacht",
+      "komnenen"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "jayavarman-vii-und-angkor-thom",
+    "title": "Jayavarman VII. baut Angkor Thom",
+    "year": 1181,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Nach der Vertreibung der Cham wird Jayavarman VII. König der Khmer und lässt Angkor Thom mit dem Bayon als neue Hauptstadt errichten.",
+    "text": "1177 hatten Truppen aus Champa Angkor geplündert. Jayavarman VII. vertrieb die Eindringlinge und wurde 1181 gekrönt. Als überzeugter Mahayana-Buddhist ließ er die befestigte Stadt Angkor Thom mit fast drei Kilometer langen Mauern bauen, in deren Mitte der Bayon mit seinen zahlreichen Türmen voller riesiger steinerner Gesichter steht. Dazu kamen Tempelklöster wie Ta Prohm und Preah Khan, die er seiner Mutter und seinem Vater widmete. Nach seinen Inschriften ließ er über hundert Krankenhäuser und zahlreiche Rasthäuser an den Straßen anlegen. Unter ihm erreichte das Khmer-Reich seine größte Ausdehnung, doch der gewaltige Bauaufwand belastete das Land.",
+    "personIds": [
+      "jayavarman-vii"
+    ],
+    "tags": [
+      "khmer",
+      "angkor",
+      "bayon",
+      "buddhismus"
     ],
     "importance": 2
   },
@@ -3413,6 +4548,24 @@
     "importance": 3
   },
   {
+    "id": "tui-tonga-reich",
+    "title": "Blütezeit des Tuʻi-Tonga-Reiches",
+    "year": 1200,
+    "endYear": null,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Die heiligen Könige von Tonga, die Tuʻi Tonga, gewinnen Einfluss weit über ihre Inseln hinaus.",
+    "text": "Nach der Überlieferung begründete ʻAhoʻeitu, ein Sohn des Himmelsgottes Tangaloa, im 10. Jahrhundert die Linie der Tuʻi Tonga. Von ihrem Sitz in Lapaha auf Tongatapu aus, wo große steinerne Grabanlagen, die Langi, erhalten sind, gewannen die Herrscher etwa im 12. und 13. Jahrhundert Einfluss auf benachbarte Inselgruppen; wie weit dieses „Reich“ tatsächlich reichte, ist in der Forschung umstritten. Das Steintor Haʻamonga ʻa Maui, um 1200 errichtet, wird dem Tuʻi Tonga Tuʻitātui zugeschrieben. Im 15. Jahrhundert übertrugen die Tuʻi Tonga die weltliche Macht auf eine zweite Linie, die Tuʻi Haʻatakalaua, und blieben vor allem geistliche Oberhäupter.",
+    "personIds": [],
+    "tags": [
+      "tonga",
+      "königtum",
+      "polynesier"
+    ],
+    "importance": 2
+  },
+  {
     "id": "koepfe-von-ife",
     "title": "イフェの青銅頭像",
     "year": 1200,
@@ -3472,6 +4625,27 @@
     "importance": 2
   },
   {
+    "id": "pluenderung-konstantinopels-1204",
+    "title": "Kreuzfahrer plündern Konstantinopel",
+    "year": 1204,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Das Heer des Vierten Kreuzzugs erobert die christliche Hauptstadt und errichtet ein Lateinisches Kaiserreich.",
+    "text": "Der Vierte Kreuzzug sollte eigentlich nach Ägypten führen, doch die Kreuzfahrer waren bei Venedig hoch verschuldet. Unter dem Einfluss des Dogen Enrico Dandolo zogen sie zunächst gegen Zara und dann nach Konstantinopel, um einen Thronanwärter einzusetzen, der ihnen hohe Zahlungen versprochen hatte. Als das Geld ausblieb, stürmten sie am 13. April 1204 die Stadt und plünderten sie tagelang; Kirchenschätze, Reliquien und die bronzenen Pferde aus dem Hippodrom gelangten in den Westen. Balduin von Flandern wurde Kaiser des Lateinischen Kaiserreichs, Venedig sicherte sich Häfen und Inseln, und Griechen gründeten Gegenreiche in Nikaia, Epirus und Trapezunt.",
+    "personIds": [
+      "enrico-dandolo"
+    ],
+    "tags": [
+      "kreuzzug",
+      "venedig",
+      "plünderung",
+      "lateinisches kaiserreich"
+    ],
+    "importance": 3
+  },
+  {
     "id": "dschingis-khan-einigt-die-mongolen",
     "title": "チンギス・ハンがモンゴルを統一する",
     "year": 1206,
@@ -3514,6 +4688,46 @@
     "importance": 2
   },
   {
+    "id": "gruendung-des-franziskanerordens",
+    "title": "Gründung des Franziskanerordens",
+    "year": 1209,
+    "endYear": null,
+    "approx": true,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Papst Innozenz III. billigt mündlich die Lebensregel des Franz von Assisi und seiner Gefährten; der erste große Bettelorden entsteht.",
+    "text": "Um 1209 oder 1210 zog Franz mit einigen Gefährten nach Rom und erhielt von Innozenz III. die Erlaubnis, in Armut zu leben und zu predigen. Anders als die Mönche der alten Orden lebten die Minderbrüder nicht abgeschieden auf Landgütern, sondern besitzlos in den wachsenden Städten, wo sie predigten und sich um Arme und Kranke kümmerten. 1223 bestätigte Papst Honorius III. die endgültige Regel. Zusammen mit den Dominikanern prägten die Franziskaner Seelsorge, Universitäten und Mission im Spätmittelalter; über die Frage, wie streng die Armut gelten solle, kam es im Orden jedoch bald zu heftigem Streit.",
+    "personIds": [
+      "franz-von-assisi"
+    ],
+    "tags": [
+      "orden",
+      "armut",
+      "kirche",
+      "italien"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "schlacht-bei-las-navas-de-tolosa",
+    "title": "Schlacht bei Las Navas de Tolosa",
+    "year": 1212,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Ein Bündnis christlicher Könige Spaniens besiegt das Heer der Almohaden; die Reconquista gewinnt entscheidend an Schwung.",
+    "text": "Am 16. Juli 1212 schlugen die Könige Alfons VIII. von Kastilien, Peter II. von Aragón und Sancho VII. von Navarra, unterstützt von Rittern aus Portugal und Frankreich, in der Sierra Morena das Heer des Almohaden-Kalifen Muhammad an-Nasir. Papst Innozenz III. hatte den Feldzug zum Kreuzzug erklärt. Die Niederlage schwächte die Herrschaft der Almohaden in al-Andalus entscheidend. In den folgenden Jahrzehnten eroberten Kastilien und Aragón Córdoba (1236), Valencia (1238) und Sevilla (1248); nur das Emirat Granada blieb bis 1492 muslimisch.",
+    "personIds": [],
+    "tags": [
+      "reconquista",
+      "spanien",
+      "almohaden",
+      "kreuzzug"
+    ],
+    "importance": 2
+  },
+  {
     "id": "magna-carta",
     "title": "マグナ・カルタ",
     "year": 1215,
@@ -3529,6 +4743,27 @@
       "法",
       "貴族",
       "憲法"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "snorri-schreibt-die-edda",
+    "title": "Snorri Sturluson schreibt die Prosa-Edda",
+    "year": 1220,
+    "endYear": null,
+    "approx": true,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der isländische Gelehrte Snorri Sturluson verfasst ein Lehrbuch der Dichtkunst, das zur wichtigsten Quelle für die nordische Götterwelt wird.",
+    "text": "Um 1220 schrieb Snorri Sturluson die nach ihm benannte Snorra-Edda oder Prosa-Edda. Sie sollte jungen Dichtern die alten Bilder und Umschreibungen der Skaldenkunst erklären und erzählt dafür die Mythen von der Erschaffung der Welt, von Odin, Thor und Loki bis zum Weltuntergang Ragnarök. Als Christ deutete Snorri die Götter als vergöttlichte Menschen der Vorzeit. Daneben gibt es die Lieder-Edda, eine Sammlung älterer Götter- und Heldenlieder, die vor allem eine Handschrift aus der Zeit um 1270, der Codex Regius, überliefert.",
+    "personIds": [
+      "snorri-sturluson"
+    ],
+    "tags": [
+      "island",
+      "edda",
+      "mythologie",
+      "literatur"
     ],
     "importance": 2
   },
@@ -3573,6 +4808,86 @@
     "importance": 2
   },
   {
+    "id": "gruendung-von-sukhothai",
+    "title": "Gründung des Königreichs Sukhothai",
+    "year": 1238,
+    "endYear": null,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Thai-Fürsten vertreiben den Statthalter der Khmer und gründen Sukhothai, das in Thailand als Wiege der eigenen Nation gilt.",
+    "text": "Nach der Überlieferung befreiten um 1238 zwei Thai-Fürsten die Stadt Sukhothai von der Oberherrschaft der Khmer; einer von ihnen wurde als Si Inthrathit erster König. Unter König Ramkhamhaeng im späten 13. Jahrhundert dehnte sich Sukhothais Einfluss weit aus, und der Theravada-Buddhismus wurde zur Staatsreligion. Eine Steininschrift von 1292 preist den König als gerechten Herrscher und wird mit der Schaffung der Thai-Schrift verbunden; ihre Echtheit ist allerdings umstritten. Bekannt war Sukhothai auch für glasierte Keramik, die bis nach Indonesien und Japan gehandelt wurde. Ab dem 14. Jahrhundert geriet es unter den Einfluss des 1351 gegründeten Ayutthaya, in dem es 1438 aufging.",
+    "personIds": [
+      "ramkhamhaeng"
+    ],
+    "tags": [
+      "thailand",
+      "sukhothai",
+      "theravada",
+      "thai-schrift"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "eisschlacht-auf-dem-peipussee",
+    "title": "Die Schlacht auf dem Peipussee",
+    "year": 1242,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Fürst Alexander Newski besiegt mit Nowgoroder Truppen ein Heer des Livländischen Ordens auf dem zugefrorenen Peipussee.",
+    "text": "Während die Mongolen den Süden der Rus verwüsteten, drangen aus dem Westen Schweden und die Ritter des Livländischen Ordens, eines Zweigs des Deutschen Ordens, vor. Alexander, Fürst von Nowgorod, schlug 1240 die Schweden an der Newa, was ihm seinen Beinamen eintrug, und eroberte die von den Ordensrittern besetzte Stadt Pskow zurück. Am 5. April 1242 besiegte er ein Ordens- und Bischofsheer auf dem Eis des Peipussees. Die Zahl der Kämpfenden war nach heutiger Einschätzung eher gering; zur großen Entscheidungsschlacht wurde das Gefecht vor allem in der späteren Erinnerung, etwa in Sergei Eisensteins Film von 1938. Die Grenze zwischen orthodoxer Rus und katholischem Baltikum blieb danach lange stabil.",
+    "personIds": [
+      "alexander-newski"
+    ],
+    "tags": [
+      "nowgorod",
+      "deutscher orden",
+      "baltikum",
+      "schlacht"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "moai-auf-rapa-nui",
+    "title": "Die Moai von Rapa Nui",
+    "year": 1250,
+    "endYear": 1500,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Die Bewohner der Osterinsel meißeln Hunderte Steinfiguren, die auf Plattformen an der Küste aufgestellt werden.",
+    "text": "Auf Rapa Nui, einer der abgelegensten bewohnten Inseln der Erde, schufen die Bewohner etwa vom 13. bis ins 16. Jahrhundert fast 900 große Steinfiguren, die Moai. Die meisten wurden aus dem Tuffstein des Kraters Rano Raraku gehauen, viele stellte man auf zeremoniellen Plattformen, den Ahu, mit dem Rücken zum Meer auf. Sie gelten als Darstellungen verehrter Ahnen, deren Mana die Gemeinschaft schützen sollte. Wie die Figuren transportiert wurden und ob die Inselgesellschaft schon vor der Ankunft der Europäer durch Abholzung zusammenbrach, ist umstritten; neuere Forschungen betonen eher die verheerenden Folgen eingeschleppter Krankheiten und der peruanischen Sklavenraubzüge von 1862/63.",
+    "personIds": [],
+    "tags": [
+      "rapa nui",
+      "moai",
+      "osterinsel",
+      "kunst"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "besiedlung-neuseelands",
+    "title": "Polynesier besiedeln Neuseeland",
+    "year": 1250,
+    "endYear": 1300,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Als letzte große Landmasse der Erde wird Neuseeland von ostpolynesischen Seefahrern besiedelt, deren Nachfahren die Māori sind.",
+    "text": "Radiokarbondaten, Vulkanascheschichten und Funde wie die eingeschleppte Pazifikratte zeigen, dass Siedler aus Ostpolynesien, wohl von den Gesellschafts- oder Cookinseln, Neuseeland um 1250 bis 1300 erreichten. Die Überlieferung der Māori erzählt von Hawaiki als Herkunftsland und von Kanus wie Tainui, Te Arawa und Aotea, auf die sich die Stämme bis heute zurückführen. Die Siedler fanden ein kühleres Land vor, in dem tropische Pflanzen kaum gediehen; sie jagten Robben und die großen flugunfähigen Moa, die innerhalb von etwa ein bis zwei Jahrhunderten ausgerottet waren. Aus der ostpolynesischen Ausgangskultur entwickelte sich bis etwa 1500 die eigenständige Kultur der Māori.",
+    "personIds": [],
+    "tags": [
+      "maori",
+      "neuseeland",
+      "polynesier",
+      "seefahrt"
+    ],
+    "importance": 3
+  },
+  {
     "id": "mongolen-zerstoeren-bagdad",
     "title": "モンゴル軍によるバグダード破壊",
     "year": 1258,
@@ -3590,6 +4905,46 @@
       "破壊"
     ],
     "importance": 3
+  },
+  {
+    "id": "rueckeroberung-konstantinopels-1261",
+    "title": "Rückeroberung Konstantinopels",
+    "year": 1261,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "Truppen des Kaisers von Nikaia nehmen Konstantinopel ein und beenden das Lateinische Kaiserreich.",
+    "text": "Im Juli 1261 gelangten Truppen unter dem Feldherrn Alexios Strategopulos fast kampflos in die Stadt, während die venezianische Flotte abwesend war; der lateinische Kaiser Balduin II. floh. Michael VIII. Palaiologos zog im August feierlich ein und ließ sich in der Hagia Sophia krönen. Zuvor hatte er im Vertrag von Nymphaion Genua weitreichende Handelsrechte zugesagt. Das wiederhergestellte Reich war verarmt und verkleinert, doch die Dynastie der Palaiologen herrschte fast zwei Jahrhunderte bis 1453.",
+    "personIds": [
+      "michael-viii-palaiologos"
+    ],
+    "tags": [
+      "palaiologen",
+      "nikaia",
+      "konstantinopel",
+      "rückeroberung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "island-unterwirft-sich-norwegen",
+    "title": "Island unterstellt sich dem norwegischen König",
+    "year": 1262,
+    "endYear": 1264,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Nach Jahrzehnten blutiger Machtkämpfe zwischen den großen Familien huldigen die Isländer König Håkon IV. von Norwegen; der Freistaat endet.",
+    "text": "Im 13. Jahrhundert, der Sturlungenzeit, rangen wenige mächtige Familien um die Herrschaft über Island, und der norwegische König Håkon IV. nutzte die Fehden, um Einfluss zu gewinnen. 1262 bis 1264 erkannten die Isländer im Alten Vertrag (Gamli sáttmáli) den König als Herrscher an; er versprach dafür Frieden, isländisches Recht und regelmäßige Schiffsverbindungen. Grönland hatte sich schon 1261 unterworfen. Das Althing bestand weiter, verlor aber seine Rolle als Gesetzgeber. Mit Norwegen kam Island 1380 unter dänische Herrschaft und wurde erst 1944 eine unabhängige Republik.",
+    "personIds": [],
+    "tags": [
+      "island",
+      "norwegen",
+      "freistaat",
+      "alter vertrag"
+    ],
+    "importance": 1
   },
   {
     "id": "yekuno-amlak-salomonische-dynastie",
@@ -3672,6 +5027,47 @@
     "importance": 2
   },
   {
+    "id": "gruendung-von-majapahit",
+    "title": "Gründung von Majapahit",
+    "year": 1293,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Raden Wijaya nutzt eine mongolische Strafexpedition gegen Java, um seine Rivalen zu besiegen, und gründet das Reich Majapahit.",
+    "text": "Der Herrscher von Singhasari auf Ostjava hatte Gesandte Kublai Khans abgewiesen und war 1292 von einem Rivalen getötet worden. Als 1293 eine Flotte der Yuan-Dynastie auf Java landete, verbündete sich sein Schwiegersohn Raden Wijaya mit ihr, besiegte den Rivalen und vertrieb danach die Mongolen. Seine neue Hauptstadt Majapahit lag beim heutigen Trowulan. Unter dem Minister Gajah Mada und König Hayam Wuruk erreichte das Reich im 14. Jahrhundert seinen Höhepunkt; das Gedicht Nagarakretagama von 1365 zählt Orte im ganzen Archipel als abhängig auf, wie fest diese Herrschaft war, ist aber umstritten. Im 15. Jahrhundert verlor Majapahit gegen die aufstrebenden muslimischen Küstenstaaten an Macht und ging im frühen 16. Jahrhundert unter.",
+    "personIds": [
+      "gajah-mada",
+      "kublai-khan"
+    ],
+    "tags": [
+      "java",
+      "majapahit",
+      "indonesien",
+      "mongolen"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "islam-in-samudera-pasai",
+    "title": "Ausbreitung des Islam: Samudera Pasai",
+    "year": 1297,
+    "endYear": null,
+    "approx": true,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "In Nordsumatra entsteht mit Samudera Pasai eines der ersten islamischen Sultanate Südostasiens; von den Häfen aus breitet sich der Islam im Archipel aus.",
+    "text": "Muslimische Kaufleute aus Arabien, Persien, Indien und China waren schon lange in den Häfen Südostasiens zu Gast. Marco Polo berichtete 1292 von Muslimen in Perlak auf Sumatra, und der Grabstein des Sultans Malik al-Salih von Samudera Pasai aus dem Jahr 1297 gilt als frühes Zeugnis eines islamischen Herrschers in der Region. Ibn Battuta besuchte Pasai um 1345 und beschrieb einen frommen, gelehrten Sultan. Der Islam verbreitete sich vor allem über Handel, Heiraten, Gelehrte und Sufis, kaum durch Eroberung. Nach Malakka um 1400 traten die Häfen an Javas Nordküste, Brunei, Aceh, Makassar und die Sultanate von Sulu und Mindanao zum Islam über; heute ist Indonesien das Land mit den meisten Muslimen der Welt.",
+    "personIds": [],
+    "tags": [
+      "islam",
+      "sumatra",
+      "sultanat",
+      "handel"
+    ],
+    "importance": 2
+  },
+  {
     "id": "gruendung-des-osmanischen-reiches",
     "title": "オスマン帝国の成立",
     "year": 1299,
@@ -3732,6 +5128,25 @@
       "西アフリカ"
     ],
     "importance": 2
+  },
+  {
+    "id": "aufstieg-moskaus-unter-iwan-kalita",
+    "title": "Aufstieg Moskaus unter Iwan Kalita",
+    "year": 1325,
+    "endYear": 1340,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Fürst Iwan I. gewinnt die Gunst der Goldenen Horde, zieht den Metropoliten nach Moskau und legt den Grund für den Aufstieg der Stadt.",
+    "text": "Moskau, 1147 zum ersten Mal erwähnt, war lange ein kleiner Fürstensitz im Schatten von Wladimir und Twer. Iwan I., der den Beinamen Kalita, „Geldbeutel“, trug, half der Horde 1327, einen Aufstand in Twer niederzuschlagen, und erhielt dafür das Großfürstenamt und das Recht, die Tribute der anderen Fürsten einzuziehen. Schon zu Beginn seiner Herrschaft hatte der Metropolit Peter, das Oberhaupt der russischen Kirche, seinen Sitz nach Moskau verlegt, wo er 1326 starb und bestattet wurde. Iwan kaufte Ländereien und Dörfer auf und vergrößerte so sein Fürstentum. Kirche, Geld und Zusammenarbeit mit der Horde machten Moskau zum stärksten Fürstentum der nordöstlichen Rus.",
+    "personIds": [],
+    "tags": [
+      "moskau",
+      "goldene horde",
+      "kirche",
+      "großfürst"
+    ],
+    "importance": 1
   },
   {
     "id": "reisen-des-ibn-battuta",
@@ -3902,7 +5317,7 @@
     "year": 1351,
     "endYear": null,
     "approx": false,
-    "epochId": "asiatische-grossreiche",
+    "epochId": "suedostasien",
     "regionId": "asien",
     "summary": "ラーマーティボディー1世が河中島にアユタヤの都を建設し、アユタヤは400年以上にわたりシャム王国の首都であり続ける。",
     "text": "アユタヤはチャオプラヤー川の島にあり、海からも容易に行き来できた。ここから王たちは現在のタイの大部分を支配し、1431年にはクメールの都アンコールを占領した。中国、ペルシア、日本、ヨーロッパの商人はそれぞれの居住区に住み、この都市は東南アジアで最も重要な交易の中心の一つとなった。上座部仏教が宮廷とその文化を形づくった。1767年、ビルマ軍が都市を占領して破壊し、のちの新しい首都はバンコクとなった。",
@@ -3935,6 +5350,25 @@
     "importance": 2
   },
   {
+    "id": "goldene-bulle-karls-iv",
+    "title": "Die Goldene Bulle",
+    "year": 1356,
+    "endYear": null,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Kaiser Karl IV. legt in einem Reichsgesetz fest, dass sieben Kurfürsten den römisch-deutschen König mit Mehrheit wählen.",
+    "text": "Nach Jahrzehnten umstrittener Doppelwahlen erließ Karl IV. 1356 auf den Hoftagen in Nürnberg und Metz die nach ihrem goldenen Siegel benannte Goldene Bulle. Sie bestimmte die Erzbischöfe von Mainz, Köln und Trier, den König von Böhmen, den Pfalzgrafen bei Rhein, den Herzog von Sachsen und den Markgrafen von Brandenburg zu Kurfürsten, die den König in Frankfurt mit Mehrheit wählen sollten; eine Bestätigung durch den Papst war nicht vorgesehen. Die Kurfürstentümer durften nicht geteilt werden, und ihre Inhaber erhielten weitreichende Rechte. Die Goldene Bulle blieb bis zum Ende des Heiligen Römischen Reiches 1806 dessen wichtigstes Grundgesetz.",
+    "personIds": [],
+    "tags": [
+      "heiliges römisches reich",
+      "kurfürsten",
+      "königswahl",
+      "recht"
+    ],
+    "importance": 2
+  },
+  {
     "id": "erster-hansetag",
     "title": "リューベックで最初のハンザ総会",
     "year": 1356,
@@ -3953,6 +5387,27 @@
       "コグ船"
     ],
     "importance": 2
+  },
+  {
+    "id": "waldemar-erobert-visby",
+    "title": "Waldemar IV. erobert Visby",
+    "year": 1361,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Der dänische König Waldemar IV. Atterdag erobert Gotland und die reiche Handelsstadt Visby und löst damit den Krieg mit der Hanse aus.",
+    "text": "Im Sommer 1361 landete Waldemar IV. mit einem Heer auf Gotland und besiegte vor den Mauern Visbys ein Aufgebot gotländischer Bauern; Massengräber mit über tausend Toten wurden bei Ausgrabungen im 20. Jahrhundert gefunden. Die Stadt ergab sich und musste eine hohe Kontribution zahlen, die Sage von der Brandschatzung mit Fässern voller Silber ist jedoch eine spätere Ausschmückung. Weil Waldemar zuvor auch Schonen zurückgewonnen hatte und den Hansekaufleuten den Weg durch den Öresund verteuerte, schlossen sich die Hansestädte 1367 in der Kölner Konföderation gegen ihn zusammen.",
+    "personIds": [
+      "waldemar-iv-atterdag"
+    ],
+    "tags": [
+      "dänemark",
+      "gotland",
+      "visby",
+      "hanse"
+    ],
+    "importance": 1
   },
   {
     "id": "gruendung-der-ming-dynastie",
@@ -3998,6 +5453,27 @@
     "importance": 2
   },
   {
+    "id": "frieden-von-stralsund",
+    "title": "Frieden von Stralsund",
+    "year": 1370,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "Nach ihrem Sieg über Dänemark sichert sich die Hanse im Frieden von Stralsund Handelsvorrechte und für 15 Jahre die Burgen an der Küste Schonens.",
+    "text": "Die in der Kölner Konföderation verbündeten Hansestädte und ihre Partner verwüsteten 1368/69 die dänischen Küsten und eroberten Kopenhagen und die Burgen Schonens. Im Frieden von Stralsund vom 24. Mai 1370 musste Dänemark den Kaufleuten freien Handel und niedrige Zölle bestätigen und ihnen die wichtigsten Festungen am Öresund mitsamt ihren Einkünften für 15 Jahre überlassen. Der Frieden gilt als Höhepunkt der politischen Macht der Hanse. Waldemar IV. starb 1375; seine Tochter Margarete setzte danach ihren Sohn Olav als König durch.",
+    "personIds": [
+      "waldemar-iv-atterdag"
+    ],
+    "tags": [
+      "hanse",
+      "dänemark",
+      "frieden",
+      "ostsee"
+    ],
+    "importance": 2
+  },
+  {
     "id": "jikji-metalllettern-druck",
     "title": "『直指』:現存最古の金属活字印刷本",
     "year": 1377,
@@ -4017,6 +5493,27 @@
     "importance": 2
   },
   {
+    "id": "schlacht-auf-dem-kulikowo-feld",
+    "title": "Die Schlacht auf dem Kulikowo-Feld",
+    "year": 1380,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Großfürst Dmitri von Moskau besiegt am Don das Heer des Heerführers Mamai; es ist der erste große Sieg der Rus über die Goldene Horde.",
+    "text": "In der Goldenen Horde kämpften seit 1359 rivalisierende Khane und Heerführer um die Macht. Der Heerführer Mamai wollte die Moskauer Fürsten wieder zur Tributzahlung zwingen und verbündete sich mit Litauen. Am 8. September 1380 traf ihn Dmitri, der nach dem Ort am Don den Beinamen Donskoi erhielt, mit einem Aufgebot mehrerer Fürstentümer auf dem Kulikowo-Feld und besiegte ihn unter hohen Verlusten. Zwei Jahre später brannte Khan Toktamysch Moskau nieder, und die Tributzahlungen gingen weiter. Dennoch wurde der Sieg in Chroniken und Legenden zum Zeichen, dass die Horde bezwingbar war und Moskau die Führung der Rus beanspruchen konnte.",
+    "personIds": [
+      "dmitri-donskoi"
+    ],
+    "tags": [
+      "moskau",
+      "goldene horde",
+      "don",
+      "schlacht"
+    ],
+    "importance": 2
+  },
+  {
     "id": "bauernaufstand-in-england",
     "title": "イングランドの農民一揆",
     "year": 1381,
@@ -4032,6 +5529,27 @@
       "イングランド",
       "農奴制",
       "ワット・タイラー"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "union-von-krewo",
+    "title": "Die Union von Krewo",
+    "year": 1385,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Großfürst Jogaila von Litauen verpflichtet sich, Christ zu werden und die polnische Königin Jadwiga zu heiraten; Polen und Litauen werden in Personalunion verbunden.",
+    "text": "Litauen war im 14. Jahrhundert das letzte heidnische Großreich Europas und hatte weite Teile der früheren Rus bis zum Dnjepr erobert, darunter große Teile der heutigen Ukraine und Belarus. Bedrängt vom Deutschen Orden, schloss Großfürst Jogaila am 14. August 1385 in Krewo einen Vertrag mit dem polnischen Adel. Er ließ sich 1386 auf den Namen Władysław taufen, heiratete die junge Königin Jadwiga und wurde zum König von Polen gekrönt; 1387 begann die Taufe der Litauer. Litauen behielt unter Jogailas Vetter Vytautas weitgehende Eigenständigkeit. Die Jagiellonen-Dynastie regierte bis 1572 und herrschte zeitweise auch über Böhmen und Ungarn.",
+    "personIds": [
+      "jogaila"
+    ],
+    "tags": [
+      "litauen",
+      "polen",
+      "jagiellonen",
+      "christianisierung"
     ],
     "importance": 2
   },
@@ -4074,12 +5592,33 @@
     "importance": 2
   },
   {
+    "id": "kalmarer-union",
+    "title": "Die Kalmarer Union",
+    "year": 1397,
+    "endYear": null,
+    "approx": false,
+    "epochId": "wikinger-nordeuropa",
+    "regionId": "europa",
+    "summary": "In Kalmar wird Erik von Pommern zum König von Dänemark, Norwegen und Schweden gekrönt; Margarete I. vereint damit ganz Skandinavien unter einer Krone.",
+    "text": "Margarete, Tochter Waldemars IV. und Witwe des norwegischen Königs Håkon VI., regierte nach dem Tod ihres Sohnes Olav 1387 Dänemark und Norwegen und gewann mit dem Sieg über Albrecht von Mecklenburg 1389 auch Schweden. Im Juni 1397 ließ sie ihren Großneffen Erik von Pommern in Kalmar zum gemeinsamen König krönen; ein dort entworfener Unionsbrief, dessen Rechtskraft umstritten ist, sah vor, dass die Reiche einen König haben, aber nach eigenem Recht regiert werden sollten. Die tatsächliche Macht übte Margarete bis zu ihrem Tod 1412 aus. Die Union litt unter dem Widerstand des schwedischen Adels und zerbrach 1523 endgültig.",
+    "personIds": [
+      "margarete-i"
+    ],
+    "tags": [
+      "kalmarer union",
+      "skandinavien",
+      "margarete",
+      "dänemark"
+    ],
+    "importance": 3
+  },
+  {
     "id": "aufstieg-des-sultanats-malakka",
     "title": "マラッカ王国の台頭",
     "year": 1400,
     "endYear": null,
     "approx": true,
-    "epochId": "asiatische-grossreiche",
+    "epochId": "suedostasien",
     "regionId": "asien",
     "summary": "マレー半島とスマトラの間の海峡で、マラッカはインド洋と中国の間の交易で最も重要な中継地となる。",
     "text": "1400年頃、スマトラのパレンバン出身の王子パラメスワラがマラッカの町を建設した。彼は明の保護下に入り、鄭和の艦隊を何度も迎えた。まもなく支配者はイスラム教を受け入れ、マラッカはイスラム教がマレー世界に広まる拠点となった。グジャラート、ペルシア、中国、ジャワの商人がここで香辛料、織物、陶磁器を取引し、同時代の人々は通りで数十の言語が話されていたと伝えている。1511年、ポルトガル人がこの都市を征服した。",
@@ -4159,6 +5698,48 @@
     "importance": 2
   },
   {
+    "id": "schlacht-bei-grunwald",
+    "title": "Die Schlacht bei Grunwald (Tannenberg)",
+    "year": 1410,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Ein polnisch-litauisches Heer besiegt das Heer des Deutschen Ordens; der Hochmeister fällt, und die Macht des Ordens beginnt zu schwinden.",
+    "text": "Der Konflikt um Samogitien und die Ostseeküste führte 1409 zum Krieg zwischen dem Deutschen Orden und Polen-Litauen. Am 15. Juli 1410 trafen die Heere zwischen den Dörfern Grunwald und Tannenberg im heutigen Nordpolen aufeinander. König Władysław II. Jagiełło und Großfürst Vytautas, unterstützt von ruthenischen, tatarischen und böhmischen Kriegern, errangen einen vollständigen Sieg; Hochmeister Ulrich von Jungingen fiel mit vielen Ordensrittern. Die Marienburg konnten die Sieger nicht einnehmen, und der Erste Thorner Frieden 1411 brachte nur geringe Gebietsgewinne. Für Polen und Litauen wurde die Schlacht, litauisch Žalgiris genannt, zu einem zentralen Ort der nationalen Erinnerung.",
+    "personIds": [
+      "jogaila"
+    ],
+    "tags": [
+      "polen",
+      "litauen",
+      "deutscher orden",
+      "schlacht"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "konzil-von-konstanz",
+    "title": "Das Konzil von Konstanz",
+    "year": 1414,
+    "endYear": 1418,
+    "approx": false,
+    "epochId": "mittelalter",
+    "regionId": "europa",
+    "summary": "Eine Kirchenversammlung am Bodensee beendet das Große Abendländische Schisma und verurteilt den Prager Reformer Jan Hus zum Tod.",
+    "text": "Seit 1378 stritten zwei und ab 1409 sogar drei Päpste um die Führung der Kirche. Auf Drängen König Sigismunds trat 1414 in Konstanz ein Konzil zusammen, das sich als über dem Papst stehend erklärte. Es setzte die Päpste ab oder nahm ihren Rücktritt an und wählte 1417 Martin V., womit das Schisma endete. Zugleich ließ das Konzil Jan Hus trotz des ihm zugesicherten Geleits 1415 als Ketzer verbrennen, ein Jahr später auch seinen Mitstreiter Hieronymus von Prag. Die Hinrichtung löste in Böhmen die Hussitenkriege aus.",
+    "personIds": [
+      "jan-hus"
+    ],
+    "tags": [
+      "konzil",
+      "schisma",
+      "papsttum",
+      "jan hus"
+    ],
+    "importance": 2
+  },
+  {
     "id": "sternwarte-ulugh-begs",
     "title": "ウルグ・ベクがサマルカンド天文台を建設",
     "year": 1424,
@@ -4207,7 +5788,7 @@
     "year": 1428,
     "endYear": null,
     "approx": false,
-    "epochId": "asiatische-grossreiche",
+    "epochId": "suedostasien",
     "regionId": "asien",
     "summary": "10年にわたる蜂起の末、レ・ロイは中国の占領者をベトナムから追い出し、後黎朝を建てる。",
     "text": "1407年、明はベトナムの国家大越を征服し、中国の一省にしようとした。1418年から、地主のレ・ロイが蜂起を率い、それは山地からの襲撃に始まり、ついに明軍を打ち破った。1427年に中国軍は撤退し、1428年にレ・ロイは皇帝として即位した。彼の助言者グエン・チャイは、この勝利について有名な宣言文を書いた。後黎朝のもとで、大越はのちにチャンパ王国を犠牲にして南へ拡大した。",
@@ -4245,7 +5826,7 @@
     "year": 1431,
     "endYear": null,
     "approx": true,
-    "epochId": "asiatische-grossreiche",
+    "epochId": "suedostasien",
     "regionId": "asien",
     "summary": "アユタヤの攻撃の後、クメールの王たちは古い首都アンコールを放棄し、王座を南へ移す。",
     "text": "9世紀から13世紀にかけて、クメール帝国は東南アジアの大部分を支配していた。14世紀と15世紀には、アユタヤ王国からの圧力が強まり、伝承ではその軍が1431年にアンコールを占領した。王たちはその後、メコン川の交易路により近い現在のプノンペン周辺に拠点を移した。研究者は、灌漑システムの荒廃と干ばつもさらなる原因に挙げている。しかしアンコール・ワットは、重要な仏教の巡礼地であり続けた。",
@@ -4297,6 +5878,25 @@
       "マチュ・ピチュ"
     ],
     "importance": 3
+  },
+  {
+    "id": "union-von-florenz",
+    "title": "Kirchenunion von Florenz",
+    "year": 1439,
+    "endYear": null,
+    "approx": false,
+    "epochId": "byzanz",
+    "regionId": "europa",
+    "summary": "In der Hoffnung auf westliche Hilfe gegen die Osmanen unterzeichnen Kaiser und Kirchenvertreter eine Union mit Rom.",
+    "text": "Kaiser Johannes VIII. Palaiologos reiste mit dem Patriarchen und zahlreichen Bischöfen zum Konzil von Ferrara und Florenz. Am 6. Juli 1439 wurde die Union verkündet, in der die griechischen Teilnehmer den Vorrang des Papstes und das Filioque anerkannten. In Byzanz lehnten große Teile von Geistlichkeit und Bevölkerung die Union entschieden ab, und die erhoffte Hilfe blieb weitgehend aus: Ein Kreuzzug scheiterte 1444 bei Warna. Einige Teilnehmer wie Bessarion blieben in Italien und förderten dort das Studium des Griechischen.",
+    "personIds": [],
+    "tags": [
+      "kirchenunion",
+      "konzil",
+      "florenz",
+      "osmanen"
+    ],
+    "importance": 1
   },
   {
     "id": "oba-ewuare-erneuert-benin",
@@ -4523,6 +6123,48 @@
     "importance": 2
   },
   {
+    "id": "moskau-unterwirft-nowgorod",
+    "title": "Moskau unterwirft Nowgorod",
+    "year": 1478,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Iwan III. beendet die Selbstständigkeit der Stadtrepublik Nowgorod und lässt ihre Wetsche-Glocke nach Moskau bringen.",
+    "text": "Nowgorod beherrschte ein riesiges Gebiet bis zum Weißen Meer und zum Ural und wurde von einer Volksversammlung, dem Wetsche, und einer Oberschicht reicher Bojaren regiert. Als eine Partei in der Stadt Anlehnung an Litauen suchte, zog Iwan III. 1471 gegen Nowgorod und besiegte dessen Heer am Fluss Schelon. 1478 musste sich die Stadt endgültig unterwerfen; die Glocke, die das Wetsche zusammengerufen hatte, wurde nach Moskau gebracht, und viele Bojarenfamilien wurden umgesiedelt. 1494 ließ Iwan auch das Kontor der Hanse schließen. Mit Nowgorod gewann Moskau den Zugang zu den Pelzgebieten des Nordens.",
+    "personIds": [
+      "iwan-iii"
+    ],
+    "tags": [
+      "nowgorod",
+      "moskau",
+      "stadtrepublik",
+      "hanse"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "stehen-an-der-ugra",
+    "title": "Das Stehen an der Ugra",
+    "year": 1480,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Die Heere Moskaus und der Großen Horde stehen sich wochenlang an der Ugra gegenüber, bis der Khan abzieht; die Herrschaft der Tataren über Moskau ist beendet.",
+    "text": "Iwan III. hatte die Tributzahlungen an die Horde eingestellt. Im Herbst 1480 zog Khan Achmat von der Großen Horde, einem Nachfolgereich der Goldenen Horde, mit einem Heer heran und hoffte auf Hilfe Litauens, die ausblieb. An der Ugra, einem Nebenfluss der Oka, standen sich beide Heere wochenlang gegenüber, ohne dass es zu einer großen Schlacht kam. Als der Frost einsetzte, zog Achmat ab; er wurde im folgenden Jahr ermordet. Spätere Geschichtsschreiber setzten 1480 als Ende des „Tatarenjochs“; der Begriff ist umstritten, weil die Abhängigkeit schon zuvor gelockert war. Moskau zahlte von nun an keinen Tribut mehr und trat als selbstständige Großmacht auf.",
+    "personIds": [
+      "iwan-iii"
+    ],
+    "tags": [
+      "moskau",
+      "goldene horde",
+      "tataren",
+      "unabhängigkeit"
+    ],
+    "importance": 3
+  },
+  {
     "id": "taufe-von-nzinga-a-nkuwu",
     "title": "コンゴ王の洗礼",
     "year": 1491,
@@ -4700,6 +6342,27 @@
     "importance": 1
   },
   {
+    "id": "portugiesen-erobern-malakka",
+    "title": "Die Portugiesen erobern Malakka",
+    "year": 1511,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Afonso de Albuquerque erobert den wichtigsten Handelshafen Südostasiens und eröffnet die europäische Kolonialzeit in der Region.",
+    "text": "Im August 1511 griff Afonso de Albuquerque mit einer Flotte aus Goa Malakka an und nahm die Stadt nach heftigen Kämpfen ein; Sultan Mahmud Schah floh, und seine Nachfahren gründeten das Sultanat Johor. Die Portugiesen bauten die Festung A Famosa und wollten den Gewürzhandel kontrollieren; schon 1512 erreichten ihre Schiffe die Molukken. Ihr Ziel, den Handel zu beherrschen, erreichten sie jedoch nicht: Muslimische Kaufleute wichen nach Aceh, Johor und an die Nordküste Javas aus, die nun aufblühten. Der Apotheker Tomé Pires beschrieb in Malakka das Handelsnetz Asiens in seiner „Suma Oriental“. 1641 eroberte die Niederländische Ostindien-Kompanie mit Johor die Stadt.",
+    "personIds": [
+      "afonso-de-albuquerque"
+    ],
+    "tags": [
+      "malakka",
+      "portugal",
+      "kolonialismus",
+      "gewürzhandel"
+    ],
+    "importance": 3
+  },
+  {
     "id": "gesetze-von-burgos",
     "title": "モンテシーノスの説教とブルゴス法",
     "year": 1512,
@@ -4840,6 +6503,25 @@
       "メキシコ"
     ],
     "importance": 3
+  },
+  {
+    "id": "magellan-erreicht-guam",
+    "title": "Magellan überquert den Pazifik und erreicht Guam",
+    "year": 1521,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Nach über drei Monaten auf dem offenen Ozean erreicht die spanische Flotte unter Ferdinand Magellan die Marianen – die erste bekannte Pazifiküberquerung durch Europäer.",
+    "text": "Im November 1520 verließ Magellan die nach ihm benannte Meeresstraße an der Südspitze Amerikas und nannte das ruhige Meer „Pazifik“. Die Überfahrt dauerte viel länger als erwartet, und viele Seeleute starben an Skorbut und Hunger. Am 6. März 1521 erreichten die Schiffe Guam, wo es zu Tauschhandel und bald zu Gewalt mit den Chamorro kam; die Spanier nannten die Inselgruppe „Diebesinseln“. Magellan fiel wenige Wochen später auf den Philippinen, die Weltumsegelung vollendete Juan Sebastián Elcano 1522. Die Marianen wurden ab 1668 von Spanien kolonisiert.",
+    "personIds": [],
+    "tags": [
+      "magellan",
+      "guam",
+      "entdeckungen",
+      "spanien"
+    ],
+    "importance": 1
   },
   {
     "id": "reichstag-zu-worms",
@@ -5165,6 +6847,27 @@
     "importance": 2
   },
   {
+    "id": "iwan-iv-wird-zar",
+    "title": "Iwan IV. wird zum Zaren gekrönt",
+    "year": 1547,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Der sechzehnjährige Großfürst Iwan lässt sich in Moskau als erster russischer Herrscher feierlich zum Zaren krönen.",
+    "text": "Iwan war 1533 mit drei Jahren Großfürst geworden; während seiner Kindheit rangen Bojarenfamilien um die Macht. Am 16. Januar 1547 krönte ihn der Metropolit Makari in der Mariä-Entschlafens-Kathedrale des Kreml zum Zaren. Der Titel, abgeleitet vom lateinischen „Caesar“, stellte den Moskauer Herrscher auf eine Stufe mit dem byzantinischen Kaiser und dem Khan der Horde. In seinen ersten Regierungsjahren berief Iwan eine Landesversammlung ein, ließ 1550 ein neues Gesetzbuch erarbeiten und stellte eine Truppe mit Feuerwaffen, die Strelizen, auf. Der Zarentitel blieb bis 1917 die Bezeichnung der russischen Herrscher.",
+    "personIds": [
+      "iwan-iv"
+    ],
+    "tags": [
+      "zar",
+      "moskau",
+      "krönung",
+      "kreml"
+    ],
+    "importance": 3
+  },
+  {
     "id": "gruendung-von-salvador-da-bahia",
     "title": "サルヴァドール・ダ・バイーアの建設",
     "year": 1549,
@@ -5265,6 +6968,27 @@
     "importance": 1
   },
   {
+    "id": "eroberung-von-kasan",
+    "title": "Die Eroberung von Kasan",
+    "year": 1552,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Iwan IV. erobert das Khanat Kasan an der Wolga; vier Jahre später fällt auch Astrachan, und Russland wird ein Vielvölkerreich.",
+    "text": "Das Khanat Kasan war eines der Nachfolgereiche der Goldenen Horde und unternahm immer wieder Raubzüge in das Moskauer Gebiet. Nach mehreren gescheiterten Feldzügen ließ Iwan IV. 1552 die Stadt mit einem großen Heer belagern; Pioniere sprengten die Mauern, und am 2. Oktober wurde Kasan erstürmt, wobei viele Einwohner getötet wurden. 1556 folgte das Khanat Astrachan an der Wolgamündung. Damit kontrollierte Moskau den ganzen Lauf der Wolga, und Tataren, Tschuwaschen, Mari und Baschkiren wurden Untertanen des Zaren. Zur Erinnerung an den Sieg entstand am Roten Platz die Basilius-Kathedrale.",
+    "personIds": [
+      "iwan-iv"
+    ],
+    "tags": [
+      "kasan",
+      "wolga",
+      "tataren",
+      "expansion"
+    ],
+    "importance": 1
+  },
+  {
     "id": "augsburger-religionsfrieden",
     "title": "アウクスブルクの宗教和議",
     "year": 1555,
@@ -5341,6 +7065,27 @@
     "importance": 1
   },
   {
+    "id": "opritschnina",
+    "title": "Die Opritschnina",
+    "year": 1565,
+    "endYear": 1572,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Iwan IV. teilt das Reich und lässt seine Leibgarde, die Opritschniki, Adelige, Geistliche und ganze Städte terrorisieren.",
+    "text": "Nach Niederlagen im Livländischen Krieg und dem Tod seiner ersten Frau misstraute Iwan IV. zunehmend den Bojaren. Anfang 1565 erklärte er einen Teil des Landes zu seinem persönlichen Sonderbesitz, der Opritschnina, und stellte eine schwarz gekleidete Truppe auf, die Verräter aufspüren sollte. Die Opritschniki enteigneten und ermordeten zahlreiche Bojaren und ihre Bauern; Metropolit Philipp, der Iwan öffentlich kritisiert hatte, wurde 1569 erdrosselt. Anfang 1570 verwüsteten sie Nowgorod und töteten Tausende Einwohner, genaue Zahlen sind nicht bekannt. Nachdem die Krimtataren 1571 Moskau niedergebrannt hatten, löste Iwan die Opritschnina 1572 auf. Das Land blieb verwüstet und entvölkert zurück.",
+    "personIds": [
+      "iwan-iv"
+    ],
+    "tags": [
+      "terror",
+      "bojaren",
+      "nowgorod",
+      "zar"
+    ],
+    "importance": 2
+  },
+  {
     "id": "silberflotten-und-manila-galeone",
     "title": "銀船団とマニラ・ガレオン",
     "year": 1565,
@@ -5356,6 +7101,46 @@
       "銀",
       "太平洋",
       "グローバル化"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "union-von-lublin",
+    "title": "Die Union von Lublin",
+    "year": 1569,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Polen und Litauen schließen sich zur Republik beider Nationen mit gemeinsamem König und Reichstag zusammen.",
+    "text": "Seit 1385 waren Polen und Litauen nur über ihre Herrscher verbunden. Bedroht von Moskau im Livländischen Krieg, stimmte der litauische Adel auf dem Reichstag in Lublin am 1. Juli 1569 einer engeren Union zu, nachdem der König die ukrainischen Gebiete Wolhynien, Podolien und Kiew von Litauen an die polnische Krone übertragen hatte. Die neue Rzeczpospolita hatte einen gemeinsamen, ab 1573 vom Adel gewählten König, einen gemeinsamen Sejm und eine gemeinsame Außenpolitik; Litauen behielt eigene Ämter, Gesetze, Heer und Kasse. Mit fast einer Million Quadratkilometern war sie einer der größten Staaten Europas. Die Warschauer Konföderation von 1573 sicherte dem Adel zudem ungewöhnlich weitgehende Religionsfreiheit zu.",
+    "personIds": [],
+    "tags": [
+      "polen",
+      "litauen",
+      "rzeczpospolita",
+      "ukraine"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "spanier-gruenden-manila",
+    "title": "Die Spanier gründen Manila",
+    "year": 1571,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Miguel López de Legazpi macht Manila zur Hauptstadt der spanischen Kolonie auf den Philippinen, die über 300 Jahre bestehen wird.",
+    "text": "Magellan hatte die Inseln 1521 erreicht und war auf Mactan im Kampf gegen die Krieger Lapulapus gefallen. 1543 nannte eine weitere Expedition sie nach dem Thronfolger Philipp „Las Islas Filipinas“. 1565 landete Legazpi auf Cebu, und im selben Jahr fand sein Begleiter Andrés de Urdaneta die Route zurück nach Mexiko. 1571 eroberte Legazpi die Siedlung Maynila des Fürsten Sulayman an der Bucht von Manila und gründete dort die spanische Hauptstadt. Von Manila aus fuhr bis 1815 die Galeone nach Acapulco und brachte chinesische Seide und Porzellan gegen amerikanisches Silber. Ordensleute machten den Katholizismus zur Mehrheitsreligion, während die Sultanate von Sulu und Mindanao sich der Herrschaft lange widersetzten.",
+    "personIds": [
+      "miguel-lopez-de-legazpi"
+    ],
+    "tags": [
+      "philippinen",
+      "spanien",
+      "manila",
+      "kolonialismus"
     ],
     "importance": 2
   },
@@ -5441,7 +7226,7 @@
     "year": 1582,
     "endYear": null,
     "approx": false,
-    "epochId": "asiatische-grossreiche",
+    "epochId": "russland-osteuropa",
     "regionId": "asien",
     "summary": "コサックの指導者イェルマークがシビル・ハン国の首都を占領し、ロシアが北アジアを横断して太平洋に至る道を開く。",
     "text": "商人のストロガノフ家は、ウラル山脈の所領を守るため、イェルマークを首領とするコサックを雇い入れた。1582年、イェルマークは数百人の部下とともに山脈を越え、クチュム・ハンの首都カシュルクを占領した。イェルマークは1585年に戦死したが、ツァーリはさらに軍を送り、トボリスクなどの要塞を築かせた。貴重なクロテンの毛皮に引かれて、コサックと商人は川に沿って東へ進み、1639年に太平洋に達した。先住民は毛皮で貢納しなければならなかった。",
@@ -5540,6 +7325,25 @@
     "importance": 2
   },
   {
+    "id": "zeit-der-wirren",
+    "title": "Die Zeit der Wirren",
+    "year": 1598,
+    "endYear": 1613,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Nach dem Aussterben der Rjurikiden stürzen Hungersnot, falsche Thronanwärter, Aufstände und fremde Heere das Moskauer Reich in eine tiefe Krise.",
+    "text": "Mit dem Tod des kinderlosen Zaren Fjodor I. 1598 erlosch die Moskauer Linie der Rjurikiden. Sein Schwager Boris Godunow wurde zum Zaren gewählt, doch eine Hungersnot von 1601 bis 1603 kostete Hunderttausende das Leben. Ein Mann, der sich als Fjodors verstorbener Bruder Dmitri ausgab, zog 1605 mit polnischer Unterstützung in Moskau ein und wurde ein Jahr später ermordet; weitere falsche Dmitris und Bauernaufstände folgten. 1610 besetzten polnisch-litauische Truppen Moskau, und Schweden nahm Nowgorod. Erst ein Volksaufgebot unter dem Kaufmann Kusma Minin und Fürst Dmitri Poscharski vertrieb 1612 die Besatzung aus dem Kreml.",
+    "personIds": [],
+    "tags": [
+      "krise",
+      "hungersnot",
+      "polen-litauen",
+      "moskau"
+    ],
+    "importance": 2
+  },
+  {
     "id": "schlacht-von-sekigahara",
     "title": "関ヶ原の戦い",
     "year": 1600,
@@ -5602,6 +7406,25 @@
     "importance": 2
   },
   {
+    "id": "wahl-michail-romanows",
+    "title": "Michail Romanow wird zum Zaren gewählt",
+    "year": 1613,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Eine Landesversammlung wählt den sechzehnjährigen Michail Romanow zum Zaren; seine Familie regiert Russland über drei Jahrhunderte.",
+    "text": "Nach der Befreiung Moskaus trat Anfang 1613 der Semski Sobor zusammen, eine Versammlung von Vertretern des Adels, der Geistlichkeit, der Städte und der Kosaken. Er wählte im Februar den jungen Michail Romanow, dessen Familie mit der ausgestorbenen Dynastie verschwägert war. Sein Vater Filaret, der aus polnischer Gefangenschaft zurückkehrte und Patriarch wurde, regierte bis 1633 faktisch mit. Die Friedensschlüsse mit Schweden 1617 und Polen-Litauen 1618 kosteten Gebiete, beendeten aber die Wirren. Die Romanows herrschten bis zur Abdankung Nikolaus’ II. im März 1917.",
+    "personIds": [],
+    "tags": [
+      "romanows",
+      "zar",
+      "dynastie",
+      "semski sobor"
+    ],
+    "importance": 2
+  },
+  {
     "id": "dreissigjaehriger-krieg",
     "title": "三十年戦争",
     "year": 1618,
@@ -5616,6 +7439,27 @@
       "宗教戦争",
       "プラハ窓外投擲事件",
       "ヴァレンシュタイン"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "voc-gruendet-batavia",
+    "title": "Die Niederländische Ostindien-Kompanie gründet Batavia",
+    "year": 1619,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Jan Pieterszoon Coen zerstört Jayakarta auf Java und gründet an seiner Stelle Batavia, das Zentrum der niederländischen Macht in Asien.",
+    "text": "Die 1602 gegründete Vereinigte Ostindische Kompanie, kurz VOC, besaß das niederländische Monopol für den Asienhandel und durfte Festungen bauen, Krieg führen und Verträge schließen. 1619 eroberte ihr Generalgouverneur Jan Pieterszoon Coen die Hafenstadt Jayakarta und gründete dort Batavia, das heutige Jakarta. Um das Monopol auf Muskatnuss zu erzwingen, ließ Coen 1621 die Banda-Inseln erobern; ein großer Teil der Bevölkerung wurde getötet, versklavt oder vertrieben. Die VOC verdrängte Portugiesen und Engländer, eroberte 1641 Malakka und 1667 Makassar und dehnte ihre Herrschaft auf Java aus. Ende 1799 wurde die hoch verschuldete Kompanie aufgelöst, und ihre Besitzungen gingen an den niederländischen Staat über.",
+    "personIds": [
+      "jan-pieterszoon-coen"
+    ],
+    "tags": [
+      "voc",
+      "niederlande",
+      "java",
+      "gewürzhandel"
     ],
     "importance": 3
   },
@@ -5765,6 +7609,27 @@
     "importance": 1
   },
   {
+    "id": "tasmans-reise",
+    "title": "Abel Tasman erreicht Tasmanien und Neuseeland",
+    "year": 1642,
+    "endYear": 1643,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Der Niederländer Abel Tasman sichtet im Auftrag der Ostindien-Kompanie als erster bekannter Europäer Tasmanien und Neuseeland.",
+    "text": "Die Niederländische Ostindien-Kompanie schickte Tasman 1642 von Batavia aus, um das vermutete Südland zu erkunden. Am 24. November sichtete er die Küste einer Insel, die er nach dem Generalgouverneur Van-Diemens-Land nannte, das heutige Tasmanien. Im Dezember erreichte er die Südinsel Neuseelands; in einer Bucht im Norden griffen Māori ein Beiboot an und töteten vier Seeleute, woraufhin Tasman weitersegelte, ohne an Land zu gehen. Auf dem Rückweg besuchte er Anfang 1643 Tonga und Fidschi. Die Kompanie hielt die Reise für wenig ertragreich, weil sie keine Handelsgüter erbrachte.",
+    "personIds": [
+      "abel-tasman"
+    ],
+    "tags": [
+      "tasman",
+      "niederlande",
+      "neuseeland",
+      "tasmanien"
+    ],
+    "importance": 2
+  },
+  {
     "id": "englischer-buergerkrieg",
     "title": "イングランド内戦とチャールズ1世の処刑",
     "year": 1642,
@@ -5803,6 +7668,27 @@
       "王朝交代"
     ],
     "importance": 3
+  },
+  {
+    "id": "chmelnyzkyj-aufstand",
+    "title": "Der Kosakenaufstand unter Chmelnyzkyj",
+    "year": 1648,
+    "endYear": 1657,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Die Saporoger Kosaken erheben sich unter Bohdan Chmelnyzkyj gegen Polen-Litauen und gründen in der Ukraine ein eigenes Hetmanat.",
+    "text": "In der Ukraine fühlten sich Kosaken, orthodoxe Bauern und Geistliche vom polnischen Adel und seinen Gutsverwaltern bedrückt. Im Frühjahr 1648 führte der Kosakenoffizier Bohdan Chmelnyzkyj, verbündet mit den Krimtataren, einen Aufstand an, der bei Schowti Wody und Korsun die polnischen Heere schlug und sich zu einem Volkskrieg ausweitete. In den Kämpfen wurden zehntausende Juden, Polen und Katholiken ermordet; die genauen Zahlen sind umstritten, die Ereignisse prägen die jüdische Erinnerung bis heute. Chmelnyzkyj errichtete ein Hetmanat und unterstellte sich im Januar 1654 in Perejaslaw dem Zaren, was einen Krieg zwischen Moskau und Polen-Litauen auslöste. Ob Perejaslaw ein Bündnis oder eine Unterwerfung war, deuten ukrainische und russische Historiker bis heute verschieden. 1667 wurde die Ukraine entlang des Dnjepr zwischen beiden Mächten geteilt.",
+    "personIds": [
+      "bohdan-chmelnyzkyj"
+    ],
+    "tags": [
+      "kosaken",
+      "ukraine",
+      "polen-litauen",
+      "hetmanat"
+    ],
+    "importance": 2
   },
   {
     "id": "westfaelischer-frieden",
@@ -5881,6 +7767,25 @@
       "アンゴラ",
       "ポルトガル",
       "戦争"
+    ],
+    "importance": 1
+  },
+  {
+    "id": "kirchenspaltung-raskol",
+    "title": "Die Kirchenspaltung (Raskol)",
+    "year": 1666,
+    "endYear": 1667,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Ein Konzil in Moskau bestätigt die Reformen des Patriarchen Nikon; ihre Gegner, die Altgläubigen, werden aus der Kirche ausgeschlossen und verfolgt.",
+    "text": "Patriarch Nikon ließ ab 1653 die Gottesdienstbücher und Riten der russischen Kirche nach griechischem Vorbild angleichen; unter anderem sollten die Gläubigen sich mit drei statt mit zwei Fingern bekreuzigen. Viele Priester und Gläubige sahen darin einen Verrat am überlieferten Glauben. Das Konzil von 1666 und 1667 setzte Nikon wegen seines Machtstreits mit dem Zaren ab, bestätigte aber seine Reformen und verdammte ihre Gegner. Der Erzpriester Awwakum, ihr bekanntester Wortführer, wurde 1682 verbrannt, und das Solowezki-Kloster leistete jahrelang bewaffneten Widerstand. Die Altgläubigen bestehen bis heute als eigene Gemeinschaften.",
+    "personIds": [],
+    "tags": [
+      "kirche",
+      "orthodoxie",
+      "altgläubige",
+      "reform"
     ],
     "importance": 1
   },
@@ -6146,6 +8051,27 @@
     "importance": 2
   },
   {
+    "id": "schlacht-bei-poltawa",
+    "title": "Die Schlacht bei Poltawa",
+    "year": 1709,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Peter der Große besiegt in der heutigen Ukraine das Heer Karls XII.; Schwedens Großmachtzeit geht zu Ende, und Russland wird zur Vormacht im Osten Europas.",
+    "text": "Im Großen Nordischen Krieg war Karl XII. von Schweden nach Siegen über Dänemark, Polen-Litauen und Russland 1708 in die Ukraine vorgestoßen, wo sich ihm der Kosakenhetman Iwan Mazepa anschloss. Russische Truppen zerstörten daraufhin Mazepas Residenz Baturyn und töteten viele Einwohner. Am 8. Juli 1709 schlug Peters zahlenmäßig überlegenes, neu organisiertes Heer die geschwächten Schweden bei Poltawa vernichtend. Karl XII. und Mazepa flohen ins Osmanische Reich. Im Frieden von Nystad 1721 erhielt Russland Livland, Estland und Ingermanland mit dem neuen St. Petersburg, und Peter nahm den Titel Kaiser an. Die Autonomie des Hetmanats wurde in den folgenden Jahrzehnten Schritt für Schritt beseitigt.",
+    "personIds": [
+      "peter-der-grosse"
+    ],
+    "tags": [
+      "großer nordischer krieg",
+      "schweden",
+      "ukraine",
+      "peter der große"
+    ],
+    "importance": 3
+  },
+  {
     "id": "tulpenzeit",
     "title": "チューリップ時代",
     "year": 1718,
@@ -6163,6 +8089,25 @@
       "イスタンブル"
     ],
     "importance": 2
+  },
+  {
+    "id": "makassarischer-trepanghandel",
+    "title": "Makassarische Trepangfischer in Nordaustralien",
+    "year": 1720,
+    "endYear": 1907,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Seeleute aus Makassar auf Sulawesi sammeln jedes Jahr an der Küste Arnhemlands Seegurken und handeln mit den Yolŋu.",
+    "text": "Etwa ab dem frühen 18. Jahrhundert, möglicherweise schon früher, segelten Flotten aus Makassar mit dem Nordwestmonsun an die Nordküste Australiens, die sie „Marege“ nannten. Dort sammelten, kochten und trockneten sie Trepang, also Seegurken, die als Delikatesse und Heilmittel nach China verkauft wurden. Mit den Yolŋu und anderen Aborigines tauschten sie Stoffe, Metallwerkzeuge, Tabak und Reis; einige Aborigines reisten mit nach Sulawesi. Makassarische Wörter gingen in die Sprachen Arnhemlands ein, und die Begegnungen fanden Eingang in Felsbilder, Lieder und Zeremonien. Ab 1906 verweigerte die Regierung Südaustraliens, die das Nordterritorium verwaltete, die nötigen Genehmigungen, 1907 kam die letzte Flotte.",
+    "personIds": [],
+    "tags": [
+      "aborigines",
+      "handel",
+      "makassar",
+      "arnhemland"
+    ],
+    "importance": 1
   },
   {
     "id": "dahomey-erobert-ouidah",
@@ -6345,6 +8290,25 @@
     "importance": 3
   },
   {
+    "id": "fall-von-ayutthaya",
+    "title": "Fall von Ayutthaya",
+    "year": 1767,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Truppen der birmanischen Konbaung-Dynastie erobern und zerstören Ayutthaya, die Hauptstadt Siams seit über 400 Jahren.",
+    "text": "Ayutthaya war seit 1351 Hauptstadt Siams und im 17. Jahrhundert eine der großen Handelsstädte Asiens. In Birma hatte Alaungpaya 1752 die Konbaung-Dynastie begründet und das Land wiedervereint; er starb 1760 während eines Feldzugs gegen Siam. Sein Sohn Hsinbyushin ließ Ayutthaya ab 1765 belagern, im April 1767 fiel die Stadt und wurde niedergebrannt, Tausende Menschen wurden nach Birma verschleppt. Der General Taksin sammelte Truppen, vertrieb die Birmanen und regierte von Thonburi aus. 1782 begründete Rama I. die Chakri-Dynastie und machte das gegenüberliegende Bangkok zur Hauptstadt, die bis heute die Hauptstadt Thailands ist.",
+    "personIds": [],
+    "tags": [
+      "thailand",
+      "birma",
+      "ayutthaya",
+      "konbaung"
+    ],
+    "importance": 2
+  },
+  {
     "id": "vertreibung-der-jesuiten-1767",
     "title": "スペイン領アメリカからのイエズス会追放",
     "year": 1767,
@@ -6369,7 +8333,7 @@
     "year": 1768,
     "endYear": 1779,
     "approx": false,
-    "epochId": "absolutismus-aufklaerung",
+    "epochId": "ozeanien-pazifik",
     "regionId": "ozeanien",
     "summary": "ジェームズ・クックは3度の航海でニュージーランド、オーストラリア東海岸、太平洋の無数の島々を測量し、南方大陸の探索に終止符を打つ。",
     "text": "王立協会の依頼を受けて、クックは1769年にタヒチで金星の太陽面通過を観測し、続いてニュージーランドを周航して、1770年にオーストラリア東海岸のボタニー湾に上陸し、そこをイギリスの領有と宣言した。第2回航海では、彼は初めて南極圏を越え、居住可能な南方大陸は存在しないことを証明した。第3回ではハワイに達し、1779年に現地の人々との争いで殺された。クロノメーター、壊血病予防のザワークラウト、ジョセフ・バンクスやゲオルク・フォルスターのような博物学者を乗せた彼の航海は、探検を科学にした。オーストラリアや太平洋の島々の住民にとって、ヨーロッパによる植民地化はそれとともに始まった。",
@@ -6399,6 +8363,49 @@
       "発明"
     ],
     "importance": 2
+  },
+  {
+    "id": "teilungen-polens",
+    "title": "Die Teilungen Polen-Litauens",
+    "year": 1772,
+    "endYear": 1795,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Russland, Preußen und Österreich teilen die Republik Polen-Litauen in drei Schritten unter sich auf, bis sie 1795 von der Landkarte verschwindet.",
+    "text": "Im 18. Jahrhundert war die Adelsrepublik durch das Liberum Veto, Bürgerkriege und ausländische Einmischung geschwächt; Russland bestimmte faktisch die Königswahl. 1772 annektierten Russland, Preußen und Österreich rund ein Viertel ihres Gebiets. Als sich der Staat mit der Verfassung vom 3. Mai 1791 reformierte, riefen konservative Magnaten in Targowica Russland zu Hilfe, und 1793 teilten Russland und Preußen ein zweites Mal. Nach der Niederschlagung des Aufstands unter Tadeusz Kościuszko 1794 teilten die drei Mächte 1795 den Rest auf. Russland erhielt den größten Teil mit Litauen, Belarus und der westlichen Ukraine. Polen wurde erst 1918 wieder ein unabhängiger Staat, Litauen ebenfalls.",
+    "personIds": [
+      "katharina-die-grosse",
+      "tadeusz-kosciuszko"
+    ],
+    "tags": [
+      "polen",
+      "litauen",
+      "teilungen",
+      "großmächte"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "pugatschow-aufstand",
+    "title": "Der Pugatschow-Aufstand",
+    "year": 1773,
+    "endYear": 1775,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Der Donkosak Jemeljan Pugatschow gibt sich als Zar Peter III. aus und führt Kosaken, Leibeigene und Steppenvölker in den größten Bauernaufstand des Zarenreiches.",
+    "text": "Pugatschow behauptete, der 1762 gestürzte und ermordete Zar Peter III. zu sein, und versprach Kosaken, Leibeigenen, Ural-Arbeitern und Baschkiren Freiheit von Gutsherren und Steuern. Ab September 1773 eroberten seine Anhänger Festungen an Jaik und Wolga, töteten Hunderte Adelige und nahmen 1774 Kasan ein. Erst nach dem Frieden mit den Osmanen konnte Katharina die Große genügend Truppen schicken; Pugatschow wurde verraten und im Januar 1775 in Moskau hingerichtet. Die Zarin ließ den Fluss Jaik in Ural umbenennen, ordnete die Provinzverwaltung neu und stützte sich danach noch stärker auf den Adel.",
+    "personIds": [
+      "katharina-die-grosse"
+    ],
+    "tags": [
+      "aufstand",
+      "kosaken",
+      "leibeigenschaft",
+      "bauern"
+    ],
+    "importance": 1
   },
   {
     "id": "frieden-von-kuecuek-kaynarca",
@@ -6506,6 +8513,27 @@
     "importance": 3
   },
   {
+    "id": "ankunft-der-first-fleet",
+    "title": "Die First Fleet gründet Sydney",
+    "year": 1788,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Elf britische Schiffe mit Sträflingen, Soldaten und Beamten erreichen Australien; in Sydney Cove entsteht die Strafkolonie New South Wales.",
+    "text": "Nach dem Verlust der amerikanischen Kolonien suchte Großbritannien einen neuen Ort für die Deportation verurteilter Straftäter und folgte Cooks Bericht über die Botany Bay. Im Januar 1788 erreichten elf Schiffe unter Gouverneur Arthur Phillip mit rund 1400 Menschen, darunter etwa 750 Sträflinge, die Bucht. Da sie ungeeignet erschien, zog die Flotte nach Port Jackson weiter, wo Phillip am 26. Januar in Sydney Cove die britische Flagge hissen ließ. Das Land der Eora wurde ohne Vertrag in Besitz genommen, als gehöre es niemandem. Der 26. Januar ist heute Nationalfeiertag, wird von vielen Aborigines jedoch als „Invasion Day“ betrachtet.",
+    "personIds": [
+      "arthur-phillip"
+    ],
+    "tags": [
+      "australien",
+      "sydney",
+      "kolonialismus",
+      "sträflinge"
+    ],
+    "importance": 3
+  },
+  {
     "id": "erklaerung-der-menschen-und-buergerrechte",
     "title": "人間と市民の権利の宣言",
     "year": 1789,
@@ -6548,6 +8576,25 @@
     "importance": 2
   },
   {
+    "id": "pockenepidemie-in-sydney",
+    "title": "Pockenepidemie unter den Aborigines um Sydney",
+    "year": 1789,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Eine Pockenepidemie tötet einen großen Teil der Eora und benachbarter Gruppen.",
+    "text": "Im April 1789, gut ein Jahr nach der Ankunft der Briten, fanden Siedler an den Ufern von Port Jackson zahlreiche Tote und Kranke. Die Krankheit, meist als Pocken gedeutet, breitete sich rasch unter den Aborigines aus, während die Kolonisten kaum betroffen waren; nach zeitgenössischen Schätzungen starb etwa die Hälfte der Bevölkerung im Umland. Auch Arabanoo, ein von den Briten gefangen gehaltener Eora-Mann, erlag im Mai 1789 der Krankheit. Woher der Erreger kam, ob aus Vorräten der Flotte, über makassarische Seeleute im Norden oder auf anderem Weg, ist bis heute umstritten. Die Epidemie schwächte die Gemeinschaften schwer und erleichterte die weitere Ausbreitung der Kolonie.",
+    "personIds": [],
+    "tags": [
+      "aborigines",
+      "krankheit",
+      "sydney",
+      "kolonialismus"
+    ],
+    "importance": 1
+  },
+  {
     "id": "sturm-auf-die-bastille",
     "title": "バスティーユ襲撃",
     "year": 1789,
@@ -6584,6 +8631,25 @@
       "独立"
     ],
     "importance": 2
+  },
+  {
+    "id": "verfassung-vom-3-mai-1791",
+    "title": "Die Verfassung vom 3. Mai 1791",
+    "year": 1791,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Der polnisch-litauische Reichstag beschließt eine Verfassung, die das Liberum Veto abschafft und den Staat grundlegend reformiert.",
+    "text": "Nach der ersten Teilung versuchten Reformer um König Stanisław August Poniatowski, die Republik zu erneuern. Der Vierjährige Sejm verabschiedete am 3. Mai 1791 eine Verfassung, die nach der der Vereinigten Staaten als erste moderne geschriebene Verfassung Europas gilt. Sie schaffte das Liberum Veto ab, führte die Erbmonarchie und eine Gewaltenteilung ein, gab den Bürgern der Städte mehr Rechte und stellte die Bauern unter den Schutz des Gesetzes. Russland sah darin eine Bedrohung seines Einflusses und marschierte 1792 ein. Der 3. Mai ist bis heute polnischer Nationalfeiertag.",
+    "personIds": [],
+    "tags": [
+      "polen",
+      "litauen",
+      "verfassung",
+      "reform"
+    ],
+    "importance": 1
   },
   {
     "id": "macartney-gesandtschaft",
@@ -6670,6 +8736,44 @@
     "importance": 2
   },
   {
+    "id": "kamehameha-vereinigt-hawaii",
+    "title": "Kamehameha I. vereinigt die Hawaiʻi-Inseln",
+    "year": 1795,
+    "endYear": 1810,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Mit europäischen Waffen und Beratern unterwirft Kamehameha die rivalisierenden Herrscher und schafft das Königreich Hawaiʻi.",
+    "text": "Nach Cooks Besuch 1778/79 kamen immer mehr Handelsschiffe nach Hawaiʻi, und die Häuptlinge erwarben Musketen und Kanonen. Kamehameha, ein Häuptling von der Insel Hawaiʻi, setzte sich in langen Kriegen durch und eroberte 1795 Maui, Molokaʻi und Oʻahu; in der Schlacht von Nuʻuanu trieb er die Krieger Oʻahus bis an die Klippen des Pali. 1810 unterwarf sich auch Kaumualiʻi, der Herrscher von Kauaʻi und Niʻihau, ohne Kampf. Das geeinte Königreich Hawaiʻi bestand bis 1893.",
+    "personIds": [
+      "kamehameha-i"
+    ],
+    "tags": [
+      "hawaii",
+      "kamehameha",
+      "königtum"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "missionare-auf-tahiti",
+    "title": "Die ersten protestantischen Missionare erreichen Tahiti",
+    "year": 1797,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Mit dem Schiff „Duff“ landen Missionare der London Missionary Society auf Tahiti und beginnen die Christianisierung Polynesiens.",
+    "text": "Die 1795 gegründete London Missionary Society schickte das Schiff „Duff“ mit Missionaren und Handwerkern in den Pazifik; im März 1797 landete der größte Teil von ihnen auf Tahiti, weitere setzte das Schiff auf Tonga und den Marquesas ab. Bekehrungen blieben zunächst aus, und viele Missionare verließen die Inseln wieder. Erst als sich Pōmare II., der mit ihrer Unterstützung seine Herrschaft festigte, zum Christentum bekannte und 1815 seine Gegner besiegte, folgten ihm viele Tahitianer. Von Tahiti aus trugen polynesische Lehrer und europäische Missionare das Christentum auf die Cookinseln, nach Samoa und weiter nach Westen; im 19. Jahrhundert wurden fast alle Pazifikinseln christlich.",
+    "personIds": [],
+    "tags": [
+      "mission",
+      "christentum",
+      "tahiti"
+    ],
+    "importance": 2
+  },
+  {
     "id": "napoleon-in-aegypten",
     "title": "ナポレオンのエジプト遠征",
     "year": 1798,
@@ -6687,6 +8791,27 @@
       "ナポレオン",
       "エジプト学",
       "植民地主義"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "gia-long-eint-vietnam",
+    "title": "Gia Long eint Vietnam",
+    "year": 1802,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Nach dem Sieg über die Tây Sơn begründet Nguyễn Ánh als Kaiser Gia Long die Nguyễn-Dynastie und herrscht als Erster über ganz Vietnam von Huế aus.",
+    "text": "Im 17. und 18. Jahrhundert war Đại Việt zwischen den Fürstenhäusern Trịnh im Norden und Nguyễn im Süden geteilt. Der Aufstand der Brüder von Tây Sơn ab 1771 stürzte beide Häuser. Der Nguyễn-Prinz Nguyễn Ánh überlebte, gewann mit Hilfe Siams, französischer Freiwilliger und des Bischofs Pigneau de Behaine den Süden zurück und nahm 1802 Thăng Long ein. Als Kaiser Gia Long machte er Huế zur Hauptstadt, ließ dort eine Zitadelle bauen und erhielt 1804 von China die Anerkennung des Landesnamens Việt Nam. Sein Gesetzbuch folgte dem Vorbild der Qing. Die Nguyễn-Dynastie bestand formell bis 1945, stand aber ab den 1880er-Jahren unter französischer Kontrolle.",
+    "personIds": [
+      "gia-long"
+    ],
+    "tags": [
+      "vietnam",
+      "nguyen",
+      "hue",
+      "dynastie"
     ],
     "importance": 2
   },
@@ -6795,6 +8920,27 @@
       "ドイツ"
     ],
     "importance": 3
+  },
+  {
+    "id": "musketenkriege",
+    "title": "Die Musketenkriege in Neuseeland",
+    "year": 1807,
+    "endYear": 1842,
+    "approx": true,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Mit von Europäern eingetauschten Feuerwaffen führen Māori-Stämme jahrzehntelang Kriege gegeneinander, die Tausende Opfer fordern.",
+    "text": "Seit dem Ende des 18. Jahrhunderts tauschten Māori Flachs, Schweine, Kartoffeln und Holz bei Walfängern und Händlern gegen Musketen ein. Stämme mit frühem Zugang zu Waffen, vor allem die Ngāpuhi im Norden unter Hongi Hika, unternahmen ab etwa 1818 weite Kriegszüge nach Süden, und andere Gruppen rüsteten nach. Kämpfe, Hungersnöte und Wanderungen veränderten die Siedlungsgebiete vieler Stämme. Wie viele Menschen starben, ist unsicher; Schätzungen liegen meist bei etwa 20.000. Als die meisten Stämme bewaffnet waren und das Christentum an Einfluss gewann, ebbten die Kriege in den 1830er-Jahren ab.",
+    "personIds": [
+      "hongi-hika"
+    ],
+    "tags": [
+      "maori",
+      "neuseeland",
+      "krieg",
+      "feuerwaffen"
+    ],
+    "importance": 2
   },
   {
     "id": "preussische-reformen",
@@ -7041,6 +9187,48 @@
     "importance": 2
   },
   {
+    "id": "aufhebung-des-kapu",
+    "title": "Hawaiʻi schafft das Kapu-System ab",
+    "year": 1819,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Kurz nach dem Tod Kamehamehas I. brechen der neue König und die Regentin Kaʻahumanu öffentlich die religiösen Verbote und stürzen die alte Ordnung.",
+    "text": "Das Kapu-System regelte auf Hawaiʻi, was heilig und verboten war; unter anderem durften Männer und Frauen nicht gemeinsam essen, und Verstöße konnten mit dem Tod bestraft werden. Nach Kamehamehas Tod im Mai 1819 setzte Kaʻahumanu, die einflussreichste seiner Frauen, gemeinsam mit der Königinmutter Keōpūolani durch, dass der neue König Liholiho (Kamehameha II.) bei einem Festmahl mit Frauen aß. Danach ließ er Tempel zerstören und Götterbilder verbrennen; ein Aufstand von Anhängern der alten Religion wurde Ende 1819 niedergeschlagen. Als 1820 die ersten amerikanischen Missionare eintrafen, fanden sie eine Gesellschaft ohne den alten Staatskult vor.",
+    "personIds": [
+      "kaahumanu"
+    ],
+    "tags": [
+      "hawaii",
+      "religion",
+      "kapu",
+      "tapu"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "raffles-gruendet-singapur",
+    "title": "Raffles gründet Singapur",
+    "year": 1819,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Stamford Raffles erwirbt für die britische Ostindien-Kompanie die Insel Singapur und macht sie zu einem Freihafen an der Straße von Malakka.",
+    "text": "Während der napoleonischen Kriege hatten die Briten Java besetzt, und Raffles war dort von 1811 bis 1816 Gouverneur. Als die Niederlande ihre Kolonien zurückerhielten, suchte er einen neuen Stützpunkt und schloss 1819 einen Vertrag mit einem Thronanwärter von Johor. Singapur wurde Freihafen und wuchs rasch, vor allem durch chinesische Zuwanderer. Im britisch-niederländischen Vertrag von 1824 teilten beide Mächte ihre Interessengebiete entlang der Straße von Malakka auf; 1826 wurden Penang, Malakka und Singapur zu den Straits Settlements zusammengefasst. Ab 1874 brachten Schutzverträge auch die Sultanate der Malaiischen Halbinsel unter britische Kontrolle, wo Zinn und später Kautschuk zu wichtigen Exportgütern wurden.",
+    "personIds": [
+      "stamford-raffles"
+    ],
+    "tags": [
+      "singapur",
+      "großbritannien",
+      "malaya",
+      "freihafen"
+    ],
+    "importance": 2
+  },
+  {
     "id": "griechischer-unabhaengigkeitskrieg",
     "title": "ギリシア独立戦争",
     "year": 1821,
@@ -7104,6 +9292,44 @@
     "importance": 3
   },
   {
+    "id": "anglo-birmanische-kriege",
+    "title": "Die Anglo-Birmanischen Kriege",
+    "year": 1824,
+    "endYear": 1885,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "In drei Kriegen erobert Großbritannien das Königreich der Konbaung-Dynastie und gliedert Birma 1886 in Britisch-Indien ein.",
+    "text": "Die Ausdehnung der Konbaung nach Assam und Manipur führte zum Konflikt mit der britischen Ostindien-Kompanie. Im Ersten Krieg 1824 bis 1826 musste Birma im Vertrag von Yandabo Assam, Manipur, Arakan und Tenasserim abtreten und eine hohe Entschädigung zahlen. 1852 besetzten die Briten Niederbirma mit Rangun. König Mindon gründete 1857 Mandalay als neue Hauptstadt und versuchte, sein Reich behutsam zu modernisieren. Im Dritten Krieg 1885 nahmen britische Truppen Mandalay ein und schickten König Thibaw ins Exil nach Indien; am 1. Januar 1886 wurde Birma Provinz Britisch-Indiens. Gegen die Besatzung kämpften noch jahrelang Widerstandsgruppen.",
+    "personIds": [],
+    "tags": [
+      "birma",
+      "großbritannien",
+      "kolonialismus",
+      "konbaung"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "dekabristenaufstand",
+    "title": "Der Dekabristenaufstand",
+    "year": 1825,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Adelige Offiziere verweigern in St. Petersburg dem neuen Zaren Nikolaus I. den Eid und fordern eine Verfassung; der Aufstand wird noch am selben Tag niedergeschlagen.",
+    "text": "Viele junge Offiziere hatten in den Kriegen gegen Napoleon Westeuropa kennengelernt und gründeten Geheimgesellschaften, die eine Verfassung und das Ende der Leibeigenschaft anstrebten. Als Zar Alexander I. im November 1825 starb und die Thronfolge kurz ungeklärt war, führten sie am 14. Dezember nach julianischem Kalender rund 3000 Soldaten auf den Senatsplatz in St. Petersburg. Nikolaus I. ließ Artillerie auf sie feuern; auch ein Aufstand in der Ukraine scheiterte wenige Wochen später. Fünf Anführer, darunter Pawel Pestel und Kondrati Rylejew, wurden 1826 gehängt, über hundert nach Sibirien verbannt, wohin ihnen einige ihrer Frauen folgten. Die Dekabristen wurden zum Vorbild späterer Revolutionäre.",
+    "personIds": [],
+    "tags": [
+      "aufstand",
+      "verfassung",
+      "st. petersburg",
+      "offiziere"
+    ],
+    "importance": 2
+  },
+  {
     "id": "eisenbahn-stockton-darlington",
     "title": "最初の公共鉄道 ストックトン・ダーリントン鉄道",
     "year": 1825,
@@ -7120,6 +9346,25 @@
       "交通"
     ],
     "importance": 3
+  },
+  {
+    "id": "java-krieg-und-kultursystem",
+    "title": "Java-Krieg und Kultursystem",
+    "year": 1825,
+    "endYear": 1830,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Nach dem blutigen Aufstand des Prinzen Diponegoro zwingen die Niederlande die Bauern Javas, Exportpflanzen für den Kolonialstaat anzubauen.",
+    "text": "1825 erhob sich Prinz Diponegoro aus dem Fürstenhaus von Yogyakarta gegen die niederländische Herrschaft und den Einfluss der Kolonialverwaltung auf den Hof. Der Krieg dauerte fünf Jahre und kostete nach Schätzungen weit über 100.000 Javanern das Leben; 1830 wurde Diponegoro bei Verhandlungen gefangen genommen und verbannt. Im selben Jahr führte Generalgouverneur Johannes van den Bosch das Kultursystem ein: Die Dörfer mussten einen Teil ihres Landes oder ihrer Arbeitszeit für Kaffee, Zucker und Indigo verwenden, die der Staat zu festen Preisen aufkaufte. Die Niederlande verdienten daran gewaltig, während es auf Java in den 1840er-Jahren zu Hungersnöten kam. Nach Kritik, etwa im Roman „Max Havelaar“, wurde das System ab 1870 schrittweise abgebaut.",
+    "personIds": [],
+    "tags": [
+      "java",
+      "niederlande",
+      "aufstand",
+      "kolonialwirtschaft"
+    ],
+    "importance": 1
   },
   {
     "id": "aufloesung-der-janitscharen",
@@ -7141,6 +9386,25 @@
       "イスタンブル"
     ],
     "importance": 2
+  },
+  {
+    "id": "novemberaufstand-in-polen",
+    "title": "Der Novemberaufstand in Polen",
+    "year": 1830,
+    "endYear": 1831,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Polnische Offiziersschüler lösen in Warschau einen Aufstand gegen die russische Herrschaft aus, der nach fast einem Jahr Krieg niedergeschlagen wird.",
+    "text": "Der Wiener Kongress hatte 1815 ein Königreich Polen geschaffen, dessen König der russische Zar war; es besaß zunächst eine eigene Verfassung und ein Heer. Weil Nikolaus I. diese Rechte missachtete, stürmten am 29. November 1830 Offiziersschüler in Warschau den Sitz des Statthalters. Der Sejm erklärte den Zaren 1831 für abgesetzt, doch die russische Armee eroberte im September Warschau zurück. Die Verfassung wurde aufgehoben, die Universitäten Warschau und Wilna geschlossen, und Tausende gingen in die Große Emigration nach Westeuropa, darunter der Dichter Adam Mickiewicz. Auch der Januaraufstand von 1863, der Polen, Litauen und Belarus erfasste, scheiterte und zog eine scharfe Russifizierung nach sich.",
+    "personIds": [],
+    "tags": [
+      "polen",
+      "aufstand",
+      "warschau",
+      "emigration"
+    ],
+    "importance": 1
   },
   {
     "id": "julirevolution-1830",
@@ -7263,6 +9527,27 @@
     "importance": 2
   },
   {
+    "id": "vertrag-von-waitangi",
+    "title": "Vertrag von Waitangi",
+    "year": 1840,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Britische Vertreter und Māori-Häuptlinge unterzeichnen einen Vertrag, der zur Grundlage der Kolonie Neuseeland wird – in seiner Bedeutung bis heute umstritten.",
+    "text": "Am 6. Februar 1840 unterzeichneten in Waitangi an der Bay of Islands der britische Vertreter William Hobson und rund 40 Häuptlinge den Vertrag; bis September kamen im ganzen Land mehr als 500 Unterschriften hinzu, einige große Stämme unterschrieben jedoch nicht. Nach dem englischen Text traten die Māori die Souveränität an die britische Krone ab, nach der Māori-Fassung, die die meisten unterschrieben, nur die „kāwanatanga“, eine Art Regierungsgewalt, während ihnen „tino rangatiratanga“, die volle Herrschaft über Land, Dörfer und Schätze, zugesichert wurde. Großbritannien beanspruchte daraufhin ganz Neuseeland, das 1841 eine eigene Kolonie wurde. Seit 1975 untersucht das Waitangi-Tribunal Verstöße gegen den Vertrag, der als Gründungsdokument des Landes gilt.",
+    "personIds": [
+      "william-hobson"
+    ],
+    "tags": [
+      "neuseeland",
+      "maori",
+      "vertrag",
+      "kolonialismus"
+    ],
+    "importance": 3
+  },
+  {
     "id": "weberaufstand-schlesien",
     "title": "シュレージエンの織工一揆",
     "year": 1844,
@@ -7278,6 +9563,25 @@
       "蜂起",
       "織工",
       "プロイセン"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "neuseelandkriege",
+    "title": "Die Neuseelandkriege",
+    "year": 1845,
+    "endYear": 1872,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "In einer Reihe von Kriegen kämpfen Māori-Stämme gegen britische Truppen und Kolonialmilizen um Land und Selbstbestimmung.",
+    "text": "Der Häuptling Hōne Heke hatte seit 1844 mehrfach den britischen Fahnenmast bei Kororāreka im Norden gefällt; im März 1845 griffen seine Krieger die Siedlung an, und es begann der erste Krieg. Die größten Kämpfe entbrannten um Land: 1860 in Taranaki und 1863/64 im Waikato, wo die Regierung die Königsbewegung angriff. Māori verteidigten sich in ausgeklügelten Pā mit Gräben und Schützenstellungen, unterlagen aber am Ende der Übermacht von mehr als zehntausend Soldaten. Auf Grundlage eines Gesetzes von 1863 beschlagnahmte die Regierung über eine Million Hektar Māori-Land. Die letzten Kämpfe gegen die Anhänger von Te Kooti endeten 1872.",
+    "personIds": [],
+    "tags": [
+      "neuseeland",
+      "maori",
+      "krieg",
+      "kolonialismus"
     ],
     "importance": 2
   },
@@ -7377,6 +9681,25 @@
     "importance": 2
   },
   {
+    "id": "goldrausch-in-australien",
+    "title": "Goldrausch in Australien",
+    "year": 1851,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Goldfunde in New South Wales und Victoria lösen eine Masseneinwanderung aus und verwandeln die Kolonien.",
+    "text": "Im Februar 1851 fand Edward Hargraves bei Bathurst in New South Wales Gold, wenige Monate später folgten reiche Funde bei Ballarat und Bendigo in Victoria. Zehntausende Einwanderer aus Großbritannien, Irland, Europa, Nordamerika und China strömten auf die Goldfelder; die Bevölkerung Victorias stieg innerhalb eines Jahrzehnts von unter 80.000 auf über eine halbe Million. Der Unmut über teure Schürflizenzen führte 1854 zum Aufstand an der Eureka-Palisade bei Ballarat, der blutig niedergeschlagen wurde, aber Reformen nach sich zog. Zugleich wuchs die Feindseligkeit gegenüber chinesischen Goldsuchern, die mit Sondersteuern belegt und angegriffen wurden.",
+    "personIds": [],
+    "tags": [
+      "australien",
+      "gold",
+      "einwanderung",
+      "wirtschaft"
+    ],
+    "importance": 2
+  },
+  {
     "id": "krimkrieg",
     "title": "クリミア戦争",
     "year": 1853,
@@ -7459,6 +9782,25 @@
     "importance": 2
   },
   {
+    "id": "maori-koenigsbewegung",
+    "title": "Gründung der Māori-Königsbewegung",
+    "year": 1858,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Mehrere Stämme wählen Pōtatau Te Wherowhero zum ersten Māori-König, um weiteren Landverkäufen Einhalt zu gebieten.",
+    "text": "In den 1850er-Jahren wuchs unter den Māori die Sorge, dass immer mehr Land an Siedler verloren ging. Nach mehreren großen Versammlungen wählten Stämme vor allem aus dem Waikato und dem Zentrum der Nordinsel 1858 den betagten Häuptling Pōtatau Te Wherowhero zum König; der Häuptling Wiremu Tāmihana warb maßgeblich für die Bewegung. Der König sollte die Stämme einen und Land vor dem Verkauf schützen, ohne die britische Königin abzulehnen. Die Kolonialregierung sah darin jedoch eine Herausforderung ihrer Herrschaft, was 1863 zum Krieg im Waikato beitrug. Die Kīngitanga besteht bis heute.",
+    "personIds": [],
+    "tags": [
+      "maori",
+      "neuseeland",
+      "königtum",
+      "land"
+    ],
+    "importance": 2
+  },
+  {
     "id": "darwin-entstehung-der-arten",
     "title": "ダーウィン、『種の起源』を発表する",
     "year": 1859,
@@ -7496,6 +9838,27 @@
       "アメリカ合衆国",
       "奴隷制",
       "内戦"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "aufhebung-der-leibeigenschaft-in-russland",
+    "title": "Die Aufhebung der Leibeigenschaft in Russland",
+    "year": 1861,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Zar Alexander II. befreit rund 23 Millionen leibeigene Bauern; sie werden persönlich frei, müssen ihr Land aber teuer ablösen.",
+    "text": "Die Niederlage im Krimkrieg hatte gezeigt, wie weit Russland wirtschaftlich und militärisch zurücklag. Alexander II. erklärte, es sei besser, die Leibeigenschaft von oben abzuschaffen, als darauf zu warten, dass sie sich von unten selbst abschaffe. Mit dem Manifest vom 19. Februar 1861 nach julianischem Kalender erhielten die privaten Leibeigenen die persönliche Freiheit, das Recht zu heiraten, Eigentum zu erwerben und vor Gericht zu gehen. Das Land, das sie bestellten, mussten sie jedoch über 49 Jahre mit Zahlungen an den Staat ablösen und erhielten oft weniger als zuvor; Steuern und Land blieben an die Dorfgemeinde gebunden. Es folgten Reformen der Gerichte, der Selbstverwaltung in den Semstwa und des Militärs.",
+    "personIds": [
+      "alexander-ii"
+    ],
+    "tags": [
+      "leibeigenschaft",
+      "bauern",
+      "reform",
+      "zar"
     ],
     "importance": 3
   },
@@ -7560,6 +9923,27 @@
     "importance": 2
   },
   {
+    "id": "verkauf-alaskas",
+    "title": "Russland verkauft Alaska",
+    "year": 1867,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "amerika",
+    "summary": "Russland verkauft seine amerikanische Kolonie für 7,2 Millionen Dollar an die Vereinigten Staaten.",
+    "text": "1741 hatte die Expedition des Dänen Vitus Bering in russischen Diensten die Küste Alaskas erreicht. Pelzhändler folgten der Jagd auf Seeotter, und seit 1799 verwaltete die Russisch-Amerikanische Kompanie die Kolonie von Nowo-Archangelsk, dem heutigen Sitka, aus; Aleuten und andere Ureinwohner mussten für sie jagen. Nach dem Krimkrieg galt das ferne, schwer zu verteidigende Gebiet als Last, zumal die Pelzbestände geschrumpft waren. Im März 1867 unterzeichneten beide Seiten den Kaufvertrag, im Oktober wurde in Sitka die amerikanische Flagge gehisst. In den USA spotteten Kritiker zunächst über den Kauf; erst Goldfunde und später Öl zeigten den Wert des Landes.",
+    "personIds": [
+      "alexander-ii"
+    ],
+    "tags": [
+      "alaska",
+      "pelzhandel",
+      "usa",
+      "kolonie"
+    ],
+    "importance": 1
+  },
+  {
     "id": "zehnjaehriger-krieg-auf-kuba",
     "title": "キューバの十年戦争",
     "year": 1868,
@@ -7618,6 +10002,25 @@
     "importance": 2
   },
   {
+    "id": "coming-of-the-light-torres-strait",
+    "title": "„Coming of the Light“ in der Torres-Straße",
+    "year": 1871,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Missionare der London Missionary Society landen auf der Insel Erub; die Torres-Strait-Insulaner feiern den Tag bis heute als Ankunft des Christentums.",
+    "text": "Die Torres-Strait-Insulaner zwischen Australien und Neuguinea lebten von Gartenbau, Fischfang und Seehandel und besaßen eigene Sprachen, Zeremonien und Kanunetzwerke, die bis an die Küste Neuguineas reichten. Am 1. Juli 1871 landeten auf Erub (Darnley Island) Missionare der London Missionary Society, unter ihnen Samuel Macfarlane, zusammen mit Lehrern von den Loyalitätsinseln. Viele Insulaner nahmen das Christentum an und verbanden es mit eigenen Traditionen; der 1. Juli wird als „Coming of the Light“ gefeiert. Zugleich brachten Perlmuttfischerei und Seegurkenfang fremde Arbeiter und Händler in die Region, die 1872 und 1879 an die Kolonie Queensland angeschlossen wurde.",
+    "personIds": [],
+    "tags": [
+      "torres-strait",
+      "mission",
+      "christentum",
+      "australien"
+    ],
+    "importance": 1
+  },
+  {
     "id": "gruendung-deutsches-kaiserreich",
     "title": "ドイツ帝国の成立",
     "year": 1871,
@@ -7658,6 +10061,47 @@
       "従属"
     ],
     "importance": 2
+  },
+  {
+    "id": "verfassung-von-tonga",
+    "title": "Tonga erhält eine Verfassung",
+    "year": 1875,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "König George Tupou I. gibt Tonga eine geschriebene Verfassung, die in überarbeiteter Form bis heute gilt und das Land als eigenständige Monarchie festigt.",
+    "text": "Tāufaʻāhau, ein Häuptling aus Haʻapai, ließ sich 1831 von methodistischen Missionaren taufen und nahm den Namen George an. Nach Jahren der Bürgerkriege einigte er Tonga und wurde 1845 als Tuʻi Kanokupolu Herrscher des ganzen Landes. Er erließ Gesetzbücher, befreite 1862 die einfachen Leute von der Abhängigkeit von den Häuptlingen und gab Tonga am 4. November 1875 eine Verfassung mit Parlament und Grundrechten. Sie untersagte den Verkauf von Land an Ausländer und half Tonga, einer Kolonisierung zu entgehen; 1900 wurde es lediglich britisches Schutzgebiet und behielt seine Monarchie.",
+    "personIds": [
+      "george-tupou-i"
+    ],
+    "tags": [
+      "tonga",
+      "verfassung",
+      "königtum"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "emser-erlass",
+    "title": "Der Emser Erlass",
+    "year": 1876,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Zar Alexander II. verbietet den Druck und die Einfuhr der meisten Bücher in ukrainischer Sprache im Zarenreich.",
+    "text": "Die Behörden des Zarenreiches betrachteten die Ukrainer als Teil eines einheitlichen russischen Volkes und ihre Sprache als Dialekt. Schon 1863 hatte ein Rundschreiben des Innenministers Walujew ukrainische Schul- und religiöse Bücher verboten. Im Mai 1876 unterzeichnete Alexander II. im Kurort Bad Ems einen geheimen Erlass, der den Druck ukrainischer Bücher bis auf wenige Ausnahmen, ihre Einfuhr aus dem Ausland sowie ukrainische Theateraufführungen und Liedtexte untersagte. Ukrainische Schriftsteller und Gelehrte wichen daraufhin ins österreichische Galizien mit dem Zentrum Lemberg aus. Die Beschränkungen verloren erst nach der Revolution von 1905 ihre Wirkung.",
+    "personIds": [
+      "alexander-ii"
+    ],
+    "tags": [
+      "ukraine",
+      "sprache",
+      "russifizierung",
+      "zensur"
+    ],
+    "importance": 1
   },
   {
     "id": "osmanische-verfassung-1876",
@@ -7841,6 +10285,25 @@
     "importance": 2
   },
   {
+    "id": "gruendung-franzoesisch-indochinas",
+    "title": "Gründung von Französisch-Indochina",
+    "year": 1887,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Frankreich fasst Cochinchina, Annam, Tonkin und Kambodscha zur Indochinesischen Union zusammen; 1893 kommt Laos hinzu.",
+    "text": "1858 griffen französische und spanische Schiffe Đà Nẵng an, angeblich zum Schutz verfolgter Missionare. 1862 musste der Nguyễn-Hof drei Provinzen im Süden abtreten, aus denen die Kolonie Cochinchina wurde, und 1863 stellte sich Kambodscha unter französisches Protektorat. 1883 und 1884 wurden auch Annam und Tonkin Protektorate, und im Krieg von 1884/85 musste China auf seine Oberhoheit über Vietnam verzichten. 1887 entstand die Indochinesische Union unter einem Generalgouverneur, 1893 kam Laos hinzu. Frankreich baute Eisenbahnen und Plantagen und finanzierte die Verwaltung über Monopole auf Opium, Salz und Alkohol. Gegen die Eroberung kämpfte unter anderem die Cần-Vương-Bewegung im Namen des jungen Kaisers Hàm Nghi.",
+    "personIds": [],
+    "tags": [
+      "frankreich",
+      "vietnam",
+      "kambodscha",
+      "kolonialismus"
+    ],
+    "importance": 3
+  },
+  {
     "id": "lei-aurea-abschaffung-der-sklaverei",
     "title": "ブラジルが奴隷制を廃止",
     "year": 1888,
@@ -7860,6 +10323,27 @@
       "女性"
     ],
     "importance": 3
+  },
+  {
+    "id": "bau-der-transsibirischen-eisenbahn",
+    "title": "Bau der Transsibirischen Eisenbahn",
+    "year": 1891,
+    "endYear": 1916,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "asien",
+    "summary": "Russland baut eine Eisenbahn über mehr als 9000 Kilometer von Moskau nach Wladiwostok am Pazifik.",
+    "text": "Im Mai 1891 legte der Thronfolger Nikolaus in Wladiwostok den Grundstein; vorangetrieben wurde das Vorhaben von Finanzminister Sergei Witte. Zehntausende Arbeiter, darunter Strafgefangene und Soldaten, bauten gleichzeitig an mehreren Abschnitten durch Taiga, Sümpfe und Dauerfrostboden. Seit 1904 konnte man durchgehend bis zum Pazifik reisen, zunächst über eine Abkürzung durch die Mandschurei; die Strecke allein auf russischem Gebiet wurde 1916 mit der Brücke über den Amur bei Chabarowsk fertig. Die Bahn erschloss Sibirien für Millionen Siedler und für Bergbau und Landwirtschaft und stärkte Russlands Stellung in Ostasien, was zum Krieg mit Japan 1904/05 beitrug.",
+    "personIds": [
+      "nikolaus-ii"
+    ],
+    "tags": [
+      "eisenbahn",
+      "sibirien",
+      "industrialisierung",
+      "pazifik"
+    ],
+    "importance": 1
   },
   {
     "id": "frauenwahlrecht-neuseeland",
@@ -7883,6 +10367,48 @@
     "importance": 3
   },
   {
+    "id": "paknam-krise-siam",
+    "title": "Paknam-Krise: Siam bewahrt seine Unabhängigkeit",
+    "year": 1893,
+    "endYear": null,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Französische Kanonenboote erzwingen die Fahrt nach Bangkok; Siam tritt Gebiete östlich des Mekong ab, bleibt aber als einziger Staat Südostasiens unabhängig.",
+    "text": "Im Juli 1893 erzwangen französische Kanonenboote an der Festung Paknam die Durchfahrt auf dem Chao Phraya bis vor Bangkok. König Chulalongkorn musste die Gebiete östlich des Mekong, das heutige Laos, an Frankreich abtreten und eine Entschädigung zahlen. 1896 vereinbarten Großbritannien und Frankreich, das Kernland Siams als Pufferstaat zwischen ihren Kolonien zu respektieren; später gab Siam weitere Gebiete in Kambodscha und auf der Malaiischen Halbinsel ab. Schon Mongkut hatte 1855 im Bowring-Vertrag den Handel geöffnet; Chulalongkorn baute ab 1868 Ministerien, Schulen, Armee und Eisenbahnen nach europäischem Vorbild auf und schaffte die Sklaverei schrittweise ab. So vermied Siam die Kolonialherrschaft, wenn auch um den Preis von Gebietsverlusten.",
+    "personIds": [
+      "chulalongkorn"
+    ],
+    "tags": [
+      "siam",
+      "thailand",
+      "frankreich",
+      "unabhängigkeit"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "sturz-der-monarchie-hawaii",
+    "title": "Sturz der hawaiischen Monarchie",
+    "year": 1893,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Amerikanische Geschäftsleute stürzen mit Rückendeckung von US-Marinesoldaten Königin Liliʻuokalani.",
+    "text": "Seit der Mitte des 19. Jahrhunderts beherrschten Pflanzer und Geschäftsleute amerikanischer Herkunft die Zuckerwirtschaft Hawaiʻis; 1887 zwangen sie König Kalākaua eine Verfassung auf, die seine Macht beschnitt und das Wahlrecht an Besitz band. Als seine Schwester und Nachfolgerin Liliʻuokalani 1893 eine neue Verfassung erlassen wollte, bildete eine Gruppe von ihnen ein „Sicherheitskomitee“ und rief am 17. Januar eine provisorische Regierung aus, nachdem Marinesoldaten eines US-Kriegsschiffs an Land gegangen waren. Die Königin wich der Übermacht, um Blutvergießen zu vermeiden, und appellierte an die US-Regierung. Präsident Grover Cleveland verurteilte den Umsturz, doch die Putschisten riefen 1894 die Republik Hawaiʻi aus.",
+    "personIds": [
+      "liliuokalani"
+    ],
+    "tags": [
+      "hawaii",
+      "usa",
+      "kolonialismus",
+      "umsturz"
+    ],
+    "importance": 2
+  },
+  {
     "id": "kubanischer-unabhaengigkeitskrieg",
     "title": "キューバ独立戦争",
     "year": 1895,
@@ -7902,6 +10428,49 @@
       "アメリカ合衆国"
     ],
     "importance": 2
+  },
+  {
+    "id": "philippinische-revolution",
+    "title": "Philippinische Revolution",
+    "year": 1896,
+    "endYear": 1898,
+    "approx": false,
+    "epochId": "suedostasien",
+    "regionId": "asien",
+    "summary": "Der Geheimbund Katipunan erhebt sich gegen Spanien; 1898 rufen die Philippinen ihre Unabhängigkeit aus, geraten aber unter die Herrschaft der USA.",
+    "text": "1892 gründete Andrés Bonifacio in Manila die Katipunan, die die Unabhängigkeit mit Waffen erkämpfen wollte. Als sie im August 1896 entdeckt wurde, begann der Aufstand. Die Spanier ließen den Schriftsteller José Rizal, der selbst nicht zum Kampf aufgerufen hatte, am 30. Dezember 1896 erschießen. In inneren Machtkämpfen setzte sich Emilio Aguinaldo durch, Bonifacio wurde 1897 hingerichtet, und Ende 1897 ging Aguinaldo nach einem Abkommen mit Spanien ins Exil. Im Spanisch-Amerikanischen Krieg kehrte er 1898 zurück und rief am 12. Juni die Unabhängigkeit aus. Im Frieden von Paris trat Spanien die Philippinen jedoch an die USA ab, gegen die die Filipinos ab 1899 einen verlustreichen Krieg führten.",
+    "personIds": [
+      "jose-rizal",
+      "emilio-aguinaldo"
+    ],
+    "tags": [
+      "philippinen",
+      "revolution",
+      "spanien",
+      "usa"
+    ],
+    "importance": 3
+  },
+  {
+    "id": "annexion-hawaiis",
+    "title": "Die USA annektieren Hawaiʻi",
+    "year": 1898,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Durch einen Beschluss des Kongresses wird Hawaiʻi Teil der Vereinigten Staaten – gegen den Protest vieler Hawaiianer.",
+    "text": "Ein Annexionsvertrag war im Senat an der nötigen Zweidrittelmehrheit gescheitert, auch wegen Petitionen, die mehr als 20.000 Hawaiianer unterschrieben hatten. Im Spanisch-Amerikanischen Krieg gewann Hawaiʻi als Stützpunkt auf dem Weg zu den Philippinen an Bedeutung, und im Juli 1898 beschloss der Kongress die Annexion durch eine gemeinsame Resolution, die nur einfache Mehrheiten brauchte. Am 12. August 1898 wurde in Honolulu die hawaiische Flagge eingeholt; 1900 wurde Hawaiʻi ein US-Territorium und 1959 der 50. Bundesstaat. 1993 entschuldigte sich der US-Kongress offiziell für den Umsturz von 1893.",
+    "personIds": [
+      "liliuokalani"
+    ],
+    "tags": [
+      "hawaii",
+      "usa",
+      "imperialismus",
+      "annexion"
+    ],
+    "importance": 3
   },
   {
     "id": "hedschasbahn",
@@ -7942,6 +10511,27 @@
       "清朝"
     ],
     "importance": 2
+  },
+  {
+    "id": "australische-foederation",
+    "title": "Gründung des Australischen Bundes",
+    "year": 1901,
+    "endYear": null,
+    "approx": false,
+    "epochId": "ozeanien-pazifik",
+    "regionId": "ozeanien",
+    "summary": "Am 1. Januar 1901 schließen sich die sechs australischen Kolonien zum Commonwealth of Australia zusammen.",
+    "text": "Nach Verfassungskonventen in den 1890er-Jahren stimmten die Wähler der Kolonien in Volksabstimmungen einer gemeinsamen Verfassung zu, die das britische Parlament 1900 bestätigte. Am 1. Januar 1901 wurde in Sydney der Bundesstaat ausgerufen; erster Premierminister wurde Edmund Barton, Parlamentssitz war vorläufig Melbourne. Australien blieb Teil des Britischen Empire, regelte seine inneren Angelegenheiten aber selbst. Eines der ersten Bundesgesetze, der Immigration Restriction Act von 1901, begründete die „White Australia“-Politik; die Aborigines wurden in der Verfassung weitgehend übergangen und bis 1967 nicht in die Bevölkerungszählung des Bundes einbezogen.",
+    "personIds": [
+      "edmund-barton"
+    ],
+    "tags": [
+      "australien",
+      "föderation",
+      "verfassung",
+      "empire"
+    ],
+    "importance": 3
   },
   {
     "id": "erster-motorflug-wright",
@@ -7997,6 +10587,27 @@
       "ジェノサイド"
     ],
     "importance": 2
+  },
+  {
+    "id": "revolution-von-1905",
+    "title": "Die Revolution von 1905",
+    "year": 1905,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Nach dem Blutsonntag in St. Petersburg erfassen Streiks, Bauernunruhen und Meutereien das Zarenreich; Nikolaus II. muss eine Volksvertretung, die Duma, zugestehen.",
+    "text": "Die Niederlagen im Krieg gegen Japan verschärften die Unzufriedenheit mit Hunger, Arbeitsbedingungen und Rechtlosigkeit. Am 9. Januar 1905 nach julianischem Kalender zog ein friedlicher Zug von Arbeitern unter dem Priester Georgi Gapon zum Winterpalast, um dem Zaren eine Bittschrift zu übergeben; Soldaten schossen in die Menge und töteten Hunderte Menschen. Darauf folgten Streiks im ganzen Reich, auch in Polen, im Baltikum und im Kaukasus, Bauernaufstände und die Meuterei auf dem Panzerkreuzer Potemkin. Nach einem Generalstreik versprach Nikolaus II. im Oktobermanifest Grundrechte und eine gewählte Duma. Er behielt jedoch weitgehende Vollmachten, löste die ersten Dumen rasch wieder auf, und Ministerpräsident Pjotr Stolypin ließ Aufständische hart verfolgen.",
+    "personIds": [
+      "nikolaus-ii"
+    ],
+    "tags": [
+      "revolution",
+      "duma",
+      "streik",
+      "blutsonntag"
+    ],
+    "importance": 3
   },
   {
     "id": "jungtuerkische-revolution",
@@ -8190,6 +10801,27 @@
       "シオニズム",
       "大英帝国",
       "中東"
+    ],
+    "importance": 2
+  },
+  {
+    "id": "februarrevolution-1917",
+    "title": "Die Februarrevolution",
+    "year": 1917,
+    "endYear": null,
+    "approx": false,
+    "epochId": "russland-osteuropa",
+    "regionId": "europa",
+    "summary": "Streiks und Brotunruhen in Petrograd, denen sich die Garnison anschließt, zwingen Nikolaus II. zur Abdankung; die Herrschaft der Romanows endet.",
+    "text": "Der Erste Weltkrieg kostete Millionen Soldaten das Leben und brachte Versorgungsnot in die Städte. Am Internationalen Frauentag, dem 23. Februar 1917 nach julianischem und dem 8. März nach heutigem Kalender, streikten Textilarbeiterinnen in Petrograd, wie St. Petersburg seit 1914 hieß; binnen Tagen weiteten sich die Proteste zum Generalstreik aus, und Soldaten liefen zu den Demonstranten über. Abgeordnete der Duma bildeten eine Provisorische Regierung, Arbeiter und Soldaten den Petrograder Sowjet. Am 2. März (15. März) dankte Nikolaus II. ab, sein Bruder Michail lehnte die Krone ab. In Kiew entstand im selben Monat die Ukrainische Zentralrada. Wie die Bolschewiki im Herbst die Macht übernahmen, beschreibt das Ereignis der Russischen Revolution.",
+    "personIds": [
+      "nikolaus-ii"
+    ],
+    "tags": [
+      "revolution",
+      "petrograd",
+      "abdankung",
+      "romanows"
     ],
     "importance": 2
   },

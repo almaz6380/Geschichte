@@ -21,6 +21,16 @@
     ]
   },
   {
+    "id": "acht-banner",
+    "term": "八旗",
+    "definition": "满族的军事和社会组织，所有家庭被编入以旗帜颜色命名的八个单位。八旗军于1644年征服中国，此后作为大城市中享有特权的驻防部队，成为清朝统治的支柱。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "mandschu-erobern-peking",
+      "kangxi"
+    ]
+  },
+  {
     "id": "agora",
     "term": "阿哥拉",
     "definition": "希腊城市的中心广场，兼作市场、集会场所和政治中心。在雅典，议事厅、法庭、柱廊和祭坛都位于阿哥拉；苏格拉底在这里与人交谈，法律也在这里公开张贴。",
@@ -108,6 +118,51 @@
     ]
   },
   {
+    "id": "auslegerkanu",
+    "term": "Auslegerkanu",
+    "definition": "Kanu mit einem seitlich am Rumpf befestigten Schwimmer, dem Ausleger, der das Boot gegen das Kentern stabilisiert. Für die Besiedlung des Pazifiks nutzten die Seefahrer auch große Doppelrumpfkanus mit Segeln aus Pandanusmatten, die Menschen, Tiere und Pflanzen über Tausende Kilometer tragen konnten. Navigiert wurde ohne Instrumente nach Sternen, Dünung, Wolken und Vogelflug.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "lapita-besiedlung-pazifik",
+      "besiedlung-neuseelands",
+      "tupaia"
+    ]
+  },
+  {
+    "id": "ayllu",
+    "term": "艾柳",
+    "definition": "安第斯山区的亲属和村社共同体，其成员追溯到共同的祖先。艾柳共同持有土地，分配给各家庭，并组织农活和盖房时的互助。在印加帝国，它是征派赋役和劳役的基本单位；在安第斯的许多村庄中，它至今仍然存在。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "pachacutec-und-das-inka-reich",
+      "qhapaq-nan-strassennetz-der-inka",
+      "bau-von-machu-picchu"
+    ]
+  },
+  {
+    "id": "baray",
+    "term": "Baray",
+    "definition": "Khmer-Bezeichnung für die großen rechteckigen Wasserbecken, die die Könige von Angkor anlegen ließen; der Westliche Baray misst etwa acht mal zwei Kilometer. Sie dienten der Wasserversorgung und hatten zugleich religiöse Bedeutung als Abbild des Urozeans um den Weltenberg Meru. Wie stark sie zur Bewässerung der Reisfelder beitrugen, wird in der Forschung unterschiedlich beurteilt.",
+    "epochId": "suedostasien",
+    "related": [
+      "angkor-wat",
+      "jayavarman-vii-und-angkor-thom",
+      "ende-angkors-als-khmer-hauptstadt"
+    ]
+  },
+  {
+    "id": "basileus",
+    "term": "Basileus",
+    "definition": "Griechisches Wort für „König“, das seit Kaiser Herakleios amtlich als Titel des byzantinischen Kaisers diente. Der Basileus verstand sich als Nachfolger der römischen Kaiser und als von Gott eingesetzter Herrscher der Christenheit. Den Anspruch westlicher Herrscher wie Karls des Großen auf den Kaisertitel erkannte Byzanz nur widerwillig an.",
+    "epochId": "byzanz",
+    "related": [
+      "herakleios",
+      "irene-von-athen",
+      "justinian-i",
+      "kaiserkroenung-karls-des-grossen"
+    ]
+  },
+  {
     "id": "beamtenpruefung",
     "term": "科举",
     "definition": "中国的一种国家考试制度，自汉代起、尤其是唐代以后，按对儒家经典的掌握程度选拔官员。它意在按才能而非出身授予官职，并在1905年以前塑造着东亚的教育。",
@@ -129,6 +184,19 @@
     ]
   },
   {
+    "id": "bilderstreit",
+    "term": "Bilderstreit (Ikonoklasmus)",
+    "definition": "Die Auseinandersetzung in Byzanz zwischen etwa 726/730 und 843 darüber, ob religiöse Bilder verehrt werden dürfen. Die Ikonoklasten („Bilderzerstörer“) lehnten das als Götzendienst ab, die Ikonodulen („Bilderverehrer“) verteidigten es. Nach zwei Phasen der Bilderfeindschaft wurde die Bilderverehrung 843 endgültig wiederhergestellt; da die meisten Quellen von den Siegern stammen, ist das Ausmaß der Verfolgungen umstritten.",
+    "epochId": "byzanz",
+    "related": [
+      "beginn-des-bilderstreits",
+      "zweites-konzil-von-nicaea",
+      "ende-des-bilderstreits",
+      "leon-iii",
+      "irene-von-athen"
+    ]
+  },
+  {
     "id": "blitzkrieg",
     "term": "闪电战",
     "definition": "指1939年至1941年德国的快速战役，装甲部队与飞机协同深入敌人后方，使战线在数周内崩溃。波兰、法国和巴尔干就是这样被席卷的。对苏联作战时，这一构想失败了，战争变成长期的消耗战，盟国的经济实力成为决定性因素。",
@@ -137,6 +205,17 @@
       "westfeldzug-1940",
       "ueberfall-auf-polen",
       "erwin-rommel"
+    ]
+  },
+  {
+    "id": "bojaren",
+    "term": "Bojaren",
+    "definition": "Die adelige Oberschicht in der Kiewer Rus, im Moskauer Reich und in den Donaufürstentümern. Sie besaßen großen Grundbesitz, berieten den Fürsten in der Bojarenduma und besetzten hohe Ämter in Heer und Verwaltung. Iwan IV. verfolgte sie in der Opritschnina, Peter der Große schaffte den Rang ab und ersetzte ihn durch die Rangtabelle.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "opritschnina",
+      "iwan-iv",
+      "peter-der-grosse"
     ]
   },
   {
@@ -172,6 +251,49 @@
     ]
   },
   {
+    "id": "caudillo",
+    "term": "考迪罗",
+    "definition": "指依靠私人追随者（常常是武装骑手和依附的农村劳动者）的政治和军事领袖。独立之后，考迪罗塑造着许多拉丁美洲国家的政治，并常常无视宪法。直到今天，这个词仍代表为某一个人量身打造的威权统治。",
+    "epochId": "lateinamerika",
+    "related": [
+      "paraguay-krieg",
+      "beginn-der-mexikanischen-revolution"
+    ]
+  },
+  {
+    "id": "chinampa",
+    "term": "奇南帕",
+    "definition": "在浅湖和沼泽中人工筑起的长方形园圃，周围环绕着水渠。淤泥和植物残余保持土壤肥沃，因而一年可多次收获。墨西哥谷的奇南帕养活了大城特诺奇蒂特兰，今天在霍奇米尔科仍有人耕种。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "gruendung-tenochtitlans",
+      "aztekischer-dreibund",
+      "nezahualcoyotl"
+    ]
+  },
+  {
+    "id": "danegeld",
+    "term": "Danegeld",
+    "definition": "Tributzahlungen, mit denen englische und fränkische Herrscher Wikingerheere zum Abzug bewegten oder Angriffe abwenden wollten. In England zahlte König Æthelred ab 991 immer höhere Summen in Silber, die als Steuer vom ganzen Land eingezogen wurden. Die Zahlungen machten die Raubzüge lohnend und erklären die vielen englischen Münzen in skandinavischen Schatzfunden.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "wikinger-pluendern-paris",
+      "knut-wird-koenig-von-england",
+      "knut-der-grosse"
+    ]
+  },
+  {
+    "id": "danelag",
+    "term": "Danelag",
+    "definition": "Das Gebiet im Norden und Osten Englands, das im späten 9. Jahrhundert von Skandinaviern besiedelt wurde und in dem dänisches Recht galt. Die Bezeichnung (englisch Danelaw) kam erst im 11. Jahrhundert auf. Ortsnamen auf -by und -thorpe sowie skandinavische Lehnwörter wie „sky“ oder „egg“ erinnern bis heute daran.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "grosses-heidnisches-heer",
+      "schlacht-bei-edington",
+      "alfred-der-grosse"
+    ]
+  },
+  {
     "id": "daoismus",
     "term": "道家",
     "definition": "以《道德经》为基础的中国学说，主张人应与“道”，即事物的自然进程和谐共处。它不赞成功名和僵硬的规则，而提倡平静、质朴和无为。后来由它发展出一种有宫观、道士和长生学说的宗教。",
@@ -195,6 +317,28 @@
     ]
   },
   {
+    "id": "devaraja",
+    "term": "Devaraja",
+    "definition": "Sanskrit für „Gott-König“; Bezeichnung für einen Königskult, den Jayavarman II. 802 im Khmer-Reich einführte. Er verband die Herrschaft des Königs eng mit einer Gottheit, meist Shiva, und wurde von einer Priesterfamilie gepflegt. Was der Kult genau bedeutete und ob der König selbst als Gott galt, ist in der Forschung umstritten.",
+    "epochId": "suedostasien",
+    "related": [
+      "jayavarman-ii-begruendet-khmer-reich",
+      "jayavarman-ii",
+      "angkor-wat"
+    ]
+  },
+  {
+    "id": "devsirme",
+    "term": "德米舍梅（征召男童）",
+    "definition": "为苏丹效力而定期征召基督徒男童，主要来自巴尔干的村庄。这些男童被改宗伊斯兰教，培养成近卫军或在宫中接受训练；有些人升任大维齐尔，建筑师希南也是以这种方式进入国家服务的。17世纪，这一征召失去重要性并被放弃。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "mimar-sinan",
+      "bau-der-sueleymaniye-moschee",
+      "osmanisches-reich"
+    ]
+  },
+  {
     "id": "dharma",
     "term": "达摩（法）",
     "definition": "印度宗教的核心概念，视语境而指宇宙秩序、宗教义务或佛陀的教法。对印度教徒而言，达摩指个人依其种姓和人生阶段应尽的义务；对佛教徒而言，则指佛陀宣示的真理。阿育王用它指称一种非暴力和福利的政策。",
@@ -213,6 +357,18 @@
     "related": [
       "arabische-eroberung-jerusalems",
       "kalifat-von-cordoba"
+    ]
+  },
+  {
+    "id": "digitalisierung",
+    "term": "数字化",
+    "definition": "将信息转化为数字数据，并在生活各领域越来越多地使用计算机、互联网和联网设备。自1990年代以来，它从根本上改变了工作、贸易、通信、教育和政治。其弊端包括监控、数据滥用以及对少数大公司的依赖。",
+    "epochId": "gegenwart",
+    "related": [
+      "world-wide-web-1991",
+      "vorstellung-des-iphone",
+      "tim-berners-lee",
+      "steve-jobs"
     ]
   },
   {
@@ -258,6 +414,16 @@
     ]
   },
   {
+    "id": "edda",
+    "term": "Edda",
+    "definition": "Name zweier isländischer Werke des 13. Jahrhunderts, die wichtigste Quelle für die nordische Mythologie. Die Prosa-Edda des Snorri Sturluson ist ein Lehrbuch der Dichtkunst, das die Göttersagen nacherzählt; die Lieder-Edda ist eine Sammlung älterer Götter- und Heldenlieder. Da beide von Christen aufgeschrieben wurden, ist umstritten, wie genau sie den vorchristlichen Glauben wiedergeben.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "snorri-schreibt-die-edda",
+      "snorri-sturluson"
+    ]
+  },
+  {
     "id": "eiserner-vorhang",
     "term": "铁幕",
     "definition": "指西方民主国家与苏联控制的东方集团之间封锁的边界，它把欧洲从波罗的海到亚得里亚海分隔开来。温斯顿·丘吉尔1946年的一次演讲使这一说法广为人知。铁丝网、地雷和射杀令阻止人们逃往西方；1989年，铁幕被打开。",
@@ -280,6 +446,17 @@
     ]
   },
   {
+    "id": "encomienda",
+    "term": "监护征赋制",
+    "definition": "西班牙殖民制度，王室将一群土著居民“托付”给某个西班牙人，他们须向其缴纳贡赋并提供劳役。作为回报，监护人应保护他们，并让他们接受基督教信仰的教导。实际上，监护征赋制导致了严重的剥削，在1542年《新法》之后逐渐被废止。",
+    "epochId": "lateinamerika",
+    "related": [
+      "gesetze-von-burgos",
+      "neue-gesetze-1542",
+      "bartolome-de-las-casas"
+    ]
+  },
+  {
     "id": "entspannungspolitik",
     "term": "缓和政策",
     "definition": "20世纪70年代的政策，通过谈判、条约和贸易缓和东西方之间的紧张，同时不放弃根本的对立。它包括维利·勃兰特的东方条约、限制战略武器的协议以及1975年的《赫尔辛基最后文件》。它缓解了分裂的德国的日常生活，并为冷战的和平终结铺平了道路。",
@@ -291,6 +468,17 @@
     ]
   },
   {
+    "id": "erdhuegelkulturen",
+    "term": "土丘文化（筑丘人）",
+    "definition": "北美洲土著文化的统称，他们数千年来为墓葬、神庙和仪式堆筑土丘和土堤。其中包括贫困角、阿迪纳和霍普韦尔文化，以及有卡霍基亚的密西西比文化。19世纪，白人美国人常常错误地把这些建筑归于一个消失的外来民族，而没有归功于土著民族的祖先。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "erdwerke-von-poverty-point",
+      "hopewell-kultur",
+      "cahokia-mississippi-kultur"
+    ]
+  },
+  {
     "id": "ermaechtigungsgesetz",
     "term": "《授权法》",
     "definition": "1933年3月23日帝国议会通过的《消除人民和帝国危难法》，允许希特勒政府不经议会、甚至违反宪法颁布法律。只有社会民主党投了反对票；共产党议员此前已被逮捕。该法是独裁统治的法律基础，并一再延期直到1945年。",
@@ -299,6 +487,18 @@
       "reichstagsbrand-und-ermaechtigungsgesetz",
       "machtuebernahme-nationalsozialisten",
       "adolf-hitler"
+    ]
+  },
+  {
+    "id": "europaeische-union",
+    "term": "欧洲联盟",
+    "definition": "欧洲国家的联盟，1993年随《马斯特里赫特条约》由欧洲共同体发展而来。其成员共享单一市场，以及议会、委员会和法院等共同机构，大部分还使用欧元。经过数次扩大和英国退出之后，欧盟现有27个成员国。",
+    "epochId": "gegenwart",
+    "related": [
+      "vertrag-von-maastricht",
+      "eu-osterweiterung-2004",
+      "brexit",
+      "einfuehrung-euro-bargeld"
     ]
   },
   {
@@ -343,6 +543,16 @@
     ]
   },
   {
+    "id": "geez",
+    "term": "吉兹语",
+    "definition": "埃塞俄比亚古老的闪米特语言和文字，自阿克苏姆时代起就有文献可考。吉兹语在中世纪不再作为口语使用，但直到今天仍是埃塞俄比亚东正教的礼拜语言；阿姆哈拉语和提格里尼亚语的字母由其文字发展而来。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "ezana-christianisierung-aksum",
+      "yekuno-amlak-salomonische-dynastie"
+    ]
+  },
+  {
     "id": "gegenreformation",
     "term": "反宗教改革",
     "definition": "天主教会自16世纪中叶起为夺回失地并更新自身教义所作的努力。特伦托公会议、耶稣会、宗教裁判所和禁书，以及天主教诸侯的支持，是其最重要的手段。",
@@ -372,6 +582,17 @@
       "montesquieu-geist-der-gesetze",
       "lockes-two-treatises",
       "john-locke"
+    ]
+  },
+  {
+    "id": "gewuerzinseln",
+    "term": "Gewürzinseln (Molukken)",
+    "definition": "Inselgruppe im Osten des heutigen Indonesien, auf der lange als einzigem Ort der Welt Gewürznelken wuchsen; Muskatnuss kam nur von den nahen Banda-Inseln. Der Wunsch, diesen Handel zu beherrschen, trieb Portugiesen, Spanier, Engländer und Niederländer nach Südostasien. Die Niederländische Ostindien-Kompanie erzwang im 17. Jahrhundert mit großer Gewalt ein Monopol.",
+    "epochId": "suedostasien",
+    "related": [
+      "portugiesen-erobern-malakka",
+      "voc-gruendet-batavia",
+      "jan-pieterszoon-coen"
     ]
   },
   {
@@ -409,6 +630,26 @@
     ]
   },
   {
+    "id": "goldene-horde",
+    "term": "金帐汗国",
+    "definition": "位于黑海和里海以北草原上的蒙古继承国，由拔都在约1242年蒙古入侵之后建立，都城为伏尔加河畔的萨莱。俄罗斯诸侯必须向其纳贡，并由大汗确认其统治权；这种依附关系到1480年结束。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "mongolensturm-in-osteuropa",
+      "dschingis-khan"
+    ]
+  },
+  {
+    "id": "goldener-stuhl",
+    "term": "金凳",
+    "definition": "阿散蒂帝国的神圣象征，据传统说法在奥塞·图图时期从天而降，体现着人民的灵魂。任何人都不得坐在上面；阿散蒂赫内的登基仪式在它之上举行。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "osei-tutu",
+      "osei-tutu-gruendet-asante"
+    ]
+  },
+  {
     "id": "gotik",
     "term": "哥特式",
     "definition": "盛期和晚期中世纪的建筑风格，1140年前后产生于法国，把尖拱、肋拱和扶壁结合成采光充足的高耸教堂。沙特尔、兰斯和科隆大教堂等是其最著名的作品；这一名称到文艺复兴时才出现，而且是一个贬义词。",
@@ -419,6 +660,48 @@
     ]
   },
   {
+    "id": "griechisches-feuer",
+    "term": "Griechisches Feuer",
+    "definition": "Eine Brandwaffe, die die byzantinische Flotte seit dem 7. Jahrhundert aus Rohren gegen feindliche Schiffe spritzte und die auch auf dem Wasser weiterbrannte. Ihre Zusammensetzung war ein streng gehütetes Staatsgeheimnis und ist bis heute nicht sicher bekannt; vermutlich enthielt sie Erdöl. Sie trug entscheidend zur Abwehr der arabischen Belagerungen Konstantinopels bei.",
+    "epochId": "byzanz",
+    "related": [
+      "einsatz-des-griechischen-feuers",
+      "belagerung-konstantinopels-717",
+      "leon-iii"
+    ]
+  },
+  {
+    "id": "griot",
+    "term": "格里奥",
+    "definition": "西非世袭的歌手、说书人和乐师，以口头方式传承家谱、赞歌和统治家族的历史。格里奥在宫廷中担任顾问，至今仍保存着松迪亚塔史诗等史诗。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "sundiata-keita",
+      "sundiata-schlacht-von-kirina"
+    ]
+  },
+  {
+    "id": "grosswesir",
+    "term": "大维齐尔",
+    "definition": "奥斯曼帝国的最高大臣和苏丹的代理人，掌管苏丹的印玺。他主持御前会议和行政事务，并常常在战场上统率军队。他的官邸“崇高之门”成了欧洲人对整个奥斯曼政府的称呼。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "belagerung-wiens-1683",
+      "tulpenzeit",
+      "midhat-pascha"
+    ]
+  },
+  {
+    "id": "hangeul",
+    "term": "谚文",
+    "definition": "朝鲜文字母，由世宗大王于1443年创制，1446年颁布。其字母表示单个音素，并组合成音节块，因此比汉字容易学得多。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "koenig-sejong-verkuendet-hangeul",
+      "sejong-der-grosse"
+    ]
+  },
+  {
     "id": "hanse",
     "term": "汉萨同盟",
     "definition": "低地德意志商人、后来是城市的联合体，12至17世纪主宰着北海和波罗的海的贸易。凭借在伦敦、布鲁日、卑尔根和诺夫哥罗德的商站、共同的会议，必要时还有战争，它维护着自己的贸易特权。",
@@ -426,6 +709,18 @@
     "related": [
       "erster-hansetag",
       "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "harem",
+    "term": "后宫",
+    "definition": "穆斯林家庭受保护的私人区域，尤指托普卡帕宫中苏丹家族的居住区。苏丹之母、他的妻妾、子女和女仆住在那里，女性也在那里接受教育。与欧洲人的幻想相反，后宫是一个政治权力中心，其中苏丹之母“瓦利德苏丹”施加着巨大的影响。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "bau-des-topkapi-palastes",
+      "huerrem-sultan",
+      "koesem-sultan",
+      "koesem-sultan-regentschaft"
     ]
   },
   {
@@ -528,6 +823,17 @@
     ]
   },
   {
+    "id": "ikone",
+    "term": "Ikone",
+    "definition": "Ein meist auf Holz gemaltes Bild Christi, Marias oder eines Heiligen, das in der orthodoxen Kirche verehrt wird. Nach orthodoxer Lehre gilt die Verehrung nicht dem Bild selbst, sondern dem Dargestellten; die Ikone wird als Fenster zur himmlischen Welt verstanden. Um die Berechtigung dieser Verehrung tobte im 8. und 9. Jahrhundert der Bilderstreit.",
+    "epochId": "byzanz",
+    "related": [
+      "beginn-des-bilderstreits",
+      "zweites-konzil-von-nicaea",
+      "ende-des-bilderstreits"
+    ]
+  },
+  {
     "id": "imperialismus",
     "term": "帝国主义",
     "definition": "大国谋求把统治扩展到其他国家和民族的倾向，无论通过殖民地、经济依附还是军事压力。约1880年至1914年的帝国主义时代使几乎整个非洲和亚洲大部分地区处于欧洲控制之下，并加剧了列强之间的对抗。",
@@ -560,6 +866,18 @@
     ]
   },
   {
+    "id": "islamismus",
+    "term": "伊斯兰主义",
+    "definition": "力图依据自己对伊斯兰教和沙里亚的解释来规范国家和社会的政治运动。它们既包括参加选举的政党，也包括基地组织或所谓“伊斯兰国”这样的恐怖组织。该术语指的是一种政治意识形态，而不是伊斯兰教这一宗教，绝大多数穆斯林都反对暴力。",
+    "epochId": "gegenwart",
+    "related": [
+      "anschlaege-11-september",
+      "osama-bin-laden",
+      "krieg-in-afghanistan",
+      "iranische-revolution-1979"
+    ]
+  },
+  {
     "id": "jakobiner",
     "term": "雅各宾派",
     "definition": "法国大革命中最有影响的政治俱乐部的成员，因其在巴黎一座旧多明我会修道院的聚会地点而得名。在罗伯斯庇尔领导下，他们成为激进的政党，1793年至1794年以恐怖手段保卫共和国，对抗国内外敌人。在欧洲，这个词长期被用作对激进民主思想拥护者的辱骂。",
@@ -567,6 +885,39 @@
     "related": [
       "maximilien-de-robespierre",
       "hinrichtung-ludwigs-xvi-und-schreckensherrschaft"
+    ]
+  },
+  {
+    "id": "janitscharen",
+    "term": "近卫军团",
+    "definition": "奥斯曼苏丹的精锐步兵，其名称意为“新军”。他们产生于14世纪，通过德米舍梅（征召男童）招募，定期领取薪饷，很早就配备火器，因而成为欧洲第一支常备步兵。后来近卫军团变成了一个强大的、敌视改革的集团，直到马哈茂德二世于1826年将其解散。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "aufloesung-der-janitscharen",
+      "mahmud-ii",
+      "nizam-i-cedid",
+      "schlacht-bei-mohacs"
+    ]
+  },
+  {
+    "id": "jarl",
+    "term": "Jarl",
+    "definition": "Ein hoher skandinavischer Adelstitel, der einen mächtigen Häuptling oder einen Statthalter des Königs bezeichnete. Die Jarle von Lade beherrschten im 10. Jahrhundert weite Teile Norwegens, und die Jarle von Orkney regierten die Inseln nördlich von Schottland. Der englische Adelstitel „Earl“ ist mit dem Wort verwandt und übernahm unter Knut dem Großen dessen Bedeutung.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "schlacht-bei-svolder",
+      "olav-tryggvason",
+      "knut-der-grosse"
+    ]
+  },
+  {
+    "id": "jesuitenreduktion",
+    "term": "耶稣会传教区",
+    "definition": "由耶稣会士管理的传教村庄，土著居民，尤其是瓜拉尼人被安置于此，接受基督教化并免受奴隶掠夺者和殖民者的侵害。传教区设有教堂、作坊和公共田地，部分实行自治。1767年耶稣会士被驱逐后，它们衰落了。",
+    "epochId": "lateinamerika",
+    "related": [
+      "jesuitenreduktionen-in-paraguay",
+      "vertreibung-der-jesuiten-1767"
     ]
   },
   {
@@ -578,6 +929,17 @@
       "neolithische-revolution",
       "catalhoeyuek",
       "jericho-frueheste-stadtsiedlung"
+    ]
+  },
+  {
+    "id": "jungtuerken",
+    "term": "青年土耳其党人",
+    "definition": "由军官、官员和知识分子组成的运动，自1890年代起反对阿卜杜勒哈米德二世的专制统治，争取宪法。其最重要的组织统一与进步委员会于1908年迫使恢复宪法，并自1913年起主导国家。其政府把帝国带入第一次世界大战，并对亚美尼亚种族灭绝负有责任。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "jungtuerkische-revolution",
+      "balkankriege",
+      "voelkermord-an-den-armeniern"
     ]
   },
   {
@@ -605,6 +967,28 @@
     ]
   },
   {
+    "id": "kapitulationen",
+    "term": "特许条款",
+    "definition": "苏丹授予欧洲国家的贸易特权，例如1569年授予法国、1580年授予英国。它们允许外国商人享有低关税、宗教自由和本国领事的司法管辖。19世纪，它们成了欧洲施加影响的工具；奥斯曼帝国于1914年单方面废除了它们。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "sueleyman-der-praechtige",
+      "osmanischer-staatsbankrott",
+      "krimkrieg"
+    ]
+  },
+  {
+    "id": "katipunan",
+    "term": "Katipunan",
+    "definition": "Geheimbund, den Andrés Bonifacio 1892 in Manila gründete, um die Unabhängigkeit der Philippinen von Spanien mit Waffengewalt zu erkämpfen. Sein Name ist eine Kurzform für eine Tagalog-Bezeichnung, die etwa „Höchste und ehrwürdigste Gesellschaft der Kinder des Volkes“ bedeutet. Mit seiner Entdeckung im August 1896 begann die Philippinische Revolution.",
+    "epochId": "suedostasien",
+    "related": [
+      "philippinische-revolution",
+      "jose-rizal",
+      "emilio-aguinaldo"
+    ]
+  },
+  {
     "id": "keilschrift",
     "term": "楔形文字",
     "definition": "已知最古老的文字，由苏美尔人约在公元前3200年发展而成。符号用芦苇笔以楔形压入湿泥板，起初表示事物，后来也表示音节。楔形文字被用于近东的许多语言，使用了三千多年。",
@@ -613,6 +997,17 @@
       "sumerische-keilschrift",
       "codex-hammurapi",
       "gilgamesch-epos"
+    ]
+  },
+  {
+    "id": "klimawandel",
+    "term": "气候变化",
+    "definition": "由人类活动引起的地球变暖，主要源于燃烧煤、石油和天然气所释放的二氧化碳和其他温室气体。其后果是海平面上升，热浪、干旱和强降雨增多。通过2015年的《巴黎协定》，各国旨在把升温控制在远低于两度的水平。",
+    "epochId": "gegenwart",
+    "related": [
+      "pariser-klimaabkommen",
+      "greta-thunberg",
+      "wangari-maathai"
     ]
   },
   {
@@ -670,6 +1065,29 @@
     ]
   },
   {
+    "id": "kosaken",
+    "term": "Kosaken",
+    "definition": "Freie, militärisch organisierte Gemeinschaften in den Steppen der heutigen Ukraine und Südrusslands, die seit dem 15. Jahrhundert aus geflohenen Bauern und Abenteurern entstanden. Sie wählten ihre Anführer, die Atamane oder Hetmane, selbst und dienten polnischen Königen und Zaren als Grenztruppen. Zugleich führten sie große Aufstände an und trugen die Eroberung Sibiriens.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "chmelnyzkyj-aufstand",
+      "bohdan-chmelnyzkyj",
+      "pugatschow-aufstand",
+      "jermak-beginnt-die-eroberung-sibiriens"
+    ]
+  },
+  {
+    "id": "kreolen",
+    "term": "克里奥尔人",
+    "definition": "西属美洲指在殖民地出生的欧洲人后裔。他们往往拥有土地、矿山和商行，但高级官职却被出生于西班牙的人占据。西蒙·玻利瓦尔和何塞·德·圣马丁等克里奥尔人领导了独立运动。",
+    "epochId": "lateinamerika",
+    "related": [
+      "simon-bolivar",
+      "jose-de-san-martin",
+      "mairevolution-buenos-aires"
+    ]
+  },
+  {
     "id": "kreuzzug",
     "term": "十字军东征",
     "definition": "由教皇宣布的军事远征，许诺参加者罪得赦免，主要针对圣地的穆斯林统治者。1096年至1291年间，七支大规模的十字军向东进发；后来在欧洲对异端和异教徒的战事也被冠以此名。",
@@ -681,6 +1099,26 @@
     ]
   },
   {
+    "id": "kultursystem",
+    "term": "Kultursystem",
+    "definition": "Niederländisch „cultuurstelsel“; das 1830 auf Java eingeführte Zwangsanbausystem. Die Dörfer mussten einen Teil ihres Landes oder ihrer Arbeitskraft für Exportpflanzen wie Kaffee, Zucker und Indigo einsetzen, die der Kolonialstaat zu niedrigen Preisen aufkaufte. Es brachte den Niederlanden hohe Gewinne, führte auf Java aber zu Not und Hungersnöten und wurde ab 1870 schrittweise abgeschafft.",
+    "epochId": "suedostasien",
+    "related": [
+      "java-krieg-und-kultursystem",
+      "industrialisierung-imperialismus"
+    ]
+  },
+  {
+    "id": "kuenstliche-intelligenz",
+    "term": "人工智能",
+    "definition": "能够解决以往需要人类思维才能完成的任务的计算机系统，例如理解语言、识别图像或准备决策。现代方法从大量数据中学习，而不是遵循固定编写的规则。自2022年以来，ChatGPT等生成式程序已经普及，并引发了关于工作、版权和管控的讨论。",
+    "epochId": "gegenwart",
+    "related": [
+      "chatgpt-und-generative-ki",
+      "alan-turing"
+    ]
+  },
+  {
     "id": "kupferzeit",
     "term": "铜石并用时代",
     "definition": "新石器时代与青铜时代之间的过渡时期，人们冶炼铜矿并加工成斧、针和饰物，但石头仍是最重要的材料。在欧洲，大致为公元前4500年至前2200年；冰人奥兹就生活在这一时代。",
@@ -689,6 +1127,51 @@
       "beginn-der-kupferzeit",
       "oetzi",
       "oetzi-stirbt-in-den-alpen"
+    ]
+  },
+  {
+    "id": "kyrillische-schrift",
+    "term": "Kyrillische Schrift",
+    "definition": "Ein aus dem griechischen Alphabet entwickeltes Schriftsystem für slawische Sprachen, das im späten 9. und frühen 10. Jahrhundert unter den Schülern Kyrills und Methods im Bulgarischen Reich entstand und nach Kyrill benannt ist. Kyrill selbst hatte zuvor die glagolitische Schrift geschaffen. Heute schreiben unter anderem Russisch, Ukrainisch, Belarussisch, Bulgarisch, Serbisch und Mazedonisch kyrillisch.",
+    "epochId": "byzanz",
+    "related": [
+      "kyrill",
+      "method",
+      "mission-von-kyrill-und-method",
+      "taufe-boris-von-bulgarien"
+    ]
+  },
+  {
+    "id": "lange-zaehlung",
+    "term": "长纪历",
+    "definition": "一种中美洲的计时系统，从公元前3114年的一个神话起点开始计算天数。它使用1、20、360、7200和144000天的单位，使数百年间精确到日的纪年成为可能。玛雅人约从3世纪到10世纪初在石碑上使用它。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "stele-2-von-chiapa-de-corzo",
+      "stele-29-von-tikal",
+      "kollaps-der-klassischen-maya"
+    ]
+  },
+  {
+    "id": "langschiff",
+    "term": "Langschiff",
+    "definition": "Das schlanke Kriegsschiff der Wikinger, in Klinkerbauweise aus sich überlappenden Planken gebaut, mit Kiel, Rahsegel und Ruderbänken. Es war hochseetüchtig und hatte so wenig Tiefgang, dass es weit in Flüsse vordringen und an flachen Stränden landen konnte. Funde wie die Schiffe von Gokstad und Skuldelev zeigen Längen von etwa 20 bis 30 Metern.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "ueberfall-auf-lindisfarne",
+      "wikinger-pluendern-paris",
+      "schlacht-bei-svolder"
+    ]
+  },
+  {
+    "id": "lapita-kultur",
+    "term": "Lapita-Kultur",
+    "definition": "Archäologische Kultur, benannt nach einem Fundort in Neukaledonien, die in der zweiten Hälfte des 2. Jahrtausends v. Chr. im Bismarck-Archipel auftrat. Kennzeichen ist Keramik mit fein gestempelten geometrischen Mustern. Ihre Träger sprachen austronesische Sprachen, besiedelten innerhalb weniger Jahrhunderte die Inseln bis Tonga und Samoa und gelten als Vorfahren der Polynesier.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "lapita-besiedlung-pazifik",
+      "lapita-erreicht-tonga-und-samoa",
+      "besiedlung-ostpolynesiens"
     ]
   },
   {
@@ -724,6 +1207,18 @@
     ]
   },
   {
+    "id": "leibeigenschaft",
+    "term": "Leibeigenschaft",
+    "definition": "Die rechtliche Bindung von Bauern an den Boden und an einen Herrn, dem sie Arbeit und Abgaben schuldeten. In Russland wurde sie seit dem späten 16. Jahrhundert verschärft und 1649 erblich; Leibeigene konnten verkauft und zum Militär abgegeben werden. Alexander II. hob sie 1861 auf, in den Ostseeprovinzen war sie schon zwischen 1816 und 1819 beendet worden.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "aufhebung-der-leibeigenschaft-in-russland",
+      "alexander-ii",
+      "pugatschow-aufstand",
+      "taras-schewtschenko"
+    ]
+  },
+  {
     "id": "liberalismus",
     "term": "自由主义",
     "definition": "一种政治思潮，把个人相对于国家的自由置于中心，要求宪法、分权、基本权利、新闻自由和自由经济。自由主义产生于启蒙运动以及美国和法国的革命，由中产阶级承载。19世纪，自由派在宪法问题上与复辟势力较量，在扩大选举权问题上则与民主派较量。",
@@ -756,6 +1251,28 @@
     ]
   },
   {
+    "id": "mana",
+    "term": "Mana",
+    "definition": "Polynesischer Begriff für eine übernatürliche Kraft, Autorität und Ansehen, die Menschen, Ahnen, Orte und Gegenstände besitzen können. Häuptlinge und Könige leiteten ihr Mana von göttlichen Vorfahren ab; Erfolge im Krieg vermehrten es, Niederlagen oder Verstöße gegen das Tapu konnten es mindern. Der Begriff spielt in den Kulturen Polynesiens bis heute eine große Rolle.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "tui-tonga-reich",
+      "moai-auf-rapa-nui",
+      "george-tupou-i"
+    ]
+  },
+  {
+    "id": "mandala-staat",
+    "term": "Mandala (Herrschaftsordnung)",
+    "definition": "Modell, mit dem Historiker die frühen Reiche Südostasiens beschreiben: Ein Machtzentrum war von Kreisen abhängiger Fürsten und Häfen umgeben, deren Treue sich nach Stärke und Ansehen des Herrschers richtete. Grenzen waren unscharf, und dieselben Gebiete konnten mehreren Zentren zugleich Tribut leisten. Der Begriff erklärt, warum Reiche wie Srivijaya oder Majapahit rasch wachsen und schrumpfen konnten.",
+    "epochId": "suedostasien",
+    "related": [
+      "aufstieg-von-srivijaya",
+      "gruendung-von-majapahit",
+      "gruendung-von-champa"
+    ]
+  },
+  {
     "id": "mandat-des-himmels",
     "term": "天命",
     "definition": "中国的一种观念，认为统治者只要公正施政，就从上天获得权力。歉收、灾难和起义被视为天命被收回的征兆，并为推翻王朝提供了正当理由。这一观念解释了中国王朝兴衰更替的循环。",
@@ -764,6 +1281,27 @@
       "qin-shihuangdi-einigt-china",
       "wu-zetian-wird-kaiserin",
       "tang-dynastie"
+    ]
+  },
+  {
+    "id": "mansa",
+    "term": "曼萨",
+    "definition": "马里帝国统治者在马林凯语中的称号，大致可译为国王或皇帝。曼萨位于由各省和纳贡诸侯组成的联盟之首；这一称号最著名的持有者是曼萨·穆萨。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "mansa-musa",
+      "sundiata-keita"
+    ]
+  },
+  {
+    "id": "mansab-system",
+    "term": "曼萨布制度",
+    "definition": "阿克巴在莫卧儿帝国推行的官员品级制度。每位曼萨布达尔获得一个品级，决定其薪俸以及须为统治者提供的骑兵数量；品级不得世袭，并把穆斯林和印度教的拉其普特人都与宫廷联系在一起。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "akbar",
+      "akbar-mogulreich",
+      "herrschaft-aurangzebs"
     ]
   },
   {
@@ -784,6 +1322,81 @@
     "related": [
       "ludwig-xiv",
       "hof-nach-versailles"
+    ]
+  },
+  {
+    "id": "mesoamerika",
+    "term": "中美洲",
+    "definition": "包括墨西哥南部和中部、危地马拉、伯利兹以及洪都拉斯和萨尔瓦多部分地区的文化区域。尽管语言各异，其民族共享玉米种植、金字塔神庙、球赛、260天的仪式历法和许多神祇。其中包括奥尔梅克人、萨波特克人、玛雅人、特奥蒂瓦坎、托尔特克人和阿兹特克人。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "olmeken-in-mesoamerika",
+      "teotihuacan-metropole",
+      "aztekischer-dreibund",
+      "amerika-vorkolumbisch"
+    ]
+  },
+  {
+    "id": "mesoamerikanisches-ballspiel",
+    "term": "中美洲球赛",
+    "definition": "一种使用沉重橡胶球的团体游戏，通常只能用臀部、髋部和大腿击球。三千多年来，它在整个中美洲的两侧有墙的长形球场上进行。这种游戏既是体育运动，也是宗教仪式，有时是以献祭告终的政治典礼的一部分。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "aufstieg-von-chichen-itza",
+      "gruendung-von-monte-alban",
+      "olmeken-in-mesoamerika"
+    ]
+  },
+  {
+    "id": "mestizen",
+    "term": "梅斯蒂索人",
+    "definition": "殖民时期拉丁美洲指具有欧洲和土著血统的人。殖民当局按这类出身范畴对人口分类，这决定着权利、税收和地位。在19和20世纪，墨西哥等国把混血宣布为民族认同的一部分。",
+    "epochId": "lateinamerika",
+    "related": [
+      "malinche",
+      "aufstand-tupac-amaru-ii"
+    ]
+  },
+  {
+    "id": "mfecane",
+    "term": "姆菲卡尼",
+    "definition": "指约1815年至1840年间南部非洲的战争、逃亡和建国，在恩古尼语中这个词的意思大致是“压碎”。其原因和范围在历史学家中存在争议。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "mfecane-im-suedlichen-afrika",
+      "shaka",
+      "shaka-gruendet-zulu-reich"
+    ]
+  },
+  {
+    "id": "millet",
+    "term": "米勒特",
+    "definition": "奥斯曼帝国对希腊东正教徒、亚美尼亚人和犹太人等得到承认的宗教社群的称呼。在其宗教首领领导下，他们在很大程度上自行管理婚姻、继承、教育和福利，并对苏丹负责赋税和秩序。米勒特秩序主要在19世纪被塑造成固定的制度。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "fall-konstantinopels",
+      "mehmed-ii",
+      "tanzimat-edikt-von-guelhane"
+    ]
+  },
+  {
+    "id": "mita",
+    "term": "米塔制",
+    "definition": "原为印加帝国的劳役，被西班牙人变成强制劳动制度。土著村庄必须轮流派出一定比例的男子前往波托西等矿山或从事其他劳动。米塔制是殖民时代最令人痛恨的负担之一，直到独立过程中才被废除。",
+    "epochId": "lateinamerika",
+    "related": [
+      "silberberg-von-potosi",
+      "aufstand-tupac-amaru-ii"
+    ]
+  },
+  {
+    "id": "moai",
+    "term": "Moai",
+    "definition": "Die großen Steinfiguren von Rapa Nui (Osterinsel), von denen fast 900 bekannt sind. Sie stellen Ahnen dar und standen meist auf zeremoniellen Plattformen, den Ahu, mit dem Blick ins Inselinnere. Die meisten wurden aus Tuffstein im Krater Rano Raraku gehauen; einige trugen Kopfaufsätze aus rotem Schlackenstein, die Pukao.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "moai-auf-rapa-nui",
+      "besiedlung-ostpolynesiens"
     ]
   },
   {
@@ -841,6 +1454,28 @@
     ]
   },
   {
+    "id": "oba",
+    "term": "奥巴",
+    "definition": "贝宁王国和若干约鲁巴国家国王的称号。贝宁的奥巴被视为神圣的统治者，对土地和人民拥有权威，其祖先以黄铜纪念头像和浮雕板得到尊崇。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "oba-ewuare-erneuert-benin",
+      "koepfe-von-ife"
+    ]
+  },
+  {
+    "id": "orthodoxe-kirche",
+    "term": "Orthodoxe Kirche",
+    "definition": "Die aus der Reichskirche von Byzanz hervorgegangene Gemeinschaft östlicher Kirchen; „orthodox“ bedeutet „rechtgläubig“. Sie besteht aus selbstständigen Landeskirchen, unter denen der Patriarch von Konstantinopel einen Ehrenvorrang hat, und erkennt den Papst nicht als Oberhaupt an. Kennzeichen sind die Liturgie in der Landessprache, die Verehrung von Ikonen und ein starkes Mönchtum.",
+    "epochId": "byzanz",
+    "related": [
+      "morgenlaendisches-schisma",
+      "ende-des-bilderstreits",
+      "christianisierung-der-kiewer-rus",
+      "mission-von-kyrill-und-method"
+    ]
+  },
+  {
     "id": "ostrakismos",
     "term": "陶片放逐法",
     "definition": "雅典民主的一种程序，每年一次，公民可以在陶片上刻下他们认为危险的政治家的名字。得票最多者——前提是至少投出了6000片陶片——必须离开雅典十年，但保留财产和公民权。其目的是防止新的僭主政治。",
@@ -848,6 +1483,42 @@
     "related": [
       "reformen-des-kleisthenes",
       "perikles"
+    ]
+  },
+  {
+    "id": "pa-festung",
+    "term": "Pā",
+    "definition": "Befestigte Siedlung der Māori, meist auf Hügeln, Bergspornen oder Landzungen gelegen und mit Gräben, Erdwällen und Palisaden geschützt. Viele Tausend Pā sind archäologisch nachgewiesen; sie sicherten Dörfer und Vorräte in Zeiten von Konflikten. In den Neuseelandkriegen bauten Māori Pā mit Schützengräben und Unterständen, die dem britischen Artilleriebeschuss erstaunlich gut standhielten.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "besiedlung-neuseelands",
+      "musketenkriege",
+      "neuseelandkriege",
+      "hongi-hika"
+    ]
+  },
+  {
+    "id": "pandemie",
+    "term": "大流行病",
+    "definition": "跨越国家和大陆传播、影响极多人口的传染病。著名的例子有14世纪的黑死病、1918至1920年的西班牙流感以及2020年起的新冠肺炎大流行。全球旅行会加速其传播，而疫苗和卫生措施则能遏制它。",
+    "epochId": "gegenwart",
+    "related": [
+      "covid-19-pandemie",
+      "ebola-epidemie-westafrika",
+      "spanische-grippe",
+      "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "pax-mongolica",
+    "term": "蒙古和平",
+    "definition": "指13、14世纪蒙古帝国统治欧亚大陆大部分地区、旅行者和商人可以相对安全地从中国前往东欧的时期。驿站、统一的统治和通行证促进了货物、知识和宗教的交流，也促进了鼠疫的传播。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "dschingis-khan",
+      "kublai-khan",
+      "marco-polos-reise-nach-china",
+      "kublai-khan-gruendet-die-yuan-dynastie"
     ]
   },
   {
@@ -874,6 +1545,17 @@
     ]
   },
   {
+    "id": "populismus",
+    "term": "民粹主义",
+    "definition": "一种政治风格，把一个所谓统一的“真正的人民”与腐败的精英对立起来，并声称只有自己代表人民的意志。民粹主义者既有右翼，也有左翼；如今他们常常反对移民、全球化和国际机构。批评者认为它危及少数群体的权利、权力分立和独立媒体。",
+    "epochId": "gegenwart",
+    "related": [
+      "brexit",
+      "fluchtbewegung-nach-europa-2015",
+      "wladimir-putin"
+    ]
+  },
+  {
     "id": "prinzipat",
     "term": "元首制",
     "definition": "奥古斯都于公元前27年确立的统治形式，其中皇帝以“元首”（princeps，即同侪中的第一人）的身份出现，并在形式上保留元老院和执政官等共和国机构。实际上，军队、行省和财政的权力掌握在皇帝手中。元首制一直延续到3世纪危机。",
@@ -882,6 +1564,27 @@
       "augustus",
       "augustus-begruendet-den-prinzipat",
       "schlacht-bei-actium"
+    ]
+  },
+  {
+    "id": "quilombo",
+    "term": "基伦博",
+    "definition": "巴西指逃亡奴隶的聚居地，常位于难以到达的森林或山区。基伦博从小营地到帕尔马雷斯这样拥有自己的农业和防御的大型社区不等。西属美洲类似的社区称为“帕伦克”。",
+    "epochId": "lateinamerika",
+    "related": [
+      "quilombo-dos-palmares",
+      "zumbi-dos-palmares"
+    ]
+  },
+  {
+    "id": "quipu",
+    "term": "奇普",
+    "definition": "安第斯山区用棉或羊毛绳打结以记录信息的工具。许多下垂的细绳挂在一根主绳上，其绳结以十进制表示居民数、赋税和库存等数字。称为“奇普卡马约”的专职人员读取和制作奇普；它们是否也记录语言，至今尚无定论。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "pachacutec-und-das-inka-reich",
+      "wari-reich",
+      "qhapaq-nan-strassennetz-der-inka"
     ]
   },
   {
@@ -941,6 +1644,28 @@
     ]
   },
   {
+    "id": "runen",
+    "term": "Runen",
+    "definition": "Die Schriftzeichen der germanischen Völker, die vor allem in Stein, Holz und Metall geritzt wurden. Die ältere Runenreihe, nach ihren ersten Zeichen Futhark genannt, hatte 24 Zeichen; in der Wikingerzeit war in Skandinavien eine jüngere Reihe mit 16 Zeichen in Gebrauch. Die meisten der erhaltenen Runensteine stehen in Schweden und erinnern an Verstorbene oder an Fahrten in die Fremde.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "runenstein-von-jelling",
+      "harald-blauzahn",
+      "ostroute-nach-byzanz-und-bagdad"
+    ]
+  },
+  {
+    "id": "saga",
+    "term": "Saga",
+    "definition": "Eine Prosaerzählung in altnordischer Sprache, wie sie vor allem auf Island im 13. und 14. Jahrhundert niedergeschrieben wurde. Die Isländersagas erzählen von Familien der Siedlungszeit, ihren Fehden und Fahrten, die Königssagas von den Herrschern Norwegens. Sie beruhen auf mündlicher Überlieferung, entstanden aber Generationen nach den Ereignissen und sind deshalb nur mit Vorsicht als Geschichtsquelle zu nutzen.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "leif-eriksson-erreicht-vinland",
+      "erik-der-rote-besiedelt-groenland",
+      "snorri-sturluson"
+    ]
+  },
+  {
     "id": "sakoku",
     "term": "锁国",
     "definition": "日语中指1639年至1854年德川幕府时期的闭关政策。外国人不得入境，日本人不得出国，对外贸易仅限于长崎的中国商人和荷兰商人；日本经历了两个世纪的和平，所受欧洲影响十分有限（西方学问仍通过荷兰人以“兰学”的形式传入）。",
@@ -948,6 +1673,17 @@
     "related": [
       "abschliessung-japans",
       "tokugawa-ieyasu"
+    ]
+  },
+  {
+    "id": "samurai",
+    "term": "武士",
+    "definition": "日本武士阶层的成员，最初作为武装家臣侍奉领主。在江户时代，他们构成四个身份等级中最高的一级，是唯一可以佩刀的人，在和平时期常常担任官吏；其特权于1876年被废除。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "oda-nobunaga",
+      "toyotomi-hideyoshi",
+      "schlacht-von-sekigahara"
     ]
   },
   {
@@ -982,6 +1718,17 @@
     ]
   },
   {
+    "id": "semstwo",
+    "term": "Semstwo",
+    "definition": "Gewähltes Organ der ländlichen Selbstverwaltung, das Alexander II. 1864 auf Ebene der Gouvernements und Kreise einführte. Die Semstwa unterhielten Schulen, Krankenhäuser und Straßen und beschäftigten Ärzte, Lehrer und Agronomen. Sie wurden zu einem Sammelbecken liberaler Kräfte, die eine Verfassung forderten.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "aufhebung-der-leibeigenschaft-in-russland",
+      "alexander-ii",
+      "revolution-von-1905"
+    ]
+  },
+  {
     "id": "senat",
     "term": "元老院",
     "definition": "由罗马前任官员（最初是长老）组成的议事会，成员约300至600人，终身任命。共和国时期，元老院决定外交、财政和行省管理，是贵族权力的中心。帝国时期它失去影响力，但作为荣誉性的集会一直存续到古代晚期。",
@@ -993,6 +1740,28 @@
     ]
   },
   {
+    "id": "shogunat",
+    "term": "幕府",
+    "definition": "日本以征夷大将军为首的军事政权，将军由天皇任命为最高统帅。从1192年到1868年，镰仓幕府、室町幕府和江户幕府先后执政，而京都的天皇主要履行宗教和礼仪职责。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "minamoto-no-yoritomo-wird-shogun",
+      "schlacht-von-sekigahara",
+      "tokugawa-ieyasu"
+    ]
+  },
+  {
+    "id": "solidus",
+    "term": "Solidus",
+    "definition": "Die Goldmünze, die Konstantin der Große Anfang des 4. Jahrhunderts einführte; 72 Stück wurden aus einem römischen Pfund Gold geprägt. Im griechischen Osten Nomisma genannt, blieb sie bis ins 11. Jahrhundert wertbeständig und war im ganzen Mittelmeerraum ein begehrtes Zahlungsmittel. Nach einer Zeit der Verschlechterung ersetzte Alexios I. sie 1092 durch das Hyperpyron.",
+    "epochId": "byzanz",
+    "related": [
+      "konstantin-der-grosse",
+      "alexios-i-komnenos",
+      "gruendung-konstantinopels"
+    ]
+  },
+  {
     "id": "soziale-frage",
     "term": "社会问题",
     "definition": "指19世纪工人阶级的困境：低工资、长工时、童工、恶劣的住房以及缺乏疾病和养老保障。教会、企业家、社会主义者和国家寻求不同的答案，从企业住宅、工会到社会保险。",
@@ -1001,6 +1770,17 @@
       "weberaufstand-schlesien",
       "bismarcks-sozialgesetze",
       "kommunistisches-manifest"
+    ]
+  },
+  {
+    "id": "soziale-medien",
+    "term": "社交媒体",
+    "definition": "用户自己发布、分享和评论文字、图片和视频的互联网平台。它们把数十亿人联系在一起，使快速动员成为可能，例如在阿拉伯之春或“我也是”（MeToo）运动中。与此同时，仇恨言论和虚假信息也通过它们传播，其算法被认为应对社会的两极分化负部分责任。",
+    "epochId": "gegenwart",
+    "related": [
+      "arabischer-fruehling",
+      "metoo-bewegung",
+      "greta-thunberg"
     ]
   },
   {
@@ -1079,6 +1859,107 @@
     ]
   },
   {
+    "id": "swahili",
+    "term": "斯瓦希里",
+    "definition": "东非海岸索马里与莫桑比克之间商业城市的班图语言和文化。它在与阿拉伯、波斯和印度商人的交往中，从非洲本土根基发展而来，深受伊斯兰教影响，吸收了许多阿拉伯语借词。斯瓦希里语如今是非洲使用最广泛的语言之一。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "bluete-von-kilwa",
+      "sansibar-wird-sultanssitz",
+      "grosssimbabwe"
+    ]
+  },
+  {
+    "id": "szlachta",
+    "term": "Szlachta",
+    "definition": "Der Adel Polen-Litauens, der mit nach Schätzungen sechs bis zehn Prozent der Bevölkerung ungewöhnlich zahlreich war und vom reichen Magnaten bis zum landlosen Kleinadligen reichte. Seine Mitglieder galten als rechtlich gleich, wählten seit 1573 den König und beherrschten den Reichstag. Ihre „goldene Freiheit“ schützte vor königlicher Willkür, schwächte aber den Staat.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "union-von-lublin",
+      "verfassung-vom-3-mai-1791",
+      "teilungen-polens"
+    ]
+  },
+  {
+    "id": "tapu",
+    "term": "Tapu",
+    "definition": "Polynesischer Begriff für das Heilige und Verbotene, von dem das Wort „Tabu“ stammt; auf Hawaiʻi lautet er „kapu“. Tapu lag auf Personen, Orten und Dingen, die mit Göttern oder Mana verbunden waren, und wer es verletzte, musste mit Unglück oder Strafe rechnen. James Cook brachte das Wort aus Tonga nach Europa.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "aufhebung-des-kapu",
+      "kaahumanu",
+      "kamehameha-i"
+    ]
+  },
+  {
+    "id": "terra-nullius",
+    "term": "Terra nullius",
+    "definition": "Lateinisch für „Niemandsland“: die Rechtsvorstellung, ein Gebiet gehöre niemandem und dürfe deshalb ohne Vertrag in Besitz genommen werden. Der Begriff kam erst später in Gebrauch, beschreibt aber die Grundlage der britischen Inbesitznahme Australiens ab 1788, bei der das Land der Aborigines ohne Abkommen und Entschädigung der Krone zugeschlagen wurde. 1992 verwarf der Oberste Gerichtshof Australiens im Mabo-Urteil diese Annahme und erkannte erstmals Landrechte der Ureinwohner an.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "ankunft-der-first-fleet",
+      "cooks-pazifikreisen",
+      "arthur-phillip"
+    ]
+  },
+  {
+    "id": "themenverfassung",
+    "term": "Themen",
+    "definition": "Die Militärbezirke, in die das Byzantinische Reich seit dem 7. Jahrhundert gegliedert wurde. An ihrer Spitze stand ein Stratege, der zugleich militärische und zivile Gewalt ausübte; die Soldaten stammten oft aus dem jeweiligen Bezirk. Wann und wie diese Ordnung entstand, ob unter Herakleios oder schrittweise danach, ist in der Forschung umstritten.",
+    "epochId": "byzanz",
+    "related": [
+      "herakleios",
+      "schlacht-am-jarmuk",
+      "makedonische-dynastie"
+    ]
+  },
+  {
+    "id": "theravada",
+    "term": "Theravada-Buddhismus",
+    "definition": "„Lehre der Älteren“; die Richtung des Buddhismus, die sich auf den Pali-Kanon stützt und das Mönchtum in den Mittelpunkt stellt. Sie gelangte vor allem aus Sri Lanka nach Südostasien und wurde ab dem 11. Jahrhundert in Pagan, später in Sukhothai, Ayutthaya, Laos und Kambodscha vorherrschend. Bis heute ist sie die wichtigste Religion in Myanmar, Thailand, Laos und Kambodscha.",
+    "epochId": "suedostasien",
+    "related": [
+      "anawrahta-eint-pagan",
+      "gruendung-von-sukhothai",
+      "anawrahta",
+      "gruendung-von-ayutthaya"
+    ]
+  },
+  {
+    "id": "thing",
+    "term": "Thing",
+    "definition": "Die Versammlung der freien Männer in den germanischen und skandinavischen Gesellschaften, auf der Recht gesprochen, Streit geschlichtet und über gemeinsame Angelegenheiten beschlossen wurde. Es gab örtliche Things und große Landesversammlungen wie das isländische Althing oder das norwegische Gulating. Das Wort lebt in Parlamentsnamen wie Storting, Folketing und Alþingi weiter.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "gruendung-des-althing",
+      "island-nimmt-das-christentum-an",
+      "island-unterwirft-sich-norwegen"
+    ]
+  },
+  {
+    "id": "timar",
+    "term": "蒂马尔",
+    "definition": "一种封赏，骑兵（西帕希）获得若干村庄的税收，作为回报须携带装备和随从出征。土地仍属国家所有，不得世袭。自16世纪晚期起，蒂马尔制失去重要性，日益被包税制取代。",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "osmanen-fassen-fuss-in-europa",
+      "schlacht-auf-dem-amselfeld",
+      "tanzimat-edikt-von-guelhane"
+    ]
+  },
+  {
+    "id": "tlatoani",
+    "term": "特拉托阿尼",
+    "definition": "墨西哥中部各城邦统治者的称号；这个纳瓦特尔语词的意思是“发言者”。特诺奇蒂特兰的特拉托阿尼由议事会从统治家族的男子中选出，是最高统帅、法官和与诸神沟通的中介。作为“胡埃·特拉托阿尼”，即大发言者，他位居三国同盟之首。",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "itzcoatl",
+      "moctezuma-i",
+      "ahuitzotl",
+      "aztekischer-dreibund"
+    ]
+  },
+  {
     "id": "totaler-krieg",
     "term": "总体战",
     "definition": "国家为作战动员全部人民、经济力量和资源，军人与平民之间的界线变得模糊的战争。第一次世界大战被视为第一场总体战：工厂只为前线生产，妇女在工作岗位上接替男人，封锁使平民陷入饥饿。宣传和审查旨在保证坚持到底的意志。",
@@ -1100,6 +1981,39 @@
     ]
   },
   {
+    "id": "transsaharahandel",
+    "term": "跨撒哈拉贸易",
+    "definition": "北非与西非之间由骆驼商队穿越撒哈拉的长途贸易。从南方运来的主要是黄金、象牙和奴隶，从北方运来的则是盐、马匹、布料和书籍；伊斯兰教也随商人一起传播。这种贸易是加纳、马里和桑海诸帝国的基础。",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "al-bakri-beschreibt-ghana",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "traumzeit",
+    "term": "Traumzeit",
+    "definition": "Übersetzung (englisch „Dreaming“) für die Weltdeutungen der Aborigines, nach denen Ahnenwesen in einer Schöpfungszeit Landschaft, Lebewesen, Gesetze und Bräuche schufen. Diese Zeit gilt nicht als abgeschlossene Vergangenheit, sondern ist in Orten, Liedern, Tänzen und Zeremonien gegenwärtig. Sie verbindet Menschen mit bestimmten Landstücken, für die sie Verantwortung tragen; die einzelnen Sprachgruppen haben dafür eigene Begriffe wie „Jukurrpa“ bei den Warlpiri.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "besiedlung-australiens",
+      "makassarischer-trepanghandel",
+      "bennelong"
+    ]
+  },
+  {
+    "id": "tributsystem",
+    "term": "朝贡体系",
+    "definition": "中国与邻国之间的关系框架，外国统治者派遣使节携礼物前往朝廷，从而在形式上承认皇帝为宗主。作为回报，他们获得贵重的赏赐、贸易权利和保护；朝鲜、越南和满剌加等国基本保持独立。",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "fahrten-des-zheng-he",
+      "aufstieg-des-sultanats-malakka",
+      "macartney-gesandtschaft"
+    ]
+  },
+  {
     "id": "tyrannis",
     "term": "僭主政治",
     "definition": "一人没有任何法律依据而夺取权力的独裁统治，通常凭借武力，或借助民众的支持对抗贵族。公元前7世纪和6世纪，僭主统治着许多希腊城市，往往促进经济和艺术；这一词后来才成为暴虐专制的代名词。",
@@ -1118,6 +2032,27 @@
       "angriff-auf-die-sowjetunion",
       "schlacht-von-stalingrad",
       "hitler-stalin-pakt"
+    ]
+  },
+  {
+    "id": "vizekoenigreich",
+    "term": "总督辖区",
+    "definition": "西班牙殖民帝国最大的行政单位，由作为国王私人代表的总督领导。最先设立的是新西班牙（1535年）和秘鲁（1542年），18世纪又增设了新格拉纳达和拉普拉塔河。后来葡萄牙也为巴西任命总督。",
+    "epochId": "lateinamerika",
+    "related": [
+      "vizekoenigreich-neuspanien",
+      "mairevolution-buenos-aires"
+    ]
+  },
+  {
+    "id": "voc",
+    "term": "VOC (Niederländische Ostindien-Kompanie)",
+    "definition": "Die Vereinigte Ostindische Kompanie, 1602 gegründet, war eine Handelsgesellschaft mit dem niederländischen Monopol für den Asienhandel und dem Recht, Festungen zu bauen, Soldaten zu halten und Verträge zu schließen. Von Batavia aus beherrschte sie den Gewürzhandel und große Teile Javas. Sie gilt als eine der ersten Aktiengesellschaften und wurde 1799 aufgelöst.",
+    "epochId": "suedostasien",
+    "related": [
+      "voc-gruendet-batavia",
+      "jan-pieterszoon-coen",
+      "java-krieg-und-kultursystem"
     ]
   },
   {
@@ -1165,6 +2100,17 @@
     ]
   },
   {
+    "id": "waraeger",
+    "term": "Waräger",
+    "definition": "Ostslawische und byzantinische Bezeichnung für skandinavische Händler und Krieger, die im 9. und 10. Jahrhundert die Flusswege zwischen Ostsee und Schwarzem Meer befuhren. Sie spielten bei der Entstehung der Kiewer Rus eine wichtige Rolle und dienten in Byzanz als kaiserliche Leibgarde. Wie groß ihr Anteil an der Staatsbildung war, ist umstritten.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "rjurik-und-die-berufung-der-waraeger",
+      "oleg-macht-kiew-zur-hauptstadt",
+      "wladimir-i"
+    ]
+  },
+  {
     "id": "weimarer-republik",
     "term": "魏玛共和国",
     "definition": "1918年至1933年德国国家的名称，得名于魏玛市，国民议会于1919年在那里通过了宪法。第一个德国民主制度从一开始就处于《凡尔赛条约》、通货膨胀、政变企图和政治暴力的压力之下。在“黄金二十年代”的短暂稳定之后，它在大萧条中瓦解，随着希特勒被任命为帝国总理而终结。",
@@ -1174,6 +2120,17 @@
       "friedrich-ebert",
       "gustav-stresemann",
       "krisenjahr-1923"
+    ]
+  },
+  {
+    "id": "wetsche",
+    "term": "Wetsche",
+    "definition": "Die Volksversammlung der freien Männer in Städten der Rus, besonders in Nowgorod und Pskow. In Nowgorod wählte das Wetsche Bürgermeister und Erzbischof, entschied über Krieg und Frieden und konnte Fürsten berufen und absetzen. Mit der Unterwerfung Nowgorods durch Moskau 1478 wurde es abgeschafft.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "moskau-unterwirft-nowgorod",
+      "eisschlacht-auf-dem-peipussee",
+      "alexander-newski"
     ]
   },
   {
@@ -1200,6 +2157,17 @@
     ]
   },
   {
+    "id": "zar",
+    "term": "Zar",
+    "definition": "Herrschertitel, abgeleitet vom lateinischen „Caesar“, den in Russland erstmals Iwan IV. 1547 bei seiner Krönung führte. Er stellte den Moskauer Herrscher auf eine Stufe mit dem byzantinischen Kaiser und betonte seine unbeschränkte, von Gott verliehene Macht. Seit 1721 lautete der offizielle Titel Kaiser, doch der Begriff Zar blieb bis 1917 gebräuchlich.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "iwan-iv-wird-zar",
+      "wahl-michail-romanows",
+      "februarrevolution-1917"
+    ]
+  },
+  {
     "id": "zikkurat",
     "term": "金字形神塔",
     "definition": "美索不达米亚的阶梯形泥砖神庙塔，塔顶设有城市守护神的圣所。约公元前2100年的乌尔金字形神塔保存最好；《圣经》中的巴别塔可追溯到巴比伦的金字形神塔。",
@@ -1207,528 +2175,6 @@
     "related": [
       "stadtstaaten-sumers-und-ur-standarte",
       "sumerische-keilschrift"
-    ]
-  },
-  {
-    "id": "transsaharahandel",
-    "term": "跨撒哈拉贸易",
-    "definition": "北非与西非之间由骆驼商队穿越撒哈拉的长途贸易。从南方运来的主要是黄金、象牙和奴隶，从北方运来的则是盐、马匹、布料和书籍；伊斯兰教也随商人一起传播。这种贸易是加纳、马里和桑海诸帝国的基础。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "al-bakri-beschreibt-ghana",
-      "mansa-musas-pilgerreise",
-      "timbuktu-gelehrtenzentrum"
-    ]
-  },
-  {
-    "id": "griot",
-    "term": "格里奥",
-    "definition": "西非世袭的歌手、说书人和乐师，以口头方式传承家谱、赞歌和统治家族的历史。格里奥在宫廷中担任顾问，至今仍保存着松迪亚塔史诗等史诗。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "sundiata-keita",
-      "sundiata-schlacht-von-kirina"
-    ]
-  },
-  {
-    "id": "mansa",
-    "term": "曼萨",
-    "definition": "马里帝国统治者在马林凯语中的称号，大致可译为国王或皇帝。曼萨位于由各省和纳贡诸侯组成的联盟之首；这一称号最著名的持有者是曼萨·穆萨。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "mansa-musa",
-      "sundiata-keita"
-    ]
-  },
-  {
-    "id": "swahili",
-    "term": "斯瓦希里",
-    "definition": "东非海岸索马里与莫桑比克之间商业城市的班图语言和文化。它在与阿拉伯、波斯和印度商人的交往中，从非洲本土根基发展而来，深受伊斯兰教影响，吸收了许多阿拉伯语借词。斯瓦希里语如今是非洲使用最广泛的语言之一。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "bluete-von-kilwa",
-      "sansibar-wird-sultanssitz",
-      "grosssimbabwe"
-    ]
-  },
-  {
-    "id": "oba",
-    "term": "奥巴",
-    "definition": "贝宁王国和若干约鲁巴国家国王的称号。贝宁的奥巴被视为神圣的统治者，对土地和人民拥有权威，其祖先以黄铜纪念头像和浮雕板得到尊崇。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "oba-ewuare-erneuert-benin",
-      "koepfe-von-ife"
-    ]
-  },
-  {
-    "id": "geez",
-    "term": "吉兹语",
-    "definition": "埃塞俄比亚古老的闪米特语言和文字，自阿克苏姆时代起就有文献可考。吉兹语在中世纪不再作为口语使用，但直到今天仍是埃塞俄比亚东正教的礼拜语言；阿姆哈拉语和提格里尼亚语的字母由其文字发展而来。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "ezana-christianisierung-aksum",
-      "yekuno-amlak-salomonische-dynastie"
-    ]
-  },
-  {
-    "id": "goldener-stuhl",
-    "term": "金凳",
-    "definition": "阿散蒂帝国的神圣象征，据传统说法在奥塞·图图时期从天而降，体现着人民的灵魂。任何人都不得坐在上面；阿散蒂赫内的登基仪式在它之上举行。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "osei-tutu",
-      "osei-tutu-gruendet-asante"
-    ]
-  },
-  {
-    "id": "mfecane",
-    "term": "姆菲卡尼",
-    "definition": "指约1815年至1840年间南部非洲的战争、逃亡和建国，在恩古尼语中这个词的意思大致是“压碎”。其原因和范围在历史学家中存在争议。",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "mfecane-im-suedlichen-afrika",
-      "shaka",
-      "shaka-gruendet-zulu-reich"
-    ]
-  },
-  {
-    "id": "mesoamerika",
-    "term": "中美洲",
-    "definition": "包括墨西哥南部和中部、危地马拉、伯利兹以及洪都拉斯和萨尔瓦多部分地区的文化区域。尽管语言各异，其民族共享玉米种植、金字塔神庙、球赛、260天的仪式历法和许多神祇。其中包括奥尔梅克人、萨波特克人、玛雅人、特奥蒂瓦坎、托尔特克人和阿兹特克人。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "olmeken-in-mesoamerika",
-      "teotihuacan-metropole",
-      "aztekischer-dreibund",
-      "amerika-vorkolumbisch"
-    ]
-  },
-  {
-    "id": "lange-zaehlung",
-    "term": "长纪历",
-    "definition": "一种中美洲的计时系统，从公元前3114年的一个神话起点开始计算天数。它使用1、20、360、7200和144000天的单位，使数百年间精确到日的纪年成为可能。玛雅人约从3世纪到10世纪初在石碑上使用它。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "stele-2-von-chiapa-de-corzo",
-      "stele-29-von-tikal",
-      "kollaps-der-klassischen-maya"
-    ]
-  },
-  {
-    "id": "mesoamerikanisches-ballspiel",
-    "term": "中美洲球赛",
-    "definition": "一种使用沉重橡胶球的团体游戏，通常只能用臀部、髋部和大腿击球。三千多年来，它在整个中美洲的两侧有墙的长形球场上进行。这种游戏既是体育运动，也是宗教仪式，有时是以献祭告终的政治典礼的一部分。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "aufstieg-von-chichen-itza",
-      "gruendung-von-monte-alban",
-      "olmeken-in-mesoamerika"
-    ]
-  },
-  {
-    "id": "chinampa",
-    "term": "奇南帕",
-    "definition": "在浅湖和沼泽中人工筑起的长方形园圃，周围环绕着水渠。淤泥和植物残余保持土壤肥沃，因而一年可多次收获。墨西哥谷的奇南帕养活了大城特诺奇蒂特兰，今天在霍奇米尔科仍有人耕种。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "gruendung-tenochtitlans",
-      "aztekischer-dreibund",
-      "nezahualcoyotl"
-    ]
-  },
-  {
-    "id": "quipu",
-    "term": "奇普",
-    "definition": "安第斯山区用棉或羊毛绳打结以记录信息的工具。许多下垂的细绳挂在一根主绳上，其绳结以十进制表示居民数、赋税和库存等数字。称为“奇普卡马约”的专职人员读取和制作奇普；它们是否也记录语言，至今尚无定论。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "pachacutec-und-das-inka-reich",
-      "wari-reich",
-      "qhapaq-nan-strassennetz-der-inka"
-    ]
-  },
-  {
-    "id": "ayllu",
-    "term": "艾柳",
-    "definition": "安第斯山区的亲属和村社共同体，其成员追溯到共同的祖先。艾柳共同持有土地，分配给各家庭，并组织农活和盖房时的互助。在印加帝国，它是征派赋役和劳役的基本单位；在安第斯的许多村庄中，它至今仍然存在。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "pachacutec-und-das-inka-reich",
-      "qhapaq-nan-strassennetz-der-inka",
-      "bau-von-machu-picchu"
-    ]
-  },
-  {
-    "id": "tlatoani",
-    "term": "特拉托阿尼",
-    "definition": "墨西哥中部各城邦统治者的称号；这个纳瓦特尔语词的意思是“发言者”。特诺奇蒂特兰的特拉托阿尼由议事会从统治家族的男子中选出，是最高统帅、法官和与诸神沟通的中介。作为“胡埃·特拉托阿尼”，即大发言者，他位居三国同盟之首。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "itzcoatl",
-      "moctezuma-i",
-      "ahuitzotl",
-      "aztekischer-dreibund"
-    ]
-  },
-  {
-    "id": "erdhuegelkulturen",
-    "term": "土丘文化（筑丘人）",
-    "definition": "北美洲土著文化的统称，他们数千年来为墓葬、神庙和仪式堆筑土丘和土堤。其中包括贫困角、阿迪纳和霍普韦尔文化，以及有卡霍基亚的密西西比文化。19世纪，白人美国人常常错误地把这些建筑归于一个消失的外来民族，而没有归功于土著民族的祖先。",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "erdwerke-von-poverty-point",
-      "hopewell-kultur",
-      "cahokia-mississippi-kultur"
-    ]
-  },
-  {
-    "id": "pax-mongolica",
-    "term": "蒙古和平",
-    "definition": "指13、14世纪蒙古帝国统治欧亚大陆大部分地区、旅行者和商人可以相对安全地从中国前往东欧的时期。驿站、统一的统治和通行证促进了货物、知识和宗教的交流，也促进了鼠疫的传播。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "dschingis-khan",
-      "kublai-khan",
-      "marco-polos-reise-nach-china",
-      "kublai-khan-gruendet-die-yuan-dynastie"
-    ]
-  },
-  {
-    "id": "goldene-horde",
-    "term": "金帐汗国",
-    "definition": "位于黑海和里海以北草原上的蒙古继承国，由拔都在约1242年蒙古入侵之后建立，都城为伏尔加河畔的萨莱。俄罗斯诸侯必须向其纳贡，并由大汗确认其统治权；这种依附关系到1480年结束。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "mongolensturm-in-osteuropa",
-      "dschingis-khan"
-    ]
-  },
-  {
-    "id": "shogunat",
-    "term": "幕府",
-    "definition": "日本以征夷大将军为首的军事政权，将军由天皇任命为最高统帅。从1192年到1868年，镰仓幕府、室町幕府和江户幕府先后执政，而京都的天皇主要履行宗教和礼仪职责。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "minamoto-no-yoritomo-wird-shogun",
-      "schlacht-von-sekigahara",
-      "tokugawa-ieyasu"
-    ]
-  },
-  {
-    "id": "samurai",
-    "term": "武士",
-    "definition": "日本武士阶层的成员，最初作为武装家臣侍奉领主。在江户时代，他们构成四个身份等级中最高的一级，是唯一可以佩刀的人，在和平时期常常担任官吏；其特权于1876年被废除。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "oda-nobunaga",
-      "toyotomi-hideyoshi",
-      "schlacht-von-sekigahara"
-    ]
-  },
-  {
-    "id": "hangeul",
-    "term": "谚文",
-    "definition": "朝鲜文字母，由世宗大王于1443年创制，1446年颁布。其字母表示单个音素，并组合成音节块，因此比汉字容易学得多。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "koenig-sejong-verkuendet-hangeul",
-      "sejong-der-grosse"
-    ]
-  },
-  {
-    "id": "tributsystem",
-    "term": "朝贡体系",
-    "definition": "中国与邻国之间的关系框架，外国统治者派遣使节携礼物前往朝廷，从而在形式上承认皇帝为宗主。作为回报，他们获得贵重的赏赐、贸易权利和保护；朝鲜、越南和满剌加等国基本保持独立。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "fahrten-des-zheng-he",
-      "aufstieg-des-sultanats-malakka",
-      "macartney-gesandtschaft"
-    ]
-  },
-  {
-    "id": "acht-banner",
-    "term": "八旗",
-    "definition": "满族的军事和社会组织，所有家庭被编入以旗帜颜色命名的八个单位。八旗军于1644年征服中国，此后作为大城市中享有特权的驻防部队，成为清朝统治的支柱。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "mandschu-erobern-peking",
-      "kangxi"
-    ]
-  },
-  {
-    "id": "mansab-system",
-    "term": "曼萨布制度",
-    "definition": "阿克巴在莫卧儿帝国推行的官员品级制度。每位曼萨布达尔获得一个品级，决定其薪俸以及须为统治者提供的骑兵数量；品级不得世袭，并把穆斯林和印度教的拉其普特人都与宫廷联系在一起。",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "akbar",
-      "akbar-mogulreich",
-      "herrschaft-aurangzebs"
-    ]
-  },
-  {
-    "id": "europaeische-union",
-    "term": "欧洲联盟",
-    "definition": "欧洲国家的联盟，1993年随《马斯特里赫特条约》由欧洲共同体发展而来。其成员共享单一市场，以及议会、委员会和法院等共同机构，大部分还使用欧元。经过数次扩大和英国退出之后，欧盟现有27个成员国。",
-    "epochId": "gegenwart",
-    "related": [
-      "vertrag-von-maastricht",
-      "eu-osterweiterung-2004",
-      "brexit",
-      "einfuehrung-euro-bargeld"
-    ]
-  },
-  {
-    "id": "digitalisierung",
-    "term": "数字化",
-    "definition": "将信息转化为数字数据，并在生活各领域越来越多地使用计算机、互联网和联网设备。自1990年代以来，它从根本上改变了工作、贸易、通信、教育和政治。其弊端包括监控、数据滥用以及对少数大公司的依赖。",
-    "epochId": "gegenwart",
-    "related": [
-      "world-wide-web-1991",
-      "vorstellung-des-iphone",
-      "tim-berners-lee",
-      "steve-jobs"
-    ]
-  },
-  {
-    "id": "soziale-medien",
-    "term": "社交媒体",
-    "definition": "用户自己发布、分享和评论文字、图片和视频的互联网平台。它们把数十亿人联系在一起，使快速动员成为可能，例如在阿拉伯之春或“我也是”（MeToo）运动中。与此同时，仇恨言论和虚假信息也通过它们传播，其算法被认为应对社会的两极分化负部分责任。",
-    "epochId": "gegenwart",
-    "related": [
-      "arabischer-fruehling",
-      "metoo-bewegung",
-      "greta-thunberg"
-    ]
-  },
-  {
-    "id": "kuenstliche-intelligenz",
-    "term": "人工智能",
-    "definition": "能够解决以往需要人类思维才能完成的任务的计算机系统，例如理解语言、识别图像或准备决策。现代方法从大量数据中学习，而不是遵循固定编写的规则。自2022年以来，ChatGPT等生成式程序已经普及，并引发了关于工作、版权和管控的讨论。",
-    "epochId": "gegenwart",
-    "related": [
-      "chatgpt-und-generative-ki",
-      "alan-turing"
-    ]
-  },
-  {
-    "id": "klimawandel",
-    "term": "气候变化",
-    "definition": "由人类活动引起的地球变暖，主要源于燃烧煤、石油和天然气所释放的二氧化碳和其他温室气体。其后果是海平面上升，热浪、干旱和强降雨增多。通过2015年的《巴黎协定》，各国旨在把升温控制在远低于两度的水平。",
-    "epochId": "gegenwart",
-    "related": [
-      "pariser-klimaabkommen",
-      "greta-thunberg",
-      "wangari-maathai"
-    ]
-  },
-  {
-    "id": "islamismus",
-    "term": "伊斯兰主义",
-    "definition": "力图依据自己对伊斯兰教和沙里亚的解释来规范国家和社会的政治运动。它们既包括参加选举的政党，也包括基地组织或所谓“伊斯兰国”这样的恐怖组织。该术语指的是一种政治意识形态，而不是伊斯兰教这一宗教，绝大多数穆斯林都反对暴力。",
-    "epochId": "gegenwart",
-    "related": [
-      "anschlaege-11-september",
-      "osama-bin-laden",
-      "krieg-in-afghanistan",
-      "iranische-revolution-1979"
-    ]
-  },
-  {
-    "id": "populismus",
-    "term": "民粹主义",
-    "definition": "一种政治风格，把一个所谓统一的“真正的人民”与腐败的精英对立起来，并声称只有自己代表人民的意志。民粹主义者既有右翼，也有左翼；如今他们常常反对移民、全球化和国际机构。批评者认为它危及少数群体的权利、权力分立和独立媒体。",
-    "epochId": "gegenwart",
-    "related": [
-      "brexit",
-      "fluchtbewegung-nach-europa-2015",
-      "wladimir-putin"
-    ]
-  },
-  {
-    "id": "pandemie",
-    "term": "大流行病",
-    "definition": "跨越国家和大陆传播、影响极多人口的传染病。著名的例子有14世纪的黑死病、1918至1920年的西班牙流感以及2020年起的新冠肺炎大流行。全球旅行会加速其传播，而疫苗和卫生措施则能遏制它。",
-    "epochId": "gegenwart",
-    "related": [
-      "covid-19-pandemie",
-      "ebola-epidemie-westafrika",
-      "spanische-grippe",
-      "schwarzer-tod"
-    ]
-  },
-  {
-    "id": "encomienda",
-    "term": "监护征赋制",
-    "definition": "西班牙殖民制度，王室将一群土著居民“托付”给某个西班牙人，他们须向其缴纳贡赋并提供劳役。作为回报，监护人应保护他们，并让他们接受基督教信仰的教导。实际上，监护征赋制导致了严重的剥削，在1542年《新法》之后逐渐被废止。",
-    "epochId": "lateinamerika",
-    "related": [
-      "gesetze-von-burgos",
-      "neue-gesetze-1542",
-      "bartolome-de-las-casas"
-    ]
-  },
-  {
-    "id": "mita",
-    "term": "米塔制",
-    "definition": "原为印加帝国的劳役，被西班牙人变成强制劳动制度。土著村庄必须轮流派出一定比例的男子前往波托西等矿山或从事其他劳动。米塔制是殖民时代最令人痛恨的负担之一，直到独立过程中才被废除。",
-    "epochId": "lateinamerika",
-    "related": [
-      "silberberg-von-potosi",
-      "aufstand-tupac-amaru-ii"
-    ]
-  },
-  {
-    "id": "vizekoenigreich",
-    "term": "总督辖区",
-    "definition": "西班牙殖民帝国最大的行政单位，由作为国王私人代表的总督领导。最先设立的是新西班牙（1535年）和秘鲁（1542年），18世纪又增设了新格拉纳达和拉普拉塔河。后来葡萄牙也为巴西任命总督。",
-    "epochId": "lateinamerika",
-    "related": [
-      "vizekoenigreich-neuspanien",
-      "mairevolution-buenos-aires"
-    ]
-  },
-  {
-    "id": "kreolen",
-    "term": "克里奥尔人",
-    "definition": "西属美洲指在殖民地出生的欧洲人后裔。他们往往拥有土地、矿山和商行，但高级官职却被出生于西班牙的人占据。西蒙·玻利瓦尔和何塞·德·圣马丁等克里奥尔人领导了独立运动。",
-    "epochId": "lateinamerika",
-    "related": [
-      "simon-bolivar",
-      "jose-de-san-martin",
-      "mairevolution-buenos-aires"
-    ]
-  },
-  {
-    "id": "mestizen",
-    "term": "梅斯蒂索人",
-    "definition": "殖民时期拉丁美洲指具有欧洲和土著血统的人。殖民当局按这类出身范畴对人口分类，这决定着权利、税收和地位。在19和20世纪，墨西哥等国把混血宣布为民族认同的一部分。",
-    "epochId": "lateinamerika",
-    "related": [
-      "malinche",
-      "aufstand-tupac-amaru-ii"
-    ]
-  },
-  {
-    "id": "quilombo",
-    "term": "基伦博",
-    "definition": "巴西指逃亡奴隶的聚居地，常位于难以到达的森林或山区。基伦博从小营地到帕尔马雷斯这样拥有自己的农业和防御的大型社区不等。西属美洲类似的社区称为“帕伦克”。",
-    "epochId": "lateinamerika",
-    "related": [
-      "quilombo-dos-palmares",
-      "zumbi-dos-palmares"
-    ]
-  },
-  {
-    "id": "jesuitenreduktion",
-    "term": "耶稣会传教区",
-    "definition": "由耶稣会士管理的传教村庄，土著居民，尤其是瓜拉尼人被安置于此，接受基督教化并免受奴隶掠夺者和殖民者的侵害。传教区设有教堂、作坊和公共田地，部分实行自治。1767年耶稣会士被驱逐后，它们衰落了。",
-    "epochId": "lateinamerika",
-    "related": [
-      "jesuitenreduktionen-in-paraguay",
-      "vertreibung-der-jesuiten-1767"
-    ]
-  },
-  {
-    "id": "caudillo",
-    "term": "考迪罗",
-    "definition": "指依靠私人追随者（常常是武装骑手和依附的农村劳动者）的政治和军事领袖。独立之后，考迪罗塑造着许多拉丁美洲国家的政治，并常常无视宪法。直到今天，这个词仍代表为某一个人量身打造的威权统治。",
-    "epochId": "lateinamerika",
-    "related": [
-      "paraguay-krieg",
-      "beginn-der-mexikanischen-revolution"
-    ]
-  },
-  {
-    "id": "janitscharen",
-    "term": "近卫军团",
-    "definition": "奥斯曼苏丹的精锐步兵，其名称意为“新军”。他们产生于14世纪，通过德米舍梅（征召男童）招募，定期领取薪饷，很早就配备火器，因而成为欧洲第一支常备步兵。后来近卫军团变成了一个强大的、敌视改革的集团，直到马哈茂德二世于1826年将其解散。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "aufloesung-der-janitscharen",
-      "mahmud-ii",
-      "nizam-i-cedid",
-      "schlacht-bei-mohacs"
-    ]
-  },
-  {
-    "id": "devsirme",
-    "term": "德米舍梅（征召男童）",
-    "definition": "为苏丹效力而定期征召基督徒男童，主要来自巴尔干的村庄。这些男童被改宗伊斯兰教，培养成近卫军或在宫中接受训练；有些人升任大维齐尔，建筑师希南也是以这种方式进入国家服务的。17世纪，这一征召失去重要性并被放弃。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "mimar-sinan",
-      "bau-der-sueleymaniye-moschee",
-      "osmanisches-reich"
-    ]
-  },
-  {
-    "id": "millet",
-    "term": "米勒特",
-    "definition": "奥斯曼帝国对希腊东正教徒、亚美尼亚人和犹太人等得到承认的宗教社群的称呼。在其宗教首领领导下，他们在很大程度上自行管理婚姻、继承、教育和福利，并对苏丹负责赋税和秩序。米勒特秩序主要在19世纪被塑造成固定的制度。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "fall-konstantinopels",
-      "mehmed-ii",
-      "tanzimat-edikt-von-guelhane"
-    ]
-  },
-  {
-    "id": "grosswesir",
-    "term": "大维齐尔",
-    "definition": "奥斯曼帝国的最高大臣和苏丹的代理人，掌管苏丹的印玺。他主持御前会议和行政事务，并常常在战场上统率军队。他的官邸“崇高之门”成了欧洲人对整个奥斯曼政府的称呼。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "belagerung-wiens-1683",
-      "tulpenzeit",
-      "midhat-pascha"
-    ]
-  },
-  {
-    "id": "timar",
-    "term": "蒂马尔",
-    "definition": "一种封赏，骑兵（西帕希）获得若干村庄的税收，作为回报须携带装备和随从出征。土地仍属国家所有，不得世袭。自16世纪晚期起，蒂马尔制失去重要性，日益被包税制取代。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "osmanen-fassen-fuss-in-europa",
-      "schlacht-auf-dem-amselfeld",
-      "tanzimat-edikt-von-guelhane"
-    ]
-  },
-  {
-    "id": "harem",
-    "term": "后宫",
-    "definition": "穆斯林家庭受保护的私人区域，尤指托普卡帕宫中苏丹家族的居住区。苏丹之母、他的妻妾、子女和女仆住在那里，女性也在那里接受教育。与欧洲人的幻想相反，后宫是一个政治权力中心，其中苏丹之母“瓦利德苏丹”施加着巨大的影响。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "bau-des-topkapi-palastes",
-      "huerrem-sultan",
-      "koesem-sultan",
-      "koesem-sultan-regentschaft"
-    ]
-  },
-  {
-    "id": "kapitulationen",
-    "term": "特许条款",
-    "definition": "苏丹授予欧洲国家的贸易特权，例如1569年授予法国、1580年授予英国。它们允许外国商人享有低关税、宗教自由和本国领事的司法管辖。19世纪，它们成了欧洲施加影响的工具；奥斯曼帝国于1914年单方面废除了它们。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "sueleyman-der-praechtige",
-      "osmanischer-staatsbankrott",
-      "krimkrieg"
-    ]
-  },
-  {
-    "id": "jungtuerken",
-    "term": "青年土耳其党人",
-    "definition": "由军官、官员和知识分子组成的运动，自1890年代起反对阿卜杜勒哈米德二世的专制统治，争取宪法。其最重要的组织统一与进步委员会于1908年迫使恢复宪法，并自1913年起主导国家。其政府把帝国带入第一次世界大战，并对亚美尼亚种族灭绝负有责任。",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "jungtuerkische-revolution",
-      "balkankriege",
-      "voelkermord-an-den-armeniern"
     ]
   }
 ]

@@ -261,9 +261,94 @@
     ]
   },
   {
+    "id": "ozeanien-pazifik",
+    "title": "Ozeanien und der Pazifik",
+    "order": 4,
+    "start": -1500,
+    "end": 1901,
+    "color": "#0f766e",
+    "regions": [
+      "ozeanien",
+      "europa"
+    ],
+    "summary": "Lapita-Seefahrer und ihre polynesischen Nachfahren besiedelten über drei Jahrtausende die Inseln des größten Ozeans der Erde, wo neben den viel älteren Kulturen der Aborigines eigenständige Gesellschaften entstanden, bis europäische Seefahrer, Missionare und Siedler die Region im 19. Jahrhundert kolonisierten.",
+    "overview": [
+      "Australien und Neuguinea waren schon vor mindestens 50.000 Jahren von Menschen besiedelt worden, deren Nachfahren die Aborigines und die Völker Melanesiens sind. Die entlegeneren Inseln des Pazifiks blieben dagegen lange menschenleer. Um 1500 v. Chr. tauchte im Bismarck-Archipel die Lapita-Kultur auf, deren Träger austronesische Sprachen sprachen und deren Vorfahren aus dem Raum Taiwan und Südostasien stammten. In wenigen Jahrhunderten segelten sie mit Auslegerkanus über Vanuatu und Neukaledonien bis nach Fidschi, Tonga und Samoa, die sie zwischen etwa 1000 und 800 v. Chr. erreichten.",
+      "In Tonga und Samoa entwickelte sich über mehr als tausend Jahre die polynesische Kultur. Etwa ab dem 11. Jahrhundert stießen polynesische Seefahrer in einer raschen Ausbreitung nach Osten vor und besiedelten die Gesellschaftsinseln, die Marquesas, Hawaiʻi und Rapa Nui; als letzte große Landmasse erreichten sie um 1250 bis 1300 Neuseeland. Ohne Instrumente navigierten sie nach Sternen, Dünung und Vogelflug über Tausende Kilometer. Auf den Inseln entstanden Häuptlingstümer und Königreiche wie das der Tuʻi Tonga, auf Rapa Nui die großen Moai-Figuren und in Neuseeland die Kultur der Māori mit ihren befestigten Pā.",
+      "Die Aborigines Australiens lebten in Hunderten Sprachgruppen als Jäger, Sammler und Fischer, die das Land mit Feuer pflegten und über weite Handelswege Ocker, Steinbeile und Muscheln tauschten; ihre Weltdeutung, die Traumzeit, verband sie mit ihrem Land. In der Torres-Straße betrieben Insulaner Gartenbau und Seehandel mit Neuguinea, und an der Nordküste trafen Aborigines spätestens ab dem 18. Jahrhundert auf Trepangfischer aus Makassar. Europäer kamen zunächst nur als Durchreisende: Magellan überquerte 1520/21 den Pazifik, Abel Tasman sichtete 1642 Tasmanien und Neuseeland, und James Cook vermaß zwischen 1768 und 1779 viele Küsten und Inseln.",
+      "1788 gründete Großbritannien mit der Ankunft der First Fleet in Sydney eine Strafkolonie und nahm das Land der Aborigines ohne Vertrag in Besitz. Eingeschleppte Krankheiten, Gewalt und der Verlust des Landes ließen die Zahl der Ureinwohner drastisch sinken. Händler, Walfänger und Missionare veränderten auch die Inselwelt: Ab 1797 verbreiteten protestantische Missionare von Tahiti aus das Christentum, Kamehameha I. einte mit europäischen Waffen Hawaiʻi, und in Neuseeland forderten die Musketenkriege zwischen Māori-Stämmen viele Opfer. 1840 schlossen britische Vertreter und Māori-Häuptlinge den Vertrag von Waitangi, dessen zwei Fassungen bis heute unterschiedlich verstanden werden.",
+      "Im späten 19. Jahrhundert teilten die Kolonialmächte die Inselwelt fast vollständig unter sich auf: Frankreich herrschte über Tahiti und Neukaledonien, Deutschland erwarb 1884 den Nordosten Neuguineas, und 1899 wurde Samoa zwischen Deutschland und den USA geteilt. In Neuseeland verloren die Māori nach den Neuseelandkriegen große Teile ihres Landes, in Australien zogen Goldfunde Hunderttausende Einwanderer an, und Tonga sicherte sich mit der Verfassung von 1875 seine Eigenständigkeit. 1893 stürzten amerikanische Geschäftsleute die hawaiische Königin Liliʻuokalani, 1898 annektierten die USA die Inseln. Am 1. Januar 1901 schlossen sich die australischen Kolonien zum Commonwealth of Australia zusammen, einem Bundesstaat im Britischen Empire, in dem die Ureinwohner jedoch lange kaum Rechte hatten."
+    ],
+    "consequences": [
+      "Polynesische Sprachen wie Māori, Hawaiisch, Samoanisch und Tongaisch sind eng miteinander verwandt und bezeugen bis heute die gemeinsame Herkunft der Inselvölker aus der Lapita-Kultur.",
+      "Die Wiederbelebung der traditionellen Navigation, etwa mit dem Doppelrumpfkanu Hōkūleʻa, das 1976 ohne Instrumente von Hawaiʻi nach Tahiti segelte, wurde zu einem Symbol polynesischen Selbstbewusstseins.",
+      "Der Vertrag von Waitangi gilt als Gründungsdokument Neuseelands; seit 1975 untersucht das Waitangi-Tribunal Landverluste und Ansprüche von Māori-Stämmen, die zu zahlreichen Entschädigungen geführt haben.",
+      "Die Inbesitznahme Australiens ohne Vertrag prägt die Debatten über die Rechte der Aborigines und Torres-Strait-Insulaner, von der Anerkennung ihrer Landrechte im Mabo-Urteil 1992 bis zum Streit über den 26. Januar als Nationalfeiertag.",
+      "Australien und Neuseeland entwickelten sich zu Einwanderungsgesellschaften mit britisch geprägten Institutionen, die lange eine Politik der Abschottung gegen Einwanderer aus Asien und dem Pazifik verfolgten.",
+      "Die Annexion Hawaiʻis machte die USA zu einer Pazifikmacht; die hawaiische Souveränitätsbewegung beruft sich bis heute auf den Umsturz von 1893, für den sich der US-Kongress 1993 offiziell entschuldigte."
+    ],
+    "tags": [
+      "ozeanien",
+      "polynesier",
+      "seefahrt",
+      "aborigines",
+      "maori",
+      "hawaii",
+      "australien",
+      "kolonialismus"
+    ],
+    "keyFacts": [
+      "Um 1500 v. Chr. erscheint die Lapita-Kultur im Bismarck-Archipel; zwischen etwa 1000 und 800 v. Chr. erreichen ihre Seefahrer Fidschi, Tonga und Samoa.",
+      "Etwa im 11. bis 13. Jahrhundert besiedeln Polynesier Ostpolynesien mit Hawaiʻi und Rapa Nui, um 1250–1300 schließlich Neuseeland.",
+      "1521 erreicht Magellan nach der ersten europäischen Pazifiküberquerung Guam; 1642 sichtet Abel Tasman Tasmanien und Neuseeland.",
+      "1768–1779 vermisst James Cook auf drei Reisen den Pazifik; am 26. Januar 1788 gründet die First Fleet in Sydney Cove die Strafkolonie New South Wales.",
+      "1810 ist die Vereinigung Hawaiʻis unter Kamehameha I. abgeschlossen; 1819 wird das Kapu-System abgeschafft.",
+      "Am 6. Februar 1840 wird der Vertrag von Waitangi unterzeichnet; von 1845 bis 1872 folgen die Neuseelandkriege.",
+      "1893 wird Königin Liliʻuokalani gestürzt, 1898 annektieren die USA Hawaiʻi; am 1. Januar 1901 entsteht der Australische Bund."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "In Polynesien beruhte Herrschaft auf Abstammung: Häuptlinge, bei den Māori „Rangatira“, auf Hawaiʻi „Aliʻi“ genannt, führten ihre Linie auf Götter und Ahnen zurück und besaßen dadurch Mana. Je größer die Inseln und je dichter die Bevölkerung, desto ausgeprägter war die Rangordnung. In Tonga standen die heiligen Tuʻi Tonga an der Spitze, die seit dem 15. Jahrhundert die weltliche Macht anderen Linien überließen; auf Hawaiʻi kämpften mehrere Oberhäuptlinge um die Vorherrschaft, bis Kamehameha I. die Inseln einte. In Neuseeland blieben die Stämme (Iwi) und Unterstämme (Hapū) dagegen eigenständig und verbündeten sich nur von Fall zu Fall.",
+          "Die Aborigines kannten weder Staaten noch Könige. Ihre Gemeinschaften wurden von älteren Männern und Frauen geleitet, die das Wissen über Land, Recht und Zeremonien hüteten; Verwandtschaftssysteme regelten, wer wen heiraten durfte und welche Pflichten man gegenüber anderen hatte. Die Grenzen zwischen den Gebieten der Sprachgruppen waren bekannt, und der Zutritt zum Land anderer wurde ausgehandelt.",
+          "Die europäische Kolonisierung folgte unterschiedlichen Wegen. Australien wurde 1788 ohne Vertrag zur britischen Kolonie; im 19. Jahrhundert entstanden dort sechs Kolonien mit eigenen Parlamenten, die sich 1901 zum Bund zusammenschlossen. In Neuseeland berief sich Großbritannien auf den Vertrag von Waitangi, setzte seine Herrschaft aber in Kriegen durch. Hawaiʻi und Tonga gaben sich als Königreiche Verfassungen nach westlichem Vorbild, doch nur Tonga konnte sich behaupten; fast alle übrigen Inselgruppen wurden bis 1900 Kolonien oder Schutzgebiete Großbritanniens, Frankreichs, Deutschlands oder der USA."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die meisten Polynesier lebten in Dörfern und Weilern an den Küsten, bauten Taro, Yams, Brotfrucht, Bananen und Süßkartoffeln an, hielten Schweine, Hunde und Hühner und fischten in Lagunen und auf hoher See. Land gehörte den Verwandtschaftsgruppen, und Häuptlinge verteilten Erträge bei Festen weiter. Das Tapu regelte, was heilig und verboten war, etwa auf Hawaiʻi die Trennung der Mahlzeiten von Männern und Frauen. In Neuseeland, wo viele tropische Pflanzen nicht gediehen, wurde die Süßkartoffel, die Kūmara, zum wichtigsten Anbaugewächs, und befestigte Pā schützten Dörfer und Vorräte.",
+          "Die Aborigines lebten in kleinen Gruppen, die im Jahreslauf zwischen festen Lagerplätzen wanderten. Frauen sammelten Pflanzen, Samen und Kleintiere, Männer jagten Kängurus und Emus; an Küsten und Flüssen spielte der Fischfang eine große Rolle, wovon etwa die Aalfallen von Budj Bim im heutigen Victoria zeugen. Mit gezieltem Abbrennen pflegten sie die Landschaft. Die Torres-Strait-Insulaner lebten dagegen als Gartenbauern und Fischer in festen Dörfern.",
+          "Die Kolonisierung veränderte die Lebensbedingungen grundlegend. Pocken, Grippe, Masern und Geschlechtskrankheiten trafen Menschen ohne Immunität; die Bevölkerung Hawaiʻis sank im 19. Jahrhundert auf einen Bruchteil, und in Australien gingen die Zahl der Aborigines und ihre Lebensgrundlagen durch Krankheiten, Gewalt und Landverlust stark zurück. Zugleich entstanden in Australien und Neuseeland Siedlergesellschaften aus Sträflingen, freien Einwanderern und Goldsuchern, deren Zahl bald die der Ureinwohner überstieg."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Das Wissen der Pazifikvölker wurde mündlich überliefert: in Genealogien, die Dutzende Generationen zurückreichten, in Gesängen, Tänzen und Erzählungen von Göttern wie Tangaroa und Helden wie Māui. Navigatoren lernten Sternbahnen, Dünungsmuster und Landzeichen auswendig; auf den Marshallinseln dienten Stabkarten aus Palmrippen und Muscheln als Lernhilfen. Holzschnitzerei, Tätowierung, Rindenbaststoff (Tapa) und die Federmäntel der hawaiischen Aliʻi zeigten Rang und Herkunft.",
+          "Für die Aborigines war die Traumzeit Grundlage von Recht und Religion. Gesangslinien, sogenannte Songlines, beschrieben die Wege der Ahnenwesen durch das Land und dienten zugleich als Wegweiser über weite Strecken. Felsmalereien in Arnhemland und in der Kimberley-Region, Rindenmalerei und Zeremonien hielten dieses Wissen lebendig.",
+          "Mit den Missionaren kam das Christentum, das sich im 19. Jahrhundert auf fast allen Inseln durchsetzte, oft gefördert von Herrschern wie Pōmare II. auf Tahiti, Kaʻahumanu auf Hawaiʻi und George Tupou I. in Tonga. Missionare schufen Schriftsprachen, übersetzten die Bibel und gründeten Schulen, sodass sich das Lesen auf vielen Inseln rasch verbreitete. Zugleich bekämpften sie Tänze, Tätowierungen und alte Glaubensformen, die vielerorts erst im 20. Jahrhundert wiederbelebt wurden."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Besiedlung des Pazifiks beruhte auf Bootsbau und Navigation: Doppelrumpf- und Auslegerkanus mit Segeln aus Pandanusmatten trugen Siedler, Nutzpflanzen und Tiere über Tausende Kilometer. Zwischen den Inseln bestanden Austauschnetze, in denen Obsidian, Basalt für Steinbeile, Matten, Federn und Keramik weitergegeben wurden; im Kula-Ring vor der Ostspitze Neuguineas kreisten Halsketten und Armreifen aus Muscheln in einem festen Tauschsystem. Auf Hawaiʻi legten die Bewohner große Fischteiche und bewässerte Tarofelder an.",
+          "Auch die Aborigines waren durch Handelswege über den ganzen Kontinent verbunden, auf denen Ocker, Steinbeile, Perlmutt aus dem Norden und das Rauschmittel Pituri getauscht wurden. Ab dem späten 18. Jahrhundert kamen europäische und amerikanische Walfänger, Robbenjäger und Händler, die Sandelholz, Seegurken und Kokosöl aufkauften und dafür Eisenwaren, Stoffe, Alkohol und Feuerwaffen brachten.",
+          "Im 19. Jahrhundert wurden Australien und Neuseeland zu Exporteuren von Wolle, Gold, Weizen und später gefrorenem Fleisch, Hawaiʻi und Fidschi zu Zuckerinseln mit Arbeitskräften aus Asien. Für die Plantagen in Queensland, Fidschi und Samoa wurden Zehntausende Melanesier angeworben, oft durch Täuschung oder Zwang; dieses „Blackbirding“ gilt heute als eine Form der Verschleppung. Dampfschiffe, Telegrafen und ab etwa 1880 Kühlschiffe banden die Region enger an die Weltwirtschaft."
+        ]
+      }
+    ]
+  },
+  {
     "id": "antike-griechenland",
     "title": "L'antica Grecia e l'età ellenistica",
-    "order": 4,
+    "order": 5,
     "start": -800,
     "end": -30,
     "color": "#0ea5e9",
@@ -348,7 +433,7 @@
   {
     "id": "rom",
     "title": "L'impero romano",
-    "order": 5,
+    "order": 6,
     "start": -753,
     "end": 476,
     "color": "#dc2626",
@@ -432,7 +517,7 @@
   {
     "id": "asien-altertum",
     "title": "Gli imperi dell'Asia: Persia, India, Cina, Giappone",
-    "order": 6,
+    "order": 7,
     "start": -550,
     "end": 1200,
     "color": "#e11d48",
@@ -516,7 +601,7 @@
   {
     "id": "afrikanische-reiche",
     "title": "Regni e culture dell'Africa",
-    "order": 7,
+    "order": 8,
     "start": 100,
     "end": 1880,
     "color": "#ca8a04",
@@ -604,9 +689,178 @@
     ]
   },
   {
+    "id": "suedostasien",
+    "title": "Südostasien: von Funan bis zur Kolonialzeit",
+    "order": 9,
+    "start": 100,
+    "end": 1900,
+    "color": "#16a34a",
+    "regions": [
+      "asien",
+      "europa"
+    ],
+    "summary": "Zwischen Indien und China entstanden an Flüssen, Meerengen und Küsten Südostasiens Handelsreiche, Tempelstädte und Sultanate wie Funan, Srivijaya, Angkor, Pagan, Đại Việt, Majapahit und Malakka, bis europäische Kompanien und Kolonialmächte die Region bis 1900 mit Ausnahme Siams unter ihre Herrschaft brachten.",
+    "overview": [
+      "Südostasien umfasst das Festland zwischen Indien und China mit den großen Strömen Irrawaddy, Chao Phraya, Mekong und Rotem Fluss sowie die Inselwelt von Sumatra bis zu den Philippinen. Die Monsunwinde trugen Schiffe regelmäßig zwischen dem Indischen Ozean und dem Südchinesischen Meer hin und her, und so wurde die Region früh zu einer Drehscheibe des Seehandels. Seit etwa dem 1. Jahrhundert n. Chr. ist im Mekongdelta das Reich Funan mit seinem Hafen Óc Eo bezeugt, wo Händler aus Indien, China und sogar dem Mittelmeerraum zusammentrafen. An der Küste des heutigen Zentralvietnam entstand Champa, das chinesische Quellen seit dem späten 2. Jahrhundert erwähnen.",
+      "Über Kaufleute, Brahmanen und Mönche gelangten indische Schrift, Sanskrit, Hinduismus und Buddhismus in die Region; einheimische Herrscher übernahmen sie freiwillig und verbanden sie mit eigenen Traditionen. Ab dem späten 7. Jahrhundert beherrschte Srivijaya von Palembang auf Sumatra aus die Straße von Malakka, ein Zentrum buddhistischer Gelehrsamkeit. Auf Java errichteten die Dynastien der Shailendra und von Mataram im 8. und 9. Jahrhundert Borobudur und Prambanan. 802 begründete Jayavarman II. das Khmer-Reich, dessen Hauptstadt Angkor mit Angkor Wat und dem Bayon über Jahrhunderte zu den größten Städten der vorindustriellen Welt gehörte.",
+      "Im Norden des heutigen Vietnam beendete Ngô Quyền 938 mit dem Sieg am Bạch-Đằng-Fluss rund tausend Jahre chinesischer Herrschaft; das spätere Đại Việt übernahm dennoch Schrift, Konfuzianismus und Verwaltung aus China. In Birma einte Anawrahta ab 1044 das Reich von Pagan, im heutigen Thailand entstanden um 1238 Sukhothai und 1351 Ayutthaya. Mit diesen Reichen setzte sich auf dem Festland der Theravada-Buddhismus durch. Auf Java stieg nach 1293 Majapahit zum mächtigsten Reich der Inselwelt auf, während sich der Islam ab dem späten 13. Jahrhundert entlang der Handelswege ausbreitete und um 1400 das Sultanat Malakka zum wichtigsten Hafen der Region wurde.",
+      "1511 eroberten die Portugiesen Malakka, 1571 machten die Spanier Manila zur Hauptstadt ihrer Kolonie auf den Philippinen, und 1619 gründete die Niederländische Ostindien-Kompanie Batavia auf Java, von wo aus sie den Handel mit Gewürzen zu beherrschen suchte. Lange blieben die Europäer jedoch auf Häfen und Inseln beschränkt. Auf dem Festland behaupteten sich starke einheimische Staaten: Die birmanische Konbaung-Dynastie zerstörte 1767 Ayutthaya, in Siam begründete Rama I. 1782 in Bangkok die Chakri-Dynastie, und 1802 einte Gia Long Vietnam unter der Nguyễn-Dynastie.",
+      "Im 19. Jahrhundert verschoben Industrialisierung und Imperialismus die Gewichte. Großbritannien gründete 1819 Singapur, eroberte in drei Kriegen bis 1885 Birma und brachte die malaiischen Sultanate unter seinen Einfluss. Die Niederländer zwangen nach dem Java-Krieg die Bauern ab 1830 zum Anbau von Exportpflanzen, und Frankreich fasste 1887 Vietnam und Kambodscha zu Französisch-Indochina zusammen, dem sich 1893 Laos anschloss. Nur Siam blieb unter Mongkut und Chulalongkorn als Pufferstaat unabhängig. Auf den Philippinen erhob sich 1896 die Katipunan gegen Spanien; die 1898 ausgerufene Unabhängigkeit mündete jedoch in die Herrschaft der Vereinigten Staaten."
+    ],
+    "consequences": [
+      "Angkor, Borobudur, Prambanan, Pagan, Mỹ Sơn und Ayutthaya gehören heute zum Welterbe der UNESCO und sind zu Wahrzeichen der Staaten geworden, in denen sie liegen.",
+      "Die religiöse Landkarte der Region stammt aus dieser Zeit: Theravada-Buddhismus auf dem Festland, konfuzianisch und buddhistisch geprägtes Vietnam, Islam in Indonesien, Malaysia und Brunei, Katholizismus auf den Philippinen und Hinduismus auf Bali.",
+      "Die Grenzen der heutigen Staaten Südostasiens folgen weitgehend den Grenzen der Kolonialreiche, die Briten, Niederländer, Franzosen, Spanier und Amerikaner im 19. Jahrhundert zogen.",
+      "Die Straße von Malakka, die schon Srivijaya und Malakka reich machte, ist bis heute eine der meistbefahrenen Schifffahrtsstraßen der Welt; Singapur wurde aus ihr zu einem der größten Häfen.",
+      "Chinesische, indische und europäische Zuwanderer, die mit Handel und Kolonialwirtschaft kamen, prägen die vielfältigen Gesellschaften Malaysias, Singapurs, Indonesiens und der Philippinen bis heute.",
+      "Die Erfahrung von Kolonialherrschaft, Zwangsanbau und Ausbeutung nährte im 20. Jahrhundert die Unabhängigkeitsbewegungen von Vietnam bis Indonesien und prägt die Erinnerungskultur der Region."
+    ],
+    "tags": [
+      "südostasien",
+      "khmer",
+      "angkor",
+      "srivijaya",
+      "majapahit",
+      "gewürzhandel",
+      "kolonialismus"
+    ],
+    "keyFacts": [
+      "Ab etwa dem 1. Jahrhundert n. Chr. ist im Mekongdelta das Reich Funan mit dem Hafen Óc Eo bezeugt, das Handelswege zwischen Indien und China verbindet.",
+      "682 berichtet eine Inschrift bei Palembang vom Aufstieg Srivijayas; um 800 entsteht auf Java der buddhistische Tempelberg Borobudur.",
+      "802 begründet Jayavarman II. das Khmer-Reich; um 1150 entsteht Angkor Wat, 1181 besteigt Jayavarman VII. den Thron und baut Angkor Thom mit dem Bayon.",
+      "938 besiegt Ngô Quyền am Bạch-Đằng-Fluss eine chinesische Flotte und beendet rund tausend Jahre chinesischer Herrschaft über Nordvietnam; 1044 beginnt Anawrahta in Pagan zu regieren.",
+      "1293 wird auf Java Majapahit gegründet; um 1400 entsteht Malakka, und um 1431 verlassen die Khmer-Könige Angkor.",
+      "1511 erobern die Portugiesen Malakka, 1571 gründen die Spanier Manila, 1619 die Niederländische Ostindien-Kompanie Batavia.",
+      "1885 wird Birma britisch, 1887 entsteht Französisch-Indochina, 1898 rufen die Philippinen ihre Unabhängigkeit aus; Siam bleibt als einziges Land der Region unabhängig."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die frühen Reiche Südostasiens hatten selten feste Grenzen. Historiker beschreiben sie oft als Mandalas: Um einen König und seine Hauptstadt lagerten sich Kreise von Fürsten und Häfen, die Tribut leisteten, solange der Herrscher stark und freigebig war, und sich einem anderen Zentrum zuwandten, wenn er schwach wurde. Macht beruhte weniger auf Land als auf Menschen, die man an sich binden, ansiedeln oder im Krieg verschleppen konnte. Daher wechselten Reiche wie Srivijaya, Champa oder Majapahit ihre Ausdehnung oft rasch, und ihre Größe ist in der Forschung häufig umstritten.",
+          "Die Könige stützten ihre Herrschaft auf religiöse Vorstellungen aus Indien. In Angkor verbanden die Khmer-Herrscher ihr Amt mit Shiva, Vishnu oder dem Buddha und ließen Staatstempel als Abbild des Weltenbergs Meru errichten; buddhistische Könige auf dem Festland verstanden sich als gerechte Weltenherrscher und Förderer des Mönchsordens. Đại Việt dagegen orientierte sich am chinesischen Kaiserhof, übernahm Beamtenprüfungen und Gesetzbücher und erkannte die Oberhoheit Chinas förmlich an, um im Inneren unabhängig zu bleiben. In den Sultanaten der Inselwelt verband sich die Würde des Herrschers mit dem Islam und alten malaiischen Vorstellungen von Ehre und Treue.",
+          "Mit den Europäern kam ein neuer Typ von Macht: befestigte Handelsplätze, bewaffnete Kompanien und später Kolonialverwaltungen mit festen Grenzen, Karten und Steuerregistern. Lange stützten sich Portugiesen, Spanier und Niederländer auf Bündnisse mit einheimischen Fürsten. Im 19. Jahrhundert setzten Großbritannien, Frankreich und die Niederlande ihre Herrschaft mit Kriegen, Schutzverträgen und eingesetzten Beamten durch. Siam bewahrte seine Unabhängigkeit, indem seine Könige Verträge mit allen Mächten schlossen, Randgebiete abtraten und den Staat nach europäischem Vorbild modernisierten."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die meisten Menschen lebten als Reisbauern in Dörfern an Flüssen und in Ebenen, als Fischer an den Küsten oder als Brandrodungsbauern im Bergland. Grundlage war der Nassreisanbau, der viel gemeinsame Arbeit an Deichen, Kanälen und Feldern verlangte. An den Höfen und in den Tempelstädten lebten Adlige, Priester, Mönche, Handwerker und Tänzerinnen; Inschriften aus Angkor nennen Tausende Bedienstete einzelner Tempel. Abhängige und Unfreie, oft Schuldner oder Kriegsgefangene, waren in fast allen Reichen zahlreich, da Arbeitskraft knapper war als Land.",
+          "Frauen hatten in Südostasien nach dem Urteil vieler Historiker eine vergleichsweise starke Stellung. Sie bestellten Felder, betrieben Märkte und Handel, und in vielen Gesellschaften wurde Besitz über beide Eltern vererbt. Europäische Reisende staunten über Händlerinnen in den Häfen, und es gab Herrscherinnen wie die Königinnen von Aceh im 17. Jahrhundert. Mit der Ausbreitung von Konfuzianismus, Islam und Christentum und unter kolonialem Recht wurden diese Freiheiten vielerorts stärker eingeschränkt.",
+          "Die großen Häfen waren bunt gemischt: In Malakka, Batavia, Manila oder Ayutthaya lebten Malaien, Javaner, Chinesen, Inder, Araber, Perser, Japaner und Europäer in eigenen Vierteln nebeneinander. Chinesische Kaufleute und Handwerker wurden zu einer wichtigen Gruppe, wurden aber auch Opfer von Gewalt, etwa bei Massakern in Manila 1603 und Batavia 1740. Im 19. Jahrhundert zogen Hunderttausende Chinesen und Inder als Arbeiter in die Zinnminen und Plantagen Malayas, während Zwangsanbau und neue Steuern das Leben der Bauern auf Java und in Indochina hart veränderten."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Aus Indien übernahmen die Eliten Südostasiens Sanskrit, Schriften, Epen wie das Ramayana und das Mahabharata sowie Hinduismus und Buddhismus, verwandelten sie aber nach eigenen Vorstellungen. Daraus entstanden einzigartige Bauwerke: der buddhistische Tempelberg Borobudur, die Shiva-Tempel von Prambanan, die Tempel von Mỹ Sơn in Champa, Angkor Wat und die Gesichtertürme des Bayon sowie die Tausenden Pagoden der Ebene von Pagan. Die Ramayana-Geschichte lebt bis heute in Tänzen, Reliefs und im Schattenspiel von Java bis Thailand fort.",
+          "Ab dem 11. Jahrhundert setzte sich auf dem Festland der Theravada-Buddhismus aus Sri Lanka durch, dessen Klöster zugleich Schulen für die Jungen der Dörfer waren. Vietnam verband Mahayana-Buddhismus mit konfuzianischer Bildung und chinesischen Schriftzeichen und entwickelte daneben die eigene Schrift Chữ Nôm. Seit dem späten 13. Jahrhundert verbreitete sich der Islam über Händler, Gelehrte und Sufis in der Inselwelt; Malaiisch in arabischer Schrift wurde zur Sprache von Handel, Religion und Hofdichtung. Auf den Philippinen machten spanische Ordensleute den Katholizismus zur Religion der Mehrheit.",
+          "Im 19. Jahrhundert brachten Druckerpresse, Zeitungen und Schulen neue Ideen. Gelehrte und Beamte in Siam und Vietnam setzten sich mit europäischer Wissenschaft auseinander, und der siamesische Hof förderte selbst Bildung und Übersetzungen. Auf den Philippinen schrieb José Rizal Romane, die die Kolonialherrschaft und die Macht der Orden anprangerten, auf Java machte der niederländische Roman „Max Havelaar“ von Multatuli 1860 das Leiden unter dem Zwangsanbau bekannt. Zugleich begann die europäische Forschung, die alten Tempel zu vermessen und Inschriften zu entziffern."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Monsunwinde machten Südostasien zum natürlichen Treffpunkt des Seehandels zwischen Indischem Ozean und China. Häfen an den Meerengen wie Óc Eo, Palembang und Malakka lebten davon, dass Schiffe dort auf den Wechsel des Windes warten mussten. Gehandelt wurden indische Baumwollstoffe, chinesische Seide und Porzellan, Gold, Zinn, Edelhölzer, Harze und vor allem Gewürze: Pfeffer aus Sumatra und Java, Gewürznelken von den nördlichen Molukken und Muskatnuss von den Banda-Inseln, die es lange nur dort gab.",
+          "Auf dem Festland ruhte der Reichtum auf dem Reis. Die Khmer legten um Angkor riesige Wasserbecken, Kanäle und Dämme an, deren Rolle für die Bewässerung von der Forschung allerdings unterschiedlich bewertet wird; Luftbild- und Laserscans haben gezeigt, dass Angkor eine weit ausgedehnte Stadtlandschaft war. Đại Việt sicherte das Delta des Roten Flusses mit Deichen, und Birma und Siam exportierten später Reis in großen Mengen. Bronzeguss, Schiffbau und Töpferei erreichten hohe Kunstfertigkeit; die Keramik aus Sukhothai und Vietnam wurde bis nach Japan und in den Nahen Osten gehandelt.",
+          "Die Europäer versuchten, den Gewürzhandel mit Gewalt zu kontrollieren: Die Niederländische Ostindien-Kompanie erzwang auf den Molukken Monopole und ließ Gewürzbäume außerhalb ihrer Plantagen vernichten. Die Manila-Galeone tauschte ab 1565 amerikanisches Silber gegen chinesische Waren und verband Asien mit Amerika. Im 19. Jahrhundert verwandelten Kolonialherren ganze Regionen in Exportwirtschaften für Kaffee, Zucker, Tabak, Zinn und später Kautschuk; Dampfschiffe, der Suezkanal ab 1869, Eisenbahnen und Telegrafen banden Südostasien eng an den Weltmarkt."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "byzanz",
+    "title": "Das Byzantinische Reich",
+    "order": 10,
+    "start": 330,
+    "end": 1453,
+    "color": "#9333ea",
+    "regions": [
+      "europa",
+      "naher-osten",
+      "afrika"
+    ],
+    "summary": "Das christliche, griechischsprachige Oströmische Reich mit der Hauptstadt Konstantinopel überdauerte den Untergang Westroms um fast tausend Jahre, verteidigte Europa gegen Perser und Araber, bewahrte das Erbe der Antike und prägte die orthodoxe Welt von Griechenland bis Russland.",
+    "overview": [
+      "Am 11. Mai 330 weihte Kaiser Konstantin der Große an der Stelle der griechischen Stadt Byzantion seine neue Hauptstadt Konstantinopel ein, die am Bosporus Europa und Asien verband. Nach dem Tod Theodosius’ I. 395 wurde das Römische Reich zwischen seinen Söhnen geteilt, und der Osten entwickelte sich zunehmend eigenständig. Geschützt von den gewaltigen Theodosianischen Mauern und gestützt auf die reichen Provinzen Kleinasien, Syrien und Ägypten überstand er die Völkerwanderung, während das Weströmische Reich 476 endete. Seine Bewohner nannten sich weiterhin Römer; die Bezeichnung „Byzantinisches Reich“ prägten erst Gelehrte der Neuzeit.",
+      "Justinian I. (527–565) wollte das Römische Reich in seinen alten Grenzen wiederherstellen. Nachdem er 532 den Nika-Aufstand blutig niedergeschlagen hatte, eroberten seine Feldherren, allen voran Belisar und Narses, das Vandalenreich in Nordafrika und das Ostgotenreich in Italien; dazu kam ein Küstenstreifen in Südspanien. Gleichzeitig ließ er das römische Recht im später Corpus Iuris Civilis genannten Werk zusammenfassen und die Hagia Sophia errichten. Die Kriege, eine Pestwelle ab 541 und der Druck der Perser überforderten jedoch die Kräfte des Reiches, und 568 drangen die Langobarden nach Italien ein.",
+      "Im 7. Jahrhundert kämpfte das Reich ums Überleben. Kaiser Herakleios besiegte nach langem Krieg 627/628 die persischen Sasaniden, doch nach der Niederlage am Jarmuk 636 verlor das Reich Syrien, Palästina und bald auch Ägypten an die Araber. Konstantinopel widerstand mehreren arabischen Angriffen, auch dank des griechischen Feuers, und Griechisch löste Latein als Sprache von Hof und Verwaltung ab. Im 8. und 9. Jahrhundert spaltete der Bilderstreit um die Verehrung von Ikonen Kirche und Gesellschaft, bis 843 die Bilderverehrung endgültig wiederhergestellt wurde.",
+      "Unter der makedonischen Dynastie (867–1056) erlebte das Reich einen neuen Aufschwung: Die Missionare Kyrill und Method trugen das Christentum zu den Slawen, Bulgarien und die Kiewer Rus nahmen den orthodoxen Glauben an, und Basileios II. unterwarf bis 1018 das Bulgarische Reich. 1054 gilt als Jahr der Trennung von Ost- und Westkirche. Nach der Niederlage gegen die Seldschuken bei Manzikert 1071 gingen große Teile Kleinasiens verloren; die Kaiser aus dem Haus der Komnenen stabilisierten das Reich und baten den Westen um Hilfe, was zum Ersten Kreuzzug beitrug.",
+      "1204 eroberten und plünderten die Teilnehmer des Vierten Kreuzzugs Konstantinopel und errichteten ein Lateinisches Kaiserreich, während griechische Nachfolgestaaten wie Nikaia, Epirus und Trapezunt entstanden. Michael VIII. Palaiologos gewann die Hauptstadt 1261 zurück, doch das erneuerte Reich blieb klein, durch Bürgerkriege geschwächt und von den Handelsstädten Venedig und Genua abhängig. Seit dem 14. Jahrhundert verlor es Stück für Stück an die Osmanen, bis Konstantinopel nur noch von wenigen Gebieten umgeben war. Mit der Eroberung der Stadt durch Mehmed II. 1453 endete das Byzantinische Reich."
+    ],
+    "consequences": [
+      "Das von Justinian gesammelte römische Recht wurde ab dem 11. Jahrhundert in Bologna neu studiert und bildet bis heute eine Grundlage des Zivilrechts in vielen Ländern Europas und darüber hinaus.",
+      "Die orthodoxen Kirchen in Griechenland, auf dem Balkan, in der Ukraine, in Russland und im Kaukasus gehen auf die Mission und die Kirchenordnung von Byzanz zurück; Russland verstand Moskau nach 1453 als „drittes Rom“.",
+      "Die kyrillische Schrift, die aus der Mission Kyrills und Methods hervorging, wird heute für Russisch, Ukrainisch, Bulgarisch, Serbisch und viele weitere Sprachen verwendet.",
+      "Byzantinische Gelehrte bewahrten und kommentierten die Werke der griechischen Antike; mit ihren Handschriften und Lehrern, die nach Italien kamen, trugen sie zur Renaissance bei.",
+      "Ikonen, Kuppelkirchen und Goldmosaiken nach byzantinischem Vorbild prägen die Kunst der orthodoxen Welt, und die Hagia Sophia beeinflusste auch die großen Moscheen der Osmanen.",
+      "Die Trennung von Ost- und Westkirche und die Plünderung Konstantinopels 1204 belasten das Verhältnis zwischen katholischen und orthodoxen Christen bis in die Gegenwart."
+    ],
+    "tags": [
+      "byzanz",
+      "konstantinopel",
+      "ostrom",
+      "orthodoxie",
+      "kaiser",
+      "ikonen",
+      "justinian"
+    ],
+    "keyFacts": [
+      "330 weiht Konstantin der Große Konstantinopel als neue Hauptstadt ein; 395 wird das Reich in eine West- und eine Osthälfte geteilt.",
+      "Justinian I. lässt 529–534 das römische Recht sammeln, 537 die Hagia Sophia weihen und Nordafrika und Italien zurückerobern.",
+      "636 unterliegt das byzantinische Heer am Jarmuk den Arabern; Syrien, Palästina und Ägypten gehen verloren.",
+      "726 oder 730 beginnt unter Leon III. der Bilderstreit, der erst 843 mit der endgültigen Wiederherstellung der Bilderverehrung endet.",
+      "863 brechen Kyrill und Method zur Slawenmission nach Großmähren auf; 1014 besiegt Basileios II. die Bulgaren am Kleidion-Pass.",
+      "1054 exkommunizieren sich päpstliche Gesandte und der Patriarch von Konstantinopel gegenseitig; 1071 siegen die Seldschuken bei Manzikert.",
+      "1204 plündern Kreuzfahrer Konstantinopel; 1261 erobert Michael VIII. Palaiologos die Stadt zurück, 1453 fällt sie an die Osmanen."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "An der Spitze des Reiches stand der Kaiser, griechisch Basileus, der sich als Nachfolger der römischen Kaiser und als von Gott eingesetzter Herrscher über die christliche Welt verstand. Eine feste Erbfolge gab es nicht: Rechtmäßig war, wer von Senat, Heer und Volk anerkannt und in der Regel vom Patriarchen gekrönt wurde. Viele Kaiser stiegen als Feldherren oder Höflinge auf, andere wurden gestürzt, geblendet oder ins Kloster verbannt. Dynastien wie die makedonische, die komnenische und die palaiologische versuchten, den Thron durch Mitkaiser und Heiratsverbindungen in der Familie zu halten.",
+          "Regiert wurde von Konstantinopel aus mit einer großen, schriftlich arbeitenden Verwaltung, an deren Spitze hohe Würdenträger des Palastes standen. Seit dem 7. Jahrhundert war das Reich in Themen gegliedert, Militärbezirke, in denen ein Befehlshaber zugleich zivile Aufgaben übernahm; wie und wann diese Ordnung genau entstand, ist in der Forschung umstritten. Die Diplomatie war eine Stärke der Kaiser: Sie verhandelten mit Gold, Titeln, prunkvollen Empfängen und Heiraten, spielten Nachbarvölker gegeneinander aus und banden Fürsten durch Taufe und Ehrentitel an sich.",
+          "Das Reich war fast ständig an mehreren Fronten bedroht: im Osten von Persern, Arabern und später Seldschuken, im Norden von Awaren, Bulgaren und Rus, im Westen von Normannen und Kreuzfahrern. Neben dem Heer aus den Themen kämpften zunehmend Söldner, darunter die Warägergarde aus Skandinaviern und Rus. Seit dem 11. Jahrhundert gewannen große Adelsfamilien an Macht, und die Kaiser vergaben Einkünfte aus Land, die Pronoia, für Kriegsdienst. Nach 1204 und vor allem in der Palaiologenzeit schwächten Bürgerkriege und die Abhängigkeit von Venedig und Genua das Reich entscheidend."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Konstantinopel war über Jahrhunderte eine der größten und reichsten Städte der Welt; im 6. Jahrhundert lebten dort nach Schätzungen mehrere Hunderttausend Menschen. Das öffentliche Leben spielte sich in Kirchen, auf Märkten und im Hippodrom ab, wo Wagenrennen stattfanden und das Volk dem Kaiser zujubeln oder ihn ausbuhen konnte. Die Zirkusparteien der Blauen und der Grünen waren zugleich Fanclubs und politische Gruppen. Die große Mehrheit der Bevölkerung lebte jedoch als Bauern in Dörfern, zahlte Steuern und stellte Soldaten.",
+          "Die Gesellschaft war christlich geprägt, aber vielsprachig: Neben Griechen lebten Armenier, Syrer, Slawen, Juden und viele andere im Reich, und Aufsteiger aus allen Gruppen konnten in Armee und Verwaltung Karriere machen. Kirchen, Klöster und Stiftungen unterhielten Krankenhäuser, Armenhäuser und Waisenhäuser. Klöster besaßen großen Landbesitz, und Mönche genossen hohes Ansehen; seit dem 10. Jahrhundert wurde der Berg Athos zum Zentrum des orthodoxen Mönchtums.",
+          "Frauen waren rechtlich dem Mann untergeordnet, konnten aber Eigentum besitzen und erben, und in der Oberschicht übten einige große Macht aus. Kaiserinnen wie Theodora, Irene, die 797 sogar allein als Kaiser regierte, und Zoe bestimmten die Politik mit, und Anna Komnene schrieb im 12. Jahrhundert ein bedeutendes Geschichtswerk. Bildung war in der Stadt verbreiteter als im Westen des Mittelalters; Beamte, Geistliche und viele Kaufleute konnten lesen und schreiben."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Das Christentum war das Fundament des Reiches. Kaiser beriefen die großen Konzilien ein, auf denen die Lehre über Christus festgelegt wurde, etwa 451 in Chalkedon; wer die Beschlüsse ablehnte, wie viele Christen in Ägypten und Syrien, galt als Abweichler. Kirche und Kaiser waren eng verbunden, doch der Bilderstreit zeigte, dass Mönche und Bischöfe sich auch gegen den Herrscher stellen konnten. Mit der Zeit entfremdeten sich die griechische Kirche und die lateinische Kirche Roms über Fragen wie den Vorrang des Papstes und das Filioque im Glaubensbekenntnis.",
+          "Die byzantinische Kunst diente vor allem dem Glauben. Ikonen, gemalte Bilder Christi, Marias und der Heiligen, wurden verehrt und galten als Fenster zur himmlischen Welt. Goldgrundmosaiken in der Hagia Sophia, in Ravenna, in Thessaloniki oder in der Chora-Kirche in Konstantinopel zeigen eine feierliche, überirdisch wirkende Bildsprache. Die Kuppelkirche mit ihrem Grundriss in Form eines Kreuzes wurde zum Vorbild für Kirchen von Venedig bis Kiew.",
+          "Byzanz bewahrte das Wissen der Antike: Gelehrte schrieben die Werke von Homer, Platon, Aristoteles und den griechischen Ärzten und Mathematikern ab und kommentierten sie; viele antike Texte sind nur über byzantinische Handschriften erhalten. Geschichtsschreiber wie Prokop, Michael Psellos und Anna Komnene setzten die antike Tradition fort. Im 14. und 15. Jahrhundert brachten Gelehrte wie Manuel Chrysoloras und Bessarion griechische Sprache und Bücher nach Italien und trugen so zum Humanismus der Renaissance bei."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Goldmünze Solidus, griechisch Nomisma, die Konstantin der Große eingeführt hatte, blieb bis ins 11. Jahrhundert stabil und war im ganzen Mittelmeerraum begehrt. Erst im 11. Jahrhundert wurde ihr Goldgehalt stark verringert, bis Alexios I. Komnenos 1092 mit dem Hyperpyron eine neue Goldmünze schuf. Der Staat zog Steuern vor allem von der Landbevölkerung ein, erhob Zölle auf den Handel und finanzierte damit Heer, Verwaltung, Bauten und Tributzahlungen an Nachbarn.",
+          "Konstantinopel lag an der Kreuzung der Handelswege zwischen Schwarzem Meer und Mittelmeer, Europa und Asien. Besonders wertvoll war die Seide: Nach dem Bericht Prokops gelangten unter Justinian Seidenraupen ins Reich, und kaiserliche Werkstätten stellten kostbare Stoffe her, deren Ausfuhr streng geregelt war. Das Eparchenbuch aus dem 10. Jahrhundert legte fest, wie Zünfte von Seidenhändlern, Goldschmieden und Bäckern arbeiten durften. Seit dem 11. Jahrhundert erhielten Venedig und später Genua und Pisa Handelsvorrechte, die den eigenen Kaufleuten schadeten.",
+          "Technisch beeindruckten die Byzantiner mit Bauten wie der Kuppel der Hagia Sophia, den Theodosianischen Mauern und den Zisternen, die Konstantinopel mit Wasser versorgten. Im Krieg verschaffte ihnen das griechische Feuer, eine Brandwaffe, deren genaue Zusammensetzung geheim blieb und bis heute unbekannt ist, einen Vorteil auf See. Militärhandbücher wie das Strategikon beschrieben Taktik, Belagerung und den Umgang mit verschiedenen Gegnern."
+        ]
+      }
+    ]
+  },
+  {
     "id": "mittelalter",
     "title": "Il Medioevo europeo",
-    "order": 8,
+    "order": 11,
     "start": 500,
     "end": 1500,
     "color": "#7c3aed",
@@ -692,7 +946,7 @@
   {
     "id": "islamische-welt",
     "title": "Il mondo islamico",
-    "order": 9,
+    "order": 12,
     "start": 610,
     "end": 1500,
     "color": "#059669",
@@ -776,9 +1030,177 @@
     ]
   },
   {
+    "id": "wikinger-nordeuropa",
+    "title": "Wikinger und Nordeuropa",
+    "order": 13,
+    "start": 793,
+    "end": 1397,
+    "color": "#0369a1",
+    "regions": [
+      "europa",
+      "amerika"
+    ],
+    "summary": "Vom Überfall auf Lindisfarne 793 bis zur Kalmarer Union 1397 traten die Völker Skandinaviens als Plünderer, Händler und Siedler zwischen Nordamerika und Byzanz auf, wurden Christen und bildeten die Königreiche Dänemark, Norwegen und Schweden.",
+    "overview": [
+      "Am Ende des 8. Jahrhunderts lebten in Dänemark, Norwegen und Schweden bäuerliche Gemeinschaften unter Häuptlingen und Kleinkönigen, die über Seefahrt und Handel mit dem übrigen Europa verbunden waren. Mit dem Überfall auf das Kloster Lindisfarne 793 begann die Wikingerzeit, in der skandinavische Seefahrer Küsten und Flüsse von Irland bis ins Mittelmeer heimsuchten. Warum die Züge gerade jetzt einsetzten, ist umstritten: Genannt werden der Reichtum ungeschützter Klöster und Handelsplätze, Machtkämpfe in der Heimat, die junge Männer nach Beute und Ansehen suchen ließen, möglicherweise Landknappheit und vor allem das schnelle, seetüchtige Langschiff.",
+      "Aus einzelnen Raubzügen wurden im 9. Jahrhundert Heerzüge und Landnahmen. 845 plünderten Wikinger Paris, 841 gründeten sie in Irland den Stützpunkt Dublin, und ab 865 eroberte das Große Heidnische Heer die meisten angelsächsischen Königreiche. Nur Wessex unter Alfred dem Großen hielt stand; der Osten Englands wurde als Danelag skandinavisch besiedelt. 911 überließ der westfränkische König Karl der Einfältige dem Anführer Rollo das Gebiet um Rouen, aus dem die Normandie hervorging.",
+      "Zugleich fuhren Skandinavier über den Nordatlantik. Ab etwa 870 besiedelten sie Island, wo 930 das Althing als gemeinsame Versammlung entstand. Erik der Rote führte um 985 Siedler nach Grönland, und sein Sohn Leif Eriksson erreichte um 1000 Nordamerika; die Fundstätte L’Anse aux Meadows auf Neufundland bestätigt die Sagas. Im Osten befuhren schwedische Waräger die russischen Flüsse bis nach Byzanz und in das Kalifat und trugen zur Entstehung der Kiewer Rus bei.",
+      "Im 10. und 11. Jahrhundert wurden die Königreiche Dänemark, Norwegen und Schweden fester und christlich. Harald Blauzahn rühmte sich auf dem Runenstein von Jelling, die Dänen zu Christen gemacht zu haben, Olav Tryggvason und Olav der Heilige setzten das Christentum in Norwegen durch, und Island nahm es um 1000 per Beschluss des Althings an. Knut der Große beherrschte um 1028 England, Dänemark und Norwegen in einem Nordseereich. Als der norwegische König Harald Hardrada 1066 bei Stamford Bridge fiel, endete die Zeit der großen Wikingerzüge; drei Wochen später eroberte der Normanne Wilhelm England.",
+      "Im Hoch- und Spätmittelalter glichen sich die nordischen Königreiche dem übrigen Europa an, mit Erzbistümern, Klöstern, Burgen und Städten. Auf Island schrieben Gelehrte wie Snorri Sturluson Sagas und Edda nieder, und 1262 unterstellte sich die Insel dem norwegischen König. Den Ostseehandel beherrschte die deutsche Hanse, mit der Dänemark nach der Eroberung Visbys 1361 Krieg führte und 1370 den Frieden von Stralsund schließen musste. 1397 vereinte Königin Margarete I. Dänemark, Norwegen und Schweden in der Kalmarer Union, die bis 1523 bestand."
+    ],
+    "consequences": [
+      "Die Wikinger veränderten die Landkarte Europas: Dublin, die Normandie, der Danelag in England und die Siedlungen auf Island und den Färöern gehen auf ihre Züge und Landnahmen zurück.",
+      "Die Normannen, Nachfahren der Wikinger in der Normandie, eroberten 1066 England und im 11. Jahrhundert Süditalien und Sizilien und prägten damit die Geschichte Westeuropas und des Mittelmeers.",
+      "Das Althing auf Island gilt als eine der ältesten Versammlungen Europas; auf das Thing gehen bis heute Namen von Parlamenten wie dem norwegischen Storting und dem dänischen Folketing zurück.",
+      "Die isländischen Sagas, die Edda und die Runensteine sind die wichtigsten Quellen zur nordischen Götterwelt und prägen Literatur, Musik, Filme und Spiele bis in die Gegenwart.",
+      "L’Anse aux Meadows belegt, dass Europäer rund 500 Jahre vor Kolumbus in Amerika waren, auch wenn die Siedlung nur kurz bestand und keine dauerhaften Folgen hatte.",
+      "Die Kalmarer Union und ihr Zerfall legten die Grundlagen der späteren Staaten Dänemark, Norwegen und Schweden, deren enge Verbindung sich in der nordischen Zusammenarbeit bis heute zeigt."
+    ],
+    "tags": [
+      "wikinger",
+      "skandinavien",
+      "normannen",
+      "langschiff",
+      "island",
+      "sagas",
+      "hanse",
+      "kalmarer union"
+    ],
+    "keyFacts": [
+      "793 überfallen Wikinger das Kloster Lindisfarne; 845 plündern sie Paris.",
+      "865 landet das Große Heidnische Heer in England; nach Alfreds Sieg bei Edington 878 entsteht der Danelag.",
+      "911 erhält Rollo von Karl dem Einfältigen das Land um Rouen, den Kern der Normandie.",
+      "930 tritt auf Island zum ersten Mal das Althing zusammen; um 1000 nimmt die Insel das Christentum an.",
+      "Um 985 besiedelt Erik der Rote Grönland; um 1000 erreicht Leif Eriksson Vinland in Nordamerika.",
+      "1016 wird Knut der Große König von England; 1066 fällt Harald Hardrada bei Stamford Bridge.",
+      "1370 setzt die Hanse im Frieden von Stralsund ihre Vorrechte durch; 1397 entsteht unter Margarete I. die Kalmarer Union."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "In der frühen Wikingerzeit gab es in Skandinavien viele Kleinkönige, Jarle und Häuptlinge, deren Macht auf Gefolgschaft, Land und Beute beruhte. Ein Anführer musste seine Krieger mit Geschenken, Gastmählern und Anteilen am Raub an sich binden; wer Erfolg hatte, gewann Zulauf. Wichtige Entscheidungen fielen auf dem Thing, der Versammlung der freien Männer, die Recht sprach, Streit schlichtete und Könige anerkannte. Auf Island, das keinen König hatte, wurde das Althing ab 930 zur höchsten Instanz der Insel.",
+          "Seit dem 10. Jahrhundert setzten sich in Dänemark, Norwegen und Schweden Königsfamilien durch, die das Land einten und das Christentum förderten. Harald Blauzahn ließ in Dänemark Ringburgen und Brücken bauen, Knut der Große herrschte zeitweise über England, Dänemark und Norwegen, und in Norwegen wurde Olav der Heilige nach seinem Tod 1030 zum ewigen König des Landes verklärt. Thronstreitigkeiten blieben jedoch häufig, besonders in Norwegen, wo im 12. Jahrhundert lange Bürgerkriege tobten.",
+          "Im Hoch- und Spätmittelalter bauten die Könige mit Hilfe der Kirche Verwaltung, Gesetze und Steuern aus und rangen mit dem Adel um Macht. Island und Grönland unterstellten sich 1261 bis 1264 dem norwegischen König. Durch Heiraten und Erbfälle wuchsen die Königshäuser zusammen, bis Margarete I. 1397 die drei Reiche in der Kalmarer Union unter ihrem Großneffen Erik von Pommern vereinte; die Union zerbrach endgültig 1523, als Schweden unter Gustav Vasa ausschied."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die meisten Menschen im Norden waren Bauern, die auf Einzelhöfen oder in kleinen Dörfern Getreide anbauten, Vieh hielten, fischten und jagten. Die Gesellschaft gliederte sich grob in Häuptlinge und Adlige, freie Bauern, die Waffen tragen und am Thing teilnehmen durften, und Unfreie, die Thralle. Sklaven waren eine wichtige Beute der Wikingerzüge und wurden auf Märkten wie Haithabu, Dublin oder an der Wolga verkauft. Familie und Ehre spielten eine große Rolle; Streit wurde oft durch Bußzahlungen beigelegt, konnte aber auch in lange Blutfehden münden.",
+          "Frauen führten die Wirtschaft des Hofes, verwalteten die Schlüssel als Zeichen ihrer Stellung und konnten Eigentum besitzen, erben und sich scheiden lassen. Reiche Gräber wie das Schiffsgrab von Oseberg in Norwegen zeigen das Ansehen mancher Frauen. Wie weit Frauen selbst an Kriegszügen teilnahmen, ist umstritten; DNA-Analysen eines reich ausgestatteten Kriegergrabs aus Birka haben die Debatte belebt. Die meisten Skandinavier verließen ihre Heimat nie, doch Zehntausende wanderten nach England, Irland, Island oder in die Normandie aus."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Vor der Christianisierung verehrten die Skandinavier viele Götter wie Odin, Thor, Freyr und Freyja, brachten Opfer dar und bestatteten Tote mit Grabbeigaben, manchmal in Schiffen. Die Kenntnis dieser Götterwelt beruht vor allem auf christlichen Quellen des 13. Jahrhunderts, besonders der Edda, und ist deshalb nur mit Vorsicht zu lesen. Geschrieben wurde mit Runen, deren jüngere Reihe 16 Zeichen umfasste; Tausende Runensteine erinnern an Verstorbene, an Fahrten nach England oder in den Osten.",
+          "Die Christianisierung verlief über rund drei Jahrhunderte. Nach frühen Missionsversuchen wie dem des Ansgar in Birka um 830 traten im 10. und 11. Jahrhundert die Könige zum Christentum über und setzten es von oben durch. 1103 oder 1104 erhielt Lund ein eigenes Erzbistum für den Norden, später folgten Nidaros (Trondheim) und Uppsala. Mit der Kirche kamen die lateinische Schrift, Klöster und Schulen; auf Island entstand im 13. Jahrhundert eine einzigartige Literatur in der Volkssprache, darunter die Isländersagas und die Königsgeschichten des Snorri Sturluson."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Grundlage der Erfolge war das Langschiff: ein schlankes, in Klinkerbauweise gefertigtes Boot mit Kiel, Rahsegel und Rudern, das hochseetüchtig war und dank geringem Tiefgang weit in Flüsse vordringen konnte. Daneben gab es breitere Frachtschiffe wie die Knorr, mit denen Siedler Vieh und Vorräte nach Island und Grönland brachten. Funde wie die Schiffe von Oseberg und Gokstad oder die Skuldelev-Schiffe aus dem Roskildefjord zeigen die Baukunst der Zeit.",
+          "Die Wikinger waren nicht nur Räuber, sondern auch Händler. Märkte wie Haithabu, Birka und Kaupang verbanden Westeuropa mit dem Osten, über den Pelze, Bernstein, Walrosselfenbein und Sklaven gegen Silber, Seide und Wein getauscht wurden. Zehntausende arabische Silbermünzen in Schatzfunden, besonders auf Gotland, belegen den Handel mit dem Kalifat. Silber wurde oft nach Gewicht gehandelt und dafür in Stücke gehackt; zudem zahlten englische und fränkische Herrscher hohe Tribute, das Danegeld.",
+          "Im Hoch- und Spätmittelalter übernahm die deutsche Hanse mit ihren Koggen den Fernhandel im Ostseeraum. Visby auf Gotland war ein frühes Zentrum, in Bergen unterhielten hansische Kaufleute ein Kontor für den Handel mit Stockfisch, und der Heringsfang vor Schonen war eines der wichtigsten Geschäfte der Region. Die Abhängigkeit vom hansischen Handel führte zu Konflikten mit den nordischen Königen, besonders mit Waldemar IV. von Dänemark."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "russland-osteuropa",
+    "title": "Russland und Osteuropa",
+    "order": 14,
+    "start": 862,
+    "end": 1917,
+    "color": "#1d4ed8",
+    "regions": [
+      "europa",
+      "asien"
+    ],
+    "summary": "Von der Kiewer Rus über die Goldene Horde, den Aufstieg Moskaus und das Doppelreich Polen-Litauen bis zum Zarenreich der Romanows formten über tausend Jahre ostslawische, baltische und polnische Herrschaften den Osten Europas, bis die Februarrevolution 1917 die Monarchie beendete.",
+    "overview": [
+      "Im 9. Jahrhundert entstand an den Flüssen zwischen Ostsee und Schwarzem Meer die Kiewer Rus. Nach der Überlieferung der Nestorchronik wurde 862 der Waräger Rjurik nach Nowgorod gerufen; sein Gefolgsmann Oleg machte um 882 Kiew zum Zentrum eines lockeren Herrschaftsverbandes skandinavischer Krieger und slawischer Stämme, der vom Handel mit Byzanz lebte. Fürstin Olga ließ sich in Konstantinopel taufen, ihr Enkel Wladimir machte 988 das orthodoxe Christentum zur Religion der Rus, und unter Jaroslaw dem Weisen erlebte Kiew mit der Sophienkathedrale und dem Rechtsbuch Russkaja Prawda seine Blüte. Die Rus gilt als gemeinsame Wurzel der Ukraine, Russlands und von Belarus.",
+      "Nach Jaroslaws Tod 1054 zerfiel die Rus in rivalisierende Fürstentümer wie Wladimir-Susdal, Halytsch-Wolhynien und die Stadtrepublik Nowgorod. Zwischen 1237 und 1240 eroberten die Mongolen unter Batu die meisten von ihnen und zerstörten Kiew; die Fürsten mussten der Goldenen Horde an der Wolga Tribut zahlen und sich ihre Herrschaft vom Khan bestätigen lassen. Nowgorod blieb verschont, sein Fürst Alexander Newski wehrte 1240 die Schweden und 1242 den Livländischen Orden ab. Die westlichen Gebiete der Rus fielen im 14. Jahrhundert an das aufsteigende Großfürstentum Litauen und an Polen.",
+      "Moskau, im 13. Jahrhundert ein unbedeutender Ort, wurde unter Iwan I. Kalita Sitz des Metropoliten und Steuereinnehmer der Horde. Dmitri Donskoi besiegte 1380 auf dem Kulikowo-Feld ein Heer der Horde, und Iwan III. unterwarf Nowgorod, beendete nach dem Stehen an der Ugra 1480 die Abhängigkeit von den Tataren und nannte sich Herrscher der ganzen Rus. Im Westen vereinten sich Polen und Litauen 1385 in der Union von Krewo, besiegten 1410 bei Grunwald den Deutschen Orden und schlossen sich 1569 in der Union von Lublin zur Republik beider Nationen zusammen, einem Adelsstaat mit gewähltem König.",
+      "Iwan IV. ließ sich 1547 zum Zaren krönen, eroberte Kasan und Astrachan und verbreitete mit der Opritschnina Schrecken im eigenen Land. Nach dem Aussterben seiner Dynastie stürzten Hunger, Thronkämpfe und fremde Heere das Reich in die Zeit der Wirren, bis eine Landesversammlung 1613 Michail Romanow wählte. Die Kosaken der Ukraine erhoben sich 1648 unter Bohdan Chmelnyzkyj gegen Polen-Litauen und unterstellten sich 1654 dem Zaren. Peter der Große besiegte 1709 Schweden bei Poltawa, gründete St. Petersburg und baute Staat und Heer nach westlichem Vorbild um; Katharina die Große gewann die Krim und teilte mit Preußen und Österreich zwischen 1772 und 1795 Polen-Litauen auf, das trotz der Verfassung vom 3. Mai 1791 von der Landkarte verschwand.",
+      "Im 19. Jahrhundert reichte das Zarenreich von Polen bis an den Pazifik und zeitweise bis Alaska. Offiziere forderten 1825 im Dekabristenaufstand eine Verfassung, Polen erhob sich 1830 und 1863 vergeblich, und die Kriegsniederlage auf der Krim führte 1861 zur Aufhebung der Leibeigenschaft unter Alexander II. Industrie und Eisenbahn wuchsen, zugleich verschärfte der Staat die Russifizierung von Polen, Ukrainern, Litauern und Belarussen und die Benachteiligung der Juden. Die Revolution von 1905 erzwang ein Parlament, die Duma; im Ersten Weltkrieg verlor die Monarchie ihren Rückhalt, und im März 1917 dankte Nikolaus II. ab."
+    ],
+    "consequences": [
+      "Ukrainer, Russen und Belarussen berufen sich gleichermaßen auf die Kiewer Rus; wem ihr Erbe gehört, ist bis heute eine politisch umkämpfte Frage.",
+      "Das orthodoxe Christentum, die kyrillische Schrift und die Kirchenbaukunst aus Byzanz prägen die Kultur der ostslawischen Länder bis in die Gegenwart.",
+      "Die Erfahrung der Teilungen und Aufstände machte die Verfassung vom 3. Mai 1791 und den Freiheitskampf zu Grundpfeilern des polnischen und litauischen Nationalbewusstseins.",
+      "Die Ausdehnung über Sibirien bis zum Pazifik schuf den flächengrößten Staat der Erde und ein Vielvölkerreich, dessen Grenzen und Minderheitenfragen bis heute nachwirken.",
+      "Die späte Aufhebung der Leibeigenschaft und die Armut auf dem Land belasteten Russland bis ins 20. Jahrhundert und bereiteten den Boden für die Revolutionen von 1905 und 1917.",
+      "Literatur, Musik und Malerei des 19. Jahrhunderts, von Puschkin und Schewtschenko bis Tolstoi und Tschaikowski, wurden zu einem bleibenden Teil der Weltkultur."
+    ],
+    "tags": [
+      "kiewer rus",
+      "zarenreich",
+      "polen-litauen",
+      "ukraine",
+      "moskau",
+      "orthodoxie",
+      "leibeigenschaft",
+      "mongolen"
+    ],
+    "keyFacts": [
+      "862 wird nach der Nestorchronik der Waräger Rjurik nach Nowgorod gerufen; um 882 macht Oleg Kiew zum Zentrum der Rus.",
+      "988 lässt sich Großfürst Wladimir taufen; unter Jaroslaw dem Weisen (1019–1054) entsteht die Russkaja Prawda.",
+      "1237–1240 erobern die Mongolen die Rus und zerstören Kiew; 1380 siegt Dmitri Donskoi auf dem Kulikowo-Feld.",
+      "1480 endet mit dem Stehen an der Ugra die Herrschaft der Goldenen Horde über Moskau; 1547 wird Iwan IV. zum Zaren gekrönt.",
+      "1569 vereinen sich Polen und Litauen in der Union von Lublin; 1613 wählt eine Landesversammlung Michail Romanow zum Zaren.",
+      "1648 erheben sich die Kosaken unter Chmelnyzkyj; 1703 gründet Peter der Große St. Petersburg, 1709 siegt er bei Poltawa.",
+      "1772–1795 wird Polen-Litauen dreimal geteilt; 1861 hebt Alexander II. die Leibeigenschaft auf, im März 1917 dankt Nikolaus II. ab."
+    ],
+    "sections": [
+      {
+        "id": "herrschaft",
+        "title": "Herrschaft und Politik",
+        "paragraphs": [
+          "Die Kiewer Rus war kein Staat mit festen Grenzen, sondern ein Verband von Fürstentümern, die Mitglieder der Rjurikiden-Dynastie regierten. Der Großfürst von Kiew stand an der Spitze, doch die Erbfolge nach dem Senioratsprinzip, bei dem Brüder und Neffen nach Alter aufrückten, führte immer wieder zu Bruderkriegen. Neben den Fürsten hatten ihre Gefolgschaft, die Druschina, und die Bojaren großes Gewicht; in Nowgorod wählte die Volksversammlung, das Wetsche, sogar Bürgermeister und Erzbischof und berief Fürsten ab.",
+          "Unter der Herrschaft der Goldenen Horde blieben die russischen Fürsten im Amt, mussten aber Tribut zahlen und sich ihr Amt durch eine Urkunde des Khans, den Jarlyk, bestätigen lassen. Moskau stieg auf, weil seine Fürsten mit der Horde zusammenarbeiteten, Land kauften und erheirateten und die Kirche auf ihre Seite zogen. Iwan III. und Iwan IV. schufen daraus eine Selbstherrschaft, die Autokratie: Der Zar beanspruchte unbeschränkte, von Gott verliehene Macht, Landesversammlungen wie der Semski Sobor berieten ihn nur zeitweise, und der Dienstadel erhielt Land gegen Kriegsdienst.",
+          "Ganz anders war Polen-Litauen verfasst. In der Republik beider Nationen wählte der Adel, die Szlachta, seit 1573 den König und band ihn an Verträge; der Reichstag, der Sejm, konnte durch den Einspruch eines einzelnen Abgeordneten, das Liberum Veto, gelähmt werden. Peter der Große ersetzte in Russland die Bojarenduma durch einen Senat und Fachkollegien und unterstellte die Kirche einem staatlichen Synod; nach den Teilungen Polens herrschte der Zar auch über Millionen Polen, Litauer, Belarussen und Ukrainer. Erst die Revolution von 1905 zwang ihn, eine gewählte Duma zuzulassen, deren Rechte er jedoch eng begrenzte."
+        ]
+      },
+      {
+        "id": "gesellschaft",
+        "title": "Gesellschaft und Alltag",
+        "paragraphs": [
+          "Die große Mehrheit der Menschen lebte als Bauern in kleinen Dörfern aus Holzhäusern, bestellte Roggen, Hafer und Flachs auf kargen Böden und war langen Wintern ausgesetzt. In Russland wurden die Bauern seit dem späten 16. Jahrhundert schrittweise an das Land gebunden; das Gesetzbuch von 1649 machte die Leibeigenschaft erblich. Leibeigene konnten verkauft, verpfändet und zum Militärdienst abgegeben werden, und im 18. Jahrhundert besaßen Adelige oft Hunderte oder Tausende von ihnen. Viele Dörfer verwalteten Land und Abgaben gemeinsam in der Dorfgemeinde, dem Mir.",
+          "In die weiten Steppen im Süden flohen seit dem 15. Jahrhundert Bauern und Abenteurer und bildeten die Gemeinschaften der Kosaken am Dnjepr, am Don und am Jaik. Sie wählten ihre Anführer selbst, dienten polnischen Königen und Zaren als Grenzwächter, erhoben sich aber auch in großen Aufständen wie unter Chmelnyzkyj, Stenka Rasin und Pugatschow. Polen-Litauen war eine Vielvölkerrepublik, in der Polen, Litauer, Ruthenen, Deutsche, Armenier, Tataren und die größte jüdische Gemeinschaft Europas lebten; der Adel stellte nach Schätzungen sechs bis zehn Prozent der Bevölkerung, ein ungewöhnlich großer Anteil.",
+          "Nach den Teilungen Polens durften Juden im Zarenreich nur in einem westlichen Ansiedlungsrayon leben, und nach der Ermordung Alexanders II. 1881 erschütterten Pogrome die Gemeinden, worauf Millionen nach Amerika auswanderten. Die Aufhebung der Leibeigenschaft 1861 machte die Bauern persönlich frei, belastete sie aber mit hohen Ablösezahlungen. Mit der Industrialisierung wuchsen am Ende des 19. Jahrhunderts Arbeitervorstädte in St. Petersburg, Moskau, Łódź und im Donezbecken, in denen lange Arbeitszeiten, Enge und Streiks den Alltag bestimmten."
+        ]
+      },
+      {
+        "id": "kultur",
+        "title": "Kultur, Religion und Wissen",
+        "paragraphs": [
+          "Mit der Taufe Wladimirs 988 kamen aus Byzanz Priester, Ikonen, Kirchenbaukunst und die kyrillische Schrift in die Rus. Klöster wie das Kiewer Höhlenkloster wurden zu Zentren der Bildung, in denen Mönche Chroniken wie die Nestorchronik verfassten. Nach dem Fall Konstantinopels 1453 sah sich die Moskauer Kirche als Hüterin des wahren Glaubens, und ein Mönch formulierte im 16. Jahrhundert die Idee von Moskau als „drittem Rom“. Die Reformen des Patriarchen Nikon spalteten im 17. Jahrhundert die Kirche, und die Altgläubigen wurden über Generationen verfolgt.",
+          "Im Westen des Raumes prägten Katholizismus und Reformation das Geistesleben. Die Krakauer Universität, 1364 gegründet und 1400 erneuert, wurde zu einem Zentrum der Gelehrsamkeit, an dem auch Nikolaus Kopernikus studierte. Francysk Skaryna aus Polazk druckte 1517 in Prag biblische Bücher in einer ostslawischen Schriftsprache, und die Union von Brest führte 1596 einen Teil der orthodoxen Kirche in Polen-Litauen unter die Autorität des Papstes. Bildungszentren wie die Kiewer Mohyla-Akademie verbanden orthodoxe Tradition mit westlicher Schulbildung.",
+          "Peter der Große ließ Bücher in einer vereinfachten Schrift drucken und gründete die Akademie der Wissenschaften in St. Petersburg, an der Gelehrte wie Michail Lomonossow wirkten. Im 19. Jahrhundert schufen Alexander Puschkin, Lew Tolstoi und Fjodor Dostojewski eine Literatur von Weltgeltung, Komponisten wie Michail Glinka und Pjotr Tschaikowski eine eigene Musiksprache. Zugleich formten Dichter wie Adam Mickiewicz und Taras Schewtschenko das Nationalbewusstsein von Polen, Litauern und Ukrainern, oft gegen die Zensur und die Russifizierungspolitik des Zarenreiches."
+        ]
+      },
+      {
+        "id": "wirtschaft",
+        "title": "Wirtschaft und Technik",
+        "paragraphs": [
+          "Die Kiewer Rus verdankte ihren Reichtum dem Handel auf dem Wasserweg „von den Warägern zu den Griechen“ über Dnjepr und Schwarzes Meer: Pelze, Wachs, Honig und Sklaven gingen nach Byzanz und in die islamische Welt, Seide, Wein und Silber kamen zurück. Nowgorod handelte mit der Hanse, die dort ein Kontor unterhielt, und lieferte Pelze und Wachs nach Westen. Die Mongolenherrschaft zerstörte viele Städte und Handwerke und belastete das Land jahrhundertelang mit Tributen.",
+          "Polen-Litauen wurde im 16. und 17. Jahrhundert zur Kornkammer Europas: Adelige ließen auf ihren Gütern Getreide von abhängigen Bauern anbauen und über die Weichsel nach Danzig und weiter in die Niederlande verschiffen. Das Zarenreich lebte von der Landwirtschaft, dem Pelzhandel aus Sibirien und später vom Eisen der Ural-Hütten, das Peter der Große für seine Flotte und sein Heer ausbauen ließ. Im 18. Jahrhundert war Russland einer der größten Eisenproduzenten der Welt, doch die Arbeit beruhte vielfach auf zwangsweise zugewiesenen Bauern.",
+          "Nach 1861 und vor allem seit den 1890er Jahren holte Russland mit ausländischem Kapital und staatlicher Förderung unter Finanzminister Sergei Witte die Industrialisierung nach. Kohle und Eisen aus dem Donezbecken, Öl aus Baku und Textilfabriken in Moskau und Łódź wuchsen rasch, und die Transsibirische Eisenbahn verband Moskau mit dem Pazifik. Dennoch blieb das Reich überwiegend agrarisch, und die Erträge der Bauern lagen deutlich unter denen in Westeuropa."
+        ]
+      }
+    ]
+  },
+  {
     "id": "asiatische-grossreiche",
     "title": "I grandi imperi asiatici (1200–1800)",
-    "order": 10,
+    "order": 15,
     "start": 1200,
     "end": 1800,
     "color": "#be185d",
@@ -864,7 +1286,7 @@
   {
     "id": "osmanisches-reich",
     "title": "L'impero ottomano",
-    "order": 11,
+    "order": 16,
     "start": 1299,
     "end": 1922,
     "color": "#c2410c",
@@ -949,7 +1371,7 @@
   {
     "id": "renaissance-entdeckungen",
     "title": "Rinascimento, scoperte e Riforma",
-    "order": 12,
+    "order": 17,
     "start": 1400,
     "end": 1600,
     "color": "#f59e0b",
@@ -1035,7 +1457,7 @@
   {
     "id": "lateinamerika",
     "title": "America Latina: età coloniale e indipendenza",
-    "order": 13,
+    "order": 18,
     "start": 1492,
     "end": 1910,
     "color": "#65a30d",
@@ -1121,7 +1543,7 @@
   {
     "id": "absolutismus-aufklaerung",
     "title": "Assolutismo e Illuminismo",
-    "order": 14,
+    "order": 19,
     "start": 1600,
     "end": 1789,
     "color": "#6366f1",
@@ -1205,7 +1627,7 @@
   {
     "id": "revolutionen",
     "title": "L'età delle rivoluzioni",
-    "order": 15,
+    "order": 20,
     "start": 1776,
     "end": 1848,
     "color": "#ef4444",
@@ -1288,7 +1710,7 @@
   {
     "id": "industrialisierung-imperialismus",
     "title": "Industrializzazione, Stati nazionali e imperialismo",
-    "order": 16,
+    "order": 21,
     "start": 1780,
     "end": 1914,
     "color": "#475569",
@@ -1373,7 +1795,7 @@
   {
     "id": "erster-weltkrieg-zwischenkriegszeit",
     "title": "Prima guerra mondiale e periodo tra le due guerre",
-    "order": 17,
+    "order": 22,
     "start": 1914,
     "end": 1939,
     "color": "#b45309",
@@ -1459,7 +1881,7 @@
   {
     "id": "zweiter-weltkrieg",
     "title": "Seconda guerra mondiale e Shoah",
-    "order": 18,
+    "order": 23,
     "start": 1933,
     "end": 1945,
     "color": "#7f1d1d",
@@ -1545,7 +1967,7 @@
   {
     "id": "kalter-krieg-gegenwart",
     "title": "Guerra fredda e decolonizzazione",
-    "order": 19,
+    "order": 24,
     "start": 1945,
     "end": 1991,
     "color": "#2563eb",
@@ -1632,7 +2054,7 @@
   {
     "id": "gegenwart",
     "title": "Un mondo globalizzato: dal 1991 a oggi",
-    "order": 20,
+    "order": 25,
     "start": 1991,
     "end": 2026,
     "color": "#0891b2",

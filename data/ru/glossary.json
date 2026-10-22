@@ -21,6 +21,16 @@
     ]
   },
   {
+    "id": "acht-banner",
+    "term": "Восемь знамён",
+    "definition": "Военная и социальная организация маньчжуров, в которой все семьи были распределены по восьми подразделениям, названным по цветам их знамён. Знамённые войска завоевали Китай в 1644 г. и затем, как привилегированные гарнизоны в крупных городах, составили становой хребет власти Цин.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "mandschu-erobern-peking",
+      "kangxi"
+    ]
+  },
+  {
     "id": "agora",
     "term": "Агора",
     "definition": "Центральная площадь греческого города, служившая рынком, местом собраний и политическим центром. В Афинах на агоре стояли здание совета, суды, колоннады и алтари; здесь Сократ вёл свои беседы, и публично вывешивались законы.",
@@ -108,6 +118,51 @@
     ]
   },
   {
+    "id": "auslegerkanu",
+    "term": "Auslegerkanu",
+    "definition": "Kanu mit einem seitlich am Rumpf befestigten Schwimmer, dem Ausleger, der das Boot gegen das Kentern stabilisiert. Für die Besiedlung des Pazifiks nutzten die Seefahrer auch große Doppelrumpfkanus mit Segeln aus Pandanusmatten, die Menschen, Tiere und Pflanzen über Tausende Kilometer tragen konnten. Navigiert wurde ohne Instrumente nach Sternen, Dünung, Wolken und Vogelflug.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "lapita-besiedlung-pazifik",
+      "besiedlung-neuseelands",
+      "tupaia"
+    ]
+  },
+  {
+    "id": "ayllu",
+    "term": "Айлью",
+    "definition": "Родовая и деревенская община в Андах, члены которой возводили себя к общему предку. Айлью владело землёй сообща, распределяло её между семьями и организовывало взаимопомощь в полевых работах и строительстве домов. В империи инков оно было основной единицей повинностей и трудовой службы; во многих андских деревнях сохраняется и поныне.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "pachacutec-und-das-inka-reich",
+      "qhapaq-nan-strassennetz-der-inka",
+      "bau-von-machu-picchu"
+    ]
+  },
+  {
+    "id": "baray",
+    "term": "Baray",
+    "definition": "Khmer-Bezeichnung für die großen rechteckigen Wasserbecken, die die Könige von Angkor anlegen ließen; der Westliche Baray misst etwa acht mal zwei Kilometer. Sie dienten der Wasserversorgung und hatten zugleich religiöse Bedeutung als Abbild des Urozeans um den Weltenberg Meru. Wie stark sie zur Bewässerung der Reisfelder beitrugen, wird in der Forschung unterschiedlich beurteilt.",
+    "epochId": "suedostasien",
+    "related": [
+      "angkor-wat",
+      "jayavarman-vii-und-angkor-thom",
+      "ende-angkors-als-khmer-hauptstadt"
+    ]
+  },
+  {
+    "id": "basileus",
+    "term": "Basileus",
+    "definition": "Griechisches Wort für „König“, das seit Kaiser Herakleios amtlich als Titel des byzantinischen Kaisers diente. Der Basileus verstand sich als Nachfolger der römischen Kaiser und als von Gott eingesetzter Herrscher der Christenheit. Den Anspruch westlicher Herrscher wie Karls des Großen auf den Kaisertitel erkannte Byzanz nur widerwillig an.",
+    "epochId": "byzanz",
+    "related": [
+      "herakleios",
+      "irene-von-athen",
+      "justinian-i",
+      "kaiserkroenung-karls-des-grossen"
+    ]
+  },
+  {
     "id": "beamtenpruefung",
     "term": "Государственные экзамены (кэцзюй)",
     "definition": "Государственная система экзаменов в Китае, по которой начиная с эпохи Хань и особенно с Тан чиновников отбирали по знанию конфуцианского канона. Она призвана была раздавать должности по заслугам, а не по рождению, и определяла образование в Восточной Азии до 1905 года.",
@@ -129,6 +184,19 @@
     ]
   },
   {
+    "id": "bilderstreit",
+    "term": "Bilderstreit (Ikonoklasmus)",
+    "definition": "Die Auseinandersetzung in Byzanz zwischen etwa 726/730 und 843 darüber, ob religiöse Bilder verehrt werden dürfen. Die Ikonoklasten („Bilderzerstörer“) lehnten das als Götzendienst ab, die Ikonodulen („Bilderverehrer“) verteidigten es. Nach zwei Phasen der Bilderfeindschaft wurde die Bilderverehrung 843 endgültig wiederhergestellt; da die meisten Quellen von den Siegern stammen, ist das Ausmaß der Verfolgungen umstritten.",
+    "epochId": "byzanz",
+    "related": [
+      "beginn-des-bilderstreits",
+      "zweites-konzil-von-nicaea",
+      "ende-des-bilderstreits",
+      "leon-iii",
+      "irene-von-athen"
+    ]
+  },
+  {
     "id": "blitzkrieg",
     "term": "Блицкриг",
     "definition": "Название быстрых германских кампаний 1939–1941 годов, в которых танковые соединения и авиация совместно глубоко прорывались в тыл противника и за недели вызывали развал фронтов. Так были захвачены Польша, Франция и Балканы. Против Советского Союза концепция потерпела неудачу, и война превратилась в долгую войну на истощение, в которой решающей оказалась экономическая мощь союзников.",
@@ -137,6 +205,17 @@
       "westfeldzug-1940",
       "ueberfall-auf-polen",
       "erwin-rommel"
+    ]
+  },
+  {
+    "id": "bojaren",
+    "term": "Bojaren",
+    "definition": "Die adelige Oberschicht in der Kiewer Rus, im Moskauer Reich und in den Donaufürstentümern. Sie besaßen großen Grundbesitz, berieten den Fürsten in der Bojarenduma und besetzten hohe Ämter in Heer und Verwaltung. Iwan IV. verfolgte sie in der Opritschnina, Peter der Große schaffte den Rang ab und ersetzte ihn durch die Rangtabelle.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "opritschnina",
+      "iwan-iv",
+      "peter-der-grosse"
     ]
   },
   {
@@ -172,6 +251,49 @@
     ]
   },
   {
+    "id": "caudillo",
+    "term": "Каудильо",
+    "definition": "Название политического и военного вождя, опиравшегося на личных приверженцев, часто вооружённых всадников и зависимых сельских работников. После обретения независимости каудильо определяли политику во многих странах Латинской Америки и нередко пренебрегали конституциями. Термин и сегодня означает авторитарное правление, скроенное под одного человека.",
+    "epochId": "lateinamerika",
+    "related": [
+      "paraguay-krieg",
+      "beginn-der-mexikanischen-revolution"
+    ]
+  },
+  {
+    "id": "chinampa",
+    "term": "Чинампа",
+    "definition": "Искусственно созданный прямоугольный участок сада на мелких озёрах и болотах, окружённый каналами. Ил и растительные остатки поддерживали плодородие почвы, так что можно было собирать несколько урожаев в год. Чинампы в долине Мехико кормили великий город Теночтитлан и до сих пор обрабатываются в Сочимилько.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "gruendung-tenochtitlans",
+      "aztekischer-dreibund",
+      "nezahualcoyotl"
+    ]
+  },
+  {
+    "id": "danegeld",
+    "term": "Danegeld",
+    "definition": "Tributzahlungen, mit denen englische und fränkische Herrscher Wikingerheere zum Abzug bewegten oder Angriffe abwenden wollten. In England zahlte König Æthelred ab 991 immer höhere Summen in Silber, die als Steuer vom ganzen Land eingezogen wurden. Die Zahlungen machten die Raubzüge lohnend und erklären die vielen englischen Münzen in skandinavischen Schatzfunden.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "wikinger-pluendern-paris",
+      "knut-wird-koenig-von-england",
+      "knut-der-grosse"
+    ]
+  },
+  {
+    "id": "danelag",
+    "term": "Danelag",
+    "definition": "Das Gebiet im Norden und Osten Englands, das im späten 9. Jahrhundert von Skandinaviern besiedelt wurde und in dem dänisches Recht galt. Die Bezeichnung (englisch Danelaw) kam erst im 11. Jahrhundert auf. Ortsnamen auf -by und -thorpe sowie skandinavische Lehnwörter wie „sky“ oder „egg“ erinnern bis heute daran.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "grosses-heidnisches-heer",
+      "schlacht-bei-edington",
+      "alfred-der-grosse"
+    ]
+  },
+  {
     "id": "daoismus",
     "term": "Даосизм",
     "definition": "Китайское учение, основанное на «Дао дэ цзине», призывающее жить в согласии с дао — естественным ходом вещей. Вместо честолюбия и жёстких правил оно рекомендует безмятежность, простоту и невмешательство. Позднее из него развилась религия с храмами, жрецами и учениями о бессмертии.",
@@ -195,6 +317,28 @@
     ]
   },
   {
+    "id": "devaraja",
+    "term": "Devaraja",
+    "definition": "Sanskrit für „Gott-König“; Bezeichnung für einen Königskult, den Jayavarman II. 802 im Khmer-Reich einführte. Er verband die Herrschaft des Königs eng mit einer Gottheit, meist Shiva, und wurde von einer Priesterfamilie gepflegt. Was der Kult genau bedeutete und ob der König selbst als Gott galt, ist in der Forschung umstritten.",
+    "epochId": "suedostasien",
+    "related": [
+      "jayavarman-ii-begruendet-khmer-reich",
+      "jayavarman-ii",
+      "angkor-wat"
+    ]
+  },
+  {
+    "id": "devsirme",
+    "term": "Девширме (набор мальчиков)",
+    "definition": "Периодический набор христианских мальчиков, главным образом из балканских деревень, на службу султану. Мальчиков обращали в ислам и обучали как янычар или при дворце; некоторые поднимались до великого визиря, и зодчий Синан поступил на государственную службу именно так. В XVII веке набор утратил значение и был прекращён.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "mimar-sinan",
+      "bau-der-sueleymaniye-moschee",
+      "osmanisches-reich"
+    ]
+  },
+  {
     "id": "dharma",
     "term": "Дхарма",
     "definition": "Центральное понятие индийских религий, обозначающее в зависимости от контекста мировой порядок, религиозный долг или учение Будды. Для индуистов дхарма означает обязанности человека по его сословию и этапу жизни, для буддистов — истину, возвещённую Буддой. Ашока понимал под ней политику ненасилия и благополучия.",
@@ -213,6 +357,18 @@
     "related": [
       "arabische-eroberung-jerusalems",
       "kalifat-von-cordoba"
+    ]
+  },
+  {
+    "id": "digitalisierung",
+    "term": "Цифровизация",
+    "definition": "Преобразование информации в цифровые данные и растущее использование компьютеров, интернета и сетевых устройств во всех сферах жизни. С 1990-х гг. она коренным образом изменила труд, торговлю, коммуникацию, образование и политику. К её тёмным сторонам относятся слежка, злоупотребление данными и зависимость от нескольких крупных компаний.",
+    "epochId": "gegenwart",
+    "related": [
+      "world-wide-web-1991",
+      "vorstellung-des-iphone",
+      "tim-berners-lee",
+      "steve-jobs"
     ]
   },
   {
@@ -258,6 +414,16 @@
     ]
   },
   {
+    "id": "edda",
+    "term": "Edda",
+    "definition": "Name zweier isländischer Werke des 13. Jahrhunderts, die wichtigste Quelle für die nordische Mythologie. Die Prosa-Edda des Snorri Sturluson ist ein Lehrbuch der Dichtkunst, das die Göttersagen nacherzählt; die Lieder-Edda ist eine Sammlung älterer Götter- und Heldenlieder. Da beide von Christen aufgeschrieben wurden, ist umstritten, wie genau sie den vorchristlichen Glauben wiedergeben.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "snorri-schreibt-die-edda",
+      "snorri-sturluson"
+    ]
+  },
+  {
     "id": "eiserner-vorhang",
     "term": "Железный занавес",
     "definition": "Название наглухо закрытой границы между западными демократиями и находившимся под господством СССР Восточным блоком, разделявшей Европу от Балтики до Адриатики. Уинстон Черчилль сделал термин знаменитым в речи 1946 года. Колючая проволока, мины и приказ стрелять мешали бегству на Запад; в 1989 году занавес был открыт.",
@@ -280,6 +446,17 @@
     ]
   },
   {
+    "id": "encomienda",
+    "term": "Энкомьенда",
+    "definition": "Испанский колониальный институт, при котором корона «поручала» испанцу группу коренных жителей, которые были обязаны ему данью и трудом. Взамен энкомендеро должен был защищать их и обеспечивать наставление в христианской вере. На практике энкомьенда приводила к жестокой эксплуатации и была постепенно вытеснена после Новых законов 1542 г.",
+    "epochId": "lateinamerika",
+    "related": [
+      "gesetze-von-burgos",
+      "neue-gesetze-1542",
+      "bartolome-de-las-casas"
+    ]
+  },
+  {
     "id": "entspannungspolitik",
     "term": "Политика разрядки",
     "definition": "Политика 1970-х годов по снижению напряжённости между Востоком и Западом посредством переговоров, договоров и торговли без отказа от принципиальной противоположности. К ней относились Восточные договоры Вилли Брандта, соглашения об ограничении стратегических вооружений и Хельсинкский заключительный акт 1975 года. Она облегчила повседневную жизнь в разделённой Германии и подготовила мирное окончание холодной войны.",
@@ -291,6 +468,17 @@
     ]
   },
   {
+    "id": "erdhuegelkulturen",
+    "term": "Культуры строителей курганов (Mound Builders)",
+    "definition": "Собирательное название коренных культур Северной Америки, на протяжении тысячелетий возводивших земляные курганы и валы для погребений, храмов и церемоний. К ним относятся Поверти-Пойнт, культуры адена и хоупвелл и миссисипская культура с Кахокией. В XIX веке белые американцы часто ошибочно приписывали сооружения исчезнувшему чужому народу, вместо того чтобы признать их творением предков коренных народов.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "erdwerke-von-poverty-point",
+      "hopewell-kultur",
+      "cahokia-mississippi-kultur"
+    ]
+  },
+  {
     "id": "ermaechtigungsgesetz",
     "term": "Закон о чрезвычайных полномочиях",
     "definition": "Закон «Об устранении бедственного положения народа и государства», принятый рейхстагом 23 марта 1933 года, который позволил правительству Гитлера издавать законы без парламента и даже в отступление от конституции. Против проголосовала только СДПГ; депутаты КПГ уже были арестованы. Закон стал правовой основой диктатуры и неоднократно продлевался до 1945 года.",
@@ -299,6 +487,18 @@
       "reichstagsbrand-und-ermaechtigungsgesetz",
       "machtuebernahme-nationalsozialisten",
       "adolf-hitler"
+    ]
+  },
+  {
+    "id": "europaeische-union",
+    "term": "Европейский союз",
+    "definition": "Союз европейских государств, возникший из Европейских сообществ в 1993 г. с Маастрихтским договором. Его члены имеют общий рынок, общие институты — Парламент, Комиссию и Суд — и в большинстве общий евро. После нескольких расширений и выхода Великобритании в ЕС входят 27 государств.",
+    "epochId": "gegenwart",
+    "related": [
+      "vertrag-von-maastricht",
+      "eu-osterweiterung-2004",
+      "brexit",
+      "einfuehrung-euro-bargeld"
     ]
   },
   {
@@ -343,6 +543,16 @@
     ]
   },
   {
+    "id": "geez",
+    "term": "Геэз",
+    "definition": "Древний семитский язык и письмо Эфиопии, засвидетельствованные со времён Аксума. Геэз исчез как разговорный язык в Средние века, но по сей день остаётся языком эфиопской православной литургии; алфавиты амхарского и тигринья развились из его письма.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "ezana-christianisierung-aksum",
+      "yekuno-amlak-salomonische-dynastie"
+    ]
+  },
+  {
     "id": "gegenreformation",
     "term": "Контрреформация",
     "definition": "Усилия католической церкви с середины XVI века вернуть утраченные территории и обновить собственное учение. Важнейшими средствами были Тридентский собор, орден иезуитов, инквизиция и запрет книг, а также поддержка католических князей.",
@@ -372,6 +582,17 @@
       "montesquieu-geist-der-gesetze",
       "lockes-two-treatises",
       "john-locke"
+    ]
+  },
+  {
+    "id": "gewuerzinseln",
+    "term": "Gewürzinseln (Molukken)",
+    "definition": "Inselgruppe im Osten des heutigen Indonesien, auf der lange als einzigem Ort der Welt Gewürznelken wuchsen; Muskatnuss kam nur von den nahen Banda-Inseln. Der Wunsch, diesen Handel zu beherrschen, trieb Portugiesen, Spanier, Engländer und Niederländer nach Südostasien. Die Niederländische Ostindien-Kompanie erzwang im 17. Jahrhundert mit großer Gewalt ein Monopol.",
+    "epochId": "suedostasien",
+    "related": [
+      "portugiesen-erobern-malakka",
+      "voc-gruendet-batavia",
+      "jan-pieterszoon-coen"
     ]
   },
   {
@@ -409,6 +630,26 @@
     ]
   },
   {
+    "id": "goldene-horde",
+    "term": "Золотая Орда",
+    "definition": "Монгольское государство-преемник в степях к северу от Чёрного и Каспийского морей, основанное Батыем после монгольского нашествия около 1242 г. со столицей Сарай на Волге. Русские князья обязаны были платить ей дань и получать от хана подтверждение своей власти; эта зависимость закончилась в 1480 г.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "mongolensturm-in-osteuropa",
+      "dschingis-khan"
+    ]
+  },
+  {
+    "id": "goldener-stuhl",
+    "term": "Золотой трон",
+    "definition": "Священный символ империи Ашанти, который, по преданию, спустился с неба при Осеи Туту и воплощает душу народа. Никто не вправе сидеть на нём; асантехене возводится над ним.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "osei-tutu",
+      "osei-tutu-gruendet-asante"
+    ]
+  },
+  {
     "id": "gotik",
     "term": "Готика",
     "definition": "Архитектурный стиль Высокого и позднего Средневековья, возникший во Франции около 1140 года и соединивший стрельчатую арку, нервюрный свод и контрфорс в высокие, залитые светом церкви. Соборы в Шартре, Реймсе и Кёльне — его самые знаменитые творения; название появилось лишь в эпоху Возрождения, и притом как уничижительное.",
@@ -419,6 +660,48 @@
     ]
   },
   {
+    "id": "griechisches-feuer",
+    "term": "Griechisches Feuer",
+    "definition": "Eine Brandwaffe, die die byzantinische Flotte seit dem 7. Jahrhundert aus Rohren gegen feindliche Schiffe spritzte und die auch auf dem Wasser weiterbrannte. Ihre Zusammensetzung war ein streng gehütetes Staatsgeheimnis und ist bis heute nicht sicher bekannt; vermutlich enthielt sie Erdöl. Sie trug entscheidend zur Abwehr der arabischen Belagerungen Konstantinopels bei.",
+    "epochId": "byzanz",
+    "related": [
+      "einsatz-des-griechischen-feuers",
+      "belagerung-konstantinopels-717",
+      "leon-iii"
+    ]
+  },
+  {
+    "id": "griot",
+    "term": "Гриот",
+    "definition": "В Западной Африке — наследственный певец, сказитель и музыкант, устно передающий родословные, хвалебные песни и историю правящих родов. Гриоты служили советниками при дворах и сегодня хранят эпосы, такие как эпос о Сундиате.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "sundiata-keita",
+      "sundiata-schlacht-von-kirina"
+    ]
+  },
+  {
+    "id": "grosswesir",
+    "term": "Великий визирь",
+    "definition": "Высший министр Османской империи и заместитель султана, хранивший его печать. Он председательствовал в императорском совете и управлении и нередко командовал армией в походе. Его официальная резиденция, Блистательная Порта, стала европейским названием османского правительства в целом.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "belagerung-wiens-1683",
+      "tulpenzeit",
+      "midhat-pascha"
+    ]
+  },
+  {
+    "id": "hangeul",
+    "term": "Хангыль",
+    "definition": "Корейский алфавит, разработанный по велению короля Седжона в 1443 г. и обнародованный в 1446 г. Его буквы обозначают отдельные звуки и объединяются в слоговые блоки, что делает его гораздо проще для изучения, чем китайское письмо.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "koenig-sejong-verkuendet-hangeul",
+      "sejong-der-grosse"
+    ]
+  },
+  {
     "id": "hanse",
     "term": "Ганза",
     "definition": "Союз нижненемецких купцов, а позднее городов, господствовавший в торговле на Северном и Балтийском морях с XII по XVII век. С торговыми дворами в Лондоне, Брюгге, Бергене и Новгороде, с общими рейхстагами и при необходимости войной он отстаивал свои торговые привилегии.",
@@ -426,6 +709,18 @@
     "related": [
       "erster-hansetag",
       "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "harem",
+    "term": "Гарем",
+    "definition": "Защищённая, частная часть мусульманского дома, особенно жилые покои семьи султана во дворце Топкапы. Там жили мать султана, его жёны и наложницы, дети и служанки, там же получали образование женщины. Вопреки европейским фантазиям, гарем был политическим центром власти, в котором большое влияние имела валиде-султан.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "bau-des-topkapi-palastes",
+      "huerrem-sultan",
+      "koesem-sultan",
+      "koesem-sultan-regentschaft"
     ]
   },
   {
@@ -528,6 +823,17 @@
     ]
   },
   {
+    "id": "ikone",
+    "term": "Ikone",
+    "definition": "Ein meist auf Holz gemaltes Bild Christi, Marias oder eines Heiligen, das in der orthodoxen Kirche verehrt wird. Nach orthodoxer Lehre gilt die Verehrung nicht dem Bild selbst, sondern dem Dargestellten; die Ikone wird als Fenster zur himmlischen Welt verstanden. Um die Berechtigung dieser Verehrung tobte im 8. und 9. Jahrhundert der Bilderstreit.",
+    "epochId": "byzanz",
+    "related": [
+      "beginn-des-bilderstreits",
+      "zweites-konzil-von-nicaea",
+      "ende-des-bilderstreits"
+    ]
+  },
+  {
     "id": "imperialismus",
     "term": "Империализм",
     "definition": "Стремление великих держав распространить своё господство на другие страны и народы — через колонии, экономическую зависимость или военное давление. Эпоха империализма примерно с 1880 по 1914 год подчинила европейскому контролю почти всю Африку и значительную часть Азии и обострила соперничество держав.",
@@ -560,6 +866,18 @@
     ]
   },
   {
+    "id": "islamismus",
+    "term": "Исламизм",
+    "definition": "Политические движения, стремящиеся устроить государство и общество по своему толкованию ислама и шариата. Они простираются от партий, участвующих в выборах, до террористических групп, таких как «Аль-Каида» или так называемое «Исламское государство». Термин относится к политической идеологии, а не к религии ислама, подавляющее большинство последователей которого отвергает насилие.",
+    "epochId": "gegenwart",
+    "related": [
+      "anschlaege-11-september",
+      "osama-bin-laden",
+      "krieg-in-afghanistan",
+      "iranische-revolution-1979"
+    ]
+  },
+  {
     "id": "jakobiner",
     "term": "Якобинцы",
     "definition": "Члены самого влиятельного политического клуба Французской революции, названного по месту собраний в бывшем доминиканском монастыре в Париже. При Робеспьере они стали радикальной партией, которая в 1793–1794 годах защищала республику террором от врагов внутри страны и за её пределами. В Европе этим словом долго бранили сторонников радикально-демократических идей.",
@@ -567,6 +885,39 @@
     "related": [
       "maximilien-de-robespierre",
       "hinrichtung-ludwigs-xvi-und-schreckensherrschaft"
+    ]
+  },
+  {
+    "id": "janitscharen",
+    "term": "Янычары",
+    "definition": "Элитная пехота османских султанов, название которой означает «новое войско». Они возникли в XIV веке, набирались через набор мальчиков, регулярно оплачивались и рано получили огнестрельное оружие, что сделало их первой постоянной пехотой в Европе. Позднее янычары стали могущественной группой, враждебной реформам, пока Махмуд II не распустил их в 1826 г.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "aufloesung-der-janitscharen",
+      "mahmud-ii",
+      "nizam-i-cedid",
+      "schlacht-bei-mohacs"
+    ]
+  },
+  {
+    "id": "jarl",
+    "term": "Jarl",
+    "definition": "Ein hoher skandinavischer Adelstitel, der einen mächtigen Häuptling oder einen Statthalter des Königs bezeichnete. Die Jarle von Lade beherrschten im 10. Jahrhundert weite Teile Norwegens, und die Jarle von Orkney regierten die Inseln nördlich von Schottland. Der englische Adelstitel „Earl“ ist mit dem Wort verwandt und übernahm unter Knut dem Großen dessen Bedeutung.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "schlacht-bei-svolder",
+      "olav-tryggvason",
+      "knut-der-grosse"
+    ]
+  },
+  {
+    "id": "jesuitenreduktion",
+    "term": "Иезуитская редукция",
+    "definition": "Миссионерская деревня под управлением иезуитов, в которой расселяли коренных жителей, прежде всего гуарани, крестили их и защищали от работорговцев и колонистов. В редукциях были церкви, мастерские и общие поля, и они отчасти самоуправлялись. После изгнания иезуитов в 1767 г. они пришли в упадок.",
+    "epochId": "lateinamerika",
+    "related": [
+      "jesuitenreduktionen-in-paraguay",
+      "vertreibung-der-jesuiten-1767"
     ]
   },
   {
@@ -578,6 +929,17 @@
       "neolithische-revolution",
       "catalhoeyuek",
       "jericho-frueheste-stadtsiedlung"
+    ]
+  },
+  {
+    "id": "jungtuerken",
+    "term": "Младотурки",
+    "definition": "Движение офицеров, чиновников и интеллектуалов, которое с 1890-х гг. боролось против абсолютного правления Абдул-Хамида II и за конституцию. Его важнейшая организация, Комитет единения и прогресса, добилась восстановления конституции в 1908 г. и господствовала в государстве с 1913 г. Его правительство ввело империю в Первую мировую войну и несёт ответственность за геноцид армян.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "jungtuerkische-revolution",
+      "balkankriege",
+      "voelkermord-an-den-armeniern"
     ]
   },
   {
@@ -605,6 +967,28 @@
     ]
   },
   {
+    "id": "kapitulationen",
+    "term": "Капитуляции",
+    "definition": "Торговые привилегии, дарованные султанами европейским государствам, например Франции в 1569 г. и Англии в 1580 г. Они позволяли иностранным купцам низкие пошлины, свободное отправление религии и юрисдикцию собственных консулов. В XIX веке они стали инструментом европейского влияния; Османская империя в одностороннем порядке отменила их в 1914 г.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "sueleyman-der-praechtige",
+      "osmanischer-staatsbankrott",
+      "krimkrieg"
+    ]
+  },
+  {
+    "id": "katipunan",
+    "term": "Katipunan",
+    "definition": "Geheimbund, den Andrés Bonifacio 1892 in Manila gründete, um die Unabhängigkeit der Philippinen von Spanien mit Waffengewalt zu erkämpfen. Sein Name ist eine Kurzform für eine Tagalog-Bezeichnung, die etwa „Höchste und ehrwürdigste Gesellschaft der Kinder des Volkes“ bedeutet. Mit seiner Entdeckung im August 1896 begann die Philippinische Revolution.",
+    "epochId": "suedostasien",
+    "related": [
+      "philippinische-revolution",
+      "jose-rizal",
+      "emilio-aguinaldo"
+    ]
+  },
+  {
     "id": "keilschrift",
     "term": "Клинопись",
     "definition": "Древнейшая известная письменность, созданная шумерами около 3200 года до н. э. Знаки клиновидной формы вдавливались тростниковым стилусом во влажную глину и сначала обозначали предметы, позднее и слоги. Клинопись использовалась более 3000 лет для многих языков Ближнего Востока.",
@@ -613,6 +997,17 @@
       "sumerische-keilschrift",
       "codex-hammurapi",
       "gilgamesch-epos"
+    ]
+  },
+  {
+    "id": "klimawandel",
+    "term": "Изменение климата",
+    "definition": "Потепление Земли, вызванное человеком, прежде всего сжиганием угля, нефти и газа, при котором выделяются углекислый газ и другие парниковые газы. Следствиями становятся повышение уровня моря и учащение волн жары, засух и ливней. Парижским соглашением 2015 г. государства поставили цель удержать потепление существенно ниже двух градусов.",
+    "epochId": "gegenwart",
+    "related": [
+      "pariser-klimaabkommen",
+      "greta-thunberg",
+      "wangari-maathai"
     ]
   },
   {
@@ -670,6 +1065,29 @@
     ]
   },
   {
+    "id": "kosaken",
+    "term": "Kosaken",
+    "definition": "Freie, militärisch organisierte Gemeinschaften in den Steppen der heutigen Ukraine und Südrusslands, die seit dem 15. Jahrhundert aus geflohenen Bauern und Abenteurern entstanden. Sie wählten ihre Anführer, die Atamane oder Hetmane, selbst und dienten polnischen Königen und Zaren als Grenztruppen. Zugleich führten sie große Aufstände an und trugen die Eroberung Sibiriens.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "chmelnyzkyj-aufstand",
+      "bohdan-chmelnyzkyj",
+      "pugatschow-aufstand",
+      "jermak-beginnt-die-eroberung-sibiriens"
+    ]
+  },
+  {
+    "id": "kreolen",
+    "term": "Креолы",
+    "definition": "В испанской Америке — название потомков европейцев, родившихся в колониях. Они часто владели землёй, рудниками и торговыми домами, но при высоких должностях им предпочитали родившихся в Испании. Креолы, такие как Симон Боливар и Хосе де Сан-Мартин, возглавили движения за независимость.",
+    "epochId": "lateinamerika",
+    "related": [
+      "simon-bolivar",
+      "jose-de-san-martin",
+      "mairevolution-buenos-aires"
+    ]
+  },
+  {
     "id": "kreuzzug",
     "term": "Крестовый поход",
     "definition": "Военная экспедиция, провозглашённая папой, обещавшая участникам прощение грехов и направленная прежде всего против мусульманских правителей Святой земли. Между 1096 и 1291 годами на восток двинулись семь больших крестоносных армий; позднее это название получили и походы против еретиков и язычников в Европе.",
@@ -681,6 +1099,26 @@
     ]
   },
   {
+    "id": "kultursystem",
+    "term": "Kultursystem",
+    "definition": "Niederländisch „cultuurstelsel“; das 1830 auf Java eingeführte Zwangsanbausystem. Die Dörfer mussten einen Teil ihres Landes oder ihrer Arbeitskraft für Exportpflanzen wie Kaffee, Zucker und Indigo einsetzen, die der Kolonialstaat zu niedrigen Preisen aufkaufte. Es brachte den Niederlanden hohe Gewinne, führte auf Java aber zu Not und Hungersnöten und wurde ab 1870 schrittweise abgeschafft.",
+    "epochId": "suedostasien",
+    "related": [
+      "java-krieg-und-kultursystem",
+      "industrialisierung-imperialismus"
+    ]
+  },
+  {
+    "id": "kuenstliche-intelligenz",
+    "term": "Искусственный интеллект",
+    "definition": "Компьютерные системы, решающие задачи, прежде требовавшие человеческого мышления, например понимание языка, распознавание изображений или подготовку решений. Современные методы обучаются на больших массивах данных вместо следования жёстко заданным правилам. С 2022 г. широкое распространение получили генеративные программы, такие как ChatGPT, вызвавшие дискуссии о труде, авторском праве и контроле.",
+    "epochId": "gegenwart",
+    "related": [
+      "chatgpt-und-generative-ki",
+      "alan-turing"
+    ]
+  },
+  {
     "id": "kupferzeit",
     "term": "Медный век (энеолит)",
     "definition": "Переходный период между неолитом и бронзовым веком, когда люди выплавляли медную руду и изготавливали из неё топоры, иглы и украшения, но камень по-прежнему оставался важнейшим материалом. В Европе он охватывает примерно время с 4500 по 2200 год до н. э.; в эту эпоху жил Эци.",
@@ -689,6 +1127,51 @@
       "beginn-der-kupferzeit",
       "oetzi",
       "oetzi-stirbt-in-den-alpen"
+    ]
+  },
+  {
+    "id": "kyrillische-schrift",
+    "term": "Kyrillische Schrift",
+    "definition": "Ein aus dem griechischen Alphabet entwickeltes Schriftsystem für slawische Sprachen, das im späten 9. und frühen 10. Jahrhundert unter den Schülern Kyrills und Methods im Bulgarischen Reich entstand und nach Kyrill benannt ist. Kyrill selbst hatte zuvor die glagolitische Schrift geschaffen. Heute schreiben unter anderem Russisch, Ukrainisch, Belarussisch, Bulgarisch, Serbisch und Mazedonisch kyrillisch.",
+    "epochId": "byzanz",
+    "related": [
+      "kyrill",
+      "method",
+      "mission-von-kyrill-und-method",
+      "taufe-boris-von-bulgarien"
+    ]
+  },
+  {
+    "id": "lange-zaehlung",
+    "term": "Долгий счёт",
+    "definition": "Мезоамериканская система летосчисления, ведущая счёт дням от мифической исходной даты в 3114 г. до н. э. Она использует единицы в 1, 20, 360, 7200 и 144 000 дней и позволяла датировать с точностью до дня на протяжении столетий. Майя применяли её на стелах примерно с III до начала X века.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "stele-2-von-chiapa-de-corzo",
+      "stele-29-von-tikal",
+      "kollaps-der-klassischen-maya"
+    ]
+  },
+  {
+    "id": "langschiff",
+    "term": "Langschiff",
+    "definition": "Das schlanke Kriegsschiff der Wikinger, in Klinkerbauweise aus sich überlappenden Planken gebaut, mit Kiel, Rahsegel und Ruderbänken. Es war hochseetüchtig und hatte so wenig Tiefgang, dass es weit in Flüsse vordringen und an flachen Stränden landen konnte. Funde wie die Schiffe von Gokstad und Skuldelev zeigen Längen von etwa 20 bis 30 Metern.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "ueberfall-auf-lindisfarne",
+      "wikinger-pluendern-paris",
+      "schlacht-bei-svolder"
+    ]
+  },
+  {
+    "id": "lapita-kultur",
+    "term": "Lapita-Kultur",
+    "definition": "Archäologische Kultur, benannt nach einem Fundort in Neukaledonien, die in der zweiten Hälfte des 2. Jahrtausends v. Chr. im Bismarck-Archipel auftrat. Kennzeichen ist Keramik mit fein gestempelten geometrischen Mustern. Ihre Träger sprachen austronesische Sprachen, besiedelten innerhalb weniger Jahrhunderte die Inseln bis Tonga und Samoa und gelten als Vorfahren der Polynesier.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "lapita-besiedlung-pazifik",
+      "lapita-erreicht-tonga-und-samoa",
+      "besiedlung-ostpolynesiens"
     ]
   },
   {
@@ -724,6 +1207,18 @@
     ]
   },
   {
+    "id": "leibeigenschaft",
+    "term": "Leibeigenschaft",
+    "definition": "Die rechtliche Bindung von Bauern an den Boden und an einen Herrn, dem sie Arbeit und Abgaben schuldeten. In Russland wurde sie seit dem späten 16. Jahrhundert verschärft und 1649 erblich; Leibeigene konnten verkauft und zum Militär abgegeben werden. Alexander II. hob sie 1861 auf, in den Ostseeprovinzen war sie schon zwischen 1816 und 1819 beendet worden.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "aufhebung-der-leibeigenschaft-in-russland",
+      "alexander-ii",
+      "pugatschow-aufstand",
+      "taras-schewtschenko"
+    ]
+  },
+  {
     "id": "liberalismus",
     "term": "Либерализм",
     "definition": "Политическое течение, ставящее в центр свободу личности перед государством и требующее конституции, разделения властей, основных прав, свободной печати и свободной экономики. Либерализм возник из Просвещения и революций в Америке и Франции и опирался на средний класс. В XIX веке либералы спорили с силами Реставрации о конституциях и с демократами — о расширении избирательного права.",
@@ -756,6 +1251,28 @@
     ]
   },
   {
+    "id": "mana",
+    "term": "Mana",
+    "definition": "Polynesischer Begriff für eine übernatürliche Kraft, Autorität und Ansehen, die Menschen, Ahnen, Orte und Gegenstände besitzen können. Häuptlinge und Könige leiteten ihr Mana von göttlichen Vorfahren ab; Erfolge im Krieg vermehrten es, Niederlagen oder Verstöße gegen das Tapu konnten es mindern. Der Begriff spielt in den Kulturen Polynesiens bis heute eine große Rolle.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "tui-tonga-reich",
+      "moai-auf-rapa-nui",
+      "george-tupou-i"
+    ]
+  },
+  {
+    "id": "mandala-staat",
+    "term": "Mandala (Herrschaftsordnung)",
+    "definition": "Modell, mit dem Historiker die frühen Reiche Südostasiens beschreiben: Ein Machtzentrum war von Kreisen abhängiger Fürsten und Häfen umgeben, deren Treue sich nach Stärke und Ansehen des Herrschers richtete. Grenzen waren unscharf, und dieselben Gebiete konnten mehreren Zentren zugleich Tribut leisten. Der Begriff erklärt, warum Reiche wie Srivijaya oder Majapahit rasch wachsen und schrumpfen konnten.",
+    "epochId": "suedostasien",
+    "related": [
+      "aufstieg-von-srivijaya",
+      "gruendung-von-majapahit",
+      "gruendung-von-champa"
+    ]
+  },
+  {
     "id": "mandat-des-himmels",
     "term": "Небесный мандат",
     "definition": "Китайское представление, согласно которому правитель получает власть от Неба, пока он правит справедливо. Неурожаи, катастрофы и восстания считались знаками того, что мандат отозван, и оправдывали свержение династии. Эта идея объясняет цикл возвышения и падения китайских династий.",
@@ -764,6 +1281,27 @@
       "qin-shihuangdi-einigt-china",
       "wu-zetian-wird-kaiserin",
       "tang-dynastie"
+    ]
+  },
+  {
+    "id": "mansa",
+    "term": "Манса",
+    "definition": "Титул правителя империи Мали на языке малинке, приблизительно переводимый как «царь» или «император». Манса стоял во главе федерации провинций и данников-князей; самым известным обладателем титула был Манса Муса.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "mansa-musa",
+      "sundiata-keita"
+    ]
+  },
+  {
+    "id": "mansab-system",
+    "term": "Система мансаб",
+    "definition": "Введённая Акбаром система рангов для должностных лиц империи Великих Моголов. Каждый мансабдар получал ранг, определявший его жалованье и число всадников, которых он должен был выставлять для правителя; ранги не передавались по наследству и привязывали ко двору как мусульман, так и индуистских раджпутов.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "akbar",
+      "akbar-mogulreich",
+      "herrschaft-aurangzebs"
     ]
   },
   {
@@ -784,6 +1322,81 @@
     "related": [
       "ludwig-xiv",
       "hof-nach-versailles"
+    ]
+  },
+  {
+    "id": "mesoamerika",
+    "term": "Мезоамерика",
+    "definition": "Культурная область, охватывающая южную и центральную Мексику, Гватемалу, Белиз и части Гондураса и Сальвадора. Несмотря на разные языки, её народы разделяли земледелие кукурузы, храмы-пирамиды, игру в мяч, 260-дневный ритуальный календарь и многих богов. К ним относились ольмеки, сапотеки, майя, Теотиуакан, тольтеки и ацтеки.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "olmeken-in-mesoamerika",
+      "teotihuacan-metropole",
+      "aztekischer-dreibund",
+      "amerika-vorkolumbisch"
+    ]
+  },
+  {
+    "id": "mesoamerikanisches-ballspiel",
+    "term": "Мезоамериканская игра в мяч",
+    "definition": "Командная игра с тяжёлым резиновым мячом, который, как правило, можно было отбивать только бёдрами, ягодицами и ногами. В неё играли более 3000 лет по всей Мезоамерике на длинных площадках, ограниченных стенами. Игра была спортом, религиозным ритуалом и порой частью политических церемоний, которые могли заканчиваться жертвоприношениями.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "aufstieg-von-chichen-itza",
+      "gruendung-von-monte-alban",
+      "olmeken-in-mesoamerika"
+    ]
+  },
+  {
+    "id": "mestizen",
+    "term": "Метисы",
+    "definition": "Название людей с европейскими и индейскими предками в колониальной Латинской Америке. Колониальные власти классифицировали население по таким категориям происхождения, определявшим права, налоги и статус. В XIX–XX веках смешение было объявлено частью национальной идентичности в таких странах, как Мексика.",
+    "epochId": "lateinamerika",
+    "related": [
+      "malinche",
+      "aufstand-tupac-amaru-ii"
+    ]
+  },
+  {
+    "id": "mfecane",
+    "term": "Мфекане",
+    "definition": "Название войн, бегств и основания государств в южной Африке примерно в 1815–1840 гг.; на языках нгуни слово означает нечто вроде «сокрушение». Его причины и масштабы спорны среди историков.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "mfecane-im-suedlichen-afrika",
+      "shaka",
+      "shaka-gruendet-zulu-reich"
+    ]
+  },
+  {
+    "id": "millet",
+    "term": "Миллет",
+    "definition": "Название признанных религиозных общин Османской империи, таких как греческие православные, армяне и евреи. Под руководством своих религиозных глав они в значительной мере сами регулировали брак, наследование, образование и благотворительность и отвечали перед султаном за налоги и порядок. Порядок миллетов сложился в твёрдую систему главным образом в XIX веке.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "fall-konstantinopels",
+      "mehmed-ii",
+      "tanzimat-edikt-von-guelhane"
+    ]
+  },
+  {
+    "id": "mita",
+    "term": "Мита",
+    "definition": "Первоначально трудовая повинность в империи инков, которую испанцы превратили в систему принудительного труда. Индейские деревни должны были по очереди поставлять часть мужчин на рудники, такие как Потоси, или на другие работы. Мита была одним из самых ненавистных бремён колониальной эпохи и была отменена лишь в ходе обретения независимости.",
+    "epochId": "lateinamerika",
+    "related": [
+      "silberberg-von-potosi",
+      "aufstand-tupac-amaru-ii"
+    ]
+  },
+  {
+    "id": "moai",
+    "term": "Moai",
+    "definition": "Die großen Steinfiguren von Rapa Nui (Osterinsel), von denen fast 900 bekannt sind. Sie stellen Ahnen dar und standen meist auf zeremoniellen Plattformen, den Ahu, mit dem Blick ins Inselinnere. Die meisten wurden aus Tuffstein im Krater Rano Raraku gehauen; einige trugen Kopfaufsätze aus rotem Schlackenstein, die Pukao.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "moai-auf-rapa-nui",
+      "besiedlung-ostpolynesiens"
     ]
   },
   {
@@ -841,6 +1454,28 @@
     ]
   },
   {
+    "id": "oba",
+    "term": "Оба",
+    "definition": "Титул королей в королевстве Бенин и в нескольких государствах йоруба. Оба Бенина считался священным правителем, обладавшим властью над землёй и людьми, чьих предков почитали поминальными головами и рельефными пластинами из латуни.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "oba-ewuare-erneuert-benin",
+      "koepfe-von-ife"
+    ]
+  },
+  {
+    "id": "orthodoxe-kirche",
+    "term": "Orthodoxe Kirche",
+    "definition": "Die aus der Reichskirche von Byzanz hervorgegangene Gemeinschaft östlicher Kirchen; „orthodox“ bedeutet „rechtgläubig“. Sie besteht aus selbstständigen Landeskirchen, unter denen der Patriarch von Konstantinopel einen Ehrenvorrang hat, und erkennt den Papst nicht als Oberhaupt an. Kennzeichen sind die Liturgie in der Landessprache, die Verehrung von Ikonen und ein starkes Mönchtum.",
+    "epochId": "byzanz",
+    "related": [
+      "morgenlaendisches-schisma",
+      "ende-des-bilderstreits",
+      "christianisierung-der-kiewer-rus",
+      "mission-von-kyrill-und-method"
+    ]
+  },
+  {
     "id": "ostrakismos",
     "term": "Остракизм",
     "definition": "Процедура афинской демократии, при которой раз в год граждане могли написать на черепках имя политика, которого считали опасным. Тот, кто получал больше всего голосов, при условии что было подано не менее 6000 черепков, должен был на десять лет покинуть Афины, но сохранял имущество и гражданство. Цель состояла в предотвращении новой тирании.",
@@ -848,6 +1483,42 @@
     "related": [
       "reformen-des-kleisthenes",
       "perikles"
+    ]
+  },
+  {
+    "id": "pa-festung",
+    "term": "Pā",
+    "definition": "Befestigte Siedlung der Māori, meist auf Hügeln, Bergspornen oder Landzungen gelegen und mit Gräben, Erdwällen und Palisaden geschützt. Viele Tausend Pā sind archäologisch nachgewiesen; sie sicherten Dörfer und Vorräte in Zeiten von Konflikten. In den Neuseelandkriegen bauten Māori Pā mit Schützengräben und Unterständen, die dem britischen Artilleriebeschuss erstaunlich gut standhielten.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "besiedlung-neuseelands",
+      "musketenkriege",
+      "neuseelandkriege",
+      "hongi-hika"
+    ]
+  },
+  {
+    "id": "pandemie",
+    "term": "Пандемия",
+    "definition": "Инфекционная болезнь, распространяющаяся по странам и континентам и поражающая очень большое число людей. Известные примеры — Чёрная смерть XIV века, «испанка» 1918–1920 гг. и пандемия COVID-19 с 2020 г. Всемирные путешествия могут ускорять распространение, тогда как вакцины и гигиена сдерживают его.",
+    "epochId": "gegenwart",
+    "related": [
+      "covid-19-pandemie",
+      "ebola-epidemie-westafrika",
+      "spanische-grippe",
+      "schwarzer-tod"
+    ]
+  },
+  {
+    "id": "pax-mongolica",
+    "term": "Pax Mongolica (Монгольский мир)",
+    "definition": "Название периода XIII–XIV веков, когда Монгольская империя господствовала над большей частью Евразии, и путешественники и купцы могли относительно безопасно перемещаться из Китая в Восточную Европу. Почтовые станции, единое управление и охранные грамоты способствовали обмену товарами, знаниями и религиями, а также распространению чумы.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "dschingis-khan",
+      "kublai-khan",
+      "marco-polos-reise-nach-china",
+      "kublai-khan-gruendet-die-yuan-dynastie"
     ]
   },
   {
@@ -874,6 +1545,17 @@
     ]
   },
   {
+    "id": "populismus",
+    "term": "Популизм",
+    "definition": "Политический стиль, противопоставляющий якобы единый, истинный народ коррумпированной элите и претендующий на единоличное выражение воли народа. Популисты бывают правыми и левыми; сегодня они часто выступают против иммиграции, глобализации и международных институтов. Критики видят в нём угрозу правам меньшинств, разделению властей и независимым СМИ.",
+    "epochId": "gegenwart",
+    "related": [
+      "brexit",
+      "fluchtbewegung-nach-europa-2015",
+      "wladimir-putin"
+    ]
+  },
+  {
     "id": "prinzipat",
     "term": "Принципат",
     "definition": "Форма правления, установленная Августом в 27 г. до н. э., при которой император выступал как принцепс — первый среди равных — и формально сохранял республиканские институты, такие как сенат и консулы. Фактически власть над армией, провинциями и финансами принадлежала императору. Принципат просуществовал до кризиса III века.",
@@ -882,6 +1564,27 @@
       "augustus",
       "augustus-begruendet-den-prinzipat",
       "schlacht-bei-actium"
+    ]
+  },
+  {
+    "id": "quilombo",
+    "term": "Киломбу",
+    "definition": "В Бразилии — название поселения беглых порабощённых людей, часто в труднодоступных лесах или горах. Киломбу варьировались от небольших лагерей до крупных общин, таких как Палмарис, со своим земледелием и обороной. Подобные общины в испанской Америке назывались паленке.",
+    "epochId": "lateinamerika",
+    "related": [
+      "quilombo-dos-palmares",
+      "zumbi-dos-palmares"
+    ]
+  },
+  {
+    "id": "quipu",
+    "term": "Кипу",
+    "definition": "Узелковый шнур из хлопка или шерсти, с помощью которого в Андах записывали сведения. К главному шнуру крепились многие свисающие шнуры, узлы на которых обозначали числа — например, жителей, повинности и запасы — в десятичной системе. Специалисты, кипукамайоки, читали и делали кипу; записывали ли они также речь, до сих пор не решено.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "pachacutec-und-das-inka-reich",
+      "wari-reich",
+      "qhapaq-nan-strassennetz-der-inka"
     ]
   },
   {
@@ -941,6 +1644,28 @@
     ]
   },
   {
+    "id": "runen",
+    "term": "Runen",
+    "definition": "Die Schriftzeichen der germanischen Völker, die vor allem in Stein, Holz und Metall geritzt wurden. Die ältere Runenreihe, nach ihren ersten Zeichen Futhark genannt, hatte 24 Zeichen; in der Wikingerzeit war in Skandinavien eine jüngere Reihe mit 16 Zeichen in Gebrauch. Die meisten der erhaltenen Runensteine stehen in Schweden und erinnern an Verstorbene oder an Fahrten in die Fremde.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "runenstein-von-jelling",
+      "harald-blauzahn",
+      "ostroute-nach-byzanz-und-bagdad"
+    ]
+  },
+  {
+    "id": "saga",
+    "term": "Saga",
+    "definition": "Eine Prosaerzählung in altnordischer Sprache, wie sie vor allem auf Island im 13. und 14. Jahrhundert niedergeschrieben wurde. Die Isländersagas erzählen von Familien der Siedlungszeit, ihren Fehden und Fahrten, die Königssagas von den Herrschern Norwegens. Sie beruhen auf mündlicher Überlieferung, entstanden aber Generationen nach den Ereignissen und sind deshalb nur mit Vorsicht als Geschichtsquelle zu nutzen.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "leif-eriksson-erreicht-vinland",
+      "erik-der-rote-besiedelt-groenland",
+      "snorri-sturluson"
+    ]
+  },
+  {
     "id": "sakoku",
     "term": "Сакоку",
     "definition": "Японское название закрытия страны при сёгунате Токугава с 1639 по 1854 г. Иностранцам нельзя было въезжать, японцам — покидать страну, а внешняя торговля ограничивалась китайскими и голландскими купцами в Нагасаки; страна пережила два столетия мира при лишь очень ограниченном европейском влиянии (западные знания всё же поступали через голландцев как рангаку).",
@@ -948,6 +1673,17 @@
     "related": [
       "abschliessung-japans",
       "tokugawa-ieyasu"
+    ]
+  },
+  {
+    "id": "samurai",
+    "term": "Самураи",
+    "definition": "Представители японского воинского сословия, первоначально служившие господам вооружёнными вассалами. В эпоху Эдо они составляли высшее из четырёх сословий, только им разрешалось носить мечи, а в мирное время они часто служили чиновниками; их привилегии были отменены в 1876 г.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "oda-nobunaga",
+      "toyotomi-hideyoshi",
+      "schlacht-von-sekigahara"
     ]
   },
   {
@@ -982,6 +1718,17 @@
     ]
   },
   {
+    "id": "semstwo",
+    "term": "Semstwo",
+    "definition": "Gewähltes Organ der ländlichen Selbstverwaltung, das Alexander II. 1864 auf Ebene der Gouvernements und Kreise einführte. Die Semstwa unterhielten Schulen, Krankenhäuser und Straßen und beschäftigten Ärzte, Lehrer und Agronomen. Sie wurden zu einem Sammelbecken liberaler Kräfte, die eine Verfassung forderten.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "aufhebung-der-leibeigenschaft-in-russland",
+      "alexander-ii",
+      "revolution-von-1905"
+    ]
+  },
+  {
     "id": "senat",
     "term": "Сенат",
     "definition": "Совет бывших должностных лиц Рима, первоначально старейшин, с примерно 300–600 пожизненно назначаемых членов. В республике сенат определял внешнюю политику, финансы и управление провинциями и был центром власти знати. В императорскую эпоху он утратил влияние, но сохранился как почётное собрание до поздней античности.",
@@ -993,6 +1740,28 @@
     ]
   },
   {
+    "id": "shogunat",
+    "term": "Сёгунат",
+    "definition": "Военное правительство в Японии во главе с сёгуном — верховным главнокомандующим, назначаемым императором. С 1192 по 1868 г. поочерёдно правили сёгунаты Камакура, Асикага и Токугава, тогда как император в Киото выполнял главным образом религиозные и церемониальные обязанности.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "minamoto-no-yoritomo-wird-shogun",
+      "schlacht-von-sekigahara",
+      "tokugawa-ieyasu"
+    ]
+  },
+  {
+    "id": "solidus",
+    "term": "Solidus",
+    "definition": "Die Goldmünze, die Konstantin der Große Anfang des 4. Jahrhunderts einführte; 72 Stück wurden aus einem römischen Pfund Gold geprägt. Im griechischen Osten Nomisma genannt, blieb sie bis ins 11. Jahrhundert wertbeständig und war im ganzen Mittelmeerraum ein begehrtes Zahlungsmittel. Nach einer Zeit der Verschlechterung ersetzte Alexios I. sie 1092 durch das Hyperpyron.",
+    "epochId": "byzanz",
+    "related": [
+      "konstantin-der-grosse",
+      "alexios-i-komnenos",
+      "gruendung-konstantinopels"
+    ]
+  },
+  {
     "id": "soziale-frage",
     "term": "Социальный вопрос",
     "definition": "Название нужды рабочего класса в XIX веке: низкая оплата, долгий рабочий день, детский труд, жалкое жильё и отсутствие обеспечения на случай болезни и старости. Церкви, предприниматели, социалисты и государство искали разные ответы — от заводских жилищ через профсоюзы до социального страхования.",
@@ -1001,6 +1770,17 @@
       "weberaufstand-schlesien",
       "bismarcks-sozialgesetze",
       "kommunistisches-manifest"
+    ]
+  },
+  {
+    "id": "soziale-medien",
+    "term": "Социальные сети",
+    "definition": "Интернет-платформы, на которых пользователи сами публикуют, распространяют и комментируют тексты, изображения и видео. Они связывают миллиарды людей и позволяют быстро мобилизоваться, например в «арабской весне» или движении MeToo. В то же время через них распространяются язык вражды и дезинформация, а их алгоритмы частично считают ответственными за поляризацию обществ.",
+    "epochId": "gegenwart",
+    "related": [
+      "arabischer-fruehling",
+      "metoo-bewegung",
+      "greta-thunberg"
     ]
   },
   {
@@ -1079,6 +1859,107 @@
     ]
   },
   {
+    "id": "swahili",
+    "term": "Суахили",
+    "definition": "Язык банту и культура торговых городов восточноафриканского побережья между Сомали и Мозамбиком. Она возникла из африканских корней в обмене с арабскими, персидскими и индийскими купцами, в основном сформирована исламом и переняла много арабских заимствований. Суахили сегодня — один из самых распространённых языков Африки.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "bluete-von-kilwa",
+      "sansibar-wird-sultanssitz",
+      "grosssimbabwe"
+    ]
+  },
+  {
+    "id": "szlachta",
+    "term": "Szlachta",
+    "definition": "Der Adel Polen-Litauens, der mit nach Schätzungen sechs bis zehn Prozent der Bevölkerung ungewöhnlich zahlreich war und vom reichen Magnaten bis zum landlosen Kleinadligen reichte. Seine Mitglieder galten als rechtlich gleich, wählten seit 1573 den König und beherrschten den Reichstag. Ihre „goldene Freiheit“ schützte vor königlicher Willkür, schwächte aber den Staat.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "union-von-lublin",
+      "verfassung-vom-3-mai-1791",
+      "teilungen-polens"
+    ]
+  },
+  {
+    "id": "tapu",
+    "term": "Tapu",
+    "definition": "Polynesischer Begriff für das Heilige und Verbotene, von dem das Wort „Tabu“ stammt; auf Hawaiʻi lautet er „kapu“. Tapu lag auf Personen, Orten und Dingen, die mit Göttern oder Mana verbunden waren, und wer es verletzte, musste mit Unglück oder Strafe rechnen. James Cook brachte das Wort aus Tonga nach Europa.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "aufhebung-des-kapu",
+      "kaahumanu",
+      "kamehameha-i"
+    ]
+  },
+  {
+    "id": "terra-nullius",
+    "term": "Terra nullius",
+    "definition": "Lateinisch für „Niemandsland“: die Rechtsvorstellung, ein Gebiet gehöre niemandem und dürfe deshalb ohne Vertrag in Besitz genommen werden. Der Begriff kam erst später in Gebrauch, beschreibt aber die Grundlage der britischen Inbesitznahme Australiens ab 1788, bei der das Land der Aborigines ohne Abkommen und Entschädigung der Krone zugeschlagen wurde. 1992 verwarf der Oberste Gerichtshof Australiens im Mabo-Urteil diese Annahme und erkannte erstmals Landrechte der Ureinwohner an.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "ankunft-der-first-fleet",
+      "cooks-pazifikreisen",
+      "arthur-phillip"
+    ]
+  },
+  {
+    "id": "themenverfassung",
+    "term": "Themen",
+    "definition": "Die Militärbezirke, in die das Byzantinische Reich seit dem 7. Jahrhundert gegliedert wurde. An ihrer Spitze stand ein Stratege, der zugleich militärische und zivile Gewalt ausübte; die Soldaten stammten oft aus dem jeweiligen Bezirk. Wann und wie diese Ordnung entstand, ob unter Herakleios oder schrittweise danach, ist in der Forschung umstritten.",
+    "epochId": "byzanz",
+    "related": [
+      "herakleios",
+      "schlacht-am-jarmuk",
+      "makedonische-dynastie"
+    ]
+  },
+  {
+    "id": "theravada",
+    "term": "Theravada-Buddhismus",
+    "definition": "„Lehre der Älteren“; die Richtung des Buddhismus, die sich auf den Pali-Kanon stützt und das Mönchtum in den Mittelpunkt stellt. Sie gelangte vor allem aus Sri Lanka nach Südostasien und wurde ab dem 11. Jahrhundert in Pagan, später in Sukhothai, Ayutthaya, Laos und Kambodscha vorherrschend. Bis heute ist sie die wichtigste Religion in Myanmar, Thailand, Laos und Kambodscha.",
+    "epochId": "suedostasien",
+    "related": [
+      "anawrahta-eint-pagan",
+      "gruendung-von-sukhothai",
+      "anawrahta",
+      "gruendung-von-ayutthaya"
+    ]
+  },
+  {
+    "id": "thing",
+    "term": "Thing",
+    "definition": "Die Versammlung der freien Männer in den germanischen und skandinavischen Gesellschaften, auf der Recht gesprochen, Streit geschlichtet und über gemeinsame Angelegenheiten beschlossen wurde. Es gab örtliche Things und große Landesversammlungen wie das isländische Althing oder das norwegische Gulating. Das Wort lebt in Parlamentsnamen wie Storting, Folketing und Alþingi weiter.",
+    "epochId": "wikinger-nordeuropa",
+    "related": [
+      "gruendung-des-althing",
+      "island-nimmt-das-christentum-an",
+      "island-unterwirft-sich-norwegen"
+    ]
+  },
+  {
+    "id": "timar",
+    "term": "Тимар",
+    "definition": "Пожалование, при котором всадник — сипахи — получал налоговые доходы определённых деревень и взамен должен был являться на войну со снаряжением и свитой. Земля оставалась собственностью государства и не наследовалась. С конца XVI века система тимаров утратила значение и всё чаще заменялась откупом налогов.",
+    "epochId": "osmanisches-reich",
+    "related": [
+      "osmanen-fassen-fuss-in-europa",
+      "schlacht-auf-dem-amselfeld",
+      "tanzimat-edikt-von-guelhane"
+    ]
+  },
+  {
+    "id": "tlatoani",
+    "term": "Тлатоани",
+    "definition": "Титул правителей городов-государств центральной Мексики; слово на науатль означает «говорящий». Тлатоани Теночтитлана избирался советом из мужчин правящего рода и был верховным главнокомандующим, судьёй и посредником между людьми и богами. Как уэй тлатоани — «великий говорящий» — он стоял во главе Тройственного союза.",
+    "epochId": "amerika-vorkolumbisch",
+    "related": [
+      "itzcoatl",
+      "moctezuma-i",
+      "ahuitzotl",
+      "aztekischer-dreibund"
+    ]
+  },
+  {
     "id": "totaler-krieg",
     "term": "Тотальная война",
     "definition": "Война, в которой государство мобилизует для борьбы весь народ, все экономические силы и ресурсы, а граница между солдатами и гражданскими размывается. Первая мировая война считается первой тотальной войной: заводы работали только для фронта, женщины заменили мужчин на работе, а блокады обрекали гражданское население на голод. Пропаганда и цензура должны были обеспечить волю к стойкости.",
@@ -1100,6 +1981,39 @@
     ]
   },
   {
+    "id": "transsaharahandel",
+    "term": "Транссахарская торговля",
+    "definition": "Дальняя торговля верблюжьими караванами через Сахару между Северной и Западной Африкой. С юга шли главным образом золото, слоновая кость и рабы, с севера — соль, лошади, ткани и книги; вместе с торговцами распространялся и ислам. Торговля составляла основу империй Гана, Мали и Сонгай.",
+    "epochId": "afrikanische-reiche",
+    "related": [
+      "al-bakri-beschreibt-ghana",
+      "mansa-musas-pilgerreise",
+      "timbuktu-gelehrtenzentrum"
+    ]
+  },
+  {
+    "id": "traumzeit",
+    "term": "Traumzeit",
+    "definition": "Übersetzung (englisch „Dreaming“) für die Weltdeutungen der Aborigines, nach denen Ahnenwesen in einer Schöpfungszeit Landschaft, Lebewesen, Gesetze und Bräuche schufen. Diese Zeit gilt nicht als abgeschlossene Vergangenheit, sondern ist in Orten, Liedern, Tänzen und Zeremonien gegenwärtig. Sie verbindet Menschen mit bestimmten Landstücken, für die sie Verantwortung tragen; die einzelnen Sprachgruppen haben dafür eigene Begriffe wie „Jukurrpa“ bei den Warlpiri.",
+    "epochId": "ozeanien-pazifik",
+    "related": [
+      "besiedlung-australiens",
+      "makassarischer-trepanghandel",
+      "bennelong"
+    ]
+  },
+  {
+    "id": "tributsystem",
+    "term": "Данническая система",
+    "definition": "Система отношений Китая с соседями, при которой иностранные правители отправляли к императорскому двору послов с дарами и тем самым формально признавали императора своим сюзереном. Взамен они получали ценные подарки, торговые права и защиту; такие страны, как Корея, Вьетнам и Малакка, оставались в основном независимыми.",
+    "epochId": "asiatische-grossreiche",
+    "related": [
+      "fahrten-des-zheng-he",
+      "aufstieg-des-sultanats-malakka",
+      "macartney-gesandtschaft"
+    ]
+  },
+  {
     "id": "tyrannis",
     "term": "Тирания",
     "definition": "Единоличная власть человека, захватившего её без правового основания, как правило силой или при поддержке народа против знати. В VII–VI веках до н. э. тираны правили во многих греческих городах и нередко поощряли хозяйство и искусство; лишь позднее слово стало означать насильственный деспотизм.",
@@ -1118,6 +2032,27 @@
       "angriff-auf-die-sowjetunion",
       "schlacht-von-stalingrad",
       "hitler-stalin-pakt"
+    ]
+  },
+  {
+    "id": "vizekoenigreich",
+    "term": "Вице-королевство",
+    "definition": "Крупнейшая административная единица испанской колониальной империи во главе с вице-королём как личным представителем короля. Первыми были Новая Испания (1535) и Перу (1542), в XVIII веке добавились Новая Гранада и Рио-де-ла-Плата. Португалия позднее также назначала вице-королей для Бразилии.",
+    "epochId": "lateinamerika",
+    "related": [
+      "vizekoenigreich-neuspanien",
+      "mairevolution-buenos-aires"
+    ]
+  },
+  {
+    "id": "voc",
+    "term": "VOC (Niederländische Ostindien-Kompanie)",
+    "definition": "Die Vereinigte Ostindische Kompanie, 1602 gegründet, war eine Handelsgesellschaft mit dem niederländischen Monopol für den Asienhandel und dem Recht, Festungen zu bauen, Soldaten zu halten und Verträge zu schließen. Von Batavia aus beherrschte sie den Gewürzhandel und große Teile Javas. Sie gilt als eine der ersten Aktiengesellschaften und wurde 1799 aufgelöst.",
+    "epochId": "suedostasien",
+    "related": [
+      "voc-gruendet-batavia",
+      "jan-pieterszoon-coen",
+      "java-krieg-und-kultursystem"
     ]
   },
   {
@@ -1165,6 +2100,17 @@
     ]
   },
   {
+    "id": "waraeger",
+    "term": "Waräger",
+    "definition": "Ostslawische und byzantinische Bezeichnung für skandinavische Händler und Krieger, die im 9. und 10. Jahrhundert die Flusswege zwischen Ostsee und Schwarzem Meer befuhren. Sie spielten bei der Entstehung der Kiewer Rus eine wichtige Rolle und dienten in Byzanz als kaiserliche Leibgarde. Wie groß ihr Anteil an der Staatsbildung war, ist umstritten.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "rjurik-und-die-berufung-der-waraeger",
+      "oleg-macht-kiew-zur-hauptstadt",
+      "wladimir-i"
+    ]
+  },
+  {
     "id": "weimarer-republik",
     "term": "Веймарская республика",
     "definition": "Название германского государства в 1918–1933 гг. по городу Веймару, где в 1919 г. Национальное собрание приняло конституцию. Первая германская демократия с самого начала находилась под давлением Версальского договора, инфляции, попыток переворота и политического насилия. После краткой стабилизации в «золотые двадцатые» она распалась под ударами Великой депрессии и закончилась назначением Гитлера рейхсканцлером.",
@@ -1174,6 +2120,17 @@
       "friedrich-ebert",
       "gustav-stresemann",
       "krisenjahr-1923"
+    ]
+  },
+  {
+    "id": "wetsche",
+    "term": "Wetsche",
+    "definition": "Die Volksversammlung der freien Männer in Städten der Rus, besonders in Nowgorod und Pskow. In Nowgorod wählte das Wetsche Bürgermeister und Erzbischof, entschied über Krieg und Frieden und konnte Fürsten berufen und absetzen. Mit der Unterwerfung Nowgorods durch Moskau 1478 wurde es abgeschafft.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "moskau-unterwirft-nowgorod",
+      "eisschlacht-auf-dem-peipussee",
+      "alexander-newski"
     ]
   },
   {
@@ -1200,6 +2157,17 @@
     ]
   },
   {
+    "id": "zar",
+    "term": "Zar",
+    "definition": "Herrschertitel, abgeleitet vom lateinischen „Caesar“, den in Russland erstmals Iwan IV. 1547 bei seiner Krönung führte. Er stellte den Moskauer Herrscher auf eine Stufe mit dem byzantinischen Kaiser und betonte seine unbeschränkte, von Gott verliehene Macht. Seit 1721 lautete der offizielle Titel Kaiser, doch der Begriff Zar blieb bis 1917 gebräuchlich.",
+    "epochId": "russland-osteuropa",
+    "related": [
+      "iwan-iv-wird-zar",
+      "wahl-michail-romanows",
+      "februarrevolution-1917"
+    ]
+  },
+  {
     "id": "zikkurat",
     "term": "Зиккурат",
     "definition": "Ступенчатая храмовая башня из сырцового кирпича в Месопотамии, на вершине которой стояло святилище городского бога. Зиккурат в Уре, около 2100 г. до н. э., сохранился лучше всех; библейская Вавилонская башня восходит к зиккурату Вавилона.",
@@ -1207,528 +2175,6 @@
     "related": [
       "stadtstaaten-sumers-und-ur-standarte",
       "sumerische-keilschrift"
-    ]
-  },
-  {
-    "id": "transsaharahandel",
-    "term": "Транссахарская торговля",
-    "definition": "Дальняя торговля верблюжьими караванами через Сахару между Северной и Западной Африкой. С юга шли главным образом золото, слоновая кость и рабы, с севера — соль, лошади, ткани и книги; вместе с торговцами распространялся и ислам. Торговля составляла основу империй Гана, Мали и Сонгай.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "al-bakri-beschreibt-ghana",
-      "mansa-musas-pilgerreise",
-      "timbuktu-gelehrtenzentrum"
-    ]
-  },
-  {
-    "id": "griot",
-    "term": "Гриот",
-    "definition": "В Западной Африке — наследственный певец, сказитель и музыкант, устно передающий родословные, хвалебные песни и историю правящих родов. Гриоты служили советниками при дворах и сегодня хранят эпосы, такие как эпос о Сундиате.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "sundiata-keita",
-      "sundiata-schlacht-von-kirina"
-    ]
-  },
-  {
-    "id": "mansa",
-    "term": "Манса",
-    "definition": "Титул правителя империи Мали на языке малинке, приблизительно переводимый как «царь» или «император». Манса стоял во главе федерации провинций и данников-князей; самым известным обладателем титула был Манса Муса.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "mansa-musa",
-      "sundiata-keita"
-    ]
-  },
-  {
-    "id": "swahili",
-    "term": "Суахили",
-    "definition": "Язык банту и культура торговых городов восточноафриканского побережья между Сомали и Мозамбиком. Она возникла из африканских корней в обмене с арабскими, персидскими и индийскими купцами, в основном сформирована исламом и переняла много арабских заимствований. Суахили сегодня — один из самых распространённых языков Африки.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "bluete-von-kilwa",
-      "sansibar-wird-sultanssitz",
-      "grosssimbabwe"
-    ]
-  },
-  {
-    "id": "oba",
-    "term": "Оба",
-    "definition": "Титул королей в королевстве Бенин и в нескольких государствах йоруба. Оба Бенина считался священным правителем, обладавшим властью над землёй и людьми, чьих предков почитали поминальными головами и рельефными пластинами из латуни.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "oba-ewuare-erneuert-benin",
-      "koepfe-von-ife"
-    ]
-  },
-  {
-    "id": "geez",
-    "term": "Геэз",
-    "definition": "Древний семитский язык и письмо Эфиопии, засвидетельствованные со времён Аксума. Геэз исчез как разговорный язык в Средние века, но по сей день остаётся языком эфиопской православной литургии; алфавиты амхарского и тигринья развились из его письма.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "ezana-christianisierung-aksum",
-      "yekuno-amlak-salomonische-dynastie"
-    ]
-  },
-  {
-    "id": "goldener-stuhl",
-    "term": "Золотой трон",
-    "definition": "Священный символ империи Ашанти, который, по преданию, спустился с неба при Осеи Туту и воплощает душу народа. Никто не вправе сидеть на нём; асантехене возводится над ним.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "osei-tutu",
-      "osei-tutu-gruendet-asante"
-    ]
-  },
-  {
-    "id": "mfecane",
-    "term": "Мфекане",
-    "definition": "Название войн, бегств и основания государств в южной Африке примерно в 1815–1840 гг.; на языках нгуни слово означает нечто вроде «сокрушение». Его причины и масштабы спорны среди историков.",
-    "epochId": "afrikanische-reiche",
-    "related": [
-      "mfecane-im-suedlichen-afrika",
-      "shaka",
-      "shaka-gruendet-zulu-reich"
-    ]
-  },
-  {
-    "id": "mesoamerika",
-    "term": "Мезоамерика",
-    "definition": "Культурная область, охватывающая южную и центральную Мексику, Гватемалу, Белиз и части Гондураса и Сальвадора. Несмотря на разные языки, её народы разделяли земледелие кукурузы, храмы-пирамиды, игру в мяч, 260-дневный ритуальный календарь и многих богов. К ним относились ольмеки, сапотеки, майя, Теотиуакан, тольтеки и ацтеки.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "olmeken-in-mesoamerika",
-      "teotihuacan-metropole",
-      "aztekischer-dreibund",
-      "amerika-vorkolumbisch"
-    ]
-  },
-  {
-    "id": "lange-zaehlung",
-    "term": "Долгий счёт",
-    "definition": "Мезоамериканская система летосчисления, ведущая счёт дням от мифической исходной даты в 3114 г. до н. э. Она использует единицы в 1, 20, 360, 7200 и 144 000 дней и позволяла датировать с точностью до дня на протяжении столетий. Майя применяли её на стелах примерно с III до начала X века.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "stele-2-von-chiapa-de-corzo",
-      "stele-29-von-tikal",
-      "kollaps-der-klassischen-maya"
-    ]
-  },
-  {
-    "id": "mesoamerikanisches-ballspiel",
-    "term": "Мезоамериканская игра в мяч",
-    "definition": "Командная игра с тяжёлым резиновым мячом, который, как правило, можно было отбивать только бёдрами, ягодицами и ногами. В неё играли более 3000 лет по всей Мезоамерике на длинных площадках, ограниченных стенами. Игра была спортом, религиозным ритуалом и порой частью политических церемоний, которые могли заканчиваться жертвоприношениями.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "aufstieg-von-chichen-itza",
-      "gruendung-von-monte-alban",
-      "olmeken-in-mesoamerika"
-    ]
-  },
-  {
-    "id": "chinampa",
-    "term": "Чинампа",
-    "definition": "Искусственно созданный прямоугольный участок сада на мелких озёрах и болотах, окружённый каналами. Ил и растительные остатки поддерживали плодородие почвы, так что можно было собирать несколько урожаев в год. Чинампы в долине Мехико кормили великий город Теночтитлан и до сих пор обрабатываются в Сочимилько.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "gruendung-tenochtitlans",
-      "aztekischer-dreibund",
-      "nezahualcoyotl"
-    ]
-  },
-  {
-    "id": "quipu",
-    "term": "Кипу",
-    "definition": "Узелковый шнур из хлопка или шерсти, с помощью которого в Андах записывали сведения. К главному шнуру крепились многие свисающие шнуры, узлы на которых обозначали числа — например, жителей, повинности и запасы — в десятичной системе. Специалисты, кипукамайоки, читали и делали кипу; записывали ли они также речь, до сих пор не решено.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "pachacutec-und-das-inka-reich",
-      "wari-reich",
-      "qhapaq-nan-strassennetz-der-inka"
-    ]
-  },
-  {
-    "id": "ayllu",
-    "term": "Айлью",
-    "definition": "Родовая и деревенская община в Андах, члены которой возводили себя к общему предку. Айлью владело землёй сообща, распределяло её между семьями и организовывало взаимопомощь в полевых работах и строительстве домов. В империи инков оно было основной единицей повинностей и трудовой службы; во многих андских деревнях сохраняется и поныне.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "pachacutec-und-das-inka-reich",
-      "qhapaq-nan-strassennetz-der-inka",
-      "bau-von-machu-picchu"
-    ]
-  },
-  {
-    "id": "tlatoani",
-    "term": "Тлатоани",
-    "definition": "Титул правителей городов-государств центральной Мексики; слово на науатль означает «говорящий». Тлатоани Теночтитлана избирался советом из мужчин правящего рода и был верховным главнокомандующим, судьёй и посредником между людьми и богами. Как уэй тлатоани — «великий говорящий» — он стоял во главе Тройственного союза.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "itzcoatl",
-      "moctezuma-i",
-      "ahuitzotl",
-      "aztekischer-dreibund"
-    ]
-  },
-  {
-    "id": "erdhuegelkulturen",
-    "term": "Культуры строителей курганов (Mound Builders)",
-    "definition": "Собирательное название коренных культур Северной Америки, на протяжении тысячелетий возводивших земляные курганы и валы для погребений, храмов и церемоний. К ним относятся Поверти-Пойнт, культуры адена и хоупвелл и миссисипская культура с Кахокией. В XIX веке белые американцы часто ошибочно приписывали сооружения исчезнувшему чужому народу, вместо того чтобы признать их творением предков коренных народов.",
-    "epochId": "amerika-vorkolumbisch",
-    "related": [
-      "erdwerke-von-poverty-point",
-      "hopewell-kultur",
-      "cahokia-mississippi-kultur"
-    ]
-  },
-  {
-    "id": "pax-mongolica",
-    "term": "Pax Mongolica (Монгольский мир)",
-    "definition": "Название периода XIII–XIV веков, когда Монгольская империя господствовала над большей частью Евразии, и путешественники и купцы могли относительно безопасно перемещаться из Китая в Восточную Европу. Почтовые станции, единое управление и охранные грамоты способствовали обмену товарами, знаниями и религиями, а также распространению чумы.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "dschingis-khan",
-      "kublai-khan",
-      "marco-polos-reise-nach-china",
-      "kublai-khan-gruendet-die-yuan-dynastie"
-    ]
-  },
-  {
-    "id": "goldene-horde",
-    "term": "Золотая Орда",
-    "definition": "Монгольское государство-преемник в степях к северу от Чёрного и Каспийского морей, основанное Батыем после монгольского нашествия около 1242 г. со столицей Сарай на Волге. Русские князья обязаны были платить ей дань и получать от хана подтверждение своей власти; эта зависимость закончилась в 1480 г.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "mongolensturm-in-osteuropa",
-      "dschingis-khan"
-    ]
-  },
-  {
-    "id": "shogunat",
-    "term": "Сёгунат",
-    "definition": "Военное правительство в Японии во главе с сёгуном — верховным главнокомандующим, назначаемым императором. С 1192 по 1868 г. поочерёдно правили сёгунаты Камакура, Асикага и Токугава, тогда как император в Киото выполнял главным образом религиозные и церемониальные обязанности.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "minamoto-no-yoritomo-wird-shogun",
-      "schlacht-von-sekigahara",
-      "tokugawa-ieyasu"
-    ]
-  },
-  {
-    "id": "samurai",
-    "term": "Самураи",
-    "definition": "Представители японского воинского сословия, первоначально служившие господам вооружёнными вассалами. В эпоху Эдо они составляли высшее из четырёх сословий, только им разрешалось носить мечи, а в мирное время они часто служили чиновниками; их привилегии были отменены в 1876 г.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "oda-nobunaga",
-      "toyotomi-hideyoshi",
-      "schlacht-von-sekigahara"
-    ]
-  },
-  {
-    "id": "hangeul",
-    "term": "Хангыль",
-    "definition": "Корейский алфавит, разработанный по велению короля Седжона в 1443 г. и обнародованный в 1446 г. Его буквы обозначают отдельные звуки и объединяются в слоговые блоки, что делает его гораздо проще для изучения, чем китайское письмо.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "koenig-sejong-verkuendet-hangeul",
-      "sejong-der-grosse"
-    ]
-  },
-  {
-    "id": "tributsystem",
-    "term": "Данническая система",
-    "definition": "Система отношений Китая с соседями, при которой иностранные правители отправляли к императорскому двору послов с дарами и тем самым формально признавали императора своим сюзереном. Взамен они получали ценные подарки, торговые права и защиту; такие страны, как Корея, Вьетнам и Малакка, оставались в основном независимыми.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "fahrten-des-zheng-he",
-      "aufstieg-des-sultanats-malakka",
-      "macartney-gesandtschaft"
-    ]
-  },
-  {
-    "id": "acht-banner",
-    "term": "Восемь знамён",
-    "definition": "Военная и социальная организация маньчжуров, в которой все семьи были распределены по восьми подразделениям, названным по цветам их знамён. Знамённые войска завоевали Китай в 1644 г. и затем, как привилегированные гарнизоны в крупных городах, составили становой хребет власти Цин.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "mandschu-erobern-peking",
-      "kangxi"
-    ]
-  },
-  {
-    "id": "mansab-system",
-    "term": "Система мансаб",
-    "definition": "Введённая Акбаром система рангов для должностных лиц империи Великих Моголов. Каждый мансабдар получал ранг, определявший его жалованье и число всадников, которых он должен был выставлять для правителя; ранги не передавались по наследству и привязывали ко двору как мусульман, так и индуистских раджпутов.",
-    "epochId": "asiatische-grossreiche",
-    "related": [
-      "akbar",
-      "akbar-mogulreich",
-      "herrschaft-aurangzebs"
-    ]
-  },
-  {
-    "id": "europaeische-union",
-    "term": "Европейский союз",
-    "definition": "Союз европейских государств, возникший из Европейских сообществ в 1993 г. с Маастрихтским договором. Его члены имеют общий рынок, общие институты — Парламент, Комиссию и Суд — и в большинстве общий евро. После нескольких расширений и выхода Великобритании в ЕС входят 27 государств.",
-    "epochId": "gegenwart",
-    "related": [
-      "vertrag-von-maastricht",
-      "eu-osterweiterung-2004",
-      "brexit",
-      "einfuehrung-euro-bargeld"
-    ]
-  },
-  {
-    "id": "digitalisierung",
-    "term": "Цифровизация",
-    "definition": "Преобразование информации в цифровые данные и растущее использование компьютеров, интернета и сетевых устройств во всех сферах жизни. С 1990-х гг. она коренным образом изменила труд, торговлю, коммуникацию, образование и политику. К её тёмным сторонам относятся слежка, злоупотребление данными и зависимость от нескольких крупных компаний.",
-    "epochId": "gegenwart",
-    "related": [
-      "world-wide-web-1991",
-      "vorstellung-des-iphone",
-      "tim-berners-lee",
-      "steve-jobs"
-    ]
-  },
-  {
-    "id": "soziale-medien",
-    "term": "Социальные сети",
-    "definition": "Интернет-платформы, на которых пользователи сами публикуют, распространяют и комментируют тексты, изображения и видео. Они связывают миллиарды людей и позволяют быстро мобилизоваться, например в «арабской весне» или движении MeToo. В то же время через них распространяются язык вражды и дезинформация, а их алгоритмы частично считают ответственными за поляризацию обществ.",
-    "epochId": "gegenwart",
-    "related": [
-      "arabischer-fruehling",
-      "metoo-bewegung",
-      "greta-thunberg"
-    ]
-  },
-  {
-    "id": "kuenstliche-intelligenz",
-    "term": "Искусственный интеллект",
-    "definition": "Компьютерные системы, решающие задачи, прежде требовавшие человеческого мышления, например понимание языка, распознавание изображений или подготовку решений. Современные методы обучаются на больших массивах данных вместо следования жёстко заданным правилам. С 2022 г. широкое распространение получили генеративные программы, такие как ChatGPT, вызвавшие дискуссии о труде, авторском праве и контроле.",
-    "epochId": "gegenwart",
-    "related": [
-      "chatgpt-und-generative-ki",
-      "alan-turing"
-    ]
-  },
-  {
-    "id": "klimawandel",
-    "term": "Изменение климата",
-    "definition": "Потепление Земли, вызванное человеком, прежде всего сжиганием угля, нефти и газа, при котором выделяются углекислый газ и другие парниковые газы. Следствиями становятся повышение уровня моря и учащение волн жары, засух и ливней. Парижским соглашением 2015 г. государства поставили цель удержать потепление существенно ниже двух градусов.",
-    "epochId": "gegenwart",
-    "related": [
-      "pariser-klimaabkommen",
-      "greta-thunberg",
-      "wangari-maathai"
-    ]
-  },
-  {
-    "id": "islamismus",
-    "term": "Исламизм",
-    "definition": "Политические движения, стремящиеся устроить государство и общество по своему толкованию ислама и шариата. Они простираются от партий, участвующих в выборах, до террористических групп, таких как «Аль-Каида» или так называемое «Исламское государство». Термин относится к политической идеологии, а не к религии ислама, подавляющее большинство последователей которого отвергает насилие.",
-    "epochId": "gegenwart",
-    "related": [
-      "anschlaege-11-september",
-      "osama-bin-laden",
-      "krieg-in-afghanistan",
-      "iranische-revolution-1979"
-    ]
-  },
-  {
-    "id": "populismus",
-    "term": "Популизм",
-    "definition": "Политический стиль, противопоставляющий якобы единый, истинный народ коррумпированной элите и претендующий на единоличное выражение воли народа. Популисты бывают правыми и левыми; сегодня они часто выступают против иммиграции, глобализации и международных институтов. Критики видят в нём угрозу правам меньшинств, разделению властей и независимым СМИ.",
-    "epochId": "gegenwart",
-    "related": [
-      "brexit",
-      "fluchtbewegung-nach-europa-2015",
-      "wladimir-putin"
-    ]
-  },
-  {
-    "id": "pandemie",
-    "term": "Пандемия",
-    "definition": "Инфекционная болезнь, распространяющаяся по странам и континентам и поражающая очень большое число людей. Известные примеры — Чёрная смерть XIV века, «испанка» 1918–1920 гг. и пандемия COVID-19 с 2020 г. Всемирные путешествия могут ускорять распространение, тогда как вакцины и гигиена сдерживают его.",
-    "epochId": "gegenwart",
-    "related": [
-      "covid-19-pandemie",
-      "ebola-epidemie-westafrika",
-      "spanische-grippe",
-      "schwarzer-tod"
-    ]
-  },
-  {
-    "id": "encomienda",
-    "term": "Энкомьенда",
-    "definition": "Испанский колониальный институт, при котором корона «поручала» испанцу группу коренных жителей, которые были обязаны ему данью и трудом. Взамен энкомендеро должен был защищать их и обеспечивать наставление в христианской вере. На практике энкомьенда приводила к жестокой эксплуатации и была постепенно вытеснена после Новых законов 1542 г.",
-    "epochId": "lateinamerika",
-    "related": [
-      "gesetze-von-burgos",
-      "neue-gesetze-1542",
-      "bartolome-de-las-casas"
-    ]
-  },
-  {
-    "id": "mita",
-    "term": "Мита",
-    "definition": "Первоначально трудовая повинность в империи инков, которую испанцы превратили в систему принудительного труда. Индейские деревни должны были по очереди поставлять часть мужчин на рудники, такие как Потоси, или на другие работы. Мита была одним из самых ненавистных бремён колониальной эпохи и была отменена лишь в ходе обретения независимости.",
-    "epochId": "lateinamerika",
-    "related": [
-      "silberberg-von-potosi",
-      "aufstand-tupac-amaru-ii"
-    ]
-  },
-  {
-    "id": "vizekoenigreich",
-    "term": "Вице-королевство",
-    "definition": "Крупнейшая административная единица испанской колониальной империи во главе с вице-королём как личным представителем короля. Первыми были Новая Испания (1535) и Перу (1542), в XVIII веке добавились Новая Гранада и Рио-де-ла-Плата. Португалия позднее также назначала вице-королей для Бразилии.",
-    "epochId": "lateinamerika",
-    "related": [
-      "vizekoenigreich-neuspanien",
-      "mairevolution-buenos-aires"
-    ]
-  },
-  {
-    "id": "kreolen",
-    "term": "Креолы",
-    "definition": "В испанской Америке — название потомков европейцев, родившихся в колониях. Они часто владели землёй, рудниками и торговыми домами, но при высоких должностях им предпочитали родившихся в Испании. Креолы, такие как Симон Боливар и Хосе де Сан-Мартин, возглавили движения за независимость.",
-    "epochId": "lateinamerika",
-    "related": [
-      "simon-bolivar",
-      "jose-de-san-martin",
-      "mairevolution-buenos-aires"
-    ]
-  },
-  {
-    "id": "mestizen",
-    "term": "Метисы",
-    "definition": "Название людей с европейскими и индейскими предками в колониальной Латинской Америке. Колониальные власти классифицировали население по таким категориям происхождения, определявшим права, налоги и статус. В XIX–XX веках смешение было объявлено частью национальной идентичности в таких странах, как Мексика.",
-    "epochId": "lateinamerika",
-    "related": [
-      "malinche",
-      "aufstand-tupac-amaru-ii"
-    ]
-  },
-  {
-    "id": "quilombo",
-    "term": "Киломбу",
-    "definition": "В Бразилии — название поселения беглых порабощённых людей, часто в труднодоступных лесах или горах. Киломбу варьировались от небольших лагерей до крупных общин, таких как Палмарис, со своим земледелием и обороной. Подобные общины в испанской Америке назывались паленке.",
-    "epochId": "lateinamerika",
-    "related": [
-      "quilombo-dos-palmares",
-      "zumbi-dos-palmares"
-    ]
-  },
-  {
-    "id": "jesuitenreduktion",
-    "term": "Иезуитская редукция",
-    "definition": "Миссионерская деревня под управлением иезуитов, в которой расселяли коренных жителей, прежде всего гуарани, крестили их и защищали от работорговцев и колонистов. В редукциях были церкви, мастерские и общие поля, и они отчасти самоуправлялись. После изгнания иезуитов в 1767 г. они пришли в упадок.",
-    "epochId": "lateinamerika",
-    "related": [
-      "jesuitenreduktionen-in-paraguay",
-      "vertreibung-der-jesuiten-1767"
-    ]
-  },
-  {
-    "id": "caudillo",
-    "term": "Каудильо",
-    "definition": "Название политического и военного вождя, опиравшегося на личных приверженцев, часто вооружённых всадников и зависимых сельских работников. После обретения независимости каудильо определяли политику во многих странах Латинской Америки и нередко пренебрегали конституциями. Термин и сегодня означает авторитарное правление, скроенное под одного человека.",
-    "epochId": "lateinamerika",
-    "related": [
-      "paraguay-krieg",
-      "beginn-der-mexikanischen-revolution"
-    ]
-  },
-  {
-    "id": "janitscharen",
-    "term": "Янычары",
-    "definition": "Элитная пехота османских султанов, название которой означает «новое войско». Они возникли в XIV веке, набирались через набор мальчиков, регулярно оплачивались и рано получили огнестрельное оружие, что сделало их первой постоянной пехотой в Европе. Позднее янычары стали могущественной группой, враждебной реформам, пока Махмуд II не распустил их в 1826 г.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "aufloesung-der-janitscharen",
-      "mahmud-ii",
-      "nizam-i-cedid",
-      "schlacht-bei-mohacs"
-    ]
-  },
-  {
-    "id": "devsirme",
-    "term": "Девширме (набор мальчиков)",
-    "definition": "Периодический набор христианских мальчиков, главным образом из балканских деревень, на службу султану. Мальчиков обращали в ислам и обучали как янычар или при дворце; некоторые поднимались до великого визиря, и зодчий Синан поступил на государственную службу именно так. В XVII веке набор утратил значение и был прекращён.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "mimar-sinan",
-      "bau-der-sueleymaniye-moschee",
-      "osmanisches-reich"
-    ]
-  },
-  {
-    "id": "millet",
-    "term": "Миллет",
-    "definition": "Название признанных религиозных общин Османской империи, таких как греческие православные, армяне и евреи. Под руководством своих религиозных глав они в значительной мере сами регулировали брак, наследование, образование и благотворительность и отвечали перед султаном за налоги и порядок. Порядок миллетов сложился в твёрдую систему главным образом в XIX веке.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "fall-konstantinopels",
-      "mehmed-ii",
-      "tanzimat-edikt-von-guelhane"
-    ]
-  },
-  {
-    "id": "grosswesir",
-    "term": "Великий визирь",
-    "definition": "Высший министр Османской империи и заместитель султана, хранивший его печать. Он председательствовал в императорском совете и управлении и нередко командовал армией в походе. Его официальная резиденция, Блистательная Порта, стала европейским названием османского правительства в целом.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "belagerung-wiens-1683",
-      "tulpenzeit",
-      "midhat-pascha"
-    ]
-  },
-  {
-    "id": "timar",
-    "term": "Тимар",
-    "definition": "Пожалование, при котором всадник — сипахи — получал налоговые доходы определённых деревень и взамен должен был являться на войну со снаряжением и свитой. Земля оставалась собственностью государства и не наследовалась. С конца XVI века система тимаров утратила значение и всё чаще заменялась откупом налогов.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "osmanen-fassen-fuss-in-europa",
-      "schlacht-auf-dem-amselfeld",
-      "tanzimat-edikt-von-guelhane"
-    ]
-  },
-  {
-    "id": "harem",
-    "term": "Гарем",
-    "definition": "Защищённая, частная часть мусульманского дома, особенно жилые покои семьи султана во дворце Топкапы. Там жили мать султана, его жёны и наложницы, дети и служанки, там же получали образование женщины. Вопреки европейским фантазиям, гарем был политическим центром власти, в котором большое влияние имела валиде-султан.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "bau-des-topkapi-palastes",
-      "huerrem-sultan",
-      "koesem-sultan",
-      "koesem-sultan-regentschaft"
-    ]
-  },
-  {
-    "id": "kapitulationen",
-    "term": "Капитуляции",
-    "definition": "Торговые привилегии, дарованные султанами европейским государствам, например Франции в 1569 г. и Англии в 1580 г. Они позволяли иностранным купцам низкие пошлины, свободное отправление религии и юрисдикцию собственных консулов. В XIX веке они стали инструментом европейского влияния; Османская империя в одностороннем порядке отменила их в 1914 г.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "sueleyman-der-praechtige",
-      "osmanischer-staatsbankrott",
-      "krimkrieg"
-    ]
-  },
-  {
-    "id": "jungtuerken",
-    "term": "Младотурки",
-    "definition": "Движение офицеров, чиновников и интеллектуалов, которое с 1890-х гг. боролось против абсолютного правления Абдул-Хамида II и за конституцию. Его важнейшая организация, Комитет единения и прогресса, добилась восстановления конституции в 1908 г. и господствовала в государстве с 1913 г. Его правительство ввело империю в Первую мировую войну и несёт ответственность за геноцид армян.",
-    "epochId": "osmanisches-reich",
-    "related": [
-      "jungtuerkische-revolution",
-      "balkankriege",
-      "voelkermord-an-den-armeniern"
     ]
   }
 ]
