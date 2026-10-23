@@ -69,6 +69,11 @@ const ORDINAL = {
   // Chinesisch und Japanisch zählen Jahrhunderte mit arabischen Ziffern (5世纪 / 5世紀).
   zh: (n) => String(n),
   ja: (n) => String(n),
+  ko: (n) => String(n),
+  id: (n) => String(n),
+  pl: roman,
+  nl: (n) => `${n}e`,
+  tr: (n) => `${n}.`,
   de: (n) => `${n}.`,
   en: (n) => {
     const rest100 = n % 100;
