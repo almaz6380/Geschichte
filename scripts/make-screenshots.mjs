@@ -22,7 +22,7 @@ const STORE = JSON.parse(readFileSync(path.join(ROOT, 'store', 'store-texte.json
 const FEATURE = {
   de: { title: 'Weltgeschichte', line1: 'Epochen · Themen · Zeitleiste · Quiz', line2: 'Von der Steinzeit bis heute. Komplett offline.' },
   en: { title: 'World History', line1: 'Epochs · Themes · Timeline · Quiz', line2: 'From the Stone Age to today. Fully offline.' },
-}[LANG] || Object.entries(STORE).find(([k]) => k.startsWith(`${LANG}-`))?.[1]?.feature;
+}[LANG] || Object.entries(STORE).find(([k]) => k === LANG || k.startsWith(`${LANG}-`))?.[1]?.feature;
 if (!FEATURE) throw new Error(`Keine Texte für die Vorstellungsgrafik in ${LANG} (store/store-texte.json, Feld feature)`);
 
 function loadPlaywright() {

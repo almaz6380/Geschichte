@@ -54,6 +54,11 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
+- **1.4.0 (23.10.2026):** 5 neue Sprachen – Koreanisch, Türkisch, Polnisch, Niederländisch, Indonesisch (jetzt 14).
+  Oberfläche `js/strings/<sprache>.js` (Polnisch mit one/few/many/other), Inhalte über `translate/<sprache>/`,
+  Store-Texte `translate/store-<sprache>.json` → `merge-store.py`, Screenshots `docs/screenshots/<sprache>/`.
+  Android-Ressourcen für Indonesisch heißen `values-in` (alter Sprachcode). Sprachauswahl hat `max-width`,
+  weil „Bahasa Indonesia“ sie sonst auf 360 px über den Rand schob. Arabisch (RTL) folgt getrennt.
 - **1.3.0 (22.10.2026):** Fünf neue Epochen (Ozeanien und Pazifik, Byzanz, Südostasien, Wikinger und Nordeuropa,
   Russland und Osteuropa), dazu 5 Ereignisse + 2 Personen fürs Mittelalter; passende Bestandseinträge in die neuen
   Epochen verschoben. Jetzt 25 Epochen, 644 Ereignisse, 326 Personen, 200 Begriffe, 1.300 Fragen, alle 9 Sprachen
@@ -91,7 +96,7 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 - Die Vercel-Integration wurde am 11.10.2026 deinstalliert. Der alte rote Status
   „Vercel – Account is blocked“ an früheren Commits ist bedeutungslos.
-- **9 Sprachen** (seit 1.2.0): de, en, fr, es, it, pt (pt-BR), ru, ja, zh (Kurzzeichen). Inhalte wurden aus
+- **14 Sprachen** (seit 1.4.0): de, en, fr, es, it, pt (pt-BR), ru, ja, zh (Kurzzeichen), ko, tr, pl, nl, id. Inhalte wurden aus
   `data/en` übersetzt: `translate/src` (Vorlage in Blöcken), `translate/<sprache>/` (Übersetzung),
   `node translate/check.mjs <sprache>` und `node translate/lint.mjs <sprache>` prüfen, dann
   `node scripts/i18n-apply.mjs <sprache> translate/<sprache>`. **Ändert sich ein deutscher/englischer Text,

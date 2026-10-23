@@ -14,11 +14,11 @@ export const LANGS = [
   { code: 'ru', name: 'Русский', locale: 'ru-RU', ready: true },
   { code: 'ja', name: '日本語', locale: 'ja-JP', ready: true },
   { code: 'zh', name: '中文', locale: 'zh-CN', ready: true },
-  { code: 'ko', name: '한국어', locale: 'ko-KR', ready: false },
-  { code: 'tr', name: 'Türkçe', locale: 'tr-TR', ready: false },
-  { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: false },
-  { code: 'nl', name: 'Nederlands', locale: 'nl-NL', ready: false },
-  { code: 'id', name: 'Bahasa Indonesia', locale: 'id-ID', ready: false },
+  { code: 'ko', name: '한국어', locale: 'ko-KR', ready: true },
+  { code: 'tr', name: 'Türkçe', locale: 'tr-TR', ready: true },
+  { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
+  { code: 'nl', name: 'Nederlands', locale: 'nl-NL', ready: true },
+  { code: 'id', name: 'Bahasa Indonesia', locale: 'id-ID', ready: true },
 ];
 
 export const DEFAULT_LANG = 'de';
