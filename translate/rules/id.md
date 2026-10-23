@@ -1,0 +1,1 @@
+Zielsprache: INDONESISCH (Bahasa Indonesia, baku). Sachlich, Lehrbuchstil. Namen in der im Indonesischen üblichen Form (Karel Agung, London, Perang Seratus Tahun; Personen- und Ortsnamen der Region wie Majapahit, Gajah Mada unverändert). „BC“ → „SM“, „AD“ → „M“, „c.“ → „sekitar“. Zahlen: 12.000. Jahrhunderte: abad ke-5 SM.

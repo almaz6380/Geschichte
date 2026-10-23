@@ -1,0 +1,1 @@
+Zielsprache: KOREANISCH. Sachlicher Lehrbuchstil (평서문 -다체; Quizfragen knapp). Namen in der im Koreanischen üblichen Form (카롤루스 대제/샤를마뉴, 런던, 백년 전쟁; chinesische Namen in koreanischer Lesung, z. B. 진시황, 쿠빌라이 칸). „500 BC“ → „기원전 500년“, „AD 800“ → „800년“ (nur bei Bedarf „서기“), „c.“ → „무렵“/„약“. Jahrhunderte: 5세기, 기원전 5세기. Zahlen: 12,000.

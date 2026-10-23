@@ -49,7 +49,7 @@ SUCHE UND LESEZEICHEN
 Volltextsuche über alle Inhalte, Lesezeichen für Epochen, Ereignisse und Personen.
 
 KOSTENLOS
-Kostenlos und durch Werbung finanziert. Offline nutzbar, keine Anmeldung, keine In-App-Käufe. Helles und dunkles Farbschema. In neun Sprachen: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch und Chinesisch.
+Kostenlos und durch Werbung finanziert. Offline nutzbar, keine Anmeldung, keine In-App-Käufe. Helles und dunkles Farbschema. In 14 Sprachen: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch, Chinesisch, Koreanisch, Türkisch, Polnisch, Niederländisch und Indonesisch.
 
 UMFANG
 25 Epochen · 8 Themen · 644 Ereignisse · 326 Personen · 200 Begriffe · 1.300 Quizfragen
@@ -152,7 +152,7 @@ SEARCH AND BOOKMARKS
 Full-text search across all content, bookmarks for epochs, events and people.
 
 FREE
-Free and supported by ads. Works offline, no sign-up, no in-app purchases. Light and dark mode. In nine languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese and Chinese.
+Free and supported by ads. Works offline, no sign-up, no in-app purchases. Light and dark mode. In 14 languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese, Chinese, Korean, Turkish, Polish, Dutch and Indonesian.
 
 AT A GLANCE
 25 epochs · 8 themes · 644 events · 326 people · 200 terms · 1,300 quiz questions
@@ -171,7 +171,7 @@ Big update: duels with friends by link or on one device, daily challenge with st
 ## Release notes 1.0.0
 
 ```
-First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, search and bookmarks. Works fully offline. In nine languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese and Chinese.
+First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, search and bookmarks. Works fully offline. In 14 languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese, Chinese, Korean, Turkish, Polish, Dutch and Indonesian.
 ```
 
 ## URLs

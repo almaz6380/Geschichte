@@ -20,7 +20,7 @@ on:
       notes:
         description: 'Was-ist-neu-Text (de-DE, max. 500 Zeichen)'
         type: string
-        default: 'Fünf neue Epochen: Ozeanien und der Pazifik, das Byzantinische Reich, Südostasien, Wikinger und Nordeuropa sowie Russland und Osteuropa. Insgesamt jetzt 25 Epochen mit 644 Ereignissen, 326 Personen, 200 Begriffen und 1.300 Quizfragen.'
+        default: 'Weltgeschichte gibt es jetzt in 14 Sprachen: neu sind Koreanisch, Türkisch, Polnisch, Niederländisch und Indonesisch – mit allen 25 Epochen, Ereignissen, Personen und 1.300 Quizfragen.'
       texte:
         description: 'Store-Texte (Kurzbeschreibung, Beschreibung) aus store/store-texte.json setzen'
         type: boolean

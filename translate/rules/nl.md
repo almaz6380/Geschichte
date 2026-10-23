@@ -1,0 +1,1 @@
+Zielsprache: NIEDERLÄNDISCH (Standardniederländisch für Niederlande und Flandern). Sachlich, Lehrbuchstil. Namen in niederländischer Form (Karel de Grote, Londen, de Honderdjarige Oorlog). „BC“ → „v.Chr.“, „AD“ → „n.Chr.“, „c.“ → „ca.“/„rond“. Zahlen: 12.000. Jahrhunderte: 5e eeuw.

@@ -336,6 +336,8 @@ PLAY_SPRACHEN = {
     'de-DE': (['de-DE'], ''), 'en-US': (['en-US'], 'en'), 'fr-FR': (['fr-FR'], 'fr'),
     'es-ES': (['es-ES', 'es-419'], 'es'), 'it-IT': (['it-IT'], 'it'), 'pt-BR': (['pt-BR'], 'pt'),
     'ru-RU': (['ru-RU'], 'ru'), 'ja-JP': (['ja-JP'], 'ja'), 'zh-CN': (['zh-CN'], 'zh'),
+    'ko-KR': (['ko-KR'], 'ko'), 'tr-TR': (['tr-TR'], 'tr'), 'pl-PL': (['pl-PL'], 'pl'),
+    'nl-NL': (['nl-NL'], 'nl'), 'id': (['id'], 'id'),
 }
 
 

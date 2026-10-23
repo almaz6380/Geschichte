@@ -307,9 +307,12 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
   line-height: 1.2;
   cursor: pointer;
   min-width: 0;
+  /* Ein <select> ist so breit wie seine längste Option („Bahasa Indonesia“) – begrenzen, sonst Überlauf bei 360 px. */
+  max-width: 10em;
+  text-overflow: ellipsis;
 }
 .lang-picker select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 @media (max-width: 480px) {
-  .lang-picker select { padding-left: 24px; font-size: .8rem; }
+  .lang-picker select { padding-left: 24px; font-size: .8rem; max-width: 7.5em; }
   .lang-picker .lang-icon { left: 4px; width: 16px; height: 16px; }
 }
