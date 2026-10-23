@@ -59,6 +59,8 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
   Store-Texte `translate/store-<sprache>.json` → `merge-store.py`, Screenshots `docs/screenshots/<sprache>/`.
   Android-Ressourcen für Indonesisch heißen `values-in` (alter Sprachcode). Sprachauswahl hat `max-width`,
   weil „Bahasa Indonesia“ sie sonst auf 360 px über den Rand schob. Arabisch (RTL) folgt getrennt.
+  Web live, Android **versionCode 17 in Produktion (an alle)**, Store-Einträge in 14 Sprachen (Play + Apple),
+  iOS **Build 27 eingereicht** (reviewSubmission `481c67b1-…`). 1.3.0 ist auf iOS freigegeben (READY_FOR_SALE).
 - **1.3.0 (22.10.2026):** Fünf neue Epochen (Ozeanien und Pazifik, Byzanz, Südostasien, Wikinger und Nordeuropa,
   Russland und Osteuropa), dazu 5 Ereignisse + 2 Personen fürs Mittelalter; passende Bestandseinträge in die neuen
   Epochen verschoben. Jetzt 25 Epochen, 644 Ereignisse, 326 Personen, 200 Begriffe, 1.300 Fragen, alle 9 Sprachen
