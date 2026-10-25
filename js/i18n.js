@@ -19,7 +19,7 @@ export const LANGS = [
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
   { code: 'nl', name: 'Nederlands', locale: 'nl-NL', ready: true },
   { code: 'id', name: 'Bahasa Indonesia', locale: 'id-ID', ready: true },
-  { code: 'ar', name: 'العربية', locale: 'ar', ready: false, rtl: true },
+  { code: 'ar', name: 'العربية', locale: 'ar-u-nu-latn', ready: false, rtl: true },
 ];
 
 export const DEFAULT_LANG = 'de';
@@ -79,6 +79,7 @@ const ORDINAL = {
   pl: roman,
   nl: (n) => `${n}e`,
   tr: (n) => `${n}.`,
+  // Arabisch mit westlichen Ziffern (locale ar-u-nu-latn), wie im Inhalt.
   ar: (n) => String(n),
   de: (n) => `${n}.`,
   en: (n) => {
