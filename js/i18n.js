@@ -19,6 +19,7 @@ export const LANGS = [
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
   { code: 'nl', name: 'Nederlands', locale: 'nl-NL', ready: true },
   { code: 'id', name: 'Bahasa Indonesia', locale: 'id-ID', ready: true },
+  { code: 'ar', name: 'العربية', locale: 'ar', ready: false, rtl: true },
 ];
 
 export const DEFAULT_LANG = 'de';
@@ -34,7 +35,11 @@ export function getLocale(code = current) { return langInfo(code).locale; }
 
 export function setLang(code) {
   current = LANG_CODES.includes(code) ? code : DEFAULT_LANG;
-  if (typeof document !== 'undefined') document.documentElement.lang = current;
+  if (typeof document !== 'undefined') {
+    document.documentElement.lang = current;
+    // Arabisch läuft von rechts nach links; das CSS nutzt dafür logische Eigenschaften (inline-start/-end).
+    document.documentElement.dir = langInfo(current).rtl ? 'rtl' : 'ltr';
+  }
   return current;
 }
 
@@ -74,6 +79,7 @@ const ORDINAL = {
   pl: roman,
   nl: (n) => `${n}e`,
   tr: (n) => `${n}.`,
+  ar: (n) => String(n),
   de: (n) => `${n}.`,
   en: (n) => {
     const rest100 = n % 100;

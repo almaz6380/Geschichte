@@ -7,7 +7,7 @@ R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LANGS = {'fr': ('fr-FR', 'fr', 'fr'), 'es': ('es-ES', 'es', 'es'), 'it': ('it-IT', 'it', 'it'),
          'pt': ('pt-BR', 'pt-BR', 'pt'), 'ru': ('ru-RU', 'ru', 'ru'), 'ja': ('ja-JP', 'ja', 'ja'),
          'zh': ('zh-CN', 'zh-Hans', 'zh'), 'ko': ('ko-KR', 'ko', 'ko'), 'tr': ('tr-TR', 'tr', 'tr'),
-         'pl': ('pl-PL', 'pl', 'pl'), 'nl': ('nl-NL', 'nl', 'nl'), 'id': ('id', 'id', 'in')}
+         'pl': ('pl-PL', 'pl', 'pl'), 'nl': ('nl-NL', 'nl', 'nl'), 'id': ('id', 'id', 'in'), 'ar': ('ar-SA', 'ar', 'ar')}
 FIXED = {'de': ('Weltgeschichte', 'Deine Zustimmung erlaubt uns, dir passendere Werbung zu zeigen. Die App bleibt so oder so kostenlos.'),
          'en': ('World History', 'Your permission lets us show you more relevant ads. The app stays free either way.')}
 texte_p = f'{R}/store/store-texte.json'; wn_p = f'{R}/store/whatsnew-' + json.load(open(f'{R}/package.json'))['version'] + '.json'

@@ -43,12 +43,12 @@ APPLE = {
     'de-DE': ['de-DE'], 'en-US': ['en-US', 'en-GB'], 'fr-FR': ['fr-FR'],
     'es-ES': ['es-ES', 'es-MX'], 'it-IT': ['it'], 'pt-BR': ['pt-BR'],
     'ru-RU': ['ru'], 'ja-JP': ['ja'], 'zh-CN': ['zh-Hans'],
-    'ko-KR': ['ko'], 'tr-TR': ['tr'], 'pl-PL': ['pl'], 'nl-NL': ['nl-NL'], 'id': ['id'],
+    'ko-KR': ['ko'], 'tr-TR': ['tr'], 'pl-PL': ['pl'], 'nl-NL': ['nl-NL'], 'id': ['id'], 'ar-SA': ['ar-SA'],
 }
 # Screenshot-Ordner je Quellsprache (de liegt direkt in docs/screenshots/).
 SHOT_DIR = {'de-DE': '', 'en-US': 'en', 'fr-FR': 'fr', 'es-ES': 'es', 'it-IT': 'it', 'pt-BR': 'pt',
             'ru-RU': 'ru', 'ja-JP': 'ja', 'zh-CN': 'zh', 'ko-KR': 'ko', 'tr-TR': 'tr', 'pl-PL': 'pl',
-            'nl-NL': 'nl', 'id': 'id'}
+            'nl-NL': 'nl', 'id': 'id', 'ar-SA': 'ar'}
 SETS = {'APP_IPHONE_67': 'iphone-69', 'APP_IPAD_PRO_3GEN_129': 'ipad-13'}
 
 
