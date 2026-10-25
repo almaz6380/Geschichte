@@ -16,7 +16,7 @@
 .tl-epoch-head {
   position: sticky; top: calc(var(--header-h) + 58px); z-index: 20;
   display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
-  margin: 0 0 12px -28px; padding: 8px 12px 8px 28px;
+  margin: 0 0 12px; margin-inline-start: -28px; padding: 8px 12px; padding-inline-start: 28px;
   background: var(--bg);
   border-inline-start: 0;
 }

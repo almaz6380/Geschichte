@@ -10,7 +10,7 @@ on:
       version:
         description: 'Version, z. B. 1.1.0'
         type: string
-        default: '1.4.0'
+        default: '1.5.0'
       build:
         description: 'Build-Nummer (leer = neuester verarbeiteter Build dieser Version)'
         type: string
@@ -18,7 +18,7 @@ on:
       notes_file:
         description: '„Was ist neu"-Texte je Sprache'
         type: string
-        default: 'store/whatsnew-1.4.0.json'
+        default: 'store/whatsnew-1.5.0.json'
       texte_file:
         description: 'Beschreibung und Werbetext je Sprache (leer = nicht ändern)'
         type: string

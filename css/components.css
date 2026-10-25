@@ -124,7 +124,7 @@
 /* Search */
 .search-box { position: relative; margin-bottom: 16px; }
 .search-box input {
-  width: 100%; padding: 14px 16px 14px 44px; font-size: 1.05rem; border-radius: 999px; border: 1px solid var(--border);
+  width: 100%; padding: 14px 16px; padding-inline-start: 44px; font-size: 1.05rem; border-radius: 999px; border: 1px solid var(--border);
   background: var(--bg-elev); color: var(--text); outline: none;
 }
 .search-box input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent); }
@@ -297,7 +297,7 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
 }
 .lang-picker select {
   appearance: none;
-  padding: 6px 8px 6px 28px;
+  padding: 6px 8px; padding-inline-start: 28px;
   border: 1px solid var(--border);
   border-radius: 999px;
   background: var(--surface);
