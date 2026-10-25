@@ -1,8 +1,8 @@
 [
   {
     "id": "ablasshandel",
-    "term": "Ablasshandel",
-    "definition": "Praxis der spätmittelalterlichen Kirche, gegen Geldzahlungen den Erlass von Sündenstrafen im Jenseits zu versprechen. Der Verkauf von Ablassbriefen, mit dem unter anderem der Bau des Petersdoms finanziert wurde, war der unmittelbare Anlass für Luthers 95 Thesen.",
+    "term": "بيع صكوك الغفران",
+    "definition": "ممارسة كنيسة أواخر العصور الوسطى في الوعد بالإعفاء من عقوبات الخطايا في الآخرة مقابل دفع المال. وكان بيع صكوك الغفران، الذي موّل من بين أمور أخرى بناء كاتدرائية القديس بطرس، السبب المباشر لأطروحات لوثر الخمس والتسعين.",
     "epochId": "renaissance-entdeckungen",
     "related": [
       "luthers-95-thesen",
@@ -11,8 +11,8 @@
   },
   {
     "id": "absolutismus",
-    "term": "Absolutismus",
-    "definition": "Herrschaftsform des 17. und 18. Jahrhunderts, in der der Monarch beansprucht, losgelöst von Ständen und Gesetzen allein zu regieren. Stehendes Heer, Beamtenapparat, gelenkte Wirtschaft und ein prunkvoller Hof waren seine Stützen; Ludwig XIV. von Frankreich gilt als Vorbild.",
+    "term": "الحكم المطلق",
+    "definition": "شكل من أشكال الحكم في القرنين السابع عشر والثامن عشر ادّعى فيه الملك الحكم منفردًا، متحررًا من الطبقات ومن القوانين. وكانت ركائزه جيشًا دائمًا وجهازًا من الموظفين واقتصادًا موجّهًا وبلاطًا فخمًا؛ ويُعدّ لويس الرابع عشر ملك فرنسا نموذجًا له.",
     "epochId": "absolutismus-aufklaerung",
     "related": [
       "ludwig-xiv",
@@ -22,8 +22,8 @@
   },
   {
     "id": "acht-banner",
-    "term": "Acht Banner",
-    "definition": "Militärische und gesellschaftliche Ordnung der Mandschu, in der alle Familien acht nach Fahnenfarben benannten Verbänden zugeteilt waren. Die Bannertruppen eroberten 1644 China und bildeten danach als privilegierte Garnisonen in den großen Städten die Stütze der Qing-Herrschaft.",
+    "term": "الرايات الثماني",
+    "definition": "التنظيم العسكري والاجتماعي للمانشو، الذي وُزّعت فيه جميع الأسر على ثماني وحدات سُمّيت بألوان راياتها. وفتحت قوات الرايات الصين عام 1644، وشكّلت بعد ذلك، بوصفها حاميات ذات امتيازات في المدن الكبرى، العمود الفقري لحكم تشينغ.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "mandschu-erobern-peking",
@@ -32,8 +32,8 @@
   },
   {
     "id": "agora",
-    "term": "Agora",
-    "definition": "Der zentrale Platz einer griechischen Stadt, der als Markt, Versammlungsort und politisches Zentrum diente. In Athen lagen an der Agora das Rathaus, Gerichte, Säulenhallen und Altäre; hier führte Sokrates seine Gespräche und wurden Gesetze öffentlich ausgehängt.",
+    "term": "الأغورا",
+    "definition": "الساحة المركزية في المدينة اليونانية، وكانت سوقًا وملتقى ومركزًا سياسيًا. وفي أثينا كانت تقوم على الأغورا دار المجلس والمحاكم والأروقة ذات الأعمدة والمذابح؛ وفيها أجرى سقراط محاوراته، وكانت القوانين تُعلَّق علنًا.",
     "epochId": "antike-griechenland",
     "related": [
       "sokrates",
@@ -42,8 +42,8 @@
   },
   {
     "id": "akropolis",
-    "term": "Akropolis",
-    "definition": "Die Oberstadt, ein befestigter Hügel in vielen griechischen Städten, der als Burg und Heiligtum diente. Die Akropolis von Athen trug seit dem 5. Jahrhundert v. Chr. den Parthenon, das Erechtheion und die Propyläen und ist heute das bekannteste Bauensemble der Antike.",
+    "term": "الأكروبوليس",
+    "definition": "المدينة العليا، وهي تلّ محصّن في كثير من المدن اليونانية كان قلعةً ومعبدًا في آن. ومنذ القرن الخامس ق.م حمل أكروبوليس أثينا البارثينون والإرخثيون والبروبيلايا، وهو اليوم أشهر مجموعة مبانٍ من العصور القديمة.",
     "epochId": "antike-griechenland",
     "related": [
       "bau-des-parthenon",
@@ -52,8 +52,8 @@
   },
   {
     "id": "al-andalus",
-    "term": "Al-Andalus",
-    "definition": "Der arabische Name für die von Muslimen beherrschten Teile der Iberischen Halbinsel zwischen 711 und 1492. Unter dem Emirat und Kalifat von Córdoba erlebte al-Andalus eine Blüte von Landwirtschaft, Handel, Wissenschaft und Baukunst, an der Muslime, Juden und Christen Anteil hatten. Nach dem Zerfall des Kalifats 1031 verlor es Stück für Stück an die christlichen Reiche, bis mit Granada der letzte Rest fiel.",
+    "term": "الأندلس",
+    "definition": "الاسم العربي لأجزاء شبه الجزيرة الأيبيرية التي حكمها المسلمون بين 711 و1492. وفي عهد إمارة قرطبة وخلافتها شهدت الأندلس ازدهارًا في الزراعة والتجارة والعلم والعمارة شارك فيه المسلمون واليهود والمسيحيون جميعًا. وبعد انهيار الخلافة عام 1031 فقدت أراضيها قطعةً قطعة لصالح الممالك المسيحية، حتى سقط آخر ما تبقى منها بسقوط غرناطة.",
     "epochId": "islamische-welt",
     "related": [
       "kalifat-von-cordoba",
@@ -64,8 +64,8 @@
   },
   {
     "id": "alphabet",
-    "term": "Alphabet",
-    "definition": "Ein Schriftsystem, in dem jedes Zeichen für einen einzelnen Laut steht, sodass man mit wenigen Buchstaben jedes Wort schreiben kann. Das phönizische Alphabet aus 22 Konsonantenzeichen entstand um 1050 v. Chr. und ist der Vorfahre der griechischen, lateinischen, hebräischen und arabischen Schrift.",
+    "term": "الأبجدية",
+    "definition": "نظام كتابة يمثّل فيه كل رمز صوتًا واحدًا، بحيث يمكن كتابة كل كلمة بعدد قليل من الحروف. ونشأت الأبجدية الفينيقية المكوّنة من 22 رمزًا للحروف الساكنة نحو عام 1050 ق.م، وهي أصل الكتابات اليونانية واللاتينية والعبرية والعربية.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "phoenizier-und-alphabet",
@@ -74,8 +74,8 @@
   },
   {
     "id": "altsteinzeit",
-    "term": "Altsteinzeit (Paläolithikum)",
-    "definition": "Der längste Abschnitt der Menschheitsgeschichte, von den ersten Steinwerkzeugen vor rund 2,6 Millionen Jahren bis zum Ende der letzten Eiszeit vor etwa 12.000 Jahren. Die Menschen lebten als umherziehende Jäger und Sammler und stellten Werkzeuge aus Stein, Knochen und Holz her.",
+    "term": "العصر الحجري القديم (الباليوليتي)",
+    "definition": "أطول مرحلة في تاريخ البشرية، من أولى الأدوات الحجرية قبل نحو 2.6 مليون سنة حتى نهاية العصر الجليدي الأخير قبل نحو 12,000 سنة. وعاش الناس فيها صيادين وجامعين متنقلين، وصنعوا أدواتهم من الحجر والعظم والخشب.",
     "epochId": "urgeschichte",
     "related": [
       "oldowan-steinwerkzeuge",
@@ -85,8 +85,8 @@
   },
   {
     "id": "appeasement",
-    "term": "Appeasement",
-    "definition": "Die Politik Großbritanniens und Frankreichs in den 1930er Jahren, Hitlers Forderungen durch Zugeständnisse zu befriedigen, um einen neuen Krieg zu vermeiden. Sie gipfelte im Münchner Abkommen von 1938 und scheiterte, als Deutschland im März 1939 die restliche Tschechoslowakei besetzte. Der Begriff steht seither für das Nachgeben gegenüber Aggressoren.",
+    "term": "سياسة الاسترضاء",
+    "definition": "سياسة بريطانيا وفرنسا في ثلاثينيات القرن العشرين القائمة على تلبية مطالب هتلر بتقديم التنازلات تجنبًا لحرب جديدة. وبلغت ذروتها في اتفاقية ميونخ عام 1938، وفشلت حين احتلت ألمانيا ما تبقى من تشيكوسلوفاكيا في مارس 1939. ومنذ ذلك الحين يدل المصطلح على التراجع أمام المعتدين.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "muenchner-abkommen",
@@ -96,8 +96,8 @@
   },
   {
     "id": "aufgeklaerter-absolutismus",
-    "term": "Aufgeklärter Absolutismus",
-    "definition": "Herrschaftsstil des 18. Jahrhunderts, bei dem Monarchen Ideen der Aufklärung wie religiöse Toleranz, Rechtsreformen und Schulwesen übernahmen, ohne ihre Macht zu teilen. Friedrich II. von Preußen, Maria Theresia, Joseph II. und Katharina II. verstanden sich als erste Diener ihres Staates.",
+    "term": "الحكم المطلق المستنير",
+    "definition": "أسلوب في الحكم في القرن الثامن عشر تبنّى فيه الملوك أفكار التنوير مثل التسامح الديني والإصلاح القانوني والتعليم المدرسي، دون أن يتقاسموا سلطتهم. ورأى فريدريش الثاني ملك بروسيا وماريا تيريزا ويوزف الثاني وكاترين الثانية أنفسهم الخدم الأوائل لدولهم.",
     "epochId": "absolutismus-aufklaerung",
     "related": [
       "friedrich-ii-von-preussen",
@@ -107,8 +107,8 @@
   },
   {
     "id": "aufklaerung",
-    "term": "Aufklärung",
-    "definition": "Geistige Bewegung des 18. Jahrhunderts, die Vernunft, Kritik und Erfahrung zur Grundlage von Wissen, Recht und Politik machen wollte. Ihre Vertreter forderten Toleranz, Menschenrechte, Gewaltenteilung und Bildung für alle und bereiteten damit die Revolutionen in Amerika und Frankreich vor.",
+    "term": "التنوير",
+    "definition": "حركة فكرية في القرن الثامن عشر سعت إلى جعل العقل والنقد والتجربة أساسًا للمعرفة والقانون والسياسة. وطالب ممثلوها بالتسامح وحقوق الإنسان والفصل بين السلطات والتعليم للجميع، فمهّدوا بذلك الطريق للثورتين في أمريكا وفرنسا.",
     "epochId": "absolutismus-aufklaerung",
     "related": [
       "immanuel-kant",
@@ -119,8 +119,8 @@
   },
   {
     "id": "auslegerkanu",
-    "term": "Auslegerkanu",
-    "definition": "Kanu mit einem seitlich am Rumpf befestigten Schwimmer, dem Ausleger, der das Boot gegen das Kentern stabilisiert. Für die Besiedlung des Pazifiks nutzten die Seefahrer auch große Doppelrumpfkanus mit Segeln aus Pandanusmatten, die Menschen, Tiere und Pflanzen über Tausende Kilometer tragen konnten. Navigiert wurde ohne Instrumente nach Sternen, Dünung, Wolken und Vogelflug.",
+    "term": "زورق ذو ذراع توازن",
+    "definition": "زورق مثبَّت على جانب هيكله عوّامة، هي ذراع التوازن، لتحميه من الانقلاب. ولاستيطان المحيط الهادئ استعمل الرحّالة أيضًا زوارق كبيرة مزدوجة الهيكل ذات أشرعة من حُصر الباندانوس، قادرة على نقل البشر والحيوانات والنباتات عبر آلاف الكيلومترات. وكانوا يهتدون دون أدوات بالنجوم وأمواج المحيط والسحب وطيران الطيور.",
     "epochId": "ozeanien-pazifik",
     "related": [
       "lapita-besiedlung-pazifik",
@@ -130,8 +130,8 @@
   },
   {
     "id": "ayllu",
-    "term": "Ayllu",
-    "definition": "Verwandtschafts- und Dorfgemeinschaft in den Anden, deren Mitglieder sich auf einen gemeinsamen Ahnen zurückführten. Das Ayllu besaß Land gemeinsam, verteilte es an die Familien und organisierte gegenseitige Hilfe bei Feldarbeit und Hausbau. Im Inkareich bildete es die Grundeinheit für Abgaben und Arbeitsdienste; in vielen Andendörfern besteht es bis heute fort.",
+    "term": "الأيلو",
+    "definition": "جماعة قرابية وقروية في جبال الأنديز ينتسب أفرادها إلى سلف مشترك. وكان الأيلو يملك الأرض ملكية جماعية، ويوزّعها على الأسر، وينظّم العون المتبادل في العمل الزراعي وبناء البيوت. وفي إمبراطورية الإنكا شكّل الوحدة الأساسية للضرائب والسخرة؛ ولا يزال قائمًا في كثير من قرى الأنديز حتى اليوم.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "pachacutec-und-das-inka-reich",
@@ -141,8 +141,8 @@
   },
   {
     "id": "baray",
-    "term": "Baray",
-    "definition": "Khmer-Bezeichnung für die großen rechteckigen Wasserbecken, die die Könige von Angkor anlegen ließen; der Westliche Baray misst etwa acht mal zwei Kilometer. Sie dienten der Wasserversorgung und hatten zugleich religiöse Bedeutung als Abbild des Urozeans um den Weltenberg Meru. Wie stark sie zur Bewässerung der Reisfelder beitrugen, wird in der Forschung unterschiedlich beurteilt.",
+    "term": "باراي",
+    "definition": "مصطلح خميري للخزانات المائية المستطيلة الكبيرة التي بناها ملوك أنغكور؛ ويبلغ طول الباراي الغربي نحو ثمانية كيلومترات وعرضه كيلومترين. وقد خدمت إمدادات المياه، وحملت في الوقت نفسه معنى دينيًا بوصفها صورة للمحيط الأزلي المحيط بالجبل الكوني ميرو. ويختلف الباحثون في تقدير مدى إسهامها في ريّ حقول الأرز.",
     "epochId": "suedostasien",
     "related": [
       "angkor-wat",
@@ -152,8 +152,8 @@
   },
   {
     "id": "basileus",
-    "term": "Basileus",
-    "definition": "Griechisches Wort für „König“, das seit Kaiser Herakleios amtlich als Titel des byzantinischen Kaisers diente. Der Basileus verstand sich als Nachfolger der römischen Kaiser und als von Gott eingesetzter Herrscher der Christenheit. Den Anspruch westlicher Herrscher wie Karls des Großen auf den Kaisertitel erkannte Byzanz nur widerwillig an.",
+    "term": "باسيليوس",
+    "definition": "الكلمة اليونانية التي تعني «ملك»، وصارت منذ عهد الإمبراطور هرقل اللقب الرسمي للإمبراطور البيزنطي. ورأى الباسيليوس نفسه خليفة للأباطرة الرومان وحاكمًا للعالم المسيحي معيَّنًا من الله. ولم تعترف بيزنطة إلا على مضض بمطالبة حكام غربيين مثل شارلمان باللقب الإمبراطوري.",
     "epochId": "byzanz",
     "related": [
       "herakleios",
@@ -164,8 +164,8 @@
   },
   {
     "id": "beamtenpruefung",
-    "term": "Beamtenprüfung",
-    "definition": "Staatliches Prüfungssystem in China, mit dem seit der Han-Zeit und verstärkt seit den Tang Beamte nach ihrer Kenntnis der konfuzianischen Klassiker ausgewählt wurden. Es sollte Ämter nach Leistung statt nach Herkunft vergeben und prägte die Bildung Ostasiens bis 1905.",
+    "term": "الامتحان الإمبراطوري",
+    "definition": "نظام امتحانات حكومية في الصين كان يُختار بموجبه الموظفون، منذ عهد هان وبصورة متزايدة منذ عهد تانغ، وفقًا لمعرفتهم بالكلاسيكيات الكونفوشيوسية. وكان الهدف منه منح المناصب على أساس الجدارة لا النسب، وقد طبع التعليم في شرق آسيا بطابعه حتى عام 1905.",
     "epochId": "asien-altertum",
     "related": [
       "konfuzius",
@@ -175,8 +175,8 @@
   },
   {
     "id": "blockfreie-bewegung",
-    "term": "Bewegung der Blockfreien",
-    "definition": "Ein 1961 in Belgrad gegründeter Zusammenschluss von Staaten, die sich im Kalten Krieg weder dem westlichen noch dem östlichen Bündnis anschließen wollten. Führende Köpfe waren Nehru, Nasser, Tito und Sukarno; Vorläufer war die Bandung-Konferenz von 1955. Die Bewegung forderte Abrüstung, das Ende des Kolonialismus und eine gerechtere Weltwirtschaft und umfasst heute rund 120 Staaten.",
+    "term": "حركة عدم الانحياز",
+    "definition": "تجمّع من الدول تأسس في بلغراد عام 1961، لم يرد الانضمام إلى التحالف الغربي ولا إلى التحالف الشرقي في الحرب الباردة. وكان أبرز وجوهه نهرو وعبد الناصر وتيتو وسوكارنو، وسبقه مؤتمر باندونغ عام 1955. وطالبت الحركة بنزع السلاح وإنهاء الاستعمار واقتصاد عالمي أكثر عدلًا، وتضم اليوم نحو 120 دولة.",
     "epochId": "kalter-krieg-gegenwart",
     "related": [
       "bandung-konferenz",
@@ -185,8 +185,8 @@
   },
   {
     "id": "bilderstreit",
-    "term": "Bilderstreit (Ikonoklasmus)",
-    "definition": "Die Auseinandersetzung in Byzanz zwischen etwa 726/730 und 843 darüber, ob religiöse Bilder verehrt werden dürfen. Die Ikonoklasten („Bilderzerstörer“) lehnten das als Götzendienst ab, die Ikonodulen („Bilderverehrer“) verteidigten es. Nach zwei Phasen der Bilderfeindschaft wurde die Bilderverehrung 843 endgültig wiederhergestellt; da die meisten Quellen von den Siegern stammen, ist das Ausmaß der Verfolgungen umstritten.",
+    "term": "حرب الأيقونات",
+    "definition": "النزاع في بيزنطة بين نحو 726/730 و843 حول جواز تكريم الصور الدينية. فقد رفض محطّمو الأيقونات ذلك بوصفه عبادة للأوثان، بينما دافع عنه محبّو الأيقونات. وبعد مرحلتين من معاداة الصور أُعيد تكريمها نهائيًا عام 843؛ ولأن معظم المصادر صادرة عن المنتصرين، فإن مدى الاضطهادات موضع خلاف.",
     "epochId": "byzanz",
     "related": [
       "beginn-des-bilderstreits",
@@ -198,8 +198,8 @@
   },
   {
     "id": "blitzkrieg",
-    "term": "Blitzkrieg",
-    "definition": "Bezeichnung für die schnellen deutschen Feldzüge 1939 bis 1941, in denen Panzerverbände und Flugzeuge gemeinsam tief in das gegnerische Hinterland vorstießen und die Fronten in Wochen zusammenbrechen ließen. Polen, Frankreich und der Balkan wurden so überrannt. Gegen die Sowjetunion versagte das Konzept, und der Krieg wurde zum langen Abnutzungskrieg, in dem die Wirtschaftskraft der Alliierten entschied.",
+    "term": "الحرب الخاطفة",
+    "definition": "مصطلح يُطلق على الحملات الألمانية السريعة بين 1939 و1941، التي توغّلت فيها التشكيلات المدرعة والطائرات معًا في عمق مؤخرة العدو، فانهارت الجبهات في غضون أسابيع. وبهذه الطريقة اجتيحت بولندا وفرنسا والبلقان. أما ضد الاتحاد السوفيتي فقد فشل هذا المفهوم، وتحولت الحرب إلى حرب استنزاف طويلة كانت القوة الاقتصادية للحلفاء فيها هي الحاسمة.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "westfeldzug-1940",
@@ -209,8 +209,8 @@
   },
   {
     "id": "bojaren",
-    "term": "Bojaren",
-    "definition": "Die adelige Oberschicht in der Kiewer Rus, im Moskauer Reich und in den Donaufürstentümern. Sie besaßen großen Grundbesitz, berieten den Fürsten in der Bojarenduma und besetzten hohe Ämter in Heer und Verwaltung. Iwan IV. verfolgte sie in der Opritschnina, Peter der Große schaffte den Rang ab und ersetzte ihn durch die Rangtabelle.",
+    "term": "البويار",
+    "definition": "الطبقة العليا من النبلاء في روس الكييفية وفي دولة موسكو وفي إمارات الدانوب. امتلكوا ضياعًا كبيرة، وقدّموا المشورة للأمير في مجلس البويار (الدوما)، وشغلوا مناصب عليا في الجيش والإدارة. واضطهدهم إيفان الرابع في الأوبريتشنينا، وألغى بطرس الأكبر هذه المرتبة واستبدل بها جدول الرتب.",
     "epochId": "russland-osteuropa",
     "related": [
       "opritschnina",
@@ -220,8 +220,8 @@
   },
   {
     "id": "bronzezeit",
-    "term": "Bronzezeit",
-    "definition": "Die Epoche, in der Bronze, eine Legierung aus Kupfer und Zinn, der wichtigste Werkstoff für Waffen und Werkzeuge war; im Nahen Osten etwa 3300 bis 1200 v. Chr., in Mitteleuropa 2200 bis 800 v. Chr. Da Zinn selten war, förderte die Bronze den Fernhandel und die Entstehung von Reichen.",
+    "term": "العصر البرونزي",
+    "definition": "الحقبة التي كان فيها البرونز، وهو سبيكة من النحاس والقصدير، أهم مادة لصنع الأسلحة والأدوات؛ في الشرق الأدنى من نحو 3300 إلى 1200 ق.م، وفي أوروبا الوسطى من 2200 إلى 800 ق.م. ولأن القصدير كان نادرًا، فقد شجّع البرونز التجارة البعيدة ونشوء الممالك.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "ende-der-bronzezeit-seevoelker",
@@ -231,8 +231,8 @@
   },
   {
     "id": "buergerrechtsbewegung",
-    "term": "Bürgerrechtsbewegung",
-    "definition": "Die Bewegung der Afroamerikaner und ihrer Unterstützer, die in den 1950er und 1960er Jahren mit gewaltlosen Protesten, Boykotten und Gerichtsverfahren die Rassentrennung und den Ausschluss vom Wahlrecht in den Südstaaten der USA bekämpfte. Höhepunkte waren der Busboykott von Montgomery, der Marsch auf Washington 1963 und die Bürgerrechtsgesetze von 1964 und 1965. Sie wurde zum Vorbild für Freiheitsbewegungen in aller Welt.",
+    "term": "حركة الحقوق المدنية",
+    "definition": "حركة الأمريكيين من أصل أفريقي ومؤيديهم التي ناضلت في الخمسينيات والستينيات من القرن العشرين ضد الفصل العنصري والإقصاء من حق التصويت في الولايات الجنوبية من الولايات المتحدة، بالاحتجاج السلمي والمقاطعة والدعاوى القضائية. وكانت ذروتها مقاطعة حافلات مونتغمري والمسيرة إلى واشنطن عام 1963 وقانونا الحقوق المدنية لعامي 1964 و1965. وأصبحت نموذجًا لحركات التحرر في أنحاء العالم.",
     "epochId": "kalter-krieg-gegenwart",
     "related": [
       "montgomery-busboykott",
@@ -242,8 +242,8 @@
   },
   {
     "id": "calvinismus",
-    "term": "Calvinismus",
-    "definition": "Richtung des Protestantismus, die auf den Genfer Reformator Johannes Calvin zurückgeht. Sie betont die Vorherbestimmung des Menschen durch Gott, eine strenge Lebensführung und eine von Gemeinden getragene Kirchenordnung; Hugenotten, Puritaner und die reformierten Kirchen der Niederlande und Schottlands gehören dazu.",
+    "term": "الكالفينية",
+    "definition": "فرع من البروتستانتية يعود إلى المصلح جان كالفن في جنيف. ويؤكد على القدر الإلهي المسبق للبشر، وعلى نمط حياة صارم، وعلى نظام كنسي تحمله الأبرشيات؛ وينتمي إليه الهوغونوت والبيوريتانيون والكنائس الإصلاحية في هولندا واسكتلندا.",
     "epochId": "renaissance-entdeckungen",
     "related": [
       "johannes-calvin",
@@ -252,8 +252,8 @@
   },
   {
     "id": "caudillo",
-    "term": "Caudillo",
-    "definition": "Bezeichnung für einen politischen und militärischen Führer, der sich auf eine persönliche Gefolgschaft, oft bewaffnete Reiter und abhängige Landarbeiter, stützte. Nach der Unabhängigkeit prägten Caudillos in vielen lateinamerikanischen Ländern die Politik und setzten sich häufig über Verfassungen hinweg. Der Begriff steht bis heute für eine autoritäre, auf eine Person zugeschnittene Herrschaft.",
+    "term": "الكاوديو",
+    "definition": "مصطلح يدل على زعيم سياسي وعسكري يعتمد على أتباع شخصيين، غالبًا من الفرسان المسلحين والعمال الريفيين التابعين له. وبعد الاستقلال طبع الكاوديوهات السياسة في بلدان كثيرة في أمريكا اللاتينية، وكثيرًا ما تجاهلوا الدساتير. ولا يزال المصطلح حتى اليوم يدل على حكم استبدادي مفصّل على مقاس شخص واحد.",
     "epochId": "lateinamerika",
     "related": [
       "paraguay-krieg",
@@ -262,8 +262,8 @@
   },
   {
     "id": "chinampa",
-    "term": "Chinampa",
-    "definition": "Künstlich aufgeschüttetes, rechteckiges Beet in flachen Seen und Sümpfen, begrenzt von Kanälen. Schlamm und Pflanzenreste hielten den Boden fruchtbar, sodass mehrere Ernten im Jahr möglich waren. Die Chinampas im Hochtal von Mexiko ernährten die Großstadt Tenochtitlan und werden in Xochimilco bis heute bewirtschaftet.",
+    "term": "التشينامبا",
+    "definition": "قطعة أرض زراعية مستطيلة مرفوعة اصطناعيًا في البحيرات الضحلة والمستنقعات، تحيط بها القنوات. وحافظ الطمي وبقايا النباتات على خصوبة التربة، فأمكن الحصول على عدة محاصيل في السنة. وأطعمت التشينامبات في وادي المكسيك مدينةَ تينوتشتيتلان الكبيرة، ولا تزال تُزرع في سوتشيميلكو حتى اليوم.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "gruendung-tenochtitlans",
@@ -273,8 +273,8 @@
   },
   {
     "id": "danegeld",
-    "term": "Danegeld",
-    "definition": "Tributzahlungen, mit denen englische und fränkische Herrscher Wikingerheere zum Abzug bewegten oder Angriffe abwenden wollten. In England zahlte König Æthelred ab 991 immer höhere Summen in Silber, die als Steuer vom ganzen Land eingezogen wurden. Die Zahlungen machten die Raubzüge lohnend und erklären die vielen englischen Münzen in skandinavischen Schatzfunden.",
+    "term": "ضريبة الدنماركيين (دينغيلد)",
+    "definition": "مدفوعات جزية حمل بها الحكام الإنجليز والفرنجة جيوش الفايكنغ على الانسحاب أو سعوا بها إلى درء الهجمات. ففي إنجلترا دفع الملك إثلرد منذ عام 991 مبالغ متزايدة من الفضة جُمعت ضريبةً من البلاد كلها. وجعلت هذه المدفوعات الغارات مربحة، وهي تفسّر كثرة العملات الإنجليزية في الكنوز المدفونة في إسكندنافيا.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "wikinger-pluendern-paris",
@@ -284,8 +284,8 @@
   },
   {
     "id": "danelag",
-    "term": "Danelag",
-    "definition": "Das Gebiet im Norden und Osten Englands, das im späten 9. Jahrhundert von Skandinaviern besiedelt wurde und in dem dänisches Recht galt. Die Bezeichnung (englisch Danelaw) kam erst im 11. Jahrhundert auf. Ortsnamen auf -by und -thorpe sowie skandinavische Lehnwörter wie „sky“ oder „egg“ erinnern bis heute daran.",
+    "term": "الدانلو (منطقة القانون الدنماركي)",
+    "definition": "المنطقة الواقعة في شمال إنجلترا وشرقها التي استوطنها الإسكندنافيون في أواخر القرن التاسع وكان يسري فيها القانون الدنماركي. ولم يُستعمل الاسم إلا في القرن الحادي عشر. ولا تزال أسماء الأماكن المنتهية بـ«-بي» و«-ثورب» والكلمات الإسكندنافية المقترضة مثل «sky» (سماء) و«egg» (بيضة) تذكّر بها حتى اليوم.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "grosses-heidnisches-heer",
@@ -295,8 +295,8 @@
   },
   {
     "id": "daoismus",
-    "term": "Daoismus",
-    "definition": "Chinesische Lehre, die auf dem Daodejing beruht und den Menschen auffordert, im Einklang mit dem Dao, dem natürlichen Lauf der Dinge, zu leben. Statt Ehrgeiz und starrer Regeln empfiehlt sie Gelassenheit, Einfachheit und das Nichteingreifen. Später entstand daraus eine Religion mit Tempeln, Priestern und Unsterblichkeitslehren.",
+    "term": "الطاوية",
+    "definition": "تعاليم صينية تستند إلى كتاب «تاو تي تشينغ»، وتدعو الناس إلى العيش في انسجام مع الطاو، أي المسار الطبيعي للأشياء. وبدلًا من الطموح والقواعد الجامدة توصي بالسكينة والبساطة وعدم التدخل. ونشأ عنها لاحقًا دين له معابد وكهنة وتعاليم عن الخلود.",
     "epochId": "asien-altertum",
     "related": [
       "laozi",
@@ -306,8 +306,8 @@
   },
   {
     "id": "dekolonisation",
-    "term": "Dekolonisation",
-    "definition": "Die Auflösung der europäischen Kolonialreiche nach dem Zweiten Weltkrieg, durch die zwischen 1945 und 1975 mehr als 80 Staaten in Asien, Afrika, der Karibik und im Pazifik unabhängig wurden. Sie verlief teils friedlich durch Verhandlungen, teils in langen Kriegen wie in Indochina und Algerien. Wirtschaftliche Abhängigkeit und koloniale Grenzen wirkten in vielen neuen Staaten nach.",
+    "term": "إنهاء الاستعمار",
+    "definition": "تفكك الإمبراطوريات الاستعمارية الأوروبية بعد الحرب العالمية الثانية، الذي استقلت بفضله أكثر من 80 دولة في آسيا وأفريقيا والكاريبي والمحيط الهادئ بين 1945 و1975. وجرى ذلك أحيانًا بسلام عبر المفاوضات، وأحيانًا في حروب طويلة مثل حربي الهند الصينية والجزائر. وظلت التبعية الاقتصادية والحدود الاستعمارية تُحدث آثارها في كثير من الدول الجديدة.",
     "epochId": "kalter-krieg-gegenwart",
     "related": [
       "unabhaengigkeit-indien-pakistan",
@@ -318,8 +318,8 @@
   },
   {
     "id": "devaraja",
-    "term": "Devaraja",
-    "definition": "Sanskrit für „Gott-König“; Bezeichnung für einen Königskult, den Jayavarman II. 802 im Khmer-Reich einführte. Er verband die Herrschaft des Königs eng mit einer Gottheit, meist Shiva, und wurde von einer Priesterfamilie gepflegt. Was der Kult genau bedeutete und ob der König selbst als Gott galt, ist in der Forschung umstritten.",
+    "term": "ديفاراجا",
+    "definition": "كلمة سنسكريتية تعني «الإله الملك»؛ وهي اسم عبادة ملكية أدخلها جايافارمان الثاني في إمبراطورية الخمير عام 802. وربطت حكم الملك ربطًا وثيقًا بإله، هو في الغالب شيفا، وكانت تتولاها أسرة من الكهنة. أما المعنى الدقيق لهذه العبادة، وهل عُدّ الملك نفسه إلهًا، فموضع خلاف بين الباحثين.",
     "epochId": "suedostasien",
     "related": [
       "jayavarman-ii-begruendet-khmer-reich",
@@ -329,8 +329,8 @@
   },
   {
     "id": "devsirme",
-    "term": "Devşirme (Knabenlese)",
-    "definition": "Die regelmäßige Aushebung christlicher Jungen, vor allem aus Dörfern des Balkans, für den Dienst des Sultans. Die Jungen wurden zum Islam bekehrt und als Janitscharen oder im Palast ausgebildet; einige stiegen bis zum Großwesir auf, der Architekt Sinan kam auf diesem Weg in den Staatsdienst. Im 17. Jahrhundert verlor die Knabenlese an Bedeutung und wurde aufgegeben.",
+    "term": "الدوشرمة (جمع الصبيان)",
+    "definition": "الجمع الدوري للصبيان المسيحيين، ولا سيما من قرى البلقان، لخدمة السلطان. وكان الصبيان يُحوَّلون إلى الإسلام ويُدرَّبون إنكشاريةً أو في القصر؛ وارتقى بعضهم إلى منصب الصدر الأعظم، ودخل المعماري سنان خدمة الدولة بهذه الطريقة. وفي القرن السابع عشر فقد هذا الجمع أهميته وتُخلّي عنه.",
     "epochId": "osmanisches-reich",
     "related": [
       "mimar-sinan",
@@ -340,8 +340,8 @@
   },
   {
     "id": "dharma",
-    "term": "Dharma",
-    "definition": "Zentraler Begriff der indischen Religionen, der je nach Zusammenhang die kosmische Ordnung, die religiöse Pflicht oder die Lehre des Buddha bezeichnet. Für Hindus meint Dharma die Pflichten des Einzelnen entsprechend seinem Stand und Lebensalter, für Buddhisten die vom Buddha verkündete Wahrheit. Ashoka verstand darunter eine Politik der Gewaltlosigkeit und Fürsorge.",
+    "term": "الدارما",
+    "definition": "مفهوم محوري في الأديان الهندية يدل، بحسب السياق، على النظام الكوني أو الواجب الديني أو تعاليم بوذا. فالدارما عند الهندوس تعني واجبات الفرد بحسب مرتبته ومرحلة حياته، وعند البوذيين الحقيقة التي بشّر بها بوذا. أما أشوكا ففهم منها سياسة اللاعنف ورعاية الرعية.",
     "epochId": "asien-altertum",
     "related": [
       "buddha-lehrt-in-nordindien",
@@ -351,8 +351,8 @@
   },
   {
     "id": "dhimmi",
-    "term": "Dhimmi",
-    "definition": "Schutzbefohlene Nichtmuslime, vor allem Christen, Juden und Zoroastrier, die unter islamischer Herrschaft ihre Religion behalten und ihre Gemeinden selbst verwalten durften. Dafür zahlten sie eine besondere Kopfsteuer und unterlagen Einschränkungen, etwa beim Bau neuer Gotteshäuser, beim Waffentragen und beim Zugang zu hohen Ämtern. Diese Regelung war toleranter als der Umgang mit religiösen Minderheiten im damaligen Europa, bedeutete aber keine Gleichberechtigung.",
+    "term": "أهل الذمة",
+    "definition": "غير المسلمين المحميون، ولا سيما المسيحيون واليهود والزرادشتيون، الذين كان يُسمح لهم في ظل الحكم الإسلامي بالاحتفاظ بدينهم وإدارة شؤون جماعاتهم بأنفسهم. وفي المقابل كانوا يدفعون ضريبة رأس خاصة هي الجزية، ويخضعون لقيود، منها مثلًا ما يتعلق ببناء دور عبادة جديدة وحمل السلاح وتولي المناصب العليا. وكان هذا الترتيب أكثر تسامحًا من معاملة الأقليات الدينية في أوروبا آنذاك، لكنه لم يكن يعني المساواة في الحقوق.",
     "epochId": "islamische-welt",
     "related": [
       "arabische-eroberung-jerusalems",
@@ -361,8 +361,8 @@
   },
   {
     "id": "digitalisierung",
-    "term": "Digitalisierung",
-    "definition": "Die Umwandlung von Informationen in digitale Daten und der wachsende Einsatz von Computern, Internet und vernetzten Geräten in allen Lebensbereichen. Sie hat seit den 1990er Jahren Arbeit, Handel, Kommunikation, Bildung und Politik grundlegend verändert. Zu ihren Schattenseiten gehören Überwachung, Datenmissbrauch und die Abhängigkeit von wenigen großen Konzernen.",
+    "term": "الرقمنة",
+    "definition": "تحويل المعلومات إلى بيانات رقمية والاستخدام المتزايد للحواسيب والإنترنت والأجهزة المتصلة بالشبكات في جميع مجالات الحياة. ومنذ تسعينيات القرن العشرين غيّرت العمل والتجارة والتواصل والتعليم والسياسة تغييرًا جذريًا. ومن جوانبها السلبية المراقبة وإساءة استخدام البيانات والاعتماد على عدد قليل من الشركات الكبرى.",
     "epochId": "gegenwart",
     "related": [
       "world-wide-web-1991",
@@ -373,8 +373,8 @@
   },
   {
     "id": "dolchstosslegende",
-    "term": "Dolchstoßlegende",
-    "definition": "Die falsche Behauptung, das deutsche Heer sei im Ersten Weltkrieg im Feld unbesiegt geblieben und erst durch Streiks, Revolution und die Politiker in der Heimat von hinten erdolcht worden. Tatsächlich hatte die Oberste Heeresleitung im Herbst 1918 selbst den Waffenstillstand gefordert. Nationalisten und Nationalsozialisten nutzten die Legende, um die Weimarer Republik und ihre Gründer als Verräter zu verunglimpfen.",
+    "term": "أسطورة الطعنة في الظهر",
+    "definition": "الزعم الكاذب بأن الجيش الألماني بقي في الحرب العالمية الأولى غير مهزوم في الميدان، وأنه إنما طُعن في ظهره بالإضرابات والثورة والسياسيين في الداخل. والواقع أن القيادة العليا للجيش نفسها هي التي طالبت بالهدنة في خريف 1918. واستخدم القوميون والنازيون هذه الأسطورة للتشهير بجمهورية فايمار ومؤسسيها بوصفهم خونة.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "paul-von-hindenburg",
@@ -384,8 +384,8 @@
   },
   {
     "id": "domestikation",
-    "term": "Domestikation",
-    "definition": "Die Umwandlung wilder Pflanzen und Tiere in Kulturpflanzen und Haustiere durch gezielte Auswahl und Zucht über viele Generationen. Der Hund wurde schon in der Altsteinzeit domestiziert, Getreide, Schaf, Ziege und Rind in der Jungsteinzeit, das Pferd erst in der Kupferzeit.",
+    "term": "التدجين",
+    "definition": "تحويل النباتات والحيوانات البرية إلى محاصيل زراعية وحيوانات أليفة من خلال الانتقاء والتربية المقصودين على مدى أجيال كثيرة. فقد دُجّن الكلب منذ العصر الحجري القديم، ودُجّنت الحبوب والأغنام والماعز والأبقار في العصر الحجري الحديث، أما الحصان فلم يُدجَّن إلا في العصر النحاسي.",
     "epochId": "urgeschichte",
     "related": [
       "neolithische-revolution",
@@ -394,8 +394,8 @@
   },
   {
     "id": "dominat",
-    "term": "Dominat",
-    "definition": "Die Herrschaftsform der Spätantike ab Diokletian, in der der Kaiser offen als Dominus, als Herr, auftrat und mit Diadem, Purpur, Hofzeremoniell und göttlicher Verehrung von den Untertanen getrennt war. Verwaltung und Heer wurden straff zentralisiert; unter den christlichen Kaisern trat an die Stelle der Göttlichkeit die Herrschaft von Gottes Gnaden.",
+    "term": "الدومينات",
+    "definition": "شكل الحكم في العصور القديمة المتأخرة ابتداءً من ديوكلتيانوس، الذي ظهر فيه الإمبراطور صراحة بوصفه «دومينوس»، أي سيدًا، وتميّز عن رعاياه بالتاج والأرجوان ومراسم البلاط والتبجيل الإلهي. وكانت الإدارة والجيش مركزيين بصرامة؛ وفي عهد الأباطرة المسيحيين حلّ الحكم بنعمة الله محلّ الألوهية.",
     "epochId": "rom",
     "related": [
       "tetrarchie-diokletians",
@@ -405,8 +405,8 @@
   },
   {
     "id": "dritter-stand",
-    "term": "Dritter Stand",
-    "definition": "Im vorrevolutionären Frankreich die Gesamtheit aller, die weder zum Klerus noch zum Adel gehörten, also rund 98 Prozent der Bevölkerung von reichen Kaufleuten bis zu Tagelöhnern. Der Dritte Stand trug fast die gesamte Steuerlast, hatte in den Generalständen aber nur eine von drei Stimmen. 1789 erklärten sich seine Vertreter zur Nationalversammlung und lösten damit die Revolution aus.",
+    "term": "الطبقة الثالثة",
+    "definition": "في فرنسا قبل الثورة، كل من لم ينتمِ إلى رجال الدين ولا إلى النبلاء، أي نحو 98 في المئة من السكان، من التجار الأثرياء إلى عمال المياومة. وكانت الطبقة الثالثة تتحمل العبء الضريبي كله تقريبًا، لكن لم يكن لها إلا صوت واحد من ثلاثة أصوات في مجلس طبقات الأمة. وفي عام 1789 أعلن ممثلوها أنفسهم جمعية وطنية، فأطلقوا بذلك الثورة.",
     "epochId": "revolutionen",
     "related": [
       "sturm-auf-die-bastille",
@@ -415,8 +415,8 @@
   },
   {
     "id": "edda",
-    "term": "Edda",
-    "definition": "Name zweier isländischer Werke des 13. Jahrhunderts, die wichtigste Quelle für die nordische Mythologie. Die Prosa-Edda des Snorri Sturluson ist ein Lehrbuch der Dichtkunst, das die Göttersagen nacherzählt; die Lieder-Edda ist eine Sammlung älterer Götter- und Heldenlieder. Da beide von Christen aufgeschrieben wurden, ist umstritten, wie genau sie den vorchristlichen Glauben wiedergeben.",
+    "term": "الإيدا",
+    "definition": "اسم عملين آيسلنديين من القرن الثالث عشر، هما أهم مصدر للأساطير الإسكندنافية. فإيدا النثر لسنوري ستورلسون كتاب في فن الشعر يعيد رواية أساطير الآلهة، وإيدا الشعر مجموعة من قصائد أقدم عن الآلهة والأبطال. ولأن كليهما دوّنه مسيحيون، يدور الجدل حول مدى أمانة تعبيرهما عن المعتقدات السابقة للمسيحية.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "snorri-schreibt-die-edda",
@@ -425,8 +425,8 @@
   },
   {
     "id": "eiserner-vorhang",
-    "term": "Eiserner Vorhang",
-    "definition": "Bezeichnung für die abgeriegelte Grenze zwischen den westlichen Demokratien und dem sowjetisch beherrschten Ostblock, die Europa von der Ostsee bis zur Adria teilte. Winston Churchill machte den Begriff 1946 in einer Rede berühmt. Stacheldraht, Minen und Schießbefehl verhinderten die Flucht nach Westen; 1989 wurde der Vorhang geöffnet.",
+    "term": "الستار الحديدي",
+    "definition": "مصطلح يُطلق على الحدود المغلقة بين الديمقراطيات الغربية والكتلة الشرقية الخاضعة للهيمنة السوفيتية، التي قسمت أوروبا من بحر البلطيق حتى البحر الأدرياتيكي. وقد جعل ونستون تشرشل المصطلح مشهورًا في خطاب ألقاه عام 1946. وكانت الأسلاك الشائكة والألغام وأوامر إطلاق النار تمنع الفرار إلى الغرب؛ وفي عام 1989 فُتح الستار.",
     "epochId": "kalter-krieg-gegenwart",
     "related": [
       "bau-der-berliner-mauer",
@@ -436,8 +436,8 @@
   },
   {
     "id": "eiszeit",
-    "term": "Eiszeit",
-    "definition": "Eine lange Kälteperiode, in der Gletscher große Teile Nordeuropas, Nordamerikas und der Gebirge bedeckten und der Meeresspiegel um über 100 Meter sank. Die letzte Eiszeit erreichte vor rund 20.000 Jahren ihren Höhepunkt und endete vor etwa 12.000 Jahren; über trockengefallene Landbrücken erreichten Menschen unter anderem Amerika.",
+    "term": "العصر الجليدي",
+    "definition": "فترة برد طويلة غطّت فيها الأنهار الجليدية أجزاء واسعة من شمال أوروبا وأمريكا الشمالية والسلاسل الجبلية، وانخفض مستوى سطح البحر أكثر من 100 متر. وبلغ العصر الجليدي الأخير ذروته قبل نحو 20,000 سنة، وانتهى قبل نحو 12,000 سنة؛ وعبر الجسور البرية التي انحسر عنها الماء وصل البشر إلى أمريكا وغيرها.",
     "epochId": "urgeschichte",
     "related": [
       "besiedlung-amerikas",
@@ -447,8 +447,8 @@
   },
   {
     "id": "encomienda",
-    "term": "Encomienda",
-    "definition": "Kolonialspanische Einrichtung, bei der die Krone einem Spanier eine Gruppe Indigener „anvertraute“, die ihm Tribut und Arbeit leisten mussten. Im Gegenzug sollte der Encomendero sie schützen und im christlichen Glauben unterweisen lassen. In der Praxis führte die Encomienda zu schwerer Ausbeutung und wurde nach den Neuen Gesetzen von 1542 allmählich zurückgedrängt.",
+    "term": "الإنكوميندا",
+    "definition": "مؤسسة استعمارية إسبانية «عهد» فيها التاج بمجموعة من السكان الأصليين إلى إسباني، كانوا يدينون له بالجزية والعمل. وفي المقابل كان على صاحب الإنكوميندا أن يحميهم وأن يتولى تعليمهم الإيمان المسيحي. وفي الواقع أدت الإنكوميندا إلى استغلال شديد، وتراجعت تدريجيًا بعد القوانين الجديدة عام 1542.",
     "epochId": "lateinamerika",
     "related": [
       "gesetze-von-burgos",
@@ -458,8 +458,8 @@
   },
   {
     "id": "entspannungspolitik",
-    "term": "Entspannungspolitik",
-    "definition": "Die Politik der 1970er Jahre, die Spannungen zwischen Ost und West durch Verhandlungen, Verträge und Handel abzubauen, ohne die Gegensätze aufzugeben. Dazu gehörten die Ostverträge Willy Brandts, die Abkommen über die Begrenzung strategischer Waffen und die Schlussakte von Helsinki 1975. Sie erleichterte den Alltag im geteilten Deutschland und bereitete das friedliche Ende des Kalten Krieges vor.",
+    "term": "سياسة الانفراج",
+    "definition": "سياسة السبعينيات من القرن العشرين الرامية إلى تخفيف التوتر بين الشرق والغرب بالمفاوضات والمعاهدات والتجارة، دون التخلي عن التناقض الأساسي بينهما. وشملت المعاهدات الشرقية التي أبرمها فيلي برانت، واتفاقيات الحد من الأسلحة الاستراتيجية، ووثيقة هلسنكي الختامية لعام 1975. وقد سهّلت الحياة اليومية في ألمانيا المقسّمة، ومهّدت الطريق للنهاية السلمية للحرب الباردة.",
     "epochId": "kalter-krieg-gegenwart",
     "related": [
       "willy-brandt",
@@ -469,8 +469,8 @@
   },
   {
     "id": "erdhuegelkulturen",
-    "term": "Erdhügelkulturen (Mound Builders)",
-    "definition": "Sammelbegriff für indigene Kulturen Nordamerikas, die über Jahrtausende Erdhügel und Erdwälle für Gräber, Tempel und Zeremonien errichteten. Dazu gehören Poverty Point, die Adena- und Hopewell-Kultur sowie die Mississippi-Kultur mit Cahokia. Im 19. Jahrhundert schrieben weiße Amerikaner die Bauten oft fälschlich einem verschwundenen fremden Volk zu, statt sie den Vorfahren der indigenen Völker zuzuerkennen.",
+    "term": "ثقافات بناة التلال (بناة الروابي)",
+    "definition": "مصطلح جامع لثقافات أصلية في أمريكا الشمالية بنت على مدى آلاف السنين تلالًا وسدودًا ترابية للقبور والمعابد والمراسم. ومنها بوفرتي بوينت وثقافتا أدينا وهوبويل وثقافة المسيسيبي مع كاهوكيا. وفي القرن التاسع عشر كثيرًا ما نسب الأمريكيون البيض هذه المنشآت خطأً إلى شعب غريب منقرض بدلًا من نسبتها إلى أسلاف الشعوب الأصلية.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "erdwerke-von-poverty-point",
@@ -480,8 +480,8 @@
   },
   {
     "id": "ermaechtigungsgesetz",
-    "term": "Ermächtigungsgesetz",
-    "definition": "Das am 23. März 1933 vom Reichstag beschlossene Gesetz zur Behebung der Not von Volk und Reich, das der Regierung Hitler erlaubte, Gesetze ohne Parlament und auch abweichend von der Verfassung zu erlassen. Nur die SPD stimmte dagegen, die KPD-Abgeordneten waren bereits verhaftet. Das Gesetz war die rechtliche Grundlage der Diktatur und wurde bis 1945 immer wieder verlängert.",
+    "term": "قانون التمكين",
+    "definition": "«قانون رفع محنة الشعب والرايخ» الذي أقرّه الرايخستاغ في 23 مارس 1933، وأجاز لحكومة هتلر إصدار القوانين دون البرلمان، بل ومخالفةً للدستور. ولم يصوّت ضده إلا الحزب الاشتراكي الديمقراطي، إذ كان نواب الحزب الشيوعي قد اعتُقلوا من قبل. وكان القانون الأساس القانوني للدكتاتورية، ومُدّد مرارًا حتى عام 1945.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "reichstagsbrand-und-ermaechtigungsgesetz",
@@ -491,8 +491,8 @@
   },
   {
     "id": "europaeische-union",
-    "term": "Europäische Union",
-    "definition": "Ein Staatenverbund europäischer Länder, der 1993 mit dem Vertrag von Maastricht aus den Europäischen Gemeinschaften hervorging. Die Mitglieder teilen einen Binnenmarkt, gemeinsame Institutionen wie Parlament, Kommission und Gerichtshof und zum großen Teil den Euro. Nach mehreren Erweiterungen und dem Austritt Großbritanniens umfasst die EU 27 Staaten.",
+    "term": "الاتحاد الأوروبي",
+    "definition": "اتحاد من الدول الأوروبية نشأ عام 1993 من الجماعات الأوروبية بموجب معاهدة ماستريخت. ويتقاسم أعضاؤه سوقًا موحّدة ومؤسسات مشتركة مثل البرلمان والمفوضية ومحكمة العدل، ومعظمهم يستخدم اليورو. وبعد عدة توسعات وخروج بريطانيا العظمى يضم الاتحاد الأوروبي 27 دولة.",
     "epochId": "gegenwart",
     "related": [
       "vertrag-von-maastricht",
@@ -503,8 +503,8 @@
   },
   {
     "id": "evolutionstheorie",
-    "term": "Evolutionstheorie",
-    "definition": "Die von Charles Darwin 1859 begründete Lehre, dass sich die Arten der Lebewesen über lange Zeiträume aus gemeinsamen Vorfahren entwickelt haben. Treibende Kraft ist die natürliche Auslese: Individuen mit vorteilhaften Merkmalen überleben und pflanzen sich häufiger fort. Die Theorie ist die Grundlage der modernen Biologie.",
+    "term": "نظرية التطور",
+    "definition": "النظرية التي وضع أسسها تشارلز داروين عام 1859، ومفادها أن أنواع الكائنات الحية تطورت من أسلاف مشتركة على مدى فترات زمنية طويلة. والقوة الدافعة في ذلك هي الانتقاء الطبيعي: فالأفراد ذوو الصفات المفيدة يبقون ويتكاثرون أكثر من غيرهم. والنظرية هي أساس علم الأحياء الحديث.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "darwin-entstehung-der-arten",
@@ -513,8 +513,8 @@
   },
   {
     "id": "fabriksystem",
-    "term": "Fabriksystem",
-    "definition": "Die Organisation der Produktion in großen Gebäuden, in denen viele Arbeiter an Maschinen mit gemeinsamer Kraftquelle unter Aufsicht und nach festen Zeiten arbeiten. Es löste die Heimarbeit und das Handwerk ab und schuf die Klasse der Lohnarbeiter. Fabrikordnung, Stechuhr und Akkordlohn prägten fortan den Arbeitsalltag.",
+    "term": "نظام المصانع",
+    "definition": "تنظيم الإنتاج في مبانٍ كبيرة يشغّل فيها عمال كثيرون آلات تديرها مصدر طاقة مشترك، تحت الإشراف وفي أوقات عمل محددة. وقد حلّ محل الصناعة المنزلية والحِرف، وأوجد طبقة العمال الأجراء. ومنذ ذلك الحين طبعت أنظمة المصانع وساعة الحضور والأجر بالقطعة حياة العمل بطابعها.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "mechanischer-webstuhl-fabriksystem",
@@ -523,8 +523,8 @@
   },
   {
     "id": "faschismus",
-    "term": "Faschismus",
-    "definition": "Eine 1919 von Benito Mussolini in Italien begründete politische Bewegung und Herrschaftsform, die extremen Nationalismus, die Verherrlichung von Gewalt und Führertum, die Ablehnung von Demokratie und Marxismus und die Gleichschaltung von Staat und Gesellschaft verbindet. Nach dem Marsch auf Rom 1922 errichtete Mussolini die erste faschistische Diktatur, die zum Vorbild für ähnliche Bewegungen in Europa wurde. Im weiteren Sinn bezeichnet der Begriff auch den Nationalsozialismus und Francos Regime in Spanien.",
+    "term": "الفاشية",
+    "definition": "حركة سياسية وشكل من أشكال الحكم أسسه بينيتو موسوليني في إيطاليا عام 1919، يجمع بين القومية المتطرفة وتمجيد العنف والزعامة ورفض الديمقراطية والماركسية وإخضاع الدولة والمجتمع لسيطرة واحدة. وبعد الزحف على روما عام 1922 أقام موسوليني أول دكتاتورية فاشية، فأصبحت نموذجًا لحركات مماثلة في أوروبا. وبالمعنى الأوسع يدل المصطلح أيضًا على النازية ونظام فرانكو في إسبانيا.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "spanischer-buergerkrieg",
@@ -534,8 +534,8 @@
   },
   {
     "id": "faustkeil",
-    "term": "Faustkeil",
-    "definition": "Ein beidseitig bearbeitetes, mandelförmiges Steinwerkzeug mit scharfen Kanten und einer Spitze, das ab etwa 1,7 Millionen Jahren vor allem vom Homo erectus hergestellt wurde. Faustkeile dienten zum Schneiden, Schaben, Hacken und Graben und blieben über eine Million Jahre in Gebrauch.",
+    "term": "الفأس اليدوية",
+    "definition": "أداة حجرية لوزية الشكل مشغولة من الجانبين، ذات حواف حادة ورأس مدبب، صنعها قبل كل شيء الإنسان المنتصب (هومو إركتوس) منذ نحو 1.7 مليون سنة. واستُخدمت الفؤوس اليدوية للقطع والكشط والتقطيع والحفر، وظلت مستعملة أكثر من مليون سنة.",
     "epochId": "urgeschichte",
     "related": [
       "homo-erectus",
@@ -544,8 +544,8 @@
   },
   {
     "id": "geez",
-    "term": "Ge'ez",
-    "definition": "Alte semitische Sprache und Schrift Äthiopiens, die seit der Zeit Aksums überliefert ist. Als gesprochene Sprache verschwand Ge'ez im Mittelalter, blieb aber bis heute die Sprache der äthiopisch-orthodoxen Liturgie; aus seiner Schrift entstanden die Alphabete des Amharischen und Tigrinischen.",
+    "term": "الجعزية",
+    "definition": "لغة وكتابة سامية قديمة في إثيوبيا، موثقة منذ عصر أكسوم. واختفت الجعزية لغةً محكية في العصور الوسطى، لكنها ظلت حتى اليوم لغة الطقوس في الكنيسة الإثيوبية الأرثوذكسية؛ ومن كتابتها تطورت أبجديتا الأمهرية والتغرينية.",
     "epochId": "afrikanische-reiche",
     "related": [
       "ezana-christianisierung-aksum",
@@ -554,8 +554,8 @@
   },
   {
     "id": "gegenreformation",
-    "term": "Gegenreformation",
-    "definition": "Bemühungen der katholischen Kirche ab der Mitte des 16. Jahrhunderts, verlorene Gebiete zurückzugewinnen und die eigene Lehre zu erneuern. Das Konzil von Trient, der Jesuitenorden, Inquisition und Bücherverbote sowie die Unterstützung katholischer Fürsten waren ihre wichtigsten Mittel.",
+    "term": "الإصلاح المضاد",
+    "definition": "جهود الكنيسة الكاثوليكية منذ منتصف القرن السادس عشر لاستعادة المناطق التي فقدتها وتجديد عقيدتها. وكانت أهم وسائلها مجمع ترنت والرهبنة اليسوعية ومحاكم التفتيش وحظر الكتب، إلى جانب دعم الأمراء الكاثوليك.",
     "epochId": "renaissance-entdeckungen",
     "related": [
       "konzil-von-trient",
@@ -564,8 +564,8 @@
   },
   {
     "id": "gesellschaftsvertrag",
-    "term": "Gesellschaftsvertrag",
-    "definition": "Gedankenmodell der politischen Philosophie, nach dem der Staat auf einer Übereinkunft freier Menschen beruht und nicht auf göttlicher Einsetzung. Hobbes leitete daraus die Notwendigkeit eines starken Herrschers ab, Locke das Recht auf Widerstand, Rousseau die Souveränität des Volkes.",
+    "term": "العقد الاجتماعي",
+    "definition": "نموذج في الفلسفة السياسية يرى أن الدولة تقوم على اتفاق بين أناس أحرار لا على تأسيس إلهي. واستنتج منه هوبز ضرورة وجود حاكم قوي، ولوك حق المقاومة، وروسو سيادة الشعب.",
     "epochId": "absolutismus-aufklaerung",
     "related": [
       "jean-jacques-rousseau",
@@ -575,8 +575,8 @@
   },
   {
     "id": "gewaltenteilung",
-    "term": "Gewaltenteilung",
-    "definition": "Grundsatz, die Staatsgewalt auf Gesetzgebung, Regierung und Rechtsprechung zu verteilen, damit keine Institution zu mächtig wird. John Locke und vor allem Montesquieu entwickelten das Prinzip aus der englischen Verfassung; es ist heute Bestandteil fast aller demokratischen Verfassungen.",
+    "term": "الفصل بين السلطات",
+    "definition": "مبدأ توزيع سلطة الدولة على التشريع والحكومة والقضاء، حتى لا تصبح أي مؤسسة قوية أكثر من اللازم. وقد استخلص جون لوك، وقبل كل شيء مونتسكيو، هذا المبدأ من الدستور الإنجليزي؛ وهو اليوم جزء من جميع الدساتير الديمقراطية تقريبًا.",
     "epochId": "absolutismus-aufklaerung",
     "related": [
       "montesquieu-geist-der-gesetze",
@@ -586,8 +586,8 @@
   },
   {
     "id": "gewuerzinseln",
-    "term": "Gewürzinseln (Molukken)",
-    "definition": "Inselgruppe im Osten des heutigen Indonesien, auf der lange als einzigem Ort der Welt Gewürznelken wuchsen; Muskatnuss kam nur von den nahen Banda-Inseln. Der Wunsch, diesen Handel zu beherrschen, trieb Portugiesen, Spanier, Engländer und Niederländer nach Südostasien. Die Niederländische Ostindien-Kompanie erzwang im 17. Jahrhundert mit großer Gewalt ein Monopol.",
+    "term": "جزر التوابل (جزر الملوك)",
+    "definition": "مجموعة جزر في شرق إندونيسيا الحالية، كانت طويلًا المكان الوحيد في العالم الذي ينمو فيه القرنفل؛ أما جوزة الطيب فلم تأتِ إلا من جزر باندا القريبة. ودفعت الرغبة في السيطرة على هذه التجارة البرتغاليين والإسبان والإنجليز والهولنديين إلى جنوب شرق آسيا. وفي القرن السابع عشر فرضت شركة الهند الشرقية الهولندية احتكارًا بعنف شديد.",
     "epochId": "suedostasien",
     "related": [
       "portugiesen-erobern-malakka",
@@ -597,8 +597,8 @@
   },
   {
     "id": "gladiator",
-    "term": "Gladiator",
-    "definition": "Ein Kämpfer, meist Sklave, Kriegsgefangener oder Verurteilter, der in Arenen vor Publikum gegen andere Gladiatoren oder Tiere antrat. Gladiatoren wurden in Schulen ausgebildet, kämpften mit festgelegten Waffengattungen und konnten bei Erfolg Ruhm, Geld und Freiheit erlangen. Die Spiele dienten Politikern und Kaisern, das Volk zu gewinnen.",
+    "term": "المصارع (الجلاد)",
+    "definition": "مقاتل، كان في الغالب عبدًا أو أسير حرب أو محكومًا عليه، يواجه مصارعين آخرين أو حيوانات في الحلبات أمام الجمهور. وكان المصارعون يُدرَّبون في مدارس، ويقاتلون بفئات محددة من الأسلحة، ويمكنهم إن نجحوا أن ينالوا الشهرة والمال والحرية. وكانت الألعاب وسيلة يستميل بها السياسيون والأباطرة الشعب.",
     "epochId": "rom",
     "related": [
       "eroeffnung-des-kolosseums",
@@ -608,8 +608,8 @@
   },
   {
     "id": "gleichschaltung",
-    "term": "Gleichschaltung",
-    "definition": "Bezeichnung der Nationalsozialisten für die Unterwerfung aller Bereiche von Staat und Gesellschaft unter die Partei in den Jahren 1933 und 1934. Länderparlamente, Gewerkschaften, Vereine, Presse, Rundfunk, Kultur und Wissenschaft wurden aufgelöst, verboten oder mit nationalsozialistischen Führern besetzt. Wer sich nicht fügte, verlor seine Stellung oder kam ins Konzentrationslager.",
+    "term": "التوحيد القسري (غلايشالتونغ)",
+    "definition": "مصطلح النازيين لإخضاع جميع مجالات الدولة والمجتمع للحزب في عامي 1933 و1934. فقد حُلّت برلمانات الولايات والنقابات والجمعيات والصحافة والإذاعة والثقافة والعلم أو حُظرت أو وُضع على رأسها قادة نازيون. ومن لم يمتثل فقد منصبه أو أُرسل إلى معسكر اعتقال.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "machtuebernahme-nationalsozialisten",
@@ -619,8 +619,8 @@
   },
   {
     "id": "globalisierung",
-    "term": "Globalisierung",
-    "definition": "Die weltweite Verflechtung von Wirtschaft, Politik, Kultur und Kommunikation, die sich seit den 1990er Jahren durch Freihandel, Containerschifffahrt, Internet und den Aufstieg Chinas stark beschleunigt hat. Sie senkte Preise und Armut in vielen Ländern, führte aber auch zum Verlust von Industriearbeitsplätzen im Westen und machte Krisen wie die Finanzkrise 2008 und die Coronapandemie zu weltweiten Ereignissen. Kritiker fordern fairere Handelsregeln und mehr Klimaschutz.",
+    "term": "العولمة",
+    "definition": "الترابط العالمي بين الاقتصاد والسياسة والثقافة والاتصال، الذي تسارع بشدة منذ التسعينيات بفعل التجارة الحرة والشحن بالحاويات والإنترنت وصعود الصين. وقد خفّضت الأسعار والفقر في بلدان كثيرة، لكنها أدت أيضًا إلى فقدان وظائف صناعية في الغرب، وجعلت أزمات مثل الأزمة المالية عام 2008 وجائحة كورونا أحداثًا عالمية. ويطالب المنتقدون بقواعد تجارية أكثر عدلًا وبمزيد من حماية المناخ.",
     "epochId": "gegenwart",
     "related": [
       "world-wide-web-1991",
@@ -631,8 +631,8 @@
   },
   {
     "id": "goldene-horde",
-    "term": "Goldene Horde",
-    "definition": "Mongolisches Teilreich in den Steppen nördlich des Schwarzen und Kaspischen Meeres, das Batu nach dem Mongolensturm um 1242 begründete, mit der Hauptstadt Sarai an der Wolga. Die russischen Fürsten mussten ihm Tribut zahlen und sich ihre Herrschaft vom Khan bestätigen lassen; diese Abhängigkeit endete 1480.",
+    "term": "القبيلة الذهبية",
+    "definition": "دولة مغولية خلفت الإمبراطورية في السهوب شمال البحر الأسود وبحر قزوين، أسسها باتو بعد الغزو المغولي نحو عام 1242، وعاصمتها ساراي على نهر الفولغا. وكان على الأمراء الروس أن يدفعوا لها الجزية وأن يحصلوا من الخان على تثبيت حكمهم؛ وانتهت هذه التبعية عام 1480.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "mongolensturm-in-osteuropa",
@@ -641,8 +641,8 @@
   },
   {
     "id": "goldener-stuhl",
-    "term": "Goldener Stuhl",
-    "definition": "Heiliges Symbol des Asante-Reiches, das nach der Überlieferung unter Osei Tutu vom Himmel herabkam und die Seele des Volkes verkörpert. Niemand darf auf ihm sitzen; der Asantehene wird über ihm eingesetzt.",
+    "term": "الكرسي الذهبي",
+    "definition": "رمز مقدس لإمبراطورية أشانتي، نزل من السماء بحسب الرواية في عهد أوسي توتو، ويجسّد روح الشعب. ولا يجوز لأحد أن يجلس عليه؛ ويُنصَّب الأسانتيهيني فوقه.",
     "epochId": "afrikanische-reiche",
     "related": [
       "osei-tutu",
@@ -651,8 +651,8 @@
   },
   {
     "id": "gotik",
-    "term": "Gotik",
-    "definition": "Baustil des Hoch- und Spätmittelalters, der um 1140 in Frankreich entstand und Spitzbogen, Kreuzrippengewölbe und Strebepfeiler zu hohen, lichtdurchfluteten Kirchen verband. Kathedralen wie Chartres, Reims oder der Kölner Dom sind seine berühmtesten Werke; der Name wurde erst in der Renaissance abwertend geprägt.",
+    "term": "القوطية",
+    "definition": "طراز العمارة في العصور الوسطى العليا والمتأخرة، الذي نشأ في فرنسا نحو عام 1140 وجمع بين القوس المدبب والقبو المضلّع والدعامة الطائرة لبناء كنائس شاهقة يغمرها الضوء. وتُعدّ كاتدرائيات مثل شارتر وريمس وكاتدرائية كولونيا أشهر أعماله؛ ولم يُصَغ الاسم إلا في عصر النهضة، وكان يومئذ لفظًا للتحقير.",
     "epochId": "mittelalter",
     "related": [
       "beginn-der-gotik",
@@ -661,8 +661,8 @@
   },
   {
     "id": "griechisches-feuer",
-    "term": "Griechisches Feuer",
-    "definition": "Eine Brandwaffe, die die byzantinische Flotte seit dem 7. Jahrhundert aus Rohren gegen feindliche Schiffe spritzte und die auch auf dem Wasser weiterbrannte. Ihre Zusammensetzung war ein streng gehütetes Staatsgeheimnis und ist bis heute nicht sicher bekannt; vermutlich enthielt sie Erdöl. Sie trug entscheidend zur Abwehr der arabischen Belagerungen Konstantinopels bei.",
+    "term": "النار الإغريقية",
+    "definition": "سلاح حارق كانت البحرية البيزنطية تقذفه من أنابيب على سفن الأعداء منذ القرن السابع، وكان يواصل الاشتعال حتى على الماء. وكان تركيبه سرًّا من أسرار الدولة يُحرس بعناية، ولا يزال غير معروف على وجه اليقين؛ وعلى الأرجح احتوى على النفط. وأدى دورًا حاسمًا في صد الحصارات العربية للقسطنطينية.",
     "epochId": "byzanz",
     "related": [
       "einsatz-des-griechischen-feuers",
@@ -672,8 +672,8 @@
   },
   {
     "id": "griot",
-    "term": "Griot",
-    "definition": "In Westafrika ein erblicher Sänger, Erzähler und Musiker, der Genealogien, Lobgesänge und die Geschichte der Herrscherfamilien mündlich überliefert. Griots wirkten als Berater an den Höfen und bewahren bis heute Epen wie das von Sundiata.",
+    "term": "الغريو",
+    "definition": "في غرب أفريقيا، مغنٍّ وراوٍ وموسيقي وراثي ينقل شفهيًا الأنساب وأناشيد المديح وتاريخ الأسر الحاكمة. وخدم الغريو مستشارين في البلاطات، ولا يزالون يحفظون حتى اليوم ملاحم مثل ملحمة سوندياتا.",
     "epochId": "afrikanische-reiche",
     "related": [
       "sundiata-keita",
@@ -682,8 +682,8 @@
   },
   {
     "id": "grosswesir",
-    "term": "Großwesir",
-    "definition": "Der höchste Minister des Osmanischen Reiches und Stellvertreter des Sultans, der dessen Siegel führte. Er leitete den Reichsrat, die Verwaltung und oft auch das Heer im Feld. Sein Amtssitz, die Hohe Pforte, wurde in Europa zum Namen für die osmanische Regierung insgesamt.",
+    "term": "الصدر الأعظم",
+    "definition": "أعلى وزير في الدولة العثمانية ونائب السلطان، الذي كان يحمل ختمه. وكان يرأس الديوان الهمايوني والإدارة، وكثيرًا ما قاد الجيش أيضًا في الميدان. وأصبح مقر عمله، «الباب العالي»، الاسم الأوروبي للحكومة العثمانية بأكملها.",
     "epochId": "osmanisches-reich",
     "related": [
       "belagerung-wiens-1683",
@@ -693,8 +693,8 @@
   },
   {
     "id": "hangeul",
-    "term": "Hangeul",
-    "definition": "Die koreanische Buchstabenschrift, die König Sejong 1443 entwickeln und 1446 verkünden ließ. Ihre Zeichen stehen für einzelne Laute und werden zu Silbenblöcken zusammengesetzt, sodass sie viel leichter zu lernen ist als die chinesische Schrift.",
+    "term": "الهانغول",
+    "definition": "الأبجدية الكورية التي أمر الملك سيجونغ بتطويرها عام 1443 وأعلنها عام 1446. وتمثّل حروفها أصواتًا منفردة، وتُجمع في كتل مقطعية، مما يجعل تعلّمها أسهل بكثير من الكتابة الصينية.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "koenig-sejong-verkuendet-hangeul",
@@ -703,8 +703,8 @@
   },
   {
     "id": "hanse",
-    "term": "Hanse",
-    "definition": "Bund niederdeutscher Kaufleute und später Städte, der vom 12. bis 17. Jahrhundert den Handel in Nord- und Ostsee beherrschte. Mit Kontoren in London, Brügge, Bergen und Nowgorod, gemeinsamen Hansetagen und notfalls Krieg setzte sie ihre Handelsprivilegien durch.",
+    "term": "الرابطة الهانزية",
+    "definition": "اتحاد من التجار الألمان الشماليين ثم من المدن، هيمن على التجارة في بحر الشمال وبحر البلطيق من القرن الثاني عشر حتى القرن السابع عشر. وفرضت الرابطة امتيازاتها التجارية بمراكزها التجارية في لندن وبروج وبيرغن ونوفغورود، وبمؤتمراتها المشتركة، وبالحرب عند الحاجة.",
     "epochId": "mittelalter",
     "related": [
       "erster-hansetag",
@@ -713,8 +713,8 @@
   },
   {
     "id": "harem",
-    "term": "Harem",
-    "definition": "Der geschützte, private Bereich eines muslimischen Haushalts, besonders der Wohnbereich der Sultansfamilie im Topkapı-Palast. Dort lebten die Mutter des Sultans, seine Frauen und Konkubinen, Kinder und Dienerinnen, und Frauen wurden dort auch ausgebildet. Anders als europäische Fantasien es darstellten, war der Harem ein politisches Machtzentrum, in dem die Valide Sultan großen Einfluss ausübte.",
+    "term": "الحريم",
+    "definition": "الجزء المحمي الخاص من البيت المسلم، ولا سيما مساكن أسرة السلطان في قصر طوب قابي. وهناك عاشت والدة السلطان وزوجاته وجواريه وأطفاله والخادمات، وكانت النساء يتلقين التعليم هناك أيضًا. وخلافًا للتخيلات الأوروبية كان الحريم مركزًا سياسيًا للسلطة، تمارس فيه «السلطانة الوالدة» نفوذًا كبيرًا.",
     "epochId": "osmanisches-reich",
     "related": [
       "bau-des-topkapi-palastes",
@@ -725,8 +725,8 @@
   },
   {
     "id": "hellenismus",
-    "term": "Hellenismus",
-    "definition": "Die Epoche von Alexanders Tod 323 v. Chr. bis zur römischen Eroberung Ägyptens 30 v. Chr., in der sich griechische Sprache und Kultur über den gesamten Nahen Osten verbreiteten und mit orientalischen Traditionen verschmolzen. Zentren waren Alexandria, Antiochia und Pergamon; Wissenschaft, Kunst und Handel erlebten eine Blüte.",
+    "term": "العصر الهلنستي",
+    "definition": "الحقبة الممتدة من وفاة الإسكندر عام 323 ق.م حتى الفتح الروماني لمصر عام 30 ق.م، التي انتشرت فيها اللغة اليونانية والثقافة اليونانية في الشرق الأدنى كله وامتزجت بالتقاليد الشرقية. وكانت مراكزها الإسكندرية وأنطاكية وبرغامون، وازدهر فيها العلم والفن والتجارة.",
     "epochId": "antike-griechenland",
     "related": [
       "diadochenkriege",
@@ -737,8 +737,8 @@
   },
   {
     "id": "hieroglyphen",
-    "term": "Hieroglyphen",
-    "definition": "Die Bilderschrift des alten Ägypten, die ab etwa 3200 v. Chr. auf Tempelwänden, Grabmälern und Papyrus verwendet wurde. Die Zeichen stehen für Laute, Silben oder ganze Wörter. 1822 gelang Jean-François Champollion mit Hilfe des Steins von Rosette die Entzifferung.",
+    "term": "الهيروغليفية",
+    "definition": "الكتابة التصويرية في مصر القديمة، التي استُخدمت منذ نحو 3200 ق.م على جدران المعابد والمقابر وعلى ورق البردي. وتمثّل رموزها أصواتًا أو مقاطع أو كلمات كاملة. وفي عام 1822 نجح جان فرانسوا شامبليون في فك رموزها بمساعدة حجر رشيد.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "reichseinigung-aegyptens",
@@ -747,8 +747,8 @@
   },
   {
     "id": "holocaust",
-    "term": "Holocaust",
-    "definition": "Der systematische, staatlich organisierte Völkermord an rund sechs Millionen europäischen Juden durch das nationalsozialistische Deutschland und seine Helfer zwischen 1941 und 1945. Er begann mit Massenerschießungen hinter der Ostfront und wurde in Vernichtungslagern wie Auschwitz-Birkenau, Treblinka und Sobibor mit Gaskammern industriell fortgesetzt. Im Hebräischen wird das Verbrechen Shoah, Katastrophe, genannt.",
+    "term": "الهولوكوست",
+    "definition": "الإبادة الجماعية المنهجية التي نظّمتها الدولة لنحو ستة ملايين من يهود أوروبا على يد ألمانيا النازية ومعاونيها بين 1941 و1945. وبدأت بعمليات إطلاق نار جماعية خلف الجبهة الشرقية، واستمرت على نطاق صناعي بغرف الغاز في معسكرات الإبادة مثل أوشفيتز-بيركيناو وتريبلينكا وسوبيبور. وتُسمى الجريمة بالعبرية «شواه»، أي الكارثة.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "wannseekonferenz",
@@ -759,8 +759,8 @@
   },
   {
     "id": "holztafeldruck",
-    "term": "Holztafeldruck",
-    "definition": "Druckverfahren, bei dem eine ganze Seite spiegelverkehrt in eine Holzplatte geschnitten, eingefärbt und auf Papier abgezogen wird. Es entstand im China der Tang-Zeit und ermöglichte die massenhafte Verbreitung von Sutren, Kalendern und Klassikern; das Diamant-Sutra von 868 ist das älteste datierte Beispiel.",
+    "term": "الطباعة بالقوالب الخشبية",
+    "definition": "طريقة طباعة تُحفر فيها صفحة كاملة معكوسةً في قالب خشبي، ثم يُحبَّر القالب ويُضغط على الورق. ونشأت في الصين في عهد تانغ، وأتاحت نشر السوترات والتقاويم والكلاسيكيات على نطاق واسع؛ وتُعدّ سوترا الماس من عام 868 أقدم نموذج مؤرخ.",
     "epochId": "asien-altertum",
     "related": [
       "diamant-sutra-holztafeldruck",
@@ -770,8 +770,8 @@
   },
   {
     "id": "hominini",
-    "term": "Hominini",
-    "definition": "Der Zweig der Menschenaffen, der nach der Trennung von den Schimpansen vor rund sechs bis sieben Millionen Jahren zum Menschen führte. Dazu gehören die Australopithecinen wie Lucy sowie alle Arten der Gattung Homo, von denen heute nur noch der Homo sapiens lebt.",
+    "term": "أشباه البشر (الهومينيني)",
+    "definition": "فرع القردة العليا الذي أفضى إلى الإنسان بعد انفصاله عن الشمبانزي قبل نحو ستة إلى سبعة ملايين سنة. ويشمل أسترالوبيثيكوس مثل لوسي، وكذلك جميع أنواع جنس الإنسان (هومو)، ولم يبقَ منها على قيد الحياة اليوم إلا الإنسان العاقل.",
     "epochId": "urgeschichte",
     "related": [
       "lucy",
@@ -782,8 +782,8 @@
   },
   {
     "id": "hoplit",
-    "term": "Hoplit",
-    "definition": "Ein schwer bewaffneter griechischer Fußsoldat mit Rundschild, Lanze, Helm und Panzer, der seine Ausrüstung selbst bezahlte. Hopliten kämpften Schulter an Schulter in der Phalanx, einer dicht geschlossenen Schlachtreihe. Weil die Bürger als Hopliten die Stadt verteidigten, forderten sie auch politische Mitsprache.",
+    "term": "الهوبليت",
+    "definition": "جندي مشاة يوناني مدجج بالسلاح، يحمل ترسًا مستديرًا ورمحًا وخوذة ودرعًا للجسم، وكان يدفع ثمن عتاده بنفسه. وقاتل الهوبليت كتفًا إلى كتف في الكتيبة المتراصة (الفالانكس)، وهي صف قتالي متلاحم. ولأن المواطنين كانوا يدافعون عن المدينة بوصفهم هوبليت، فقد طالبوا أيضًا بحق المشاركة السياسية.",
     "epochId": "antike-griechenland",
     "related": [
       "schlacht-von-marathon",
@@ -792,8 +792,8 @@
   },
   {
     "id": "hugenotten",
-    "term": "Hugenotten",
-    "definition": "Bezeichnung für die französischen Protestanten, die der Lehre Calvins folgten. Nach Religionskriegen erhielten sie 1598 durch das Edikt von Nantes Glaubensfreiheit, die Ludwig XIV. 1685 widerrief; Hunderttausende flohen daraufhin in protestantische Länder, wo sie Handwerk und Wirtschaft bereicherten.",
+    "term": "الهوغونوت",
+    "definition": "اسم البروتستانت الفرنسيين الذين اتبعوا تعاليم كالفن. وبعد حروب دينية نالوا حرية العقيدة عام 1598 بمرسوم نانت، الذي ألغاه لويس الرابع عشر عام 1685؛ ففرّ مئات الآلاف منهم إلى بلدان بروتستانتية أثروا فيها الحِرف والاقتصاد.",
     "epochId": "absolutismus-aufklaerung",
     "related": [
       "edikt-von-fontainebleau",
@@ -802,8 +802,8 @@
   },
   {
     "id": "humanismus",
-    "term": "Humanismus",
-    "definition": "Bildungsbewegung des 14. bis 16. Jahrhunderts, die sich an den Schriften der griechischen und römischen Antike orientierte und den Menschen mit seiner Vernunft und Würde in den Mittelpunkt stellte. Humanisten wie Erasmus suchten nach den ursprünglichen Texten, kritisierten die Kirche und förderten Sprachen, Geschichte und Rhetorik als Grundlage der Bildung.",
+    "term": "النزعة الإنسانية",
+    "definition": "حركة تعليمية من القرن الرابع عشر حتى القرن السادس عشر استرشدت بكتابات العصور القديمة اليونانية والرومانية، ووضعت الإنسان بعقله وكرامته في المركز. وبحث الإنسانيون مثل إيراسموس عن النصوص الأصلية، وانتقدوا الكنيسة، وعزّزوا اللغات والتاريخ والبلاغة أساسًا للتعليم.",
     "epochId": "renaissance-entdeckungen",
     "related": [
       "erasmus-von-rotterdam",
@@ -813,8 +813,8 @@
   },
   {
     "id": "hyperinflation",
-    "term": "Hyperinflation",
-    "definition": "Extreme Geldentwertung, bei der die Preise innerhalb von Tagen oder Stunden vervielfachen und das Geld seine Funktion verliert. In Deutschland führten Kriegsschulden, Reparationen und die Finanzierung des Ruhrkampfs mit der Notenpresse 1923 dazu, dass ein Dollar 4,2 Billionen Mark kostete. Die Vernichtung der Ersparnisse des Mittelstands erschütterte das Vertrauen in die Republik nachhaltig.",
+    "term": "التضخم المفرط",
+    "definition": "انخفاض حاد في قيمة النقود تتضاعف فيه الأسعار في غضون أيام أو ساعات، وتفقد النقود وظيفتها. وفي ألمانيا أدت ديون الحرب والتعويضات وتمويل النضال في الرور بطباعة النقود إلى أن بلغ سعر الدولار عام 1923 نحو 4.2 تريليون مارك. وقد هزّ القضاء على مدخرات الطبقة الوسطى الثقة بالجمهورية لأمد طويل.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "krisenjahr-1923",
@@ -824,8 +824,8 @@
   },
   {
     "id": "ikone",
-    "term": "Ikone",
-    "definition": "Ein meist auf Holz gemaltes Bild Christi, Marias oder eines Heiligen, das in der orthodoxen Kirche verehrt wird. Nach orthodoxer Lehre gilt die Verehrung nicht dem Bild selbst, sondern dem Dargestellten; die Ikone wird als Fenster zur himmlischen Welt verstanden. Um die Berechtigung dieser Verehrung tobte im 8. und 9. Jahrhundert der Bilderstreit.",
+    "term": "أيقونة",
+    "definition": "صورة للمسيح أو مريم أو أحد القديسين، مرسومة في الغالب على الخشب، تُكرَّم في الكنيسة الأرثوذكسية. وبحسب التعاليم الأرثوذكسية لا يتجه التكريم إلى الصورة نفسها بل إلى الشخص المصوَّر؛ وتُفهم الأيقونة نافذةً على العالم السماوي. وقد دار الصراع حول مشروعية هذا التكريم في حرب الأيقونات في القرنين الثامن والتاسع.",
     "epochId": "byzanz",
     "related": [
       "beginn-des-bilderstreits",
@@ -835,8 +835,8 @@
   },
   {
     "id": "imperialismus",
-    "term": "Imperialismus",
-    "definition": "Das Streben von Großmächten, ihre Herrschaft über andere Länder und Völker auszudehnen, sei es durch Kolonien, wirtschaftliche Abhängigkeit oder militärischen Druck. Das Zeitalter des Imperialismus von etwa 1880 bis 1914 brachte fast ganz Afrika und große Teile Asiens unter europäische Kontrolle und verschärfte die Rivalität der Mächte.",
+    "term": "الإمبريالية",
+    "definition": "سعي القوى الكبرى إلى بسط سيطرتها على بلدان وشعوب أخرى، سواء بالمستعمرات أو بالتبعية الاقتصادية أو بالضغط العسكري. وقد أخضع عصر الإمبريالية، من نحو 1880 حتى 1914، أفريقيا كلها تقريبًا وأجزاء واسعة من آسيا للسيطرة الأوروبية، وأجّج التنافس بين القوى.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "berliner-konferenz-afrika",
@@ -846,8 +846,8 @@
   },
   {
     "id": "industrielle-revolution",
-    "term": "Industrielle Revolution",
-    "definition": "Der tiefgreifende Wandel von der Agrar- zur Industriegesellschaft, der um 1780 in England begann. Dampfmaschine, Maschinen und Fabriken ersetzten Handarbeit und Werkstatt, Kohle und Eisen wurden zu den wichtigsten Rohstoffen. Ab etwa 1870 spricht man von einer zweiten Industriellen Revolution mit Elektrizität, Chemie und Verbrennungsmotor.",
+    "term": "الثورة الصناعية",
+    "definition": "التحول العميق من مجتمع زراعي إلى مجتمع صناعي، الذي بدأ في إنجلترا نحو عام 1780. فقد حلّت الآلة البخارية والآلات والمصانع محل العمل اليدوي والورشة، وأصبح الفحم والحديد أهم المواد الخام. ومنذ نحو عام 1870 يُتحدث عن ثورة صناعية ثانية قامت على الكهرباء والكيمياء ومحرك الاحتراق الداخلي.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "mechanischer-webstuhl-fabriksystem",
@@ -857,8 +857,8 @@
   },
   {
     "id": "investiturstreit",
-    "term": "Investiturstreit",
-    "definition": "Konflikt zwischen Papsttum und Königtum im 11. und 12. Jahrhundert um die Frage, wer Bischöfe und Äbte in ihr Amt einsetzen darf. Sein bekanntester Moment war der Gang Heinrichs IV. nach Canossa 1077; das Wormser Konkordat von 1122 trennte geistliche und weltliche Einsetzung.",
+    "term": "صراع التنصيب",
+    "definition": "نزاع بين البابوية والملكية في القرنين الحادي عشر والثاني عشر حول من يحق له تنصيب الأساقفة ورؤساء الأديرة في مناصبهم. وأشهر لحظاته رحلة هاينريش الرابع إلى كانوسا عام 1077؛ وفصل اتفاق فورمس عام 1122 بين التنصيب الروحي والتنصيب الدنيوي.",
     "epochId": "mittelalter",
     "related": [
       "gang-nach-canossa",
@@ -867,8 +867,8 @@
   },
   {
     "id": "islamismus",
-    "term": "Islamismus",
-    "definition": "Politische Bewegungen, die Staat und Gesellschaft nach ihrer Auslegung des Islam und der Scharia ordnen wollen. Sie reichen von Parteien, die an Wahlen teilnehmen, bis zu terroristischen Gruppen wie al-Qaida oder dem sogenannten Islamischen Staat. Der Begriff bezeichnet eine politische Ideologie und nicht die Religion des Islam, deren Anhänger in ihrer großen Mehrheit Gewalt ablehnen.",
+    "term": "الإسلاموية (الإسلام السياسي)",
+    "definition": "حركات سياسية تسعى إلى تنظيم الدولة والمجتمع وفق تفسيرها للإسلام والشريعة. وتتراوح بين أحزاب تشارك في الانتخابات وجماعات إرهابية مثل تنظيم القاعدة أو ما يُسمّى «الدولة الإسلامية». ويشير المصطلح إلى أيديولوجيا سياسية لا إلى دين الإسلام، الذي ترفض الغالبية العظمى من أتباعه العنف.",
     "epochId": "gegenwart",
     "related": [
       "anschlaege-11-september",
@@ -879,8 +879,8 @@
   },
   {
     "id": "jakobiner",
-    "term": "Jakobiner",
-    "definition": "Mitglieder des einflussreichsten politischen Klubs der Französischen Revolution, benannt nach ihrem Versammlungsort in einem ehemaligen Jakobinerkloster in Paris. Unter Robespierre wurden sie zur radikalen Partei, die 1793 bis 1794 die Republik mit Terror gegen innere und äußere Feinde verteidigte. Der Begriff wurde in Europa lange als Schimpfwort für Anhänger radikaler demokratischer Ideen gebraucht.",
+    "term": "اليعاقبة",
+    "definition": "أعضاء أكثر النوادي السياسية نفوذًا في الثورة الفرنسية، وقد سُمّوا باسم مكان اجتماعهم في دير دومينيكاني سابق في باريس. وفي عهد روبسبيير أصبحوا الحزب المتطرف الذي دافع عن الجمهورية بالإرهاب ضد أعدائها في الداخل والخارج من 1793 إلى 1794. وظل المصطلح في أوروبا طويلًا شتيمة لأنصار الأفكار الديمقراطية المتطرفة.",
     "epochId": "revolutionen",
     "related": [
       "maximilien-de-robespierre",
@@ -889,8 +889,8 @@
   },
   {
     "id": "janitscharen",
-    "term": "Janitscharen",
-    "definition": "Die Elite-Infanterie der osmanischen Sultane, deren Name „neue Truppe“ bedeutet. Sie entstand im 14. Jahrhundert, wurde über die Knabenlese rekrutiert, regelmäßig besoldet und früh mit Feuerwaffen ausgerüstet, was sie zur ersten stehenden Infanterie Europas machte. Später wurden die Janitscharen zu einer mächtigen, reformfeindlichen Gruppe, bis Mahmud II. sie 1826 auflöste.",
+    "term": "الإنكشارية",
+    "definition": "قوات المشاة النخبوية لدى السلاطين العثمانيين، ويعني اسمها «الجنود الجدد». ونشأت في القرن الرابع عشر، وكانت تُجنَّد عبر جمع الصبيان، وتتقاضى رواتب منتظمة، وزُوّدت مبكرًا بالأسلحة النارية، مما جعلها أول قوة مشاة دائمة في أوروبا. ثم صار الإنكشارية لاحقًا جماعة قوية معادية للإصلاح، حتى حلّها محمود الثاني عام 1826.",
     "epochId": "osmanisches-reich",
     "related": [
       "aufloesung-der-janitscharen",
@@ -901,8 +901,8 @@
   },
   {
     "id": "jarl",
-    "term": "Jarl",
-    "definition": "Ein hoher skandinavischer Adelstitel, der einen mächtigen Häuptling oder einen Statthalter des Königs bezeichnete. Die Jarle von Lade beherrschten im 10. Jahrhundert weite Teile Norwegens, und die Jarle von Orkney regierten die Inseln nördlich von Schottland. Der englische Adelstitel „Earl“ ist mit dem Wort verwandt und übernahm unter Knut dem Großen dessen Bedeutung.",
+    "term": "يارل",
+    "definition": "لقب نبالة إسكندنافي رفيع يدل على زعيم قوي أو على حاكم ينوب عن الملك. وفي القرن العاشر حكم يارلات لاده أجزاء كبيرة من النرويج، وحكم يارلات أوركني الجزر الواقعة شمال اسكتلندا. ولقب النبالة الإنجليزي «إيرل» مرتبط بهذه الكلمة، واكتسب معناها في عهد كنوت العظيم.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "schlacht-bei-svolder",
@@ -912,8 +912,8 @@
   },
   {
     "id": "jesuitenreduktion",
-    "term": "Jesuitenreduktion",
-    "definition": "Von Jesuiten geleitetes Missionsdorf, in dem Indigene, vor allem Guaraní, angesiedelt, christianisiert und vor Sklavenjägern und Kolonisten geschützt wurden. Die Reduktionen hatten Kirchen, Werkstätten und gemeinsame Felder und verwalteten sich teilweise selbst. Nach der Vertreibung der Jesuiten 1767 verfielen sie.",
+    "term": "الإرساليات اليسوعية (الريدوكسيونيس)",
+    "definition": "قرية تبشيرية يديرها اليسوعيون، وُطّن فيها السكان الأصليون، ولا سيما الغواراني، ونُصّروا وحُموا من صيادي الرقيق والمستوطنين. وكان في هذه الإرساليات كنائس وورش وحقول مشتركة، وكانت تتمتع جزئيًا بالحكم الذاتي. وبعد طرد اليسوعيين عام 1767 تدهورت.",
     "epochId": "lateinamerika",
     "related": [
       "jesuitenreduktionen-in-paraguay",
@@ -922,8 +922,8 @@
   },
   {
     "id": "jungsteinzeit",
-    "term": "Jungsteinzeit (Neolithikum)",
-    "definition": "Die Zeit ab etwa 9500 v. Chr., in der Menschen Ackerbau und Viehzucht betrieben und in festen Dörfern lebten. Kennzeichnend sind geschliffene Steinwerkzeuge, Keramik, Weberei und Großbauten wie Steinkreise. Sie endete regional unterschiedlich mit dem Beginn der Metallverarbeitung.",
+    "term": "العصر الحجري الحديث (النيوليتي)",
+    "definition": "الفترة الممتدة منذ نحو 9500 ق.م التي مارس فيها الناس الزراعة وتربية الحيوانات وعاشوا في قرى ثابتة. وتتميز بالأدوات الحجرية المصقولة والفخار والنسيج والمنشآت الكبيرة مثل الدوائر الحجرية. وانتهت في أوقات مختلفة بحسب المناطق مع بداية تشغيل المعادن.",
     "epochId": "urgeschichte",
     "related": [
       "neolithische-revolution",
@@ -933,8 +933,8 @@
   },
   {
     "id": "jungtuerken",
-    "term": "Jungtürken",
-    "definition": "Eine Bewegung von Offizieren, Beamten und Intellektuellen, die ab den 1890er Jahren gegen die Alleinherrschaft Abdülhamids II. und für die Verfassung kämpfte. Ihre wichtigste Organisation, das Komitee für Einheit und Fortschritt, erzwang 1908 die Wiedereinführung der Verfassung und beherrschte ab 1913 den Staat. Ihre Regierung führte das Reich in den Ersten Weltkrieg und war für den Völkermord an den Armeniern verantwortlich.",
+    "term": "تركيا الفتاة",
+    "definition": "حركة من الضباط والموظفين والمثقفين ناضلت منذ تسعينيات القرن التاسع عشر ضد الحكم المطلق لعبد الحميد الثاني ومن أجل الدستور. وأجبرت أهم منظماتها، جمعية الاتحاد والترقي، على إعادة العمل بالدستور عام 1908، وهيمنت على الدولة منذ عام 1913. وقادت حكومتها الدولة إلى الحرب العالمية الأولى، وكانت مسؤولة عن الإبادة الجماعية للأرمن.",
     "epochId": "osmanisches-reich",
     "related": [
       "jungtuerkische-revolution",
@@ -944,8 +944,8 @@
   },
   {
     "id": "kalifat",
-    "term": "Kalifat",
-    "definition": "Die Herrschaft des Kalifen, des Nachfolgers des Propheten Mohammed als Oberhaupt der muslimischen Gemeinde. Die ersten vier Kalifen wurden gewählt, danach machten die Umayyaden und Abbasiden das Amt erblich. Vom 10. Jahrhundert an bestanden mehrere Kalifate nebeneinander, und die tatsächliche Macht ging auf Sultane über; das Abbasidenkalifat endete 1258 mit der Zerstörung Bagdads.",
+    "term": "الخلافة",
+    "definition": "حكم الخليفة، أي خليفة النبي محمد في رئاسة جماعة المسلمين. وقد اختير الخلفاء الأربعة الأوائل، ثم جعل الأمويون والعباسيون المنصب وراثيًا. ومنذ القرن العاشر قامت عدة خلافات جنبًا إلى جنب، وانتقلت السلطة الفعلية إلى السلاطين؛ وانتهت الخلافة العباسية عام 1258 بتدمير بغداد.",
     "epochId": "islamische-welt",
     "related": [
       "umayyaden-kalifat-in-damaskus",
@@ -956,8 +956,8 @@
   },
   {
     "id": "kalter-krieg",
-    "term": "Kalter Krieg",
-    "definition": "Der Konflikt zwischen den USA und der Sowjetunion und ihren jeweiligen Bündnissen von etwa 1947 bis 1991. Beide Seiten bekämpften sich mit Wettrüsten, Propaganda, Spionage und Stellvertreterkriegen, führten aber wegen der Atomwaffen nie direkt Krieg gegeneinander. Er endete mit dem Zusammenbruch des Ostblocks und der Auflösung der Sowjetunion.",
+    "term": "الحرب الباردة",
+    "definition": "الصراع بين الولايات المتحدة والاتحاد السوفيتي وحلفاء كل منهما من نحو 1947 حتى 1991. وتحارب الجانبان بسباق التسلح والدعاية والتجسس والحروب بالوكالة، لكنهما لم يخوضا قط حربًا مباشرة أحدهما ضد الآخر بسبب الأسلحة النووية. وانتهت بانهيار الكتلة الشرقية وتفكك الاتحاد السوفيتي.",
     "epochId": "kalter-krieg-gegenwart",
     "related": [
       "berliner-luftbruecke",
@@ -968,8 +968,8 @@
   },
   {
     "id": "kapitulationen",
-    "term": "Kapitulationen",
-    "definition": "Handelsprivilegien, die die Sultane europäischen Staaten gewährten, etwa Frankreich 1569 und England 1580. Sie erlaubten fremden Kaufleuten niedrige Zölle, freie Religionsausübung und eine eigene Gerichtsbarkeit ihrer Konsuln. Im 19. Jahrhundert wurden sie zum Werkzeug europäischer Einflussnahme; das Osmanische Reich kündigte sie 1914 einseitig auf.",
+    "term": "الامتيازات الأجنبية",
+    "definition": "امتيازات تجارية منحها السلاطين لدول أوروبية، مثل فرنسا عام 1569 وإنجلترا عام 1580. وأتاحت للتجار الأجانب رسومًا جمركية منخفضة وحرية ممارسة الدين والخضوع لقضاء قناصلهم. وفي القرن التاسع عشر أصبحت أداة للنفوذ الأوروبي؛ وألغتها الدولة العثمانية من جانب واحد عام 1914.",
     "epochId": "osmanisches-reich",
     "related": [
       "sueleyman-der-praechtige",
@@ -979,8 +979,8 @@
   },
   {
     "id": "katipunan",
-    "term": "Katipunan",
-    "definition": "Geheimbund, den Andrés Bonifacio 1892 in Manila gründete, um die Unabhängigkeit der Philippinen von Spanien mit Waffengewalt zu erkämpfen. Sein Name ist eine Kurzform für eine Tagalog-Bezeichnung, die etwa „Höchste und ehrwürdigste Gesellschaft der Kinder des Volkes“ bedeutet. Mit seiner Entdeckung im August 1896 begann die Philippinische Revolution.",
+    "term": "كاتيبونان",
+    "definition": "جمعية سرية أسسها أندريس بونيفاسيو في مانيلا عام 1892 لانتزاع استقلال الفلبين عن إسبانيا بقوة السلاح. واسمها اختصار لاسم بالتاغالوغية يعني تقريبًا «الجمعية العليا والأجلّ لأبناء الأمة». وكان اكتشافها في أغسطس 1896 بداية الثورة الفلبينية.",
     "epochId": "suedostasien",
     "related": [
       "philippinische-revolution",
@@ -990,8 +990,8 @@
   },
   {
     "id": "keilschrift",
-    "term": "Keilschrift",
-    "definition": "Die älteste bekannte Schrift, um 3200 v. Chr. von den Sumerern entwickelt. Die Zeichen wurden mit einem Rohrgriffel keilförmig in feuchten Ton gedrückt und bezeichneten zunächst Dinge, später auch Silben. Die Keilschrift wurde über 3.000 Jahre für viele Sprachen des Nahen Ostens verwendet.",
+    "term": "الكتابة المسمارية",
+    "definition": "أقدم كتابة معروفة، طوّرها السومريون نحو عام 3200 ق.م. وكانت الرموز تُضغط على الطين الرطب بقلم من القصب على شكل مسامير، وكانت تدل في البداية على الأشياء، ثم على المقاطع أيضًا. واستُخدمت الكتابة المسمارية أكثر من 3,000 سنة لكثير من لغات الشرق الأدنى.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "sumerische-keilschrift",
@@ -1001,8 +1001,8 @@
   },
   {
     "id": "klimawandel",
-    "term": "Klimawandel",
-    "definition": "Die vom Menschen verursachte Erwärmung der Erde, vor allem durch das Verbrennen von Kohle, Öl und Gas, das Kohlendioxid und andere Treibhausgase freisetzt. Die Folgen sind steigende Meeresspiegel, mehr Hitzewellen, Dürren und Starkregen. Mit dem Pariser Abkommen von 2015 wollen die Staaten die Erwärmung deutlich unter zwei Grad halten.",
+    "term": "تغيّر المناخ",
+    "definition": "احترار الأرض الذي يسببه الإنسان، ولا سيما بحرق الفحم والنفط والغاز الذي يطلق ثاني أكسيد الكربون وغازات دفيئة أخرى. ومن عواقبه ارتفاع مستوى سطح البحر وزيادة موجات الحر والجفاف والأمطار الغزيرة. وبموجب اتفاق باريس عام 2015 تسعى الدول إلى إبقاء الاحترار أدنى بكثير من درجتين.",
     "epochId": "gegenwart",
     "related": [
       "pariser-klimaabkommen",
@@ -1012,8 +1012,8 @@
   },
   {
     "id": "koalitionskriege",
-    "term": "Koalitionskriege",
-    "definition": "Die Kriege von 1792 bis 1815, in denen wechselnde Bündnisse europäischer Mächte, vor allem Großbritannien, Österreich, Preußen und Russland, gegen das revolutionäre und napoleonische Frankreich kämpften. Sie führten Massenheere mit Wehrpflichtigen ein, veränderten die Landkarte Europas und kosteten mehrere Millionen Menschenleben. Die letzten Abschnitte werden in Deutschland als Befreiungskriege bezeichnet.",
+    "term": "حروب التحالفات",
+    "definition": "الحروب الممتدة من 1792 إلى 1815، التي قاتلت فيها تحالفات متغيرة من القوى الأوروبية، ولا سيما بريطانيا والنمسا وبروسيا وروسيا، ضد فرنسا الثورية والنابليونية. وأدخلت هذه الحروب الجيوش الجماهيرية من المجنّدين، وغيّرت خريطة أوروبا، وكلّفت ملايين الأرواح. وتُعرف مراحلها الأخيرة في ألمانيا بحروب التحرير.",
     "epochId": "revolutionen",
     "related": [
       "russlandfeldzug-1812",
@@ -1024,8 +1024,8 @@
   },
   {
     "id": "kolumbianischer-austausch",
-    "term": "Kolumbianischer Austausch",
-    "definition": "Bezeichnung für den Austausch von Pflanzen, Tieren, Krankheiten und Menschen zwischen der Alten und der Neuen Welt nach 1492. Kartoffel, Mais und Tomate kamen nach Europa, Pferde, Rinder und Weizen nach Amerika; Pocken und Masern töteten den größten Teil der indigenen Bevölkerung.",
+    "term": "التبادل الكولومبي",
+    "definition": "مصطلح يدل على تبادل النباتات والحيوانات والأمراض والبشر بين العالم القديم والعالم الجديد بعد عام 1492. فقد وصلت البطاطس والذرة والطماطم إلى أوروبا، والخيول والأبقار والقمح إلى أمريكا؛ وقتل الجدري والحصبة معظم السكان الأصليين.",
     "epochId": "renaissance-entdeckungen",
     "related": [
       "kolumbus-erreicht-amerika",
@@ -1034,8 +1034,8 @@
   },
   {
     "id": "konquistadoren",
-    "term": "Konquistadoren",
-    "definition": "Spanische Eroberer, die im 16. Jahrhundert mit kleinen Truppen große Teile Amerikas unterwarfen. Männer wie Hernán Cortés und Francisco Pizarro nutzten Feuerwaffen, Pferde, Bündnisse mit einheimischen Völkern und eingeschleppte Seuchen, um die Reiche der Azteken und Inka zu zerstören und für die spanische Krone in Besitz zu nehmen.",
+    "term": "الكونكيستادور (الغزاة الإسبان)",
+    "definition": "غزاة إسبان أخضعوا أجزاء واسعة من أمريكا بقوات صغيرة في القرن السادس عشر. واستخدم رجال مثل هرنان كورتيس وفرانسيسكو بيزارو الأسلحة النارية والخيول والتحالفات مع الشعوب المحلية والأوبئة التي جُلبت معهم، ليدمّروا إمبراطوريتي الأزتيك والإنكا ويستولوا عليهما لصالح التاج الإسباني.",
     "epochId": "lateinamerika",
     "related": [
       "fall-tenochtitlans",
@@ -1044,8 +1044,8 @@
   },
   {
     "id": "konzentrationslager",
-    "term": "Konzentrationslager",
-    "definition": "Lager, in denen die Nationalsozialisten ab 1933 politische Gegner und später Juden, Sinti und Roma, Homosexuelle, Zeugen Jehovas und Menschen aus den besetzten Ländern ohne Gerichtsurteil einsperrten, ausbeuteten und ermordeten. Die SS betrieb ein Netz von Hauptlagern wie Dachau, Buchenwald und Sachsenhausen mit über tausend Außenlagern. Von den reinen Vernichtungslagern wie Treblinka, deren einziger Zweck der Massenmord war, unterscheiden Historiker die Konzentrationslager, in denen Häftlinge durch Arbeit, Hunger, Krankheit und Gewalt starben.",
+    "term": "معسكر الاعتقال",
+    "definition": "معسكرات سجن فيها النازيون منذ عام 1933 خصومهم السياسيين، ثم اليهود والسنتي والروما والمثليين وشهود يهوه وأناسًا من البلدان المحتلة، واستغلوهم وقتلوهم دون أي حكم قضائي. وأدارت قوات الإس إس شبكة من المعسكرات الرئيسية مثل داخاو وبوخنفالد وزاكسنهاوزن، مع أكثر من ألف معسكر فرعي. ويميّز المؤرخون بين معسكرات الاعتقال، التي مات فيها السجناء بالعمل والجوع والمرض والعنف، ومعسكرات الإبادة الخالصة مثل تريبلينكا، التي لم يكن لها غرض سوى القتل الجماعي.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "befreiung-von-auschwitz",
@@ -1055,8 +1055,8 @@
   },
   {
     "id": "koran",
-    "term": "Koran",
-    "definition": "Die heilige Schrift des Islam, die nach muslimischem Glauben die Offenbarungen enthält, die Mohammed zwischen 610 und 632 von Gott empfing. Der Text wurde unter dem dritten Kalifen Uthman um 650 in einer verbindlichen Fassung gesammelt und besteht aus 114 Kapiteln, den Suren. Der Koran ist Grundlage von Glauben, Recht und Alltag der Muslime und prägte die arabische Sprache und Kalligrafie.",
+    "term": "القرآن",
+    "definition": "الكتاب المقدس في الإسلام، الذي يضم بحسب العقيدة الإسلامية الوحي الذي تلقّاه محمد من الله بين 610 و632. وجُمع النص في مصحف معتمد نحو عام 650 في عهد الخليفة الثالث عثمان، ويتكون من 114 سورة. والقرآن أساس عقيدة المسلمين وشريعتهم وحياتهم اليومية، وقد طبع اللغة العربية والخط العربي بطابعه.",
     "epochId": "islamische-welt",
     "related": [
       "erste-offenbarung-mohammeds",
@@ -1066,8 +1066,8 @@
   },
   {
     "id": "kosaken",
-    "term": "Kosaken",
-    "definition": "Freie, militärisch organisierte Gemeinschaften in den Steppen der heutigen Ukraine und Südrusslands, die seit dem 15. Jahrhundert aus geflohenen Bauern und Abenteurern entstanden. Sie wählten ihre Anführer, die Atamane oder Hetmane, selbst und dienten polnischen Königen und Zaren als Grenztruppen. Zugleich führten sie große Aufstände an und trugen die Eroberung Sibiriens.",
+    "term": "القوزاق",
+    "definition": "جماعات حرة منظمة عسكريًا في سهوب أوكرانيا الحالية وجنوب روسيا، نشأت منذ القرن الخامس عشر من الفلاحين الفارين والمغامرين. وكانوا ينتخبون قادتهم، الأتامانات أو الهتمانات، وخدموا الملوك البولنديين والقياصرة قواتٍ لحراسة الحدود. وفي الوقت نفسه قادوا انتفاضات كبرى وحملوا عبء فتح سيبيريا.",
     "epochId": "russland-osteuropa",
     "related": [
       "chmelnyzkyj-aufstand",
@@ -1078,8 +1078,8 @@
   },
   {
     "id": "kreolen",
-    "term": "Kreolen",
-    "definition": "Im spanischen Amerika Bezeichnung für die in den Kolonien geborenen Nachkommen von Europäern. Sie besaßen oft Land, Bergwerke und Handelshäuser, wurden bei hohen Ämtern aber gegenüber den in Spanien Geborenen zurückgesetzt. Kreolen wie Simón Bolívar und José de San Martín führten die Unabhängigkeitsbewegungen an.",
+    "term": "الكريول",
+    "definition": "في أمريكا الإسبانية، مصطلح يدل على أحفاد الأوروبيين المولودين في المستعمرات. وكثيرًا ما امتلكوا الأراضي والمناجم والبيوت التجارية، لكنهم كانوا يُتجاوزون في المناصب العليا لصالح المولودين في إسبانيا. وقاد كريول مثل سيمون بوليفار وخوسيه دي سان مارتين حركات الاستقلال.",
     "epochId": "lateinamerika",
     "related": [
       "simon-bolivar",
@@ -1089,8 +1089,8 @@
   },
   {
     "id": "kreuzzug",
-    "term": "Kreuzzug",
-    "definition": "Vom Papst ausgerufener Kriegszug, der den Teilnehmern Sündenvergebung versprach und sich vor allem gegen die muslimischen Herrscher des Heiligen Landes richtete. Zwischen 1096 und 1291 zogen sieben große Kreuzfahrerheere nach Osten; später wurden auch Feldzüge gegen Ketzer und Heiden in Europa so bezeichnet.",
+    "term": "الحملة الصليبية",
+    "definition": "حملة عسكرية يعلنها البابا، تَعِد المشاركين فيها بغفران خطاياهم، وكانت موجهة قبل كل شيء ضد الحكام المسلمين في الأراضي المقدسة. وبين 1096 و1291 زحفت سبعة جيوش صليبية كبرى نحو الشرق؛ وفي ما بعد أُطلق هذا الاسم أيضًا على حملات ضد الهراطقة والوثنيين في أوروبا.",
     "epochId": "mittelalter",
     "related": [
       "erster-kreuzzug",
@@ -1100,8 +1100,8 @@
   },
   {
     "id": "kultursystem",
-    "term": "Kultursystem",
-    "definition": "Niederländisch „cultuurstelsel“; das 1830 auf Java eingeführte Zwangsanbausystem. Die Dörfer mussten einen Teil ihres Landes oder ihrer Arbeitskraft für Exportpflanzen wie Kaffee, Zucker und Indigo einsetzen, die der Kolonialstaat zu niedrigen Preisen aufkaufte. Es brachte den Niederlanden hohe Gewinne, führte auf Java aber zu Not und Hungersnöten und wurde ab 1870 schrittweise abgeschafft.",
+    "term": "نظام الزراعة القسرية",
+    "definition": "بالهولندية «كولتورستلسل»؛ نظام الزراعة الإجبارية الذي أُدخل في جاوة عام 1830. وكان على القرى أن تخصص جزءًا من أرضها أو عملها لمحاصيل التصدير مثل البن والسكر والنيلة، التي كانت الدولة الاستعمارية تشتريها بأسعار زهيدة. وجلب لهولندا أرباحًا كبيرة، لكنه سبّب الضيق والمجاعات في جاوة، وأُلغي تدريجيًا منذ عام 1870.",
     "epochId": "suedostasien",
     "related": [
       "java-krieg-und-kultursystem",
@@ -1110,8 +1110,8 @@
   },
   {
     "id": "kuenstliche-intelligenz",
-    "term": "Künstliche Intelligenz",
-    "definition": "Computersysteme, die Aufgaben lösen, für die bisher menschliches Denken nötig war, etwa Sprache verstehen, Bilder erkennen oder Entscheidungen vorbereiten. Moderne Verfahren lernen dabei aus großen Datenmengen, statt fest programmierten Regeln zu folgen. Seit 2022 sind generative Programme wie ChatGPT weit verbreitet und lösen Debatten über Arbeit, Urheberrecht und Kontrolle aus.",
+    "term": "الذكاء الاصطناعي",
+    "definition": "أنظمة حاسوبية تحل مهامّ كانت تتطلب من قبل تفكيرًا بشريًا، مثل فهم اللغة أو التعرّف على الصور أو إعداد القرارات. وتتعلم الأساليب الحديثة من كميات كبيرة من البيانات بدلًا من اتباع قواعد مبرمجة بشكل ثابت. ومنذ عام 2022 انتشرت البرامج التوليدية مثل «تشات جي بي تي» انتشارًا واسعًا، وأثارت نقاشات حول العمل وحقوق المؤلف والرقابة.",
     "epochId": "gegenwart",
     "related": [
       "chatgpt-und-generative-ki",
@@ -1120,8 +1120,8 @@
   },
   {
     "id": "kupferzeit",
-    "term": "Kupferzeit",
-    "definition": "Übergangszeit zwischen Jungsteinzeit und Bronzezeit, in der Menschen Kupfererz schmolzen und zu Beilen, Nadeln und Schmuck verarbeiteten, Stein aber weiterhin der wichtigste Werkstoff blieb. In Europa umfasst sie etwa die Zeit von 4500 bis 2200 v. Chr.; Ötzi lebte in dieser Epoche.",
+    "term": "العصر النحاسي",
+    "definition": "الفترة الانتقالية بين العصر الحجري الحديث والعصر البرونزي، التي صهر فيها الناس خام النحاس وصنعوا منه الفؤوس والإبر والحلي، مع بقاء الحجر أهم المواد. وتمتد في أوروبا تقريبًا من 4500 إلى 2200 ق.م؛ وفي هذه الحقبة عاش أوتسي.",
     "epochId": "urgeschichte",
     "related": [
       "beginn-der-kupferzeit",
@@ -1131,8 +1131,8 @@
   },
   {
     "id": "kyrillische-schrift",
-    "term": "Kyrillische Schrift",
-    "definition": "Ein aus dem griechischen Alphabet entwickeltes Schriftsystem für slawische Sprachen, das im späten 9. und frühen 10. Jahrhundert unter den Schülern Kyrills und Methods im Bulgarischen Reich entstand und nach Kyrill benannt ist. Kyrill selbst hatte zuvor die glagolitische Schrift geschaffen. Heute schreiben unter anderem Russisch, Ukrainisch, Belarussisch, Bulgarisch, Serbisch und Mazedonisch kyrillisch.",
+    "term": "الأبجدية الكيريلية",
+    "definition": "نظام كتابة للغات السلافية طُوّر من الأبجدية اليونانية، نشأ في أواخر القرن التاسع وأوائل القرن العاشر بين تلاميذ كيرلس وميثوديوس في الإمبراطورية البلغارية، وسُمّي باسم كيرلس. وكان كيرلس نفسه قد ابتكر من قبل الأبجدية الغلاغوليتية. وتُكتب اليوم بالكيريلية لغات منها الروسية والأوكرانية والبيلاروسية والبلغارية والصربية والمقدونية.",
     "epochId": "byzanz",
     "related": [
       "kyrill",
@@ -1143,8 +1143,8 @@
   },
   {
     "id": "lange-zaehlung",
-    "term": "Lange Zählung",
-    "definition": "Mesoamerikanische Zeitrechnung, die die Tage seit einem mythischen Anfangsdatum im Jahr 3114 v. Chr. zählt. Sie arbeitet mit Einheiten von 1, 20, 360, 7.200 und 144.000 Tagen und ermöglichte eine taggenaue Datierung über Jahrhunderte. Die Maya nutzten sie auf Stelen etwa vom 3. bis zum frühen 10. Jahrhundert.",
+    "term": "العدّ الطويل",
+    "definition": "نظام لحساب الزمن في أمريكا الوسطى يعدّ الأيام منذ تاريخ بداية أسطوري عام 3114 ق.م. ويستخدم وحدات من 1 و20 و360 و7,200 و144,000 يوم، وأتاح التأريخ بدقة اليوم عبر قرون. واستخدمه المايا على الأنصاب الحجرية من نحو القرن الثالث حتى أوائل القرن العاشر.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "stele-2-von-chiapa-de-corzo",
@@ -1154,8 +1154,8 @@
   },
   {
     "id": "langschiff",
-    "term": "Langschiff",
-    "definition": "Das schlanke Kriegsschiff der Wikinger, in Klinkerbauweise aus sich überlappenden Planken gebaut, mit Kiel, Rahsegel und Ruderbänken. Es war hochseetüchtig und hatte so wenig Tiefgang, dass es weit in Flüsse vordringen und an flachen Stränden landen konnte. Funde wie die Schiffe von Gokstad und Skuldelev zeigen Längen von etwa 20 bis 30 Metern.",
+    "term": "السفينة الطويلة",
+    "definition": "سفينة الفايكنغ الحربية النحيلة، المبنية بطريقة الألواح المتراكبة، ذات العارضة والشراع المربع ومقاعد التجديف. وكانت صالحة للإبحار في البحر، وقليلة الغاطس إلى حد أنها كانت تتوغل بعيدًا في الأنهار وترسو على الشواطئ المنبسطة. وتُظهر لُقى مثل سفينتي غوكستاد وسكولديليف أطوالًا تتراوح بين نحو 20 و30 مترًا.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "ueberfall-auf-lindisfarne",
@@ -1165,8 +1165,8 @@
   },
   {
     "id": "lapita-kultur",
-    "term": "Lapita-Kultur",
-    "definition": "Archäologische Kultur, benannt nach einem Fundort in Neukaledonien, die in der zweiten Hälfte des 2. Jahrtausends v. Chr. im Bismarck-Archipel auftrat. Kennzeichen ist Keramik mit fein gestempelten geometrischen Mustern. Ihre Träger sprachen austronesische Sprachen, besiedelten innerhalb weniger Jahrhunderte die Inseln bis Tonga und Samoa und gelten als Vorfahren der Polynesier.",
+    "term": "ثقافة لابيتا",
+    "definition": "ثقافة أثرية سُمّيت باسم موقع في كاليدونيا الجديدة، ظهرت في أرخبيل بسمارك في النصف الثاني من الألفية الثانية قبل الميلاد. وسمتها المميزة فخار مزيَّن بزخارف هندسية مطبوعة بدقة. وكان أصحابها يتكلمون لغات أسترونيزية، واستوطنوا في غضون قرون قليلة الجزر حتى تونغا وساموا، ويُعدّون أسلاف البولينيزيين.",
     "epochId": "ozeanien-pazifik",
     "related": [
       "lapita-besiedlung-pazifik",
@@ -1176,8 +1176,8 @@
   },
   {
     "id": "legalismus",
-    "term": "Legalismus",
-    "definition": "Chinesische Staatslehre der Streitenden Reiche, die nicht auf Moral und Vorbild wie der Konfuzianismus, sondern auf strenge Gesetze, harte Strafen und Belohnungen setzte. Der Staat Qin machte sie zur Grundlage seiner Herrschaft und einigte damit China, doch die Härte trug zum schnellen Sturz der Qin-Dynastie bei.",
+    "term": "المدرسة القانونية (الشرعية)",
+    "definition": "مذهب صيني في الدولة من عصر الممالك المتحاربة، لم يعتمد على الأخلاق والقدوة كما فعلت الكونفوشيوسية، بل على القوانين الصارمة والعقوبات القاسية والمكافآت. وجعلته دولة تشين أساس حكمها فوحّدت بذلك الصين، لكن قسوته أسهمت في السقوط السريع لأسرة تشين.",
     "epochId": "asien-altertum",
     "related": [
       "qin-shihuangdi",
@@ -1186,8 +1186,8 @@
   },
   {
     "id": "legion",
-    "term": "Legion",
-    "definition": "Die größte Einheit des römischen Heeres mit etwa 4.000 bis 6.000 schwer bewaffneten Fußsoldaten, gegliedert in Kohorten und Zenturien und ergänzt durch Reiterei und Hilfstruppen. Seit Marius dienten Legionäre als Berufssoldaten für 16 bis 25 Jahre und erhielten danach Land oder Geld, was sie an ihre Feldherren band. In der Kaiserzeit standen rund 30 Legionen an den Grenzen.",
+    "term": "الفيلق",
+    "definition": "أكبر وحدة في الجيش الروماني، تضم نحو 4,000 إلى 6,000 جندي مشاة مدججين بالسلاح، مقسّمين إلى أفواج وسرايا مئوية، ويُستكملون بالفرسان والقوات المساعدة. ومنذ ماريوس خدم جنود الفيالق جنودًا محترفين مدة 16 إلى 25 عامًا، ثم كانوا يحصلون على أرض أو مال، مما ربطهم بقادتهم. وفي العصر الإمبراطوري كان نحو 30 فيلقًا مرابطًا على الحدود.",
     "epochId": "rom",
     "related": [
       "caesar-erobert-gallien",
@@ -1197,8 +1197,8 @@
   },
   {
     "id": "lehnswesen",
-    "term": "Lehnswesen",
-    "definition": "Ordnung des mittelalterlichen Europa, in der ein Herr einem Vasallen Land oder ein Amt als Lehen überließ und dieser dafür Treue, Rat und Kriegsdienst schuldete. Vom König über Herzöge und Grafen bis zum einfachen Ritter entstand so eine Kette von Abhängigkeiten, die den Staat ersetzte.",
+    "term": "النظام الإقطاعي",
+    "definition": "نظام أوروبا في العصور الوسطى الذي يمنح فيه سيدٌ تابعًا أرضًا أو منصبًا إقطاعًا، ويدين له التابع في المقابل بالولاء والمشورة والخدمة العسكرية. وهكذا نشأت من الملك مرورًا بالدوقات والكونتات حتى الفارس البسيط سلسلة من التبعيات حلّت محل الدولة.",
     "epochId": "mittelalter",
     "related": [
       "kaiserkroenung-karls-des-grossen",
@@ -1208,8 +1208,8 @@
   },
   {
     "id": "leibeigenschaft",
-    "term": "Leibeigenschaft",
-    "definition": "Die rechtliche Bindung von Bauern an den Boden und an einen Herrn, dem sie Arbeit und Abgaben schuldeten. In Russland wurde sie seit dem späten 16. Jahrhundert verschärft und 1649 erblich; Leibeigene konnten verkauft und zum Militär abgegeben werden. Alexander II. hob sie 1861 auf, in den Ostseeprovinzen war sie schon zwischen 1816 und 1819 beendet worden.",
+    "term": "القنانة",
+    "definition": "ربط الفلاحين قانونيًا بالأرض وبسيّد يدينون له بأعمال السخرة والمستحقات. وفي روسيا شُدّدت منذ أواخر القرن السادس عشر وجُعلت وراثية عام 1649؛ وكان يمكن بيع الأقنان وتسليمهم إلى الجيش. وألغاها ألكسندر الثاني عام 1861؛ أما في ولايات البلطيق فقد انتهت بين 1816 و1819.",
     "epochId": "russland-osteuropa",
     "related": [
       "aufhebung-der-leibeigenschaft-in-russland",
@@ -1220,8 +1220,8 @@
   },
   {
     "id": "liberalismus",
-    "term": "Liberalismus",
-    "definition": "Politische Richtung, die die Freiheit des Einzelnen gegenüber dem Staat in den Mittelpunkt stellt und Verfassung, Gewaltenteilung, Grundrechte, freie Presse und freie Wirtschaft fordert. Der Liberalismus entstand aus der Aufklärung und den Revolutionen in Amerika und Frankreich und wurde vom Bürgertum getragen. Im 19. Jahrhundert stritten Liberale mit den Kräften der Restauration um Verfassungen und mit Demokraten um die Ausweitung des Wahlrechts.",
+    "term": "الليبرالية",
+    "definition": "تيار سياسي يضع حرية الفرد في مواجهة الدولة في المركز، ويطالب بالدستور والفصل بين السلطات والحقوق الأساسية وحرية الصحافة والاقتصاد الحر. ونشأت الليبرالية من التنوير ومن الثورتين في أمريكا وفرنسا، وحملتها الطبقة الوسطى. وفي القرن التاسع عشر نازع الليبراليون قوى الرجعية على الدساتير، ونازعوا الديمقراطيين على توسيع حق الاقتراع.",
     "epochId": "revolutionen",
     "related": [
       "verfassung-der-usa",
@@ -1231,8 +1231,8 @@
   },
   {
     "id": "limes",
-    "term": "Limes",
-    "definition": "Die befestigte Grenze des Römischen Reiches, bestehend aus Wällen, Palisaden, Gräben, Wachtürmen und Kastellen. Der Obergermanisch-Raetische Limes zwischen Rhein und Donau war rund 550 Kilometer lang, der Hadrianswall in Britannien 118 Kilometer. Der Limes diente weniger als unüberwindbare Mauer denn als Kontrolllinie für Handel, Zoll und Grenzverkehr.",
+    "term": "الليمس",
+    "definition": "الحدود المحصّنة للإمبراطورية الرومانية، المكوّنة من أسوار ترابية وسياجات خشبية وخنادق وأبراج مراقبة وحصون. وكان الليمس الجرماني العلوي الرايتي بين الراين والدانوب بطول نحو 550 كيلومترًا، وسور هادريان في بريطانيا بطول 118 كيلومترًا. ولم يكن الليمس سورًا لا يمكن تجاوزه بقدر ما كان خط رقابة على التجارة والجمارك وحركة العبور عبر الحدود.",
     "epochId": "rom",
     "related": [
       "bau-des-hadrianswalls",
@@ -1241,8 +1241,8 @@
   },
   {
     "id": "madrasa",
-    "term": "Madrasa",
-    "definition": "Eine islamische Hochschule, an der vor allem Recht, Koranauslegung, Hadithkunde und arabische Grammatik, oft auch Mathematik, Astronomie und Medizin gelehrt wurden. Madrasas wurden meist von Herrschern oder reichen Privatleuten als fromme Stiftung finanziert und boten Studenten Unterkunft und Verpflegung. Berühmte Beispiele sind die al-Azhar in Kairo, die al-Qarawiyyin in Fes und die Schulen von Timbuktu.",
+    "term": "المدرسة",
+    "definition": "مؤسسة إسلامية للتعليم العالي كان يُدرَّس فيها قبل كل شيء الفقه وتفسير القرآن وعلم الحديث والنحو العربي، وكثيرًا ما كانت تُدرَّس فيها أيضًا الرياضيات والفلك والطب. وكانت المدارس تُموَّل عادة من الحكام أو الأثرياء بوصفها وقفًا خيريًا، وتوفر للطلاب السكن والطعام. ومن أشهر الأمثلة الأزهر في القاهرة والقرويين في فاس ومدارس تمبكتو.",
     "epochId": "islamische-welt",
     "related": [
       "fatimiden-gruenden-kairo",
@@ -1252,8 +1252,8 @@
   },
   {
     "id": "mana",
-    "term": "Mana",
-    "definition": "Polynesischer Begriff für eine übernatürliche Kraft, Autorität und Ansehen, die Menschen, Ahnen, Orte und Gegenstände besitzen können. Häuptlinge und Könige leiteten ihr Mana von göttlichen Vorfahren ab; Erfolge im Krieg vermehrten es, Niederlagen oder Verstöße gegen das Tapu konnten es mindern. Der Begriff spielt in den Kulturen Polynesiens bis heute eine große Rolle.",
+    "term": "مانا",
+    "definition": "مصطلح بولينيزي يدل على قوة خارقة للطبيعة وسلطة ومكانة يمكن أن يملكها البشر والأسلاف والأماكن والأشياء. واستمد الزعماء والملوك المانا من أسلاف إلهيين؛ وكان النصر في الحرب يزيدها، بينما كانت الهزائم أو انتهاك التابو قد تُنقصها. ولا يزال المفهوم يؤدي دورًا كبيرًا في الثقافات البولينيزية حتى اليوم.",
     "epochId": "ozeanien-pazifik",
     "related": [
       "tui-tonga-reich",
@@ -1263,8 +1263,8 @@
   },
   {
     "id": "mandala-staat",
-    "term": "Mandala (Herrschaftsordnung)",
-    "definition": "Modell, mit dem Historiker die frühen Reiche Südostasiens beschreiben: Ein Machtzentrum war von Kreisen abhängiger Fürsten und Häfen umgeben, deren Treue sich nach Stärke und Ansehen des Herrschers richtete. Grenzen waren unscharf, und dieselben Gebiete konnten mehreren Zentren zugleich Tribut leisten. Der Begriff erklärt, warum Reiche wie Srivijaya oder Majapahit rasch wachsen und schrumpfen konnten.",
+    "term": "الماندالا (نظام سياسي)",
+    "definition": "نموذج يستعمله المؤرخون لوصف الدول المبكرة في جنوب شرق آسيا: مركز قوة تحيط به دوائر من الأمراء والموانئ التابعة، يتوقف ولاؤها على قوة الحاكم ومكانته. وكانت الحدود غامضة، وكان يمكن للأراضي نفسها أن تدفع الجزية لعدة مراكز في آن واحد. ويفسّر المفهوم لماذا استطاعت ممالك مثل سريفيجايا أو ماجاباهيت أن تنمو وتنكمش بهذه السرعة.",
     "epochId": "suedostasien",
     "related": [
       "aufstieg-von-srivijaya",
@@ -1274,8 +1274,8 @@
   },
   {
     "id": "mandat-des-himmels",
-    "term": "Mandat des Himmels",
-    "definition": "Chinesische Vorstellung, nach der ein Herrscher seine Macht vom Himmel erhält, solange er gerecht regiert. Missernten, Katastrophen und Aufstände galten als Zeichen, dass das Mandat entzogen wurde, und rechtfertigten den Sturz einer Dynastie. Die Idee erklärt den Kreislauf von Aufstieg und Fall der chinesischen Dynastien.",
+    "term": "تفويض السماء",
+    "definition": "تصور صيني يرى أن الحاكم يتلقى سلطته من السماء ما دام يحكم بالعدل. وكانت المحاصيل الفاشلة والكوارث والانتفاضات تُعدّ علامات على سحب التفويض، وتبرر الإطاحة بالأسرة الحاكمة. وتفسّر هذه الفكرة دورة صعود الأسر الحاكمة الصينية وسقوطها.",
     "epochId": "asien-altertum",
     "related": [
       "qin-shihuangdi-einigt-china",
@@ -1285,8 +1285,8 @@
   },
   {
     "id": "mansa",
-    "term": "Mansa",
-    "definition": "Herrschertitel im Mali-Reich in der Sprache der Malinke, etwa mit König oder Kaiser zu übersetzen. Der Mansa stand an der Spitze eines Verbandes von Provinzen und tributpflichtigen Fürsten; berühmtester Träger des Titels war Mansa Musa.",
+    "term": "مانسا",
+    "definition": "لقب حاكم إمبراطورية مالي بلغة المالينكي، ويمكن ترجمته تقريبًا بالملك أو الإمبراطور. وكان المانسا على رأس اتحاد من الأقاليم والأمراء التابعين الدافعين للجزية؛ وأشهر من حمل اللقب مانسا موسى.",
     "epochId": "afrikanische-reiche",
     "related": [
       "mansa-musa",
@@ -1295,8 +1295,8 @@
   },
   {
     "id": "mansab-system",
-    "term": "Mansab-System",
-    "definition": "Rangordnung der Amtsträger im Mogulreich, die Akbar einführte. Jeder Mansabdar erhielt einen Rang, der sein Gehalt und die Zahl der Reiter bestimmte, die er für den Herrscher bereitstellen musste; die Ränge waren nicht erblich und banden Muslime wie hinduistische Rajputen an den Hof.",
+    "term": "نظام المنصب",
+    "definition": "نظام الرتب لأصحاب المناصب في إمبراطورية المغول الهندية، الذي أدخله أكبر. فكان كل «منصبدار» ينال رتبة تحدد راتبه وعدد الفرسان الذين عليه أن يوفّرهم للحاكم؛ ولم تكن الرتب وراثية، وربطت المسلمين والراجبوت الهندوس على السواء بالبلاط.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "akbar",
@@ -1306,8 +1306,8 @@
   },
   {
     "id": "megalith",
-    "term": "Megalith",
-    "definition": "Ein großer, meist unbearbeiteter Steinblock, der in der Jungsteinzeit und Bronzezeit für Gräber, Steinreihen und Steinkreise verwendet wurde. Megalithbauten wie Stonehenge, Carnac oder Newgrange finden sich vor allem entlang der Atlantikküste Europas und zeigen die Organisationsfähigkeit früher Bauerngesellschaften.",
+    "term": "الصخرة الضخمة (الميغاليث)",
+    "definition": "كتلة حجرية كبيرة غير مشذّبة في الغالب، استُخدمت في العصر الحجري الحديث والعصر البرونزي للمقابر وصفوف الحجارة والدوائر الحجرية. وتوجد المنشآت الميغاليثية مثل ستونهنج وكارناك ونيوغرانج قبل كل شيء على امتداد ساحل أوروبا الأطلسي، وتُظهر القدرة التنظيمية للمجتمعات الزراعية المبكرة.",
     "epochId": "urgeschichte",
     "related": [
       "megalithbauten-stonehenge",
@@ -1316,8 +1316,8 @@
   },
   {
     "id": "merkantilismus",
-    "term": "Merkantilismus",
-    "definition": "Wirtschaftspolitik des Absolutismus, die den Reichtum eines Staates am Vorrat an Gold und Silber maß. Der Staat förderte Manufakturen und Exporte, erhob Schutzzölle auf Einfuhren und nutzte Kolonien als Rohstoffquellen und Absatzmärkte; Colbert unter Ludwig XIV. war ihr bekanntester Vertreter.",
+    "term": "المذهب التجاري (الميركانتيلية)",
+    "definition": "السياسة الاقتصادية للحكم المطلق، التي قاست ثروة الدولة بمخزونها من الذهب والفضة. فكانت الدولة تشجع المصانع اليدوية والصادرات، وتفرض رسومًا جمركية حمائية على الواردات، وتستخدم المستعمرات مصادر للمواد الخام وأسواقًا؛ وكان كولبير في عهد لويس الرابع عشر أشهر ممثليها.",
     "epochId": "absolutismus-aufklaerung",
     "related": [
       "ludwig-xiv",
@@ -1326,8 +1326,8 @@
   },
   {
     "id": "mesoamerika",
-    "term": "Mesoamerika",
-    "definition": "Kulturraum, der das südliche und mittlere Mexiko, Guatemala, Belize und Teile von Honduras und El Salvador umfasst. Seine Völker teilten trotz verschiedener Sprachen Maisanbau, Pyramidentempel, das Ballspiel, einen 260-tägigen Ritualkalender und viele Götter. Zu ihnen gehörten Olmeken, Zapoteken, Maya, Teotihuacan, Tolteken und Azteken.",
+    "term": "أمريكا الوسطى (ميزوأمريكا)",
+    "definition": "منطقة ثقافية تشمل جنوب المكسيك ووسطها وغواتيمالا وبليز وأجزاء من هندوراس والسلفادور. ورغم اختلاف لغاتها اشتركت شعوبها في زراعة الذرة ومعابد الأهرامات ولعبة الكرة وتقويم طقسي من 260 يومًا وآلهة كثيرة. ومن هذه الشعوب الأولمك والزابوتيك والمايا وتيوتيهواكان والتولتيك والأزتيك.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "olmeken-in-mesoamerika",
@@ -1338,8 +1338,8 @@
   },
   {
     "id": "mesoamerikanisches-ballspiel",
-    "term": "Mesoamerikanisches Ballspiel",
-    "definition": "Mannschaftsspiel mit einem schweren Ball aus Kautschuk, der meist nur mit Hüfte, Gesäß und Oberschenkeln gespielt werden durfte. Es wurde über 3.000 Jahre in ganz Mesoamerika auf langen, von Mauern begrenzten Plätzen gespielt. Das Spiel war Sport, religiöses Ritual und manchmal Teil politischer Zeremonien, die mit Opfern enden konnten.",
+    "term": "لعبة الكرة في أمريكا الوسطى",
+    "definition": "لعبة جماعية بكرة مطاطية ثقيلة كان يُسمح عادةً بلعبها بالوركين والأرداف والفخذين فقط. ولُعبت أكثر من 3,000 عام في أنحاء أمريكا الوسطى في ملاعب طويلة تحدّها الجدران. وكانت اللعبة رياضةً وطقسًا دينيًا، وأحيانًا جزءًا من مراسم سياسية قد تنتهي بتقديم القرابين.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "aufstieg-von-chichen-itza",
@@ -1349,8 +1349,8 @@
   },
   {
     "id": "mestizen",
-    "term": "Mestizen",
-    "definition": "Bezeichnung für Menschen mit europäischen und indigenen Vorfahren im kolonialen Lateinamerika. Die Kolonialbehörden ordneten die Bevölkerung nach solchen Herkunftskategorien, die Rechte, Steuern und Ansehen bestimmten. Im 19. und 20. Jahrhundert wurde die Vermischung in Ländern wie Mexiko zum Teil der nationalen Identität erklärt.",
+    "term": "المستيزو (الخلاسيون)",
+    "definition": "مصطلح يدل على الناس ذوي الأسلاف الأوروبيين والأصليين في أمريكا اللاتينية الاستعمارية. وصنّفت السلطات الاستعمارية السكان وفق فئات الأصل هذه، التي حدّدت الحقوق والضرائب والمكانة. وفي القرنين التاسع عشر والعشرين أُعلن الاختلاط جزءًا من الهوية الوطنية في بلدان مثل المكسيك.",
     "epochId": "lateinamerika",
     "related": [
       "malinche",
@@ -1359,8 +1359,8 @@
   },
   {
     "id": "mfecane",
-    "term": "Mfecane",
-    "definition": "Bezeichnung für die Kriege, Fluchtbewegungen und Staatsgründungen im südlichen Afrika etwa zwischen 1815 und 1840; das Wort bedeutet in Nguni-Sprachen etwa Zermalmen. Ursachen und Ausmaß sind in der Forschung umstritten.",
+    "term": "المفيكاني",
+    "definition": "مصطلح يدل على الحروب وموجات الفرار وتأسيس الدول في الجنوب الأفريقي بين نحو 1815 و1840؛ وتعني الكلمة في لغات النغوني ما يشبه «السحق». وأسبابها ومداها موضع خلاف بين المؤرخين.",
     "epochId": "afrikanische-reiche",
     "related": [
       "mfecane-im-suedlichen-afrika",
@@ -1370,8 +1370,8 @@
   },
   {
     "id": "millet",
-    "term": "Millet",
-    "definition": "Bezeichnung für die anerkannten Religionsgemeinschaften des Osmanischen Reiches, etwa die griechisch-orthodoxen Christen, die Armenier und die Juden. Unter ihren geistlichen Oberhäuptern regelten sie Ehe, Erbe, Bildung und Fürsorge weitgehend selbst und waren dem Sultan gegenüber für Steuern und Ordnung verantwortlich. Als festes System wurde die Millet-Ordnung vor allem im 19. Jahrhundert ausgestaltet.",
+    "term": "الملّة",
+    "definition": "مصطلح يدل على الطوائف الدينية المعترف بها في الدولة العثمانية، مثل المسيحيين الروم الأرثوذكس والأرمن واليهود. وكانت تنظّم تحت رؤسائها الدينيين شؤون الزواج والإرث والتعليم والرعاية بنفسها إلى حد كبير، وكانت مسؤولة أمام السلطان عن الضرائب والنظام. ولم يُصَغ نظام الملل نظامًا ثابتًا إلا في القرن التاسع عشر على وجه الخصوص.",
     "epochId": "osmanisches-reich",
     "related": [
       "fall-konstantinopels",
@@ -1381,8 +1381,8 @@
   },
   {
     "id": "mita",
-    "term": "Mita",
-    "definition": "Ursprünglich ein Arbeitsdienst im Inkareich, den die Spanier in ein System der Zwangsarbeit umwandelten. Indigene Dörfer mussten im Wechsel einen Teil ihrer Männer für Bergwerke wie Potosí oder für andere Arbeiten stellen. Die Mita war eine der am meisten verhassten Lasten der Kolonialzeit und wurde erst im Zuge der Unabhängigkeit abgeschafft.",
+    "term": "الميتا",
+    "definition": "في الأصل سخرة في إمبراطورية الإنكا، حوّلها الإسبان إلى نظام للعمل القسري. فكان على القرى الأصلية أن تقدّم بالتناوب نسبة من رجالها للمناجم مثل بوتوسي أو لأعمال أخرى. وكانت الميتا من أكثر الأعباء مقتًا في الحقبة الاستعمارية، ولم تُلغَ إلا في سياق الاستقلال.",
     "epochId": "lateinamerika",
     "related": [
       "silberberg-von-potosi",
@@ -1391,8 +1391,8 @@
   },
   {
     "id": "moai",
-    "term": "Moai",
-    "definition": "Die großen Steinfiguren von Rapa Nui (Osterinsel), von denen fast 900 bekannt sind. Sie stellen Ahnen dar und standen meist auf zeremoniellen Plattformen, den Ahu, mit dem Blick ins Inselinnere. Die meisten wurden aus Tuffstein im Krater Rano Raraku gehauen; einige trugen Kopfaufsätze aus rotem Schlackenstein, die Pukao.",
+    "term": "مواي",
+    "definition": "التماثيل الحجرية الكبيرة في رابا نوي (جزيرة القيامة)، ويُعرف منها قرابة 900 تمثال. وهي تمثّل الأسلاف، ووقف معظمها على منصات طقسية تُسمّى «آهو» متجهةً نحو الداخل. ونُحت معظمها من الطوف البركاني في فوهة رانو راراكو؛ وحمل بعضها عقدًا شعرية من الخبث البركاني الأحمر تُسمّى «بوكاو».",
     "epochId": "ozeanien-pazifik",
     "related": [
       "moai-auf-rapa-nui",
@@ -1401,8 +1401,8 @@
   },
   {
     "id": "mogulreich",
-    "term": "Mogulreich",
-    "definition": "Muslimisches Großreich in Indien, das 1526 von Babur gegründet wurde und unter Akbar den größten Teil des Subkontinents beherrschte. Es verband persische, zentralasiatische und indische Kultur, brachte Bauwerke wie das Taj Mahal hervor und zerfiel im 18. Jahrhundert, bevor die Briten die Herrschaft übernahmen.",
+    "term": "إمبراطورية المغول في الهند",
+    "definition": "إمبراطورية إسلامية كبرى في الهند أسسها بابر عام 1526، وحكمت في عهد أكبر معظم شبه القارة. وجمعت بين الثقافة الفارسية والآسيوية الوسطى والهندية، وأنتجت مباني مثل تاج محل، ثم تفككت في القرن الثامن عشر قبل أن يتولى البريطانيون الحكم.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "akbar",
@@ -1411,8 +1411,8 @@
   },
   {
     "id": "moenchtum",
-    "term": "Mönchtum",
-    "definition": "Lebensform von Männern und Frauen, die sich in Klöstern unter einer Regel dem Gebet, der Arbeit und dem Verzicht auf Besitz, Ehe und eigenen Willen verpflichten. Die Regel Benedikts von Nursia machte die Klöster des Abendlandes zu Zentren von Bildung, Landwirtschaft und Krankenpflege.",
+    "term": "الرهبنة",
+    "definition": "نمط حياة رجال ونساء يلتزمون في الأديرة، وفق قاعدة، بالصلاة والعمل والتخلي عن الملكية والزواج والإرادة الذاتية. وقد جعلت قاعدة بندكت النورسي أديرة الغرب مراكز للعلم والزراعة ورعاية المرضى.",
     "epochId": "mittelalter",
     "related": [
       "benedikt-gruendet-montecassino",
@@ -1422,8 +1422,8 @@
   },
   {
     "id": "mumifizierung",
-    "term": "Mumifizierung",
-    "definition": "Die Konservierung eines Leichnams, in Ägypten durch Entnahme der inneren Organe, Trocknung mit Natronsalz über 70 Tage und Einwickeln in Leinenbinden. Die Ägypter glaubten, dass der Körper für das Weiterleben im Jenseits erhalten bleiben muss; die Mumien von Ramses II. und Tutanchamun sind bis heute erhalten.",
+    "term": "التحنيط",
+    "definition": "حفظ الجثة، وكان يجري في مصر بإزالة الأعضاء الداخلية وتجفيفها بملح النطرون مدة 70 يومًا ولفّها بلفائف الكتان. واعتقد المصريون أنه يجب حفظ الجسد لاستمرار الحياة في العالم الآخر؛ ولا تزال مومياوات رمسيس الثاني وتوت عنخ آمون باقية حتى اليوم.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "tutanchamun",
@@ -1433,8 +1433,8 @@
   },
   {
     "id": "nationalismus",
-    "term": "Nationalismus",
-    "definition": "Die Vorstellung, dass Menschen mit gemeinsamer Sprache, Kultur und Geschichte eine Nation bilden, die einen eigenen Staat haben soll. Die Französische Revolution machte die Nation zum Träger der Souveränität, und der Widerstand gegen Napoleon weckte in Deutschland, Spanien und Italien nationale Gefühle. Im 19. Jahrhundert war der Nationalismus meist mit Freiheitsforderungen verbunden, entwickelte sich später aber auch zu Überheblichkeit und Feindschaft gegenüber anderen Völkern.",
+    "term": "القومية",
+    "definition": "الفكرة القائلة إن الناس الذين تجمعهم لغة وثقافة وتاريخ مشترك يشكلون أمة ينبغي أن تكون لها دولتها الخاصة. وقد جعلت الثورة الفرنسية الأمة صاحبة السيادة، وأيقظت مقاومة نابليون الشعور القومي في ألمانيا وإسبانيا وإيطاليا. وفي القرن التاسع عشر ارتبطت القومية في الغالب بالمطالبة بالحرية، لكنها تطورت لاحقًا أيضًا إلى غطرسة وعداء تجاه الشعوب الأخرى.",
     "epochId": "revolutionen",
     "related": [
       "hambacher-fest",
@@ -1445,8 +1445,8 @@
   },
   {
     "id": "nationalstaat",
-    "term": "Nationalstaat",
-    "definition": "Ein Staat, dessen Bevölkerung sich als eine Nation mit gemeinsamer Sprache, Geschichte und Kultur versteht und in dem die Staatsgrenzen mit dieser Nation übereinstimmen sollen. Im 19. Jahrhundert wurde er zum politischen Leitbild und führte zur Einigung Italiens und Deutschlands, aber auch zum Zerfall der Vielvölkerreiche.",
+    "term": "الدولة القومية",
+    "definition": "دولة يعدّ سكانها أنفسهم أمة واحدة ذات لغة وتاريخ وثقافة مشتركة، ويُفترض أن تتطابق حدود الدولة فيها مع حدود هذه الأمة. وفي القرن التاسع عشر أصبحت المثل الأعلى السياسي، وأدت إلى توحيد إيطاليا وألمانيا، لكنها أدت أيضًا إلى تفكك الإمبراطوريات المتعددة القوميات.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "gruendung-deutsches-kaiserreich",
@@ -1455,8 +1455,8 @@
   },
   {
     "id": "oba",
-    "term": "Oba",
-    "definition": "Titel der Könige im Königreich Benin und in mehreren Yoruba-Staaten. Der Oba von Benin galt als heiliger Herrscher, der über Land und Menschen verfügte und dessen Ahnen mit Gedenkköpfen und Reliefplatten aus Messing verehrt wurden.",
+    "term": "أوبا",
+    "definition": "لقب الملوك في مملكة بنين وفي عدة دول من دول اليوروبا. وكان أوبا بنين يُعد حاكمًا مقدسًا له السلطة على الأرض والناس، ويُكرَّم أسلافه برؤوس تذكارية وألواح نافرة من النحاس الأصفر.",
     "epochId": "afrikanische-reiche",
     "related": [
       "oba-ewuare-erneuert-benin",
@@ -1465,8 +1465,8 @@
   },
   {
     "id": "orthodoxe-kirche",
-    "term": "Orthodoxe Kirche",
-    "definition": "Die aus der Reichskirche von Byzanz hervorgegangene Gemeinschaft östlicher Kirchen; „orthodox“ bedeutet „rechtgläubig“. Sie besteht aus selbstständigen Landeskirchen, unter denen der Patriarch von Konstantinopel einen Ehrenvorrang hat, und erkennt den Papst nicht als Oberhaupt an. Kennzeichen sind die Liturgie in überlieferten Kirchensprachen wie Griechisch und Kirchenslawisch statt Latein, die Verehrung von Ikonen und ein starkes Mönchtum.",
+    "term": "الكنيسة الأرثوذكسية",
+    "definition": "شركة الكنائس الشرقية التي نشأت من الكنيسة الإمبراطورية في بيزنطة؛ وتعني «أرثوذكسي» «مستقيم الرأي». وتتألف من كنائس وطنية مستقلة يتمتع بينها بطريرك القسطنطينية بأسبقية شرفية، ولا تعترف بالبابا رأسًا لها. ومن سماتها المميزة الطقوس الدينية بلغات كنسية تقليدية مثل اليونانية والسلافية الكنسية بدلًا من اللاتينية، وتكريم الأيقونات، وتقليد رهباني قوي.",
     "epochId": "byzanz",
     "related": [
       "morgenlaendisches-schisma",
@@ -1477,8 +1477,8 @@
   },
   {
     "id": "ostrakismos",
-    "term": "Ostrakismos (Scherbengericht)",
-    "definition": "Ein Verfahren der athenischen Demokratie, bei dem die Bürger einmal im Jahr den Namen eines Politikers auf Tonscherben ritzen konnten, den sie für gefährlich hielten. Wer bei mindestens 6.000 abgegebenen Scherben die meisten Stimmen erhielt, musste Athen für zehn Jahre verlassen, behielt aber Besitz und Bürgerrecht. So sollte eine neue Tyrannis verhindert werden.",
+    "term": "النبذ (الأوستراكيسموس)",
+    "definition": "إجراء في الديمقراطية الأثينية كان يحق فيه للمواطنين مرة في السنة أن يحفروا على كسر الفخار اسم سياسي يرونه خطرًا. ومن نال أكثر الأصوات، بشرط أن يُدلى بما لا يقل عن 6,000 كسرة، كان عليه أن يغادر أثينا عشر سنوات، لكنه يحتفظ بأملاكه وبحقوق المواطنة. وكان الهدف منع قيام طغيان جديد.",
     "epochId": "antike-griechenland",
     "related": [
       "reformen-des-kleisthenes",
@@ -1487,8 +1487,8 @@
   },
   {
     "id": "pa-festung",
-    "term": "Pā",
-    "definition": "Befestigte Siedlung der Māori, meist auf Hügeln, Bergspornen oder Landzungen gelegen und mit Gräben, Erdwällen und Palisaden geschützt. Viele Tausend Pā sind archäologisch nachgewiesen; sie sicherten Dörfer und Vorräte in Zeiten von Konflikten. In den Neuseelandkriegen bauten Māori Pā mit Schützengräben und Unterständen, die dem britischen Artilleriebeschuss erstaunlich gut standhielten.",
+    "term": "با (حصن ماوري)",
+    "definition": "مستوطنة ماورية محصّنة، تقع في الغالب على تل أو حافة جبلية أو رأس بحري، وتحميها خنادق وسواتر ترابية وأسيجة من الأوتاد. وقد حُدّد أثريًا عدة آلاف من حصون الـ«با»؛ وكانت تحمي القرى ومخازن الطعام في أوقات النزاع. وفي حروب نيوزيلندا بنى الماوري حصونًا بخنادق ومخابئ صمدت أمام نيران المدفعية البريطانية صمودًا لافتًا.",
     "epochId": "ozeanien-pazifik",
     "related": [
       "besiedlung-neuseelands",
@@ -1499,8 +1499,8 @@
   },
   {
     "id": "pandemie",
-    "term": "Pandemie",
-    "definition": "Eine Infektionskrankheit, die sich über Länder und Kontinente hinweg ausbreitet und sehr viele Menschen erfasst. Bekannte Beispiele sind der Schwarze Tod im 14. Jahrhundert, die Spanische Grippe 1918 bis 1920 und die COVID-19-Pandemie ab 2020. Weltweiter Reiseverkehr kann die Ausbreitung beschleunigen, während Impfstoffe und Hygiene sie eindämmen.",
+    "term": "الجائحة",
+    "definition": "مرض معدٍ ينتشر عبر البلدان والقارات ويصيب عددًا كبيرًا جدًا من الناس. ومن الأمثلة المعروفة الموت الأسود في القرن الرابع عشر، والإنفلونزا الإسبانية من 1918 إلى 1920، وجائحة كوفيد-19 منذ عام 2020. ويمكن للسفر حول العالم أن يسرّع الانتشار، بينما تحدّ منه اللقاحات والنظافة.",
     "epochId": "gegenwart",
     "related": [
       "covid-19-pandemie",
@@ -1511,8 +1511,8 @@
   },
   {
     "id": "pax-mongolica",
-    "term": "Pax Mongolica",
-    "definition": "Bezeichnung für die Zeit im 13. und 14. Jahrhundert, in der das Mongolenreich weite Teile Eurasiens beherrschte und Reisende und Kaufleute relativ sicher von China bis Osteuropa ziehen konnten. Poststationen, einheitliche Herrschaft und Schutzbriefe förderten den Austausch von Waren, Wissen und Religionen, aber auch die Ausbreitung der Pest.",
+    "term": "السلام المغولي (باكس مونغوليكا)",
+    "definition": "اسم يُطلق على الفترة في القرنين الثالث عشر والرابع عشر حين حكمت الإمبراطورية المغولية أجزاءً واسعة من أوراسيا، وكان بوسع الرحالة والتجار التنقل بأمان نسبي من الصين إلى أوروبا الشرقية. وشجّعت محطات البريد والحكم الموحّد ورسائل الأمان تبادلَ البضائع والمعارف والأديان، لكنها شجّعت أيضًا انتشار الطاعون.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "dschingis-khan",
@@ -1523,8 +1523,8 @@
   },
   {
     "id": "pharao",
-    "term": "Pharao",
-    "definition": "Titel der Könige des alten Ägypten, abgeleitet vom ägyptischen Wort für Großes Haus, den Palast. Der Pharao galt als Sohn des Sonnengottes und Garant der Weltordnung Maat; er war zugleich oberster Priester, Richter und Heerführer. Über 30 Dynastien von Pharaonen regierten Ägypten fast drei Jahrtausende lang.",
+    "term": "الفرعون",
+    "definition": "لقب ملوك مصر القديمة، المشتق من الكلمة المصرية التي تعني «البيت الكبير»، أي القصر. وكان الفرعون يُعدّ ابن إله الشمس والضامن لماعت، أي نظام العالم؛ وكان في الوقت نفسه كبير الكهنة والقاضي وقائد الجيش. وحكمت مصر أكثر من 30 أسرة من الفراعنة طوال نحو ثلاثة آلاف عام.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "hatschepsut",
@@ -1535,8 +1535,8 @@
   },
   {
     "id": "polis",
-    "term": "Polis",
-    "definition": "Der griechische Stadtstaat, bestehend aus einer Stadt mit Umland und der Gemeinschaft ihrer Bürger, die sich selbst regierten. Es gab hunderte Poleis von Athen und Sparta bis zu kleinen Inselstädten; ihre Unabhängigkeit und Rivalität prägten die griechische Geschichte. Das Wort Politik leitet sich von Polis ab.",
+    "term": "البوليس (دولة المدينة)",
+    "definition": "دولة المدينة الإغريقية، وتتألف من مدينة وما يحيط بها من أرض ومن جماعة مواطنيها الذين كانوا يحكمون أنفسهم بأنفسهم. وقد وُجدت مئات من دول المدن، من أثينا وإسبرطة إلى بلدات الجزر الصغيرة؛ وطبع استقلالها وتنافسها التاريخَ الإغريقي. وتُشتق كلمة «بوليتيكس» (السياسة) في اللغات الأوروبية من «بوليس».",
     "epochId": "antike-griechenland",
     "related": [
       "reformen-des-kleisthenes",
@@ -1546,8 +1546,8 @@
   },
   {
     "id": "populismus",
-    "term": "Populismus",
-    "definition": "Ein politischer Stil, der ein angeblich einheitliches, wahres Volk einer korrupten Elite gegenüberstellt und beansprucht, allein den Willen des Volkes zu vertreten. Populisten gibt es von rechts und links; in der Gegenwart richten sie sich häufig gegen Einwanderung, Globalisierung und internationale Institutionen. Kritiker sehen darin eine Gefahr für Minderheitenrechte, Gewaltenteilung und unabhängige Medien.",
+    "term": "الشعبوية",
+    "definition": "أسلوب سياسي يضع شعبًا مزعومًا موحدًا وحقيقيًا في مواجهة نخبة فاسدة، ويدّعي أنه وحده يمثّل إرادة الشعب. وهناك شعبويون في اليمين واليسار؛ وكثيرًا ما يتوجّهون اليوم ضد الهجرة والعولمة والمؤسسات الدولية. ويرى المنتقدون فيها خطرًا على حقوق الأقليات والفصل بين السلطات واستقلال وسائل الإعلام.",
     "epochId": "gegenwart",
     "related": [
       "brexit",
@@ -1557,8 +1557,8 @@
   },
   {
     "id": "prinzipat",
-    "term": "Prinzipat",
-    "definition": "Die von Augustus 27 v. Chr. begründete Herrschaftsform, in der der Kaiser als Princeps, der Erste unter Gleichen, auftrat und die republikanischen Einrichtungen wie Senat und Konsuln formal bestehen ließ. Tatsächlich lag die Macht über Heer, Provinzen und Finanzen beim Kaiser. Der Prinzipat dauerte bis zur Krise des 3. Jahrhunderts.",
+    "term": "البرينكيباتوس (نظام الزعامة)",
+    "definition": "شكل الحكم الذي أرساه أوغسطس عام 27 ق.م، وفيه ظهر الإمبراطور بوصفه «البرينكبس»، أي الأول بين متساوين، وأبقى شكليًا على المؤسسات الجمهورية مثل مجلس الشيوخ والقناصل. أما في الواقع فكانت السلطة على الجيش والولايات والمالية بيد الإمبراطور. واستمر هذا النظام حتى أزمة القرن الثالث.",
     "epochId": "rom",
     "related": [
       "augustus",
@@ -1568,8 +1568,8 @@
   },
   {
     "id": "quilombo",
-    "term": "Quilombo",
-    "definition": "In Brasilien Bezeichnung für eine Siedlung entflohener Versklavter, oft in schwer zugänglichen Wäldern oder Bergen. Quilombos reichten von kleinen Lagern bis zu großen Gemeinschaften wie Palmares mit eigener Landwirtschaft und Verteidigung. Ähnliche Gemeinschaften hießen im spanischen Amerika Palenques.",
+    "term": "الكيلومبو",
+    "definition": "في البرازيل، مصطلح يدل على مستوطنة من المستعبَدين الفارّين، غالبًا في غابات أو جبال يصعب الوصول إليها. وتراوحت الكيلومبوهات بين مخيمات صغيرة وجماعات كبيرة مثل بالماريس، لها زراعتها ودفاعها الخاص. وسُمّيت الجماعات المشابهة في أمريكا الإسبانية «بالينكي».",
     "epochId": "lateinamerika",
     "related": [
       "quilombo-dos-palmares",
@@ -1578,8 +1578,8 @@
   },
   {
     "id": "quipu",
-    "term": "Quipu",
-    "definition": "Knotenschnur aus Baumwolle oder Wolle, mit der in den Anden Informationen festgehalten wurden. An einer Hauptschnur hingen viele Nebenschnüre, deren Knoten nach dem Zehnersystem Zahlen wie Einwohner, Abgaben und Vorräte angaben. Spezialisten, die Quipucamayoc, lasen und erstellten die Quipus; ob sie auch Sprache wiedergaben, ist bis heute ungeklärt.",
+    "term": "الكيبو",
+    "definition": "حبل معقود من القطن أو الصوف كانت تُسجَّل به المعلومات في جبال الأنديز. فمن حبل رئيسي تتدلى حبال كثيرة تدل عُقدها على أعداد مثل السكان والضرائب والمخزونات بالنظام العشري. وكان مختصون، هم «الكيبوكامايوك»، يقرؤون الكيبو ويصنعونه؛ أما هل كانوا يسجّلون به اللغة أيضًا فلا يزال أمرًا غير محسوم.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "pachacutec-und-das-inka-reich",
@@ -1589,8 +1589,8 @@
   },
   {
     "id": "reconquista",
-    "term": "Reconquista",
-    "definition": "Die Rückeroberung der Iberischen Halbinsel durch die christlichen Königreiche Asturien, León, Kastilien, Aragón und Portugal, die vom 8. Jahrhundert bis zum Fall Granadas 1492 dauerte. Sie verlief nicht als ununterbrochener Krieg, sondern mit langen Phasen von Bündnissen, Handel und kulturellem Austausch über die Grenze hinweg. Nach 1492 wurden Juden und Muslime vertrieben oder zur Taufe gezwungen, was die religiöse Vielfalt Spaniens beendete.",
+    "term": "الاسترداد (الريكونكيستا)",
+    "definition": "استعادة شبه الجزيرة الإيبيرية على يد الممالك المسيحية أستورياس وليون وقشتالة وأراغون والبرتغال، التي امتدت من القرن الثامن حتى سقوط غرناطة عام 1492. ولم تجرِ بوصفها حربًا متواصلة، بل تخللتها مراحل طويلة من التحالفات والتجارة والتبادل الثقافي عبر الحدود. وبعد عام 1492 طُرد اليهود والمسلمون أو أُجبروا على التعميد، مما أنهى التنوع الديني في إسبانيا.",
     "epochId": "islamische-welt",
     "related": [
       "fall-granadas",
@@ -1600,8 +1600,8 @@
   },
   {
     "id": "reformation",
-    "term": "Reformation",
-    "definition": "Religiöse Erneuerungsbewegung, die 1517 mit Luthers 95 Thesen begann und zur Spaltung der westlichen Christenheit in Katholiken und Protestanten führte. Ihre Anhänger beriefen sich allein auf die Bibel und den Glauben, lehnten Ablass und päpstliche Autorität ab und schufen eigene Kirchen in Deutschland, der Schweiz, Skandinavien, England und den Niederlanden.",
+    "term": "الإصلاح الديني",
+    "definition": "حركة تجديد ديني بدأت عام 1517 بأطروحات لوثر الخمس والتسعين، وأدت إلى انقسام المسيحية الغربية إلى كاثوليك وبروتستانت. واستند أتباعها إلى الكتاب المقدس والإيمان وحدهما، ورفضوا صكوك الغفران وسلطة البابا، وأنشؤوا كنائس خاصة بهم في ألمانيا وسويسرا واسكندنافيا وإنجلترا وهولندا.",
     "epochId": "renaissance-entdeckungen",
     "related": [
       "martin-luther",
@@ -1612,8 +1612,8 @@
   },
   {
     "id": "reparationen",
-    "term": "Reparationen",
-    "definition": "Zahlungen und Sachleistungen, die ein Kriegsverlierer den Siegern als Ersatz für Kriegsschäden leisten muss. Der Versailler Vertrag legte Deutschland Reparationen auf, die 1921 auf 132 Milliarden Goldmark festgesetzt wurden und Kohle, Lokomotiven und Schiffe einschlossen. Der Streit um die Zahlungen führte zur Ruhrbesetzung und wurde durch den Dawes-Plan 1924 und den Young-Plan 1929 vorübergehend entschärft, bis die Zahlungen 1932 faktisch endeten.",
+    "term": "التعويضات",
+    "definition": "مدفوعات وتوريدات عينية يتعيّن على الخاسر في الحرب أن يؤديها للمنتصرين تعويضًا عن أضرار الحرب. وقد فرضت معاهدة فرساي على ألمانيا تعويضات حُدّدت عام 1921 بمبلغ 132 مليار مارك ذهبي، وشملت الفحم والقاطرات والسفن. وأدى النزاع حول المدفوعات إلى احتلال الرور، وخُفّف مؤقتًا بخطة دوز عام 1924 وخطة يونغ عام 1929، إلى أن توقفت المدفوعات فعليًا عام 1932.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "versailler-vertrag",
@@ -1623,8 +1623,8 @@
   },
   {
     "id": "restauration",
-    "term": "Restauration",
-    "definition": "Die Politik nach 1815, die vom Wiener Kongress ausgehend die Herrschaft der alten Dynastien wiederherstellen und die Ideen der Revolution zurückdrängen wollte. Ihre Mittel waren Zensur, Polizeiüberwachung, das Verbot politischer Vereine und Interventionen gegen Aufstände in Spanien, Italien und Deutschland. Ihr wichtigster Vertreter war der österreichische Staatskanzler Metternich.",
+    "term": "عصر الرجعة (الإعادة)",
+    "definition": "السياسة التي انطلقت بعد عام 1815 من مؤتمر فيينا، وسعت إلى إعادة حكم السلالات القديمة ودحر أفكار الثورة. وكانت وسائلها الرقابة والمراقبة البوليسية وحظر الجمعيات السياسية والتدخل ضد الانتفاضات في إسبانيا وإيطاليا وألمانيا. وكان أهم ممثليها المستشار النمساوي مترنيخ.",
     "epochId": "revolutionen",
     "related": [
       "wiener-kongress",
@@ -1634,8 +1634,8 @@
   },
   {
     "id": "romanisierung",
-    "term": "Romanisierung",
-    "definition": "Die Übernahme römischer Sprache, Lebensweise, Rechtsordnung und Städtebauweise durch die Bevölkerung der eroberten Provinzen. Sie geschah nicht durch Zwang, sondern durch Veteranenansiedlung, Handel, das Bürgerrecht für die örtlichen Eliten und die Anziehungskraft von Bädern, Theatern und Straßen. Aus dem Latein der Provinzen gingen die romanischen Sprachen hervor.",
+    "term": "الرَّوْمَنة",
+    "definition": "تبنّي سكان الولايات المفتوحة للغة الرومانية وطريقة العيش والنظام القانوني وأسلوب بناء المدن. ولم يحدث ذلك بالإكراه، بل عبر توطين المحاربين القدامى والتجارة ومنح المواطنة للنخب المحلية وجاذبية الحمّامات والمسارح والطرق. ومن لاتينية الولايات نشأت اللغات الرومانسية.",
     "epochId": "rom",
     "related": [
       "caesar-erobert-gallien",
@@ -1645,8 +1645,8 @@
   },
   {
     "id": "runen",
-    "term": "Runen",
-    "definition": "Die Schriftzeichen der germanischen Völker, die vor allem in Stein, Holz und Metall geritzt wurden. Die ältere Runenreihe, nach ihren ersten Zeichen Futhark genannt, hatte 24 Zeichen; in der Wikingerzeit war in Skandinavien eine jüngere Reihe mit 16 Zeichen in Gebrauch. Die meisten der erhaltenen Runensteine stehen in Schweden und erinnern an Verstorbene oder an Fahrten in die Fremde.",
+    "term": "الرونية",
+    "definition": "حروف الكتابة عند الشعوب الجرمانية، نُقشت أساسًا على الحجر والخشب والمعدن. وكانت السلسلة الرونية الأقدم، المسماة «فوثارك» نسبةً إلى حروفها الأولى، تضم 24 رمزًا؛ وفي عصر الفايكنغ استُعملت في إسكندنافيا سلسلة أحدث من 16 رمزًا. ويقف معظم الأحجار الرونية الباقية في السويد، وهي تخلّد ذكرى الموتى أو الرحلات إلى الخارج.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "runenstein-von-jelling",
@@ -1656,8 +1656,8 @@
   },
   {
     "id": "saga",
-    "term": "Saga",
-    "definition": "Eine Prosaerzählung in altnordischer Sprache, wie sie vor allem auf Island im 13. und 14. Jahrhundert niedergeschrieben wurde. Die Isländersagas erzählen von Familien der Siedlungszeit, ihren Fehden und Fahrten, die Königssagas von den Herrschern Norwegens. Sie beruhen auf mündlicher Überlieferung, entstanden aber Generationen nach den Ereignissen und sind deshalb nur mit Vorsicht als Geschichtsquelle zu nutzen.",
+    "term": "الساغا",
+    "definition": "سرد نثري بالإسكندنافية القديمة، من النوع الذي دُوّن خاصة في آيسلندا في القرنين الثالث عشر والرابع عشر. فساغات الآيسلنديين تروي أخبار أسر من فترة الاستيطان وثاراتها ورحلاتها، بينما تتناول ساغات الملوك حكام النرويج. وهي تستند إلى الرواية الشفهية، لكنها أُلّفت بعد الأحداث بأجيال، ولذلك يجب استعمالها مصادر تاريخية بحذر.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "leif-eriksson-erreicht-vinland",
@@ -1667,8 +1667,8 @@
   },
   {
     "id": "sakoku",
-    "term": "Sakoku",
-    "definition": "Japanischer Begriff für die Abschließung des Landes unter dem Tokugawa-Shogunat von 1639 bis 1854. Ausländer durften nicht einreisen, Japaner das Land nicht verlassen, und der Außenhandel blieb auf Chinesen und Niederländer in Nagasaki beschränkt; das Land erlebte zwei Jahrhunderte Frieden mit stark begrenztem europäischem Einfluss (über die Niederländer gelangte westliches Wissen als Rangaku ins Land).",
+    "term": "ساكوكو",
+    "definition": "المصطلح الياباني لإغلاق البلاد في عهد شوغونية توكوغاوا من 1639 إلى 1854. فلم يُسمح للأجانب بالدخول، ولا لليابانيين بمغادرة البلاد، وظلت التجارة الخارجية مقصورة على التجار الصينيين والهولنديين في ناغاساكي؛ وعاشت البلاد قرنين من السلام بتأثير أوروبي محدود جدًا (ومع ذلك وصلت العلوم الغربية عبر الهولنديين باسم «رانغاكو»).",
     "epochId": "asiatische-grossreiche",
     "related": [
       "abschliessung-japans",
@@ -1677,8 +1677,8 @@
   },
   {
     "id": "samurai",
-    "term": "Samurai",
-    "definition": "Angehörige des japanischen Kriegerstandes, die ursprünglich als bewaffnete Gefolgsleute von Fürsten dienten. In der Edo-Zeit bildeten sie den höchsten der vier Stände, durften als Einzige Schwerter tragen und arbeiteten in Friedenszeiten oft als Beamte; 1876 wurden ihre Vorrechte abgeschafft.",
+    "term": "الساموراي",
+    "definition": "أفراد طبقة المحاربين اليابانية، الذين خدموا في الأصل الأسيادَ أتباعًا مسلّحين. وفي عصر إيدو شكّلوا أعلى الطبقات الأربع، وكانوا وحدهم يحق لهم حمل السيوف، وكثيرًا ما عملوا في زمن السلم موظفين؛ وأُلغيت امتيازاتهم عام 1876.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "oda-nobunaga",
@@ -1688,8 +1688,8 @@
   },
   {
     "id": "satrapie",
-    "term": "Satrapie",
-    "definition": "Provinz des Persischen Reiches, die von einem Statthalter, dem Satrapen, im Namen des Großkönigs verwaltet wurde. Die Satrapen zogen Steuern ein, stellten Truppen und sprachen Recht, wurden aber durch königliche Inspektoren überwacht. Das System erlaubte den Achämeniden, ein Reich vieler Völker und Sprachen zusammenzuhalten.",
+    "term": "المرزبانية (الساترابية)",
+    "definition": "ولاية في الإمبراطورية الفارسية يديرها حاكم، هو المرزبان (الساتراب)، باسم الملك العظيم. وكان المرازبة يجبون الضرائب ويقدّمون الجنود ويقيمون العدل، لكنهم كانوا خاضعين لرقابة مفتشين ملكيين. وأتاح هذا النظام للأخمينيين الحفاظ على تماسك إمبراطورية متعددة الشعوب واللغات.",
     "epochId": "asien-altertum",
     "related": [
       "kyros-gruendet-das-perserreich",
@@ -1698,8 +1698,8 @@
   },
   {
     "id": "scholastik",
-    "term": "Scholastik",
-    "definition": "Wissenschaftliche Methode der mittelalterlichen Universitäten, die Glaubensfragen mit den Mitteln der Logik und der Philosophie des Aristoteles untersuchte. Thesen wurden in geregelten Streitgesprächen geprüft und Einwände widerlegt; Thomas von Aquin führte die Scholastik im 13. Jahrhundert zu ihrem Höhepunkt.",
+    "term": "المدرسية (السكولائية)",
+    "definition": "المنهج العلمي في جامعات العصور الوسطى، الذي بحث مسائل الإيمان بأدوات المنطق وفلسفة أرسطو. فكانت الأطروحات تُختبر في مناظرات منظّمة وتُفنَّد الاعتراضات؛ وبلغ توما الأكويني بالمدرسية ذروتها في القرن الثالث عشر.",
     "epochId": "mittelalter",
     "related": [
       "thomas-von-aquin",
@@ -1708,8 +1708,8 @@
   },
   {
     "id": "seidenstrasse",
-    "term": "Seidenstraße",
-    "definition": "Netz von Karawanenwegen und Seerouten, das seit der Han-Zeit China über Zentralasien und Persien mit Indien und dem Mittelmeerraum verband. Neben Seide, Gewürzen, Glas und Pferden reisten auf ihr auch Religionen wie der Buddhismus, Techniken wie die Papierherstellung und Krankheiten. Der Name stammt erst aus dem 19. Jahrhundert.",
+    "term": "طريق الحرير",
+    "definition": "شبكة من طرق القوافل والطرق البحرية ربطت منذ عصر هان الصينَ عبر آسيا الوسطى وفارس بالهند وعالم البحر المتوسط. وإلى جانب الحرير والتوابل والزجاج والخيول انتقلت عبرها أيضًا أديان مثل البوذية، وتقنيات مثل صناعة الورق، وأمراض. ولا يعود الاسم إلا إلى القرن التاسع عشر.",
     "epochId": "asien-altertum",
     "related": [
       "han-dynastie-und-seidenstrasse",
@@ -1719,8 +1719,8 @@
   },
   {
     "id": "semstwo",
-    "term": "Semstwo",
-    "definition": "Gewähltes Organ der ländlichen Selbstverwaltung, das Alexander II. 1864 auf Ebene der Gouvernements und Kreise einführte. Die Semstwa unterhielten Schulen, Krankenhäuser und Straßen und beschäftigten Ärzte, Lehrer und Agronomen. Sie wurden zu einem Sammelbecken liberaler Kräfte, die eine Verfassung forderten.",
+    "term": "الزيمستفو",
+    "definition": "هيئة منتخبة للحكم الذاتي الريفي أدخلها ألكسندر الثاني عام 1864 على مستوى المحافظات والأقضية. وتولّت الزيمستفو المدارس والمستشفيات والطرق، ووظّفت الأطباء والمعلمين والمهندسين الزراعيين. وأصبحت ملتقى للقوى الليبرالية المطالبة بدستور.",
     "epochId": "russland-osteuropa",
     "related": [
       "aufhebung-der-leibeigenschaft-in-russland",
@@ -1730,8 +1730,8 @@
   },
   {
     "id": "senat",
-    "term": "Senat",
-    "definition": "Der Rat der ehemaligen Amtsträger Roms, ursprünglich der Ältesten, mit etwa 300 bis 600 Mitgliedern auf Lebenszeit. In der Republik bestimmte der Senat Außenpolitik, Finanzen und Provinzverwaltung und war das Machtzentrum des Adels. In der Kaiserzeit verlor er an Einfluss, blieb aber als Ehrenversammlung bis in die Spätantike bestehen.",
+    "term": "مجلس الشيوخ",
+    "definition": "مجلس كبار الموظفين السابقين في روما، وفي الأصل مجلس الشيوخ المسنّين، يضم نحو 300 إلى 600 عضو معيّنين مدى الحياة. وفي عهد الجمهورية حدّد مجلس الشيوخ السياسة الخارجية والمالية وإدارة الولايات، وكان مركز سلطة النبلاء. وفي العصر الإمبراطوري فقد نفوذه، لكنه بقي مجلسًا شرفيًا حتى العصور القديمة المتأخرة.",
     "epochId": "rom",
     "related": [
       "beginn-der-roemischen-republik",
@@ -1741,8 +1741,8 @@
   },
   {
     "id": "shogunat",
-    "term": "Shogunat",
-    "definition": "Militärregierung in Japan, an deren Spitze ein vom Kaiser ernannter Shogun, ein oberster Feldherr, stand. Von 1192 bis 1868 regierten nacheinander die Shogunate von Kamakura, Ashikaga und Tokugawa, während der Kaiser in Kyoto vor allem religiöse und zeremonielle Aufgaben hatte.",
+    "term": "الشوغونية",
+    "definition": "حكومة عسكرية في اليابان يرأسها شوغون، وهو قائد أعلى يعيّنه الإمبراطور. ومن 1192 إلى 1868 حكمت تباعًا شوغونيات كاماكورا وأشيكاغا وتوكوغاوا، بينما أدّى الإمبراطور في كيوتو مهامّ دينية واحتفالية أساسًا.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "minamoto-no-yoritomo-wird-shogun",
@@ -1752,8 +1752,8 @@
   },
   {
     "id": "solidus",
-    "term": "Solidus",
-    "definition": "Die Goldmünze, die Konstantin der Große Anfang des 4. Jahrhunderts einführte; 72 Stück wurden aus einem römischen Pfund Gold geprägt. Im griechischen Osten Nomisma genannt, blieb sie bis ins 11. Jahrhundert wertbeständig und war im ganzen Mittelmeerraum ein begehrtes Zahlungsmittel. Nach einer Zeit der Verschlechterung ersetzte Alexios I. sie 1092 durch das Hyperpyron.",
+    "term": "الصوليدوس",
+    "definition": "العملة الذهبية التي أدخلها قسطنطين الكبير في أوائل القرن الرابع، وكانت تُسك بمعدل 72 قطعة من الرطل الروماني من الذهب. وعُرفت في الشرق الناطق باليونانية باسم «نوميسما»، واحتفظت بقيمتها حتى القرن الحادي عشر، وكانت عملة مرغوبة في أنحاء البحر المتوسط كلها. وبعد فترة من انخفاض قيمتها استبدل بها ألكسيوس الأول عام 1092 الـ«هيبربيرون».",
     "epochId": "byzanz",
     "related": [
       "konstantin-der-grosse",
@@ -1763,8 +1763,8 @@
   },
   {
     "id": "soziale-frage",
-    "term": "Soziale Frage",
-    "definition": "Der Begriff für die Not der Arbeiterschaft im 19. Jahrhundert: niedrige Löhne, lange Arbeitszeiten, Kinderarbeit, Wohnungselend und fehlende Absicherung bei Krankheit und Alter. Kirchen, Unternehmer, Sozialisten und der Staat suchten unterschiedliche Antworten, von Werkswohnungen über Gewerkschaften bis zur Sozialversicherung.",
+    "term": "المسألة الاجتماعية",
+    "definition": "مصطلح يدل على بؤس الطبقة العاملة في القرن التاسع عشر: الأجور المتدنية وساعات العمل الطويلة وعمل الأطفال والمساكن البائسة وغياب الرعاية في المرض والشيخوخة. وبحثت الكنائس وأصحاب المصانع والاشتراكيون والدولة عن إجابات مختلفة، من مساكن الشركات إلى النقابات إلى التأمين الاجتماعي.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "weberaufstand-schlesien",
@@ -1774,8 +1774,8 @@
   },
   {
     "id": "soziale-medien",
-    "term": "Soziale Medien",
-    "definition": "Internetplattformen, auf denen Nutzer selbst Texte, Bilder und Videos veröffentlichen, teilen und kommentieren. Sie verbinden Milliarden Menschen und ermöglichen schnelle Mobilisierung, etwa im Arabischen Frühling oder der MeToo-Bewegung. Zugleich verbreiten sich über sie Hassrede und Desinformation, und ihre Algorithmen werden für die Spaltung von Gesellschaften mitverantwortlich gemacht.",
+    "term": "وسائل التواصل الاجتماعي",
+    "definition": "منصات على الإنترنت ينشر فيها المستخدمون بأنفسهم النصوص والصور ومقاطع الفيديو ويتشاركونها ويعلّقون عليها. وهي تربط مليارات البشر وتتيح حشدًا سريعًا، كما في الربيع العربي أو حركة «أنا أيضًا» (MeToo). وفي الوقت نفسه ينتشر عبرها خطاب الكراهية والتضليل، وتُحمَّل خوارزمياتها جزءًا من المسؤولية عن استقطاب المجتمعات.",
     "epochId": "gegenwart",
     "related": [
       "arabischer-fruehling",
@@ -1785,8 +1785,8 @@
   },
   {
     "id": "sozialversicherung",
-    "term": "Sozialversicherung",
-    "definition": "Staatlich organisierte Pflichtversicherung, die Arbeitnehmer gegen Krankheit, Unfall, Alter und Invalidität absichert und durch Beiträge von Arbeitgebern und Arbeitnehmern finanziert wird. Sie wurde von Bismarck zwischen 1883 und 1889 im Deutschen Reich eingeführt und wurde zum Vorbild für Sozialstaaten in aller Welt.",
+    "term": "التأمين الاجتماعي",
+    "definition": "تأمين إلزامي تنظّمه الدولة يحمي العاملين من المرض والحوادث والشيخوخة والعجز، ويُموَّل باشتراكات أصحاب العمل والعاملين. وقد أدخله بسمارك في الإمبراطورية الألمانية بين عامي 1883 و1889، وأصبح نموذجًا لدول الرعاية في أنحاء العالم.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "bismarcks-sozialgesetze",
@@ -1795,8 +1795,8 @@
   },
   {
     "id": "stadtstaat",
-    "term": "Stadtstaat",
-    "definition": "Ein unabhängiger Staat, der aus einer Stadt und ihrem Umland besteht. In Sumer war jeder Stadtstaat einem eigenen Gott geweiht und wurde von einem König oder Priesterfürsten regiert; die Städte bekämpften einander um Wasser und Land, bis Sargon von Akkad sie zu einem Reich vereinte.",
+    "term": "دولة المدينة",
+    "definition": "دولة مستقلة تتألف من مدينة وما يحيط بها من أرض. وفي سومر كانت كل دولة مدينة مكرّسة لإله خاص بها، ويحكمها ملك أو أمير كاهن؛ وتقاتلت المدن على الماء والأرض حتى وحّدها سرجون الأكدي في إمبراطورية واحدة.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "stadtstaaten-sumers-und-ur-standarte",
@@ -1806,8 +1806,8 @@
   },
   {
     "id": "staendegesellschaft",
-    "term": "Ständegesellschaft",
-    "definition": "Gliederung der mittelalterlichen Gesellschaft in Geburtsstände mit unterschiedlichen Rechten und Pflichten: Klerus, Adel und der große Rest aus Bauern und Bürgern. Nach der Lehre der Zeit beteten die einen, kämpften die anderen und arbeiteten die dritten; Aufstände wie 1381 in England stellten diese Ordnung in Frage.",
+    "term": "المجتمع الطبقي (مجتمع الطوائف)",
+    "definition": "تقسيم مجتمع العصور الوسطى إلى طبقات بحسب المولد، لكل منها حقوق وواجبات مختلفة: رجال الدين، والنبلاء، والبقية الكبرى من الفلاحين وسكان المدن. وبحسب تعاليم ذلك العصر كان الأولون يصلّون، والآخرون يقاتلون، والثالثون يعملون؛ وقد شكّكت انتفاضات مثل انتفاضة عام 1381 في إنجلترا في هذا النظام.",
     "epochId": "mittelalter",
     "related": [
       "bauernaufstand-in-england",
@@ -1817,8 +1817,8 @@
   },
   {
     "id": "stellungskrieg",
-    "term": "Stellungskrieg",
-    "definition": "Kriegsführung, bei der sich gegnerische Armeen in befestigten Schützengräben gegenüberliegen und die Front sich über Monate oder Jahre kaum bewegt. An der Westfront des Ersten Weltkriegs machten Maschinengewehre, Artillerie und Stacheldraht jeden Angriff so verlustreich, dass beide Seiten bis 1918 in Gräben verharrten. Verdun und die Somme sind die bekanntesten Beispiele.",
+    "term": "حرب الخنادق",
+    "definition": "أسلوب في الحرب تتواجه فيه الجيوش المتعادية في خنادق محصّنة، ولا تكاد الجبهة تتحرك شهورًا أو سنوات. وعلى الجبهة الغربية في الحرب العالمية الأولى جعلت الرشاشاتُ والمدفعية والأسلاك الشائكة كلَّ هجوم باهظ التكلفة إلى حد أن الطرفين بقيا في خنادقهما حتى عام 1918. وفردان والسوم أشهر الأمثلة.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "marneschlacht-und-stellungskrieg",
@@ -1828,8 +1828,8 @@
   },
   {
     "id": "stellvertreterkrieg",
-    "term": "Stellvertreterkrieg",
-    "definition": "Ein Krieg, in dem Großmächte nicht selbst gegeneinander kämpfen, sondern verfeindete Parteien in einem dritten Land mit Waffen, Geld, Beratern oder eigenen Truppen unterstützen. Im Kalten Krieg trugen die USA und die Sowjetunion ihren Gegensatz auf diese Weise in Korea, Vietnam, Afghanistan und Afrika aus. Die Leidtragenden waren vor allem die Bevölkerungen dieser Länder.",
+    "term": "الحرب بالوكالة",
+    "definition": "حرب لا تتقاتل فيها القوى العظمى مباشرة، بل تدعم أطرافًا متعادية في بلد ثالث بالسلاح والمال والمستشارين أو بقوات خاصة بها. وفي الحرب الباردة خاضت الولايات المتحدة والاتحاد السوفيتي تنافسهما بهذه الطريقة في كوريا وفيتنام وأفغانستان وأفريقيا. وكان المتضررون قبل كل شيء سكان هذه البلدان.",
     "epochId": "kalter-krieg-gegenwart",
     "related": [
       "koreakrieg",
@@ -1839,8 +1839,8 @@
   },
   {
     "id": "sufismus",
-    "term": "Sufismus",
-    "definition": "Die mystische Richtung des Islam, die nach einer unmittelbaren, liebenden Erfahrung Gottes strebt und dafür Gebet, Meditation, Gesang, Tanz und Askese nutzt. Sufis wie Rabia von Basra, al-Ghazali und Rumi schufen bedeutende Dichtung und Philosophie; seit dem 12. Jahrhundert schlossen sie sich zu Orden mit Meistern und Schülern zusammen. Sufi-Bruderschaften trugen den Islam nach Anatolien, Indien, Südostasien und Afrika.",
+    "term": "التصوف",
+    "definition": "التيار الروحي في الإسلام، الذي يسعى إلى تجربة مباشرة قائمة على المحبة لله، ويستعين لذلك بالصلاة والتأمل والإنشاد والرقص والزهد. وأبدع صوفية مثل رابعة العدوية والغزالي وجلال الدين الرومي شعرًا وفلسفة مهمين؛ ومنذ القرن الثاني عشر انتظموا في طرق لها شيوخ ومريدون. ونشرت الطرق الصوفية الإسلام في الأناضول والهند وجنوب شرق آسيا وأفريقيا.",
     "epochId": "islamische-welt",
     "related": [
       "rumi",
@@ -1849,8 +1849,8 @@
   },
   {
     "id": "sunniten-und-schiiten",
-    "term": "Sunniten und Schiiten",
-    "definition": "Die beiden großen Richtungen des Islam, die aus dem Streit um die Nachfolge Mohammeds entstanden. Die Schiiten sehen Ali, den Vetter und Schwiegersohn des Propheten, und seine Nachkommen als einzig rechtmäßige Führer an; die Sunniten erkennen die gewählten Kalifen an und berufen sich auf die Sunna, das Vorbild des Propheten. Rund 85 bis 90 Prozent der Muslime sind heute Sunniten; Schiiten leben vor allem im Iran, Irak, Libanon und Bahrain.",
+    "term": "السنة والشيعة",
+    "definition": "التياران الكبيران في الإسلام، اللذان نشآ من الخلاف على خلافة النبي محمد. فالشيعة يعدّون عليًّا، ابن عم النبي وصهره، وذريته القادةَ الشرعيين الوحيدين؛ أما السنة فيعترفون بالخلفاء المختارين ويستندون إلى السنة، أي هدي النبي. ونحو 85 إلى 90 بالمائة من المسلمين اليوم من السنة؛ ويعيش الشيعة خاصة في إيران والعراق ولبنان والبحرين.",
     "epochId": "islamische-welt",
     "related": [
       "schlacht-von-kerbela",
@@ -1860,8 +1860,8 @@
   },
   {
     "id": "swahili",
-    "term": "Swahili",
-    "definition": "Bantusprache und Kultur der Handelsstädte an der ostafrikanischen Küste zwischen Somalia und Mosambik. Sie entstand aus afrikanischen Wurzeln im Austausch mit arabischen, persischen und indischen Kaufleuten, ist meist islamisch geprägt und übernahm viele arabische Lehnwörter. Swahili ist heute eine der meistgesprochenen Sprachen Afrikas.",
+    "term": "السواحيلية",
+    "definition": "لغة وثقافة بانتوية للمدن التجارية على ساحل شرق أفريقيا بين الصومال وموزمبيق. نشأت من جذور أفريقية في تبادل مع التجار العرب والفرس والهنود، ويطبعها الإسلام في الغالب، واقتبست كثيرًا من الكلمات العربية. والسواحيلية اليوم من أوسع اللغات انتشارًا في أفريقيا.",
     "epochId": "afrikanische-reiche",
     "related": [
       "bluete-von-kilwa",
@@ -1871,8 +1871,8 @@
   },
   {
     "id": "szlachta",
-    "term": "Szlachta",
-    "definition": "Der Adel Polen-Litauens, der mit nach Schätzungen sechs bis zehn Prozent der Bevölkerung ungewöhnlich zahlreich war und vom reichen Magnaten bis zum landlosen Kleinadligen reichte. Seine Mitglieder galten als rechtlich gleich, wählten seit 1573 den König und beherrschten den Reichstag. Ihre „goldene Freiheit“ schützte vor königlicher Willkür, schwächte aber den Staat.",
+    "term": "الشلاختا",
+    "definition": "طبقة النبلاء في بولندا–ليتوانيا، وكانت كثيرة العدد على نحو غير مألوف، إذ تُقدَّر بستة إلى عشرة في المئة من السكان، وتراوحت بين كبار الأثرياء وصغار النبلاء الذين لا يملكون أرضًا. وكان أفرادها متساوين أمام القانون، وينتخبون الملك منذ عام 1573، ويهيمنون على البرلمان. وقد حمت «حريتهم الذهبية» من تعسف الملك، لكنها أضعفت الدولة.",
     "epochId": "russland-osteuropa",
     "related": [
       "union-von-lublin",
@@ -1882,8 +1882,8 @@
   },
   {
     "id": "tapu",
-    "term": "Tapu",
-    "definition": "Polynesischer Begriff für das Heilige und Verbotene, von dem das Wort „Tabu“ stammt; auf Hawaiʻi lautet er „kapu“. Tapu lag auf Personen, Orten und Dingen, die mit Göttern oder Mana verbunden waren, und wer es verletzte, musste mit Unglück oder Strafe rechnen. James Cook brachte das Wort aus Tonga nach Europa.",
+    "term": "تابو",
+    "definition": "مصطلح بولينيزي يدل على المقدّس والمحظور، ومنه اشتُقت كلمة «تابو»؛ وفي هاواي يُقال «كابو». وكان التابو يقع على البشر والأماكن والأشياء المرتبطة بالآلهة أو بالمانا، ومن انتهكه كان عليه أن يتوقع سوء الحظ أو العقاب. وقد نقل جيمس كوك الكلمة من تونغا إلى أوروبا.",
     "epochId": "ozeanien-pazifik",
     "related": [
       "aufhebung-des-kapu",
@@ -1893,8 +1893,8 @@
   },
   {
     "id": "terra-nullius",
-    "term": "Terra nullius",
-    "definition": "Lateinisch für „Niemandsland“: die Rechtsvorstellung, ein Gebiet gehöre niemandem und dürfe deshalb ohne Vertrag in Besitz genommen werden. Der Begriff kam erst später in Gebrauch, beschreibt aber die Grundlage der britischen Inbesitznahme Australiens ab 1788, bei der das Land der Aborigines ohne Abkommen und Entschädigung der Krone zugeschlagen wurde. 1992 verwarf der Oberste Gerichtshof Australiens im Mabo-Urteil diese Annahme und erkannte erstmals Landrechte der Ureinwohner an.",
+    "term": "تيرا نوليوس",
+    "definition": "عبارة لاتينية تعني «أرض لا يملكها أحد»: الفكرة القانونية القائلة إن إقليمًا لا ينتمي إلى أحد ولذلك يجوز الاستيلاء عليه دون معاهدة. ولم يُستعمل المصطلح نفسه إلا لاحقًا، لكنه يصف أساس استيلاء بريطانيا على أستراليا منذ عام 1788، حين ضُمّت أراضي السكان الأصليين إلى التاج دون اتفاق أو تعويض. وفي عام 1992 رفضت المحكمة العليا الأسترالية هذا الافتراض في قرار مابو، واعترفت لأول مرة بحق ملكية السكان الأصليين للأرض.",
     "epochId": "ozeanien-pazifik",
     "related": [
       "ankunft-der-first-fleet",
@@ -1904,8 +1904,8 @@
   },
   {
     "id": "themenverfassung",
-    "term": "Themen",
-    "definition": "Die Militärbezirke, in die das Byzantinische Reich seit dem 7. Jahrhundert gegliedert wurde. An ihrer Spitze stand ein Stratege, der zugleich militärische und zivile Gewalt ausübte; die Soldaten stammten oft aus dem jeweiligen Bezirk. Wann und wie diese Ordnung entstand, ob unter Herakleios oder schrittweise danach, ist in der Forschung umstritten.",
+    "term": "الثيمات",
+    "definition": "الأقاليم العسكرية التي قُسّمت إليها الإمبراطورية البيزنطية منذ القرن السابع. وكان على رأس كل منها «ستراتيغوس» يمارس السلطتين العسكرية والمدنية معًا؛ وكثيرًا ما كان الجنود من أهل الإقليم نفسه. أما متى نشأ هذا النظام وكيف، أفي عهد هرقل أم تدريجيًا بعده، فموضع جدل بين المؤرخين.",
     "epochId": "byzanz",
     "related": [
       "herakleios",
@@ -1915,8 +1915,8 @@
   },
   {
     "id": "theravada",
-    "term": "Theravada-Buddhismus",
-    "definition": "„Lehre der Älteren“; die Richtung des Buddhismus, die sich auf den Pali-Kanon stützt und das Mönchtum in den Mittelpunkt stellt. Sie gelangte vor allem aus Sri Lanka nach Südostasien und wurde ab dem 11. Jahrhundert in Pagan, später in Sukhothai, Ayutthaya, Laos und Kambodscha vorherrschend. Bis heute ist sie die wichtigste Religion in Myanmar, Thailand, Laos und Kambodscha.",
+    "term": "بوذية الثيرافادا",
+    "definition": "«تعاليم الشيوخ»؛ فرع البوذية المستند إلى القانون البالي، الذي يضع الحياة الرهبانية في المركز. ووصل إلى جنوب شرق آسيا أساسًا من سريلانكا، وصار منذ القرن الحادي عشر سائدًا في باغان، ثم في سوخوثاي وأيوتهايا ولاوس وكمبوديا. ولا يزال الدين الرئيسي في ميانمار وتايلاند ولاوس وكمبوديا حتى اليوم.",
     "epochId": "suedostasien",
     "related": [
       "anawrahta-eint-pagan",
@@ -1927,8 +1927,8 @@
   },
   {
     "id": "thing",
-    "term": "Thing",
-    "definition": "Die Versammlung der freien Männer in den germanischen und skandinavischen Gesellschaften, auf der Recht gesprochen, Streit geschlichtet und über gemeinsame Angelegenheiten beschlossen wurde. Es gab örtliche Things und große Landesversammlungen wie das isländische Althing oder das norwegische Gulating. Das Wort lebt in Parlamentsnamen wie Storting, Folketing und Alþingi weiter.",
+    "term": "الثينغ",
+    "definition": "مجلس الرجال الأحرار في المجتمعات الجرمانية والإسكندنافية، كان يُقضى فيه بالعدل وتُفضّ النزاعات وتُتخذ القرارات في الشؤون المشتركة. وكانت هناك مجالس ثينغ محلية ومجالس إقليمية كبيرة مثل الألثينغ الآيسلندي أو الغولاتينغ النرويجي. ولا تزال الكلمة حية في أسماء برلمانات مثل الستورتينغ والفولكتينغ والألثينغ.",
     "epochId": "wikinger-nordeuropa",
     "related": [
       "gruendung-des-althing",
@@ -1938,8 +1938,8 @@
   },
   {
     "id": "timar",
-    "term": "Timar",
-    "definition": "Ein Lehen, bei dem ein Reiter, der Sipahi, die Steuereinkünfte bestimmter Dörfer erhielt und dafür mit Ausrüstung und Gefolge in den Krieg ziehen musste. Das Land blieb Eigentum des Staates und war nicht erblich. Seit dem späten 16. Jahrhundert verlor das Timar-System an Bedeutung und wurde zunehmend durch Steuerpachten ersetzt.",
+    "term": "التيمار",
+    "definition": "إقطاع كان الفارس، السباهي، ينال بموجبه عائدات الضرائب من قرى معيّنة، وعليه في المقابل أن يخرج إلى الحرب بعتاده وأتباعه. وظلت الأرض ملكًا للدولة ولم تكن وراثية. ومنذ أواخر القرن السادس عشر فقد نظام التيمار أهميته، وحلّ محله على نحو متزايد نظام الالتزام الضريبي.",
     "epochId": "osmanisches-reich",
     "related": [
       "osmanen-fassen-fuss-in-europa",
@@ -1949,8 +1949,8 @@
   },
   {
     "id": "tlatoani",
-    "term": "Tlatoani",
-    "definition": "Titel der Herrscher in den Stadtstaaten Zentralmexikos; das Nahuatl-Wort bedeutet „der Sprechende“. Der Tlatoani von Tenochtitlan wurde von einem Rat aus den Männern der Herrscherfamilie gewählt und war oberster Feldherr, Richter und Vermittler zu den Göttern. Als Huey Tlatoani, großer Sprecher, stand er an der Spitze des Dreibunds.",
+    "term": "التلاتواني",
+    "definition": "لقب الحكام في دول المدن في وسط المكسيك؛ وتعني الكلمة بلغة الناواتل «المتكلّم». وكان تلاتواني تينوتشتيتلان يُختار من قِبل مجلس من بين رجال الأسرة الحاكمة، وكان القائد الأعلى والقاضي والوسيط مع الآلهة. وبوصفه «هوي تلاتواني»، أي المتكلّم الأكبر، وقف على رأس التحالف الثلاثي.",
     "epochId": "amerika-vorkolumbisch",
     "related": [
       "itzcoatl",
@@ -1961,8 +1961,8 @@
   },
   {
     "id": "totaler-krieg",
-    "term": "Totaler Krieg",
-    "definition": "Ein Krieg, in dem ein Staat alle Menschen, Wirtschaftskräfte und Ressourcen für den Kampf mobilisiert und die Grenze zwischen Soldaten und Zivilisten verschwimmt. Der Erste Weltkrieg gilt als erster totaler Krieg: Fabriken produzierten nur noch für die Front, Frauen ersetzten die Männer in der Arbeit, und Blockaden ließen die Zivilbevölkerung hungern. Propaganda und Zensur sollten den Durchhaltewillen sichern.",
+    "term": "الحرب الشاملة",
+    "definition": "حرب تعبّئ فيها الدولة كل سكانها وقواها الاقتصادية ومواردها للقتال، ويتلاشى فيها الحد الفاصل بين الجنود والمدنيين. وتُعد الحرب العالمية الأولى أول حرب شاملة: فقد أنتجت المصانع للجبهة وحدها، وحلّت النساء محل الرجال في العمل، وتركت أعمال الحصار المدنيين يعانون الجوع. وكان الهدف من الدعاية والرقابة ضمان إرادة الصمود.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "schlacht-um-verdun",
@@ -1972,8 +1972,8 @@
   },
   {
     "id": "tragoedie",
-    "term": "Tragödie",
-    "definition": "Ein ernstes Drama, das im Athen des 5. Jahrhunderts v. Chr. aus den Chorgesängen zu Ehren des Dionysos entstand. Die Tragödien von Aischylos, Sophokles und Euripides zeigen Helden aus Mythos und Geschichte im Konflikt mit Göttern, Gesetz und Schicksal und wurden bei Wettbewerben vor tausenden Bürgern aufgeführt.",
+    "term": "التراجيديا (المأساة)",
+    "definition": "دراما جادة نشأت في أثينا في القرن الخامس ق.م من الأناشيد الجماعية تكريمًا لديونيسوس. وتُظهر تراجيديات إسخيلوس وسوفوكليس ويوربيديس أبطالًا من الأساطير والتاريخ في صراع مع الآلهة والقانون والقدر، وكانت تُعرض في مسابقات أمام آلاف المواطنين.",
     "epochId": "antike-griechenland",
     "related": [
       "aischylos-und-die-tragoedie",
@@ -1982,8 +1982,8 @@
   },
   {
     "id": "transsaharahandel",
-    "term": "Transsaharahandel",
-    "definition": "Fernhandel mit Kamelkarawanen durch die Sahara zwischen Nordafrika und Westafrika. Aus dem Süden kamen vor allem Gold, Elfenbein und Sklaven, aus dem Norden Salz, Pferde, Stoffe und Bücher; mit den Händlern verbreitete sich auch der Islam. Der Handel bildete die Grundlage der Reiche Ghana, Mali und Songhai.",
+    "term": "التجارة عبر الصحراء الكبرى",
+    "definition": "تجارة بعيدة المدى بقوافل الجمال عبر الصحراء الكبرى بين شمال أفريقيا وغربها. فمن الجنوب جاء أساسًا الذهب والعاج والرقيق، ومن الشمال الملح والخيول والأقمشة والكتب؛ وانتشر الإسلام أيضًا مع التجار. وشكّلت هذه التجارة أساس إمبراطوريات غانا ومالي وسونغاي.",
     "epochId": "afrikanische-reiche",
     "related": [
       "al-bakri-beschreibt-ghana",
@@ -1993,8 +1993,8 @@
   },
   {
     "id": "traumzeit",
-    "term": "Traumzeit",
-    "definition": "Übersetzung (englisch „Dreaming“) für die Weltdeutungen der Aborigines, nach denen Ahnenwesen in einer Schöpfungszeit Landschaft, Lebewesen, Gesetze und Bräuche schufen. Diese Zeit gilt nicht als abgeschlossene Vergangenheit, sondern ist in Orten, Liedern, Tänzen und Zeremonien gegenwärtig. Sie verbindet Menschen mit bestimmten Landstücken, für die sie Verantwortung tragen; die einzelnen Sprachgruppen haben dafür eigene Begriffe wie „Jukurrpa“ bei den Warlpiri.",
+    "term": "زمن الحلم",
+    "definition": "المصطلح الشائع لتصورات السكان الأصليين في أستراليا عن العالم، التي ترى أن كائنات سلفية خلقت المشهد الطبيعي والكائنات الحية والقوانين والعادات في زمن للخلق. ولا يُنظر إلى هذا الزمن على أنه ماضٍ منقضٍ، بل هو حاضر في الأماكن والأغاني والرقصات والطقوس. وهو يربط الناس بمناطق محددة من الأرض هم مسؤولون عنها؛ ولكل مجموعة لغوية مصطلحها الخاص له، مثل «جوكوربا» عند الوارلبيري.",
     "epochId": "ozeanien-pazifik",
     "related": [
       "besiedlung-australiens",
@@ -2004,8 +2004,8 @@
   },
   {
     "id": "tributsystem",
-    "term": "Tributsystem",
-    "definition": "Ordnung der Beziehungen zwischen China und seinen Nachbarn, in der fremde Herrscher Gesandte mit Geschenken an den Kaiserhof schickten und ihn damit formal als Oberherrn anerkannten. Im Gegenzug erhielten sie wertvolle Gegengeschenke, Handelsrechte und Schutz; Länder wie Korea, Vietnam und Malakka blieben dabei weitgehend selbstständig.",
+    "term": "نظام الجزية",
+    "definition": "إطار العلاقات بين الصين وجيرانها، الذي كان الحكام الأجانب يرسلون فيه مبعوثين بالهدايا إلى البلاط الإمبراطوري، ويعترفون بذلك شكليًا بالإمبراطور سيدًا أعلى لهم. وفي المقابل حصلوا على هدايا ثمينة وحقوق تجارية وحماية؛ وظلت بلدان مثل كوريا وفيتنام وملقا مستقلة إلى حد كبير.",
     "epochId": "asiatische-grossreiche",
     "related": [
       "fahrten-des-zheng-he",
@@ -2015,8 +2015,8 @@
   },
   {
     "id": "tyrannis",
-    "term": "Tyrannis",
-    "definition": "Die Alleinherrschaft eines Mannes, der die Macht ohne rechtliche Grundlage, meist mit Gewalt oder Unterstützung des Volkes gegen den Adel, an sich riss. Im 7. und 6. Jahrhundert v. Chr. herrschten Tyrannen in vielen griechischen Städten und förderten oft Wirtschaft und Kunst; erst später wurde der Begriff zum Ausdruck für Gewaltherrschaft.",
+    "term": "الطغيان",
+    "definition": "الحكم الفردي لرجل استولى على السلطة دون أي أساس قانوني، عادةً بالقوة أو بدعم من الشعب ضد النبلاء. وفي القرنين السابع والسادس ق.م حكم الطغاة في مدن إغريقية كثيرة، وكثيرًا ما شجّعوا الاقتصاد والفنون؛ ولم يصبح المصطلح تعبيرًا عن الاستبداد العنيف إلا لاحقًا.",
     "epochId": "antike-griechenland",
     "related": [
       "tyrannis-der-peisistratiden",
@@ -2025,8 +2025,8 @@
   },
   {
     "id": "vernichtungskrieg",
-    "term": "Vernichtungskrieg",
-    "definition": "Bezeichnung für den deutschen Krieg gegen die Sowjetunion ab 1941, der von Beginn an nicht nur auf militärischen Sieg, sondern auf die Vernichtung des Staates, die Ermordung der Juden und kommunistischen Funktionäre und den Hungertod von Millionen Zivilisten und Kriegsgefangenen zielte. Befehle wie der Kommissarbefehl hoben das Kriegsrecht auf. Die Wehrmacht war daran unmittelbar beteiligt.",
+    "term": "حرب الإبادة",
+    "definition": "مصطلح يدل على الحرب الألمانية على الاتحاد السوفيتي منذ عام 1941، التي لم تهدف منذ البداية إلى النصر العسكري فحسب، بل إلى تدمير الدولة وقتل اليهود والموظفين الشيوعيين وتجويع ملايين المدنيين وأسرى الحرب حتى الموت. وعلّقت أوامر مثل «أمر المفوضين» قانونَ الحرب. وشارك الفيرماخت في ذلك مشاركة مباشرة.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "angriff-auf-die-sowjetunion",
@@ -2036,8 +2036,8 @@
   },
   {
     "id": "vizekoenigreich",
-    "term": "Vizekönigreich",
-    "definition": "Größte Verwaltungseinheit des spanischen Kolonialreichs, an deren Spitze ein Vizekönig als persönlicher Stellvertreter des Königs stand. Zuerst entstanden Neuspanien (1535) und Peru (1542), im 18. Jahrhundert kamen Neugranada und Río de la Plata hinzu. Auch Portugal ernannte für Brasilien später Vizekönige.",
+    "term": "نيابة الملك",
+    "definition": "أكبر وحدة إدارية في الإمبراطورية الاستعمارية الإسبانية، يرأسها نائب الملك بوصفه الممثل الشخصي للملك. وكانت إسبانيا الجديدة (1535) والبيرو (1542) أولاها، وأضيفت غرناطة الجديدة وريو دي لا بلاتا في القرن الثامن عشر. وعيّنت البرتغال لاحقًا أيضًا نوابًا للملك في البرازيل.",
     "epochId": "lateinamerika",
     "related": [
       "vizekoenigreich-neuspanien",
@@ -2046,8 +2046,8 @@
   },
   {
     "id": "voc",
-    "term": "VOC (Niederländische Ostindien-Kompanie)",
-    "definition": "Die Vereinigte Ostindische Kompanie, 1602 gegründet, war eine Handelsgesellschaft mit dem niederländischen Monopol für den Asienhandel und dem Recht, Festungen zu bauen, Soldaten zu halten und Verträge zu schließen. Von Batavia aus beherrschte sie den Gewürzhandel und große Teile Javas. Sie gilt als eine der ersten Aktiengesellschaften und wurde 1799 aufgelöst.",
+    "term": "VOC (شركة الهند الشرقية الهولندية)",
+    "definition": "شركة الهند الشرقية المتحدة، التي تأسست عام 1602، شركة تجارية احتكرت التجارة الهولندية مع آسيا، وكان لها حق بناء الحصون والاحتفاظ بالجنود وإبرام المعاهدات. ومن باتافيا هيمنت على تجارة التوابل وأجزاء كبيرة من جاوة. وتُعد من أوائل الشركات المساهمة، وقد حُلّت عام 1799.",
     "epochId": "suedostasien",
     "related": [
       "voc-gruendet-batavia",
@@ -2057,8 +2057,8 @@
   },
   {
     "id": "voelkerbundsmandat",
-    "term": "Völkerbundsmandat",
-    "definition": "Ein Gebiet, das nach dem Ersten Weltkrieg aus dem Besitz Deutschlands oder des Osmanischen Reiches herausgelöst und im Auftrag des Völkerbundes von einer Siegermacht verwaltet wurde, angeblich bis zur Reife für die Selbstständigkeit. Großbritannien erhielt Palästina, Irak und Transjordanien, Frankreich Syrien und Libanon, die deutschen Kolonien gingen an Großbritannien, Frankreich, Belgien, Japan und andere. In der Praxis unterschieden sich Mandate kaum von Kolonien.",
+    "term": "انتداب عصبة الأمم",
+    "definition": "إقليم فُصل بعد الحرب العالمية الأولى عن ممتلكات ألمانيا أو الدولة العثمانية، وأدارته دولة منتصرة نيابةً عن عصبة الأمم، زعمًا حتى يصبح مهيّأً للاستقلال. فحصلت بريطانيا العظمى على فلسطين والعراق وشرق الأردن، وفرنسا على سوريا ولبنان؛ وذهبت المستعمرات الألمانية إلى بريطانيا العظمى وفرنسا وبلجيكا واليابان وغيرها. وفي الواقع لم تكد الانتدابات تختلف عن المستعمرات.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "balfour-erklaerung",
@@ -2068,8 +2068,8 @@
   },
   {
     "id": "voelkerwanderung",
-    "term": "Völkerwanderung",
-    "definition": "Die Zeit vom Einfall der Hunnen um 375 bis etwa 568, in der germanische Völker wie Goten, Vandalen, Franken und Langobarden in das Römische Reich eindrangen und dort eigene Reiche gründeten. Sie führte zum Untergang Westroms 476 und zur Entstehung der mittelalterlichen Staaten Europas; die Ursachen waren Landsuche, Bevölkerungsdruck und der Druck der Hunnen.",
+    "term": "عصر هجرات الشعوب",
+    "definition": "الفترة الممتدة من غزو الهون نحو عام 375 حتى نحو عام 568، التي اندفعت فيها شعوب جرمانية مثل القوط والوندال والفرنجة واللومبارد إلى الإمبراطورية الرومانية وأسست فيها ممالك خاصة بها. وأدت إلى سقوط الإمبراطورية الرومانية الغربية عام 476 وإلى نشوء دول العصور الوسطى في أوروبا؛ وكانت أسبابها البحث عن الأرض والضغط السكاني وضغط الهون.",
     "epochId": "rom",
     "related": [
       "pluenderung-roms-410",
@@ -2079,8 +2079,8 @@
   },
   {
     "id": "volkssouveraenitaet",
-    "term": "Volkssouveränität",
-    "definition": "Der Grundsatz, dass alle Staatsgewalt vom Volk ausgeht und Herrscher ihre Macht nur als Beauftragte des Volkes ausüben. Er wurde von Rousseau formuliert, 1776 in der amerikanischen Unabhängigkeitserklärung und 1789 in der Erklärung der Menschen- und Bürgerrechte verankert und ersetzte das Gottesgnadentum der Könige. Volkssouveränität ist bis heute die Grundlage demokratischer Verfassungen.",
+    "term": "سيادة الشعب",
+    "definition": "المبدأ القائل إن كل سلطة في الدولة مصدرها الشعب، وإن الحكام لا يمارسون سلطتهم إلا وكلاءَ عنه. وقد صاغه روسو، ورُسّخ عام 1776 في إعلان الاستقلال الأمريكي وعام 1789 في إعلان حقوق الإنسان والمواطن، وحلّ محل الحق الإلهي للملوك. ولا تزال سيادة الشعب حتى اليوم أساس الدساتير الديمقراطية.",
     "epochId": "revolutionen",
     "related": [
       "amerikanische-unabhaengigkeitserklaerung",
@@ -2090,8 +2090,8 @@
   },
   {
     "id": "vormaerz",
-    "term": "Vormärz",
-    "definition": "Die Zeit in Deutschland zwischen dem Wiener Kongress 1815 und der Märzrevolution 1848, in der liberale und nationale Bewegungen trotz Zensur und Verfolgung wuchsen. Burschenschaften, das Hambacher Fest, Schriftsteller wie Heine und Büchner und Aufstände wie der der schlesischen Weber prägten diese Jahre. Der Begriff blickt von der Revolution von 1848 aus zurück auf die Zeit davor.",
+    "term": "ما قبل مارس (فورمرتس)",
+    "definition": "الفترة في ألمانيا بين مؤتمر فيينا عام 1815 وثورة مارس عام 1848، التي نمت فيها الحركات الليبرالية والقومية رغم الرقابة والاضطهاد. وطبعت هذه السنوات الروابطُ الطلابية واحتفال هامباخ وكتّاب مثل هاينه وبوشنر وانتفاضات مثل انتفاضة نساجي سيليزيا. وينظر المصطلح من ثورة 1848 إلى الزمن الذي سبقها.",
     "epochId": "revolutionen",
     "related": [
       "hambacher-fest",
@@ -2101,8 +2101,8 @@
   },
   {
     "id": "waraeger",
-    "term": "Waräger",
-    "definition": "Ostslawische und byzantinische Bezeichnung für skandinavische Händler und Krieger, die im 9. und 10. Jahrhundert die Flusswege zwischen Ostsee und Schwarzem Meer befuhren. Sie spielten bei der Entstehung der Kiewer Rus eine wichtige Rolle und dienten in Byzanz als kaiserliche Leibgarde. Wie groß ihr Anteil an der Staatsbildung war, ist umstritten.",
+    "term": "الفارانجيون",
+    "definition": "الاسم السلافي الشرقي والبيزنطي للتجار والمحاربين الإسكندنافيين الذين جابوا الطرق النهرية بين بحر البلطيق والبحر الأسود في القرنين التاسع والعاشر. وأدّوا دورًا مهمًا في نشأة روس الكييفية، وخدموا في بيزنطة حرسًا شخصيًا للإمبراطور. أما حجم إسهامهم في تكوين الدولة فموضع خلاف.",
     "epochId": "russland-osteuropa",
     "related": [
       "rjurik-und-die-berufung-der-waraeger",
@@ -2112,8 +2112,8 @@
   },
   {
     "id": "weimarer-republik",
-    "term": "Weimarer Republik",
-    "definition": "Bezeichnung für den deutschen Staat von 1918 bis 1933, benannt nach der Stadt Weimar, in der die Nationalversammlung 1919 die Verfassung beschloss. Die erste deutsche Demokratie stand von Beginn an unter dem Druck von Versailler Vertrag, Inflation, Putschen und politischer Gewalt. Nach kurzer Stabilisierung in den Goldenen Zwanzigern zerbrach sie an der Weltwirtschaftskrise und endete mit Hitlers Ernennung zum Reichskanzler.",
+    "term": "جمهورية فايمار",
+    "definition": "الاسم الذي يُطلق على الدولة الألمانية من 1918 إلى 1933، نسبةً إلى مدينة فايمار حيث أقرّت الجمعية الوطنية الدستور عام 1919. ووقفت أول ديمقراطية ألمانية منذ البداية تحت ضغط معاهدة فرساي والتضخم ومحاولات الانقلاب والعنف السياسي. وبعد استقرار قصير في العشرينيات الذهبية انهارت تحت وطأة الكساد الكبير، وانتهت بتعيين هتلر مستشارًا للرايخ.",
     "epochId": "erster-weltkrieg-zwischenkriegszeit",
     "related": [
       "weimarer-verfassung",
@@ -2124,8 +2124,8 @@
   },
   {
     "id": "wetsche",
-    "term": "Wetsche",
-    "definition": "Die Volksversammlung der freien Männer in Städten der Rus, besonders in Nowgorod und Pskow. In Nowgorod wählte das Wetsche Bürgermeister und Erzbischof, entschied über Krieg und Frieden und konnte Fürsten berufen und absetzen. Mit der Unterwerfung Nowgorods durch Moskau 1478 wurde es abgeschafft.",
+    "term": "الفيتشه",
+    "definition": "مجلس الرجال الأحرار في مدن الروس، ولا سيما في نوفغورود وبسكوف. وفي نوفغورود كان الفيتشه ينتخب العمدة ورئيس الأساقفة، ويقرر في الحرب والسلم، ويمكنه استدعاء الأمراء وعزلهم. وأُلغي حين أخضعت موسكو نوفغورود عام 1478.",
     "epochId": "russland-osteuropa",
     "related": [
       "moskau-unterwirft-nowgorod",
@@ -2135,8 +2135,8 @@
   },
   {
     "id": "wettlauf-um-afrika",
-    "term": "Wettlauf um Afrika",
-    "definition": "Die rasche Aufteilung fast des gesamten afrikanischen Kontinents unter europäische Kolonialmächte zwischen etwa 1880 und 1914. Die Berliner Konferenz von 1884/85 legte die Spielregeln fest, ohne dass Afrikaner beteiligt waren. Grenzen wurden am Reißbrett gezogen und bestehen vielfach bis heute.",
+    "term": "التدافع على أفريقيا",
+    "definition": "التقسيم السريع للقارة الأفريقية كلها تقريبًا بين القوى الاستعمارية الأوروبية بين نحو 1880 و1914. ووضع مؤتمر برلين 1884/1885 قواعد اللعبة دون مشاركة أي أفريقي. ورُسمت الحدود على طاولة الرسم، ولا يزال كثير منها قائمًا حتى اليوم.",
     "epochId": "industrialisierung-imperialismus",
     "related": [
       "berliner-konferenz-afrika",
@@ -2146,8 +2146,8 @@
   },
   {
     "id": "widerstand",
-    "term": "Widerstand",
-    "definition": "Sammelbegriff für alle Formen der Gegnerschaft gegen das NS-Regime, von der Verweigerung des Hitlergrußes über Flugblätter und das Verstecken von Verfolgten bis zu Attentaten und Umsturzplänen. Getragen wurde er von Kommunisten und Sozialdemokraten, Christen, Studenten, Offizieren und Einzelgängern wie Georg Elser, blieb aber immer eine kleine Minderheit. In den besetzten Ländern kämpften Partisanen und Untergrundbewegungen wie die Résistance gegen die deutsche Herrschaft.",
+    "term": "المقاومة",
+    "definition": "مصطلح جامع لكل أشكال المعارضة للنظام النازي، من رفض أداء التحية الهتلرية مرورًا بالمنشورات وإخفاء الملاحَقين وصولًا إلى محاولات الاغتيال وخطط الانقلاب. وحمل لواءها شيوعيون واشتراكيون ديمقراطيون ومسيحيون وطلاب وضباط وأفراد منفردون مثل غيورغ إلسر، لكنها ظلت دائمًا أقلية صغيرة. وفي البلدان المحتلة قاتل المقاتلون الأنصار وحركات سرية مثل المقاومة الفرنسية الحكمَ الألماني.",
     "epochId": "zweiter-weltkrieg",
     "related": [
       "attentat-vom-20-juli-1944",
@@ -2158,8 +2158,8 @@
   },
   {
     "id": "zar",
-    "term": "Zar",
-    "definition": "Herrschertitel, abgeleitet vom lateinischen „Caesar“, den in Russland erstmals Iwan IV. 1547 bei seiner Krönung führte. Er stellte den Moskauer Herrscher auf eine Stufe mit dem byzantinischen Kaiser und betonte seine unbeschränkte, von Gott verliehene Macht. Seit 1721 lautete der offizielle Titel Kaiser, doch der Begriff Zar blieb bis 1917 gebräuchlich.",
+    "term": "القيصر",
+    "definition": "لقب للحكام مشتق من الكلمة اللاتينية «قيصر» (Caesar)، حمله في روسيا لأول مرة إيفان الرابع عند تتويجه عام 1547. ووضع حاكم موسكو في منزلة الإمبراطور البيزنطي، وأكّد سلطته المطلقة الممنوحة من الله. ومنذ عام 1721 صار اللقب الرسمي «الإمبراطور»، لكن مصطلح القيصر ظل شائع الاستعمال حتى عام 1917.",
     "epochId": "russland-osteuropa",
     "related": [
       "iwan-iv-wird-zar",
@@ -2169,8 +2169,8 @@
   },
   {
     "id": "zikkurat",
-    "term": "Zikkurat",
-    "definition": "Ein gestufter Tempelturm aus Lehmziegeln in Mesopotamien, auf dessen Spitze ein Heiligtum des Stadtgottes stand. Die Zikkurat von Ur aus der Zeit um 2100 v. Chr. ist die am besten erhaltene; der biblische Turm zu Babel geht auf die Zikkurat von Babylon zurück.",
+    "term": "الزقورة",
+    "definition": "برج معبد مدرّج من الطوب اللبن في بلاد الرافدين، يقوم على قمته معبد لإله المدينة. وزقورة أور، التي تعود إلى نحو عام 2100 ق.م، هي الأفضل حفظًا؛ ويعود برج بابل التوراتي إلى زقورة بابل.",
     "epochId": "fruehe-hochkulturen",
     "related": [
       "stadtstaaten-sumers-und-ur-standarte",

@@ -1,37 +1,37 @@
 [
   {
     "id": "europa",
-    "name": "Europa",
+    "name": "أوروبا",
     "color": "#3b82f6"
   },
   {
     "id": "naher-osten",
-    "name": "Naher Osten",
+    "name": "الشرق الأوسط",
     "color": "#f59e0b"
   },
   {
     "id": "afrika",
-    "name": "Afrika",
+    "name": "أفريقيا",
     "color": "#10b981"
   },
   {
     "id": "asien",
-    "name": "Asien",
+    "name": "آسيا",
     "color": "#ef4444"
   },
   {
     "id": "amerika",
-    "name": "Amerika",
+    "name": "الأمريكتان",
     "color": "#8b5cf6"
   },
   {
     "id": "ozeanien",
-    "name": "Ozeanien",
+    "name": "أوقيانوسيا",
     "color": "#14b8a6"
   },
   {
     "id": "welt",
-    "name": "Weltweit",
+    "name": "العالم كله",
     "color": "#64748b"
   }
 ]
