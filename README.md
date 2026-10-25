@@ -33,7 +33,7 @@ Dazu kommen die **Zeitleiste** (alle Ereignisse, filterbar nach Epoche, Region, 
 - Installierbar als App (Manifest, Icons, Service Worker), Update-Hinweis bei neuer Version
 - Tastatur- und Screenreader-freundlich, keine externen Abhängigkeiten
 - Werbefinanziert (seit 1.2.0): AdMob in den Apps, optional AdSense im Web, siehe `docs/WERBUNG.md`
-- Zweisprachig (Deutsch, Englisch): Umschalter in der Kopfzeile, Auswahl bleibt gespeichert, Gerätesprache wird beim ersten Start erkannt
+- 15 Sprachen (Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch, Chinesisch, Koreanisch, Türkisch, Polnisch, Niederländisch, Indonesisch, Arabisch): Umschalter in der Kopfzeile, Auswahl bleibt gespeichert, Gerätesprache wird beim ersten Start erkannt. Arabisch läuft von rechts nach links (`dir="rtl"`, das CSS nutzt nur logische Eigenschaften wie `margin-inline-start`)
 
 ## Lokal starten
 
@@ -87,7 +87,7 @@ Inhalte lassen sich auch als einzelne Epochen-Dateien (`<slug>.json` plus Ergän
 
 ## Sprachen
 
-Deutsch ist die Referenz; Englisch ist vollständig übersetzt. Französisch, Spanisch, Italienisch und Portugiesisch sind in `js/i18n.js` mit `ready: false` angelegt und erscheinen erst im Umschalter, wenn Inhalte und Oberflächentexte vorliegen.
+Deutsch ist die Referenz; alle 15 Sprachen sind vollständig übersetzt (Inhalte aus der englischen Fassung, Ablauf in `translate/`). Eine Sprache mit `ready: false` in `js/i18n.js` erscheint nicht im Umschalter. Für Rechts-nach-links-Sprachen `rtl: true` setzen; im CSS keine physischen `left`/`right`-Abstände verwenden.
 
 | Ort | Inhalt |
 |-----|--------|
