@@ -14,5 +14,6 @@ import tr from './strings/tr.js';
 import pl from './strings/pl.js';
 import nl from './strings/nl.js';
 import id from './strings/id.js';
+import ar from './strings/ar.js';
 
-export const STRINGS = { de, en, fr, es, it, pt, ru, ja, zh, ko, tr, pl, nl, id };
+export const STRINGS = { de, en, fr, es, it, pt, ru, ja, zh, ko, tr, pl, nl, id, ar };

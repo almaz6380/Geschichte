@@ -23,8 +23,8 @@ Zwischendateien nur in einem eigenen Unterordner von
 - Grenzen: name ≤ 30, subtitle ≤ 30, play_title ≤ 30, short ≤ 80, promo ≤ 170, keywords ≤ 100 Zeichen
   (kommagetrennt, ohne Leerzeichen nach dem Komma, keine Wörter, die schon im Namen stehen),
   description ≤ 4000. In der Beschreibung die Sprachliste um die neue Sprache erweitern: Die App gibt es
-  dann in 14 Sprachen: Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch,
-  Japanisch, Chinesisch, Koreanisch, Türkisch, Polnisch, Niederländisch, Indonesisch.
+  dann in 15 Sprachen: Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch,
+  Japanisch, Chinesisch, Koreanisch, Türkisch, Polnisch, Niederländisch, Indonesisch, Arabisch.
 - whatsnew: „<App> gibt es jetzt auf <Sprache>.“ + 1 Satz zu den 25 Epochen (≤ 400 Zeichen).
 - display_name: kurzer App-Name für den Homescreen (≤ 12 Zeichen).
 - att: Text der iOS-Tracking-Abfrage, sinngemäß wie in store-es.json.

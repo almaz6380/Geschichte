@@ -57,7 +57,7 @@ const browser = await chromium.launch();
 try {
   for (const d of DEVICES) {
     mkdirSync(path.join(OUT, d.dir), { recursive: true });
-    const ctx = await browser.newContext({ viewport: { width: d.width, height: d.height }, deviceScaleFactor: d.scale, isMobile: d.width < 700, hasTouch: true, locale: { de: 'de-DE', en: 'en-US', pt: 'pt-BR', zh: 'zh-CN', ko: 'ko-KR', id: 'id-ID' }[LANG] || `${LANG}-${LANG.toUpperCase()}` });
+    const ctx = await browser.newContext({ viewport: { width: d.width, height: d.height }, deviceScaleFactor: d.scale, isMobile: d.width < 700, hasTouch: true, locale: { de: 'de-DE', en: 'en-US', pt: 'pt-BR', zh: 'zh-CN', ko: 'ko-KR', id: 'id-ID', ar: 'ar-SA' }[LANG] || `${LANG}-${LANG.toUpperCase()}` });
     const page = await ctx.newPage();
     // Native Optik: kein Installieren-Button
     await page.addInitScript((lang) => {
@@ -77,7 +77,7 @@ try {
   // Funktionsgrafik 1024×500 für Google Play
   const uri = 'data:image/png;base64,' + readFileSync(path.join(ROOT, 'icons', 'icon-source.png')).toString('base64');
   const page = await browser.newPage({ viewport: { width: 1024, height: 500 } });
-  await page.setContent(`<html><body style="margin:0"><div style="width:1024px;height:500px;background:linear-gradient(135deg,#d97706,#7c2d12);display:flex;align-items:center;justify-content:center;gap:48px;font-family:Georgia,serif;color:#fff7ed">
+  await page.setContent(`<html dir="${LANG === 'ar' ? 'rtl' : 'ltr'}"><body style="margin:0"><div style="width:1024px;height:500px;background:linear-gradient(135deg,#d97706,#7c2d12);display:flex;align-items:center;justify-content:center;gap:48px;font-family:Georgia,serif;color:#fff7ed">
     <img src="${uri}" style="width:280px;height:280px;border-radius:62px;box-shadow:0 20px 60px rgba(0,0,0,.35)">
     <div><div style="font-size:64px;font-weight:700;letter-spacing:-1px">${FEATURE.title}</div><div style="font-size:30px;opacity:.9;margin-top:8px">${FEATURE.line1}</div><div style="font-size:24px;opacity:.8;margin-top:18px">${FEATURE.line2}</div></div>
   </div></body></html>`);

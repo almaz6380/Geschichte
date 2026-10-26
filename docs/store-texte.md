@@ -49,7 +49,7 @@ SUCHE UND LESEZEICHEN
 Volltextsuche über alle Inhalte, Lesezeichen für Epochen, Ereignisse und Personen.
 
 KOSTENLOS
-Kostenlos und durch Werbung finanziert. Offline nutzbar, keine Anmeldung, keine In-App-Käufe. Helles und dunkles Farbschema. In 14 Sprachen: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch, Chinesisch, Koreanisch, Türkisch, Polnisch, Niederländisch und Indonesisch.
+Kostenlos und durch Werbung finanziert. Offline nutzbar, keine Anmeldung, keine In-App-Käufe. Helles und dunkles Farbschema. In 15 Sprachen: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Russisch, Japanisch, Chinesisch, Koreanisch, Türkisch, Polnisch, Niederländisch, Indonesisch und Arabisch.
 
 UMFANG
 25 Epochen · 8 Themen · 644 Ereignisse · 326 Personen · 200 Begriffe · 1.300 Quizfragen
@@ -58,6 +58,14 @@ UMFANG
 ## Schlüsselwörter (App Store, max. 100 Zeichen, durch Komma getrennt)
 
 `geschichte,weltgeschichte,lernen,quiz,epochen,zeitleiste,antike,mittelalter,schule,abitur,wissen`
+
+## Versionshinweise (Release Notes) für 1.5.0
+
+```
+Weltgeschichte gibt es jetzt in 15 Sprachen: neu ist Arabisch – mit allen 25 Epochen, Ereignissen, Personen und 1.300 Quizfragen. Die Ansicht läuft auf Arabisch von rechts nach links.
+```
+
+Texte: `store/whatsnew-1.5.0.json` (de-DE, en-US); die übrigen Sprachen stehen als `whatsnew` in `translate/store-<sprache>.json`.
 
 ## Versionshinweise (Release Notes) für 1.2.0
 
@@ -152,7 +160,7 @@ SEARCH AND BOOKMARKS
 Full-text search across all content, bookmarks for epochs, events and people.
 
 FREE
-Free and supported by ads. Works offline, no sign-up, no in-app purchases. Light and dark mode. In 14 languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese, Chinese, Korean, Turkish, Polish, Dutch and Indonesian.
+Free and supported by ads. Works offline, no sign-up, no in-app purchases. Light and dark mode. In 15 languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese, Chinese, Korean, Turkish, Polish, Dutch, Indonesian and Arabic.
 
 AT A GLANCE
 25 epochs · 8 themes · 644 events · 326 people · 200 terms · 1,300 quiz questions
@@ -161,6 +169,12 @@ AT A GLANCE
 ## Keywords (App Store, max. 100 Zeichen)
 
 `history,world history,learn,quiz,timeline,ancient,medieval,rome,school,study,education,knowledge`
+
+## Release notes 1.5.0
+
+```
+World History is now available in 15 languages: new is Arabic – with all 25 epochs, events, people and 1,300 quiz questions. In Arabic, the app reads from right to left.
+```
 
 ## Release notes 1.1.0
 
@@ -171,7 +185,7 @@ Big update: duels with friends by link or on one device, daily challenge with st
 ## Release notes 1.0.0
 
 ```
-First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, search and bookmarks. Works fully offline. In 14 languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese, Chinese, Korean, Turkish, Polish, Dutch and Indonesian.
+First release: 14 epochs, 8 cross-cutting themes, timeline, glossary, quiz, search and bookmarks. Works fully offline, in German and English.
 ```
 
 ## URLs

@@ -20,7 +20,7 @@ on:
       notes:
         description: 'Was-ist-neu-Text (de-DE, max. 500 Zeichen)'
         type: string
-        default: 'Weltgeschichte gibt es jetzt in 14 Sprachen: neu sind Koreanisch, Türkisch, Polnisch, Niederländisch und Indonesisch – mit allen 25 Epochen, Ereignissen, Personen und 1.300 Quizfragen.'
+        default: 'Weltgeschichte gibt es jetzt in 15 Sprachen: neu ist Arabisch – mit allen 25 Epochen, Ereignissen, Personen und 1.300 Quizfragen. Die Ansicht läuft auf Arabisch von rechts nach links.'
       texte:
         description: 'Store-Texte (Kurzbeschreibung, Beschreibung) aus store/store-texte.json setzen'
         type: boolean

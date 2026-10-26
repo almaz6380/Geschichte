@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync, existsSync, readdirSync } from 'node:fs';
 import { READY_CODES, setLang } from '../js/i18n.js';
 import { formatYear, formatRange } from '../js/ui.js';
 import { createSession, relocalize } from '../js/quiz.js';
@@ -72,10 +72,21 @@ test('Startsprache: Gerätesprache, sonst Englisch', async () => {
   const { detectLang } = await import('../js/i18n.js');
   assert.equal(detectLang(['de-AT']), 'de');
   assert.equal(detectLang(['en-US']), 'en');
-  assert.equal(detectLang(['ar', 'he']), 'en');
-  assert.equal(detectLang(['ar', 'de-DE']), 'de');
+  assert.equal(detectLang(['he', 'fa']), 'en');
+  assert.equal(detectLang(['ar-SA']), 'ar');
+  assert.equal(detectLang(['he', 'de-DE']), 'de');
   assert.equal(detectLang(['ko-KR']), 'ko');
   assert.equal(detectLang(['id-ID']), 'id');
   assert.equal(detectLang(['fr-CA']), 'fr');
   assert.equal(detectLang([]), 'en');
+});
+
+test('CSS spiegelt sich für Arabisch: keine physischen Links/Rechts-Abstände', () => {
+  // Erlaubt ist nur die Zentrierung über left: 50% + translateX(-50%).
+  const bad = /(margin|padding|border)-(left|right)\b|text-align:\s*(left|right)|float:\s*(left|right)|(^|[\s;{])(left|right):(?!\s*50%)/;
+  for (const f of readdirSync(new URL('../css/', import.meta.url)).filter((x) => x.endsWith('.css'))) {
+    readFileSync(new URL(`../css/${f}`, import.meta.url), 'utf8').split('\n').forEach((line, i) => {
+      assert.ok(!bad.test(line), `css/${f}:${i + 1} nutzt links/rechts statt inline-start/-end: ${line.trim()}`);
+    });
+  }
 });

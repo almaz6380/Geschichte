@@ -45,6 +45,7 @@
 		A1D0AD0130A0000143180253 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A1D0AD0130A0000114884002 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A1D0AD0130A0000194671781 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A1D0AD0130A0000140214730 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +138,7 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				ar,
 				id,
 				nl,
 				pl,
@@ -217,6 +219,7 @@
 			children = (
 				A1D0AD0130A0000100000003 /* de */,
 				A1D0AD0130A0000100000004 /* en */,
+				A1D0AD0130A0000140214730 /* ar */,
 				A1D0AD0130A0000194671781 /* id */,
 				A1D0AD0130A0000114884002 /* nl */,
 				A1D0AD0130A0000143180253 /* pl */,
@@ -358,7 +361,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4.0;
+				MARKETING_VERSION = 1.5.0;
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" \"-DDEBUG\"";
 				PRODUCT_BUNDLE_IDENTIFIER = de.almaz.weltgeschichte;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -380,7 +383,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4.0;
+				MARKETING_VERSION = 1.5.0;
 				PRODUCT_BUNDLE_IDENTIFIER = de.almaz.weltgeschichte;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
