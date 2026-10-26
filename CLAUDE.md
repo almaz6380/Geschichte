@@ -61,6 +61,13 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
   (westliche Ziffern wie im Inhalt; `ar-SA` gäbe arabisch-indische Ziffern). Pluralformen zero/one/two/few/many/other.
   Store-Sprache ar-SA (Apple und Play). Dazu Sachfehler korrigiert: Algerien stand im Afrikanischen Jahr 1960
   unter den „Siedlerkolonien im Süden“.
+  Web live, Android **versionCode 18 in Produktion (an alle)**. iOS: 1.4.0 (Build 27) lag seit 23.10. ungeprüft
+  in der Warteschlange und wurde zurückgezogen; **Build 28 als 1.5.0 eingereicht** (reviewSubmission `15f75fcd-…`),
+  derselbe Versions-Datensatz umbenannt. iOS hat 1.4.0 damit nie bekommen, deshalb nennt
+  `store/whatsnew-1.5.0-ios.json` alle sechs neuen Sprachen (Standard in `ios-submit.yml`).
+  ⚠ `android.yml` mit `texte=true` bricht bei einer neuen Sprache am Ende ab (400 auf `listings/ar-SA`), weil der
+  Play-Eintrag erst per `store-sprachen.yml` entsteht — das AAB ist dann trotzdem schon ausgerollt.
+  Bei der nächsten neuen Sprache zuerst `store-sprachen.yml`, dann `android.yml`.
 - **1.4.0 (23.10.2026):** 5 neue Sprachen – Koreanisch, Türkisch, Polnisch, Niederländisch, Indonesisch (jetzt 14).
   Oberfläche `js/strings/<sprache>.js` (Polnisch mit one/few/many/other), Inhalte über `translate/<sprache>/`,
   Store-Texte `translate/store-<sprache>.json` → `merge-store.py`, Screenshots `docs/screenshots/<sprache>/`.
