@@ -18,7 +18,7 @@ on:
       notes_file:
         description: '„Was ist neu"-Texte je Sprache'
         type: string
-        default: 'store/whatsnew-1.5.0.json'
+        default: 'store/whatsnew-1.5.0-ios.json'
       texte_file:
         description: 'Beschreibung und Werbetext je Sprache (leer = nicht ändern)'
         type: string
