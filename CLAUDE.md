@@ -54,6 +54,13 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
+- **1.5.0 (26.10.2026):** Arabisch als 15. Sprache, Ansicht von rechts nach links. `rtl: true` in `LANGS` setzt
+  `<html dir="rtl">`; das CSS nutzt nur logische Eigenschaften (`margin-inline-start`, `inset-inline-end`,
+  `text-align: start` …), Pfeil-Symbole werden per `[dir="rtl"] svg:has(> use[href="#i-arrow-…"])` gespiegelt.
+  `test/app.test.mjs` verbietet `left`/`right` im CSS (Ausnahme `left: 50%` zum Zentrieren). Locale `ar-u-nu-latn`
+  (westliche Ziffern wie im Inhalt; `ar-SA` gäbe arabisch-indische Ziffern). Pluralformen zero/one/two/few/many/other.
+  Store-Sprache ar-SA (Apple und Play). Dazu Sachfehler korrigiert: Algerien stand im Afrikanischen Jahr 1960
+  unter den „Siedlerkolonien im Süden“.
 - **1.4.0 (23.10.2026):** 5 neue Sprachen – Koreanisch, Türkisch, Polnisch, Niederländisch, Indonesisch (jetzt 14).
   Oberfläche `js/strings/<sprache>.js` (Polnisch mit one/few/many/other), Inhalte über `translate/<sprache>/`,
   Store-Texte `translate/store-<sprache>.json` → `merge-store.py`, Screenshots `docs/screenshots/<sprache>/`.
@@ -98,14 +105,14 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 - Die Vercel-Integration wurde am 11.10.2026 deinstalliert. Der alte rote Status
   „Vercel – Account is blocked“ an früheren Commits ist bedeutungslos.
-- **14 Sprachen** (seit 1.4.0): de, en, fr, es, it, pt (pt-BR), ru, ja, zh (Kurzzeichen), ko, tr, pl, nl, id. Inhalte wurden aus
+- **15 Sprachen** (seit 1.5.0): de, en, fr, es, it, pt (pt-BR), ru, ja, zh (Kurzzeichen), ko, tr, pl, nl, id, ar (RTL). Inhalte wurden aus
   `data/en` übersetzt: `translate/src` (Vorlage in Blöcken), `translate/<sprache>/` (Übersetzung),
   `node translate/check.mjs <sprache>` und `node translate/lint.mjs <sprache>` prüfen, dann
   `node scripts/i18n-apply.mjs <sprache> translate/<sprache>`. **Ändert sich ein deutscher/englischer Text,
   muss er in allen Sprachen nachgezogen werden** (Block neu extrahieren und übersetzen).
   Store-Texte je Sprache: `store/store-texte.json` (aus `translate/store-<sprache>.json` per
   `python3 translate/merge-store.py`, das auch App-Namen in iOS-`*.lproj` und Android-`values-*` schreibt).
-  Pluralformen über `Intl.PluralRules` (Russisch: *.one/*.few/*.other). Suche versteht Kyrillisch und CJK.
+  Pluralformen über `Intl.PluralRules` (Russisch: *.one/*.few/*.other, Arabisch alle sechs). Suche versteht Kyrillisch und CJK.
 - Store-Sprachen, Screenshots je Sprache, Standardsprache en-US und alle Länder (Apple): Workflow
   `store-sprachen.yml` (`scripts/asc-store.py`, `scripts/play-upload.py --store-sprachen`). Bei Google Play
   lassen sich Länder nicht per API freischalten (Play Console → Produktion → Länder/Regionen).

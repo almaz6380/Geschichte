@@ -19,7 +19,7 @@ export const LANGS = [
   { code: 'pl', name: 'Polski', locale: 'pl-PL', ready: true },
   { code: 'nl', name: 'Nederlands', locale: 'nl-NL', ready: true },
   { code: 'id', name: 'Bahasa Indonesia', locale: 'id-ID', ready: true },
-  { code: 'ar', name: 'العربية', locale: 'ar-u-nu-latn', ready: false, rtl: true },
+  { code: 'ar', name: 'العربية', locale: 'ar-u-nu-latn', ready: true, rtl: true },
 ];
 
 export const DEFAULT_LANG = 'de';
