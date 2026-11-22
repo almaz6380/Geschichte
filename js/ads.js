@@ -6,6 +6,7 @@
 // AdMob-Konto sperren — auch das der Mahjong-App, es ist dasselbe Konto.
 // Die App-IDs (nicht die Block-IDs) stehen zusätzlich nativ: android/app/src/main/AndroidManifest.xml
 // und ios/App/App/Info.plist (GADApplicationIdentifier). Übersicht: docs/WERBUNG.md.
+import { rundeBeendet } from './review.js';
 import { showToast, esc } from './ui.js';
 import { t } from './i18n.js';
 
@@ -171,10 +172,13 @@ function prepareInterstitial() {
 
 // Nach jedem Rundenende (Quiz, Duell, Tägliche Challenge, Spiele, Karten) aufrufen.
 // Die Anzeige ist vorgeladen und erscheint sofort, nicht erst Sekunden später über dem Ergebnis.
+// Danach fragt rundeBeendet() (review.js) höchstens, wenn keine Vollbildanzeige kam.
 export function roundFinished() {
   rounds++;
-  if (!ready || !interstitialReady) return;
-  if (rounds < INTERSTITIAL_FIRST_ROUND || Date.now() - lastInterstitial < INTERSTITIAL_GAP_MS) return;
+  const zeigt = ready && interstitialReady && rounds >= INTERSTITIAL_FIRST_ROUND
+    && Date.now() - lastInterstitial >= INTERSTITIAL_GAP_MS;
+  rundeBeendet(zeigt);
+  if (!zeigt) return;
   lastInterstitial = Date.now();
   interstitialReady = false;
   queue(() => AdMob().showInterstitial());
