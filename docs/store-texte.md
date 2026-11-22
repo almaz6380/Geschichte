@@ -59,6 +59,12 @@ UMFANG
 
 `geschichte,weltgeschichte,lernen,quiz,epochen,zeitleiste,antike,mittelalter,schule,abitur,wissen`
 
+## Versionshinweise (Release Notes) für 1.5.1
+
+Kleine Verbesserungen und Fehlerbehebungen. (Inhalt: Bitte um eine Store-Bewertung ab der fünften
+Runde, höchstens alle 90 Tage, nie zusammen mit einer Vollbildanzeige.) Texte in allen 15 Sprachen:
+`store/whatsnew-1.5.1.json`.
+
 ## Versionshinweise (Release Notes) für 1.5.0
 
 ```
