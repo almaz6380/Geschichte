@@ -54,11 +54,14 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
-- **1.5.1 (22.11.2026, vorbereitet, noch nicht gebaut):** Bitte um Store-Bewertung (`js/review.js`,
+- **1.5.1 (22.11.2026):** Bitte um Store-Bewertung (`js/review.js`,
   `@capacitor-community/in-app-review` 8.0.0): ab der 5. beendeten Runde, höchstens alle 90 Tage, nie im
   selben Moment wie eine Vollbildanzeige, nur nativ. Hängt an `roundFinished()` in `js/ads.js`.
   Versionshinweise `store/whatsnew-1.5.1.json` (15 Sprachen). Bauen: `android.yml` und `ios.yml`, dann
   `ios-submit.yml` (Standard-Notes zeigt schon auf 1.5.1).
+  **Ausgeliefert 22.11.2026:** Android in Produktion an alle (`android.yml` Lauf 45055859551), iOS Build 29
+  (`ios.yml` Lauf 45055862542) als 1.5.1 eingereicht, reviewSubmission `c6c85159-e28a-45a7-b367-5e6afb408f66`.
+  Apple schickte zu Build 29 eine Warnmail („issues with a recent delivery … Although delivery was successful“), Build ist VALID.
 - **1.5.0 (26.10.2026):** Arabisch als 15. Sprache, Ansicht von rechts nach links. `rtl: true` in `LANGS` setzt
   `<html dir="rtl">`; das CSS nutzt nur logische Eigenschaften (`margin-inline-start`, `inset-inline-end`,
   `text-align: start` …), Pfeil-Symbole werden per `[dir="rtl"] svg:has(> use[href="#i-arrow-…"])` gespiegelt.
