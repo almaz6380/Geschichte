@@ -295,6 +295,14 @@ export default {
   'more.privacy': 'プライバシーポリシー',
   'more.imprint': '法的情報',
 
+  'wellapps.title': 'WellApps のほかのアプリ',
+  'wellapps.sub.mahjong': '麻雀ソリティア、対戦、リーチ麻雀',
+  'wellapps.sub.fixthemix': 'ジュースバーで色を仕分け',
+  'wellapps.sub.anigosha': 'アニメクイズと対戦',
+  'wellapps.sub.swaply': '悪い習慣を良い習慣に置き換え',
+  'wellapps.sub.watten': 'アルプス伝統のカードゲーム',
+  'wellapps.sub.fullrep': 'トレーニングと食事の記録',
+
   'unit.day.one': '日',
   'unit.day.other': '日',
 

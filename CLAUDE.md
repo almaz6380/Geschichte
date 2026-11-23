@@ -24,6 +24,17 @@ Sprache im Projekt und mit dem Nutzer: **Deutsch**. Überblick über Inhalte und
   `AndroidManifest.xml` und `Info.plist` stehen (`test/ads.test.mjs` prüft das).
 - Inhalte: 25 Epochen, 1.300 Quizfragen (≥ 50 je Epoche, Tests erzwingen das).
 
+## „Mehr von WellApps“ (Querverweise auf die anderen eigenen Apps)
+
+- Bereich in der Ansicht „Mehr“ (`js/views/more.js`), zwischen „Einstellungen“ und „Über die App“.
+  Nie im Quiz, in Spielen oder Dialogen.
+- Tabelle mit Namen und Store-IDs: `js/wellapps.js` (eigene App `OWN_APP` wird ausgeblendet).
+  Symbole offline unter `icons/apps/<id>.webp`, Kurzzeilen `wellapps.sub.<id>` in allen 15 Sprachdateien.
+- Link: iOS (App oder iPhone/iPad-Browser) → App Store, sonst Google Play; `target="_blank"` wie die
+  Rechtslinks, öffnet in der nativen App außerhalb der WebView. Kein Tracking, kein Plugin.
+- Neue App: Zeile in `js/wellapps.js`, Symbol (144×144 WebP), `PRECACHE` + `VERSION` in `sw.js`,
+  Kurzzeile in allen Sprachen. **Die Liste wird in allen sieben Apps gleich gepflegt.**
+
 ## Version
 
 Steht an vier Stellen und muss gleich sein (`test/app.test.mjs` prüft das): `package.json`,

@@ -1,5 +1,5 @@
 /* Service Worker: Precache aller App-Dateien, cache-first mit Netz-Fallback. */
-const VERSION = 'wg-v16';
+const VERSION = 'wg-v17';
 const PRECACHE = [
   './',
   './index.html',
@@ -29,6 +29,7 @@ const PRECACHE = [
   './js/share.js',
   './js/ads.js',
   './js/review.js',
+  './js/wellapps.js',
   './js/views/home.js',
   './js/views/epochs.js',
   './js/views/epoch.js',
@@ -177,6 +178,12 @@ const PRECACHE = [
   './icons/icon-512.png',
   './icons/icon-maskable-512.png',
   './icons/apple-touch-icon.png',
+  './icons/apps/mahjong.webp',
+  './icons/apps/fixthemix.webp',
+  './icons/apps/anigosha.webp',
+  './icons/apps/swaply.webp',
+  './icons/apps/watten.webp',
+  './icons/apps/fullrep.webp',
 ];
 
 self.addEventListener('install', (event) => {

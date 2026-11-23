@@ -297,6 +297,14 @@ export default {
   'more.privacy': 'Datenschutzerklärung',
   'more.imprint': 'Impressum',
 
+  'wellapps.title': 'Mehr von WellApps',
+  'wellapps.sub.mahjong': 'Mahjong-Solitaire, Duelle & Riichi',
+  'wellapps.sub.fixthemix': 'Farben sortieren in der Saftbar',
+  'wellapps.sub.anigosha': 'Anime-Quiz & Duelle',
+  'wellapps.sub.swaply': 'Schlechte Gewohnheiten tauschen',
+  'wellapps.sub.watten': 'Kartenspiele mit dem doppeldeutschen Blatt',
+  'wellapps.sub.fullrep': 'Training & Ernährung tracken',
+
   'unit.day.one': 'Tag',
   'unit.day.other': 'Tage',
 

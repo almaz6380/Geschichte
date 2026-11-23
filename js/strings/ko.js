@@ -295,6 +295,14 @@ export default {
   'more.privacy': '개인정보 처리방침',
   'more.imprint': '법적 고지',
 
+  'wellapps.title': 'WellApps의 다른 앱',
+  'wellapps.sub.mahjong': '마작 솔리테어, 대결, 리치 마작',
+  'wellapps.sub.fixthemix': '주스 바에서 색깔 정리하기',
+  'wellapps.sub.anigosha': '애니메이션 퀴즈와 대결',
+  'wellapps.sub.swaply': '나쁜 습관을 좋은 습관으로 바꾸기',
+  'wellapps.sub.watten': '알프스 전통 카드 게임',
+  'wellapps.sub.fullrep': '운동과 식단 기록',
+
   'unit.day.one': '일',
   'unit.day.other': '일',
 

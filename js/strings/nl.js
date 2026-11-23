@@ -295,6 +295,14 @@ export default {
   'more.privacy': 'Privacyverklaring',
   'more.imprint': 'Colofon',
 
+  'wellapps.title': 'Meer van WellApps',
+  'wellapps.sub.mahjong': 'Mahjong solitaire, duels en Riichi',
+  'wellapps.sub.fixthemix': 'Kleuren sorteren in de sapbar',
+  'wellapps.sub.anigosha': 'Animequiz en duels',
+  'wellapps.sub.swaply': 'Ruil slechte gewoontes voor goede',
+  'wellapps.sub.watten': 'Klassieke Alpenkaartspellen',
+  'wellapps.sub.fullrep': 'Training en voeding bijhouden',
+
   'unit.day.one': 'dag',
   'unit.day.other': 'dagen',
 

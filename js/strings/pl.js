@@ -315,6 +315,14 @@ export default {
   'more.privacy': 'Polityka prywatności',
   'more.imprint': 'Nota prawna',
 
+  'wellapps.title': 'Więcej od WellApps',
+  'wellapps.sub.mahjong': 'Mahjong pasjans, pojedynki i Riichi',
+  'wellapps.sub.fixthemix': 'Sortowanie kolorów w barze z sokami',
+  'wellapps.sub.anigosha': 'Quiz o anime i pojedynki',
+  'wellapps.sub.swaply': 'Zamień złe nawyki na dobre',
+  'wellapps.sub.watten': 'Klasyczne alpejskie gry karciane',
+  'wellapps.sub.fullrep': 'Dziennik treningu i odżywiania',
+
   'unit.day.one': 'dzień',
   'unit.day.few': 'dni',
   'unit.day.many': 'dni',
