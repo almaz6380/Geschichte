@@ -6,6 +6,7 @@ import { showToast } from '../ui.js';
 import { APP_VERSION } from '../version.js';
 import { t, plural, getLang } from '../i18n.js';
 import { hasPrivacyOptions, showPrivacyOptions } from '../ads.js';
+import { otherApps, storeUrl } from '../wellapps.js';
 
 // ⚠ Adresse der Web-Fassung, auf die die native App fuer Datenschutz und
 // Impressum verlinkt. Seit 28.09.2026 GitHub Pages statt Vercel: Vercel hatte
@@ -24,6 +25,14 @@ function legalLink(de, en, label) {
   const file = getLang() === 'de' ? de : en;
   const native = window.wgIsNative;
   return `<a class="btn btn-small" href="${native ? WEB_BASE + file : './' + file}"${native ? ' target="_blank" rel="noopener"' : ''}>${esc(label)}</a>`;
+}
+
+// Eine Zeile je App; öffnet die Store-Seite außerhalb der App (wie die Rechtslinks: target="_blank").
+function wellAppRow(app) {
+  return `<li><a class="wellapp" href="${storeUrl(app)}" target="_blank" rel="noopener">
+    <img src="./icons/apps/${app.id}.webp" alt="" width="48" height="48" loading="lazy">
+    <span><span class="title">${esc(app.name)}</span><span class="sub">${esc(t(app.sub))}</span></span>
+  </a></li>`;
 }
 
 // Nur Lesezeichen zählen, deren Inhalt es (noch) gibt – wie auf der Lesezeichen-Seite.
@@ -79,6 +88,11 @@ export function render(el) {
           <button type="button" class="btn btn-small" id="more-refresh">${esc(t('more.offline.action'))}</button>
         </div>` : ''}
       </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">${esc(t('wellapps.title'))}</h2>
+      <ul class="card wellapps">${otherApps().map(wellAppRow).join('')}</ul>
     </section>
 
     <section class="section">

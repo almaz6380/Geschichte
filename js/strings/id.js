@@ -296,6 +296,14 @@ export default {
   'more.privacy': 'Kebijakan privasi',
   'more.imprint': 'Informasi hukum',
 
+  'wellapps.title': 'Lainnya dari WellApps',
+  'wellapps.sub.mahjong': 'Mahjong solitaire, duel & Riichi',
+  'wellapps.sub.fixthemix': 'Menyortir warna di bar jus',
+  'wellapps.sub.anigosha': 'Kuis anime & duel',
+  'wellapps.sub.swaply': 'Ganti kebiasaan buruk dengan yang baik',
+  'wellapps.sub.watten': 'Permainan kartu klasik Alpen',
+  'wellapps.sub.fullrep': 'Pencatat latihan & nutrisi',
+
   'unit.day.one': 'hari',
   'unit.day.other': 'hari',
 

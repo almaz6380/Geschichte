@@ -295,6 +295,14 @@ export default {
   'more.privacy': 'Gizlilik politikası',
   'more.imprint': 'Yasal bilgiler',
 
+  'wellapps.title': 'WellApps\'ten daha fazlası',
+  'wellapps.sub.mahjong': 'Mahjong solitaire, düellolar ve Riichi',
+  'wellapps.sub.fixthemix': 'Meyve suyu barında renk sıralama',
+  'wellapps.sub.anigosha': 'Anime bilgi yarışması ve düellolar',
+  'wellapps.sub.swaply': 'Kötü alışkanlıkları iyileriyle değiştir',
+  'wellapps.sub.watten': 'Klasik Alp kart oyunları',
+  'wellapps.sub.fullrep': 'Antrenman ve beslenme takibi',
+
   'unit.day.one': 'gün',
   'unit.day.other': 'gün',
 

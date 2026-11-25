@@ -305,6 +305,14 @@ export default {
   'more.privacy': 'Политика конфиденциальности',
   'more.imprint': 'Выходные данные',
 
+  'wellapps.title': 'Ещё от WellApps',
+  'wellapps.sub.mahjong': 'Маджонг-пасьянс, дуэли и риичи',
+  'wellapps.sub.fixthemix': 'Сортировка цветов в сок-баре',
+  'wellapps.sub.anigosha': 'Аниме-викторина и дуэли',
+  'wellapps.sub.swaply': 'Замените вредные привычки полезными',
+  'wellapps.sub.watten': 'Классические альпийские карточные игры',
+  'wellapps.sub.fullrep': 'Трекер тренировок и питания',
+
   'unit.day.one': 'день',
   'unit.day.few': 'дня',
   'unit.day.other': 'дней',

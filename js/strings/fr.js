@@ -295,6 +295,14 @@ export default {
   'more.privacy': 'Politique de confidentialité',
   'more.imprint': 'Mentions légales',
 
+  'wellapps.title': 'Plus de WellApps',
+  'wellapps.sub.mahjong': 'Mahjong solitaire, duels et Riichi',
+  'wellapps.sub.fixthemix': 'Trier les couleurs au bar à jus',
+  'wellapps.sub.anigosha': 'Quiz anime et duels',
+  'wellapps.sub.swaply': 'Remplacer ses mauvaises habitudes',
+  'wellapps.sub.watten': 'Jeux de cartes alpins classiques',
+  'wellapps.sub.fullrep': 'Suivi sport et nutrition',
+
   'unit.day.one': 'jour',
   'unit.day.other': 'jours',
 

@@ -336,6 +336,14 @@ export default {
   'more.privacy': 'سياسة الخصوصية',
   'more.imprint': 'البيانات القانونية',
 
+  'wellapps.title': 'المزيد من WellApps',
+  'wellapps.sub.mahjong': 'ماهجونغ سوليتير ومبارزات وريتشي',
+  'wellapps.sub.fixthemix': 'فرز الألوان في بار العصائر',
+  'wellapps.sub.anigosha': 'مسابقة أنمي ومبارزات',
+  'wellapps.sub.swaply': 'استبدل العادات السيئة بعادات جيدة',
+  'wellapps.sub.watten': 'ألعاب ورق كلاسيكية من جبال الألب',
+  'wellapps.sub.fullrep': 'متابعة التمارين والتغذية',
+
   'unit.day.zero': 'يوم',
   'unit.day.one': 'يوم',
   'unit.day.two': 'يومان',

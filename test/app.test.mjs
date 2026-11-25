@@ -90,3 +90,23 @@ test('CSS spiegelt sich für Arabisch: keine physischen Links/Rechts-Abstände',
     });
   }
 });
+
+test('Mehr von WellApps: sechs andere Apps, Symbole offline, Store-Links je Plattform', async () => {
+  const { existsSync } = await import('node:fs');
+  const { otherApps, storeUrl, isIos, OWN_APP } = await import('../js/wellapps.js');
+  const de = (await import('../js/strings/de.js')).default;
+  const sw = read('sw.js');
+  const apps = otherApps();
+  assert.equal(apps.length, 6);
+  assert.ok(!apps.some((a) => a.id === OWN_APP));
+  for (const a of apps) {
+    assert.ok(existsSync(new URL(`../icons/apps/${a.id}.webp`, import.meta.url)), `Symbol fehlt: ${a.id}`);
+    assert.ok(sw.includes(`'./icons/apps/${a.id}.webp'`), `nicht vorab gespeichert: ${a.id}`);
+    assert.ok(de[a.sub], `Kurzzeile fehlt: ${a.sub}`);
+  }
+  assert.equal(storeUrl(apps[0], true), 'https://apps.apple.com/app/id6787721454');
+  assert.equal(storeUrl(apps[0], false), 'https://play.google.com/store/apps/details?id=com.mahjongroyale.app');
+  assert.equal(isIos({ navigator: { userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X)' } }), true);
+  assert.equal(isIos({ navigator: { userAgent: 'Mozilla/5.0 (Linux; Android 15)' } }), false);
+  assert.equal(isIos({ Capacitor: { getPlatform: () => 'android' }, navigator: { userAgent: 'iPhone' } }), false);
+});

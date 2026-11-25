@@ -295,6 +295,14 @@ export default {
   'more.privacy': '隐私政策',
   'more.imprint': '法律声明',
 
+  'wellapps.title': '更多 WellApps 应用',
+  'wellapps.sub.mahjong': '麻将接龙、对战与立直麻将',
+  'wellapps.sub.fixthemix': '在果汁吧给颜色分类',
+  'wellapps.sub.anigosha': '动漫问答与对战',
+  'wellapps.sub.swaply': '用好习惯替换坏习惯',
+  'wellapps.sub.watten': '经典阿尔卑斯纸牌游戏',
+  'wellapps.sub.fullrep': '训练与饮食记录',
+
   'unit.day.one': '天',
   'unit.day.other': '天',
 

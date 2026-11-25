@@ -200,6 +200,17 @@ mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: in
 .setting-row .sub { display: block; font-size: 0.85rem; color: var(--text-muted); }
 .about .stats-row { margin: 12px 0; }
 
+/* Mehr von WellApps: die anderen Apps des Studios */
+.wellapps { list-style: none; margin: 0; padding: 4px 16px; }
+.wellapps li { border-bottom: 1px solid var(--border); }
+.wellapps li:last-child { border-bottom: 0; }
+.wellapp { display: flex; align-items: center; gap: 14px; padding: 12px 0; color: inherit; }
+.wellapp:hover { text-decoration: none; }
+.wellapp img { width: 48px; height: 48px; border-radius: 22%; flex-shrink: 0; }
+.wellapp > span { min-width: 0; }
+.wellapp .title { display: block; font-weight: 700; overflow-wrap: anywhere; }
+.wellapp .sub { display: block; font-size: 0.85rem; color: var(--text-muted); overflow-wrap: anywhere; }
+
 /* Eyebrow / Personenkopf */
 .eyebrow { display: inline-flex; align-items: center; gap: 8px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 4px; }
 .eyebrow .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--epoch-color, var(--accent)); }
