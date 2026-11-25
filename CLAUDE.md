@@ -65,6 +65,11 @@ Bei neuer Version: Versionshinweise in `docs/store-texte.md` und `store/whatsnew
 
 ## Release-Stand
 
+- **1.5.2 (25.11.2026):** bringt „Mehr von WellApps“ (seit b5e1e69 nur im Web) in die Store-Apps.
+  Versionshinweise `store/whatsnew-1.5.2.json` (15 Sprachen). Android **versionCode 20 in Produktion an alle**
+  (`android.yml` Lauf 45676919372). ⚠ Der Lauf endet rot: Nach dem Commit des Releases bricht der
+  Texte-Abgleich mit 400 an `listings/ar-SA` ab („language not supported“, Play führt Arabisch als `ar`).
+  Das Release ist trotzdem draußen. Behoben: `PLAY_SPRACHE` in `scripts/play-upload.py` (ar-SA → ar). iOS Build 30 (`ios.yml` Lauf 45676925636) hochgeladen.
 - **1.5.1 (22.11.2026):** Bitte um Store-Bewertung (`js/review.js`,
   `@capacitor-community/in-app-review` 8.0.0): ab der 5. beendeten Runde, höchstens alle 90 Tage, nie im
   selben Moment wie eine Vollbildanzeige, nur nativ. Hängt an `roundFinished()` in `js/ads.js`.

@@ -244,6 +244,10 @@ def lade_screenshots(tok, verzeichnis, lang, dry_run=False, image_type='phoneScr
 LISTING_LIMITS = {'title': 30, 'shortDescription': 80, 'fullDescription': 4000}
 
 
+# Sprachcodes, die Play anders schreibt als store-texte.json (Apple-Schreibweise).
+PLAY_SPRACHE = {'ar-SA': 'ar'}
+
+
 def setze_listing(tok, datei, lang, dry_run=False, daten=None):
     """Titel, Kurz- und Volltext des Store-Eintrags setzen.
 
@@ -326,7 +330,8 @@ def setze_texte(tok, datei, dry_run=False):
         # Den Titel nur, wenn die Datei ihn mitbringt (store/store-texte.json laesst ihn weg).
         if 'name' in t:
             daten['title'] = t['name']
-        setze_listing(tok, None, lang, dry_run, daten=daten)
+        # Play fuehrt Arabisch als 'ar', nicht 'ar-SA' (400 "language not supported").
+        setze_listing(tok, None, PLAY_SPRACHE.get(lang, lang), dry_run, daten=daten)
         print()
 
 
