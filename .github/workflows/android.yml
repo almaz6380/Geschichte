@@ -20,7 +20,7 @@ on:
       notes:
         description: 'Was-ist-neu-Text (de-DE, max. 500 Zeichen)'
         type: string
-        default: 'Kleine Verbesserungen und Fehlerbehebungen.'
+        default: 'Neu unter „Mehr“: unsere anderen Apps auf einen Blick. Kleine Verbesserungen.'
       texte:
         description: 'Store-Texte (Kurzbeschreibung, Beschreibung) aus store/store-texte.json setzen'
         type: boolean
