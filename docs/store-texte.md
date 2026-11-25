@@ -59,6 +59,11 @@ UMFANG
 
 `geschichte,weltgeschichte,lernen,quiz,epochen,zeitleiste,antike,mittelalter,schule,abitur,wissen`
 
+## Versionshinweise (Release Notes) für 1.5.2
+
+Neu unter „Mehr“: unsere anderen Apps auf einen Blick. Kleine Verbesserungen. (Inhalt: Bereich
+„Mehr von WellApps“.) Texte in allen 15 Sprachen: `store/whatsnew-1.5.2.json`.
+
 ## Versionshinweise (Release Notes) für 1.5.1
 
 Kleine Verbesserungen und Fehlerbehebungen. (Inhalt: Bitte um eine Store-Bewertung ab der fünften
